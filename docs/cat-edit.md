@@ -3577,3 +3577,33 @@ Style: High-detail Japanese anime illustration, glossy eyes, polished linework, 
 
 ---
 
+### 🔧 例 6399：时尚杂志风穿搭拆解
+
+![时尚杂志风穿搭拆解](../images/%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%A3%8E%E7%A9%BF%E6%90%AD%E6%8B%86%E8%A7%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为原始穿搭照片，将镜面自拍风格的穿搭展示转化为杂志风格的穿搭拆解图，同时保留原图中的人物、姿势、房间背景及所穿服饰作为核心主体。在顶部添加醒目的时尚排版标题 {argument name="headline text" default="今日穿搭"}，并在其下方添加一行手写风格的小字副标题 {argument name="subtitle text" default="我的穿搭"}。
+
+从主体穿着的服饰中提取并隔离出 6 件服装/配饰，以带有米白色贴纸轮廓的剪贴画形式呈现，并用细白线指向主体身上对应的单品：1) 外套，2) 裤子，3) 运动鞋，4) 冷帽，5) 太阳镜，6) 项链。将这些剪贴画环绕在主体周围：外套置于左上，裤子置于左下，运动鞋置于左下角，冷帽置于右上，太阳镜置于右中，项链置于右下。
+
+在每件单品旁添加紧凑的大写标签，采用杂志目录风格标注品牌与价格：JACKET — KOVI — $128；PANTS — SENKO — $94；SNEAKERS — VYRO — $145；BEANIE — NOMA — $38；SUNGLASSES — AERI — $72；NECKLACE — MOTIF — $46。标签请使用 {argument name="label style" default="紧凑型黑色大写时尚字体"}，并保持粗粝的高对比度剪贴画拼贴风格。
+
+保持背景照片的可辨识度，必要时可适当调暗以提升可读性，且不要凭空添加除这 6 件可见单品之外的其他服装。保持垂直社交媒体杂志海报的构图，确保排版整洁，除参考图本身已有的内容外，不要添加额外的 Logo 或水印。
+
+[English]
+Using REFERENCE_0 as the source outfit photo, turn the mirror-style fit check into an editorial magazine outfit breakdown while keeping the original person, pose, room photo, and worn outfit visible as the central base image. Add a bold fashion-layout overlay with the headline {argument name="headline text" default="TODAY’S FIT"} at the top and a small handwritten subtitle {argument name="subtitle text" default="what I’m wearing"} beneath it.
+
+Extract and isolate exactly 6 clothing/accessory items from what the subject is wearing, presenting them as cutout product callouts with off-white sticker outlines and thin white leader lines pointing back to the matching item on the subject: 1) jacket, 2) pants, 3) sneakers, 4) beanie, 5) sunglasses, 6) necklace. Arrange the cutouts around the subject: jacket upper left, pants lower left, sneakers bottom left, beanie upper right, sunglasses mid-right, necklace lower right.
+
+Add compact uppercase labels next to each item with brand and price in an editorial catalog style: JACKET — KOVI — $128; PANTS — SENKO — $94; SNEAKERS — VYRO — $145; BEANIE — NOMA — $38; SUNGLASSES — AERI — $72; NECKLACE — MOTIF — $46. Use {argument name="label style" default="condensed black uppercase fashion typography"} for the labels and preserve the gritty high-contrast cutout collage look.
+
+Keep the background photo recognizable, slightly darkened where needed for readability, and do not invent extra garments beyond the 6 visible outfit pieces. Maintain a vertical social-media editorial poster composition with clean spacing and no additional logos or watermarks beyond what is already present in the reference.
+```
+
+**来源：** [@Magnific](https://x.com/magnific/status/2089729810176319778) | 2026-08-18
+
+---
+

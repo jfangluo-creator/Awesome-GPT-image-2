@@ -17544,3 +17544,143 @@ Hyperrealistic outdoor photography, cinematic golden-hour lighting, eye-level pe
 
 ---
 
+### 🏷️ 例 6392：混合媒介故障城市艺术
+
+![混合媒介故障城市艺术](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%95%85%E9%9A%9C%E5%9F%8E%E5%B8%82%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅关于 {argument name="subject" default="所选模型"} 的混合媒介城市艺术画作，以高对比度的单色摄影风格呈现。主体人物被背景中充满活力的 {argument name="colors" default="霓虹粉色和橙色"} 色块所包围，这些色块因数字故障效果而产生错位条纹。无数黑色和紫红色的线条、涂鸦及抽象形状在构图中纵横交错并向下滴落，霓虹粉色的颜料溅落在人物身上。整体风格原始、具有城市感且充满表现力，将人体形态与数字噪点及涂鸦图形融为一体。画面表面呈现出清晰的颜料和丝网印刷质感。
+
+[English]
+A mixed-media urban art painting of the {argument name="subject" default="attached model"}, rendered in a high-contrast, monochromatic photographic style. The figure is surrounded by a chaotic background of vibrant {argument name="colors" default="neon pink and orange"} blocks, distorted by a digital glitch effect with misaligned stripes. Countless black and fuchsia lines, scribbles, and abstract shapes crisscross and drip through the composition, with splashes of neon pink paint dripping onto the figure. The style is raw, urban, and expressionistic, merging the human form with digital noise and graffiti graphics. The surface has visible paint and screen-print textures.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2089796321595232269) | 2026-08-18
+
+---
+
+### 🏷️ 例 6403：抖动粉色骷髅像素艺术
+
+![抖动粉色骷髅像素艺术](../images/%E6%8A%96%E5%8A%A8%E7%B2%89%E8%89%B2%E9%AA%B7%E9%AB%85%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形像素艺术/抖动研究作品，主体为侧视图的人类骷髅，背景为纯色 {argument name="background color" default="泡泡糖粉色"}。骷髅应朝向左侧，位于中心偏下方，长长的水平下颚延伸至右侧边缘。使用 8 位半色调 ASCII 风格的抖动技术，由微小的深蓝色符号、点、十字、加号和块状字形组成，而非平滑的阴影。骷髅由两种主要色调构成：浅半透明粉色填充和密集的 {argument name="dither color" default="深钴蓝色"} 点画。包含 4 个明显的深色解剖特征：一个高椭圆形的左眼眶、一个大圆形右眼眶、一个位于两者之间及下方的圆形小三角形鼻腔，以及下颚处的一条长方形牙齿带。颅骨宽大圆润，右后方区域蓝色阴影最密集，并向左上额头逐渐过渡为稀疏的点。下颚是一块从骷髅延伸至右边界的长方形点状团块。在整个图像上添加微妙的水平扫描线纹理，类似于 CRT 显示器或低分辨率打印条纹。保持构图极简、居中、具有图形感和实验性，不要包含任何文字、边框、水印或其他额外物体。
+
+[English]
+Create a square pixel-art/dither study of a side-view human skull on a flat {argument name="background color" default="bubblegum pink"} background. The skull should face left and sit slightly below center, with a long horizontal lower jaw extending to the right edge. Use an 8-bit halftone ASCII-like dither technique made from tiny dark-blue symbols, dots, crosses, plus signs, and blocky glyph marks rather than smooth shading. The skull is composed of two main tones: pale translucent pink fill and dense {argument name="dither color" default="deep cobalt blue"} stippling. Include exactly 4 prominent dark anatomical features: one tall oval left eye socket, one large round right eye socket, one small rounded triangular nose cavity between and below them, and one rectangular band of teeth along the lower jaw. The cranium is large and rounded, with the right rear area shaded most densely in blue, fading into sparse dots across the upper left forehead. The lower jaw is a long rectangular dotted mass running from the skull toward the right border. Add subtle horizontal scanline texture across the entire image, like CRT or low-resolution print banding. Keep the composition minimal, centered, graphic, and experimental, with no text, no border, no watermark, and no additional objects.
+```
+
+**来源：** [@Matteo](https://x.com/matteitoooo/status/2089722585592250433) | 2026-08-18
+
+---
+
+### 🏷️ 例 6412：漆黑房间里熟睡的女孩
+
+![漆黑房间里熟睡的女孩](../images/%E6%BC%86%E9%BB%91%E6%88%BF%E9%97%B4%E9%87%8C%E7%86%9F%E7%9D%A1%E7%9A%84%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫风格插画，描绘一位年轻女性在近乎漆黑的房间里安详入睡的场景。视角采用略微俯视的斜角，展示她侧身蜷缩在凌乱白色床单上的全身姿态。她留着 {argument name="hair color" default="深藏青黑色"} 的中长发，松散地扎成低马尾，几缕碎发垂在脸颊两侧；她双眼紧闭，睫毛柔和，神情放松而困倦，嘴唇微张。她身穿 {argument name="pajama color" default="淡天蓝色"} 的长袖扣式睡衣，带有白色滚边、一个小胸袋以及配套的宽松长裤；她的赤脚在画面底部隐约可见。一条厚实的白色毯子盖在她的腰部和腿上，映衬出冷蓝色的阴影。在她身后有 3 个清晰可见的粉色枕头：一个大枕头在头后，一个大枕头在右侧，还有一个较小的枕头在更右侧，仅露出部分。床铺铺着带有淡蓝灰色阴影和边缘处些许粉色的褶皱白床单。床后的背景是一面平坦的深黑色墙壁或黑暗空间，突显出床铺是唯一被照亮的区域。采用戏剧性的低调照明，床品和面部带有柔和的高光，强烈的黑色负空间，细腻的蓝灰色阴影，以及现代动漫手绘风格，线条干净利落，带有绘画感的排线，柔和的粉彩色调，真实的褶皱，营造出一种安静而私密的夜晚氛围。在右下角添加一个小的手写艺术家签名，内容为 {argument name="signature text" default="HALF_DONE"}。画面中不包含额外的家具、窗户、灯具，除签名外不含任何文字。
+
+[English]
+Create a vertical anime-style illustration of a young woman sleeping peacefully on a bed in an almost pitch-black room. The scene is viewed from a slightly elevated diagonal angle, showing her full body curled on her side across rumpled white sheets. She has {argument name="hair color" default="dark navy-black"} medium-long hair tied loosely in a low ponytail with loose bangs framing her face, closed eyes, soft eyelashes, and a relaxed sleepy expression with slightly parted lips. She wears {argument name="pajama color" default="pale sky blue"} long-sleeve button-up pajamas with white piping, a small chest pocket, and matching loose pants; her bare feet are visible near the bottom of the frame. A thick white blanket is draped over her waist and legs, catching cool blue shadows. Behind her are exactly 3 visible pink pillows: one large pillow behind her head, one large pillow to the right, and one smaller partially visible pillow farther right. The bed has white wrinkled sheets with pale blue-gray shadows and a few pink areas at the edges. The background beyond the bed is a flat deep black wall or darkness, emphasizing the bed as the only illuminated area. Use dramatic low-key lighting with soft highlights on the bedding and face, strong black negative space, subtle blue-gray shading, and a hand-drawn modern anime illustration style with clean ink lines, painterly crosshatching, muted pastel colors, realistic folds, and a quiet intimate nighttime mood. Add a small handwritten artist signature reading {argument name="signature text" default="HALF_DONE"} in the lower right corner. No extra furniture, no windows, no lamps, no text other than the signature.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2089694099725316493) | 2026-08-18
+
+---
+
+### 🏷️ 例 6414：金色“嘘”动漫贵族肖像
+
+![金色“嘘”动漫贵族肖像](../images/%E9%87%91%E8%89%B2%E2%80%9C%E5%98%98%E2%80%9D%E5%8A%A8%E6%BC%AB%E8%B4%B5%E6%97%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的竖版动漫主视觉图，主角是一位中性优雅的年轻贵族，留着 {argument name="hair color" default="银白色"} 的凌乱中长发，带有长卷侧鬓，并用黑色小丝带扎着低侧马尾。角色拥有明亮的 {argument name="eye color" default="金琥珀色"} 双眼，皮肤白皙，表情沉静而神秘。一只戴着白色手套的食指竖在唇边做出“嘘”的手势，另一只戴手套的手轻轻触碰手腕。身着精致的黑色礼服，配有金色滚边、白衬衫、黑领带、马甲、袖扣和合身的白手套。采用胸部以上的近景构图，居中，略微仰视，面部位于 9:16 画面的中上方。背景为类似古老教堂或庄园大厅的阴暗室内，角色身后有高大的拱窗，强烈的暖色夕阳从左侧及后方射入，在发丝间形成金色轮廓光，带有发光边缘、尘埃微粒、漂浮的深色花瓣或灰烬碎片，以及电影级镜头光晕。视觉风格：高细节现代动漫插画、精美的线条、油画质感的阴影、柔和的明亮高光、暖琥珀色与深黑色的配色方案、戏剧性的明暗对比、空灵的氛围、优雅的哥特奇幻风格。无文字，无水印，无多余角色。
+
+[English]
+Create a dramatic vertical anime key visual of an androgynous elegant young noble with {argument name="hair color" default="silvery white"} tousled medium-length hair, long curled side locks, and a low side ponytail tied with a small black ribbon. The character has luminous {argument name="eye color" default="golden amber"} eyes, pale skin, a calm mysterious expression, and holds one white-gloved index finger vertically against their lips in a “shh” gesture while the other gloved hand lightly touches the wrist. Dress them in a refined black formal suit with gold piping, white shirt, black tie, vest, cuff buttons, and fitted white gloves. Use a close-up portrait composition from chest up, centered, slightly low angle, with the face occupying the upper middle of a 9:16 canvas. The setting is a grand shadowy interior resembling an old cathedral or manor hall, with tall arched windows behind the character and intense warm sunset light pouring in from the left and behind, creating golden rim lighting through the hair, glowing edges, dust motes, floating dark petal or ash-like fragments, and cinematic lens flare. Visual style: high-detail modern anime illustration, beautiful linework, painterly shading, soft luminous highlights, warm amber and deep black color palette, dramatic chiaroscuro, ethereal atmosphere, elegant gothic fantasy mood. No text, no watermark, no extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2089687299063984264) | 2026-08-18
+
+---
+
+### 🏷️ 例 6415：哥特都市水墨插画
+
+![哥特都市水墨插画](../images/%E5%93%A5%E7%89%B9%E9%83%BD%E5%B8%82%E6%B0%B4%E5%A2%A8%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张采用 {argument name="style" default="哥特与都市风格"} 的数字插画，主角为附带的模型。图像使用了严格的 {argument name="colors" default="白、黑与鲜红色"} 配色方案。服装上浸染着强烈的红色有机飞溅效果、滴落痕迹以及散乱的形状，这些元素极具侵略性地延伸至纯白背景中，宛如墨水爆炸。地面是一片红色与黑色颜料交织的混乱水洼。在右侧的白色背景上，堆叠着文字：顶部单词为浅灰色的 "{argument name="text" default="HER19845"}"。光影效果戏剧化且对比强烈。构图呈垂直状，呈现出暗黑时尚概念艺术的风格。
+
+[English]
+A digital illustration in a {argument name="style" default="gothic and urban style"} featuring the attached model. The image uses a strict palette of {argument name="colors" default="white, black, and vibrant red"}. The clothing is saturated with organic splashes of intense red, drips, and scattered shapes that aggressively extend into the pure white background, resembling explosions of ink. The floor is a chaotic puddle of red and black paint. To the right, against the white background, is stacked text: the top word "{argument name="text" default="HER19845"}" in light gray. The lighting is dramatic and high-contrast. The composition is vertical and stylized like dark fashion concept art.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2089686098611933534) | 2026-08-18
+
+---
+
+### 🏷️ 例 6428：奢华时尚旅行大片
+
+![奢华时尚旅行大片](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%97%85%E8%A1%8C%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的照片作为精确的视觉参考。严格保留女性的身份特征，包括面部结构、脸型、眼睛、眉毛、鼻子、嘴唇、下颌线、肤色、自然发际线和真实表情。请勿更改面部或创建其他人物。
+创作一张超写实、高端奢华的旅行时尚大片，主角为同一位美丽的南亚女性，她正站在独家现代的 {argument name="location" default="日本海滨机场航站楼"}，背景是金色夕阳。她身穿一件精致的 {argument name="outfit" default="黑色、象牙白与香槟金配色的奢华设计师风格缎面裹身裙"}，裙身饰有优雅的仙鹤与花卉图案，搭配宽大的飘逸袖口、束腰系带以及极具戏剧性的拖地长裙摆。面料需呈现出高级、丝滑且高度细腻的质感。
+她的头发是长款、蓬松且富有光泽的 {argument name="hair style" default="深棕色波浪卷发"}，打理成迷人的柔和波浪，并采用自然的中分造型。她佩戴着优雅的个性耳环、精致的项链和考究的奢华配饰。脚穿简约的黑色细带高跟凉鞋，尽显优雅的设计师风范。
+她自信地站在奢华行李箱旁，一只手自然地握住行李箱拉杆，另一只手轻轻触碰头发。她的姿态应显得从容、优雅且干练。她正视镜头，带着柔和、自信的微笑。
+核心亮点：奢华旅行造型、高级缎面裙、黑金仙鹤印花、优雅高跟鞋、设计师款行李箱、迷人波浪卷发、精致姿态、日本机场氛围、夕阳海滨景观、背景中的飞机。
+背景呈现出令人惊叹的奢华日本机场航站楼，俯瞰海洋，地面光洁如镜，采用现代玻璃建筑风格，配有优雅的出发指示牌，室内灯光温暖，远处的旅客呈现柔和的虚化效果，窗外可见帆船与平静的水面、地平线上的山脉，以及一架商业客机在戏剧性的金橙色夕阳天空中起飞。
+运用电影级的黄金时刻光影，使温暖的反射光洒在光洁的地面上，发丝周围带有柔和的轮廓光，并呈现出真实的空气感深度。奢华国际旅行杂志摄影，高端时尚大片，精致的日本美学，写实的皮肤纹理，逼真的缎面材质，自然的手部和手指，真实的行李箱，电影级浅景深，高动态范围，主体清晰，细节极其丰富，8K 画质，9:16 竖屏人像。
+负面提示词：更改面部、身份不符、面部特征扭曲、眼睛不真实、笑容不自然、手部畸形、多指、缺指、手指变形、行李箱扭曲、飞机扭曲、物体重复、服装杂乱、塑料感皮肤、妆容过重、卡通、CGI、图像模糊、低分辨率、色彩过饱和、水印、文字、Logo。
+
+[English]
+Use the uploaded photo as the exact visual reference. Preserve the woman’s identity exactly, including facial structure, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, natural hairline and authentic expression. Do not change the face or create a different person.
+Create an ultra-realistic, high-end luxury travel fashion editorial portrait of the same beautiful South Asian woman standing at an exclusive modern {argument name="location" default="Japanese waterfront airport terminal"} during golden sunset. She is wearing a sophisticated {argument name="outfit" default="black, ivory and champagne-gold luxury designer-inspired satin wrap dress"}, featuring elegant crane and floral patterns, wide flowing sleeves, a defined waist tie and a dramatic floor-length flowing silhouette. The fabric should look premium, silky and highly detailed.
+Her hair is long, voluminous, glossy {argument name="hair style" default="dark-brown wavy hair"}, styled in glamorous soft waves with a natural center part. She is wearing elegant statement earrings, a delicate necklace and refined luxury accessories. Her footwear is minimal black strappy high-heel sandals with an elegant designer look.
+She is standing confidently beside her luxury luggage, one hand naturally holding the handle of the suitcase while the other gently touches her hair. Her pose should look effortless, graceful and sophisticated. She is looking directly at the camera with a soft, confident smile.
+Key highlights: luxury travel styling, premium satin dress, black-and-gold crane print, elegant high heels, designer-style luggage, glamorous wavy hair, sophisticated pose, Japanese airport atmosphere, sunset waterfront view, airplane in the background.
+The background features a stunning luxury Japanese airport terminal overlooking the ocean, polished reflective floors, modern glass architecture, elegant departure signage, warm interior lighting, travelers softly blurred in the distance, sailboats and calm water outside, mountains on the horizon and a commercial airplane taking off against a dramatic golden-orange sunset sky.
+Use cinematic golden-hour lighting with warm reflections across the polished floor, soft rim light around her hair and realistic atmospheric depth. Luxury international travel magazine photography, premium fashion campaign, sophisticated Japanese aesthetic, photorealistic skin texture, realistic satin fabric, natural hands and fingers, realistic luggage, cinematic shallow depth of field, high dynamic range, sharp subject, extremely detailed, 8K quality, vertical 9:16 portrait.
+Negative prompt: changed face, different identity, distorted facial features, unrealistic eyes, unnatural smile, bad hands, extra fingers, missing fingers, deformed fingers, distorted luggage, distorted airplane, duplicate objects, messy clothing, plastic skin, excessive makeup, cartoon, CGI, blurry image, low resolution, oversaturated colors, watermark, text, logo.
+```
+
+**来源：** [@KrishnaG](https://x.com/KrishnaBio1/status/2089648783546011910) | 2026-08-18
+
+---
+
+### 🏷️ 例 6460：品牌金句海报
+
+![品牌金句海报](../images/%E5%93%81%E7%89%8C%E9%87%91%E5%8F%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+围绕任意主题内容构建以引语为核心的品牌金句海报，先把画面组织为一块几乎占满视野的深色圆角信息面板，并在中部用两块上下相接的圆角区域形成细小内收的腰部缺口，外围仅保留一圈明亮纯色底，让外框像高能色带包住沉静内核。面板上半部保留大面积无内容暗场，小型品牌字标贴近左上内边距；在空场下缘放置一对醒目的粗块状起始引号，斜切上端、直角下端、紧密并列，作为阅读入口。主引语置于面板中段偏左，以轻细、几何、圆润的无衬线字排成三至四行宽松大字，行长错落但左缘稳定，文字占据主要信息重量；作者姓名在其下以中号字独立成行，身份说明再缩小一级并略微缩进，形成清楚的尺度跳跃与从引语到署名的阅读节奏。面板下方延续宽阔暗场，在右下藏入一对极其巨大的结束引号，使用只比面板略亮的深色实心形，向下与向右被边缘截断，与上方亮色小引号形成远近、明暗和大小呼应，既像隐约水印又稳住底部重量；底部两角仅保留极小的关注与收藏提示，避免争夺中心。颜色从未来主题的情绪与行业语义中派生：选取一支高明度、高饱和、洁净而有活力的主题强调色承担外围底和起始引号，以占地很少却高冲击的方式制造第一眼识别；内部使用同一主题冷暖倾向下的极深低明度色覆盖绝大面积，正文用近白高明度中性色，背景巨引号用极低对比深阶，保持“明亮外缘包围克制暗场”的情绪关系。整体采用纯净数字矢量表面，色块均匀、边缘利落、无渐变、无纹理、无立体阴影；圆角、内收连接、斜切引号和严格左对齐共同构成几何秩序。所有品牌名、引语、署名和职务均由当前主题重新生成，语言简洁可信，保留大段留白与少量信息，不让装饰、图像或多余色彩削弱双引号跨尺度呼应和金句的主导地位。
+
+——————
+本次金句：{argument name="金句" default="你永远不可能真正地去了解一个人，除非你穿过她的鞋子，去走她走过的路，站在她的角度思考问题。可当你走过她走的路时，你连路过都觉得难过。"}
+署名：{argument name="署名" default="地球人"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089527550536216727) | 2026-08-18
+
+---
+

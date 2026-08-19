@@ -3863,3 +3863,69 @@ Create a premium, modern {argument name="fashion style" default="high-fashion"} 
 
 ---
 
+### 📊 例 6385：日式日历杂志海报
+
+![日式日历杂志海报](../images/%E6%97%A5%E5%BC%8F%E6%97%A5%E5%8E%86%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+微暖质感纸张背景上，构图呈现竖版日历杂志排版布局，画面中上方偏左错落贴附一张带有白色加宽下边框与微弱立体投影的拍立得胶片相框照片，相框内展示由{argument name="主题" default="早安+问候+GOOD MORNING+城市+金句+天气+2026-08-19"}决定的胶片质感生活场景影像，色调清透自然；相框左上方以提取自画面主色的浓郁深调复古衬线体标注月份与大号日期数字，右上角配以纤细清秀的星期与农历小字；苍劲洒脱的手写连笔毛笔书法字体跨越相框右下角边缘斜向压印延伸至卡片背景，与相框形成生动的叠压层次；相框下方左对齐排布低饱和英文导语与排版疏朗、节奏舒缓的左对齐中文诗意文案短句，右下角极简点缀品牌落款与微小分类标签，全幅文字与装饰色彩与相框内画面主色调形成呼应与深浅递进，整体呈现宁静雅致、松弛治愈的日系生活美学氛围。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089860052308119958) | 2026-08-18
+
+---
+
+### 📊 例 6450：高级时装角色风格指南
+
+![高级时装角色风格指南](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质、现代的高级时装角色概念艺术图，采用 16:9 宽屏布局，背景为纯白色。所附参考图像定义了艺术风格 —— 请将其视为严格的风格指南，并复刻其精确的
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2089556202615124203) | 2026-08-18
+
+---
+
+### 📊 例 6458：Image 2 Prompt：创建超写实爆炸式
+
+![Image 2 Prompt：创建超写实爆炸式](../images/Image%202%20Prompt%EF%BC%9A%E5%88%9B%E5%BB%BA%E8%B6%85%E5%86%99%E5%AE%9E%E7%88%86%E7%82%B8%E5%BC%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实、爆炸式的垂直信息图，展示优质脆皮鸡块的结构。
+从上到下的结构：
+脆皮裹粉
+→ 调味料
+→ 鸡肉块
+→ 腌制层
+→ 蘸酱
+→ 餐盘
+每一层都必须保持完美
+
+[English]
+Create a hyper-realistic exploded vertical infographic composition of premium crispy chicken nuggets.
+Top → Bottom structure:
+Crispy Breading
+→ Seasoning
+→ Chicken Fillet
+→ Marinade Layer
+→ Dipping Sauce
+→ Serving Tray
+Each layer must remain perfectly
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2089532304976969785) | 2026-08-18
+
+---
+

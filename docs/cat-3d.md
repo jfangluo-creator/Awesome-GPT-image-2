@@ -7186,3 +7186,185 @@ surreal 3d {argument name="subject" default="chess match artwork"}, epic, misty,
 
 ---
 
+### 🧸 例 6386：搬运金色种子的卡通蚂蚁
+
+![搬运金色种子的卡通蚂蚁](../images/%E6%90%AC%E8%BF%90%E9%87%91%E8%89%B2%E7%A7%8D%E5%AD%90%E7%9A%84%E5%8D%A1%E9%80%9A%E8%9A%82%E8%9A%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个迷人的电影级 3D 动画微距场景，采用皮克斯风格：{argument name="number of ants" default="5"} 只拥有超大表现力眼睛的亮红色卡通蚂蚁，排成一列在狭窄的石质通道中行进，宛如一条微型峡谷小径。最前方的蚂蚁靠近镜头，正微笑着推动一个由两根平行树枝和横木制成的小木雪橇，上面载着一颗巨大的闪亮 {argument name="carried object" default="金黄色浆果或种子"}。其后紧跟着 4 只红蚂蚁，沿着相同的路径行进：一只紧跟领队，一只在其后，一只在斜坡上方，还有一只微小的蚂蚁在右上角的背景中隐约可见。蚂蚁拥有圆润的分节身体、细长的腿、弯曲的触角、友好的面孔以及玩具般的橙红色外壳。环境为阳光明媚的花园地面，通道两侧是风化的灰色石墙，点缀着小片苔藓、高耸的绿草叶和柔和的自然阴影。使用垂直的 {argument name="aspect ratio" default="9:16"} 构图，采用低位微距视角，略微向下俯瞰雪橇，浅景深效果使前景的蚂蚁和黄色物体清晰可见，而背景的蚂蚁和植物则呈现柔和的虚化。光照为温暖的午后阳光，带有电影级高光，色彩鲜艳，充满奇幻冒险氛围，高质量 3D 渲染，无文字，无水印，无人像。
+
+[English]
+Create a charming cinematic 3D animated macro scene in a Pixar-like style: {argument name="number of ants" default="5"} glossy red cartoon ants with oversized expressive eyes march in a line down a narrow stone channel like a miniature canyon path. The front ant is closest to the camera, smiling and pushing a tiny wooden sled made from two parallel twig runners and cross sticks, carrying one large shiny {argument name="carried object" default="golden yellow berry or seed"}. Behind it are exactly 4 more red ants following along the same path: one directly behind the leader, one behind that, one farther up the slope, and one tiny ant barely visible in the upper-right background. The ants have rounded segmented bodies, thin legs, curved antennae, friendly faces, and toy-like orange-red shells. The environment is a sunlit garden floor with weathered gray stone walls on both sides of the channel, small patches of moss, tall green blades of grass, and soft natural shadows. Use a vertical {argument name="aspect ratio" default="9:16"} composition, low macro camera angle looking slightly downhill toward the sled, shallow depth of field with the foreground ant and yellow object sharp while background ants and plants blur gently. Lighting should be warm midday sunlight with cinematic highlights, vibrant colors, whimsical adventure mood, high-quality 3D render, no text, no watermark, no humans.
+```
+
+**来源：** [@Cencen](https://x.com/Cencencahya12/status/2089847816210563343) | 2026-08-18
+
+---
+
+### 🧸 例 6388：低质量与高质量米饭对比
+
+![低质量与高质量米饭对比](../images/%E4%BD%8E%E8%B4%A8%E9%87%8F%E4%B8%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E7%B1%B3%E9%A5%AD%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张照片级逼真的双面板对比图，展示 {argument name="quality labels" default="LOW and HIGH"} 的日本蒸白米饭生成质量，上半部分标注为 LOW，下半部分标注为 HIGH。
+
+画布：1:1 正方形图像，水平平分为 2 个相等的摄影面板。温馨的日式早餐餐桌环境，浅景深，自然柔和的灯光，逼真的蒸汽。
+
+顶部面板：一个近景陶瓷碗，盛着一大堆光泽感十足的蒸白米饭。米粒看起来过于统一、光泽过重且略显人工感，许多相似的椭圆形米粒聚在一起。米饭上方有可见的蒸汽。背景包含 4 个模糊的餐点元素：左上角的木制味噌汤碗，左下角的一小碟黄色玉子烧，右上角的烤鲑鱼盘，以及右下角的一个蓝色花纹小配菜。在顶部面板的右下角添加一个粗体红色轮廓标签，文字为 {argument name="top label" default="LOW"}。
+
+底部面板：第二个近景陶瓷碗，盛着蒸白米饭，看起来更自然、更有食欲，米粒形状不规则，间距各异，光泽柔和，质感不显塑料感。米饭上方有细微的蒸汽升起。碗上有垂直的深色笔触条纹。背景包含 5 个模糊的餐点元素：左上角的烤鲑鱼盘，鲑鱼旁的一小碟萝卜泥或白色装饰，左下角的一碟腌菜，中右上方的一碟小配菜，以及右侧带有绿色装饰的木制味噌汤碗。在底部面板的右下角添加一个粗体蓝色轮廓标签，文字为 {argument name="bottom label" default="HIGH"}。
+
+品牌标识：在面板之间分割线的左侧放置一个圆形黑色 Logo。Logo 中有大号白色字母 {argument name="logo text" default="AiRT"} 和一个小红瓢虫装饰，下方有较小的白色文字“Ai ART CREATOR”和“For videos/images”。
+
+视觉风格：超写实美食摄影，温暖的木质餐桌，奶油般虚化的背景，高细节陶瓷碗，地道的日式早餐氛围，画面中无人。强调 LOW 面板中人工感强、光泽统一的米饭与 HIGH 面板中更随机、更逼真的米饭质感之间的对比。
+
+约束条件：使用 2 个面板，2 个大标签，1 个圆形 Logo，以及列出的总共 9 个模糊背景餐点元素。保持所有文字清晰可辨，不要添加额外的标题或水印。
+
+[English]
+Goal: Create a photorealistic two-panel comparison image showing generated Japanese steamed white rice quality at {argument name="quality labels" default="LOW and HIGH"}, with the top half labeled LOW and the bottom half labeled HIGH.
+
+Canvas: Square 1:1 image, split horizontally into exactly 2 equal photographic panels. Warm indoor Japanese breakfast table setting, shallow depth of field, natural soft lighting, realistic steam.
+
+Top panel: A close-up ceramic bowl filled with a large mound of glossy steamed white rice. The rice grains look slightly too uniform, overly shiny, and a little artificial, with many similar oval grains clustered together. Visible steam rises from the rice. Background includes exactly 4 blurred meal elements: a wooden miso soup bowl in the upper left, a small yellow tamagoyaki omelet plate at the lower left, a grilled salmon plate in the upper right, and a small blue patterned side dish at the lower right. Add a bold red outlined label reading {argument name="top label" default="LOW"} in the bottom-right corner of the top panel.
+
+Bottom panel: A second close-up ceramic bowl of steamed white rice, more natural and appetizing, with irregular rice grain shapes, varied spacing, softer shine, and less plastic-looking texture. Steam rises subtly from the rice. The bowl has vertical dark brushstroke stripes. Background includes exactly 5 blurred meal elements: grilled salmon plate in the upper left, a small plate with grated daikon or white garnish near the salmon, a small side dish with pickles at the lower left, a small side dish near the upper center-right, and a wooden miso soup bowl on the right with green garnish. Add a bold blue outlined label reading {argument name="bottom label" default="HIGH"} in the bottom-right corner of the bottom panel.
+
+Brand mark: Place a circular black logo overlapping the left side of the split line between panels. It reads {argument name="logo text" default="AiRT"} in large white letters with a tiny red ladybug accent, and below it smaller white text reading "Ai ART CREATOR" and "For videos/images".
+
+Visual style: Ultra-realistic food photography, warm wooden table, creamy bokeh, high-detail ceramic bowls, authentic Japanese breakfast atmosphere, no people. Emphasize the contrast between artificial-looking glossy uniform rice in the LOW panel and more random, realistic rice texture in the HIGH panel.
+
+Constraints: Use exactly 2 panels, exactly 2 large labels, exactly 1 circular logo, and the listed 9 blurred background meal elements total. Keep all text legible and do not add extra captions or watermarks.
+```
+
+**来源：** [@AiRT🎥生成AI動画を創る人](https://x.com/AutoIntelliMode/status/2089842777853239360) | 2026-08-18
+
+---
+
+### 🧸 例 6411：等轴测巴塞罗那城市立体模型
+
+![等轴测巴塞罗那城市立体模型](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E5%9F%8E%E5%B8%82%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个高度精细的等轴测城市立体模型海报，展示西班牙 {argument name="city name" default="巴塞罗那"}，呈现为放置在方形木质底座上的微缩建筑模型。
+
+画布：竖版海报构图，4:5 长宽比，简洁的米白色背景，立体模型上方留有充足的空白空间。将城市模型置于中央，采用四分之三等轴测视角，海岸线和港口沿前缘分布，密集的城市网格向顶部延伸。
+
+标题文字：顶部中央使用小间距大写字母“CATALUNYA”，下方使用非常大且修长的压缩大写标题“{argument name="headline text" default="BARCELONA"}”，再下方使用小间距大写字母“SPAIN”。使用深炭灰色字体，展现优雅的旅行海报排版风格。
+
+城市布局：构建一个精确的巴塞罗那微缩版本，包含密集的 Eixample 风格方形街区、橙色赤陶屋顶、浅色石质建筑、林荫大道、小型交叉路口、广场和微型车辆。城市应呈现出高端博物馆级立体模型的效果，具备逼真的光影、清晰的细节和微妙的景深。
+
+可见地标数量：包含 6 个主要且易于识别的地标区域：1) 位于中心附近、带有许多尖塔的华丽高耸建筑圣家堂 (Sagrada Família)；2) 左上方类似城堡公园 (Parc de la Ciutadella) 的大型绿色公园区；3) 右侧圆形的蓝红色足球场；4) 左侧类似阿格巴塔 (Torre Glòries) 的子弹头形状玻璃摩天大楼；5) 前方中左侧小半岛上高耸的帆形海滨酒店塔楼；6) 沿前缘和右侧的海滩及码头区。
+
+海滨细节：展示深绿松石色的地中海海水环绕方形底座的前缘，配有港口、码头、船坞、停满成排白色小船的游艇码头、沿右侧弯曲的沙滩，以及水面上几艘微小的帆船和摩托艇。添加长廊、棕榈树、道路、起重机和小型海滨建筑。
+
+风格：超精细 3D 等轴测立体模型，逼真的微缩摄影效果，温暖的日光，清晰的阴影，饱和但自然的色彩，赤陶屋顶，绿色公园，蓝色海洋，以及精致的建筑模型工艺。底座应具有可见的深色木质侧边，使城市看起来像是一个真实的桌面模型。
+
+约束条件：画面中无特写人物，地图上无额外标签，无水印，无边框。保持所有文字清晰易读，不要添加其他城市或无关的地标。
+
+[English]
+Goal: Create a highly detailed isometric city diorama poster of {argument name="city name" default="Barcelona"}, Spain, presented as a miniature architectural model on a square wooden-edged base.
+
+Canvas: Vertical poster composition, 4:5 aspect ratio, clean off-white background with generous blank space above the diorama. Center the city model in a three-quarter isometric view, with the coastline and harbor along the front edge and the dense urban grid receding toward the top.
+
+Title text: At the top center, use small spaced uppercase text “CATALUNYA”, below it a very large tall condensed uppercase headline “{argument name="headline text" default="BARCELONA"}”, and below that small spaced uppercase text “SPAIN”. Use dark charcoal lettering, elegant travel-poster typography.
+
+City layout: Build a precise miniature version of Barcelona with a dense Eixample-style grid of square city blocks, orange terracotta rooftops, pale stone buildings, tree-lined avenues, small intersections, plazas, and tiny vehicles. The city should look like a premium museum-scale diorama with realistic lighting, crisp detail, and subtle depth of field.
+
+Visible landmark count: Include exactly 6 major recognizable landmark zones: 1) the Sagrada Família as a tall ornate basilica with many spires near the center, 2) a large green park zone resembling Parc de la Ciutadella on the upper left, 3) a rounded blue-and-red football stadium on the right side, 4) a bullet-shaped glass skyscraper resembling Torre Glòries on the left, 5) a tall sail-shaped waterfront hotel tower on a small peninsula near the front center-left, and 6) a beachfront and marina district along the front and right edge.
+
+Waterfront details: Show deep turquoise Mediterranean water wrapping the front edge of the square base, with a harbor, piers, docks, a marina filled with rows of small white boats, a sandy beach curving along the right side, and a few tiny sailboats and motorboats in the water. Add promenades, palm trees, roads, cranes, and small waterfront buildings.
+
+Style: Ultra-detailed 3D isometric diorama, realistic miniature photography, warm daylight, crisp shadows, saturated but natural colors, terracotta roofs, green parks, blue sea, and polished architectural model craftsmanship. The base should have a visible dark wood side edge, making the city feel like a physical tabletop model.
+
+Constraints: No people in close-up, no extra labels on the map, no watermark, no border. Keep all text clean and legible, and do not add additional cities or unrelated landmarks.
+```
+
+**来源：** [@Fede(URU) 🇺🇾](https://x.com/Federic83017719/status/2089694503477059826) | 2026-08-18
+
+---
+
+### 🧸 例 6429：苏轼体素风 MBTI 封面
+
+![苏轼体素风 MBTI 封面](../images/%E8%8B%8F%E8%BD%BC%E4%BD%93%E7%B4%A0%E9%A3%8E%20MBTI%20%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅电影感的社交媒体封面海报，主题为 MBTI 类型 {argument name="MBTI type" default="ENTP"}，采用高级黑色极简布局和块状体素/乐高风格的角色插画。
+
+画布：2.4:1 横向横幅，约 1200 × 500 像素。哑光黑背景，留白充裕，清晰的高对比度白色排版，无边框，无水印。
+
+布局：左侧包含主标题，占据约 40% 的画布宽度。右侧包含一个坐着的体素角色。小型辅助文字放置在标题下方、左下角、右上角和右下角。
+
+文字内容：主标题采用巨大的粗体白色中文字体（无衬线），分两行，内容为 {argument name="headline text" default="苏轼是什么\nmbti类型?"}。在标题下方，添加两行小号白色文字：{argument name="subtitle text" default="自由灵魂的旷达诗人\nENTP · 辩论家"}。左下角有间距排列的字母“E N T P”和中文标签“辩 论 家”，以及一个小的白色城堡/塔楼图标。右上角有微小的重复标题：“苏轼是什么? mbti类型?”。右下角有紧凑的人格堆叠文字：“EXTRAVERTED / INTUITIVE / THINKING / PERCEIVING”，最右侧有一行小字说明：“POET · THINKER · DEBATER / 1037 - 1101”。
+
+主体细节：在右侧，将 {argument name="historical figure" default="苏轼"} 描绘成身着中国古代学者长袍的方形体素角色。他正面向前坐在桌后的一把深色块状椅子上。他拥有米色的方形脸、黑色的块状头发和高高的学者帽、黑色的胡须、简单的方形眼睛和嘴巴，身穿带有灰色阴影的白色长袍和黑色斜纹腰带。一只手臂抬起，拿着一个小白色杯子；另一只手放在桌子附近。桌上放置 1 个深色小墨水瓶或杯子。
+
+对话气泡：在右侧角色头部附近添加 3 个白色小型漫画对话气泡。气泡文字为：1) “问汝平生\n功业”，2) “黄州惠州\n儋州”，3) “不如一夜\n风雨”。保持气泡清晰、矩形且带有小尾巴，文字为黑色中文。
+
+视觉风格：超洁净的编辑封面设计，黑白配色辅以米色肤色，体素玩具块几何形状，微妙的灰色阴影，现代粗体排版，高对比度，机智的知识分子格调，平衡的非对称美感。保持所有元素清晰易读。
+
+[English]
+Goal: Create a wide cinematic social-media cover poster about the MBTI type {argument name="MBTI type" default="ENTP"}, using a premium black minimalist layout and a blocky voxel/LEGO-like character illustration.
+
+Canvas: 2.4:1 horizontal banner, approximately 1200 × 500 px. Matte black background with lots of negative space, crisp high-contrast white typography, no border, no watermark.
+
+Layout: Left side contains the dominant title, occupying about 40% of the canvas width. Right side contains a seated voxel character. Small supporting text is placed below the title, bottom-left, top-right, and bottom-right.
+
+Text content: Main title in huge bold white Chinese sans-serif type, two lines, reading {argument name="headline text" default="苏轼是什么\nmbti类型?"}. Under the title, add two small white lines: {argument name="subtitle text" default="自由灵魂的旷达诗人\nENTP · 辩论家"}. Bottom-left has spaced letters “E N T P” and the Chinese label “辩 论 家”, plus a small white castle/tower icon. Top-right has a tiny repeated title: “苏轼是什么? mbti类型?”. Bottom-right has a compact personality stack: “EXTRAVERTED / INTUITIVE / THINKING / PERCEIVING”, and far right a small caption: “POET · THINKER · DEBATER / 1037 - 1101”.
+
+Subject details: On the right, depict {argument name="historical figure" default="Su Shi"} as a square voxel character in ancient Chinese scholar robes. He is seated front-facing in a dark blocky chair behind a simple desk. He has a beige square face, black blocky hair and tall scholar hat, a black mustache and long black beard, simple square eyes and mouth, and wears a white robe with gray shadows and a black diagonal sash. One arm is raised holding a small white cup; the other rests near the desk. On the desk, include exactly 1 small dark ink bottle or cup.
+
+Speech bubbles: Add exactly 3 small white comic speech bubbles near the character’s head on the right. The bubble texts are: 1) “问汝平生\n功业”, 2) “黄州惠州\n儋州”, 3) “不如一夜\n风雨”. Keep the bubbles sharp, rectangular with small tails, black Chinese text.
+
+Visual style: Ultra-clean editorial cover design, black-and-white palette with beige skin tones, voxel toy-block geometry, subtle gray shading, modern bold typography, high contrast, witty intellectual tone, balanced asymmetry. Keep all elements crisp and legible.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089647747058315665) | 2026-08-18
+
+---
+
+### 🧸 例 6457：奇幻 Alina Ai 分屏场景
+
+![奇幻 Alina Ai 分屏场景](../images/%E5%A5%87%E5%B9%BB%20Alina%20Ai%20%E5%88%86%E5%B1%8F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅双面板写实风格的奇幻编辑拼贴画，主角为 {argument name="character name" default="Alina Ai"}，一位留着深色长发、身穿黑色衬衫搭配白色运动鞋的时髦年轻女性，以多个从微缩到正常比例的克隆形象出现在温馨的生活场景中。
+
+画布：水平 2:1 分屏构图，两个相等的正方形面板并排，温暖的电影感晨光，浅景深，超高细节，逼真的纹理，舒适的米色和琥珀色调。
+
+左侧面板：梦幻般的现代厨房晨间场景。前景放置一个巨大的白色陶瓷咖啡杯，杯上有可爱的表情：大大的棕色眼睛、上扬的黑色眉毛、红润的脸颊和开心的露齿笑。旁边放置一个光亮的红色复古闹钟，同样带有可爱的表情：大眼睛、腮红和宽大的笑脸。添加来自厨房窗户的温暖阳光、模糊的台面物品、植物、前景下方的饼干以及柔和的焦外成像。在杯子上方，创造一个发光的漩涡状蒸汽图案，形状像一个笑脸，带有两个椭圆形的眼睛和一个弯曲的微笑，并在脸部下方用发光的蒸汽写上 {argument name="steam greeting" default="Good Morning"}。在左侧面板中展示该女性的 6 个形象：1 坐在杯沿上指着上方的蒸汽，2 坐在杯内/杯沿上托腮沉思，3 坐在红色闹钟顶部，4 坐在闹钟表面/边缘，5 坐在杯子附近的台面上看小书，6 在前景下方靠着杯子坐着，轻抚头发。在底部添加发光的草书文字 {argument name="signature text" default="Alina Ai"}，下方带有一个小爱心装饰。
+
+右侧面板：一个舒适的米色室内墙面场景，配有悬浮木质搁板、温暖的环境灯光、植物、书籍、装饰品、泰迪熊、相框艺术品、耳机、相机以及左下角的一辆滑板车。在左侧排列巨大的垂直木质字母，拼写出 {argument name="vertical wall letters" default="ALINAAI"}。在右侧面板中展示同一女性的 7 个形象：1 坐在左上层搁板上看书，2 坐在右上层搁板上弹奏原声吉他，3 坐在中间左侧搁板上使用银色笔记本电脑，4 坐在中间右侧搁板上操作三脚架上的相机，5 坐在下层中央搁板上拿着小奖杯，6 坐在右下角拿着一盆小植物，7 坐在底部中央附近，旁边是一个写有“Alina Ai”的相框。确保所有重复形象自然融入，并保持正确的阴影和比例。
+
+视觉风格：高度写实，温暖舒适的编辑摄影风格与奇幻的比例特效相结合，电影级布光，精致的社交媒体美学，细腻的面部特征，光亮的陶瓷和金属表面，柔和的金色光晕，自然的阴影，简洁的构图。
+
+约束：使用 2 个面板，整张图片中该女性总共出现 13 次，保留可读文字，避免出现多余的随机字母，避免手部或面部畸变，无水印。
+
+[English]
+Create a split-screen whimsical photorealistic social-media artwork featuring {argument name="character name" default="Alina Ai"}, a young woman with long dark hair wearing a black button-up outfit and white sneakers, shown as multiple tiny versions of herself in cozy lifestyle scenes. Canvas: wide horizontal 2:1 composition divided into two equal panels with warm golden morning light, cinematic depth of field, realistic textures, and a polished editorial look.
+
+Left panel: a cozy modern kitchen at sunrise with a giant white ceramic coffee mug in the foreground and a giant glossy red retro alarm clock beside it. Both oversized objects have cute expressive cartoon faces: large brown eyes, raised brows, rosy cheeks, and big cheerful smiles. The coffee mug is filled with glowing coffee or steam, and above it a magical swirling steam drawing forms a neon-like smiley face with two oval eyes and a curved smile. Add the glowing words "Good Morning" arcing under the steam face. Show exactly 5 miniature versions of the woman in this left panel: 1 sitting on the mug rim and pointing toward the glowing steam, 1 seated on top of the alarm clock bell, 1 sitting on the red alarm clock body, 1 sitting on the floor reading a small book near the mug, and 1 larger foreground version sitting casually on the counter with one hand near her hair. Add warm kitchen details in the background such as a sunlit window, plant, jars, utensils, and soft bokeh. At the bottom center, write the glowing cursive signature {argument name="signature text" default="Alina Ai"} with a small heart ornament.
+
+Right panel: a warm beige textured interior wall with floating wooden shelves arranged like a lifestyle collage. Place vertical wooden letters spelling {argument name="vertical wall letters" default="ALINAAI"} down the left side. Show exactly 7 miniature versions of the same woman on and around the shelves: 1 sitting on the upper left shelf reading an open book, 1 sitting on the upper right shelf playing an acoustic guitar, 1 sitting on the middle left shelf using a laptop, 1 sitting on the middle right shelf operating a camera on a tripod, 1 sitting on the lower middle shelf holding a small golden trophy, 1 sitting near the lower right holding a small potted plant, and 1 seated low near the floor among plants. Surround her with cozy decor: teddy bear, potted plants, stacked books, amber lanterns, headphones, framed print reading {argument name="framed print text" default="Alina Ai"}, small camera, scooter, leafy floor plants, and warm lamp glow. Keep the overall palette amber, beige, cream, red, and black, with soft shadows and realistic lighting.
+
+Constraints: Make all miniature figures resemble the same person and outfit consistently. Use exactly 5 mini-women in the kitchen panel and exactly 7 mini-women in the shelf-wall panel. Keep all visible text legible: "Good Morning", the cursive signature, the vertical wall letters, and the framed print. No watermark, no extra labels, no distorted faces or hands.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2089537494618628545) | 2026-08-18
+
+---
+

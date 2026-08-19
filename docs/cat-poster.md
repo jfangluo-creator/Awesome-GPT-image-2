@@ -26076,3 +26076,743 @@ Constraints: No text, no logos, no watermark, no extra products, no distorted ha
 
 ---
 
+### 🎴 例 6389：Garmin fēnix 8 探险海报
+
+![Garmin fēnix 8 探险海报](../images/Garmin%20f%C4%93nix%208%20%E6%8E%A2%E9%99%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="product name" default="Garmin fēnix 8"} 创作一张高端竖版编辑广告海报，风格类似于顶级户外探险腕表宣传大片。画布：9:16 竖版海报，深色电影级调色，强烈的对比度，清晰的商业产品摄影与细腻的写实合成技术相结合。背景：风暴笼罩的阿尔卑斯山景观，覆盖积雪的山峰，厚重的云层，忧郁的背光，前景为尘土和岩石；包含两个微小的探险运动员以体现比例：背景中正好有 2 个人，左下方一名越野跑者，右下方一名山地自行车手。主体：一只超大号坚固黑色多运动智能手表，悬浮/立于中右侧，呈四分之三侧视图，配有厚实的黑色表圈、向后弯曲的黑色硅胶表带、金属螺丝、侧面按钮以及细小的橙色点缀。表盘应高度精细，黑色背景，橙色/白色健身 UI，中央显示大号时间 10 点 10 分，配有小型活动指标、圆形小组件、电池和 GPS 样式指示器，表盘顶部附近印有“FĒNIX”字样。排版布局：左上角品牌标识“GARMIN.”（白色）；下方为巨大的标题“fēnix”（白色），数字“8”为亮橙色；下方为间距适中的大写标语“BUILT FOR BEYOND.”；随后是一条简短的橙色分隔线，以及一段小字文案“RUGGED BY DESIGN. ADVANCED BY PURPOSE. READY FOR ANY ADVENTURE.”。底部功能栏：正好 4 个图标卡片，由细竖线分隔，每个卡片配有一个橙色/白色的细轮廓方形图标和全大写标签：1 个太阳图标，“BRIGHT AMOLED DISPLAY”；2 个手电筒图标，“BUILT-IN FLASHLIGHT”；3 个地图定位图标，“MULTIBAND GPS”；4 个波浪图标，“DIVE-RATED DESIGN”。底部中央：细橙色轮廓的行动呼吁按钮，文字为 {argument name="button text" default="EXPLORE THE LIMITS ▶"}。视觉风格：奢华运动科技广告，锐利的手表渲染，浅景深，烟雾缭绕的氛围，橙色点缀色，白色压缩无衬线字体，强烈的暗角效果，画面整洁，无多余标志或功能卡片。
+
+[English]
+Create a premium vertical editorial advertising poster for {argument name="product name" default="Garmin fēnix 8"}, styled like a high-end outdoor adventure watch campaign. Canvas: 9:16 portrait poster, dark cinematic color grading, dramatic contrast, crisp commercial product photography mixed with subtle photorealistic compositing. Background: stormy alpine mountain landscape with snow-covered peaks, heavy clouds, moody backlight, dust and rocky foreground; include two tiny adventure athletes for scale: exactly 2 background people, one trail runner on the lower left and one mountain biker on the lower right. Main subject: one oversized rugged black multisport smartwatch floating/standing center-right, angled three-quarter view, with a thick black bezel, black silicone strap curving backward, metal screws, side buttons, and small orange accent details. The watch face should be highly detailed with black background, orange/white fitness UI, large central time reading 10 over 10, small activity metrics, circular widgets, battery and GPS-style indicators, and the word FĒNIX near the top of the dial. Typography layout: top-left brand wordmark “GARMIN.” in white; below it a very large title “fēnix” in white with the number “8” in bright orange; beneath, spaced uppercase slogan “BUILT FOR BEYOND.”; then a short orange divider line and small copy reading “RUGGED BY DESIGN. ADVANCED BY PURPOSE. READY FOR ANY ADVENTURE.” Bottom feature row: exactly 4 icon cards separated by thin vertical lines, each with a thin outlined square icon in orange/white and an uppercase label: 1 sun icon, “BRIGHT AMOLED DISPLAY”; 2 flashlight icon, “BUILT-IN FLASHLIGHT”; 3 map pin icon, “MULTIBAND GPS”; 4 waves icon, “DIVE-RATED DESIGN”. Bottom center: thin orange outlined call-to-action button reading {argument name="button text" default="EXPLORE THE LIMITS ▶"}. Visual style: luxury sports-tech advertising, sharp watch rendering, shallow depth of field, smoky atmosphere, orange accent color, white condensed sans-serif typography, strong vignette, no clutter, no extra logos or feature cards.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2089823602233549286) | 2026-08-18
+
+---
+
+### 🎴 例 6394：奢华 Grandmaster Chime 腕表广告
+
+![奢华 Grandmaster Chime 腕表广告](../images/%E5%A5%A2%E5%8D%8E%20Grandmaster%20Chime%20%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华杂志广告海报，用于 {argument name="brand name" default="PATEK PHILIPPE"}，展示 {argument name="watch model" default="Grandmaster Chime"}。画布：4:5 竖版杂志广告，照片级写实，深色华丽静物构图。布局：在右侧放置一枚大型华丽的玫瑰金复杂功能腕表，略微向观众倾斜，配有棕色鳄鱼皮表带，展现极其精细的雕刻表壳、表圈、表耳、按钮、表冠、玑镂刻花表盘、罗马数字、多个子表盘、月相、日期环以及表盘上微小的品牌标识。左侧使用优雅的金色字体进行排版：顶部放置 Calatrava 风格的十字徽标，下方为大写品牌名称，接着是间距较大的小写“GENEVE”，一条纤细的装饰性分割线，两行精致衬线字体的型号名称，以及底部带有短横线的 {argument name="tagline" default="CRAFTED FOR THE FEW."} 标语（小写）。场景细节：将所有物品置于带有白色纹理和温暖反射的亮面黑色大理石上。包含 5 个主要可见物体：1) 作为主角的腕表，2) 左下角一对带有金色十字徽标的黑金袖扣，3) 右下角伸入的带有雕刻金尖的黑金钢笔，4) 左上角背景中模糊的深色威士忌酒杯，以及 5) 右上角背景中带有小型金色徽标的棕色皮盒。灯光与风格：电影级低调灯光，温暖的琥珀色高光，深邃阴影，浅景深，高端瑞士腕表广告美学，抛光金属反射，微距产品摄影，超精细雕刻，浓郁的棕色与金色调，精致的男性化氛围。限制：保持所有文字清晰易读，保留精确的层级和左右构图，避免出现额外的标志、多余的腕表、多余的珠宝、手部、人物、水印或现代 UI 元素。
+
+[English]
+Create a luxury editorial advertising poster for {argument name="brand name" default="PATEK PHILIPPE"} featuring the {argument name="watch model" default="Grandmaster Chime"}. Canvas: vertical 4:5 magazine ad, photorealistic, dark opulent still-life composition. Layout: place a large ornate rose-gold grand complication wristwatch on the right side, angled slightly toward the viewer, with a brown crocodile leather strap and an extremely detailed engraved case, bezel, lugs, pushers, crowns, guilloché dial, Roman numerals, multiple subdials, moonphase, date ring, and tiny brand markings on the dial. Put the typography on the left side in elegant gold: a Calatrava-style cross emblem at the top, then the large uppercase brand name, then spaced small caps “GENEVE”, a thin ornamental divider, the model name on two lines in refined serif type, and the tagline {argument name="tagline" default="CRAFTED FOR THE FEW."} in small caps with a short horizontal rule below. Scene details: set everything on glossy black marble with white veining and warm reflections. Include exactly 5 main visible objects: 1) the wristwatch as the hero object, 2) a pair of black-and-gold cufflinks with gold cross emblems at lower left, 3) a black-and-gold fountain pen entering from the lower right with an engraved gold nib, 4) a dark whiskey tumbler blurred in the upper left background, and 5) a brown leather case or box blurred in the upper right background with a small gold emblem. Lighting and style: cinematic low-key lighting, warm amber highlights, deep shadows, shallow depth of field, premium Swiss watch advertising aesthetic, polished metal reflections, macro product photography, ultra-detailed engraving, rich brown and gold palette, sophisticated masculine mood. Constraints: keep all text crisp and readable, preserve the exact hierarchy and left/right composition, avoid extra logos, extra watches, extra jewelry, hands, people, watermarks, or modern UI elements.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2089780850229756350) | 2026-08-18
+
+---
+
+### 🎴 例 6395：巨型钢制拉链天空广告
+
+![巨型钢制拉链天空广告](../images/%E5%B7%A8%E5%9E%8B%E9%92%A2%E5%88%B6%E6%8B%89%E9%93%BE%E5%A4%A9%E7%A9%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个巨大的金属拉链将灰暗的阴云拉开，露出一道纯净的蓝色，拉链头像一件错置的工具般悬挂着。1. 广告：创作一张高端广告宣传图，画面中一个巨大的抛光钢制拉链拉开了暴风雨般的灰暗天空，露出一道明亮且纯净的蓝色，华丽的拉链头如同一个镀金的、错置的工具般悬挂着。电影级广角镜头，低角度，85mm 镜头，浅景深，戏剧性的轮廓光，奢华的铬金属反射，电影级调色，适合海报的留白设计，高端广告宣传风格，自然阴天光照，纯粹的张力氛围，快速变焦抓拍。面部表情一致，精准的反射与折射，流体布料模拟，电影级时间连贯性，真实物理效果。2. 照片：创作一张超写实的摄影作品，画面中一个巨大的风化金属拉链分裂了厚重的灰暗天空，露出一道清晰的鲜艳蓝色，拉链头像一把被遗忘的扳手般悬挂着，使用 85mm f/1.4 镜头拍摄，浅景深，柔和的漫射日光，原始纪录片写实感，带有可见的锈迹、灰尘颗粒和布料般的云层纹理，超写实摄影风格，光晕背光，欢愉超然的氛围，极度特写。无伪影，零死帧，纯粹的视觉动量，电影级时间连贯性，真实物理效果，无手部或面部变形。3. 艺术：美术插画，描绘一个巨大的金属拉链拉开灰暗天空，露出一道明亮的蓝色，拉链头像一件错置的工具般悬挂着，以柔和的木炭和石墨渲染，带有细腻的涂抹感，梦幻般的氛围，柔和的色调，富有表现力的笔触，上方留白，纸张的微妙纹理，美术插画风格，霓虹光照，欢愉超然的氛围，低角度。无伪影，丰富的背景细节，仅在移动元素上有完美的动态模糊，稳定的角色，无手部或面部变形。4. 怪诞：奇异且超凡脱俗的描绘，一个巨大的氧化拉链分裂了淤青般的阴沉天空，其齿轮拉开后露出一道明亮且不可思议的纯净天蓝色；拉链头像一把被遗忘的扳手般悬挂着，捕捉着苍白、漫射的光线。使用 35mm 变形镜头拍摄，浅景深，柔和的阴天光晕，梦幻般的空灵雾气，怪诞超现实意象风格，闪光灯节奏感，凯旋胜利的氛围，手持摄像。精准的反射与折射，物理上准确的阴影，真实物理效果，仅在移动元素上有完美的动态模糊，帧间身份一致。
+
+[English]
+A giant metal zipper parting a gray overcast to a clean strip of blue, the pull-tab hanging like a misplaced tool. 1. Ads: Create a high-end advertising campaign image of a giant polished steel zipper parting a storm-gray overcast sky, revealing a luminous strip of pristine blue, the ornate pull-tab dangling like a gilded, misplaced tool. cinematic wide shot, low-angle, 85mm lens, shallow depth of field, dramatic rim lighting, luxurious chrome reflections, filmic color grade, poster-ready negative space featuring in a high-end advertising campaign style, under natural overcast daylight, pure tension atmosphere, crash zoom snap. facial expression consistency accurate reflections and refractions fluid cloth simulation movie-level temporal coherence real physics. 2. Photo: Create a photorealistic photograph of a giant weathered metal zipper splitting a heavy gray overcast sky, revealing a clean strip of vivid blue, the pull-tab dangling like a forgotten wrench, shot on 85mm f/1.4, shallow depth of field, soft diffused daylight, raw documentary realism, with visible rust, dust particles, and fabric-like cloud texture featuring in a photorealistic photography style, under halo backlight corona, euphoric transcendent atmosphere, extreme close-up. no artifacts zero dead frames pure visual momentum movie-level temporal coherence real physics no morphing hands or faces. 3. Art: Fine art illustration of a giant metal zipper parting a gray overcast sky, revealing a clean strip of luminous blue, the pull-tab hanging like a misplaced tool, rendered in soft charcoal and graphite with delicate smudging, dreamlike atmosphere, muted palette, expressive marks, negative space above, subtle texture of paper featuring in a fine art illustration style, under neon glow, euphoric transcendent atmosphere, low angle. no artifacts rich background detail perfect motion blur only on moving elements stable characters no morphing hands or faces. 4. Biyarre: Strange and otherworldly depiction of a colossal oxidized zipper splitting a bruised, overcast sky, its teeth unzipping to reveal a luminous, impossibly clean strip of cerulean; the pull-tab dangles like a forgotten wrench, catching pale, diffused light. shot on 35mm anamorphic, shallow depth of field, soft overcast glow, dreamlike ethereal haze featuring in a bizarre surreal imagery style, under strobe flash rhythmic, triumphant victorious atmosphere, handheld camera. accurate reflections and refractions physically accurate shadows real physics perfect motion blur only on moving elements consistent identity across frames.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2089756353971499012) | 2026-08-18
+
+---
+
+### 🎴 例 6397：日式午餐菜单海报
+
+![日式午餐菜单海报](../images/%E6%97%A5%E5%BC%8F%E5%8D%88%E9%A4%90%E8%8F%9C%E5%8D%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一家休闲餐厅制作一张竖版日式午餐菜单海报，风格温馨且略带复古感，配以诱人的美食摄影和醒目的日式毛笔字体。
+
+画布：竖版海报，比例约为 4:5，羊皮纸米色背景，带有细腻的纸张纹理，细金边框，红色和金色装饰元素，角落饰有叶片图案，最左侧边缘有一条喜庆的日式花纹带。
+
+页眉：在顶部放置一个醒目的书法标题，内容为 {argument name="headline text" default="ランチメニュー"}；第一个词设为黑色，第二个词设为深红色。下方用粗犷的金色笔触画一条下划线。在右上角添加一个红色圆形印章，内含白色日文文字：「心を込めた おいしい ひととき」，并在附近点缀淡粉色小花。
+
+主体布局：创建 5 行横向菜单，行间以细米色线条分隔。每行左侧设有一个圆形图标，中间偏左为黑色粗体日文菜名，右半部分为写实的美食照片。照片需采用温暖的餐厅桌面光影，并呈现木质桌面质感。
+
+菜单行，共 5 项：
+1. 红色梅花圆形图标，标签「ハンバーグ定食」，配图为光泽诱人的多蜜酱汉堡排套餐，包含米饭、味噌汤、西兰花、胡萝卜及配菜。
+2. 金色饺子圆形图标，标签「ジャンボ餃子定食」，配图为一排大号煎饺，搭配米饭、蘸酱、汤和腌菜。
+3. 绿色鸡肉剪影圆形图标，标签 {argument name="karaage item text" default="唐揚げ定食"}，配图为炸鸡块套餐，包含卷心菜丝、柠檬角、米饭、汤和黄瓜腌菜；让炸鸡看起来略显怪异且过于圆润，呈现 AI 生成的质感。
+4. 紫色猪肉剪影圆形图标，标签「生姜焼き定食」，配图为洋葱炒姜汁猪肉，搭配卷心菜丝、番茄、米饭、味噌汤和腌菜。
+5. 蓝色饭碗圆形图标，标签「中華丼」，配图为中华盖饭，顶部铺满虾仁、鹌鹑蛋、蔬菜、木耳，淋上浓郁芡汁，并配有一碗小汤。
+
+提示栏：在 5 行菜单下方，添加一个居中的米色边框提示框，内容为「※定食ランチにはご飯・汁物付き」，两侧饰有金色叶片装饰。
+
+底部信息区：创建一个奶油色面板，包含两个大型信息块。左侧为棕色时钟图标及标签「営業時間」，下方为时间 {argument name="business hours" default="9:00〜16:30"}。右侧为红色叉勺图标及标签「ランチタイム」，下方为时间 {argument name="lunch time" default="12:00〜14:00"}。两个信息块之间用细竖线分隔。
+
+页脚：添加一条深红色页脚带，配以精致的金色毛笔装饰和细小的闪光点。居中放置白色日文结束语：{argument name="footer message" default="ゆったりくつろげる空間で、皆さまのご来店を心よりお待ちしております。"}
+
+视觉风格：精致的日式印刷传单，居酒屋/家庭餐厅美学，主色调为暖红、棕、奶油色和金色，高分辨率美食摄影与装饰性矢量元素相结合，网格对齐整齐。保持所有日文文字清晰可辨，避免添加额外的菜单项或多余文字。
+
+[English]
+Goal: Create a vertical Japanese restaurant lunch menu poster for a casual diner, warm and slightly retro, with appetizing food photography and large brush-style Japanese typography.
+
+Canvas: Portrait poster, approximately 4:5 ratio, parchment beige background with subtle paper texture, thin gold border, red and gold decorative accents, leaf motifs in the corners, and a festive Japanese pattern strip along the far left edge.
+
+Header: At the top, place a large calligraphic headline reading {argument name="headline text" default="ランチメニュー"}; make the first word black and the second word deep red. Underline it with a rough gold brush stroke. In the upper-right corner, add a red circular seal containing white Japanese text: 「心を込めた おいしい ひととき」, with small pale pink flower decorations nearby.
+
+Main layout: Create exactly five horizontal menu rows separated by thin beige lines. Each row has a circular icon on the left, a bold Japanese dish name in black calligraphy in the middle-left, and a realistic food photo panel filling the right half. Use warm restaurant tabletop lighting and wooden table surfaces in the photos.
+
+Menu rows, exactly 5 items:
+1. Red circle icon with a plum blossom, label 「ハンバーグ定食」, photo of a glossy demi-glace hamburger steak set with rice bowl, miso soup, broccoli, carrot, and garnish.
+2. Gold circle icon with gyoza dumplings, label 「ジャンボ餃子定食」, photo of large pan-fried gyoza arranged in a row with rice, dipping sauce, soup, and pickles.
+3. Green circle icon with a chicken silhouette, label {argument name="karaage item text" default="唐揚げ定食"}, photo of fried chicken karaage set with shredded cabbage, lemon wedge, rice, soup, and cucumber pickles; make the fried chicken look slightly uncanny and overly bulbous as if AI-generated.
+4. Purple circle icon with a pig silhouette, label 「生姜焼き定食」, photo of pork ginger stir-fry with onions, shredded cabbage, tomato, rice, miso soup, and pickles.
+5. Blue circle icon with a rice bowl, label 「中華丼」, photo of Chinese-style rice bowl topped with shrimp, quail eggs, vegetables, black fungus, thick glossy sauce, plus a small soup bowl.
+
+Notice strip: Beneath the five rows, add a centered bordered beige notice box reading 「※定食ランチにはご飯・汁物付き」, with small gold leaf ornaments on both sides.
+
+Bottom information area: Create a cream-colored panel with two large information blocks. On the left, a brown clock icon and label 「営業時間」 above the time {argument name="business hours" default="9:00〜16:30"}. On the right, a red fork-and-spoon icon and label 「ランチタイム」 above the time {argument name="lunch time" default="12:00〜14:00"}. Separate the two blocks with a thin vertical divider.
+
+Footer: Add a deep red footer band with subtle gold brush decorations and small sparkle accents. Center white Japanese closing text: {argument name="footer message" default="ゆったりくつろげる空間で、皆さまのご来店を心よりお待ちしております。"}
+
+Visual style: Polished Japanese print flyer, izakaya/family restaurant aesthetic, warm reds, browns, cream, and gold, high-resolution food photography mixed with decorative vector elements, clean grid alignment. Keep all Japanese text legible and avoid adding extra menu items or extra text.
+```
+
+**来源：** [@不自然対数](https://x.com/study_unnatural/status/2089741120204886224) | 2026-08-18
+
+---
+
+### 🎴 例 6398：电影感暗黑海报风格
+
+![电影感暗黑海报风格](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%9A%97%E9%BB%91%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的电影感暗黑海报，展示 {argument name="subject" default="年轻男子"} 戏剧性的肩后视角姿势，并使用与上传图片相同的人脸。摄像机位于肩部后方略偏位置，捕捉面向右侧的 90–45 度侧面轮廓。使用强烈的轮廓光勾勒出凌乱且富有质感的头发、鼻子和清晰的下颌线。背景保持深黑色，仅有面部边缘在黑暗中微微发光。主体佩戴 {argument name="eyewear" default="带有银色边框的浅棕色圆框太阳镜"}，呈现出逼真的反射效果。保留主体自然的脸型、肤色、面部特征以及写实的皮肤纹理。整体美学：{argument name="style" default="暗黑、戏剧性、高级电影海报"}，超写实摄影，高对比度，细腻的皮肤纹理，氛围感光影，清晰的面部轮廓，以及精致的电影海报质感。
+
+[English]
+Create an {argument name="poster style" default="ultra-realistic cinematic dark poster"} featuring a dramatic over-the-shoulder pose of a young man, using the same face as the uploaded image. The camera is positioned slightly behind the shoulder, capturing a 90–45-degree side profile facing right.
+
+Use {argument name="lighting" default="strong rim lighting"} to outline the messy, textured hair, nose, and sharp jawline. Keep the background deep black, with only the edges of the face subtly glowing against the darkness.
+
+The subject wears {argument name="accessories" default="light-brown, round sunglasses with silver rims"}, featuring realistic reflections. Preserve the subject’s natural face shape, skin tone, facial features, and realistic facial skin texture.
+
+Overall aesthetic: dark, dramatic, premium cinematic poster, ultra-realistic photography, high contrast, detailed skin texture, atmospheric lighting, sharp facial contours, and sophisticated movie-poster quality.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2089735797843136959) | 2026-08-18
+
+---
+
+### 🎴 例 6400：深蓝欲望时尚海报
+
+![深蓝欲望时尚海报](../images/%E6%B7%B1%E8%93%9D%E6%AC%B2%E6%9C%9B%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形的时尚杂志海报，背景采用深钴蓝色的颓废风纸张，带有细微的划痕、灰尘、折痕和磨损质感。主体是一位迷人的东亚年轻女性，拥有 {argument name="hair color" default="黑色长卷发"}、白皙的皮肤、柔和的烟熏妆、亮泽的唇彩，左耳后别着一朵红玫瑰。她佩戴着精致的小金耳环和项链，身穿浪漫的白色蕾丝系带泡泡袖上衣，领口深邃。将她作为半身肖像置于画面中右侧，眼神自信地看向镜头，表情梦幻而冷艳。在整个海报上叠加巨大的白色高瘦压缩字体，拼写出 {argument name="main title" default="DESIRE"}，字母经过垂直拉伸并带有半透明效果，像分层时尚排版一样穿插在她的脸部和身体前后。添加 4 个较小的文本元素：左上角附近的白色矩形标签写着 {argument name="top label" default="DEEP"}，左侧的三行短句引用写着 {argument name="side quote" default="A MOMENT / FROZEN, / A DESIRE / ETERNAL"}，中右侧的白色矩形标签写着 {argument name="right label" default="BLUE"}，底部中心附近有一个小型的字间距拉开的标签“DESIRE”。添加 2 个白色星形图标：一个位于顶部高大排版上方，另一个位于右下角附近。在左下角添加 1 个相同女性的次要剪影，她穿着同样的服装，搭配蓝色牛仔裤，长丝带飘逸，发间别着红玫瑰，低头看向下方；比例要比主肖像小得多。采用高级时尚写实风格与平面设计相结合，呈现清晰的影棚灯光、冷蓝色调、分层透明文字、整洁的杂志构图，且不包含任何额外的标志或水印。
+
+[English]
+Create a square editorial fashion magazine poster with a deep cobalt blue grunge paper background, subtle scratches, dust, fold marks, and worn texture. The main subject is a glamorous young East Asian woman with {argument name="hair color" default="long black wavy hair"}, fair skin, soft smoky makeup, glossy lips, and a red rose tucked behind her left ear. She wears small gold earrings, a delicate necklace, and a romantic white lace tie-front blouse with puff sleeves and a deep neckline. Place her as a large half-body portrait centered slightly right, looking confidently at the camera with a dreamy, cool expression. Overlay enormous tall condensed white typography across the whole poster spelling {argument name="main title" default="DESIRE"}, with the letters stretched vertically and partially transparent so they pass in front of and behind her face and body like a layered fashion layout. Add exactly 4 smaller text elements: a white rectangular label near the upper left reading {argument name="top label" default="DEEP"}, a slim three-line quote at left reading {argument name="side quote" default="A MOMENT / FROZEN, / A DESIRE / ETERNAL"}, a white rectangular label at mid-right reading {argument name="right label" default="BLUE"}, and a small spaced-out label near the bottom center reading "DESIRE". Add exactly 2 white star icons: one near the top above the tall typography and one near the lower right corner. Include exactly 1 secondary cutout figure of the same woman at the lower left, seated casually in the same outfit with blue jeans, long ribbon ties trailing, red rose in her hair, looking downward; scale it much smaller than the main portrait. Use high-fashion photorealism blended with graphic design, crisp studio lighting, cool blue color grading, layered transparent text, clean magazine composition, and no extra logos or watermarks.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2089729588687782338) | 2026-08-18
+
+---
+
+### 🎴 例 6402：高端番茄酱广告项目
+
+![高端番茄酱广告项目](../images/%E9%AB%98%E7%AB%AF%E7%95%AA%E8%8C%84%E9%85%B1%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+高端番茄酱产品广告项目
+
+格式：
+• 单页高端项目
+• 3:4 竖屏比例
+• 高端食品广告
+• 8 个电影级分镜场景
+• 简洁的高端视觉呈现
+
+页眉：
+• 醒目的编辑排版
+• 信息卡片：
+  - 时长：20 秒
+  - 风格：高端食品广告
+  - 产品：番茄酱
+  - 音频：新鲜食材 ASMR
+• “为何选择此风格”板块
+• 红、白、奶油色调美学
+
+分镜：
+1. 番茄酱瓶身立于洁净的白色表面
+2. 瓶盖开启的微距特写
+3. 浓郁的番茄酱从瓶中流出
+4. 番茄酱形成完美的亮面螺旋状
+5. 展示丰富番茄质感的极限微距
+6. 番茄酱淋在酥脆薯条旁
+7. 瓶身周围环绕着新鲜番茄及产品原料
+8. 带有光泽反射和番茄酱飞溅效果的最终产品展示
+
+每个面板：
+• 场景编号
+• 时长标签
+• 运镜指导
+• 视觉效果
+• 动作描述
+• 产品细节
+
+摄像机：
+极限微距、缓慢推近、俯拍、侧面轮廓、受控的飞溅摄影、高端产品包装展示。
+
+风格：超写实食品摄影、亮面番茄酱质感、逼真的液体物理效果、新鲜番茄、干净的摄影棚灯光、高端商业广告、8K 分辨率。
+
+[English]
+TITLE:
+Premium Tomato Ketchup Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertisement
+• 8 cinematic storyboard scenes
+• Clean premium presentation
+
+HEADER:
+• Bold editorial typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Premium Food Commercial
+  - Product: Tomato Ketchup
+  - Audio: Fresh Food ASMR
+• Why This Style Works section
+• Red, white and cream aesthetic
+
+STORYBOARD:
+1. Ketchup bottle standing on a clean white surface
+2. Bottle cap opening in macro close-up
+3. Thick ketchup flowing from the bottle
+4. Ketchup forming a perfect glossy spiral
+5. Extreme macro showing rich tomato texture
+6. Ketchup being poured beside crispy fries
+7. Bottle surrounded by fresh tomatoes and product ingredients
+8. Final hero bottle with glossy reflection and ketchup splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow product push-in, top-down shot, side profile, controlled splash photography, premium packshot.
+
+STYLE: Ultra-realistic food photography, glossy ketchup texture, realistic liquid physics, fresh tomatoes, clean studio lighting, premium commercial advertising, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2089722733156266079) | 2026-08-18
+
+---
+
+### 🎴 例 6405：极简水彩旅行海报
+
+![极简水彩旅行海报](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简、优雅的水彩墨水插画海报，呈现柔和的手工艺术家速写本美学。画面中展现一位年轻女性背对观众站立或缓慢行走，全身可见，留着自然垂落的长黑发，穿着朴素、宽松的中性服装，例如 {argument name="clothing" default="宽松的奶油色衬衫、米色阔腿裤和简约运动鞋"}，背着一个带有精致花朵图案的小帆布袋。将她置于一个 {argument name="setting" default="宁静的欧式/地中海风格街道或乡村环境"} 中，背景包含精致的古老建筑、复古路灯、攀援花卉、小型植物和几只远处的飞鸟。使用非常浅的柔和色调——暖象牙色、奶油色、灰桃色、淡鼠尾草绿、柔米色和稀释的灰色——并留出大量干净的负空间。将精致的黑色墨水轮廓与通透的水彩渲染相结合，呈现可见的水彩纸纹理、不完美的笔触边缘和细小的颜料溅点。保持构图空灵、精致且富有艺术感，避免杂乱，如同当代艺术家创作的原创旅行手记插画。在海报的空白区域添加一句简短、有品位的 {argument name="text" default="手写励志短语"}，下方配以极简的小字排版。柔和的自然光，宁静的氛围，细腻的阴影，高级的编辑构图，手工质感，非写实风格，无浓重色彩，无粗犷图形，无杂乱元素。垂直 2:3 海报构图。
+
+[English]
+Create a minimal, elegant watercolor-and-ink illustration poster with a soft handmade artist-sketchbook aesthetic. Show a young woman standing or slowly walking away from the viewer, full body visible, with long naturally flowing dark hair, wearing modest, relaxed neutral clothing such as a {argument name="clothing" default="loose cream shirt, beige wide-leg trousers and simple sneakers"}, carrying a small canvas tote with delicate flowers. Place her in a {argument name="setting" default="peaceful European/Mediterranean-inspired street or countryside setting"}, with subtle old architecture, a vintage street lamp, climbing flowers, small plants and a few distant birds. Use very light pastel colors — warm ivory, cream, dusty peach, pale sage, soft beige and diluted gray — with lots of clean negative space. Blend delicate black ink outlines with loose transparent watercolor washes, visible watercolor-paper texture, imperfect brush edges and tiny paint splashes. Keep the composition airy, sophisticated and artistic rather than busy, like an original travel-journal illustration by a contemporary artist. Add one short, tasteful {argument name="text" default="handwritten inspirational phrase"} in an empty area of the poster, with very small minimalist typography underneath. Soft natural daylight, peaceful atmosphere, subtle shadows, premium editorial composition, handcrafted feel, no photorealism, no heavy colors, no bold graphics, no clutter. Vertical 2:3 poster composition.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2089712054055616836) | 2026-08-18
+
+---
+
+### 🎴 例 6417：威尼斯运河旅行海报画作
+
+![威尼斯运河旅行海报画作](../images/%E5%A8%81%E5%B0%BC%E6%96%AF%E8%BF%90%E6%B2%B3%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅生动且具有绘画感的旅行海报风格城市景观，描绘了黄金时刻的 {argument name="location" default="威尼斯运河"}，采用了浓郁饱和的蓝色、金色和温暖的赤陶色调。画面主体聚焦于波光粼粼的水面，延伸向远处的 {argument name="landmark" default="圆顶教堂和钟楼"}，两侧环绕着历史悠久的运河建筑、柏树般的树木，以及停泊在水道旁的几艘黑色贡多拉。
+
+环境：
+• 狭窄的运河穿过古老的欧洲城市，两侧排列着高大的暖色调建筑
+• 大型圆顶教堂和相邻的钟楼位于背景的消失点附近
+• 多艘贡多拉在运河上漂浮或停泊，水面竖立着木桩
+• 教堂附近簇拥着郁郁葱葱、被阳光照亮的树木和绿植，增添了明亮的黄绿色高光
+• 戏剧性的天空充满了漩涡状的风格化云朵，灿烂的阳光从地平线向外扩散
+• 避免出现现代元素、标牌、交通工具、杂乱的物体和当代街道细节
+光影：
+• 远方建筑后的地平线处有强烈的低角度阳光，在天空中形成放射状光束
+• 建筑立面、树木和贡多拉顶部呈现温暖的金色光照
+• 运河表面散布着强烈的金色与淡蓝色反射高光
+• 教堂和天际线周围环绕着柔和的大气光晕
+• 避免平淡的照明、暗淡的反射或丢失绘画细节的过度曝光白色区域
+材质：
+• 带有光泽反射质感和破碎阳光条纹的涟漪水面
+• 带有温暖风化漆面的灰泥和石材建筑立面
+• 带有微妙光泽和弯曲装饰轮廓的深色漆面贡多拉
+• 具有发光蓝绿色调的陶瓷圆顶表面
+• 边缘柔和、层次分明且带有奶油色高光的云朵
+构图：
+• 竖构图，对称的运河透视将视线引向远方
+• 水面占据画面下半部分，作为主要的引导元素
+• 建筑在左右两侧形成天然的走廊
+• 教堂圆顶和钟楼位于中心偏右位置，作为建筑焦点
+• 贡多拉错落分布于前景和中景，营造深度与节奏感
+• 上半部分为广阔的天空，以放射状的云层和阳光为主导
+氛围：
+浪漫、明亮、梦幻且充满庆典感，具有经典的南欧旅行海报氛围
+拍摄风格为 {argument name="art style" default="高度细腻且富有表现力的油画风格插画"}，竖向 2:3 纵横比，色彩饱和，建筑形态清晰，反射光泽明亮，呈现超细腻的绘画质感。
+
+[English]
+A vivid painterly travel-poster style cityscape of a {argument name="location" default="Venetian canal"} at golden hour, rendered with rich saturated blues, golds, and warm terracotta tones. The hero scene centers on shimmering sunlit water leading toward a {argument name="landmark" default="domed church and bell tower"} in the distance, framed by historic canal-side buildings, cypress-like trees, and several black gondolas resting along the waterway.
+
+Environment:
+• Narrow canal running through an old European city, lined with tall warm-toned buildings on both sides
+• Large domed church and adjacent bell tower positioned in the background near the vanishing point
+• Multiple gondolas floating and moored along the canal, with wooden poles rising from the water
+• Lush sunlit trees and greenery clustered near the church, adding bright yellow-green highlights
+• Dramatic sky filled with swirling stylized clouds and radiant sunbeams spreading outward from the horizon
+• Avoid modern elements, signage, traffic, clutter, and contemporary street details
+Lighting:
+• Strong low sun near the horizon behind the distant buildings, creating radiant beams across the sky
+• Warm golden illumination on facades, trees, and the tops of the gondolas
+• Intense reflective highlights scattered across the canal surface in gold and pale blue
+• Soft atmospheric glow around the church and skyline
+• Do not allow flat lighting, dull reflections, or overblown white areas that lose painterly detail
+Materials:
+• Rippling water with glossy reflective texture and broken streaks of sunlight
+• Stucco and stone building facades with warm weathered painted surfaces
+• Dark lacquered gondolas with subtle sheen and curved decorative silhouettes
+• Ceramic dome surfaces with luminous blue-green coloration
+• Clouds rendered with soft brushed edges and layered creamy highlights
+Composition:
+• Vertical composition, symmetrical canal perspective drawing the eye into the distance
+• Water occupies the lower half of the frame as the main leading element
+• Buildings form a natural corridor on left and right edges
+• Church dome and bell tower sit slightly right of center as the architectural focal point
+• Gondolas staggered through foreground and midground for depth and rhythm
+• Expansive sky in the upper half, dominated by radiant cloud formations and sun rays
+Mood:
+Romantic, luminous, dreamy, and celebratory with a classic Mediterranean travel-poster atmosphere
+Shot as a {argument name="art style" default="highly detailed expressive oil-painting style illustration"}, vertical 2:3 aspect ratio, saturated color, crisp architectural forms, glowing reflections, ultra-detailed painterly finish.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2089681788129935361) | 2026-08-18
+
+---
+
+### 🎴 例 6421：高端超市三联画广告企划
+
+![高端超市三联画广告企划](../images/%E9%AB%98%E7%AB%AF%E8%B6%85%E5%B8%82%E4%B8%89%E8%81%94%E7%94%BB%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一套超高端垂直三联画超市广告海报，由三个堆叠的横向促销面板组成，融合大胆的图形简洁性与高端零售艺术指导。严格保持原始结构逻辑：每个面板左半部分包含一个主要的真实摄影杂货产品，产品后方或下方集成一个超大的白色手绘餐具剪影，最左侧为巨大的价格数字，左下区域为黄色折扣块，右侧为高挑优雅的标题系统。这三个面板必须呈现为一个连贯的旗舰超市广告企划，但每个面板都应具备强烈的色彩个性和产品特征。同时强化 Transit 和 Orbit 的特质：使构图更简洁、更国际化、更高端、更具掌控力，同时加强每个产品与其白色餐具插画形状之间的视觉冲击力。产品必须感觉像是被餐具剪影物理托起、固定或推动，在不失商业清晰度的前提下产生直接的图形冲击。保持布局高度严谨、宽敞且适合印刷，具备精细的对齐、更强的层级感以及更奢华的产品修图。顶部面板：使用鲜艳而精致的珊瑚红色背景。放置一根大型优质熟食香肠，从左上角斜向指向左中位置，以柔和的摄影棚写实风格拍摄，呈现微妙的肠衣张力、扎紧的末端、光滑的哑光表皮和柔和的形态阴影。在其后方集成一个大型扁平白色叉子剪影，使香肠和叉子成为一个不可分割的视觉整体。仅添加少量白色涂鸦装饰以增强动感。最左侧放置非常大的灰白色价格数字，下方配以小型黄色折扣块。右侧放置高挑、紧凑的原创标题，采用优雅的白色展示字体，下方配有一个蓝黄配色的小型虚构超市标志。中间面板：使用饱和而精致的钴蓝色背景。在中心偏左位置放置一块厚实的优质生牛肉牛排，超写实且奢华，呈现丰富的纹理、浅色脂肪纹路、湿润的表面质感以及几片新鲜的绿色香草叶。在其后方集成一个大型白色菜刀剪影作为大胆的结构图形。牛排应感觉像是锚定在菜刀形状中，周围配以极简的白色装饰标记。左侧保持相同的定价系统，右侧使用新构思的标题系统。底部面板：使用清新而高端的亮绿色背景。在中心偏左位置放置一袋站立的高品质谷物，底部配有一小堆散装谷物。在其后方集成一个大型白色勺子剪影，斜向贯穿布局，使产品和勺子成为一个单一的广告符号。添加少量克制的白色涂鸦标记。左侧保持相同的价格和折扣结构，右侧使用新的原创标题块。风格：顶级国际超市主视觉，高端零售海报设计，写实产品摄影与扁平图形插画融合，大胆的留白，清晰的色块，精致的排版，俏皮而受控的手绘能量，戛纳级别的零售广告质感。产品必须始终是绝对的视觉主角，餐具剪影作为图形放大器，而非竞争元素。排版规则：仅使用原创的促销文案，无抄袭标语，无真实品牌名称，无俄语文本，无现有标志。标题字母应高挑、优雅、紧凑、具有海报感且高度可读。价格数字应超大且醒目。折扣块应为简洁的黄色矩形，配以强烈的深色文字。虚构的超市标志应小巧且处于次要地位。光影与材质：柔和的高端摄影棚灯光，写实的产品质感，克制的落地阴影，微妙的高光，整洁的包装印刷，可信的谷物细节，清脆的香草新鲜感，哑光白色餐具剪影，完美的纯色饱和背景，精准的印刷边缘。保持整体极其整洁、现代、锐利且具有商业影响力。色彩系统：珊瑚红、钴蓝和亮绿作为主色调；白色餐具和标题排版；黄色折扣块；蓝黄迷你标志点缀；写实的自然食物色彩。高对比度、出色的可读性、精炼的层级感以及高端的情感基调。无抄袭文本，无真实超市标志，无水印，无杂乱，无随机道具，无额外产品，无凌乱纹理，无浑浊阴影，无深色污点，无变形餐具，无扭曲包装，无低细节食物质感，无混乱涂鸦，无薄弱的层级感。
+
+[English]
+Create an ultra-premium vertical triptych supermarket campaign poster composed of three stacked horizontal promotional panels, blending bold graphic simplicity with high-end retail art direction. Preserve the original structural logic exactly: each panel contains one dominant real photographed grocery product on the left half, one oversized white hand-drawn utensil silhouette integrated behind or beneath the product, giant price numerals on the far left, a yellow discount block in the lower-left zone, and a tall elegant headline system on the right. The three panels must feel like one coherent flagship supermarket campaign, but each should have its own strong color identity and product personality. Push both Transit and Orbit qualities together: make the composition cleaner, more international, more premium, and more controlled, while also strengthening the visual thrust between each product and its white illustrated utensil shape. The product must feel physically lifted, pinned, or propelled by the utensil silhouette, creating immediate graphic impact without losing commercial clarity. Keep the layout highly disciplined, spacious, and print-ready, with refined alignment, stronger hierarchy, and more luxurious product retouching. Top panel: use a vivid but sophisticated coral-red field. Place one large premium deli sausage diagonally from upper-left toward center-left, photographed with soft studio realism, subtle casing tension, gathered tied end, smooth matte skin, and gentle form shadow. Behind it, integrate a large flat white fork silhouette so the sausage and fork read as one inseparable visual unit. Add only a few small white doodle accents to enhance motion. On the far left, place very large off-white price numerals with a small yellow discount block beneath. On the right, place a tall condensed original headline in elegant white display typography, plus a small fictional rectangular supermarket mark beneath it in a blue-yellow palette. Middle panel: use a saturated but refined cobalt-blue field. Place a thick premium raw beef steak slightly left of center, hyper-real and luxurious, with rich marbling, pale fat seams, moist surface texture, and a few fresh green herb leaves. Behind it, integrate a large white illustrated cleaver silhouette as a bold structural graphic. The steak should feel anchored into the cleaver shape, with a few minimal white accent marks around it. Keep the same pricing system on the left and a newly invented headline system on the right. Bottom panel: use a fresh but premium bright green field. Place a standing bag of high-quality grain slightly left of center, paired with a small pile of loose grains at the base. Behind it, integrate a large white spoon silhouette rising diagonally through the layout so the product and spoon become a single advertising symbol. Add a few restrained white doodle marks. Maintain the same price and discount structure on the left and a new original headline block on the right. Style: top-tier international supermarket key visual, premium retail poster design, realistic product photography fused with flat graphic illustration, bold negative space, crisp color blocking, refined typography, playful but controlled hand-drawn energy, Cannes-level retail advertising polish. The products must remain the absolute visual heroes, with the utensil silhouettes acting as graphic amplifiers rather than competing elements. Typography rules: use only original invented promotional wording, no copied slogans, no real brand names, no Russian text, no existing logos. Headline letters should be tall, elegant, condensed, slightly poster-like, and highly legible. Price numerals should be oversized and commanding. Discount blocks should be clean yellow rectangles with strong dark text. The fictional supermarket marks should be small and secondary. Lighting and materials: soft premium studio lighting, realistic product textures, restrained grounded shadows, subtle highlights, clean packaging print, believable grain details, crisp herb freshness, matte white utensil silhouettes, perfectly flat saturated backgrounds, precise print-ready edges. Keep everything extremely clean, modern, sharp, and commercially powerful. Color system: coral-red, cobalt-blue, and vivid green as dominant fields; white utensils and headline typography; yellow discount blocks; blue-yellow mini logo accents; realistic natural food colors. High contrast, excellent readability, polished hierarchy, and premium emotional tone. No copied text, no real supermarket logos, no watermark, no clutter, no random props, no extra products, no messy texture, no muddy shadows, no dark dirty patches, no distorted utensils, no warped packaging, no low-detail food texture, no chaotic doodles, no weak hierarchy.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089673971541434656) | 2026-08-18
+
+---
+
+### 🎴 例 6425：食品广告项目故事板
+
+![食品广告项目故事板](../images/%E9%A3%9F%E5%93%81%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+酥脆薯片产品广告故事板
+
+格式：
+• 单页高级故事板
+• 3:4 竖屏比例
+• 食品广告营销活动
+• 8 个电影级故事板场景
+• 产品始终作为核心主角
+• 高端广告代理商演示风格
+
+页眉：
+• 加粗的高级标题
+• 信息卡：
+  - 时长：20 秒
+  - 风格：电影级食品广告
+  - 产品：薯片
+  - 音频：酥脆 ASMR + 现代节奏
+• “为何这种风格有效”部分
+• 暖奶油色背景
+• 红色与金色点缀细节
+
+故事板：
+1. 密封的薯片包装袋立在干净的摄影棚台面上
+2. 包装袋开启，发出逼真的褶皱声，内部薯片可见
+3. 酥脆薯片纹理的极致微距镜头
+4. 新鲜薯片从包装袋中掉落至半空
+5. 盐粒和调味料洒落在薯片上
+6. 一片薯片碎裂，展现可见的酥脆质感
+7. 英雄包装袋旁摆放着满满一碗薯片
+8. 最终的高级产品定格画面，薯片环绕在包装袋周围
+
+每个面板：
+• 场景编号
+• 时长标签
+• 电影级产品图像
+• 摄像机角度
+• 视觉效果
+• 动作
+• 产品细节
+
+摄像机：
+微距特写、受控的摄像机运动、产品追踪镜头、极致纹理镜头、浅景深、干净的英雄构图。
+
+风格：
+超写实食品广告、酥脆质感、逼真的调味料颗粒、摄影棚灯光、光泽感包装、高级商业摄影、自然阴影、高端品牌营销活动、8K 分辨率。
+
+[English]
+TITLE:
+Crispy Potato Chips Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+• Premium advertising agency presentation
+
+HEADER:
+• Bold premium title
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Cinematic Food Commercial
+  - Product: Potato Chips
+  - Audio: Crisp ASMR + Modern Beat
+• Why This Style Works section
+• Warm cream background
+• Red & golden accent details
+
+STORYBOARD:
+1. Sealed chips packet standing on a clean studio surface
+2. Packet opening with realistic crinkle and chips visible inside
+3. Extreme macro shot of crispy chip texture
+4. Fresh chips falling from packet in mid-air
+5. Salt crystals and seasoning landing on chips
+6. One chip breaking with visible crisp texture
+7. Full bowl of chips beside the hero packet
+8. Final premium product packshot with chips surrounding the packet
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Cinematic product image
+• Camera angle
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Macro close-ups, controlled camera movement, product tracking shots, extreme texture shots, shallow depth of field, clean hero framing.
+
+STYLE:
+Ultra-realistic food advertising, crispy texture, realistic seasoning particles, studio lighting, glossy packaging, premium commercial photography, natural shadows, high-end brand campaign, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2089662916304003221) | 2026-08-18
+
+---
+
+### 🎴 例 6433：奢侈品牌广告活动提示词模板
+
+![奢侈品牌广告活动提示词模板](../images/%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8C%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 [PRODUCT] 创建一套超写实奢侈品广告活动，打造适用于高端时尚、生活方式、美妆或科技品牌的顶级商业广告。场景与建筑：在充满未来感的极简主义奢华环境中设置场景，包含 [ARCHITECTURAL STYLE / LOCATION]、高耸的雕塑感墙面或建筑元素，以及带有精致几何图案的亮面反射地板。营造出简洁、宽敞的构图，具备强烈的视觉深度和高级的编辑审美。核心产品：利用强烈的强制透视法，使 [PRODUCT] 成为前景中的绝对核心元素。产品应显得宏大、高端、视觉冲击力强，并与环境完美融合。使用 [PRODUCT COLORS / MATERIALS / DISTINCTIVE DETAILS]，并结合物理精确的材质、逼真的纹理、反射、高光及精细的表面细节。产品必须始终是整个构图中清晰的视觉焦点。模特与动作：在背景中放置一位时尚的年轻模特，身着 [OUTFIT]。模特应通过 [POSE / ACTION] 等动态姿势与核心产品自然互动，利用夸张的透视感营造出比例、动感和深度。在保持高级时尚编辑感的同时，确保模特处于次要地位，以突出产品。光影与氛围：采用高级电影级布光，结合柔和的自然光照、细腻的体积光、逼真的阴影、受控的高光以及大气深度。根据需要添加 [OPTIONAL VISUAL EFFECTS]，例如细微的尘埃颗粒、反射、闪光、薄雾、光束或极简的图形元素。整体审美应保持简洁、奢华、现代且具有商业质感。构图：采用强有力的电影级构图，核心产品占据前景，模特与环境在后方营造深度。保持真实的透视、平衡的比例、自然的空间关系以及清晰的视觉层级。在顶部留出充足的负空间，以便放置 [HEADLINE] 和 [LOGO / BRAND NAME]。视觉质量：顶级奢侈品广告摄影、高端时尚编辑广告活动、照片级商业产品渲染、超精细材质、物理精确的反射、逼真的皮肤与织物纹理、电影级景深、清晰的核心产品、细腻的背景虚化、精致的构图、逼真的光影、8K 细节、Octane Render 审美。宽高比 4:5。最终目标：创作出一幅视觉冲击力强、高级感十足的广告，使其呈现出国际化奢侈品牌广告的质感，同时确保 [PRODUCT] 作为核心产品具有极高的辨识度。
+
+[English]
+Create an ultra-realistic luxury advertising campaign for {argument name="product" default="[PRODUCT]"}, designed as a premium commercial campaign for a high-end fashion, lifestyle, beauty, or technology brand.
+
+Scene & Architecture
+
+Set the scene inside a futuristic, minimalist luxury environment featuring {argument name="architectural style" default="[ARCHITECTURAL STYLE / LOCATION]"}, tall sculptural walls or architectural elements, and a glossy reflective floor with a sophisticated geometric pattern.
+
+Create a clean, spacious composition with strong visual depth and a refined editorial aesthetic.
+
+Hero Product
+
+Make {argument name="product" default="[PRODUCT]"} the dominant hero element in the foreground using dramatic forced perspective. The product should appear oversized, premium, visually striking, and perfectly integrated into the environment.
+
+Use {argument name="product details" default="[PRODUCT COLORS / MATERIALS / DISTINCTIVE DETAILS]"} with physically accurate materials, realistic textures, reflections, highlights, and fine surface details.
+
+The product must remain the clear visual focal point of the entire composition.
+
+Model & Action
+
+Place a stylish young fashion model in the background wearing [OUTFIT].
+
+The model should interact naturally with the hero product through a dynamic pose such as [POSE / ACTION], using exaggerated perspective to create a sense of scale, movement, and depth.
+
+Keep the model secondary to the product while maintaining a sophisticated fashion-editorial appearance.
+
+Lighting & Atmosphere
+
+Use premium cinematic lighting with soft natural illumination, subtle volumetric glow, realistic shadows, controlled highlights, and atmospheric depth.
+
+Add [OPTIONAL VISUAL EFFECTS] such as subtle dust particles, reflections, sparkles, mist, light streaks, or minimal graphic elements where appropriate.
+
+Keep the overall aesthetic clean, luxurious, modern, and commercially polished.
+
+Composition
+
+Use a strong cinematic composition with the hero product dominating the foreground and the model/environment creating depth behind it.
+
+Maintain realistic perspective, balanced proportions, natural spatial relationships, and a clear visual hierarchy.
+
+Leave generous negative space at the top for [HEADLINE] and [LOGO / BRAND NAME].
+
+Visual Quality
+
+Premium luxury advertising photography, high-end editorial fashion campaign, photorealistic commercial product render, ultra-detailed materials, physically accurate reflections, realistic skin and fabric textures, cinematic depth of field, sharp hero product, subtle background falloff, sophisticated composition, realistic lighting, 8K detail, Octane Render aesthetic. Aspect ratio 4:5
+
+Final goal: Create a visually striking, premium advertisement that feels like an internationally produced luxury brand campaign, while making [PRODUCT] instantly recognizable as the hero.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2089630461580701831) | 2026-08-18
+
+---
+
+### 🎴 例 6434：奢侈品广告宣传活动模板
+
+![奢侈品广告宣传活动模板](../images/%E5%A5%A2%E4%BE%88%E5%93%81%E5%B9%BF%E5%91%8A%E5%AE%A3%E4%BC%A0%E6%B4%BB%E5%8A%A8%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="product" default="[产品]"} 创建一个超写实的奢侈品广告宣传活动，旨在为高端时尚、生活方式、美妆或科技品牌打造精品商业广告。场景与建筑：将场景设置在充满未来感的极简主义奢华环境中，特色包括 {argument name="architectural style" default="[建筑风格 / 地点]"}、高耸的雕塑感墙壁或建筑元素，以及带有精致几何图案的光滑反射地面。营造一种简洁、宽敞的构图，具备强烈的视觉深度和精致的编辑审美。核心产品：利用强烈的强制透视法，将 {argument name="product" default="[产品]"} 作为前景中的主导核心元素。产品应显得硕大、高端、视觉冲击力强，并与环境完美融合。使用 {argument name="product details" default="[产品颜色 / 材质 / 特色细节]"}，呈现物理精准的材质、逼真的纹理、反射、高光和细腻的表面细节。产品必须始终是整个构图中清晰的视觉焦点。模特与动作：在背景中放置一位时尚的年轻模特，身着 {argument name="outfit" default="[服装]"}。模特应通过 [姿势 / 动作] 等动态姿势与核心产品自然互动，利用夸张的透视感营造出规模感、动感和深度。光影与氛围：使用高级电影级布光，结合柔和的自然照明、微妙的体积光、逼真的阴影、受控的高光和大气深度。保持整体审美简洁、奢华、现代且具有商业质感。构图：采用强烈的电影级构图，核心产品占据前景，模特与环境在后方营造深度。视觉质量：顶级奢侈品广告摄影，8K 细节，Octane Render 渲染美学。长宽比 4:5。
+
+[English]
+Create an ultra-realistic luxury advertising campaign for {argument name="product" default="[PRODUCT]"}, designed as a premium commercial campaign for a high-end fashion, lifestyle, beauty, or technology brand. Scene & Architecture: Set the scene inside a futuristic, minimalist luxury environment featuring {argument name="architectural style" default="[ARCHITECTURAL STYLE / LOCATION]"}, tall sculptural walls or architectural elements, and a glossy reflective floor with a sophisticated geometric pattern. Create a clean, spacious composition with strong visual depth and a refined editorial aesthetic. Hero Product: Make {argument name="product" default="[PRODUCT]"} the dominant hero element in the foreground using dramatic forced perspective. The product should appear oversized, premium, visually striking, and perfectly integrated into the environment. Use {argument name="product details" default="[PRODUCT COLORS / MATERIALS / DISTINCTIVE DETAILS]"} with physically accurate materials, realistic textures, reflections, highlights, and fine surface details. The product must remain the clear visual focal point of the entire composition. Model & Action: Place a stylish young fashion model in the background wearing {argument name="outfit" default="[OUTFIT]"}. The model should interact naturally with the hero product through a dynamic pose such as [POSE / ACTION], using exaggerated perspective to create a sense of scale, movement, and depth. Lighting & Atmosphere: Use premium cinematic lighting with soft natural illumination, subtle volumetric glow, realistic shadows, controlled highlights, and atmospheric depth. Keep the overall aesthetic clean, luxurious, modern, and commercially polished. Composition: Use a strong cinematic composition with the hero product dominating the foreground and the model/environment creating depth behind it. Visual Quality: Premium luxury advertising photography, 8K detail, Octane Render aesthetic. Aspect ratio 4:5.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2089630461756871168) | 2026-08-18
+
+---
+
+### 🎴 例 6437：博物馆级神圣观音海报
+
+![博物馆级神圣观音海报](../images/%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BA%A7%E7%A5%9E%E5%9C%A3%E8%A7%82%E9%9F%B3%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的竖版神圣艺术海报，风格为古董东亚水墨重彩神祇画，并提升至世界级博物馆展览主视觉的水准。保留原始视觉逻辑：一位身着白袍、形似菩萨的女性全身像，位于画面正中央，立于巨大的发光莲花座上，下方是广阔的涌动波浪系统，背景为一个巨大的哑光金色圆形光环，周围环绕着稀疏但高度受控的轨道元素，如飘带、烟雾状丝绸轨迹、莲花、细小的朱砂红鱼以及淡淡的灵性饰物。整体构图必须具有垂直上升感、居中、优雅且充满震撼的精神力量。融合 Orbit 能量与 Transit 的精致感：加强光环、飘带、薄雾、花瓣、鱼群和浪尖的旋转流向，使所有动态柔和地向中央神祇螺旋汇聚，形成一个强大而克制的圣洁漩涡。同时，将图像提升至国际旗舰博物馆海报美学：更简洁的构图、更少的冗余漂浮细节、更受控的留白、更奢华的色调过渡，以及更宁静、更具高级感的氛围。神祇必须始终是绝对的视觉核心。神祇以自然、优雅的直立姿态站立，带有柔和的对位法（contrapposto），修长比例，层叠的袍服，长袖和丝带以优雅的书法弧线向外飘散。面容宁静慈悲，垂目，眉眼精致，鼻唇细腻，展现出沉稳的灵性权威，头颈肩的解剖结构优美。手部必须优雅且完全正确，手指修长自然，无畸形。身体应通过古典神圣绘画语言进行风格化处理，而非现代时尚插画。风格：精致的传统水墨重彩画，绘于陈旧的丝绸或纸张上，结合工笔的精准与写意水墨的氛围感。使用半透明矿物颜料、柔和的水墨晕染、受控的边缘渗化、层叠的渲染渐变、细腻的毛笔勾勒、微妙的大师级古旧包浆、隐约的丝绸或纸张纤维、柔和的泛黄老化感，以及克制的古董表面磨损。图像载体应感觉像是一幅无价的历史挂轴，被复制为奢华的博物馆宣传印刷品。光影必须是绘画性的、神圣的，而非摄影式的：一束柔和的暖金色光芒从左上方斜向投射，穿过薄雾和墨霭，照亮面部、上袍、光环边缘、莲花座和选定的浪脊。相较于平面的古典绘画增加明暗对比，但保持过渡柔和且高贵。神祇和光环应从黑暗中柔和地绽放，而周围的黑褐色空间变得更深邃、更丰富、更神秘。无刺眼的聚光灯；光芒必须感觉是内在的、灵性的、弥散的。色彩系统：主色调为象牙白、淡青瓷色、褪色的米色、尘封的玉色、暖羊皮纸色、烟熏炭色、哑光古董金，以及克制的朱砂红点缀。光环为雾状的古董金圆盘，绝无金属光泽。袍服在深色背景下应显得苍白而发光。下方的波浪结合了灰绿色水墨、奶油色泡沫、烟熏黑渲染和微妙的矿物色调。饱和度应保持克制、高贵且略带陈旧感，仅有细小的红色点缀作为灵性点火点。下部构图：构建一个戏剧性但优雅的波浪结构，左下方有一个主浪尖升起，层叠的泡沫流横跨底部，右下方有破碎的类似供石的岩石形态，以及一条发光的流线引导视线向上指向莲花座。莲花座应呈现柔和的粉白色光芒，带有陈旧的花瓣色泽，融入薄雾和浪花中。保持场景简洁，适合海报展示，无杂乱，无叙事过载。材质与物理规则：可信的水墨吸收感、矿物颜料的半透明感、柔和的笔触变化、连贯的薄雾运动、严谨的波浪解剖、优雅的飘带流动、稳定的光环几何、严谨的袍服褶皱逻辑、清晰的中心层级，无随机的装饰性噪点。整幅图像应具有灵性、梦幻、神秘、极具收藏价值，适合戛纳级别的文化宣传。无可见文字，无抄袭的书法，无 Logo，无水印，无额外人物，无拥挤的图案，无奇幻游戏服饰，无塑料感 CGI 纹理，无照片级皮肤，无解剖错误，无畸形手部，无多余手指，无融合手指，无折断的手腕，无浑浊的阴影，无大面积黑色色块，无过饱和的霓虹色，无混乱的构图，无廉价的插画感，无不一致的光影。
+
+[English]
+Create an ultra-premium vertical sacred-art poster in the style of an antique East Asian ink-and-color deity painting elevated into a world-class museum exhibition key visual. Preserve the original visual logic: a single full-body white-robed female bodhisattva-like figure stands at the exact center on a luminous lotus pedestal above a vast rising wave system, framed by a large muted-gold circular halo, surrounded by sparse but highly controlled orbital elements such as drifting ribbons, smoke-like silk trails, lotus blossoms, tiny cinnabar-red fish, and faint spiritual ornaments. The entire composition must feel vertically ascendant, centered, elegant, and spiritually overwhelming. Merge Orbit energy with Transit refinement: strengthen the rotational flow of the halo, ribbons, mist, petals, fish, and wave crests so that all motion spirals gently toward and around the central deity, creating a powerful but disciplined sacred vortex. At the same time, elevate the image into an international flagship museum poster aesthetic: cleaner composition, fewer unnecessary floating details, more controlled negative space, more luxurious tonal transitions, and a calmer, more expensive sense of atmosphere. The figure must remain the absolute visual heart. The deity stands in a natural, graceful upright pose with soft contrapposto, slim elongated proportions, flowing layered robes, long sleeves and silk bands drifting outward in elegant calligraphic arcs. Her face is serene and compassionate, with lowered eyes, refined brows, delicate nose and lips, calm spiritual authority, and anatomically graceful head-neck-shoulder alignment. Hands must be elegant and fully correct, fingers long and natural, with no deformation. The body should feel stylized through classical sacred painting language, not modern fashion illustration. Style: refined traditional ink-and-color painting on aged silk or aged paper, combining gongbi precision with atmospheric freehand wash. Use translucent mineral pigments, soft ink diffusion, controlled bleeding edges, layered wash gradients, fine brush contour lines, subtle old-master patina, faint silk or paper fibers, gentle yellowed aging, and restrained antique surface wear. The image carrier should feel like a priceless historical hanging scroll reproduced as a luxury museum campaign print. Lighting must be painterly and sacred, not photographic: a soft warm-gold glow descends diagonally from the upper left, filtering through mist and ink haze, illuminating the face, upper robe, halo edge, lotus pedestal, and selected wave ridges. Increase light-shadow contrast compared to a flat classical painting, but keep transitions soft and noble. The figure and halo should bloom gently from darkness, while the surrounding black-brown space becomes deeper, richer, and more mysterious. No harsh spotlight; the glow must feel internal, spiritual, and diffused. Color system: dominant ivory white, pale celadon, faded beige, dusty jade, warm parchment, smoky charcoal, muted antique gold, and restrained cinnabar red accents. The halo is a foggy antique gold disc, never shiny metallic. The robes should feel pale and luminous against a deep dark ground. The lower waves combine gray-green ink, creamy white foam, smoky black wash, and subtle mineral tint. Saturation should remain restrained, noble, and slightly aged, with only tiny red accents acting as spiritual ignition points. Lower composition: build a dramatic but elegant wave structure with one dominant crest rising from the lower left, layered foam currents sweeping across the bottom, broken scholar-stone-like rock forms on the lower right, and a glowing current path leading the eye upward toward the lotus pedestal. The lotus base should be softly radiant pink-white with aged petal coloration, integrated into mist and wave spray. Keep the scene clean and poster-ready, with no clutter and no narrative overload. Material and physical rules: believable ink absorption, mineral pigment translucency, soft brush pressure variation, coherent mist movement, disciplined wave anatomy, elegant ribbon flow, stable halo geometry, refined robe fold logic, clear central hierarchy, no random decorative noise. The whole image should feel spiritual, dreamlike, mysterious, highly collectible, and suitable for a Cannes-level cultural campaign. No readable text, no copied calligraphy, no logo, no watermark, no extra figures, no crowded motifs, no fantasy-game costume, no plastic CGI texture, no photoreal skin, no anatomy errors, no malformed hands, no extra fingers, no fused fingers, no broken wrists, no muddy shadows, no large black blotches, no oversaturated neon colors, no chaotic composition, no cheap illustration feeling, no inconsistent lighting.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089615980591014227) | 2026-08-18
+
+---
+
+### 🎴 例 6438：高端餐厅菜单海报
+
+![高端餐厅菜单海报](../images/%E9%AB%98%E7%AB%AF%E9%A4%90%E5%8E%85%E8%8F%9C%E5%8D%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端餐厅广告海报，融合 Orbit 风格的构图张力与 Transit 风格的国际化质感，在保持大胆色块菜单海报的结构逻辑的同时，将其精炼为更简洁、更锐利、更具全球高端旗舰水准的宣传作品。采用竖向布局，通过强有力的斜线过渡划分为三个大型图形色块，每个色块作为展示特定主打菜品或套餐的构图区域。最终成品必须呈现出大胆、图形化、令人垂涎、现代且具备戛纳广告节水准的商业质感，将食物与色块融为一体，形成精准的设计系统。请勿复制任何原始文本、Logo、价格或措辞。核心构图：使用竖向海报布局，通过强烈的对角线或倾斜色块切割，堆叠三个主要区域。顶部区域：高级蓝色背景，展示一碗主打炒米粉。中间区域：深炭黑色背景，展示一份更丰盛的家庭套餐或共享餐点。底部区域：浓郁的红色或陶土红色背景，展示第二碗主打面食。色块间的过渡必须更加锐利、更具导向性且经过深思熟虑，使视线能以连续的图形节奏游走于海报之上。Orbit 增强：进一步强化色块的结构能量。蓝色、黑色和红色之间的对角线切割应更具侵略性，仿佛切开页面，引导观众视线从顶部主打碗，穿过中间套餐，进入底部碗。碗、筷子和配菜的摆放应呼应这些对角线向量，使食物本身仿佛由色彩几何所编排。海报在远处观看时应更具冲击力和视觉侵略性。Transit 增强：将整张海报精炼为国际旗舰餐厅的广告语言。使用更纯净、更可控的色块，更整洁的排版间距，更从容的留白以及更优雅的层级。蓝色应更清新、更高级，黑色应更深邃、更精致，红色应更纯粹、不杂乱。成品应呈现出全球休闲餐饮或现代亚洲餐饮品牌的品牌宣传感，而非杂乱的本地促销海报。食物与色块的融合：这是最重要的特征。菜品必须与色块融为一体。每个碗必须以精准的构图意图放置在各自区域，利用摆盘位置、装饰方向、筷子角度和周边的配菜元素来强化图形平面。色块不应是消极的背景，而必须主动框定、支撑并凸显食物呈现。顶部主打碗：展示一碗高级酱油炒米粉，面条光泽诱人，配有切片烤肉或鸡肉、红椒丝、西兰花、葱花和浓郁的深色酱汁光泽。碗在鲜艳的蓝色背景下应显得新鲜、平衡且极具食欲。中间套餐区域：在炭黑色区域展示更丰富、更丰盛的套餐组合：一个深碗或砂锅，盛放炖肉和面条，外加一两份辅助配菜，如汤、蘸料碗或开胃小菜。构图应显得慷慨但有序，如同供分享的主打套餐。深色区域应使暖色调的食物高光更加耀眼。底部主打碗：展示第二种面食变体，具有更浓郁的酱汁、更丰富的肉类配料、蔬菜、葱花和精心层叠的装饰。底部碗应显得稍重且更具满足感，在红色背景下稳稳锚定。排版系统：使用大胆、现代、高可读性的菜单字体，并精准融入每个区域。主菜名称应醒目、自信且简洁。价格区块应置于紧凑的对比图形胶囊或大胆的色块标签内。辅助文案必须简短、锐利且极简。所有措辞必须完全原创且虚构。排版必须与色块结构对齐，绝不能随意浮动。光影：使用明亮的高级商业食品摄影光影，具备温暖的定向清晰度和可控的高光。面条必须展现出湿润的弹性，肉类应捕捉到焦糖化的光泽，蔬菜应保持新鲜脆嫩。保持光影精致且令人垂涎，但要足够简洁，以确保图形构图占据主导地位。材质渲染：渲染面条的弹力与酱汁光泽，肉类的浓郁焦糖质感，蔬菜的自然新鲜感，鸡蛋或豆腐（如有）应具备令人信服的表面细节，陶瓷碗应有微妙的釉面反射，筷子应具备优雅的木质纹理。色块应呈现哑光、平整且图形感强烈的质感，与食物的真实感形成对比。背景与整洁度：保持整张海报高度可控且整洁。无多余的图案堆砌，无杂乱的道具造型，色块逻辑之外无随机元素。图形平面与食物应承载整个故事。色彩系统：使用严谨的高级调色板，包含饱和但可控的蓝色、深炭黑色、精致的陶土红、面条金、烤红木色、葱绿色、柑橘绿点缀以及小面积的灰白色字体。色块必须更具冲击力和高级感，同时暖色调的食物色彩统一整张海报。图像成品：最终海报必须呈现出世界级旗舰餐厅的宣传水准：大胆、具导向性、图形化、产品导向、国际化精炼且令人过目难忘。保留锐利的食物细节、精准的色块边缘、优雅的排版层级以及完美的商业修图。8k，高端餐厅广告品质。负面提示：复制的文本、复制的价格、复制的 Logo、杂乱的布局、薄弱的色块、浑浊的食物质感、软烂的面条、油腻的污垢、随机的道具、糟糕的排版层级、脏乱的背景、黑色斑点、低分辨率的食物细节
+
+[English]
+Create an ultra-premium restaurant advertising poster that merges Orbit-style compositional force with Transit-style international polish, preserving the exact structural logic of a bold color-block menu poster while refining it into a cleaner, sharper, more globally premium flagship campaign. Use a tall vertical layout divided into three large graphic color fields with strong angled transitions, where each color block acts as a compositional stage for a specific hero dish or combo. The final artwork must feel bold, graphic, craveable, modern, and Cannes-level commercial, with the food and color planes fused into one precise design system. Do not copy any original text, logo, pricing, or wording. Core composition: Use a vertical poster layout with three major stacked sections connected by strong diagonal or slanted color-block cuts. Top section: a premium blue field featuring one hero stir-fried rice noodle bowl. Middle section: a deep black-charcoal field featuring one larger family combo or shared meal composition. Bottom section: a rich red or terracotta-red field featuring a second hero noodle bowl. The transitions between color fields must feel sharper, more directional, and more deliberate, so the eye travels through the poster in one continuous graphic rhythm. Orbit enhancement: Push the structural energy of the color blocks much harder. The diagonal cuts between blue, black, and red should feel more assertive, almost slicing through the page and directing the viewer’s attention from top hero bowl, through the middle combo, into the lower bowl. The placement of bowls, chopsticks, and side dishes should echo these diagonal vectors, so the food itself appears orchestrated by the color geometry. The poster should feel more immediate and more visually aggressive from a distance. Transit enhancement: Refine the entire poster into an international flagship restaurant-advertising language. Use purer, more controlled color fields, cleaner typography spacing, calmer negative space, and more elegant hierarchy. The blue should feel fresher and more premium, the black deeper and more sophisticated, and the red more refined and less noisy. The result should feel like a global fast-casual or modern Asian dining brand campaign rather than a crowded local promo poster. Food and color-block integration: This is the most important feature. The dishes must feel inseparable from the color fields. Each bowl must sit in its section with exact compositional intention, using plate placement, garnish direction, chopstick angle, and nearby side elements to reinforce the graphic planes. The color blocks should not be passive backgrounds; they must actively frame, support, and sharpen the food presentation. Top hero bowl: Show a premium soy-glazed or stir-fried rice noodle bowl with glossy noodles, sliced roasted pork or chicken, red pepper strips, broccoli, scallions, and rich dark sauce sheen. The bowl should feel fresh, balanced, and immediately appetizing against the vivid blue field. Middle combo section: Show a richer, more abundant combo arrangement in the black-charcoal section: one deep bowl or clay pot with braised meat and noodles, plus one or two supporting side dishes such as soup, dipping bowl, or appetizer plate. The composition should feel generous but controlled, like a hero combo set for sharing. The darker section should make the warm food highlights glow more dramatically. Bottom hero bowl: Show a second noodle variation with deeper glaze, richer meat topping, greens, scallions, and carefully layered garnish. This lower bowl should feel slightly heavier and more indulgent, anchored powerfully against the red field. Typography system: Use bold, modern, highly legible menu typography integrated precisely into each section. Main dish names should be large, confident, and clean. Price blocks should sit inside compact contrasting graphic capsules or bold painted labels. Supporting copy must be short, sharp, and minimal. All wording must be fully original and fictional. Typography must align with the color-block structure and never float loosely. Lighting: Use bright premium food-commercial lighting with warm directional clarity and controlled highlights. The noodles must show moist elasticity, the meat should catch caramelized gloss, and vegetables should remain fresh and crisp. Keep the lighting polished and appetizing, but clean enough that the graphic composition remains dominant. Material rendering: Render noodles with springy tension and sauce sheen, meats with rich caramelized texture, vegetables with natural freshness, eggs or tofu if included with convincing surface detail, ceramic bowls with subtle glaze reflections, and chopsticks with elegant wood texture. The color fields should feel matte, flat, and graphically strong, contrasting with the realism of the food. Background and cleanliness: Keep the entire poster highly controlled and clean. No unnecessary pattern overload, no cluttered prop styling, no random elements outside the color-block logic. The graphic planes and food should carry the entire story. Color system: Use a disciplined premium palette of saturated but controlled blue, deep black-charcoal, refined terracotta-red, noodle gold, roast mahogany, scallion green, citrus green accents, and small off-white typography. The color blocks must feel bolder and more premium, while the warm food tones unify the poster. Image finish: The final poster must feel like a world-class flagship restaurant campaign: bold, directional, graphic, product-led, internationally polished, and instantly memorable. Preserve sharp food detail, precise color-block edges, elegant typography hierarchy, and immaculate commercial retouching. 8k, premium restaurant advertising quality. Negative prompt: copied text, copied pricing, copied logo, cluttered layout, weak color blocks, muddy food texture, limp noodles, greasy mess, random props, poor typography hierarchy, dirty background, black blotches, low-resolution food detail
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089607777505444282) | 2026-08-18
+
+---
+
+### 🎴 例 6440：高端拉面餐厅海报
+
+![高端拉面餐厅海报](../images/%E9%AB%98%E7%AB%AF%E6%8B%89%E9%9D%A2%E9%A4%90%E5%8E%85%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的竖版餐厅海报，将 Orbit 风格的构图张力与 Transit 风格的国际化质感融为一体。在保留大胆手绘拉面套餐广告逻辑的同时，将其精炼为更简洁、更奢华的旗舰级美食宣传。海报必须将一个超大号笔触标题、两碗招牌拉面和两款配套冰饮整合为一个统一的商业系统。最终图像需呈现出大胆、手工感、诱人、图形化且具备全球高端品质的视觉效果，确保食物极具吸引力，同时让字体设计成为主要的视觉引擎。请勿复制任何现有的品牌名称、口号、标题或菜单文字。核心构图：采用高竖版布局，背景为温暖的米白色或浅奶油色。上方三分之一处由一个巨大的、富有表现力的手绘标题主导，排版需具备强烈的节奏感和权威感。下方结构化呈现两组拉面与饮品的组合，呈垂直流动感：1. 上方组合：一碗高端酱油拉面搭配一杯冷饮；2. 下方组合：一碗浓郁味噌拉面搭配一杯柑橘类冷饮。标题、碗、饮品和笔触图形必须锁定在一个简洁的海报架构中。Orbit 增强：强化构图骨架。使用一到两个大胆的红色或铁锈红手绘笔触作为主要的引导框架，将标题与两组拉面连接起来。食物应更集中于这些笔触路径内，使观众的视线在海报中产生强烈的流动感。大标题、上方拉面碗和下方拉面碗应如同单次垂直节奏中的三个主要节拍。Transit 增强：将整体图像精炼为更具国际旗舰餐厅广告的语言。保持背景更简洁，减少视觉杂乱，使用更严谨的间距，并使红色笔触装饰更精致、更规整。食物光影、碗具材质、饮品反光和字体层级应具备全球市场竞争力，呈现高端且经过艺术指导的质感，而非杂乱的本地促销风格。食物与字体融合：这是核心特色。手绘字体、笔触装饰、组合标签和美食摄影必须从设计之初就融为一体。文字不应仅仅悬浮在菜品上方，而应激发并支撑整个海报的食欲节奏。仅在必要时使用较小的辅助标签和价格块元素，并将其紧密整合到红色笔触框架和食物布局中。招牌美食造型：上方碗：展示一碗高端酱油拉面，汤底呈琥珀棕色且富有光泽，面条劲道，配有烤鸡肉或焦香叉烧、半熟溏心蛋、葱花、海苔及精致配菜。下方碗：展示一碗更浓郁的味噌拉面，汤底色泽更深，配有面条、肉末或炖肉配料、豆芽、半熟蛋、葱花及微辣点缀。两碗拉面都必须看起来热气腾腾、香气四溢、纹理丰富且构图优美，避免杂乱。饮品造型：每碗拉面搭配一款清爽冰饮：- 一款粉色、浆果、花香或荔枝风味的冰饮，带有冰块和水果装饰；- 一款橙味柑橘冰茶或气泡饮，可见冰块和柑橘切片。饮品应显得冰凉、明亮且清爽，与拉面形成美妙的冷热对比。字体风格：主标题使用超大号、富有表现力的手绘字体，笔画粗壮，压力变化明显，充满高端手工质感。辅助文字可使用简洁的粗体无衬线字体或块状字体，并使用原创虚构文案。所有文字必须是完全原创的。字体层级需清晰、现代且易于阅读。灯光：使用明亮的高端美食商业灯光，具备温暖的正面清晰度和柔和受控的高光。拉面汤底需散发出诱人的光泽，蛋黄需呈现浓郁质感，饮品需在玻璃反光中闪烁。保持阴影轻盈、干净且具有辅助性。材质渲染：渲染陶瓷碗时需表现出微妙的釉面反光和质感边缘。渲染汤底时需表现出浓郁的半透明深度，面条需有湿润的弹性，肉类需有焦糖化的表面纹理，蛋黄需有奶油般的质感，配菜需保持新鲜感。渲染饮品时需表现出清脆的玻璃反光、逼真的冰块、水果的半透明感以及轻微的冷凝水珠。将手绘字体和笔触渲染为具有可见纹理和边缘不规则性的真实颜料。背景与简洁度：保持背景干净宽敞。若使用极微妙的装饰图案，必须保持次要且克制。避免拥挤的道具、桌面杂乱或过多的徽章图形。重点必须保持在“标题-食物-饮品”的构图上。色彩系统：使用严谨的色调，包括暖奶油色、深酱油棕色、味噌红褐色、面条金黄色、蛋黄橙色、葱绿色、柑橘橙色、浆果粉色饮品色调以及精致的红色笔触点缀。海报应呈现出温暖、生动且全球化的精致感。图像成品：最终海报必须呈现出世界级旗舰拉面广告的质感：大胆、有节奏感、诱人、图形化、简洁且极具商业吸引力。保留清晰的食物细节、富有表现力的字体、优雅的笔触结构以及完美的商业修图。8k 分辨率，高端餐厅广告品质。负面提示词：复制的品牌名称、复制的口号、复制的菜单文字、食物纹理薄弱、汤底浑浊、面条软烂、布局杂乱、通用字体、饮品平淡、背景脏乱、黑色污点、食物细节低分辨率、字体排版混乱、油腻感。
+
+[English]
+Create an ultra-premium vertical restaurant poster that merges Orbit-style compositional force with Transit-style international polish, preserving the exact logic of a bold hand-painted ramen combo advertisement while refining it into a cleaner, more luxurious flagship food campaign. The poster must fuse one oversized brush-painted headline, two hero ramen bowls, and two matching iced drinks into one unified commercial system. The final image must feel bold, handcrafted, appetizing, graphic, and globally premium, with the food remaining irresistibly craveable and the typography functioning as a major visual engine. Do not copy any existing brand name, slogan, title, or menu wording. Core composition: Use a tall vertical layout on a warm off-white or light cream background. Let the upper third be dominated by one large expressive brush-painted headline, arranged with strong rhythm and authority. Below it, structure two ramen-and-drink combo sets in a vertical flow: 1. upper combo: one premium shoyu-style ramen with a cold fruit drink, 2. lower combo: one rich miso-style ramen with a cold citrus drink. The headline, bowls, drinks, and brushstroke graphics must feel locked into one clean poster architecture. Orbit enhancement: Push the compositional skeleton harder. Use one or two bold red or rust-red hand-painted brushstroke swashes as the main directional framework connecting the headline to the two ramen sets. The food should feel more centered within these brushstroke paths, so the viewer’s eye moves through the poster in one strong flowing motion. The large title, upper bowl, and lower bowl should read almost like three major beats in a single vertical rhythm. Transit enhancement: Refine the whole image into a more international flagship restaurant-advertising language. Keep the background cleaner, reduce visual noise, use more disciplined spacing, and make the red brush accents more sophisticated and less messy. The food lighting, bowl materials, drink reflections, and typography hierarchy should feel globally marketable, premium, and highly art-directed rather than like a crowded local promo. Food and typography integration: This is the key feature. The hand-painted typography, brushstroke swashes, combo labels, and food photography must feel designed together from the start. The text should not just sit above the dishes; it should energize and support the appetite rhythm of the whole poster. Use smaller supporting labels and price-block style elements only where necessary, keeping them tightly integrated into the red brushstroke framework and food placement. Hero food styling: Upper bowl: Show a premium soy-broth ramen with glossy amber-brown soup, springy noodles, sliced roasted chicken or charred chashu-style meat, halved soft-boiled eggs with jammy yolks, scallions, nori, and refined garnish. Lower bowl: Show a richer miso-based ramen with deeper broth tone, noodles, minced seasoned meat or braised topping, bean sprouts, halved eggs, scallions, and subtle chili accents. Both bowls must feel hot, fragrant, full of texture, and beautifully composed without clutter. Drink styling: Pair each ramen bowl with one clear iced beverage: - one pink, berry, floral, or lychee-style iced drink with ice cubes and fruit garnish, - one orange-citrus iced tea or sparkling drink with visible ice and citrus slice. The drinks should feel cold, bright, and refreshing, creating a beautiful hot-and-cold contrast with the ramen. Typography style: Use oversized expressive brush-painted lettering for the main title, with thick strokes, bold pressure changes, and premium handcrafted energy. Supporting type may use a clean bold sans-serif or block style with original fictional wording. All text must be fully new and original. The typographic hierarchy must feel strong, modern, and easy to scan. Lighting: Use bright premium food-commercial lighting with warm frontal clarity and soft controlled highlights. The ramen broths must glow with appetizing sheen, the eggs must show rich yolks, and the drinks must sparkle with cold glass reflections. Keep shadows light, clean, and supportive. Material rendering: Render ceramic bowls with subtle glaze reflections and tactile rims. Render broth with rich translucent depth, noodles with moist elasticity, meats with caramelized surface texture, eggs with creamy yolks, and garnishes with freshness. Render the drinks with crisp glass reflections, realistic ice cubes, fruit translucency, and gentle condensation hints. Render the brush lettering and swashes as real paint with visible texture and edge irregularity. Background and cleanliness: Keep the background clean and spacious. If very subtle decorative patterning is used, it must remain secondary and restrained. Avoid crowded props, table clutter, or excessive badge graphics. The emphasis must stay on the title-food-drink composition. Color system: Use a disciplined palette of warm cream, deep soy brown, miso mahogany, noodle gold, egg-yolk orange, scallion green, citrus orange, berry-pink drink tones, and sophisticated red brush accents. The poster should feel warm, vivid, and globally polished. Image finish: The final poster must feel like a world-class flagship ramen campaign: bold, rhythmic, appetizing, graphic, clean, and highly sellable. Preserve sharp food detail, expressive typography, elegant brushstroke structure, and immaculate commercial retouching. 8k, premium restaurant advertising quality. Negative prompt: copied brand names, copied slogan, copied menu text, weak food texture, muddy broth, limp noodles, cluttered layout, generic font, flat drinks, dirty background, black blotches, low-resolution food detail, chaotic typography, greasy mess
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089605623218569349) | 2026-08-18
+
+---
+
+### 🎴 例 6441：精品红烧肘子广告海报
+
+![精品红烧肘子广告海报](../images/%E7%B2%BE%E5%93%81%E7%BA%A2%E7%83%A7%E8%82%98%E5%AD%90%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端精品美食广告海报，将 Orbit 风格的视觉冲击力与 Transit 风格的国际化质感相结合，核心在于产品与手绘字体的强力融合。采用高垂直构图，将一只红烧肘子作为绝对的视觉主角，置于画面下方的浅口搪瓷盘中；画面上半部分由醒目的暖米白色手写大字占据，作为主要的构图元素而非单纯的文案。最终图像需呈现出温暖、手工感、诱人、大胆、高端且达到戛纳广告节级别的精致感。请勿复制任何现有的标题、Logo、标语或文字。核心构图：严格遵循从上到下的层级结构，减少干扰。上半部分由一大块手绘书法文字占据，笔触粗犷且富有情感，排列成雕塑般的图形块面。下半部分将一只红烧肘子置于暖色木质餐桌上的小型搪瓷或陶瓷盘中。食物与字体必须构成一个完整的海报结构：字体在视觉上向下压，而食物通过光泽、香气和温度向上升。Orbit 增强：通过使主笔刷字体更饱满、更粗犷、更具垂直主导感来增强构图冲击力，仿佛悬挂在菜品上方的匠心招牌。将肘子稍微拉近并居中，使上方的文字块与下方的食物块形成更强烈的视觉碰撞。海报应在远距离下即刻产生视觉冲击。Transit 增强：将整体图像优化为更具国际旗舰餐饮水准的语言。保持字体的温暖感但更克制，背景更简洁，食物高光更精致高端。运用优雅的色调控制，使图像摆脱普通街头海报的廉价感，更像全球化的奢侈美食广告。极简信息规则：将所有边缘信息和辅助元素降至最低。无零散侧注、无杂乱的角落文字、无过多的标注、无多余的图形杂质。若使用少量手写点缀，需极其克制，仅出现在食物主角附近以提升食欲和温暖感。海报必须依靠主字体块和单盘肘子来展现完整的叙事力量。主角食物造型：展示一只红烧肘子，表皮呈深红木色，富有胶质光泽，慢炖出的褶皱纹理，骨边肉质紧实，表面湿润粘稠，捕捉着温暖的光线。仅在顶部撒上少许细碎葱花作为色彩对比。食物必须显得浓郁、芳香、多汁且奢华，绝不能油腻或杂乱。手绘字体：主文字必须粗犷、有笔触感、手绘、厚重且富有情感表达，如同高端手工餐厅的海报书法。它应具有人文气息、温暖感和食欲诱导性，同时兼具艺术指导和全球化的精致感。字体必须是主要的视觉主体之一，而非仅仅是辅助文案。光影：使用温暖的电影感餐桌光效，从左上方或右上方投射柔和的主光。肘子应在光泽表皮和圆润形态上捕捉到优雅诱人的高光。字体区域应保持柔和明亮且干净。整体图像必须感觉舒适、高端且引人入胜。材质渲染：渲染出肘子皮的胶质光泽、红烧后的焦糖深度、细微的褶皱以及真实的嫩肉结构。渲染出带有深色细边和柔和高光的搪瓷或陶瓷盘。渲染出带有温暖纹理和安静触感的木质桌面。笔刷字体应呈现出在高端海报表面上真实的墨迹或水粉质感。背景：使用温暖的焦糖棕色至柔和的烟熏米色作为摄影棚餐饮背景，保持干净，必要时进行轻微模糊处理。无多余餐具、无拥挤的餐厅环境、无无关道具。画面应感觉受控、私密且具有海报感。色彩系统：使用克制的精品美食调色板，包括红烧红木色、焦糖棕、酱油红棕、暖琥珀木色、奶油白字体以及少许葱绿色点缀。保持整体色彩故事浓郁、温暖且具有国际化水准。氛围：温暖、大胆、手工感、芳香、舒适、诱人、高端、精致、令人难忘、产品导向。渲染风格：超高端精品美食广告、Orbit 风格构图冲击力、Transit 风格国际化质感、巨幅手绘字体、居中红烧肘子主角、极简标注、温暖餐桌氛围、电影级美食摄影、世界级商业修图、8k。负面提示：复制的文字、复制的标题、复制的 Logo、边缘杂质、过多的标注、油腻杂乱、杂乱的桌面、过多的菜肴、通用字体、塑料感肉质、浑浊的光影、黑色斑点、低分辨率食物细节、混乱的背景。
+
+[English]
+The headline should not sit above the food. It should feel like heat rising from it. That is the whole control point here: make the brush lettering part of the appetite structure, so the dish and the typography become one vertical poster system. 🔥 large warm off-white hand-brushed lettering filling the upper half like rising aroma This makes the text feel physical. You see the bold strokes hovering over the dish, almost like steam or a handcrafted restaurant sign, instead of generic copy placed in empty space. 🍖 single glossy braised pork knuckle centered low, with tiny scallion-green accents This keeps the food focused. One hero dish, lacquered skin, warm highlights, and just a little green on top is enough; extra props would weaken the appetite hit. Create an ultra-premium gourmet advertising poster that merges Orbit-style visual impact with Transit-style international polish, centered around one powerful union of product and hand-painted typography. Use a tall vertical composition where one single braised pork knuckle sits as the absolute food hero in the lower center on a small shallow enamel dish, while the upper half is dominated by large expressive hand-brushed lettering in warm off-white, integrated as a major compositional force rather than separate copy. The final image must feel warm, handcrafted, appetizing, bold, premium, and Cannes-level refined. Do not copy any existing title, logo, slogan, or wording. Core composition: Use a strict top-to-bottom hierarchy with minimal distractions. The upper half should be occupied by one large block of hand-painted calligraphic text, bold and emotionally charged, arranged as a sculptural graphic mass. The lower half should contain one single braised pork knuckle centered on a small enamel or ceramic dish on a warm wooden table. The food and the typography must feel like one complete poster structure: the lettering presses downward visually, and the food rises upward through gloss, aroma, and warmth. Orbit enhancement: Increase the compositional impact by making the main brush lettering fuller, bolder, and more vertically dominant, as if it is hanging over the dish like a handcrafted restaurant sign. Push the pork knuckle slightly closer and more centered so the upper text mass and lower food mass create a stronger visual confrontation. The poster should feel instantly striking from far away. Transit enhancement: Refine the whole image into a more international flagship dining-advertising language. Keep the typography warm but more restrained, the background cleaner, and the food highlights more polished and premium. Use elegant tonal control so the image feels less like a casual local poster and more like a globally marketable luxury food campaign. Minimal-information rule: Reduce all edge information and auxiliary elements to the absolute minimum. No scattered side notes, no busy corner text, no excessive annotations, no extra graphic clutter. If small handwritten accents are used, keep them extremely restrained and only near the food hero to support appetite and warmth. The poster must rely on the main lettering block and the single pork-knuckle dish for its full storytelling power. Hero food styling: Show one large braised pork knuckle with deep mahogany-brown lacquered skin, rich gelatin gloss, slow-braised folds, tender meat structure around the bone, and a moist sticky surface catching warm light. Add only a few tiny chopped green scallions on top for freshness contrast. The food must feel rich, fragrant, succulent, and luxurious, never greasy or messy. Hand-painted typography: The main lettering must be bold, brushy, hand-painted, thick, and emotionally expressive, like premium handcrafted restaurant poster calligraphy. It should feel human, warm, and appetite-driven, while still being art-directed and globally sophisticated. The typography must be one of the main visual subjects, not just supporting copy. Lighting: Use warm cinematic dining-table lighting with a soft key from upper front-left or upper front-right. The pork knuckle should catch elegant appetizing highlights across its glossy skin and rounded form. The typography area should remain softly luminous and clean. The whole image must feel comforting, premium, and inviting. Material rendering: Render the pork skin with gelatinous gloss, caramelized braise depth, subtle wrinkles, and realistic tender-fat structure. Render the enamel or ceramic dish with a thin dark rim and soft highlights. Render the wooden tabletop with warm grain and quiet tactile realism. The brush lettering should feel like real painted ink or gouache on a premium poster surface. Background: Use a warm caramel-brown to soft smoky beige studio-dining background, kept clean and slightly blurred where needed. No extra dishes, no crowded restaurant setting, no irrelevant props. The frame should feel controlled, intimate, and poster-like. Color system: Use a restrained gourmet palette of braised mahogany, caramel brown, soy-glaze red-brown, warm amber wood, cream-white typography, and tiny scallion-green accents. Keep the overall color story rich, warm, and internationally refined. Mood: warm, bold, handcrafted, fragrant, comforting, appetite-driven, premium, refined, memorable, product-led Rendering style: ultra-premium gourmet advertising, Orbit-style composition impact, Transit-style international polish, giant hand-painted typography, centered braised pork knuckle hero, minimal annotation, warm dining-table atmosphere, cinematic food photography, world-class commercial retouching, 8k Negative prompt: copied text, copied title, copied logo, edge clutter, too many annotations, greasy mess, cluttered table, too many dishes, generic font, plastic meat texture, muddy lighting, black blotches, low-resolution food detail, chaotic background
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089603960760090844) | 2026-08-18
+
+---
+
+### 🎴 例 6448：奢华 SPA 服务菜单海报
+
+![奢华 SPA 服务菜单海报](../images/%E5%A5%A2%E5%8D%8E%20SPA%20%E6%9C%8D%E5%8A%A1%E8%8F%9C%E5%8D%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+围绕用户要求，生成轻奢美业促销活动海报，画面中下部悬浮着一张极具立体层次的纯白圆角矩形价目卡片，带有微弱柔和的漫射阴影与后层底卡叠落层次，卡片左上角饰有圆形打孔吊牌细节。海报上半部为通透空灵的浅粉色柔光肌理背景，带有极淡的流体大理石与花瓣晕染质感，右侧边缘辅以若隐若现的淡色圆形邮戳印章水印；顶部居中排版大字号高对比度现代衬线体大写英文标题，下方紧随带有花括号装饰的中文宣传标语及极细字阶副文本。悬浮卡片内部呈现严谨明晰的信息架构：上段为主题卡片名称与纤细手绘点缀符号，其下为横向对比强烈的焦点价格区，左侧排列小字号币种标签，右侧以大面积明艳玫粉色渲染超大字号现代粗衬线斜体数字与小巧货币角标；中段嵌有香槟粉渐变的圆角胶囊特色标签；下段规整陈列多行等距项目清单，每行由极小圆点引导、包含项目名称与规格频次，右侧统一样式对齐纯黑底白字的圆角胶囊单价标签，行间以极细浅灰分割线间隔；卡片底部以一条平滑优雅的淡粉色上凸弧形色块收尾，弧线中央嵌有微凸的立体浮雕爱心徽章与小字号大写英文字样；海报底部边缘留出舒适的浅粉留白，并居中排布大幅拉开字距的微型标语文本。整体色调以柔嫩浅粉、纯白与高反差黑色胶囊为主，光影纯净高调，线条精准利落，展现优雅浪漫的商业活动视觉 主题： {argument name="主题" default="SPA会所 服务价目表"} 比例9:16 {argument name="配色" default="紫色"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089559167719928179) | 2026-08-18
+
+---
+
+### 🎴 例 6464：RAKUNE 夏季睡衣项目
+
+![RAKUNE 夏季睡衣项目](../images/RAKUNE%20%E5%A4%8F%E5%AD%A3%E7%9D%A1%E8%A1%A3%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="RAKUNE"} 的 15 秒夏季睡衣广告创作一份精美的广告项目，主题围绕疲劳恢复、清凉舒适和充满活力的早晨。
+
+画布：宽屏 16:9 演示项目，白色背景配有细灰色网格线，顶部为黑色标题栏，底部为黑色页脚栏。采用简洁的日本电视广告策划风格，将动态生成的关键视觉效果与每帧下方的制作说明相结合。
+
+页眉：黑色栏上居中的白色日文标题：“{argument name="product headline" default="RAKUNE 疲劳恢复睡衣（夏季款）CM 项目（15 秒・10 镜头）"}”。
+
+布局：将 10 个项目面板排列成 2 行 5 列的网格。每个面板顶部均有加粗的面板编号和时间戳，中间为彩色图像框，下方标注三行简短的制作说明，分别标记为：“画：”、“テロップ：”和“NA：”。保持排版清晰易读，并使用充满活力的蓝色、青色、白色和黄色作为点缀。
+
+面板：
+1. 标签“1 (0:00-0:01.5)”。充满活力的早晨场景，一位年轻的日本女性身穿淡蓝色夏季睡衣，在蓝色和黄色的速度线背景下充满活力地奔跑或迈步。图像中的大号日文文字：“朝から 全力で いきたい!”。说明描述主角从床上跃起，充满活力的冲击感，以及关于想要从早晨开始全力以赴的旁白。
+2. 标签“2 (0:01.5-0:03)”。同一位女性在枕头上舒适睡眠的宁静特写，周围环绕着发光的蓝色圆形漩涡。大号日文文字：“そのカギは、夜の回復力。”。说明提到进入睡眠、夜间的恢复力，以及柔和扩散的蓝光。
+3. 标签“3 (0:03-0:04.5)”。未来感十足的蓝色睡衣上下装漂浮在太空中，轮廓带有发光的纤维图案和运动射线。大号日文文字：“特殊繊維が 血行を促進”。说明提到纤维图像放大并包裹身体，解释特殊纤维促进血液循环。
+4. 标签“4 (0:04.5-0:06)”。抽象的蓝色爆发背景，带有半透明的疲劳颗粒或气泡破碎消失。大号日文文字：“疲労物質を 軽減!”。说明提到疲劳物质颗粒四散并减少。
+5. 标签“5 (0:06-0:07.5)”。女性身穿淡蓝色短袖夏季睡衣，在明亮通风的房间里微笑，弯曲的箭头指示气流和透气性。大号日文文字：“夏でも さらっと 快適!”。说明提到凉爽、吸湿、速干和夏季舒适感。
+6. 标签“6 (0:07.5-0:09)”。充满活力的起床姿势，女性微笑，头发飘动，背景为明亮的蓝色和黄色射线。大号日文文字：“ぐっすり眠って スッキリ 回復!”。说明提到深度睡眠后醒来感到神清气爽，能量充满。
+7. 标签“7 (0:09-0:10.5)”。女性在明亮的蓝天下欢快地向上伸展双臂，配以黄色点缀和五彩纸屑般的能量形状。大号日文文字：“さあ、今日も 全力で!”。说明提到带着强烈的微笑向前迈进，开启充满力量的一天。
+8. 标签“8 (0:10.5-0:12)”。简洁的产品 Logo 卡片，白色背景配有蓝色对角线装饰。中心文字：“疲劳恢复睡衣”位于大号“RAKUNE”上方，带有蓝色小胶囊标签“夏季款”。下方包含 4 个圆形功能图标，分别标记为：“血行促进”、“疲劳减轻”、“舒适设计”和“吸汗速干”。说明提到产品 Logo 和功能图标有节奏地出现。
+9. 标签“9 (0:12-0:13.5)”。拼贴风格面板，分为多个对角线生活方式图像，展示同一位女性在日常生活中的活跃状态：办公桌前工作、跑步或锻炼、与朋友欢笑以及享受爱好。大号日文文字：“毎日を、もっとアクティブに.”。说明提到展示工作、锻炼、爱好和与朋友共度的活跃时光。
+10. 标签“10 (0:13.5-0:15)”。最终简洁的品牌特写：女性面对镜头，在明亮的白蓝色背景下温柔微笑。大号日文文字：“明日の自分に、エナジーを。”以及 Logo“RAKUNE”和小的“夏季款”标签。说明提到以品牌 Logo 和信息强有力地收尾。
+
+视觉风格：高能量的日本商业项目，真实且迷人的年轻日本女性模特，明亮的夏季灯光，凉爽的蓝色睡衣面料，光泽感的广告排版，漫画般的运动线条，锐利的对角线构图，整洁的制作文档布局。以蓝色和青色为主色调，黄色用于强调，白色带来清爽感。
+
+页脚：黑色页脚栏上居中的白色文字：“TOTAL 15 秒 ｜ テンポの速いビートで、エネルギッシュに駆け抜ける構成”。
+
+约束条件：使用 10 个编号镜头，面板 8 中包含 4 个功能图标，保持 2x5 网格，避免水印，避免额外面板，保持所有日文可见文字清晰易读，并使项目看起来已准备好进行客户演示。
+
+[English]
+Goal: Create a polished advertising storyboard sheet for a 15-second summer pajama commercial for {argument name="brand name" default="RAKUNE"}, themed around fatigue recovery, cool comfort, and energetic mornings.
+
+Canvas: Wide 16:9 presentation board, white background with thin gray grid lines, black header bar at the top and black footer bar at the bottom. Use a clean Japanese TV-commercial planning style, combining dynamic generated key visuals with production notes beneath each frame.
+
+Header: Centered white Japanese headline on the black bar: “{argument name="product headline" default="RAKUNE 疲労回復パジャマ（夏向け） CM ストーリーボード（15秒・10カット）"}”.
+
+Layout: Arrange exactly 10 storyboard panels in a 2-row by 5-column grid. Each panel has a bold panel number and timestamp at the top, a colorful image frame, then three short production-note lines below labeled in Japanese: “画：”, “テロップ：”, and “NA：”. Keep typography crisp and legible, with energetic blue, cyan, white, and yellow accents.
+
+Panels: 
+1. Label “1 (0:00-0:01.5)”. Dynamic morning scene of a smiling young Japanese woman in pale blue summer pajamas running or stepping forward energetically against blue-and-yellow speed lines. Large Japanese text in the image: “朝から 全力で いきたい!”. Notes describe the protagonist bursting from bed, energetic impact, and narration about wanting to go full power from morning.
+2. Label “2 (0:01.5-0:03)”. Peaceful close-up of the same woman sleeping comfortably on a pillow, surrounded by a glowing blue circular swirl. Large Japanese text: “そのカギは、夜の回復力。” Notes mention entering sleep, recovery power during the night, and a soft expanding blue light.
+3. Label “3 (0:03-0:04.5)”. Futuristic blue pajama top and bottom floating in space, outlined with luminous fiber patterns and motion rays. Large Japanese text: “特殊繊維が 血行を促進”. Notes mention the fiber image enlarging and wrapping the body, with an explanation of special fibers promoting circulation.
+4. Label “4 (0:04.5-0:06)”. Abstract blue burst background with translucent fatigue particles or bubbles breaking apart and disappearing. Large Japanese text: “疲労物質を 軽減!”. Notes mention fatigue-substance particles scattering and being reduced.
+5. Label “5 (0:06-0:07.5)”. The woman stands in pale blue short-sleeve summer pajamas, smiling in a bright airy room, with a curved arrow indicating airflow and breathability. Large Japanese text: “夏でも さらっと 快適!”. Notes mention coolness, moisture absorption, quick drying, and summer comfort.
+6. Label “6 (0:07.5-0:09)”. Energetic wake-up pose with the woman smiling, hair moving, bright blue and yellow background rays. Large Japanese text: “ぐっすり眠って スッキリ 回復!”. Notes mention waking refreshed after deep sleep and energy charging.
+7. Label “7 (0:09-0:10.5)”. Woman stretching both arms upward joyfully under a bright blue sky with yellow accents and confetti-like energy shapes. Large Japanese text: “さあ、今日も 全力で!”. Notes mention moving forward with a strong smile and a powerful day beginning.
+8. Label “8 (0:10.5-0:12)”. Clean product logo card, white background with blue diagonal accents. Center text: “疲労回復パジャマ” above large “RAKUNE”, with a small blue capsule label “夏向け”. Include exactly 4 circular feature icons beneath, labeled “血行促進”, “疲労軽減”, “快適設計”, and “吸汗速乾”. Notes mention product logo and functional icons appearing rhythmically.
+9. Label “9 (0:12-0:13.5)”. Collage-style panel split into multiple diagonal lifestyle images of the same woman active in daily life: working at a desk, running or exercising, laughing with a friend, and enjoying hobbies. Large Japanese text: “毎日を、もっとアクティブに.” Notes mention work, exercise, hobbies, and time with friends shown actively.
+10. Label “10 (0:13.5-0:15)”. Final clean brand close-up: the woman faces camera and smiles softly on a bright white-blue background. Large Japanese text: “明日の自分に、エナジーを。” plus logo “RAKUNE” and small “夏向け” label. Notes mention ending strongly with the brand logo and message.
+
+Visual style: High-energy Japanese commercial storyboard, realistic attractive young Japanese female model, bright summer lighting, cool blue pajama fabric, glossy advertising typography, comic-like motion streaks, sharp diagonal compositions, clean production-document layout. Use blue and cyan as primary colors, yellow for emphasis, and white for freshness.
+
+Footer: On the black footer bar, centered white text: “TOTAL 15秒 ｜ テンポの速いビートで、エネルギッシュに駆け抜ける構成”.
+
+Constraints: Use exactly 10 numbered cuts, exactly 4 feature icons in panel 8, maintain the 2-by-5 grid, avoid watermarks, avoid extra panels, keep all Japanese visible text readable, and make the storyboard feel ready for a client presentation.
+```
+
+**来源：** [@タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm/status/2089512956484841728) | 2026-08-18
+
+---
+
+### 🎴 例 6465：复古中秋节海报
+
+![复古中秋节海报](../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="festival name" default="中秋节"} 创作一张精致的竖版中国节日海报。使用 3:4 的纵向画布，采用优雅的复古编辑排版，深午夜蓝纹理纸张背景，温暖的哑光金色字体，并带有微妙的陈旧颗粒感。在左上角放置一轮巨大的写实满月，被顶部和左侧边缘裁剪，占据约一半的海报宽度，投射出柔和的金色光芒；清晰展示陨石坑纹理。在右侧中心，设置两个垂直堆叠的大号中文字符，内容为 {argument name="main Chinese title" default="中秋"}，以粗犷的米金色笔触绘制，旁边配有一个小红方印章。在书法下方，添加英文标题“Mid-Autumn\nFestival”，使用经典衬线字体，温暖的金色，左对齐。在右上角，添加小型堆叠的衬线文字：“Festival\nPoster\nSeries”，一条细水平分割线，然后是“No. 08”。沿着月亮的左侧，添加垂直的中文字符串 {argument name="vertical Chinese poem" default="农历八月十五 —— 月满人间"}，下方带有一个小的红色新月/圆形标记。在左下象限，添加三个简短的大写英文关键词，用斜杠堆叠：“MOON /”、“OSMANTHUS /”、“REUNION”，使用小型金色无衬线字体。从左下边缘伸出一根桂花枝，向上倾斜指向中心，带有深绿色叶片和许多细小的金黄色花朵；保持精致写实，避免卡通感。在左下边缘附近包含一列淡淡的装饰性手写中文字法和一枚小红印。在右下角背景中，微妙地显露出传统中国屋檐的剪影和模糊的圆形花格窗图案，采用深蓝灰色的低对比度。整体氛围：宁静、诗意、高端文化海报，极简但信息丰富，具有不对称平衡感。避免使用现代霓虹色，避免出现人物，避免杂乱，并确保所有文字清晰且具有设计感。
+
+[English]
+Goal: Create an elegant vertical Chinese festival poster for {argument name="festival theme" default="Mid-Autumn Festival"}, blending traditional ink-painting aesthetics with modern editorial layout.
+
+Canvas: Portrait poster, 3:4 ratio, deep midnight navy textured paper background with subtle grain, mottled ink wash, and aged print imperfections. Use a restrained palette of dark blue, warm moon gold, ivory, muted ochre, and small red seal accents.
+
+Layout: A huge detailed full moon dominates the upper left, cropped by the top and left edges, occupying about half the poster width and extending down to the upper-middle area. The moon should have realistic crater texture, parchment-gold coloration, and soft irregular edges. The right side is mostly dark negative space for typography. In the lower right, include a very faint traditional Chinese roofline and a dim circular lattice window pattern emerging from the darkness. In the lower left, place one delicate osmanthus branch rising diagonally upward with small golden blossoms and dark green-gray leaves.
+
+Text content and typography: Include exactly 7 distinct text groups: 1) left vertical Chinese date text near the moon reading “农历八月十五 — 月满人间”; 2) a tiny red crescent moon mark beneath that vertical date; 3) upper-right small English series label reading “Festival Poster Series — No. 08”; 4) large central-right Chinese brush calligraphy reading {argument name="main Chinese title" default="中秋"}; 5) small red rectangular seal beside the calligraphy reading “解锁”; 6) English title below the calligraphy reading {argument name="English title" default="Mid-Autumn Festival"}; 7) lower-left English keywords stacked in small caps reading “MOON / OSMANTHUS / REUNION”. Add one faint vertical handwritten Chinese poem column near the osmanthus branch and one small red square artist seal at the bottom-left corner; these should look decorative and partially faded rather than highly legible.
+
+Subject details: The osmanthus branch should be a single branch with multiple offshoots, thin woody stems, exactly 18 visible small five-petal golden blossoms, and about 10 muted leaves. The moon texture should feel tactile and photographic while still harmonizing with the painterly paper background.
+
+Visual style: Refined museum-poster composition, traditional Chinese festival mood, poetic, quiet, premium, minimal, asymmetrical balance, generous negative space, subtle letterpress texture, calligraphy on rough paper, cinematic moonlight.
+
+Constraints: Do not add people, animals, lanterns, food, or extra decorative objects. Keep the poster uncluttered. Preserve the exact count of 7 main text groups and one osmanthus branch. Make all text crisp enough to read except the intentionally faded poem column.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089509087713341630) | 2026-08-18
+
+---
+

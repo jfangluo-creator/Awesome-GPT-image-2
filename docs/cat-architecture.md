@@ -3866,3 +3866,75 @@ Create a cinematic photorealistic vertical action scene of exactly two giant hum
 
 ---
 
+### 🏛️ 例 6406：身着柔和色调睡衣的两位女性卧室场景
+
+![身着柔和色调睡衣的两位女性卧室场景](../images/%E8%BA%AB%E7%9D%80%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E7%9D%A1%E8%A1%A3%E7%9A%84%E4%B8%A4%E4%BD%8D%E5%A5%B3%E6%80%A7%E5%8D%A7%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实且光线柔和的生活方式照片，画面中两位年轻的东亚女性并排坐在舒适的床上，身处一间柔和色调的卧室里，她们面向镜头，带着温和自然的微笑。左侧的女性是 {argument name="left character" default="一位留着黑色长直发、中分偏侧的年轻东亚女性"}，身穿 {argument name="left outfit" default="带有微小粉色花朵印花的奶油色睡衣"}，怀里抱着一个方形米色纹理抱枕。右侧的女性是 {argument name="right character" default="一位留着齐肩深棕色头发、带有轻盈空气刘海的年轻东亚女性"}，身穿 {argument name="right outfit" default="带有白色滚边的淡蓝色竖条纹扣子睡衣"}，手里拿着一个毛茸茸的象牙白心形抱枕。将她们肩并肩置于画面中心，展示腰部以上至膝盖的部位，双手自然放松，确保面部特征、发型和服装清晰且不混淆。卧室氛围应温馨且充满女性气息：白色金属床架、奶油色和腮红色的床上用品、右侧放着一个巨大的淡粉色枕头、左侧边缘有一个毛绒粉色靠垫，床头柜上摆放着一盏褶皱暖光灯、一个小相框以及一瓶淡粉色玫瑰花。背景中加入微微模糊的柔和色调墙面装饰，左侧透出日光、散发光泽的透明白窗帘，整体采用暖米色和腮红色的调色风格，浅景深，呈现干净自然的皮肤质感，高分辨率写实效果，无文字，无水印，无多余人物。
+
+[English]
+Create a realistic, softly lit lifestyle photograph of two young East Asian women sitting close together on a cozy bed in a pastel bedroom, facing the camera with gentle natural smiles. The woman on the left is {argument name="left character" default="a young East Asian woman with long straight black hair parted slightly off-center"}, wearing {argument name="left outfit" default="cream pajamas with a tiny pink floral print"} and hugging a square beige textured pillow across her lap. The woman on the right is {argument name="right character" default="a young East Asian woman with shoulder-length dark brown hair and soft wispy bangs"}, wearing {argument name="right outfit" default="pale blue vertical striped button-up pajamas with white piping"} and holding a fluffy ivory heart-shaped pillow. Place them shoulder-to-shoulder in the center of the frame, waist-up to knees visible, with relaxed hands and distinct faces, hairstyles, and outfits that do not blend together. The bedroom should feel warm and feminine: white metal bedframe, cream and blush bedding, a large pale pink pillow on the right, a furry pink cushion on the left edge, a bedside table with a pleated warm lamp, a small framed picture, and a vase of pale pink roses. Add softly blurred pastel wall prints in the background, sheer white curtains glowing with daylight from the left, warm beige and blush color grading, shallow depth of field, clean natural skin texture, high-resolution photorealism, no text, no watermark, no extra people.
+```
+
+**来源：** [@千田結穂（せんだゆいほ）](https://x.com/jins2001jp/status/2089707418335002728) | 2026-08-18
+
+---
+
+### 🏛️ 例 6419：极简主义房地产销售海报
+
+![极简主义房地产销售海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%94%80%E5%94%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为虚构的开发商品牌创作一张超高端房地产销售海报，设计成极简主义的建筑展示项目，融合超写实的建筑成品与精准的技术绘图语言。保持严格的二分区构图：上半部分为精致的建筑立面剖面图，采用超细灰色绘图线条、尺寸标注、稀疏的英文注释以及淡淡的比例轮廓；下半部分为完全实现的住宅，呈现为超写实的正面建筑摄影效果。整张图像必须同时具备世界级豪华地产发布视觉图、具有收藏价值的建筑师概念图以及精英销售宣传海报的质感。
+
+建筑必须保持极度的极简，同时具备更强烈的向外延伸感。设计一座低矮的水平向当代玻璃住宅，拥有严谨的直线轮廓，但要强调微妙的空间推力：左侧亭阁体量更果断地向外突出，屋顶平面和楼板以优雅的悬挑张力延伸，中央玻璃生活区向侧面拉伸，保持干净且不间断的透明度，露台平面像一种平静的建筑扩张姿态一样向观者伸展。建筑必须给人以克制、从容且静谧的感觉，但又明确具备空间延伸的能力，仿佛整个构图正在向景观中呼吸。这种延伸感应源于比例、悬挑、板厚、玻璃的连续性和平台几何形状，而非视觉杂乱。
+
+下方的建筑视图是绝对的视觉锚点：画面中心是一座原始纯净的住宅，正视角度，几何精准，完全可建造，配有黑色金属框架、落地低铁玻璃、温暖的木质内饰、浅色混凝土或石灰粉刷墙面，以及一个向前和向侧面延伸的轻薄悬浮平台露台。室内空间可见但极简，展示架、餐桌椅、吊灯、休闲座椅和少量精心摆放的物品，一切都高度克制。环境是带有浅层反射地面的朦胧开阔景观，远处有淡淡的山丘，空气清冷，氛围稀疏高级，绝不喧宾夺主。
+
+上方的绘图区必须描绘与下方建筑成品完全一致的住宅，作为优雅的剖面-立面混合图，直接对齐在成品上方，强化概念与最终产品之间的完美统一。使用精致的技术线条、尺寸标注、微小的英文注释、淡淡的网格逻辑以及少量虚化的家具和树木示意。绘图应感觉严谨规范、通透美观，在暖白色背景上呈现极轻的线条层级。一切都必须与下方的建筑成品清晰对应，使海报呈现出设计思维转化为现实的感觉。
+
+强烈推进 Transit 方向：减少所有不必要的噪音，增加留白，优化图形间距，最小化标注密度，使整个页面感觉更国际化、更奢华、更具编辑感。强烈推进 Port 方向：将整张海报压缩为仅三个令人难忘的核心符号：上方的建筑线条图、下方的成品住宅，以及左上角微妙的极简品牌/标题区。其他所有元素必须保持高度从属。页面应比典型的建筑项目更安静、更干净、更锐利，且更具品牌定义感。
+
+光影应精致且情绪可控：外部光线柔和、漫射且清冷，如同黎明或阴天的黄昏，而室内散发出温暖克制的微光，界定了建筑的空间深度。加强室内温暖与外部清冷之间的对比，足以赋予建筑存在感和体量感，而不破坏极简主义的平静。利用微妙的大气雾霾、湿润或抛光地面上的柔和反射，以及露台板和突出体量下方的柔和阴影分离。建筑向外延伸的悬挑和平台几何形状必须通过光影和色调加以强调，使结构即使在静止中也显得静谧而充满动感。
+
+材质渲染必须极其精致：真实的玻璃透明度和反射、精准的竖框深度、哑光黑色金属框架、带有微妙微纹理的浅色混凝土和灰泥、温暖的木质天花板和墙板、清晰的板材边缘、精确的露台接缝以及可信的室内亮度。上方的技术绘图必须使用优雅的灰色绘图符号、精确的测量标记、细腻的线条层级和干净的高级印刷美学。绘图与现实之间的过渡应感觉无缝且在概念上融合。
+
+排版必须极简且原创：左上角仅有一个虚构的英文项目标题和微型副标题，采用豪华编辑建筑风格，仅配有微小的辅助英文注释。无复制的项目名称，无真实的建筑师姓名，无中文标题。整个色彩系统应保持克制和高级：暖白、雾灰、炭黑线条、浅石米色、柔和的景观灰、哑光黑结构、暖木琥珀色和柔和的金色室内光。
+
+风格：国际豪华房地产品牌、超写实建筑可视化、精英编辑极简主义、严谨的建筑绘图美学、博物馆级的销售海报清晰度。最终图像必须通过其受控的建筑延伸感，呈现出平静、智能、高级且令人过目难忘的特质。
+
+无复制文本，无真实建筑师姓名，无杂乱标注，无过多家具，无额外竞争建筑，无幻想结构，无扭曲透视，无浑浊阴影，无黑色斑点，无杂乱景观，无水印，无现有 Logo。
+
+[English]
+Create an ultra-premium real estate sales poster for a fictional developer brand, designed as a minimalist architectural presentation board that fuses hyper-real built architecture with precise technical drawing language. Preserve the exact two-zone composition: the upper half is a refined architectural elevation-section drawing with ultra-thin gray drafting lines, dimension annotations, sparse English labels, and faint scale silhouettes; the lower half is the fully realized residence rendered in hyper-real front-facing architectural photography. The entire image must feel like a world-class luxury property launch visual, a collectible architect’s concept sheet, and an elite sales campaign poster at the same time.
+
+The architecture must remain radically minimal yet possess a stronger outward-reaching force. Design a low horizontal contemporary glass residence with a disciplined rectilinear profile, but emphasize a subtle spatial thrust: the left pavilion volume projects outward more decisively, the roof plane and floor slab extend with elegant cantilever tension, the central glazed living zone stretches laterally with clean uninterrupted transparency, and the terrace plane reaches toward the viewer like a calm architectural gesture of expansion. The building must feel restrained, poised, and quiet, but also unmistakably capable of spatial extension, as if the whole composition is breathing outward into the landscape. This sense of extension should come from proportion, cantilever, slab depth, glazing continuity, and platform geometry, not from visual clutter.
+
+The lower built view is the absolute visual anchor: one pristine residence centered in the frame, front-facing, geometrically precise, fully buildable, with blackened metal framing, floor-to-ceiling low-iron glass, warm timber-lined interiors, pale concrete or limewashed masonry walls, and a thin floating platform terrace extending forward and laterally. Interior spaces should be visible but minimal, revealing shelves, dining furniture, pendant lighting, lounge seating, and a few carefully placed objects, all highly restrained. The environment is a misty open landscape with shallow reflective ground, faint distant hills, soft cold air, and a sparse premium atmosphere that never competes with the building.
+
+The upper drawing zone must depict the same house as an elegant section-elevation hybrid aligned directly above the built residence, reinforcing the perfect unity between concept and final product. Use exquisite technical linework, dimension strings, micro English notes, faint grid logic, and a few ghosted furniture and tree indications. The drawing should feel rigorously standardized, airy, and beautiful, with extremely light line-weight hierarchy on a warm-white background. Everything must correspond clearly to the built house below, making the poster feel like design thought transformed into reality.
+
+Push the Transit direction strongly: reduce all unnecessary noise, increase negative space, refine graphic spacing, minimize annotation density, and make the entire page feel more international, more luxurious, and more editorial. Push the Port direction strongly: compress the whole poster into three unforgettable core symbols only, the upper architectural line drawing, the lower completed residence, and the subtle minimalist brand/title zone at the upper left. Every other element must remain highly subordinate. The page should feel quieter, cleaner, sharper, and more brand-defining than a typical architecture board.
+
+Lighting should be refined and emotionally controlled: exterior light is soft, diffused, and cool, like pale dawn or overcast dusk, while the interior emits a warm restrained glow that defines the building’s spatial depth. Strengthen the contrast between interior warmth and exterior coolness just enough to give the architecture presence and volume without destroying the minimalist calm. Use subtle atmospheric haze, soft reflections on the wet or polished ground plane, and gentle shadow separation beneath the terrace slab and projecting volumes. The building’s outward-reaching cantilever and platform geometry must be emphasized by light and tone so the structure feels quietly dynamic even in stillness.
+
+Material rendering must be exceptionally refined: realistic glass transparency and reflection, precise mullion depth, matte black metal frames, pale concrete and plaster with subtle microtexture, warm timber ceilings and wall panels, crisp slab edges, accurate terrace joints, and believable interior luminance. The technical drawing above must use elegant gray drafting notation, precise measurement marks, delicate line hierarchy, and clean premium print aesthetics. The transition between drawing and reality should feel seamless and conceptually fused.
+
+Typography must be minimal and original: one fictional English project title and micro subtitle in a luxury editorial architectural style at upper left, with tiny supporting English notes only. No copied project names, no real architect names, no Chinese headline. The entire color system should remain restrained and premium: warm white, fog gray, charcoal linework, pale stone beige, muted landscape gray, matte black structure, warm timber amber, and soft golden interior light.
+
+Style: international luxury real estate branding, hyper-real architectural visualization, elite editorial minimalism, rigorous architectural drafting aesthetics, museum-clean sales-poster clarity. The final image must feel calm, intelligent, premium, and immediately striking through its controlled sense of architectural extension.
+
+No copied text, no real architect names, no cluttered annotations, no excessive furniture, no extra competing buildings, no fantasy structure, no distorted perspective, no muddy shadows, no black blotches, no messy landscape, no watermark, no existing logo.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2089679628273402353) | 2026-08-18
+
+---
+

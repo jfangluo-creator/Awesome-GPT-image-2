@@ -13160,3 +13160,297 @@ Constraints: Preserve the Japanese interface text exactly as shown. Use exactly 
 
 ---
 
+### 🖥️ 例 6404：严格视觉一致性角色设定集
+
+![严格视觉一致性角色设定集](../images/%E4%B8%A5%E6%A0%BC%E8%A7%86%E8%A7%89%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="character name" default="NAIA"} 创建一份高级电影感角色设定集。使用上传的角色设定图作为严格的视觉参考。请勿更改其外观。左侧：左上角使用巨大的粗体笔触文字 {argument name="text top left" default="NAIA"}，颜色为深青色。小字：THE WAVE / SATURDAY
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="character name" default="NAIA"}. Use uploaded character sheet as strict visual reference. Do not change her appearance. LEFT SIDE: Massive bold brushstroke text {argument name="text top left" default="NAIA"} top left, deep teal. Small text: THE WAVE / SATURDAY
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2089722019499696447) | 2026-08-18
+
+---
+
+### 🖥️ 例 6409：MPD 警用机甲抓捕场景
+
+![MPD 警用机甲抓捕场景](../images/MPD%20%E8%AD%A6%E7%94%A8%E6%9C%BA%E7%94%B2%E6%8A%93%E6%8D%95%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级照片写实的科幻动作场景，主角为 {argument name="police unit name" default="警视厅重型机械对策机器人部队"}：两个巨大的类人工业机器人在乌云密布、大雨倾盆的集装箱港口缠斗。占主导地位的机器人是一台高大的白黑配色警用机甲，它双腿叉开站稳，强行压制着另一台同型号但体型较小的橙色工程机甲。白色警用机器人拥有厚重的装甲肢体、外露的活塞、线缆、液压系统、分层机械关节、矩形多镜头传感器/摄像头头部、肩部的红色警示灯，以及胸部、肩部和前臂上清晰可见的日本警用文字和“MPD”标识。橙色机器人单膝跪地，一只手在湿漉漉的地面上抓挠，头部和躯干被强行向下压，身上覆盖着橙色装甲板，内部机械结构清晰可见，挣扎中火花和碎片四溅。机器人数量严格为 2 台：1 台白色 MPD 警用机器人负责压制，1 台橙色机器人被压制。环境：工业港口堆场，堆叠的集装箱、起重机、泛光灯、塔架、水坑、雨滴、散落的碎混凝土和金属碎片、反光的湿沥青路面，以及仰视机器人的低机位戏剧性视角。氛围与风格：超精细硬表面机甲设计，充满颗粒感的日本特摄/动漫风格写实感，好莱坞大片剧照，高对比度，冷蓝灰色风暴光影，锐利的机械细节，逼真的雨水效果，电影级景深，画面中无人类，无额外机器人，无水印。
+
+[English]
+Create a cinematic photorealistic sci-fi action scene of the {argument name="police unit name" default="Metropolitan Police Department Heavy Machinery Countermeasures Robot Unit"}: two enormous humanoid industrial robots grappling in a rain-soaked container port under dark storm clouds. The dominant robot is a towering white-and-black police mecha, standing wide and braced, forcibly pinning down a smaller orange construction-style mecha of the same general model. The white police robot has bulky armored limbs, exposed pistons, cables, hydraulics, layered mechanical joints, a rectangular multi-lens sensor/camera head, red warning lights on its shoulder, and visible markings including Japanese police text and “MPD” on the chest, shoulder, and forearm. The orange robot is crouched on one knee with one hand scraping the wet ground, its head and torso forced downward, covered in orange armor plates with black mechanical internals, as sparks and debris scatter from the struggle. Count exactly 2 robots: 1 white MPD police robot restraining, 1 orange captured robot being restrained. Environment: an industrial harbor yard with stacked shipping containers, cranes, floodlights, towers, puddles, rain droplets, scattered broken concrete and metal fragments, reflective wet asphalt, and a low dramatic camera angle looking up at the robots. Mood and style: ultra-detailed hard-surface mecha design, gritty Japanese tokusatsu/anime-inspired realism, blockbuster movie still, high contrast, cold blue-gray storm lighting, sharp mechanical detail, realistic rain, cinematic depth of field, no humans visible, no extra robots, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2089698596874797229) | 2026-08-18
+
+---
+
+### 🖥️ 例 6416：深色系 App 角色三视图设计图
+
+![深色系 App 角色三视图设计图](../images/%E6%B7%B1%E8%89%B2%E7%B3%BB%20App%20%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色移动端 App 风格的截图，展示 {argument name="character name" default="Shira Wiggles"} 的风格化角色三视图，呈现出如同在角色灵感信息流中显示的效果。
+
+画布：方形移动端截图，深炭灰色背景，圆角 App 卡片，高对比度白色文字，主艺术卡片占据上半部分，信息卡片位于下方。
+
+主艺术卡片：一张带有干净浅灰色背景的大型圆角白色卡片，包含 4 个角色展示：左侧 1 个全身正面视图，中左侧 1 个全身侧面视图，中右侧 1 个全身背面视图，以及最右侧 1 个大型特写肖像面板。角色在所有视图中必须保持一致：一个高瘦、夸张的漫画风格男性，长脸，大而突出的红色耳朵，鹰钩鼻，眼睑下垂，狭窄疲惫的眼睛，苍白的淡绿色皮肤，黑色凌乱侧分发型，发丝散乱，表情严厉。
+
+角色设计：为他穿上一件戏剧性的 {argument name="coat color and pattern" default="深红黑格纹"} 长燕尾服，肩部夸张，带有黑红条纹，内搭深红色衬衫和领结，穿着修身的 {argument name="trouser color" default="柔和橄榄绿"} 竖条纹长裤，以及黑色尖头鞋。正面视图展示长款不对称外套，侧面视图展示佝偻姿势和长鼻侧影，背面视图展示宽大的格纹外套背部和燕尾，肖像特写强调耳朵、凹陷的眼睛、长鼻子、散乱的发丝和严厉的表情。
+
+左侧边距细节：在艺术卡片的左侧添加一个细长的垂直装饰标签，类似于间距均匀的角色设计说明文字。
+
+底部信息卡片：在艺术作品下方，创建一个大型圆角深色卡片。左上角放置加粗的白色标题文字 “{argument name="character name" default="Shira Wiggles"}”。在标题行右侧水平排列 5 个 UI 图标：列表/菜单图标、红色心形图标、白色放大镜搜索图标、白色魔法棒/闪光图标以及圆形的红橙色信息图标。
+
+描述文字：在标题行下方，添加可见的浅灰色大字说明：“Character turnaround sheet: layout: frontal, side and back view. With a close-up on the right. Clean background. Character consistent throughout”。
+
+视觉风格：精致的概念艺术角色设计图，漫画动画设计，绘画感数字插画，干净的工作室背景，清晰的 UI 样机，圆角，柔和的阴影，深色模式界面。
+
+约束：使用 4 个角色视图和 5 个 UI 图标。保持背景干净整洁。不要添加额外角色，不要添加水印，除了标题和说明文字外，不要添加其他可读的正文内容。
+
+[English]
+Goal: Create a dark mobile app-style screenshot featuring a stylized character turnaround sheet for {argument name="character name" default="Shira Wiggles"}, as if displayed in a character inspiration feed.
+
+Canvas: Square-ish mobile screenshot, dark charcoal background, rounded app cards, high-contrast white text, with the main artwork card occupying the top half and an information card below.
+
+Main artwork card: A large rounded white card with a clean pale gray background contains exactly 4 character depictions: 1 full-body frontal view on the left, 1 full-body side view in the center-left, 1 full-body back view in the center-right, and 1 large close-up portrait panel on the far right. The character must remain consistent across all views: a tall, thin, exaggerated caricature man with a long angular face, large protruding red ears, hooked nose, drooping eyelids, narrow tired eyes, pale greenish skin, black messy side-parted hair with loose strands, and a stern frown.
+
+Character design: Dress him in a dramatic {argument name="coat color and pattern" default="deep red and black plaid"} long tailcoat with oversized shoulders, black-red striping, a dark red shirt and cravat, slim {argument name="trouser color" default="muted olive green"} vertical-striped trousers, and black pointed shoes. The frontal view shows the long asymmetrical coat, the side view shows the hunched posture and long nose profile, the back view shows the broad plaid coat back and tails, and the portrait close-up emphasizes the ears, sunken eyes, long nose, loose hair strands, and severe expression.
+
+Left margin detail: Add a thin vertical decorative label along the left side of the artwork card, resembling small spaced-out character sheet text.
+
+Bottom information card: Under the artwork, create a large rounded dark card. At the top left place the title text “{argument name="character name" default="Shira Wiggles"}” in bold white. To the right of the title row include exactly 5 UI icons arranged horizontally: a list/menu icon, a red heart icon, a white magnifying-glass search icon, a white magic-wand/sparkle icon, and a circular red-orange info icon.
+
+Description text: Below the title row, add the visible caption in large light-gray text: “Character turnaround sheet: layout: frontal, side and back view. With a close-up on the right. Clean background. Character consistent throughout”.
+
+Visual style: Polished concept art character sheet, caricature animation design, painterly digital illustration, clean studio background, crisp UI mockup, rounded corners, subtle shadows, dark mode interface.
+
+Constraints: Use exactly 4 character views and exactly 5 UI icons. Keep the background clean and uncluttered. No extra characters, no watermark, no additional readable body text beyond the title and caption.
+```
+
+**来源：** [@Shira Wiggles](https://x.com/shirawiggles/status/2089683549091696828) | 2026-08-18
+
+---
+
+### 🖥️ 例 6422：Ethereal Window Cat Photography
+
+![Ethereal Window Cat Photography](../images/Ethereal%20Window%20Cat%20Photography.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+画面中是一面纯净的白墙，中央镶嵌着一扇优雅的窗户。窗框仿佛直接从墙体中雕琢而出，郁郁葱葱的藤蔓在其周围自然生长，与覆盖在白墙每一寸空间上的数百朵 {argument name="flower colors" default="娇艳盛开的花朵"} 交织在一起，构成了一幅令人惊叹的生命挂毯。窗台上静静地卧着一只 {argument name="cat type" default="雪白的长毛猫"}，柔和的自然光洒在它丝绸般奢华的皮毛上。猫咪蜷缩成舒适的睡姿，但那双迷人的 {argument name="eye color" default="琥珀色"} 眼眸却微微睁开，折射出神秘而朦胧的金光，为画面增添了一抹空灵的生命力与静谧的奇迹感。整个场景仿佛凝固在时间之中，浸润在超柔和的胶片摄影美学里，带有细微的过曝高光、褪色的阳光质感、精致的胶片颗粒、光晕效果、柔和的色彩过渡、梦幻的焦外成像、弥散的边缘、色散柔光以及在暖空气中飞舞的微尘。细小的褪色漏光在花瓣间优雅地漂浮，柔和的镜头光晕在每个高光点周围形成发光圈。这种氛围让人联想到在旧木抽屉里发现一张被遗忘了几十年的老照片——一段超越时间的脆弱记忆。每一个元素都承载着怀旧的情感、梦幻的宁静与诗意的沉寂。微风轻轻拂动藤蔓与花瓣，温暖的午后阳光透过窗户洒入，在墙面上营造出电影般的体积光与微妙的阴影。超写实植物细节、奢华皮毛渲染、有机藤蔓纹理、精致花卉写实感、超逼真材质、电影级构图、居中对齐、浅景深、高级调色、艺术摄影、永恒的怀旧感、超现实主义、梦幻记忆核心美学、柔焦、大气透视、大师级品质、8K、HDR、超精细、情感共鸣、视觉震撼。
+
+[English]
+A pristine white wall fills the frame, interrupted only by a single elegant window perfectly centered in the composition. The window frame appears carved directly into the wall, while lush climbing vines weave organically around it, intertwining with hundreds of {argument name="flower colors" default="delicate blooming flowers"} that spread across every inch of the white surface, creating a breathtaking living tapestry. Resting peacefully on the windowsill is a {argument name="cat type" default="snow-white long-haired cat"}, its luxurious silky fur illuminated by soft natural light. The cat is curled into a comfortable sleeping position, yet its mesmerizing {argument name="eye color" default="amber"} eyes remain gently open, reflecting a mysterious hazy golden glow that adds an ethereal sense of life and quiet wonder. The entire scene feels suspended in time, drenched in an ultra-soft analog film aesthetic with subtle overexposed highlights, faded sun-bleached tones, delicate film grain, blooming light, pastel color transitions, dreamy bokeh, diffused edges, chromatic softness, and floating dust particles dancing through the warm air. Tiny faded light leaks drift gracefully among the flower petals while gentle lens bloom creates glowing halos around every highlight. The atmosphere evokes the feeling of discovering a forgotten photograph hidden inside an old wooden drawer for decades—a fragile memory preserved beyond time. Every element carries nostalgic emotion, dreamlike tranquility, and poetic silence. Soft breeze barely moves the vines and flower petals while warm afternoon light filters through the window, creating cinematic volumetric illumination and subtle shadows across the wall. Hyper-realistic botanical detail, luxurious fur rendering, organic vine textures, delicate floral realism, ultra-photorealistic materials, cinematic composition, centered framing, shallow depth of field, premium color grading, fine-art photography, timeless nostalgia, surreal realism, dreamy memorycore aesthetic, soft focus, atmospheric perspective, masterpiece quality, 8K, HDR, ultra-detailed, emotionally evocative, visually breathtaking.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2089668646100713685) | 2026-08-18
+
+---
+
+### 🖥️ 例 6424：Anime Skywork MV 缩略图
+
+![Anime Skywork MV 缩略图](../images/Anime%20Skywork%20MV%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为音乐视频制作教程创作一张明亮的动漫风格 YouTube 缩略图 / 宣传横幅，右侧配有可爱的偶像吉祥物，左侧为醒目的日文标题排版。
+
+画布：宽屏 16:9 横向横幅，尺寸约为 1200×675 px。构图充满活力，不留空白，适合社交媒体和 YouTube 推广。
+
+布局：左半部分由带有粗轮廓和投影的大型堆叠标题文字占据。右半部分展示 1 位动漫偶像少女的半身特写，面向观众，嘴巴张开，呈现兴奋的演唱表情。左下角包含 1 个白色圆角矩形品牌徽章，内含 Skywork 标志图标和“Skywork”字样。
+
+文字内容：使用 3 个主要的日文标题块：1) 顶部小标题 {argument name="top headline text" default="音楽情報入れたら"}，2) 中央超大标题 {argument name="main headline text" default="MVが完成した!"}，3) 底部副标题 {argument name="subtitle text" default="Skywork Video 1つで完結!"}。将中央的“MV”做得特别巨大，采用亮红色，配以白色和深蓝色轮廓；中央标题的其余部分采用金黄色，配以红色和深色轮廓。排版保持粗体、圆润、流行风格，略微倾斜，并带有强烈的白色描边和深红/深蓝色阴影，以确保可读性。
+
+角色细节：角色为 {argument name="character name" default="Mona"}，一位开朗可爱的动漫偶像少女，留着棕色长双马尾，琥珀橙色闪亮双眼，脸颊红润，带有光泽感。她穿着白色和淡紫色相间的荷叶边偶像服装，高领、露肩设计，配有紫色饰边、金色星星装饰，发间系着巨大的淡紫色蝴蝶结。她在右侧边缘附近握着 1 根魔法偶像权杖：金色手柄，圆形金色框架，中心镶嵌紫色多面星形宝石，配有小天使翅膀、丝带、新月和星星挂饰。可见配饰应包括 2 个巨大的淡紫色发结、1 个金色新月发饰、多个小金星发夹、1 个星星颈圈装饰以及那根权杖。
+
+背景与效果：使用生动的粉色、紫色、橙色和金色演唱会灯光背景，配以对角线速度线、光斑、纸屑、闪光和发光效果。在角色头顶上方添加 1 个白色的音符图标。在文字和角色周围散布许多小星星形状的闪光。整体氛围为庆典、可爱、魔法偶像且充满活力。
+
+视觉风格：精致的现代日本动漫插画，明亮的双眼，柔和的赛璐珞阴影，干净的线条，高饱和度色彩，强烈的边缘光，高对比度，清晰的缩略图可读性，商业公关横幅风格。
+
+约束条件：保持所有重要文字完全清晰可读，并位于安全区域内。不要添加除指定标题和 Skywork 徽章之外的额外角色、额外徽标、水印、二维码或附加文字。
+
+[English]
+Goal: Create a bright anime YouTube thumbnail / promotional banner for a music-video-making tutorial, with a cute idol mascot on the right and bold Japanese headline typography on the left.
+
+Canvas: Wide 16:9 horizontal banner, approximately 1200×675 px. High-energy composition with no empty space, suitable for social media and YouTube promotion.
+
+Layout: Left half is dominated by large stacked headline text with thick outlines and drop shadows. Right half shows exactly 1 anime idol girl in close-up from chest up, facing the viewer, mouth open in an excited singing expression. Bottom-left contains exactly 1 white rounded rectangle brand badge with the Skywork logo icon and the word “Skywork.”
+
+Text content: Use exactly 3 main Japanese headline blocks: 1) top small headline {argument name="top headline text" default="音楽情報入れたら"}, 2) central oversized headline {argument name="main headline text" default="MVが完成した!"}, 3) bottom subtitle {argument name="subtitle text" default="Skywork Video 1つで完結!"}. Make the central “MV” especially huge, bright red with white and dark navy outlines; make the rest of the central headline yellow-gold with red and dark outlines. Keep the typography bold, rounded, pop-style, slightly tilted, with strong white stroke and dark red/navy shadow for readability.
+
+Subject details: The character is {argument name="character name" default="Mona"}, a cheerful kawaii anime idol girl with long brown twin tails, amber-orange sparkling eyes, flushed cheeks, and glossy highlights. She wears a white and lavender frilly idol outfit with a high collar, bare shoulders, purple trim, gold star ornaments, and large lavender bows in her hair. She holds exactly 1 magical idol wand near the right edge: gold handle, circular gold frame, purple faceted star gem in the center, small angel wings, ribbons, crescent moon, and star charms. Visible accessories should include exactly 2 large lavender hair bows, 1 gold crescent moon hair ornament, multiple small gold star clips, 1 star choker ornament, and the single wand.
+
+Background and effects: Use a vivid pink, purple, orange, and gold concert-light background with diagonal speed lines, bokeh, confetti, sparkles, and glow effects. Add exactly 1 white music note icon floating above the character’s head. Scatter many small star-shaped sparkles around the text and character. Overall mood is celebratory, cute, magical idol, and energetic.
+
+Visual style: Polished modern Japanese anime illustration, glossy eyes, soft cel shading, clean line art, saturated colors, strong rim lighting, high contrast, crisp thumbnail readability, commercial PR banner style.
+
+Constraints: Keep all important text fully legible and inside the safe area. Do not add extra characters, extra logos, watermarks, QR codes, or additional text beyond the specified headline and Skywork badge.
+```
+
+**来源：** [@萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚](https://x.com/xc5_/status/2089663052287476112) | 2026-08-18
+
+---
+
+### 🖥️ 例 6447：高端 Esquire 杂志封面肖像
+
+![高端 Esquire 杂志封面肖像](../images/%E9%AB%98%E7%AB%AF%20Esquire%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体：
+{argument name="actor description" default="一位魅力十足的年轻男演员，拥有质感的深色头发、富有表现力的双眼，以及一种既放松又充满气场的姿态。"}
+
+创作一张高端杂志封面。
+打造一张强调魅力、野心和当代好莱坞风格的电影级肖像。
+
+风格：{argument name="photography style" default="Esquire 品质摄影，戏剧性定向布光，黑色、奶油色与深酒红色调，现代剪裁，自然的皮肤质感，细腻的胶片颗粒感，电影级对比度，优雅的留白，浅景深，高端编辑摄影，8K 分辨率。"}
+
+杂志标题：{argument name="magazine title" default="ESQUIRE"}
+
+发行日期：2026 年 8 月
+
+标题：下一个篇章
+
+为此刻而生
+走进内心世界
+
+[English]
+SUBJECT:
+A {argument name="subject" default="charismatic young actor"} with textured dark hair, expressive eyes, and a relaxed but commanding presence.
+
+Create ONE premium magazine cover.
+Build one cinematic portrait emphasizing charisma, ambition, and contemporary Hollywood style.
+
+STYLE: Esquire-quality photography, dramatic directional lighting, black, cream, and deep burgundy palette, modern tailoring, natural skin texture, subtle film grain, cinematic contrast, elegant negative space, shallow depth of field, premium editorial photography, 8K.
+
+MAGAZINE TITLE: {argument name="magazine name" default="ESQUIRE"}
+
+ISSUE DATE: AUGUST 2026
+
+HEADLINES: {argument name="headlines" default="The Next Chapter\n\nMade for the Moment\nInside the Mind"}
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2089559323047514331) | 2026-08-18
+
+---
+
+### 🖥️ 例 6454：桌面立体模型蓝图
+
+![桌面立体模型蓝图](../images/%E6%A1%8C%E9%9D%A2%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B%E8%93%9D%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+Function DrawArchitecture(input building/architect)
+Input Variable: {argument name="building or architect" default="Fallingwater"}
+
+System Instruction:
+Generate a hyper-realistic, 1:1 product photo of a "Blueprint-to-Model Desk Diorama" (Isometric miniature).
+
+1. Semantic Extraction:
+- Identify style (brutalist, modernist, gothic), key forms, and one signature feature (cantilever, arch, atrium).
+- Figure: Chibi “architect” avatar holding a tiny scale ruler.
+- Finish: Matte PVC.
+
+2. Container (Drafting Corner Box):
+- Structure: U-shaped cardboard drafting station (two walls + floor), desktop scale.
+- Props: tiny triangle ruler, pencil, scale bar.
+
+3. Background (Blueprint Walls):
+- Walls: B&W blueprint lines, elevation drawings, annotations (original, inspired).
+- Floor: Blueprint fragments “explode” upward into paper folds.
+
+4. Integration:
+- A 2D blueprint line rises into a 3D model piece (a wall or arch popping out) that the figure points at.
+
+5. Visual Syntax:
+- Palette: Strict B&W blueprint world; full color figure + one accent prop.
+- Lighting: soft product photo, crisp details.
+- Label: "[Subject] — [Style/Architect]"
+
+Return: ONE image, 1:1, museum-miniature realism.
+
+<instructions>
+Input: building/architect
+Analyze style, era, signature geometry. Find 4 MUCH lesser-known buildings/architects in same lineage.
+Output: a 2x2 grid, each panel is DrawArchitecture for a lesser-known recommendation.
+</instructions>
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2089551609466683653) | 2026-08-18
+
+---
+
+### 🖥️ 例 6456：Cyberpunk LLMFit 模型仪表盘
+
+![Cyberpunk LLMFit 模型仪表盘](../images/Cyberpunk%20LLMFit%20%E6%A8%A1%E5%9E%8B%E4%BB%AA%E8%A1%A8%E7%9B%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色未来主义风格的仪表盘信息图，用于本地 AI 模型推荐，标题为 {argument name="headline text" default="LLMFIT RECOMMENDATIONS"}，中央大面板显示 {argument name="main title" default="LEGION MODEL LOADOUT"}。设计应呈现为按需生成的本地机器赛博朋克硬件分析 UI，而非营销海报。
+
+画布：21:9 宽屏横向图像，约 1200x560，黑色与深青色背景，带有微妙的辉光、纤细的青色网格线、淡淡的电路轨迹以及带边框的应用程序窗口。在窗口右上角添加一个小的关闭按钮图标。使用锐利的科幻字体、压缩的大写标题、霓虹青柠色点缀、青色轮廓以及细小的琥珀色注释文本。
+
+顶部标题：左上角显示小标签“LEGION / MODEL INTELLIGENCE”，位于标题上方。在标题下方，显示硬件摘要文本：{argument name="hardware summary" default="NVIDIA GeForce RTX 5090 · 31.84 GB VRAM · 125.18 GB RAM"}。
+
+主要布局：将仪表盘分为两个主要列。左列占据约 70% 的宽度，包含主要的配置卡片。右列占据约 30% 的宽度，包含紧凑的验证数据列表。
+
+左侧主卡片：创建一个带有霓虹边框的大面板，以青柠绿和白色显示大标题“LEGION MODEL LOADOUT”。在其下方，单行显示 4 个硬件能力徽章：1) NVIDIA GeForce RTX 5090，31.8 GB VRAM，配 GPU 风扇图标；2) Intel(R) Core(TM) Ultra 9 285K，配 CPU 芯片图标；3) 125.2 GB 系统 RAM，配内存条图标；4) CUDA，配圆形 CUDA 图标。GPU 徽章使用青柠色，其他使用青色。
+
+配置表格：在徽章下方，显示 6 行排名推荐，带有圆角框内的青柠色大行号和纤细的青色分隔线。每行应包含模型名称、量化方式、运行时、内存和预估速度。6 行内容如下：1) "shawnw3j/Huihui-Qwen3.6-27B-abliterated-AWQ-MTP"，量化 "AWQ-4bit"，运行时 "vLLM"，内存 "14.7 GB"，速度 "80.9 estimated tok/s"；2) "Vortex5/G4-Starry-Ocean-12B"，量化 "Q8_0"，运行时 "llama.cpp"，内存 "16 GB"，速度 "82.8 estimated tok/s"；3) "shawnw3j/Qwen3.6-27B-AWQ-MTP"，量化 "AWQ-4bit"，运行时 "vLLM"，内存 "14.7 GB"，速度 "80.9 estimated tok/s"；4) "Minachist/Qwen3.6-27B-INT8-Autoround-V2"，量化 "AutoRound-4bit"，运行时 "vLLM"，内存 "16.6 GB"，速度 "80.9 estimated tok/s"；5) "exnivo/Qwen3.8-20B-Minitron"，量化 "Q8_0"，运行时 "llama.cpp"，内存 "22.6 GB"，速度 "49.9 estimated tok/s"；6) "Lorbus/Qwen3.6-27B-int4-AutoRound"，量化 "AutoRound-4bit"，运行时 "vLLM"，内存 "16.6 GB"，速度 "80.9 estimated tok/s"。在指标列中添加芯片、终端/运行时、内存和速度计的小图标。
+
+主卡片页脚：居中显示青色文本：“ESTIMATED BY LLMFIT · VERIFY WITH A LOCAL BENCHMARK。”并在其周围添加角括号和纤细的装饰性电路段。
+
+右侧边栏：标题“VERIFIED LLMFIT DATA”位于左侧，小号琥珀色文本“ESTIMATES, NOT BENCHMARKS”位于右侧。显示 6 行与上述推荐对应的紧凑验证数据，编号为 01 至 06（青柠色）。每行显示缩短的模型名称、包含量化/运行时/内存的第二行小字，以及右对齐的大号分数：80.9、82.8、80.9、80.9、49.9、80.9。底部添加一条琥珀色小注：“llmfit recommendations are estimates from detected hardware, not measured benchmarks.”
+
+底部窗口栏：左下角添加微小的时间戳文本“GENERATED 8/17/2026, 7:35:32 PM”。右下角添加一个小的矩形霓虹绿按钮，标签为 {argument name="button label" default="Refresh scan"}，并配有刷新图标。
+
+视觉约束：保持所有文本为英文，清晰易读，除指定的 6 行推荐外不添加额外行，除指定的 4 个硬件徽章外不添加额外徽章。使用深色透明玻璃 UI 风格，带有微妙的辉光效果，画面中不包含人物，除文本硬件/模型标签外不包含任何 Logo，且无水印。
+
+[English]
+Goal: Create a dark futuristic dashboard infographic for {argument name="dashboard title" default="LLMFIT RECOMMENDATIONS"}, showing local AI model recommendations for a workstation.
+
+Canvas: Wide 21:9 desktop-panel image, black and deep teal background with subtle glow, thin neon cyan border, faint scanline/grid texture, compact technical UI styling.
+
+Layout: Top header bar with small label “LEGION / MODEL INTELLIGENCE”, large title “LLMFIT RECOMMENDATIONS”, subtitle “NVIDIA GeForce RTX 5090 · 31.84 GB VRAM · 125.18 GB RAM”, and a small outlined close-box icon at the top right. Main content is split into two panels: a large left recommendation module occupying about two thirds of the width, and a narrower right verification panel.
+
+Left panel: Add a large cyberpunk card titled “LEGION MODEL LOADOUT”, with “LEGION” in neon lime and the rest in white blocky techno typography. Under the title, show exactly 4 hardware/status tiles with icons: 1) NVIDIA GeForce RTX 5090, 31.8 GB VRAM with a GPU fan icon, 2) Intel(R) Core(TM) Ultra 9 285K with a CPU chip icon, 3) 125.2 GB system RAM with a memory module icon, 4) CUDA with a circular CUDA emblem. Beneath the tiles, show exactly 6 ranked model rows, each with a large lime outlined rank number, model name, quantization, runtime, RAM amount, and estimated tok/s speed. The 6 rows are: 1) shawnw3j/Huihui-Qwen3.6-27B-abliterated-AWQ-MTP — AWQ-4bit — vLLM — 14.7 GB — 80.9 estimated tok/s; 2) Vortex5/G4-Starry-Ocean-12B — Q8_0 — llama.cpp — 16 GB — 82.8 estimated tok/s; 3) shawnw3j/Qwen3.6-27B-AWQ-MTP — AWQ-4bit — vLLM — 14.7 GB — 80.9 estimated tok/s; 4) Minachist/Qwen3.6-27B-INT8-Autoround-V2 — AutoRound-4bit — vLLM — 16.6 GB — 80.9 estimated tok/s; 5) exnivo/Qwen3.8-20B-Minitron — Q8_0 — llama.cpp — 22.6 GB — 49.9 estimated tok/s; 6) Lorbus/Qwen3.6-27B-int4-AutoRound — AutoRound-4bit — vLLM — 16.6 GB — 80.9 estimated tok/s. Use small cyan icons for chip/runtime/RAM/speed columns.
+
+Footer inside left card: Center a slim neon divider with the text “ESTIMATED BY LLMFIT · VERIFY WITH A LOCAL BENCHMARK.”
+
+Right panel: Title it “VERIFIED LLMFIT DATA” with a small note “ESTIMATES, NOT BENCHMARKS”. Show exactly 6 compact verification entries matching the same 6 models, numbered 01 through 06 in lime, each with smaller gray metadata text and a bright cyan score on the far right: 80.9, 82.8, 80.9, 80.9, 49.9, 80.9. Add a small orange warning note at the bottom: “llmfit recommendations are estimates from detected hardware, not measured benchmarks.”
+
+Bottom app chrome: Add a tiny timestamp line at bottom left, “GENERATED 8/17/2026, 7:53:32 PM”, and a small green outlined button at bottom right labeled {argument name="button label" default="Refresh scan"} with a refresh icon.
+
+Visual style: High-contrast sci-fi terminal UI, angular panel corners, thin glowing cyan circuit traces, lime accents, white condensed techno font, dense but readable technical typography, subtle green monitor glow. Keep the image crisp like a generated dashboard screenshot, not a poster.
+
+Constraints: Use exactly 6 model recommendation rows, exactly 4 hardware tiles, and exactly 6 verified-data entries. Do not add people, photos, logos beyond simple hardware-style icons, or extra sections. Keep all visible text in English.
+```
+
+**来源：** [@Rich · Atom Tan Studio](https://x.com/atomtanstudio/status/2089546619264139569) | 2026-08-18
+
+---
+

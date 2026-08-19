@@ -7953,3 +7953,93 @@ Use the uploaded reference image as the only identity reference. Preserve the su
 
 ---
 
+### 🧍 例 6390：骑行休憩森林场景
+
+![骑行休憩森林场景](../images/%E9%AA%91%E8%A1%8C%E4%BC%91%E6%86%A9%E6%A3%AE%E6%9E%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色基础，创作一个电影级动漫风格的“项目”场景，描绘 {argument name="character name" default="Flare Scarlet"} 在骑行途中休息的画面。保留参考图中她标志性的面容、红色短发、红白相间的骑行服、黑色短裤、手套、鞋子和红色头盔，但更改场景和姿势：让她随意地坐在茂密且阳光明媚的森林中的一块长满苔藓的岩石上，单手向后支撑身体，单膝抬起，手持透明水瓶，仿佛正在休息。
+
+在旁边增加一名新同伴：一位高挑的成年女性，留着极长的黑发，头戴蓝白相间的头盔，身穿白色拉链骑行服、黑色骑行短裤、黑色露指手套，穿着白色袜子和黑色骑行鞋。同伴的姿势是放松地坐在另一块岩石上，同样手持一个透明水瓶。
+
+环境与道具：创建一个写实的林间山路休息区，背景包含高大的树干、茂密的绿色植被、斑驳的阳光、长满苔藓的巨石以及一个风化的小型日式路标。画面中必须包含 2 辆自行车：左侧树旁靠着一辆带有车包的白色旅行/公路车，右侧 Flare 身后有一辆带有紫色水壶架的深色公路车。
+
+构图：宽幅 16:9 横屏，两位骑行者均呈现全身或近全身，同伴位于左侧，Flare 位于右侧，自行车位于画面两侧作为边框。采用细腻的动漫渲染风格，具备自然的电影级光影、真实的景深、清晰的角色细节以及骑行后宁静的氛围。避免使用角色设定图面板、标签、属性框或信息图表布局。
+
+[English]
+Using REFERENCE_0 as the character base, create a cinematic anime story-board scene of {argument name="character name" default="Flare Scarlet"} resting during a cycling trip. Keep her recognizable face, short red hair, red-and-white cycling jersey, black shorts, gloves, shoes, and red helmet from the reference, but change the setting and pose: place her seated casually on a mossy rock in a dense sunlit forest, leaning back with one hand for support, one knee raised, holding a clear water bottle as if taking a break.
+
+Add one new companion cyclist beside her: a tall adult woman with very long black hair, wearing a blue-and-white helmet, white zip cycling jersey, black cycling shorts, black fingerless gloves, white socks, and black cycling shoes. Pose the companion seated relaxed on a separate rock, also holding a clear bottle.
+
+Environment and props: create a realistic wooded mountain trail rest area with tall tree trunks, dense green foliage, dappled sunlight, mossy boulders, and a small weathered Japanese trail sign in the background. Include exactly 2 bicycles: one white touring/road bike leaning against a tree on the left with bags attached, and one dark road bike on the right behind Flare with a purple bottle on the frame.
+
+Composition: wide horizontal 16:9 frame, both cyclists visible full-body or near full-body, companion on the left and Flare on the right, bicycles framing the scene. Use detailed anime rendering with natural cinematic lighting, realistic depth, crisp character detail, and a calm post-ride atmosphere. Avoid character-sheet panels, labels, stat boxes, or infographic layout.
+```
+
+**来源：** [@フレアの日常](https://x.com/puku_flareglay/status/2089820737779748894) | 2026-08-18
+
+---
+
+### 🧍 例 6418：哥特式反派角色设定图
+
+![哥特式反派角色设定图](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位严肃的贵族反派"} 创建一张风格化的动画电影角色设计图，展示其在多个角度下一致的服装和面部设计。
+
+画布：宽幅横向角色参考图，比例约为 16:9，采用灰白色摄影棚背景和干净的白色页边距。将页面分为两个主要区域：左侧较大的区域用于全身三视图，右侧较窄的区域用于戏剧性的肖像特写。
+
+布局：总共包含 4 个角色形象：左侧 1 个全身正面视图，中间 1 个全身侧面视图，大区域右侧 1 个全身背面视图，以及独立右侧区域中的 1 个大型头部及肩部肖像特写。在最左侧边缘添加一列细小的红色装饰性文字，看起来像抽象的制作说明文字。
+
+主体细节：角色身材极高、憔悴且棱角分明，长着一张苍白的灰绿色长脸，有着锐利的鹰钩鼻、浓重的红色眼下阴影、下垂的眼睑、黄绿色的眼睛、薄而下垂的嘴唇、细长的下巴以及夸张的大红耳朵。他留着凌乱的黑色头发，遮住了一只眼睛，几缕发丝散落在脸上。他的表情严肃、疲惫、多疑且充满贵族气息。
+
+服装：让他穿上一件戏剧性的 {argument name="coat color and pattern" default="深绯红色与黑色格纹"} 长燕尾服，带有宽大的方形肩部、高领、超大翻领、黑色纽扣、收腰设计和长尖尾。内搭深红色马甲、白色衬衫领和一条大号酒红色领巾。他穿着窄腿的 {argument name="trouser color" default="柔和的橄榄绿条纹"} 长裤，裤脚在抛光的黑色正装皮鞋上方截断。背面视图应强调燕尾服长而有结构的后背，以及环绕肩部的格纹图案。
+
+视觉风格：高端 3D 动画概念艺术，具有绘画感的数字渲染、夸张的漫画比例、锐利的图形形状、优雅的哥特式氛围、微妙的渐变、简洁的轮廓设计以及精致的摄影棚灯光。在苍白的皮肤和柔和的绿色服装点缀下，使用饱和的红色和黑色。肖像特写应更加细腻，展现出头发、皮肤面、眼袋、耳朵和衣领上清晰的笔触。
+
+约束条件：保持 4 个视图中的角色设计完全一致。不要添加道具、场景、标志或额外的角色。保持背景简洁明了，呈现出专业动画制作三视图的效果。
+
+[English]
+Goal: Create a stylized animated-film character design sheet for {argument name="character name" default="a severe aristocratic villain"}, showing consistent costume and facial design from multiple angles.
+
+Canvas: Wide horizontal character reference sheet, approximately 16:9, with an off-white studio background and clean white margins. Split the page into two main panels: a large left panel for full-body turnarounds and a narrower right panel for a dramatic portrait close-up.
+
+Layout: Include exactly 4 character depictions total: 1 front full-body view on the left, 1 side profile full-body view in the center, 1 rear full-body view on the right side of the large panel, and 1 large close-up head-and-shoulders portrait in the separate right panel. Add a thin vertical column of small red decorative lettering along the far left margin, reading like abstract production-sheet text.
+
+Subject details: The character is extremely tall, gaunt, and angular, with a long pale greenish-gray face, sharp hooked nose, heavy red under-eye shadows, drooping eyelids, yellow-green eyes, thin downturned lips, an elongated chin, and exaggerated large red ears. He has messy black hair swept over one eye, with loose stringy strands falling across the face. His expression is stern, tired, suspicious, and aristocratic.
+
+Costume: Dress him in a dramatic {argument name="coat color and pattern" default="deep crimson and black plaid"} long tailcoat with broad squared shoulders, high collar, oversized lapels, black buttons, tapered waist, and long pointed tails. Under it he wears a dark red waistcoat, white shirt collar, and a large burgundy cravat. He has narrow {argument name="trouser color" default="muted olive-green striped"} trousers cropped above polished black formal shoes. The rear view should emphasize the long structured back of the coat and the plaid grid wrapping around the shoulders.
+
+Visual style: High-end 3D animation concept art with painterly digital rendering, exaggerated caricature proportions, sharp graphic shapes, elegant gothic mood, subtle gradients, clean silhouette design, and polished studio lighting. Use saturated reds and blacks against pale skin and muted green clothing accents. The portrait close-up should be more detailed, with visible brush strokes in the hair, skin planes, eye bags, ears, and collar.
+
+Constraints: Keep the character design identical across all 4 depictions. Do not add props, scenery, logos, or extra characters. Keep the background minimal and uncluttered, like a professional animation production turnaround sheet.
+```
+
+**来源：** [@Shira Wiggles](https://x.com/shirawiggles/status/2089679674141974905) | 2026-08-18
+
+---
+
+### 🧍 例 6436：电影级 AI 角色设定集
+
+![电影级 AI 角色设定集](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%20AI%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="project name" default="FUTURE VIBES AI"} 创建一份高品质的电影级角色设定集。请将上传的参考图作为严格的面部及特征参考。保持精确的面部特征、发型、眉毛、眼睛、鼻子、嘴唇、肤色、身体比例以及整体
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="project name" default="FUTURE VIBES AI"}. Use the uploaded reference image as the STRICT facial and identity reference. Preserve the exact face, hairstyle, eyebrows, eyes, nose, lips, skin tone, body proportions, and overall
+```
+
+**来源：** [@Future Vibes AI - Educator](https://x.com/FutureVibesAi/status/2089616455658873336) | 2026-08-18
+
+---
+

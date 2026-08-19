@@ -18372,3 +18372,128 @@ SFW art / Fully clothed / No suggestive content / {argument name="outfit" defaul
 
 ---
 
+### 🎨 例 6387：AI 模型灵兽原型
+
+![AI 模型灵兽原型](../images/AI%20%E6%A8%A1%E5%9E%8B%E7%81%B5%E5%85%BD%E5%8E%9F%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于模型规模和言论自由度，请为我渲染一张包含以下 4 种 AI 模型原型的图像：- {argument name="models" default="Claude Mythos / Fable 5, ChatGPT 5.6 Sol, Kimi K3, GLM 5.2"} 请将它们表现为 {argument name="style" default="灵兽"} 或拟人化的奇幻动物。横向构图，半写实风格，非照片级写实，也非手绘风格。细节丰富，色彩对比强烈。请将 GPT 渲染为 {argument name="GPT color" default="切连科夫蓝"}，Claude 渲染为铜橙色。
+
+[English]
+Basierend auf Modellgröße und Redefreiheit, bitte render mir eine Grafik von 4 Archetypen der folgenden KI-Modelle:
+- {argument name="Modelle" default="Claude Mythos / Fable 5, ChatGPT 5.6 Sol, Kimi K3, GLM 5.2"}
+
+Bitte stelle sie als {argument name="Stil" default="Spirit Animals"} oder anthropmorphe Fantasy-Tiere dar. Querformat, semi-realistisch, nicht fotorealistisch oder gezeichnet. Viele Details, kontrastreiche Farben.GPT bitte in {argument name="GPT Farbe" default="cherenkow blue"}, Claude in Copper Orange.
+```
+
+**来源：** [@Phenryx (LY:CO5) × ROCCO / CARI (≈C×Si fam)](https://x.com/W3N_LYCO5/status/2089847424382541827) | 2026-08-18
+
+---
+
+### 🎨 例 6393：透明天空夹克时尚
+
+![透明天空夹克时尚](../images/%E9%80%8F%E6%98%8E%E5%A4%A9%E7%A9%BA%E5%A4%B9%E5%85%8B%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="subject" default="美丽的女性"} 穿着一件 {argument name="clothing piece" default="轻盈的纸质感夹克"}，夹克呈透明状，内部充满了 {argument name="filling" default="明媚的春日天空"} —— 白色蓬松的积云、蓝色斑块、面料上泛起微风般的涟漪，超现实的柔和背景，柔和梦幻的灯光，时尚摄影
+
+[English]
+A {argument name="subject" default="beautiful woman"} wearing a {argument name="clothing piece" default="lightweight paper-like jacket"} that is transparent and filled with a {argument name="filling" default="bright spring sky"} — white fluffy cumulus clouds, blue patches, gentle breeze ripples in the fabric, surreal pastel background, soft dreamy lighting, fashion photography
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2089784591959601573) | 2026-08-18
+
+---
+
+### 🎨 例 6426：中世纪现代生活方式插画
+
+![中世纪现代生活方式插画](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E7%8E%B0%E4%BB%A3%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+风格化的中世纪现代插画，描绘了 {argument name="human" default="[HUMAN]"} 正 {argument name="pose" default="[POSE]"} 在 {argument name="sofa" default="[SOFA]"} 上休憩，身着 {argument name="clothing" default="[CLOTHING]"}，旁边有 {argument name="animal" default="[ANIMAL]"} 在休息。场景设定在 {argument name="scenery" default="[SCENERY]"} 中，构图采用简洁的建筑几何线条，包含一道强烈的对角线阳光、长而硬朗的阴影，以及少量精心摆放的复古物件。渲染效果采用哑光平涂色块、简化修长的解剖结构、极简的面部细节、清晰的几何轮廓、微妙的印刷纸张质感，以及优雅的 1950-60 年代编辑插画风格。使用 {argument name="colors" default="[COLORS]"} 的受控配色方案，保持构图宁静、精致、略带疏离感且视觉空间开阔。垂直 4:5 比例。
+
+[English]
+Stylized mid-century modern illustration of {argument name="human" default="[HUMAN]"} lounging {argument name="pose" default="[POSE]"} on {argument name="sofa" default="[SOFA]"}, wearing {argument name="clothing" default="[CLOTHING]"}, with {argument name="animal" default="[ANIMAL]"} resting nearby. Set the scene in {argument name="scenery" default="[SCENERY]"}, composed with clean architectural geometry, one strong diagonal beam of sunlight, long hard-edged shadows, and a few carefully placed period objects. Render with flat matte color fields, simplified elongated anatomy, minimal facial detail, crisp geometric silhouettes, subtle printed-paper texture, and elegant 1950s–60s editorial illustration styling. Use a controlled palette of {argument name="colors" default="[COLORS]"}, keeping the composition calm, sophisticated, slightly detached, and visually spacious.Vertical 4:5 AR.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2089659379746492640) | 2026-08-18
+
+---
+
+### 🎨 例 6432：暗黑森林发光之书
+
+![暗黑森林发光之书](../images/%E6%9A%97%E9%BB%91%E6%A3%AE%E6%9E%97%E5%8F%91%E5%85%89%E4%B9%8B%E4%B9%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个人站在夜晚的暗黑森林中，手中拿着一本 {argument name="object" default="发光的古书"}，周围环绕着漂浮的符文，散发出 {argument name="light color" default="柔和的金光"}。电影级情绪光影，充满神秘氛围。将面部替换为上传照片中的人物，照片级真实感。
+
+[English]
+A person standing in a {argument name="setting" default="dark forest at night"}, holding a {argument name="object" default="glowing ancient book with floating runes and soft golden light"}. Moody cinematic lighting, mysterious atmosphere. Replace the face with the person from the uploaded photo, photorealistic.
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2089631596496539894) | 2026-08-18
+
+---
+
+### 🎨 例 6453：严肃仓鼠停止手势
+
+![严肃仓鼠停止手势](../images/%E4%B8%A5%E8%82%83%E4%BB%93%E9%BC%A0%E5%81%9C%E6%AD%A2%E6%89%8B%E5%8A%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形数字插画，描绘一只胖乎乎的叙利亚金丝熊仓鼠做出“拒绝/停止”的手势，一只粉色小爪子竖在脸旁，如同人类的手掌。这只仓鼠拥有 {argument name="fur color" default="暖金橙色和奶油白色"} 的毛发，身体圆润肥大，脸颊和腹部毛发蓬松，小巧圆润的耳朵带有较深的内部阴影，光亮狭长的黑色眼睛呈现出严肃且不以为然的表情，有着小巧的粉色鼻子、细长的白色胡须以及微微下垂的嘴巴。采用四分之三正面视角，身体略微前倾，举起的手爪位于观察者的右侧，另一只爪子自然下垂。使用细腻的柔和动漫风格渲染，呈现出可见的毛发纹理、柔和的绘画感阴影、清晰的深色线条，营造出一种可爱又严肃的喜剧氛围。角色在画面中占比很大，近距离裁剪使身体填满大部分方形画布，背景为简洁平面的 {argument name="background color" default="明亮暖黄色"}，无道具、无文字、无水印。
+
+[English]
+Create a square digital illustration of a grumpy anthropomorphic golden hamster doing a clear “stop / no thanks” hand gesture. The hamster is shown in a close-up three-quarter pose, filling most of the frame, with its head tilted slightly downward and facing left, narrowed black eyes, a tiny pink nose, long fine whiskers, and an annoyed, unimpressed expression. Its fur is fluffy and realistic-anime styled: warm orange-gold on the head, ears, and back, creamy white on the cheeks, chest, belly, and arms, with soft painterly shading and visible fur strokes. One small human-like pink palm is raised beside its shoulder, fingers together, as if refusing or blocking something; the other arm hangs lower and is partly visible. Use a clean bright yellow background with a subtle gradient and no text. Style should feel like polished Japanese character art, cute but stern, high detail, soft lighting, crisp linework, and a humorous meme-like mood. Customize the subject as {argument name="animal" default="golden hamster"}, gesture as {argument name="gesture" default="raised stop hand"}, expression as {argument name="expression" default="grumpy unimpressed glare"}, background color as {argument name="background color" default="bright yellow"}, and art style as {argument name="art style" default="polished Japanese anime painterly illustration"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2089553781617025397) | 2026-08-18
+
+---
+
+### 🎨 例 6461：治愈系插画风格壁纸
+
+![治愈系插画风格壁纸](../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+procreate治愈系插画x不规则弥散粒子笔刷x 朦胧主体x 获奖级构图 x 顶部大量留白x 底部颗粒感基座+主体x 单色彩色逻辑x 壁纸 x 简约 x 治愈系+莫兰迪系人文注意配色 x 插画光影 x 黄金比例构图 画面主体：{argument name="主体" default="蓝色蝴蝶"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089522696359149992) | 2026-08-18
+
+---
+
+### 🎨 例 6462：带有环状行星的异星地平线
+
+![带有环状行星的异星地平线](../images/%E5%B8%A6%E6%9C%89%E7%8E%AF%E7%8A%B6%E8%A1%8C%E6%98%9F%E7%9A%84%E5%BC%82%E6%98%9F%E5%9C%B0%E5%B9%B3%E7%BA%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级的超宽幅异星景观，画面中不包含宇宙飞船或城市，专注于展现令人惊叹的探索地平线。画布采用 16:9 全景科幻概念艺术风格，色调为深邃的太空色。前景展示两侧参差不齐的黑色水晶山脊和尖锐的尖塔，并带有发光的蓝色和紫色矿物反射；画面底部中央延伸出一条蜿蜒的发光河流或能量流，引导视线穿过山谷，望向远处地平线上类似日出的灿烂光芒。天空中，左上方至中央位置悬挂着一个巨大的螺旋星系，呈对角线倾斜，拥有明亮的暖白橙色核心以及旋转的粉色、紫色、蓝色和金色星云臂。右上方精确展示 4 颗球形天体：1 颗巨大的环状气态巨行星，带有微妙的紫褐色条纹和类似土星的细环系统，以及附近 3 颗较小的卫星（一颗位于巨行星左上方，一颗位于该卫星左下方，另一颗与巨行星左下边缘重叠）。背景填充密集的恒星、蓝色星团、洋红色星云和宇宙尘埃。地平线应散发出桃色、薰衣草色和电光蓝的大气光芒，衬托出远处针状山峰的剪影。风格：高细节数字绘景、史诗级太空奇幻、宏大的比例感、发光的体积云、锐利的岩石纹理、充满活力的天文摄影风格光影、令人敬畏与惊叹，无文字，无水印。可选命名氛围：一颗名为 {argument name="planet name" default="Horizon's Edge"} 的神秘行星，具有 {argument name="dominant sky color" default="violet and electric blue"} 的色调和 {argument name="horizon glow color" default="peach-gold"} 的光芒。
+
+[English]
+Create an ultra-wide cinematic alien planet landscape titled by mood rather than text, with no spaceship and no city, only an impossible cosmic horizon. The scene shows a vast jagged valley of dark crystalline mountains under a spectacular star-filled sky. Include exactly 5 prominent mountain spires: one huge black serrated spire dominating the far left foreground, one smaller sharp spire near the center-left distance, one tiny glowing central horizon peak, one large jagged ridge-spire on the right midground, and one distant far-right peak. A luminous icy-blue river or energy stream winds from the foreground center into the glowing horizon, reflecting starlight across misty terrain. Above the horizon, place 1 enormous tilted spiral galaxy with a bright warm white-orange core on the upper left, stretching diagonally across the sky with purple, pink, blue, and gold nebula clouds. On the upper right, place exactly 1 giant ringed gas planet with pastel violet, mauve, and indigo bands, plus exactly 3 moons around it: one small moon above-left of the planet, one smaller moon left of the planet, and one larger gray moon overlapping near the lower-right edge of the planet. Add crystalline blue-purple rocks in the right foreground, glowing faintly like embedded stardust. Use {argument name="color palette" default="deep indigo, violet, magenta, electric blue, warm gold, and icy cyan"}, {argument name="planet mood" default="mysterious and awe-inspiring"}, and {argument name="horizon glow" default="soft golden sunrise-like radiance"}. The style should be epic high-detail fantasy space art, photorealistic digital painting, dramatic scale, sharp foreground detail, atmospheric mist, rich nebula texture, volumetric light, high contrast, 16:9 panoramic composition, no text, no watermark, no people, no buildings.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2089517653312647533) | 2026-08-18
+
+---
+
