@@ -8611,3 +8611,143 @@ Using REFERENCE_0 as the character base, create a clean standalone full-body man
 
 ---
 
+### 🎬 例 6476：四格动漫 AI 上传漫画
+
+![四格动漫 AI 上传漫画](../images/%E5%9B%9B%E6%A0%BC%E5%8A%A8%E6%BC%AB%20AI%20%E4%B8%8A%E4%BC%A0%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一部竖版 4 格漫画，主角为 {argument name="character name" default="Suzuko-chan"}，一位开朗的动漫女孩，表现她在 AI 游乐场成功上传图片后的反应。
+
+画布：竖版漫画页面，3:4 长宽比，白色外边距，四个等大的水平面板垂直堆叠，带有粗黑色的面板边框和间隙。干净的高分辨率动漫插图，线条精美，柔和的赛璐珞阴影，明亮的眼睛，以及柔和的渐变背景。
+
+角色细节：所有 4 个面板中出现同一个角色：一位可爱的动漫少女，留着飘逸的深蓝色长发，拥有闪烁的大蓝眼睛、白皙的皮肤、柔和的腮红，刘海右侧别着一个银色发夹，身穿干练的白色衬衫，戴着一顶带有蓝色小“W”标志的白色水手帽。确保她在所有面板中的形象保持一致。
+
+布局和面板数量：使用精确的 4 个水平漫画面板。
+
+面板 1：淡蓝色渐变背景，角色身后有一个巨大的柔和白色椭圆光晕。中景，女孩位于画面中心偏左，表情惊讶，小嘴微张。右侧放置一个垂直椭圆对话框，内含黑色日文文本：{argument name="panel 1 speech" default="MAIPlaygromで…"}。
+
+面板 2：淡粉色渐变背景，带有白色椭圆光晕。女孩面部的特写占据面板大部分空间，笑容灿烂，蓝眼睛睁大，带有腮红。右侧放置一个垂直椭圆对话框，内含黑色日文文本：{argument name="panel 2 speech" default="MAI-Image-2.6が…"}。
+
+面板 3：暖黄色渐变背景，带有白色椭圆光晕。女孩的半身像，双手举起，兴奋地微笑着。右侧放置一个垂直椭圆对话框，内含黑色日文文本：{argument name="panel 3 speech" default="ついに画像アップロードできた！"}。
+
+面板 4：淡粉色背景，带有白色光晕和散落的彩色纸屑。女孩的特写/中景，一只蓝眼睛眨眼，笑容灿烂，向观众竖起大拇指。右侧放置一个垂直椭圆对话框，内含黑色日文文本：{argument name="panel 4 speech" default="とっても嬉しい！"}。在右下角添加一个类似签名的小标题，写着“鈴子ちゃん”。
+
+需包含的独立可见元素：精确的 4 个面板，精确的 4 个对话框，精确的 1 个重复出现的动漫女孩，最后一个面板中精确的 1 个竖大拇指姿势，第三个面板中精确的 1 个双手举起姿势，右下角精确的 1 个角色名小标题，且仅在最后一个面板中包含彩色纸屑。
+
+视觉风格：现代日本网络漫画/动漫风格，精致的面部特征，光泽细腻的头发，带有星形高光的生动蓝眼睛，柔和的粉彩配色，干净的黑色轮廓，无网点纹理，无粗糙效果。
+
+约束：保持所有文本在椭圆对话框内垂直排列，保留所写的日文文本，避免添加额外的面板、额外的角色、额外的标志或额外的标题。确保漫画易于阅读且排列整齐。
+
+[English]
+Goal: Create a vertical 4-panel manga comic featuring {argument name="character name" default="Suzuko-chan"}, a cheerful anime girl reacting to successful image upload in an AI playground.
+
+Canvas: Portrait manga page, 3:4 aspect ratio, white outer margin, four equal horizontal panels stacked vertically, thick black panel borders and gutters. Clean high-resolution anime illustration with polished line art, soft cel shading, bright eyes, and pastel gradient backgrounds.
+
+Character details: One recurring character appears in all 4 panels: a cute teenage anime girl with long flowing navy-blue hair, large sparkling blue eyes, fair skin, soft blush, a silver hair clip on the right side of her bangs, a crisp white button-up shirt, and a white sailor-style cap with a small blue “W” emblem. Keep her design consistent across all panels.
+
+Layout and exact panel count: Use exactly 4 horizontal comic panels.
+
+Panel 1: Pale blue gradient background with a large soft white oval glow behind the character. Medium shot of the girl centered slightly left, looking surprised with a small open mouth. On the right, place one vertical oval speech bubble with black Japanese text reading {argument name="panel 1 speech" default="MAIPlaygromで…"}.
+
+Panel 2: Pale pink gradient background with a white oval glow. Close-up of the girl’s face filling most of the panel, smiling brightly with wide blue eyes and blush. On the right, place one vertical oval speech bubble with black Japanese text reading {argument name="panel 2 speech" default="MAI-Image-2.6が…"}.
+
+Panel 3: Warm yellow gradient background with a white oval glow. Waist-up shot of the girl, smiling with both hands raised open in excitement. On the right, place one vertical oval speech bubble with black Japanese text reading {argument name="panel 3 speech" default="ついに画像アップロードできた！"}.
+
+Panel 4: Pale pink background with white glow and scattered colorful confetti pieces. Close-up/medium shot of the girl winking with one blue eye open, smiling widely, giving a thumbs-up toward the viewer. On the right, place one vertical oval speech bubble with black Japanese text reading {argument name="panel 4 speech" default="とっても嬉しい！"}. Add a small signature-like caption at the bottom right reading “鈴子ちゃん”.
+
+Discrete visible elements to include: exactly 4 panels, exactly 4 speech bubbles, exactly 1 recurring anime girl, exactly 1 thumbs-up pose in the final panel, exactly 1 two-hands-raised pose in the third panel, exactly 1 small bottom-right character-name caption, and colorful confetti only in the final panel.
+
+Visual style: Modern Japanese webcomic/anime style, delicate facial features, glossy detailed hair, vivid blue eyes with star-like highlights, soft pastel color palette, clean black outlines, no halftone texture, no gritty effects.
+
+Constraints: Keep all text vertical inside oval speech bubbles, preserve the Japanese text as written, avoid adding extra panels, extra characters, extra logos, or additional captions. Make the comic readable and neatly aligned.
+```
+
+**来源：** [@鈴木](https://x.com/stocktrading0/status/2090117984572600658) | 2026-08-19
+
+---
+
+### 🎬 例 6489：戏剧性的漫画金钱对峙
+
+![戏剧性的漫画金钱对峙](../images/%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E6%BC%AB%E7%94%BB%E9%87%91%E9%92%B1%E5%AF%B9%E5%B3%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页具有粗犷青年漫画风格的戏剧性黑白漫画，讲述两名动漫少女因借款问题发生对峙，画面需具备强烈的暴风雨氛围、碎片、墨迹飞溅以及电影般的低角度构图。
+
+画布：高垂直漫画页面，比例约为 9:16，单色灰度网点印刷，高对比度黑色，精细线条，速度线冲击效果，无色彩。
+
+布局：使用 2 个垂直堆叠的画格，中间由对角线白色间隙隔开。上方画格约占页面 45%，展示一名戴兜帽的少女站在开裂的岩石悬崖边缘，采用仰视视角。下方画格约占页面 55%，展示第二名少女靠在破碎的地面和瓦砾上，采用低角度近景视角。
+
+上方画格主体：一名身材苗条的动漫少女，名为 {argument name="creditor name" default="Nagi"}，站在崎岖的岩石架上，从上方俯视观众，气势逼人。她穿着浅色连帽雨衣或派克大衣，带有大前兜，兜帽戴起，露出部分浅色短发，一只眼睛半遮，表情冷静但充满威胁。风和云在她身后盘旋，空气中漂浮着灰尘和小石块。在左侧和右下边缘附近添加两个巨大的黑色锯齿状漫画拟声词。
+
+下方画格主体：一名身材苗条的动漫少女，名为 {argument name="debtor name" default="Sora"}，坐在下方的碎石瓦砾中，虽然受伤且脏兮兮，但神情挑衅地冷笑。她留着长长的深色头发，随风飘动，眼神犀利，脸部和腿部有擦伤和泥土，穿着深色运动风超大夹克，胸前可见小字“SORA”，带有条纹袖子细节、叠穿街头服饰、背带式绑带、短裤、腰带和拉链。尽管身受战斗损伤，她的姿势依然显得放松且傲慢。
+
+文字内容：包含 2 个垂直的日语对话气泡。在上方画格中，右侧放置一个长条形白色对话气泡，内容为：「ソラさん—— “お金”返してください」。在下方画格中，左侧放置一个白色对话气泡，内容为：「——ヤダね」。使用整洁的漫画字体，并保持气泡垂直。
+
+视觉风格：超精细黑白漫画插图，戏剧性光影，纹理网点天空，裂岩渲染，灰尘颗粒，墨迹飞溅，厚重的黑色，锐利的高光，情绪张力，少女对决氛围，专业连载漫画页面质量。
+
+约束条件：包含 2 个角色，2 个画格，2 个对话气泡，以及 2 个大型锯齿状拟声词。不要添加额外的画格、角色、颜色、水印、标题或英文对话。
+
+[English]
+Goal: Create a dramatic black-and-white manga page in a gritty seinen style about two anime girls confronting each other over borrowed money, with intense stormy atmosphere, debris, ink splatter, and cinematic low-angle composition.
+
+Canvas: Tall vertical manga page, approximately 9:16 aspect ratio, monochrome grayscale screentone printing, high contrast blacks, detailed line art, speed-line impact effects, no color.
+
+Layout: Use exactly 2 stacked panels separated by a diagonal white gutter. The top panel occupies about 45% of the page and shows a hooded girl standing on the edge of a cracked rocky cliff, viewed from below. The bottom panel occupies about 55% and shows the second girl reclining or sitting against broken ground and rubble, viewed close-up from a low frontal angle.
+
+Top panel subject: A slim teenage anime girl named {argument name="creditor name" default="Nagi"} stands ominously above the viewer on a jagged rock ledge. She wears a light-colored hooded raincoat or parka with large front pockets, the hood up, short light hair visible under the hood, one eye partly obscured, and a calm but threatening expression. Wind and clouds swirl behind her, with dust and small rocks floating in the air. Add two large black jagged manga sound-effect strokes near the left and lower-right edges.
+
+Bottom panel subject: A slim teenage anime girl named {argument name="debtor name" default="Sora"} sits below among cracked stone rubble, injured and dirty but smirking defiantly. She has very long dark hair blowing across the frame, sharp eyes, scratches and mud on her face and legs, and wears a dark sporty oversized jacket with visible small text “SORA” on the chest, striped sleeve details, layered streetwear, harness-like straps, shorts, belts, and zippers. Her pose should feel relaxed and insolent despite the battle damage.
+
+Text content: Include exactly 2 vertical Japanese speech bubbles. In the top panel, place one tall white speech bubble on the right containing: 「ソラさん—— “お金”返してください」. In the bottom panel, place one white speech bubble on the left containing: 「——ヤダね」. Use clean manga lettering and keep the bubbles vertical.
+
+Visual style: Hyper-detailed monochrome manga illustration, dramatic lighting, textured screentone sky, cracked rock rendering, dust particles, ink splashes, heavy blacks, sharp highlights, emotional tension, catfight showdown mood, professional serialized manga page quality.
+
+Constraints: Include exactly 2 characters, exactly 2 panels, exactly 2 speech bubbles, and exactly 2 large jagged sound-effect marks. Do not add extra panels, extra characters, color, watermarks, captions, or English dialogue.
+```
+
+**来源：** [@前野凌@AIEventCollection運営](https://x.com/AI_animeryo/status/2090053668452123116) | 2026-08-19
+
+---
+
+### 🎬 例 6508：可爱的黑熊手绘插画
+
+![可爱的黑熊手绘插画](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E9%BB%91%E7%86%8A%E6%89%8B%E7%BB%98%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简单的方形儿童绘本插画，画面中心是一只可爱的卡通黑熊，正面向前站立。黑熊拥有圆润的身体、短腿、小圆耳，白色的圆形眼睛配有黑色瞳孔，内耳和眉斑为棕褐色，口鼻部为棕褐色，配有简单的黑色鼻子和微笑的嘴巴，胸前有一个巨大的奶油色 V 型斑纹。采用刻意追求不完美的手绘丙烯或水粉风格，带有明显的笔触、粗糙且不均匀的黑色轮廓线、略显粗糙的边缘以及平涂的鲜艳色彩。背景是明亮的青蓝色天空，左上方和右上方各有一朵色块感十足的白色手绘云朵。地面为暖橙黄色泥土，前景中有 6 块小黑石和 3 丛草。在黑熊身后的地平线两侧添加低矮圆润的绿色灌木丛。保持构图对称、俏皮、简约且充满童趣，无文字、无水印，且非写实风格。主体是一只 {argument name="animal" default="黑熊"}，胸前带有 {argument name="chest marking color" default="奶油色"} 斑纹，背景为 {argument name="sky color" default="明亮的青蓝色"} 天空和 {argument name="ground color" default="暖橙黄色"} 地面，风格为 {argument name="art style" default="手绘丙烯儿童绘本插画"}。
+
+[English]
+Create a simple square children’s book illustration of a cute cartoon black bear standing front-facing in the center of a sunny outdoor scene. The bear has a rounded body, short legs, small rounded ears, white circular eyes with black pupils, tan inner ears, tan eyebrow patches, a tan muzzle with a simple black nose and smiling mouth, and a large cream V-shaped chest marking. Use a deliberately imperfect hand-painted acrylic or gouache style with visible brush strokes, thick uneven black outlines, slightly rough edges, and flat bold colors. The background is a bright cyan-blue sky with exactly 2 blocky white painted clouds, one in the upper left and one in the upper right. The ground is warm orange-yellow dirt with exactly 6 small dark rocks and exactly 3 tufts of grass in the foreground. Add low rounded green bushes along the horizon on both sides behind the bear. Keep the composition symmetrical, playful, minimal, and childlike, with no text, no watermark, and no photorealism. The main subject is a {argument name="animal" default="black bear"} with {argument name="chest marking color" default="cream"} chest marking, set against a {argument name="sky color" default="bright cyan-blue"} sky and {argument name="ground color" default="warm orange-yellow"} ground in a {argument name="art style" default="hand-painted acrylic children’s book illustration"}.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2089964819252396289) | 2026-08-19
+
+---
+
+### 🎬 例 6523：战士对决石像鬼
+
+![战士对决石像鬼](../images/%E6%88%98%E5%A3%AB%E5%AF%B9%E5%86%B3%E7%9F%B3%E5%83%8F%E9%AC%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 4:5 竖构图的戏剧性奇幻漫画风格战斗场景。一座巨大的古代石像鬼耸立在废弃的寺庙庭院中，俯瞰着一名孤身一人的重甲战士，采用低角度电影镜头，突显石像鬼的庞大感。石像鬼由数千块不规则的灰褐色石块和破碎的砖石构成，岩石间点缀着绿色苔藓和悬垂的藤蔓。它拥有发光的青蓝色魔法双眼，并清晰可见 4 个发光的蓝色符文核心：一个位于胸口中央，一个位于额头，一个位于右肩，一个位于左前臂。它巨大的左手向观众方向伸出，手指硕大，另一只手臂则向后拉起呈握拳状，仿佛正在蓄力攻击。前景中，展示一名背对观众的人类战士，身穿深色中世纪盔甲和靴子，披着一件带有金色镶边的破旧海军蓝黑色斗篷，右手持剑，左臂佩戴圆盾，摆出防御姿态面对巨人。周围环绕着旋转的风格化尘埃云和速度线烟雾带，呈现出水墨漫画效果：场景周围环绕着 8 股主要的白色尘埃羽流，带有黑色轮廓和动态运动弧线。地面上散布着飞溅的碎石、裂开的石块残骸、断裂的柱子、散落的遗迹和长满苔藓的瓦砾。背景是明亮的湛蓝色天空，点缀着稀疏的白云和远处的废弃石塔。视觉风格：高度细节化的动漫奇幻插画，锐利的黑色水墨轮廓，漫画交叉阴影，动态视角，饱和的色彩，强烈的阳光，高对比度，史诗般的动作张力，无文字，无水印。使用 {argument name="hero description" default="一名身穿深色盔甲、披着破旧海军蓝黑色斗篷并持剑的孤胆战士"}，{argument name="monster description" default="一座长满苔藓、拥有青色发光符文核心的巨大石像鬼"}，{argument name="setting" default="明亮蓝天下的古老废弃寺庙庭院"}，{argument name="magic glow color" default="青蓝色"}，以及 {argument name="dust effect" default="大型白色漫画风格旋转尘埃羽流"}。
+
+[English]
+Create an epic vertical fantasy battle illustration in a highly detailed anime manga style: a lone armored knight, {argument name="hero name" default="unnamed dark-caped swordsman"}, stands in the lower foreground with his back to the viewer, legs braced wide, holding one sword forward and a round shield to the side, facing a colossal ancient stone golem that fills most of the frame. The golem is made of thousands of cracked masonry blocks, carved ruins, moss, vines, and hanging greenery, with a massive reaching left hand in extreme foreground perspective, a clenched right fist, broad shoulders, and a stern skull-like face. Add exactly two main characters: one human warrior and one giant stone golem. Add exactly four visible cyan-blue magical energy features on the golem: two glowing eyes, one glowing forehead/temple crystal cluster, one circular glowing chest core, and one glowing rune cluster on the extended forearm. The setting is a ruined ancient stone courtyard with broken columns and scattered rubble under a vivid blue sky with small white clouds. Surround the action with exactly twelve large cream-white manga dust and impact-cloud plumes, drawn with bold black ink outlines and spiral curls, plus small flying rock fragments and debris. Use dynamic low-angle composition, the golem towering overhead, the hero small but defiant at the bottom center, intense perspective, motion lines, dramatic sunlight, crisp cel-shaded highlights, intricate linework, high contrast, and cinematic detail. The hero wears dark layered plate armor, boots, gloves, and a tattered navy-black cape with subtle gold embroidery; the golem color is {argument name="golem stone color" default="weathered gray-beige"}, the magic glow is {argument name="magic glow color" default="electric cyan blue"}, and the sky is {argument name="sky color" default="bright saturated blue"}. No text, no watermark, no UI, no border.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2089875262586687730) | 2026-08-19
+
+---
+

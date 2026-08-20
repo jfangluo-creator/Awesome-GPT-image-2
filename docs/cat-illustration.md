@@ -18497,3 +18497,125 @@ Create an ultra-wide cinematic alien planet landscape titled by mood rather than
 
 ---
 
+### 🎨 例 6485：极简金色森林插画
+
+![极简金色森林插画](../images/%E6%9E%81%E7%AE%80%E9%87%91%E8%89%B2%E6%A3%AE%E6%9E%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅风格化的森林场景，高大的松树以闪烁的金色和深黑色调渲染，置于深色背景之上。构图特色包括质感丰富的波浪状金色地面，以及远处山脉和天空中飞鸟的精致金色轮廓，营造出一种优雅、奢华且充满宁静与神秘感的氛围。这幅极简且优雅的插画以深色背景为基调，前景中是一排闪烁着金色光泽的风格化松树，上方有起伏的金色波浪；一群小鸟在树梢上方飞翔，通过平衡的构图和现代精致的风格，营造出宁静而奢华的氛围。
+
+[English]
+A stylized forest scene with tall pine trees rendered in shimmering gold and deep black tones, set against a dark background. The composition features a textured, wavy golden ground and delicate golden outlines of distant mountains and birds in the sky, creating an elegant and luxurious atmosphere with a sense of calm and mystery. A minimalist and elegant illustration featuring a dark background with a row of stylized pine trees in shimmering gold tones, above undulating golden waves in the foreground; a small flock of golden birds flies above the treetops, creating a serene and luxurious atmosphere with a balanced composition and a modern, sophisticated style.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2090075937169694851) | 2026-08-19
+
+---
+
+### 🎨 例 6488：Angela 亚马逊森林女战士
+
+![Angela 亚马逊森林女战士](../images/Angela%20%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%A3%AE%E6%9E%97%E5%A5%B3%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级暗黑奇幻风格的动作剧照，主角是 {argument name="character name" default="亚马逊战士 Angela"}，一位凶猛的亚马逊女战士，正蹲伏在长满苔藓的古老森林中，仿佛在追踪敌人。她拥有一头飘逸且蓬松的 {argument name="hair color" default="铜红色"} 卷发，眼神犀利，脸上带着淡淡的战损妆容，身材健美且具有英雄般的戏剧性比例。她身穿华丽的青铜金色奇幻盔甲：带有护颊的带翼雕花头盔、大圆环耳环、覆盖在深色皮带上的金属胸甲、圆形金属环和铆钉、缠绕在一侧上臂的链条、厚重的雕花护腕，以及带有圆形青铜饰片的皮带。她的姿势低伏且重心前倾，一只手臂向后伸展，另一只手紧握着一柄横跨画面前景下方的长矛或长柄武器，矛尖在左侧边缘可见。场景设定在昏暗、雾气弥漫的原始森林中，背景有扭曲的树干、粗壮的枝干、覆盖着苔藓的倒木以及柔和的灰绿色大气薄雾。采用浅景深效果，使战士细节清晰而背景虚化，呈现逼真的皮肤质感、盔甲和皮肤上的湿润高光，运用戏剧性的侧光，将森林的深绿色与温暖的青铜金属色及火红的头发形成对比。构图应为横向电影画幅，腰部以上的中景特写，人物略微偏向中心左侧并面向左方，充满动态张力，呈现出写实的高预算奇幻电影质感，无文字，无水印。
+
+[English]
+Create a cinematic dark-fantasy action still of {argument name="character name" default="Angela the Amazon"}, a fierce Amazon warrior woman crouching in a mossy ancient forest as if stalking an enemy. She has long, voluminous, wind-swept {argument name="hair color" default="copper-red"} curly hair, intense eyes, subtle battle-smudged makeup, and an athletic muscular build with dramatic heroic proportions. She wears ornate bronze-gold fantasy armor: a winged engraved crown/helmet with cheek guards, large hoop earrings, sculpted metal breastplate cups over dark leather straps, circular metal rings and studs, chain wraps around one upper arm, heavy engraved bracers, and a leather belt with round bronze plates. Her pose is low and forward-leaning, one arm extended back and the other gripping a long spear or polearm crossing the lower foreground, with the spear tip visible at the left edge. Set the scene in a dim, misty, old-growth woodland with twisted tree trunks, thick branches, moss-covered fallen logs, and soft green-gray atmospheric haze. Use shallow depth of field with a sharply detailed warrior and blurred background, realistic skin texture, wet highlights on armor and skin, dramatic side lighting, muted forest greens contrasted with warm bronze metal and fiery hair. Composition should be a horizontal cinematic frame, medium close-up from the waist up, character slightly left of center facing toward the left, dynamic tension, photorealistic high-budget fantasy movie look, no text, no watermark.
+```
+
+**来源：** [@Hunter R Customs](https://x.com/CustomsHunter/status/2090060107883376766) | 2026-08-19
+
+---
+
+### 🎨 例 6490：精灵魔导书契约
+
+![精灵魔导书契约](../images/%E7%B2%BE%E7%81%B5%E9%AD%94%E5%AF%BC%E4%B9%A6%E5%A5%91%E7%BA%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的奇幻动漫插画，描绘 {argument name="character name" default="一位年轻精灵少女"} 与一本古老魔导书签订魔法契约的场景。场景设定在夜晚一座黑暗的、大教堂风格的图书馆内，背景是高耸阴郁的书架，蓝色的月光透过高大的拱形窗户洒下，空气中漂浮着细小的尘埃，营造出神秘的氛围。画面构图右侧为人物半身像，她拥有瓷器般细腻的皮肤、一头飘逸的 {argument name="hair color" default="银金色长发"}、明亮的大眼睛、精致的精灵尖耳，正抬头凝视着魔法，神情充满敬畏。她身穿华丽的白色与深海军蓝长袍，饰有复杂的金色刺绣、花丝图案、半透明袖子，胸前佩戴一颗蓝色宝石吊坠，并配有珠宝发饰和小型蓝宝石水晶配饰。她手中捧着一本打开的古老魔导书，书皮为深蓝黑色皮革，内页厚重陈旧，带有金属包角、锁链、花丝装饰，封面中央镶嵌一颗圆形蓝宝石；书本左下边缘的锁链上悬挂着两枚蓝色水晶挂饰。从打开的书页中迸发出温暖的金色白光、火花以及垂直上升的发光符文流。在书本上方，创作一个巨大的圆形魔法阵，由同心圆、奥术符号和几何神圣星形图案组成，散发着温暖的金色光芒；圆环周围需包含四个显眼的宝石状节点，中心点为一颗明亮的星芒。魔法阵应呈现悬浮在空中的半透明效果，使用无法辨认的奇幻符文，而非真实文字。运用冷色调月光背景与暖色调咒语光芒的强烈对比，营造电影级的景深效果、体积光束、闪烁粒子，呈现超精细的奇幻概念艺术，采用精致的动漫写实渲染风格，4:5 竖构图，无水印，无现代物品，无可见文字。
+
+[English]
+Create a highly detailed fantasy anime illustration of {argument name="character name" default="a young elven girl"} forming a magical contract with an ancient grimoire. The scene is set in a dark, cathedral-like library at night, with towering shadowy bookshelves, blue moonlight filtering through tall arched windows, tiny floating dust motes, and a mystical atmosphere. The character is shown from the waist up on the right side of the composition, with porcelain skin, long flowing {argument name="hair color" default="silvery blonde hair"}, large luminous blue eyes, delicate pointed elf ears, and an awestruck expression as she gazes upward toward the magic. She wears an ornate white and deep navy robe with intricate gold embroidery, filigree patterns, translucent sleeves, a blue gemstone pendant at her chest, jeweled hair ornaments, and small sapphire crystal accessories. In her hands is one large open ancient grimoire, dark blue-black leather cover, thick aged pages, gold metal corner fittings, chains, filigree, and a central round blue gem on the cover; two dangling blue crystal charms hang from chains along the lower left edge of the book. From the open pages bursts warm golden-white magical light, sparks, and vertical streams of glowing runes. Above the book, create one huge circular magic sigil made of concentric rings, arcane glyphs, and geometric sacred-star patterns, glowing in warm gold; include exactly four prominent jewel-like nodes around the circle plus a bright central star point. The sigil should look suspended in the air, semi-transparent, with unreadable fantasy runes rather than real language. Use dramatic contrast between cool blue moonlit background and warm golden spell light, cinematic depth of field, volumetric light beams, sparkling particles, ultra-detailed fantasy concept art, delicate anime-realistic rendering, 4:5 vertical composition, no watermark, no modern objects, no readable text.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090050766480540049) | 2026-08-19
+
+---
+
+### 🎨 例 6504：低角度蓝天运动装
+
+![低角度蓝天运动装](../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E8%93%9D%E5%A4%A9%E8%BF%90%E5%8A%A8%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+主題：
+青空へ伸びる白い袖
+
+主体：
+低いコンクリート壁の上に立ち、両腕を頭上へ伸ばして手を組む{argument name="年齢" default="20代"}女性。画面中央に全身を大きく置き、{argument name="スポーツウェア" default="灰青色のスポーツウェアと白い柄入りウインドブレーカー"}、広い青空を描く。
+
+人物・表情：
+小さな卵形の顔、細い茶色い目、自然な眉、淡いピンクの唇。顔を画面右上へ向け、空を見上げて穏やかに微笑む表情。長いダークブラウンの髪を下ろし、風で画面左へ流す。
+
+服装・ポーズ：
+灰青色の細肩紐スポーツトップとハイウエストの短いスポーツパンツ。上に白地へ黒い抽象柄を散らした薄手の長袖ジップジャケットを前開きで重ねる。白い短い靴下と白い厚底スニーカー。両脚を交差気味にして立つ。両腕を真上へ伸ばし、頭上で手を組む。
+
+背景・光：
+背景の大部分は鮮やかな青空で、左下と下端に白い積雲、最下部に灰色のコンクリート壁。上方から強い直射日光を当て、白い袖と脚を明るく照らし、衣服の皺へ短い影を作る。
+
+構図・カメラ：
+縦3:4。地面近くから見上げる強いローアングルの広角カメラで、靴底から組んだ手まで全身を収める。人物を中央に細長く大きく配置し、頭上と左右に広い青空の余白を残す。靴と壁を下端近くに置き、人物にピントを合わせて空まで明瞭にする。
+
+質感・スタイル：
+真昼の屋外で撮影したフォトリアルな実写写真。スポーツ布の伸縮と光沢、薄いジャケットの皺、髪の風、白い靴の質感を精細に描く。
+
+ネガティブ：
+頭上で組んだ両腕の変更；白い柄入り上着の省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2089975653643043104) | 2026-08-19
+
+---
+
+### 🎨 例 6506：法式学院哥特风时尚穿搭
+
+![法式学院哥特风时尚穿搭](../images/%E6%B3%95%E5%BC%8F%E5%AD%A6%E9%99%A2%E5%93%A5%E7%89%B9%E9%A3%8E%E6%97%B6%E5%B0%9A%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+优雅复古的法式学院风与轻哥特气质结合，整体配色为黑白经典撞色。服装采用“修身上身＋高腰伞状短裙”的女性化轮廓，强调纤细腰线、蓬松裙摆与轻盈垂坠感。整体造型精致、浪漫、端庄，带有复古洋娃娃与维多利亚风格元素，但不过度夸张。
+```
+
+**来源：** [@ziv](https://x.com/zivlin043/status/2089970580338495817) | 2026-08-19
+
+---
+
+### 🎨 例 6513：动漫涂鸦蝴蝶壁画
+
+![动漫涂鸦蝴蝶壁画](../images/%E5%8A%A8%E6%BC%AB%E6%B6%82%E9%B8%A6%E8%9D%B4%E8%9D%B6%E5%A3%81%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动态的竖屏动漫街头艺术插画，画面中 {argument name="character name" default="一位开朗的粉发涂鸦女孩"} 正在高大的粗糙混凝土墙上绘制一幅巨大的蝴蝶壁画。采用从地面附近的极低角度透视，一只白色厚底运动鞋向观众迈出，角色在画面中显得高大且富有英雄气概。女孩留着极长的飘逸 {argument name="hair color" default="玫瑰粉色"} 秀发，发丝向右飘动，拥有一双明亮的绿色眼睛、开怀大笑的表情，发间系着黑色丝带配饰。她身穿一件带有丝带细节的超大款短款黑色 T 恤，搭配宽松的浅蓝色阔腿牛仔裤（侧边有白色系带），脚踩厚底白色运动鞋。她手持 2 罐喷漆：一罐高举过头顶，喷洒出一团闪烁的漆雾；另一罐握在腰间。她身后是一幅巨大的蝴蝶壁画，几乎覆盖了整面墙壁，精致的黑色脉络翅膀上填满了滴落的 {argument name="paint colors" default="亮粉色和绿松石色"} 涂鸦颜料，伴有飞溅效果、粗犷的轮廓线以及湿润的垂直流漆。画面中总共包含 8 罐喷漆：2 罐在她手中，1 罐巨大的模糊喷漆罐位于左下角前景，5 罐直立排列在右下方的地面边缘。在壁画右侧及背景下方添加 5 只发光的小蝴蝶剪影。地面上溅满了粉色和青色的颜料，呈现出光亮且反光的效果。光影充满魔幻与活力，带有闪烁的微粒，喷雾周围环绕着柔和的粉白色光晕，线条清晰，衣褶与发丝细节丰富，具有绘画感的涂鸦质感，前景采用浅景深效果，无文字，无水印。
+
+[English]
+Create a dynamic vertical anime street-art illustration of {argument name="character name" default="a cheerful young woman graffiti artist"} posing in front of a huge freshly painted butterfly mural on a tall rough concrete wall. Use an extreme low-angle perspective from near the ground, making her white platform sneakers and wide loose light-blue jeans dominate the foreground while her body rises upward toward the butterfly wings. She has very long flowing {argument name="hair color" default="pink"} hair streaming to the right, bright green eyes, an excited open smile, and a black ribbon hair accessory. Her outfit is a cropped oversized black T-shirt tied at the side with ribbon details, baggy lace-up jeans with white crisscross lacing along one leg, and chunky white sneakers. She holds exactly two spray paint cans: one raised high in her right hand spraying a glowing mist above the mural, and one teal can in her left hand near her hip. Behind her, paint an enormous butterfly mural with exactly four large wings, black sketchy ink outlines and vein lines, vivid hot pink and turquoise fills, splattered paint, dripping paint trails, and a dark butterfly body centered behind her. Add magical glittering particles around the spray mist and exactly five small glowing butterfly silhouettes scattered mostly on the right side. Include exactly seven visible spray cans in the scene: one large blurred pink spray can cropped in the extreme lower-left foreground, two cans in her hands, and four upright cans lined along the lower-right floor. The ground should be wet and paint-splattered, reflecting pink, teal, and white highlights. The background is a gritty gray concrete alley wall with vertical seams, stains, scratches, and overspray. Style: highly detailed modern anime, vibrant cyber-pop graffiti colors, painterly ink splatter, cinematic lighting, shallow depth of field, energetic composition, crisp character rendering, soft bloom and sparkle effects. Use a 9:16 vertical canvas, no text, no watermark, no logo.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2089944097079656570) | 2026-08-19
+
+---
+

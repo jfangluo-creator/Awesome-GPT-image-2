@@ -26816,3 +26816,176 @@ Constraints: Do not add people, animals, lanterns, food, or extra decorative obj
 
 ---
 
+### 🎴 例 6480：日本报纸猫咪英雄头版
+
+![日本报纸猫咪英雄头版](../images/%E6%97%A5%E6%9C%AC%E6%8A%A5%E7%BA%B8%E7%8C%AB%E5%92%AA%E8%8B%B1%E9%9B%84%E5%A4%B4%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张写实的日本报纸头版，风格为古朴整洁的本地日报，报道一则关于黑猫英雄利用旋转变身腰带收集秋叶的趣味特摄新闻。
+
+画布：竖版大报页面，米白色再生纸质感，带有轻微的油墨晕染，单色排版，配有一张大型彩色新闻照片。长宽比约为 3:4。添加细黑框线、边栏方框以及密集的日式报纸排版。
+
+报头与页眉：页面最上方绘制双横线。左侧方框标语为「平和を、今日の一歩に。」。中央报头采用超大号传统明朝体，文字为 {argument name="newspaper name" default="日刊平和新报"}。右侧方框包含出版详情，包括地址、电话类信息以及「© 日刊平和新报社 2025年」。报头下方居中日期行显示「令和八年十月十五日（水）　朝刊」，最右侧显示「一部五五十円」。
+
+主标题：页面横跨超大号加粗日文标题：{argument name="headline text" default="黒猫ヒーロー、回転ベルトで落ち葉十二袋"}。下方副标题为「町内清掃が開始三分で終了　公園利用者『助かったが風圧がすごい』」。
+
+主图：占据标题下方左侧及中央区域的大型矩形彩色照片。画面展示一只拟人化的黑猫，秋季在公园中直立站立，佩戴着银色昆虫/特摄英雄头盔，头盔上有超大的红色复眼、触角及黑猫耳朵。猫咪拥有光亮的黑色皮毛，摆出英雄姿势，抬起一只爪子，腰间佩戴银色变身腰带，腰带上有两个红色圆形涡轮镜片和一个红色小数字 3。腰带在腰间产生可见的透明旋风轨迹，将落叶吹向两侧。背景：铺设好的公园小径，左侧可见部分游乐设施，树木挂着橙褐色叶子，大量落叶在空中飞舞。照片右侧展示 3 个装满落叶的透明垃圾袋，每个袋子上都贴有「落ち葉」标签。猫咪神情自豪且略带天真，像蒙面英雄一样双腿分开站立。图片下方说明文字为「回転ベルトの風で落ち葉を集めた黒猫ヒーロー。清掃後も終始きりっとした表情を崩さなかった。」
+
+文章排版：照片右侧设置两栏狭窄的日文竖排文字，采用传统报纸风格。文章内容描述 15 日早晨，在市内一次小型公园清扫活动中，黑猫英雄突然加入，腰带产生的风将落叶汇集到一处，三分钟内装满了十二个袋子；参与者虽然得到了帮助，但被强风惊到，帽子被吹飞，英雄在离开前冷静地摆了姿势。保持栏内文字密集且真实，使用日文竖排格式。
+
+底部信息栏：底部创建 3 个方框面板。面板 1 标题为「きょうの紙面」，列出 4 条要点：「■２面　物価高で家計に秋風　都区部CPI、３か月連続上昇」、「■３面　新連載『街角の小さな発見』第一回　公園のすべり台」、「■５面　スポーツ　リーグ優勝争い、終盤戦へ」、「■７面　社説『小さな善意が地域を変える』」。面板 2 标题为「きょうの天気（東京）」，显示 2 个天气图标：标有“午前”的太阳图标（15°C），以及标有“午後”的多云图标（19°C）；包含「降水確率　10％／20％」及「洗濯日和。落ち葉はよく飛ぶ。」。面板 3 标题为「ひとこと（読者の声）」，配有一个小人图标及引语 {argument name="reader quote" default="『あの風をうちのベランダ掃除にも使ってほしい』（文京区・60代女性）"}。
+
+视觉风格：地道的日本报纸设计，以米色纸张上的黑色油墨为主，印刷质感清晰但略显陈旧。黑字与暖色秋景照片形成强烈对比。日文采用传统衬线明朝体，标题加粗，栏间距紧凑，真实的编辑网格。无现代 App UI，无光面杂志风格，无水印。
+
+[English]
+Goal: Create a realistic Japanese newspaper front page in the style of an old but clean daily local paper, featuring a humorous tokusatsu news story about a black cat hero using a spinning transformation belt to collect fallen autumn leaves.
+
+Canvas: Vertical broadsheet newspaper page, off-white recycled paper texture, slight ink bleed, monochrome typography with one large color news photo. Aspect ratio about 3:4. Add thin black rules, boxed side panels, and dense Japanese newspaper layout.
+
+Masthead and header: At the very top, draw a double horizontal rule. Left boxed slogan reads 「平和を、今日の一歩に。」. Center masthead in very large traditional Mincho-style Japanese type reads {argument name="newspaper name" default="日刊平和新報"}. Right boxed publisher details include address and phone-like lines, plus 「© 日刊平和新報社 2025年」. Below the masthead, a centered date line reads 「令和八年十月十五日（水）　朝刊」 and at far right 「一部五五十円」.
+
+Main headline: Use a huge bold Japanese headline across the page: {argument name="headline text" default="黒猫ヒーロー、回転ベルトで落ち葉十二袋"}. Under it, a smaller subheadline reads 「町内清掃が開始三分で終了　公園利用者『助かったが風圧がすごい』」.
+
+Main photo: Large rectangular color photo occupying the lower-left and center area under the headline. Show an anthropomorphic black cat standing upright in a park during autumn, wearing a silver insect/tokusatsu hero helmet with oversized red compound eyes, antennae, and black cat ears. The cat has glossy black fur, a raised paw in a heroic pose, a silver transformation belt at the waist with two red circular turbine lenses and a small red number 3. The belt creates visible transparent swirling wind trails around the waist, blowing leaves sideways. Background: paved park path, playground equipment partly visible on the left, trees with orange-brown leaves, many fallen leaves flying through the air. On the right side of the photo, show exactly 3 transparent trash bags filled with leaves, each labeled 「落ち葉」. The cat should look proud and slightly innocent, standing legs apart like a masked hero. Photo caption under the image reads 「回転ベルトの風で落ち葉を集めた黒猫ヒーロー。清掃後も終始きりっとした表情を崩さなかった。」
+
+Article layout: To the right of the photo, set two narrow vertical Japanese text columns in traditional newspaper style. The article text should describe that on the morning of the 15th, during a small park cleanup in the city, a black cat hero suddenly joined, wind from the belt gathered fallen leaves into one place, and twelve bags were filled in three minutes; participants were helped but surprised by the strong wind, hats flew, and the hero calmly posed before leaving. Keep the column text dense and believable, using vertical Japanese typesetting.
+
+Bottom information boxes: Along the bottom, create exactly 3 boxed panels. Panel 1 is titled 「きょうの紙面」 and lists exactly 4 bullet items: 「■２面　物価高で家計に秋風　都区部CPI、３か月連続上昇」, 「■３面　新連載『街角の小さな発見』第一回　公園のすべり台」, 「■５面　スポーツ　リーグ優勝争い、終盤戦へ」, 「■７面　社説『小さな善意が地域を変える』」. Panel 2 is titled 「きょうの天気（東京）」 and shows exactly 2 weather icons: a sun icon labeled 午前 with 15°C, and a partly-cloudy icon labeled 午後 with 19°C; include 「降水確率　10％／20％」 and 「洗濯日和。落ち葉はよく飛ぶ。」. Panel 3 is titled 「ひとこと（読者の声）」 with a small person icon and the quote {argument name="reader quote" default="『あの風をうちのベランダ掃除にも使ってほしい』（文京区・60代女性）"}.
+
+Visual style: Authentic Japanese newspaper design, mostly black ink on beige paper, crisp but slightly aged print texture. Use strong contrast between the black text and warm autumn photograph. Traditional serif Mincho font for Japanese, bold headline, tight column spacing, realistic editorial grid. No modern app UI, no glossy magazine styling, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090096089022267821) | 2026-08-19
+
+---
+
+### 🎴 例 6484：单色半调印刷海报设计
+
+![单色半调印刷海报设计](../images/%E5%8D%95%E8%89%B2%E5%8D%8A%E8%B0%83%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，将复杂信息压缩成一个唯一视觉锚点，重构为极简丝网版画与网点印刷海报。不要描摹照片，也不要加入丰富插画细节，只保留一个最关键的形状、动作或空间关系，让主体以极少的信息仍能被一眼识别。
+
+构图遵循“**一个主体、一个方向、一个空间关系**”。主体通常保持较小尺度，以大面积留白制造距离感和诗意；根据原图自身关系，只选择一种最自然的结构：水平延展、纵向延伸、孤立悬置、向外消散或由浅入深，不同时使用多种构图技巧。可以利用一条地平线、边界、阴影或网点带建立空间，让空白本身成为画面的主要组成部分。
+
+配色不直接复制照片，而从原图提炼综合色温、明度与情绪，重新归纳成**纸张底色 + 主墨色 + 雾层色**的有限专色体系。以米白、暖灰或自然纸色承担大面积留白，以一个沉静而有重量的综合色作为主墨色，再用同色系更浅、更灰的颜色表现空气、距离或层次。整体控制在2–3种颜色，以色彩面积、明度和网点密度建立层次，仅在具有明确叙事意义时允许极小面积点色。
+
+所有雾气、距离、阴影、消散和空间过渡均使用 **halftone网点由密至疏自然消失**，不要使用数字模糊或普通渐变。保留纸张颗粒、丝网油墨、轻微套印偏差和不均匀着墨，使画面像真正印刷在旧纸上的艺术版画。
+
+**保留少量具有高级编辑感的装饰性文字系统。** 不局限于地点名称，而从照片的主题、情绪、时间、动作、材质、距离或隐喻中生成极短英文标题，并搭配微型副文、编号、年份、章节号、坐标式数字、档案标记或一句含蓄的英文短句。文案可以略带抽象、文学性和策展语气，不需要完整解释画面，例如关于“距离、静止、经过、回声、边界、时间、光线、痕迹”等概念，使其像艺术书、建筑期刊或独立展览中的编辑注释。
+
+文字本身必须参与构图，而不是后期贴在空白处。可让小字**沿地平线排列、贴合主体轮廓、成为纵向视觉轴、跨越网点边界、隐藏在负形中，或与主体发生遮挡、穿插、断开和对齐关系**；也可通过极细竖线、短横线、编号、页码感符号与大面积留白建立节奏。允许一个词被拆开、纵排、拉开字距或局部被图形遮住，但始终保持阅读秩序。
+
+文字层级保持克制：**一个极短主标题 + 1–3组极小辅助文字即可**。字体参考高级艺术出版物与现代主义编辑设计，使用克制的无衬线、温和衬线或极简窄体字，通过极端字号反差、宽字距、细字重、上下标、小型大写和不对称排版制造精致感。文字颜色与主墨色或雾层色统一，可带轻微套印错位与油墨颗粒，使文字和图形属于同一次印刷，而不是数字排版覆盖层。
+
+整体追求**极少元素、极大留白、极小主体、极强秩序，以及微妙而聪明的文字介入**，呈现安静、孤独、辽阔、含蓄、诗意、知识感和收藏感。避免复杂构图、多个焦点、无意义装饰、大标题压画面、商业广告文案、普通渐变、廉价复古滤镜和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090078913930432919) | 2026-08-19
+
+---
+
+### 🎴 例 6496：超现实照片转水彩双联画
+
+![超现实照片转水彩双联画](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%85%A7%E7%89%87%E8%BD%AC%E6%B0%B4%E5%BD%A9%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张垂直双联海报，展示一幅著名的超现实主义黑白动作摄影作品转化为手绘水彩素描海报的过程。
+
+画布：3:4 纵向构图，水平平分为 2 个完全相等的上下叠放面板，无粗边框：顶部面板为戏剧性的复古黑白照片重现，底部面板为同一场景的水彩插画版本。
+
+顶部面板：重现 1940 年代风格的高对比度超现实主义灰度摄影作品。一名穿着深色西装的男子微笑着站在中心偏左位置，身体向后倾斜，手中拿着一个细长物体靠近嘴边，仿佛正在吸烟或表演。一道巨大的弧形水流从左下角前景扫过中心，向右侧溅射。画面中共有 3 只黑猫腾空：1 只在右上角水弧上方，另外 2 只在水弧下方右侧共同跳跃。左侧有一把倾斜/飞起的木椅。背景中心是一个带有装裱画作的画架。右侧是一个放有堆叠书籍和摄影棚道具的小桌子或柜子。使用强烈的阴影、胶片颗粒感以及灰色的摄影棚墙壁和地面。
+
+底部面板：在正下方，创作一幅基于相同场景和布局的暖色调奶油纸质水彩墨水海报。保持相同的离散元素和数量：1 名穿西装的男子、1 把倾斜的椅子、1 道巨大的弧形水流、3 只处于相同位置的腾空黑猫、1 个中央画架及装裱画作、1 个右侧放有书籍和抽屉的家具区。使用疏朗的黑色墨水轮廓、用于水花溅射的淡蓝灰色水彩、在椅面、画框和抽屉上使用柔和的红橙色点缀，并呈现轻微老化的纸张纹理。底部版本应看起来像是一幅中世纪的编辑素描，风格俏皮且简化，但仍能清晰地与顶部照片对应。
+
+风格：{argument name="art style" default="上方为复古黑白照片，下方为水彩墨水素描海报"}。主体来源氛围：{argument name="scene theme" default="带有飞猫和弧形水花溅射的超现实摄影棚动作场景"}。插画面板的纸张色调：{argument name="paper color" default="暖色调奶油老化纸"}。强调色：{argument name="accent color" default="柔和的红橙色"}。
+
+约束：保持构图清晰，呈现出“前后对比”的变换海报效果。无标题、无 Logo、无水印、无额外动物、无额外人物、无添加文字。
+
+[English]
+Goal: Create a vertical diptych poster showing a famous surreal black-and-white action photograph transformed into a hand-painted watercolor sketch poster.
+
+Canvas: Portrait 3:4 composition, split horizontally into exactly 2 equal stacked panels with no thick border: the top panel is a dramatic vintage black-and-white photo recreation, and the bottom panel is the watercolor illustration version of the same scene.
+
+Top panel: Recreate a high-contrast 1940s-style surreal studio photograph in grayscale. A smiling man in a dark suit stands slightly left of center, leaning backward while holding a thin object near his mouth as if smoking or performing. A huge arcing sheet of water sweeps from the lower left foreground up across the center and splashes toward the right. Exactly 3 black cats are airborne: 1 cat above the water arc near the upper right, and 2 cats leaping together on the right side below the arc. A wooden chair is flying/tilted on the far left. In the center background is an easel with a framed drawing. On the right is a small table or cabinet with stacked books and studio objects. Use stark shadows, film grain, and a gray studio wall and floor.
+
+Bottom panel: Directly beneath it, create a warm cream-paper watercolor-and-ink poster interpretation of the exact same scene and layout. Keep the same discrete elements and count: exactly 1 suited man, exactly 1 tilted chair, exactly 1 large water arc, exactly 3 airborne black cats in the same positions, exactly 1 central easel with framed drawing, and exactly 1 right-side furniture area with books and drawers. Render with loose black ink outlines, pale blue-gray watercolor for the water splash, muted red-orange accents on the chair seat, picture frame, and drawers, and a lightly aged paper texture. The bottom version should look like a mid-century editorial sketch, playful and simplified but still clearly matching the top photo.
+
+Style: {argument name="art style" default="vintage black-and-white photograph above, watercolor ink sketch poster below"}. Subject source mood: {argument name="scene theme" default="surreal studio action scene with flying cats and an arcing splash of water"}. Paper tone for the illustrated panel: {argument name="paper color" default="warm cream aged paper"}. Accent color: {argument name="accent color" default="muted red-orange"}.
+
+Constraints: Keep the composition recognizable as a before-and-after transformation poster. No captions, no logos, no watermark, no extra animals, no extra people, no added text.
+```
+
+**来源：** [@AIrina (Virtual Media Net)](https://x.com/airina_xyz/status/2090028281525399597) | 2026-08-19
+
+---
+
+### 🎴 例 6497：假面黑猫特摄英雄
+
+![假面黑猫特摄英雄](../images/%E5%81%87%E9%9D%A2%E9%BB%91%E7%8C%AB%E7%89%B9%E6%91%84%E8%8B%B1%E9%9B%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动态的正方形特摄英雄海报，主角为全身的 {argument name="animal hero" default="黑猫"}，像蒙面动作特警一样直立在画面中央。这只猫拥有光泽逼真的黑色皮毛，头盔外露出的猫耳清晰可见，尾巴向右弯曲，双腿呈英雄姿态站立，一只爪子向前做出出拳动作，另一只手臂弯曲呈防御姿势。给它戴上金属质感的昆虫风格超级英雄头盔：深绿色与银色的面部装甲，两根带有红色尖端的长银色触角，两只巨大的红色纹理复眼，以及分段式的银色口部护甲。在腰间加上一条未来感十足的变身腰带，配有两个圆形的红色旋转涡轮镜片、金属侧边模块，以及中心刻有数字 {argument name="belt number" default="3"} 的 V 型板。在角色身后，创作一个巨大的漫画书爆炸背景，采用鲜艳的橙色、黄色、红色和白色，包含五个主要的爆炸元素：躯干后方有一个巨大的中心橙色烟云爆炸，左下角和右下角各有一个较小的黄橙色地面爆炸，以及两条向左上方和右上方对角延伸的锯齿状闪电冲击波。使用半色调网点阴影、粗黑的漫画轮廓线、红色速度线、火花、碎片斑点，以及在深灰色烟雾背景下的戏剧性径向运动条纹。整体风格应将写实的动物皮毛与精致的头盔材质相结合，呈现出受日本战队 / 假面骑士启发的充满活力的漫画动作艺术，电影级光影，英雄主体聚焦清晰，无标题，无水印，无额外角色。
+
+[English]
+Create a dynamic square tokusatsu hero poster featuring a full-body {argument name="animal hero" default="black cat"} standing upright in the center like a masked action ranger. The cat has glossy realistic black fur, visible cat ears protruding from the helmet, a curved tail to the right, legs spread in a heroic stance, one paw thrust forward in a punch pose and the other arm bent defensively. Put a metallic insect-style superhero helmet on its head: dark green and silver face armor, two long silver antennae with red tips, two huge textured red compound eyes, and segmented silver mouth plating. Add a futuristic transformation belt around the waist with two circular red spinning turbine lenses, metallic side modules, and a central V-shaped plate marked with the number {argument name="belt number" default="3"}. Behind the character, create a huge comic-book explosion background in vivid orange, yellow, red, and white, with exactly five main burst elements: one large central orange smoke-cloud explosion behind the torso, two smaller yellow-orange ground explosions at the bottom left and bottom right, and two long jagged lightning-like blast shapes extending diagonally upward left and upward right. Use halftone dot shading, thick black comic outlines, red speed lines, sparks, debris flecks, and dramatic radial motion streaks against a dark smoky gray backdrop. The overall style should blend photorealistic animal fur and polished helmet materials with high-energy Japanese sentai / Kamen Rider inspired comic action art, cinematic lighting, sharp focus on the hero, no captions, no watermark, no extra characters.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090019528701071401) | 2026-08-19
+
+---
+
+### 🎴 例 6498：高端食品广告：Lunera 黄油
+
+![高端食品广告：Lunera 黄油](../images/%E9%AB%98%E7%AB%AF%E9%A3%9F%E5%93%81%E5%B9%BF%E5%91%8A%EF%BC%9ALunera%20%E9%BB%84%E6%B2%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张针对虚构乳制品品牌 LUNERA 的高端垂直食品广告海报，风格需更具国际化和旗舰产品的质感。严格保留核心视觉逻辑：强烈的垂直分割背景，左侧为饱和的深红色区域，右侧为平滑的浅胡桃木色桌面区域，采用从正上方到略微倾斜的平铺视角。画面中心必须保留一片涂抹了雕塑感黄油卷的吐司和一份高端包装的黄油，并辅以一把银色黄油刀、几块黄油方块和少量克制的坚果碎。整张海报必须比标准的快速消费品（FMCG）布局更简洁、更具杂志编辑感、更具全球高端气质且更具掌控力。
+
+主要产品故事：
+将一片金黄色的吐司放置在右中区域附近，上面点缀着几条优雅的浅奶油色咸黄油卷。黄油卷必须是主要的食欲触发点：平滑、具有雕塑感、柔和发光，且具备可信的厚度、奶油密度和精致的高光过渡。在吐司附近，将一份高端包装的黄油放置在右下区域，略微倾斜，包装上带有简洁的原创虚构标签设计，以奶油色和红色为主，清晰易读但低调。在左侧，放置一把向内伸入的银色黄油刀，刀刃上带有一小块柔和的黄油，与吐司形成微妙的对角线呼应。仅散落极少量的黄油方块和坚果碎，以保持构图的通透感和高端感。
+
+食品真实感：
+以卓越的真实感和克制力呈现黄油：浅暖黄色调、柔和易涂抹的质感、清晰的切边、丝绸般的奶油感、柔和的光泽以及优美的卷曲结构。吐司必须展现出细腻的多孔组织、酥脆的焦边以及精致的烘焙真实感，避免过度纹理化。包装好的黄油块应具有质感和高级感，包含可信的包装褶皱、精确的阴影和优雅的印刷饰面。小黄油块应看起来新鲜、略微软化且排列整齐。
+
+排版与品牌：
+使用一套完全原创的高端排版系统。在左上角或中上方放置一个小品牌标志和简短的辅助文案。在左侧红色区域添加一个醒目的英文标题块，使用原创文案，例如“SLOW CRAFT. PURE INDULGENCE.”或“LAYERED SOFTNESS. DAILY LUXURY.”。在左下角添加一行紧凑的辅助文案，并在右上角添加一小段品牌声明。所有文案必须原创、精简且高度可控。排版应比促销广告更具编辑感和奢华感，字间距更简洁，层级更分明。
+
+光影与氛围：
+使用来自右上方的柔和定向高端摄影棚灯光，使黄油卷呈现精致的高光，黄油刀呈现微妙的金属光泽，包装呈现柔和的立体感，红色和木质表面呈现优雅的色调过渡。增强真实感和材质区分度，但保持阴影干净、柔和，并具有国际化质感。整张海报应显得精致、诱人且充满自信的高端感。
+
+风格：
+国际旗舰乳制品广告、高端 FMCG 食品品牌、编辑类商业海报、超写实食品摄影、极简道具造型、奢侈超市发布视觉、戛纳级别的产品层级。一切都应比本地零售广告更精炼、更具全球高端感。
+
+色彩系统：
+深红色、暖胡桃木棕色、奶油浅黄油色、金黄吐司米色、银色刀具、克制的奶油色与红色包装点缀。保持色调极简、大胆、优雅且令人印象深刻。
+
+负面提示词：
+无抄袭品牌名称，无抄袭标语，无杂乱道具，无到处散落的碎屑，无融化的黄油混乱，无低细节的吐司纹理，无变形的包装，无浑浊的阴影，无黑色斑点，无脏乱的桌面，无廉价的超市样机感，无水印，无现有标识。
+
+[English]
+Create a premium vertical food advertising poster for a fictional dairy brand called LUNERA, refined in a more international and flagship Transit direction. Preserve the core visual logic exactly: a strong vertical split background with a saturated crimson-red field on the left and a smooth light walnut-brown tabletop field on the right, viewed from a clean top-down to slightly angled flat-lay perspective. One hero slice of toast with sculpted butter curls and one premium wrapped butter package must remain the central commercial story, supported by a silver butter knife, a few butter cubes, and a few restrained nut fragments. The whole poster must feel cleaner, more editorial, more globally premium, and more controlled than a standard FMCG layout.\n\nMain product story:\nPlace one slice of golden toast near the center-right area, topped with several elegant curled ribbons of pale creamy salted butter. The butter curls must be the main appetite trigger: smooth, sculptural, softly luminous, with believable thickness, creamy density, and refined highlight rolloff. Near the toast, position one premium wrapped butter package in the lower-right area, angled slightly, with a clean original fictional label design in cream and red, highly legible but understated. On the left side, place a silver butter knife entering inward with a soft dollop of butter on the blade, creating a subtle diagonal relation toward the toast. Scatter only a very small number of butter cubes and nut fragments to keep the composition airy and premium.\n\nFood realism:\nRender the butter with exceptional realism and restraint: pale warm yellow tone, softly spreadable texture, crisp cut edges, satin creaminess, gentle sheen, and beautiful curl structure. The toast must show delicate porous crumb, crisp browned edges, and refined bakery realism without over-texturing. The wrapped butter block should feel substantial and premium, with believable wrap folds, precise shadowing, and elegant print finish. Small butter cubes should feel fresh, slightly softened, and neatly composed.\n\nTypography and branding:\nUse a fully original premium typography system. Place a small brand mark and short supporting line near the upper-left or upper-center. Add one bold English headline block on the left red field, using original copy such as “SLOW CRAFT. PURE INDULGENCE.” or “LAYERED SOFTNESS. DAILY LUXURY.” Add one compact supporting line near the lower-left and one small brand statement near the upper-right area. All copy must be original, sparse, and highly controlled. Typography should feel more editorial and luxurious than promotional, with cleaner spacing and stronger hierarchy.\n\nLighting and mood:\nUse soft directional premium studio lighting from upper-right, giving the butter curls delicate highlights, the knife subtle metallic gleam, the package soft dimensionality, and the red and wood surfaces elegant tonal transitions. Increase realism and material separation, but keep the shadows clean, soft, and international in feel. The whole poster should feel polished, appetite-rich, and confidently premium.\n\nStyle:\nInternational flagship dairy campaign, premium FMCG food branding, editorial commercial poster, hyper-real food photography, minimal prop styling, luxury supermarket launch visual, Cannes-level product hierarchy. Everything should feel more distilled and globally premium than a local retail ad.\n\nColor system:\nDeep crimson red, warm walnut brown, creamy pale butter yellow, golden toast beige, silver knife, restrained cream-and-red packaging accents. Keep the palette minimal, bold, elegant, and highly memorable.\n\nNegative prompt:\nno copied brand names, no copied slogan, no cluttered props, no messy crumbs everywhere, no melted butter chaos, no low-detail toast texture, no warped package, no muddy shadows, no black blotches, no dirty tabletop, no cheap supermarket mockup look, no watermark, no existing logos.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2090013891887874431) | 2026-08-19
+
+---
+

@@ -7368,3 +7368,128 @@ Constraints: Make all miniature figures resemble the same person and outfit cons
 
 ---
 
+### 🧸 例 6481：低多边形奇幻任务截图
+
+![低多边形奇幻任务截图](../images/%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%A5%87%E5%B9%BB%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张第一人称低多边形奇幻冒险游戏截图，采用明亮且风格化的 3D 艺术风格，呈现出如同单张图片构建的可玩 RPG 游戏画面。摄像机位于人类视平线高度，处于小溪旁的泥土小径上，前景可见玩家的双手：左手正在施放带有火花和暖光的橙色火球，右手握着一把简单的多面钢剑，剑柄呈深色。画面中需精确包含 3 个敌人：左下角前景处有一只挥舞着尖刺木棒冲锋的大型绿色哥布林，路径中央有一只手持圆盾的小型哥布林战士，背景废墟大门内站着一只魁梧的食人魔或兽人首领。场景设定为 {argument name="environment" default="一个带有破损石制防御工事的山间森林峡谷"}：左侧是长满苔藓的破碎城堡墙壁、木制栅栏、松树、灰色巨石、远处的棱角分明的山脉、蓝天以及大块的白色低多边形云朵。画面中需精确包含 2 面挂在废墟墙上的红色骷髅旗帜、3 把点燃的火把、1 座横跨小溪的木制人行桥、1 个河岸边的宝箱、1 座悬崖上插着小红旗的木制瞭望塔、1 条右侧的蓝色瀑布、1 座右侧前景的高大苍白水晶方尖碑，以及 1 块位于小溪旁石座上的发光紫色暗影水晶。右侧添加一个木制任务路标，上面需精确写着：“DESTROY THE\nDARK CRYSTAL\nIN THE RUINS”，下方附带一个小骷髅图标。使用鲜艳的游戏级光照、清晰的阴影、易于辨识的轮廓、高饱和度的绿色和蓝色、温暖的火焰高光、多边形几何结构，拒绝照片级真实感，无 UI 覆盖，无水印。主要任务目标为 {argument name="quest objective" default="摧毁废墟中的暗影水晶"}，玩家武器为 {argument name="player weapon" default="一把钢剑"}，魔法效果为 {argument name="magic spell" default="一个橙色火球"}，敌对阵营为 {argument name="enemy faction" default="哥布林和兽人"}。
+
+[English]
+Create a first-person low-poly fantasy adventure game screenshot in a bright stylized 3D art style, as if from a playable RPG built from a single image. The camera is at human eye level on a dirt path beside a small stream, with two player hands visible in the foreground: the left hand is casting a glowing orange fireball with sparks and warm light, and the right hand holds a simple faceted steel sword with a dark hilt. Show exactly 3 enemies: 1 large green goblin charging in the lower left foreground with a spiked club, 1 smaller goblin warrior on the path near the center holding a round shield, and 1 bulky ogre or orc boss standing inside the ruined gate in the background. The setting is {argument name="environment" default="a mountain forest valley with ruined stone fortifications"}: mossy broken castle walls on the left, wooden palisades, pine trees, gray boulders, distant angular mountains, a blue sky, and chunky white low-poly clouds. Include exactly 2 red skull banners hanging on the ruin walls, exactly 3 lit torches, 1 wooden footbridge crossing the stream, 1 treasure chest near the riverbank, 1 wooden watchtower with a small red flag on a cliff, 1 blue waterfall on the right, 1 tall pale crystal obelisk in the right foreground, and 1 glowing purple dark crystal on a stone pedestal near the stream. Add a wooden quest sign on the right that reads exactly: "DESTROY THE\nDARK CRYSTAL\nIN THE RUINS" with a small skull icon beneath. Use vibrant game-ready lighting, crisp shadows, readable silhouettes, saturated greens and blues, warm fire highlights, polygonal geometry, no photorealism, no UI overlays, no watermark. The main quest objective is {argument name="quest objective" default="destroy the dark crystal in the ruins"}, the player weapon is {argument name="player weapon" default="a steel sword"}, the magic effect is {argument name="magic spell" default="an orange fireball"}, and the enemy faction is {argument name="enemy faction" default="goblins and orcs"}.
+```
+
+**来源：** [@Fede(URU) 🇺🇾](https://x.com/Federic83017719/status/2090092988085031295) | 2026-08-19
+
+---
+
+### 🧸 例 6502：AI 图像模型竞技场排行榜
+
+![AI 图像模型竞技场排行榜](../images/AI%20%E5%9B%BE%E5%83%8F%E6%A8%A1%E5%9E%8B%E7%AB%9E%E6%8A%80%E5%9C%BA%E6%8E%92%E8%A1%8C%E6%A6%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个明亮的 3D 动画体育场场景，展示一个巨大的电子记分牌，像体育联赛积分榜一样对 AI 图像模型进行排名，看台上坐满了可爱的机器人粉丝。
+
+画布：16:9 宽屏图像，阳光明媚的户外竞技场，高饱和度皮克斯风格 3D 渲染，高细节，记分牌焦点清晰，温暖的午后光线，蓝天白云，左上角有太阳耀斑。
+
+主场景：一个巨大的黑色 LED 体育场记分牌占据中心位置，安装在足球场上方的金属桁架上。记分牌顶部有一个小型数字时钟和天气面板，显示 {argument name="clock and weather" default="15:08   32°C"} 以及一个太阳图标。记分牌标题为发光的青色法文文本 {argument name="headline text" default="CLASSEMENT DES MODÈLES D’IMAGE IA"}，两侧配有黄色星星图标。记分牌包含一个网格表格，五列标题分别为 RANG（排名）、MODÈLE（模型）、META-SCORE（元评分）、PRIX / 1K（价格 / 1K）、EVOLUTION（变动）。
+
+表格内容：准确显示 10 行排名，每一行包含奖牌或排名数字、一个小巧可爱的机器人头像、模型名称、琥珀色 LED 元评分、价格和变动指标：
+1. GPT-Image 2 — 1498 — $211 — =
+2. Mai Image 2.6 — 1427 — ~$50 — NEW
+3. Reve 2.1 — 1381 — $200 — down 1
+4. Grok Imagine Image 2.0 — 1369 — $80 — NEW
+5. Reve 2.0 — 1341 — $24 — down 2
+6. Muse Image — 1315 — (Pas d’API) — down 2
+7. Nano Banana 2 — 1314 — $67 — down 2
+8. GPT-Image 1.5 — 1300 — $133 — down 2
+9. Seedream 5.0 Pro — 1287 — $90 — down 2
+10. Qwen Image 3.0 Pro — 1265 — $75 — NEW
+元评分使用橙色/黄色 LED 数字，模型名称使用白色，NEW 徽章使用蓝色，下降箭头使用红色。
+
+前景与观众：球场上挤满了许多圆润的小机器人作为观众和球员，但要保持前景个体机器人清晰：在底部边缘附近可见 8 个突出的前景机器人，色调分别为青色、白色、亮绿色、紫色、橙色、粉色和青色，带有光泽的头盔、天线、大圆形耳朵和发光的面部屏幕。一个小型裁判机器人站在记分牌下方的球门柱附近。看台上挤满了数百个挥舞着旗帜和标语的彩色微型机器人。
+
+标语与横幅：包含一个左侧体育场横幅，文字为 {argument name="left banner text" default="AOÛT — SOLEIL & PROMPTS"}。包含一个右侧垂直横幅，文字为 {argument name="right banner text" default="CRÉER INNOVER IMAGINER"}。包含写有“GO IA!”和“IA TEAM”的小手旗。
+
+风格限制：确保记分牌文字清晰且居中，带有轻微的 LED 像素纹理。保持趣味性的竞赛氛围、电影般的景深、逼真的体育场照明以及异想天开的玩具式机器人设计。不要增加额外的表格行或更改五列布局。
+
+[English]
+Goal: Create a vibrant 16:9 Pixar-like 3D illustration of a packed robot sports stadium showing a giant electronic scoreboard ranking AI image models, as if it is a summer league leaderboard.
+
+Canvas: Wide landscape image, bright sunny afternoon, blue sky with a strong sun flare in the upper left, colorful flags on the stadium rim, football field at the bottom with a yellow goalpost centered under the scoreboard. The scene is crowded with hundreds of small cute toy-like robots in the stands and foreground, all cheering.
+
+Main subject: A huge black stadium scoreboard dominates the center, supported by metal trusses. It has LED dot-matrix styling, glowing cyan and amber text, thin grid lines, rounded table border, and small yellow star icons on both sides of the main header. At the very top of the scoreboard, show two small amber digital panels reading {argument name="time" default="15:08"} and {argument name="temperature" default="32°C"} with a sun icon.
+
+Scoreboard text: The main headline must read {argument name="headline text" default="CLASSEMENT DES MODÈLES D’IMAGE IA"}. Under it, create a table with exactly 5 columns labeled RANG, MODÈLE, META-SCORE, PRIX / 1K, EVOLUTION. Include exactly 10 ranked rows, each with a small robot avatar icon next to the model name:
+1. GPT-Image 2 — meta-score 1498 — price $211 — evolution =
+2. Mai Image 2.6 — meta-score 1427 — price ~$50 — evolution NEW in a small blue badge
+3. Reve 2.1 — meta-score 1381 — price $200 — evolution red down arrow 1
+4. Grok Imagine Image 2.0 — meta-score 1369 — price $80 — evolution NEW in a small blue badge
+5. Reve 2.0 — meta-score 1341 — price $24 — evolution red down arrow 2
+6. Muse Image — meta-score 1315 — price (Pas d’API) — evolution red down arrow 2
+7. Nano Banana 2 — meta-score 1314 — price $67 — evolution red down arrow 2
+8. GPT-Image 1.5 — meta-score 1300 — price $133 — evolution red down arrow 2
+9. Seedream 5.0 Pro — meta-score 1287 — price $90 — evolution red down arrow 2
+10. Qwen Image 3.0 Pro — meta-score 1265 — price $75 — evolution NEW in a small blue badge
+
+Surroundings: Add a left stadium sign reading {argument name="left banner text" default="AOÛT - SOLEIL & PROMPTS"} with a small sun drawing. Add a right sign reading CRÉER / INNOVER / IMAGINER. Add cheering props including a foam finger reading GO IA! and a purple flag reading IA TEAM. Foreground robots should be larger and out of focus at the edges, including visible jersey numbers 01 and 32, with one small referee robot standing on the field near the scoreboard.
+
+Visual style: Ultra-detailed colorful 3D animation style, glossy plastic robots, playful futuristic sports atmosphere, shallow depth of field, crisp readable scoreboard typography, warm sunlight, high saturation, cinematic composition.
+
+Constraints: Keep all scoreboard numbers and labels legible and exactly as listed, use French text where specified, no logos, no watermark, no extra table rows.
+```
+
+**来源：** [@Creative Diffusion](https://x.com/StableTom/status/2089977967585656947) | 2026-08-19
+
+---
+
+### 🧸 例 6507：从 2D 平面图到 3D 娃娃屋视角
+
+![从 2D 平面图到 3D 娃娃屋视角](../images/%E4%BB%8E%202D%20%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%88%B0%203D%20%E5%A8%83%E5%A8%83%E5%B1%8B%E8%A7%86%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为精确平面图参考，将平面的黑白 2D 公寓布局转换为逼真的 3D 娃娃屋/俯视剖面渲染图。保留相同的房间布局、墙体位置、开口、门、壁橱及主要家具摆放位置，将墙体拉伸为深灰色的 3D 厚墙，并将示意图符号替换为写实的现代家具和装饰。
+
+风格：照片级真实感的建筑可视化，温暖的中性室内设计，全屋浅色木地板，柔和的米色和白色家具，逼真的阴影，纯白背景下的俯视等轴测视角。
+
+需保留的布局：精确还原平面图中的 7 个标注区域——2 间卧室、1 个起居区、1 个厨房、1 间浴室、1 个入口区以及包括洗衣间在内的 2 个壁橱/储藏区。保持厨房岛台及 3 把吧台椅、客厅沙发和休闲椅、餐桌、两张床、卫浴设施、壁橱搁架、洗衣机/烘干机区域以及入口走廊在各自对应的位置。
+
+添加内容及转换细节：将所有门转换为开启的木质合页门，在底部外墙沿线添加写实的窗户，在床和座椅下方添加地毯，添加壁橱衣物/搁架，添加台面、水槽、炉灶、冰箱、浴室洗手台、浴缸/浴帘、马桶、小型绿植、台灯、抱枕及精致装饰。仅保留洗衣机/烘干机表面可见的洗衣文字 {argument name="laundry label" default="WASH DRY"}；移除其他平面图房间标签和蓝图线条。
+
+约束条件：画面中不包含人物，不包含外部景观，不添加额外房间，不进行重大布局改动，不使用夸张的色彩，保持与参考图相同的公寓占地面积和朝向。
+
+[English]
+Using the provided 2D apartment floor plan as the exact layout reference, transform it into a realistic top-down 3D dollhouse-style home visualization. Preserve the same room arrangement, wall positions, door and window openings, and the same eight labeled functional areas: 2 bedrooms, 1 kitchen, 1 living area, 1 bathroom, 2 closets, and 1 wash/dry closet. Convert the flat black-and-white symbols into furnished 3D rooms with light wood flooring, thick dark exterior and interior walls, beige/cream neutral decor, realistic furniture, open wooden doors, visible closets with clothing, a bathtub/shower, toilet and vanity in the bathroom, kitchen cabinets and island seating, sofas and chairs in the living area, and beds/nightstands in both bedrooms. Use an elevated isometric/top-down camera angle so the whole apartment is visible in one image, with clean architectural-render lighting, soft shadows, and a white studio background. Keep any floor-plan text minimal; only retain the wash/dry label as visible text if needed. Overall style: photorealistic interior design render, neat, modern, warm, and uncluttered.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2089970496330993903) | 2026-08-19
+
+---
+
+### 🧸 例 6522：巨手上的微型动漫少女
+
+![巨手上的微型动漫少女](../images/%E5%B7%A8%E6%89%8B%E4%B8%8A%E7%9A%84%E5%BE%AE%E5%9E%8B%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅构图为 3:4 竖版的奇幻风格高细节动漫插画。画面主体是一只巨大的张开的人类手掌，占据了大部分画幅，掌心向上，手指向上延伸，呈现出柔和逼真的皮肤质感和温暖的阳光。手掌中央站着一位微型少女，她像拇指姑娘般的童话玩偶，有着波浪长金发、大大的蓝色眼睛、一个小巧的蓝色蝴蝶结，双手合十放在胸前，神情甜美而惊叹地向上仰望。她身穿奶油白色的维多利亚式女仆装或公主裙，配有蓝色丝带装饰、蓝色镶边裙摆、泡泡袖、白色长袜和黑色玛丽珍鞋。手掌从画面底部的优雅奇幻袖口中伸出：白色荷叶边袖口、深蓝色面料以及华丽的金色刺绣手镯或饰边。背景位于远方且虚化处理：一座明亮的欧洲童话小镇漂浮在云端，有着红瓦屋顶、白墙、塔楼、蓝色圆锥形教堂尖顶、郁郁葱葱的植被和梦幻的大气薄雾。运用神奇的微缩比例对比、浅景深、阳光明媚的柔和色调、柔光效果、云朵散景、精致的线条、高品质的 gpt-image-2 动漫艺术风格、电影般的俯视视角，无文字，无水印。你可以自定义微型角色为 {argument name="character name" default="一位微型金发童话少女"}，她的裙子颜色为 {argument name="dress colors" default="奶油白和蓝色"}，场景为 {argument name="fantasy town setting" default="云端的欧洲童话小镇"}，氛围为 {argument name="mood" default="温柔的惊叹与魔法般的纯真"}，光影为 {argument name="lighting" default="带有柔光的温暖晨曦"}。
+
+[English]
+Create a whimsical high-detail anime fantasy illustration in a vertical 3:4 composition. The scene shows an enormous open human hand filling most of the frame, palm facing upward and fingers extending toward the top, with soft realistic skin texture and warm sunlight. Standing in the center of the palm is one tiny girl, a thumb-sized fairy-tale doll-like anime character with long wavy blonde hair, large blue eyes, a small blue hair bow, and a sweet amazed expression as she clasps her hands near her chest and looks upward. She wears a cream-and-white Victorian maid or princess dress with blue ribbon accents, a blue trimmed skirt, puffed sleeves, white stockings, and small black Mary Jane shoes. The hand emerges from an elegant fantasy sleeve at the bottom edge: white ruffled cuff, dark blue fabric, and an ornate gold embroidered bracelet or trim. The background is far below and softly out of focus: a bright European storybook town floating in clouds, with red tile rooftops, white walls, towers, a blue conical church spire, lush greenery, and dreamy atmospheric haze. Use a magical miniature scale contrast, shallow depth of field, sunlit pastel palette, soft bloom, cloud bokeh, delicate linework, highly polished gpt-image-2 anime art, cinematic perspective from above, no text, no watermark. Customize the tiny character as {argument name="character name" default="a tiny blonde fairy-tale girl"}, her dress colors as {argument name="dress colors" default="cream white and blue"}, the setting as {argument name="fantasy town setting" default="a European storybook town in the clouds"}, the mood as {argument name="mood" default="gentle wonder and magical innocence"}, and the lighting as {argument name="lighting" default="warm morning sunlight with soft bloom"}.
+```
+
+**来源：** [@ちびねこ🍳](https://x.com/chibinecoko/status/2089876915343765623) | 2026-08-19
+
+---
+

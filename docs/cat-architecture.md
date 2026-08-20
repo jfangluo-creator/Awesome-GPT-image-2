@@ -3938,3 +3938,43 @@ No copied text, no real architect names, no cluttered annotations, no excessive 
 
 ---
 
+### 🏛️ 例 6486：雨窗鸽子诗
+
+![雨窗鸽子诗](../images/%E9%9B%A8%E7%AA%97%E9%B8%BD%E5%AD%90%E8%AF%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的方形照片，展示一张放在雨窗旁、带有手写法语诗歌的奶油色纹理纸张。纸张是一张略微倾斜的厚象牙色信纸，平铺在深色木质书桌上，占据了画面的大部分空间。在左上角背景中，一只真实的灰色鸽子站在潮湿的窗外窗台上，略微失焦，背景是模糊的雨中城市景观，玻璃上可见雨滴。在纸张的右下边缘，放置一支深蓝色钢笔，银色笔尖斜靠着，笔尖指向手写文字。使用柔和的自然灰色日光，浅景深，营造潮湿忧郁的氛围，展现真实的纸张纤维、细腻的阴影以及纪实智能手机摄影的构图。用优雅的蓝色钢笔草书书写文字，包含一个带下划线的标题和 4 行诗句。文本内容：标题 {argument name="title text" default="Pigeon"}，带下划线；诗句 {argument name="poem text" default="Oiseau à la grise robe,\nDans l’enfer des villes\nÀ mon regard tu te dérobes\nTu es vraiment le plus agile."}。保持字迹清晰自然，位于页面中部略上方，下方留有充足的空白。包含 3 个主要实体对象：手写纸张、鸽子和钢笔。不要包含额外的印刷文字、水印或手部。
+
+[English]
+Create a realistic square photo of a handwritten French poem on cream textured paper beside a rainy window. The paper is a slightly tilted sheet of thick ivory stationery lying on a dark wooden desk, filling most of the frame. In the upper left background, a real gray pigeon stands on the wet exterior window ledge, slightly out of focus, with a blurred rainy urban cityscape behind it and raindrops visible on the glass. On the lower right edge of the paper, place a dark blue fountain pen with a silver nib resting diagonally, its nib pointing toward the handwritten text. Use soft natural gray daylight, shallow depth of field, damp melancholic atmosphere, realistic paper fibers, subtle shadows, and documentary smartphone-photo composition. Write the text in elegant blue cursive fountain-pen handwriting, with one underlined title and exactly 4 poem lines. Text content: title {argument name="title text" default="Pigeon"}, underlined; poem lines {argument name="poem text" default="Oiseau à la grise robe,\nDans l’enfer des villes\nÀ mon regard tu te dérobes\nTu es vraiment le plus agile."}. Keep the handwriting legible and natural, centered slightly above the middle of the page, with generous blank space below. Include exactly 3 main physical objects: the handwritten paper, the pigeon, and the fountain pen. No extra printed text, no watermark, no hands.
+```
+
+**来源：** [@Creative Diffusion](https://x.com/StableTom/status/2090067601795735773) | 2026-08-19
+
+---
+
+### 🏛️ 例 6505：分屏式建筑设计海报
+
+![分屏式建筑设计海报](../images/%E5%88%86%E5%B1%8F%E5%BC%8F%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请根据最后输入的主题，创作一张**超高分辨率、可打印的 3:4 竖版海报**。整体采用上下两个区域的双联结构，**上下高度严格 1:1，各占画面 50%**。
+
+**上半部分**根据{argument name="主题" default="城市"}生成一幅完整、统一、真实且富有生活感的场景画面。若主题是城市，请先理解其核心气质，从空间景观、街头生活、人文风情、商业氛围、饮食记忆、地方文化、历史层次与日常节奏中提炼视觉线索，并自然组织进同一幅真实而鲜活的城市切面中，而不是零散拼贴。若主题是具体街道、街区、地标、商圈、店铺、建筑或代表性地点，请以真实空间关系为核心，准确呈现街道结构、建筑界面、店铺招牌、交通设施、文字系统、人群状态与现场氛围，保留其最有辨识度的在地特征。若主题包含地址、坐标或参考图片，请优先依据真实信息理解场景，不要凭空杜撰，不要随意替换地点特征，也不要画成与主题无关的通用景观。整体避免廉价旅游宣传和明信片式表达，而应捕捉一个克制、精致、真实、具有日常温度的主题瞬间；人物、建筑、街道、标牌、橱窗、设施与活动自然共生，地标融入环境，不夸张、不喧宾夺主。
+
+**下半部分**提取上半部分画面中**最具识别性的主体、轮廓、结构、姿态与叙事关系**，重构为一幅**极简线条图形化表达**。不要机械描摹细节，而是以纤细准确的单线、清晰几何透视、克制留白、有秩序的细节节奏和适度抽象的概括造型重新表达，保留一眼可识别的主题特征。若主题偏城市或地点，可提取其最关键的建筑天际线、街道界面、标牌节奏、交通设施、橱窗关系或人群状态；若主题不是城市，也应提取其最核心的身份特征、轮廓语言、结构关系与视觉记忆点，并转化为统一、简洁、现代、高级的线描海报语言。可加入少量几何辅助元素、水平线、纵向构成线或节奏性留白，使下半部分像是对上半部分现实场景的提炼与再设计。
+
+**文字系统**需要自然融入整体版式，延续这种克制、高级、现代的海报逻辑。顶部设置醒目的主标题；副标题可使用主题原文、当地语言、国家或地区信息、地址、坐标、编号、年份或一句简短说明。若画面包含街头文字、招牌或地点信息，必须清晰、自然、真实、专业，避免乱码、错误文字与随意拼写。文字排版应简洁有秩序，与画面共同构成收藏级旅行海报与城市品牌视觉般的完成度，而不是后期随意贴上的说明标签。
+
+色彩不要机械套用固定模板，而应先理解主题本身的气候、光线、时间感、建筑材料、历史气息、商业温度、饮食印象、自然环境与情绪质地，再提炼出**专属于该主题**的主色与底色关系。整体可采用单色印刷美学或极少量克制配色，通过线条疏密、明度层次、局部压重、留白比例与细节节奏形成丰富变化，避免单调和平铺。最终成品应呈现**线条清晰、细节丰富、风格统一、安静现代、灵动克制、审美高级**的海报效果。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089972269724619259) | 2026-08-19
+
+---
+

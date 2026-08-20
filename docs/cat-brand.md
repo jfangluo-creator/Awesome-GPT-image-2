@@ -17684,3 +17684,125 @@ Negative prompt: changed face, different identity, distorted facial features, un
 
 ---
 
+### 🏷️ 例 6467：动漫涂鸦蝴蝶少女
+
+![动漫涂鸦蝴蝶少女](../images/%E5%8A%A8%E6%BC%AB%E6%B6%82%E9%B8%A6%E8%9D%B4%E8%9D%B6%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高垂直构图的动漫风格街头时尚插画，画面中 {argument name="character name" default="一位自信的年轻女性"} 以极具张力的低角度全身姿势站在一面巨大的混凝土墙前，墙上绘有生动的蝴蝶翅膀涂鸦壁画。角色拥有非常飘逸的 {argument name="hair color" default="粉色"} 长发、绿色眼睛、苗条的身材以及酷飒自信的表情；她一只手抬起放在头侧，仿佛在拨弄头发，同时俯视着观众。她身穿一件黑色短款系带短袖衬衫，搭配浅蓝色超大号牛仔裤，裤腿两侧有交叉系带设计，脚蹬厚底白色运动鞋。她身后的壁画形成了巨大的对称蝴蝶翅膀，环绕着她的身体，绘有强烈的 {argument name="graffiti colors" default="亮粉色、绿松石色、青色、白色和黑色"} 喷溅效果、漩涡线条、花朵形状、孔雀眼图案、油漆滴落痕迹以及发光的蝴蝶剪影，使她看起来仿佛长出了翅膀。画面中需包含 6 个清晰可见的喷漆罐：左下角前景处有一个模糊的大喷漆罐，右下角墙边有 4 个竖立的喷漆罐，底部边缘处还有一个隐约可见的小喷漆罐。地面潮湿且具有反光效果，散落着粉色和青色的油漆点，反射出运动鞋、喷漆罐和壁画的色彩。利用来自右上方的强烈夏日阳光，右上角可见一片蓝天白云，混凝土墙上投下硬朗的阴影，并加入镜头光晕和漂浮在壁画周围的小型发光蝴蝶。构图应极具动态感、电影感和沉浸感，采用夸张的近地面透视，使鞋子在前景中显得巨大，墙面高耸入云。风格：高度精细的现代日本动漫，清晰的线条，光泽感高光，鲜艳的霓虹街头艺术色调，复杂的发丝细节，油画质感的涂鸦纹理，高分辨率，无文字，无水印。
+
+[English]
+Create a tall vertical anime-style street fashion illustration of {argument name="character name" default="a confident young woman"} standing in a dramatic low-angle full-body pose in front of a huge concrete wall covered with a vivid butterfly-wing graffiti mural. The character has very long flowing {argument name="hair color" default="pink"} hair, green eyes, a slim figure, and a cool self-assured expression; one hand is raised to her head as if brushing back her hair while she looks down toward the viewer. She wears a cropped black short-sleeve tie-front shirt, oversized pale blue denim jeans with lace-up crisscross openings running down the sides, and chunky white platform sneakers. Behind her, the mural forms enormous symmetrical butterfly wings around her body, painted with intense {argument name="graffiti colors" default="hot pink, turquoise, teal, white, and black"} splashes, swirling linework, flower shapes, peacock-eye patterns, paint drips, and glowing butterfly silhouettes, making her look like she has wings. Include exactly 6 visible spray paint cans: 1 large blurred can in the extreme lower-left foreground, 4 upright cans along the bottom right near the wall, and 1 small can partly visible near the bottom edge. The ground is wet and reflective with scattered pink and teal paint splatters, reflecting the sneakers, cans, and mural colors. Use strong summer sunlight from the upper right, a patch of blue sky with white clouds at the top right, hard shadows on the concrete wall, lens sparkle, and small glowing butterflies floating around the mural. Composition should be ultra-dynamic, cinematic, and immersive, with exaggerated perspective from near ground level so the shoes appear large in the foreground and the wall towers upward. Style: highly detailed modern Japanese anime, crisp line art, glossy highlights, vibrant neon street-art palette, intricate hair strands, painterly graffiti textures, high resolution, no text, no watermark.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2090219419243053165) | 2026-08-19
+
+---
+
+### 🏷️ 例 6469：动漫校园恋爱喜剧主视觉图
+
+![动漫校园恋爱喜剧主视觉图](../images/%E5%8A%A8%E6%BC%AB%E6%A0%A1%E5%9B%AD%E6%81%8B%E7%88%B1%E5%96%9C%E5%89%A7%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的宽屏动漫主视觉图，主题为校园恋爱喜剧，标题为 {argument name="anime title" default="負けヒロインが多すぎる!"}。画布比例为 16:9，场景为电影感的教室内部，呈现柔和的午后阳光，配有宽大的落地窗、混凝土立柱、阳台栏杆，窗外可见湛蓝天空及城市或山景。画面中需包含 3 名坐在课桌前的中学生：1) 左侧前景为女主角，一名开朗的少女，留着 {argument name="heroine hair color" default="深海军蓝"} 色及肩乱发，蓝色眼睛，脸颊红润，身穿白色短袖校服衬衫配蓝色领结，单手托腮，露出狡黠的戏谑笑容；2) 中央为一名紧张的少年，留着深棕色短发，身穿白色短袖校服衬衫配绿色领带，侧头看向女主角，带有汗珠和尴尬的表情；3) 右侧为一名娇小内向的少女，留着酒红色短波波头，戴着发夹，半掩在浅色花纹书本或笔记本后，表情显得烦躁或害羞。桌上需包含 5 件清晰可见的物品：蓝发少女面前的粉色便当盒、一个粉色布包、一盒带有吸管和草莓图案的小酸奶、右侧前景的一个大型深海军蓝书包，以及红发少女的书本/笔记本。添加杂志海报风格的排版和手写角色注释：左上角为日文标题 "負けヒロインが多すぎる!"，采用蓝色和粉色配色，并附带小型英文副标题 "MAKEINE Too Many Losing Heroines!"；女主角旁的手写注释为 "やっぱ 私は負けヒロイン なんだよね〜" 并配有弯曲箭头；少年附近的小字为 "また 始まった…"；他身后墙上的海报文案为日文 "負けても、きっと、青春は、終わらない。"，并附带英文副标题 "Too Many Losing Heroines!"；右上角的墙面文字为 "それでも、好きな気持ちは、きっと、負けじゃない。"；红发少女附近的小字注释为 "別に 気にしてない" 并配有弯曲箭头。使用细腻的高质量动漫线条、自然的皮肤阴影、微妙的景深效果、干净的现代电视动画渲染风格、冷色调阴影、温暖的阳光高光、写实的教室透视，无胶片颗粒，无水印，并确保所有角色造型统一且情绪连贯。
+
+[English]
+Create a polished widescreen anime key visual for a romantic school comedy titled {argument name="anime title" default="負けヒロインが多すぎる!"}. Canvas is 16:9, cinematic classroom interior in soft late-afternoon daylight, with large open windows, concrete pillars, balcony railings, distant blue sky and city/mountain scenery outside. Show exactly 3 high-school students seated at desks: 1) foreground left, the main heroine, a cheerful teenage girl with {argument name="heroine hair color" default="deep navy-blue"} shoulder-length messy hair, blue eyes, rosy cheeks, white short-sleeve school shirt and blue bow tie, leaning on one hand with a smug teasing smile; 2) center, a nervous teenage boy with short dark brown hair, white short-sleeve school shirt and green tie, looking sideways at the heroine with sweat drops and an awkward expression; 3) right, a petite withdrawn teenage girl with short wine-red bobbed hair and hair clips, half-hidden behind a pale patterned book or notebook, looking annoyed or shy. On the desk include exactly 5 visible items: a pink lunch box in front of the blue-haired girl, a pink cloth bundle, a small yogurt drink carton with a straw and strawberry graphic, a large dark navy school bag in the foreground right, and the red-haired girl's book/notebook. Add magazine-poster style typography and handwritten character notes: top-left Japanese title "負けヒロインが多すぎる!" in blue and pink with small English subtitle "MAKEINE Too Many Losing Heroines!"; left handwritten note near the heroine saying "やっぱ 私は負けヒロイン なんだよね〜" with a curved arrow; near the boy, small text "また 始まった…"; on the wall poster behind him, Japanese copy "負けても、きっと、青春は、終わらない。" with English subtitle "Too Many Losing Heroines!"; top-right wall text "それでも、好きな気持ちは、きっと、負けじゃない。"; near the red-haired girl, small note "別に 気にしてない" with a curved arrow. Use delicate high-quality anime linework, natural skin shading, subtle depth of field, clean modern TV-anime rendering, cool shadows, warm sun highlights, realistic classroom perspective, no film grain, no watermark, and keep all characters on-model and emotionally coherent.
+```
+
+**来源：** [@Mirochill](https://x.com/mirochill/status/2090181179978944551) | 2026-08-19
+
+---
+
+### 🏷️ 例 6470：GeoPT 物理模拟概览 Slides
+
+![GeoPT 物理模拟概览 Slides](../images/GeoPT%20%E7%89%A9%E7%90%86%E6%A8%A1%E6%8B%9F%E6%A6%82%E8%A7%88%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的 16:9 学术概览 Slides，解释 {argument name="paper concept" default="GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training"}，风格采用精美的会议演示信息图表。
+
+画布：宽屏白色幻灯片，海军蓝排版和点缀，极简阴影，高分辨率科学插图风格。底部使用一条带有小型圆形端点的细蓝色页脚线。
+
+标题：顶部为醒目的深海军蓝大标题：{argument name="headline text" default="GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training"}。正下方为较小的蓝色副标题：{argument name="subtitle text" default="Wu 等人 (2026) 的直观概览"}。
+
+核心理念横幅：在副标题下方，放置一个带有蓝色轮廓和极浅蓝色填充的圆角矩形标注框。左侧是一个蓝色圆形灯泡图标。文字内容为：“核心理念：”加粗蓝色字体，后接“在利用稀缺的真实模拟数据之前，使用丰富的 3D 几何图形和合成运动来预训练神经模拟器。”
+
+主要布局：一个包含 4 行的三列式流程图，行与行之间由粗蓝色箭头从左至右连接。列标题分别为：“3D 几何图形”、“物理模拟（示例）”和“场（压力 / 速度 / 应力）”。左侧设有 4 个行标签：1) 汽车，2) 飞机，3) 船体，4) 碰撞 / 形变。
+
+行细节：第 1 行显示一个灰色 3D 汽车模型，接着是带有蓝色流线和彩色涡流的汽车气流模拟，并附带一个小型的“t →”时间标记，然后是一个带有彩虹热力图场的汽车，以及一个标有“压力”且顶部为高、底部为低的垂直颜色图例。第 2 行显示一个灰色飞机模型，接着是带有气流流线和彩色尾迹的飞机，并附带“t →”，然后是一个带有标有“速度”高/低图例的彩虹热力图飞机。第 3 行显示一个灰色船体模型，接着是船体在海浪中移动的模拟水流，并附带“t →”，然后是一个带有标有“压力”高/低图例的彩虹热力图船体。第 4 行显示一个用于碰撞/形变的受损灰色车身，接着是带有碎片、形变和内部彩色应力/场可视化的碰撞模拟，并附带“t →”，然后是一个带有标有“应力”高/低图例的彩虹热力图形变车身。
+
+底部说明栏：包含 3 个由虚线蓝色箭头连接的圆形图标及说明模块。模块 1 图标为线框立方体，标题为“丰富的几何图形”，说明为“来自 CAD 存储库的易获取 3D 形状”。模块 2 图标为风/流线，标题为“合成动力学”，说明为“可扩展的模拟产生多样化的运动和场”。模块 3 图标为神经网络图，标题为“更好的物理模拟器”，说明为“在有限真实数据下泛化能力更强的预训练模型”。
+
+页脚：居中的小型灰色引用文字：{argument name="source citation" default="来源论文：Haixu Wu 等人, arXiv:2602.20399 (2026)"}。
+
+视觉风格：清晰的矢量幻灯片构图与逼真的 3D 渲染相结合，采用蓝色学术配色，白色背景，精确对齐，无杂乱元素，无水印，除了指定的数量外，不添加额外的行或图标。
+
+[English]
+Goal: Create a clean 16:9 academic overview slide explaining {argument name="paper concept" default="GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training"}, styled like a polished conference-deck infographic.
+
+Canvas: Widescreen white slide, navy-blue typography and accents, minimal shadows, high-resolution scientific illustration style. Use a thin blue footer line with small circular endpoints.
+
+Header: Large bold dark-navy title at the top: {argument name="headline text" default="GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training"}. Directly underneath, smaller blue subtitle: {argument name="subtitle text" default="An intuitive overview of Wu et al. (2026)"}.
+
+Big idea banner: Under the subtitle, place a rounded rectangle callout with a blue outline and very pale blue fill. On the left is a blue circular lightbulb icon. Text reads: “Big idea:” in bold blue, followed by “use abundant 3D geometry and synthetic motion to pre-train neural simulators before using scarce real simulation data.”
+
+Main layout: A three-column pipeline with exactly 4 rows, connected left-to-right by thick blue arrows. Column headings are: “3D Geometry”, “Physics Simulation (examples)”, and “Fields (pressure / velocity / stress)”. The left side also has 4 row labels: 1) Car, 2) Aircraft, 3) Ship hull, 4) Crash / Deformation.
+
+Row details: Row 1 shows a gray 3D car model, then a car in airflow simulation with blue streamlines and colorful vortices plus a small “t →” time marker, then a car colored with a rainbow heatmap field and a vertical color legend labeled “Pressure” with High at top and Low at bottom. Row 2 shows a gray aircraft model, then an airplane with airflow streamlines and colored wakes plus “t →”, then a rainbow heatmap aircraft with a legend labeled “Velocity” High/Low. Row 3 shows a gray ship hull model, then a ship hull moving through ocean waves with simulated water flow plus “t →”, then a rainbow heatmap ship hull with a legend labeled “Pressure” High/Low. Row 4 shows a damaged gray car body for crash/deformation, then a crash simulation with debris, deformation, and internal colored stress/field visualization plus “t →”, then a rainbow heatmap deformed car body with a legend labeled “Stress” High/Low.
+
+Bottom explanation strip: Include exactly 3 circular icon-and-caption blocks connected by dotted blue arrows. Block 1 icon is a wireframe cube and title “Abundant geometry”, caption “Easily available 3D shapes from CAD repositories”. Block 2 icon is wind/flow lines and title “Synthetic dynamics”, caption “Scalable simulations produce diverse motion and fields”. Block 3 icon is a neural network graph and title “Better physics simulators”, caption “Pre-trained models that generalize better with limited real data”.
+
+Footer: Centered small gray citation text: {argument name="source citation" default="Source paper: Haixu Wu et al., arXiv:2602.20399 (2026)"}.
+
+Visual style: Crisp vector-slide composition mixed with realistic 3D renders, blue academic palette, white background, precise alignment, no clutter, no watermark, no extra rows or icons beyond the specified counts.
+```
+
+**来源：** [@Yared W. Bekele](https://x.com/yaredwb/status/2090157854938280429) | 2026-08-19
+
+---
+
+### 🏷️ 例 6487：阳光早餐动漫肖像
+
+![阳光早餐动漫肖像](../images/%E9%98%B3%E5%85%89%E6%97%A9%E9%A4%90%E5%8A%A8%E6%BC%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图、照片级写实动漫风格的插画，描绘一位年轻女性在阳光柔和的公寓木质餐桌前享用早餐。画面展示她从大腿中部以上的部位，侧身坐在木椅上，面向左侧，姿态放松。主体为 {argument name="character name" default="一位年轻东亚女性"}，肤色白皙，五官精致，双眸自然明亮，戴着圆框细金属眼镜，留着长长的、略显凌乱的 {argument name="hair color" default="黑色"} 头发，中分并扎成两条松散的麻花辫，细碎的刘海和散落的发丝在光线下闪烁。她左手拿着一片金黄的烤吐司或干面包正准备咬下，嘴唇微张，神情安静而沉思。她穿着一件超大号白色 T 恤，上面印有灰色草书文字 {argument name="shirt text" default="Vacation is Almost Over"}，下身穿着淡粉色条纹睡裤。前景的桌子上摆放着四样早餐物品：一个装满咖啡的白色陶瓷马克杯、一个白色餐盘、一个太阳蛋以及盘中摆放的几片培根；此外，盘子附近还横放着一双黑色筷子。背景是温馨的公寓厨房兼餐厅，左侧有一扇明亮的大窗户，窗外是模糊的城市景观，地面为暖色调木地板，配有柔和的橱柜和搁架，右侧摆放着一盆绿植。运用从左侧射入的自然晨光，营造柔和的阴影、浅景深、电影级写实感、细腻的皮肤与布料质感、眼镜上的光泽高光、温暖柔和的色调以及宁静亲密的氛围。构图应为竖向肖像，呈现居家快照的质感，画面中不得出现额外角色、水印，除 T 恤上的文字外，不得添加任何额外说明文字。
+
+[English]
+Create a vertical, photorealistic anime-style illustration of a young woman having breakfast at a wooden dining table in a softly sunlit apartment. She is shown from mid-thigh up, seated sideways on a wooden chair, facing left in a relaxed morning pose. The subject is {argument name="character name" default="a young East Asian woman"} with pale skin, delicate features, large natural eyes, round thin metal glasses, and long slightly messy {argument name="hair color" default="black"} hair parted at the center and tied into exactly two loose braids, with wispy bangs and stray strands catching the light. She is holding exactly one thick slice of golden toasted bread or rusk to her mouth with her left hand, mid-bite, lips slightly parted, expression quiet and thoughtful. She wears an oversized white T-shirt with gray cursive text reading {argument name="shirt text" default="Vacation is Almost Over"} and pale pink striped pajama shorts. On the table in the foreground include exactly four breakfast items: one white ceramic mug filled with coffee, one white plate, one sunny-side-up egg, and several strips of bacon arranged on the plate; also include one pair of black chopsticks lying horizontally near the plate. The background is a cozy apartment kitchen/dining room with a large bright window on the left, blurred city view outside, warm wooden floor, soft cabinets and shelves, and exactly one leafy potted plant on the right. Use natural morning sunlight streaming from the left, gentle shadows, shallow depth of field, cinematic realism, detailed skin and fabric texture, glossy highlights on the glasses, warm muted colors, and a calm intimate atmosphere. Composition should be portrait orientation, close domestic snapshot feel, no extra characters, no watermark, no added captions beyond the shirt text.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2090061779011539043) | 2026-08-19
+
+---
+
+### 🏷️ 例 6511：秋季高山湖泊全景
+
+![秋季高山湖泊全景](../images/%E7%A7%8B%E5%AD%A3%E9%AB%98%E5%B1%B1%E6%B9%96%E6%B3%8A%E5%85%A8%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度写实、从高山俯瞰视角拍摄的 {argument name="season" default="autumn"} 广角风景照片。画面中心偏下方是一个深谷中碧蓝色的高山湖泊，周围环绕着色彩斑斓的茂密森林：火红、橙色、金黄与深绿交织。两侧是陡峭的灰色山脊，嶙峋的岩壁和斜向岩层映照着清晨的暖光。山谷之外，大片柔软的白云如雾气般填满了中景，多座蓝灰色的远山在天际线处若隐若现。前景是向湖泊延伸的彩色树梢，营造出强烈的纵深感与宏大尺度。使用 {argument name="lighting" default="清晨明媚的阳光"}，头顶是万里无云的清澈蓝天，画面清晰度高，自然对比度强，色彩饱和且真实，呈现出宏大的旅行摄影风格。构图采用 4:5 竖幅，湖泊位于画面中下方，前景为色彩最丰富的森林，右侧为险峻的山脉，远山分布在画面上方三分之一处。画面中不包含人物、建筑、道路、文字、水印或任何人工物体。
+
+[English]
+Create a highly realistic, ultra-detailed landscape photograph of a {argument name="season" default="autumn"} alpine mountain valley viewed from a high overlook. In the foreground and lower half, show dense forest covering steep slopes, with vivid fall foliage in saturated crimson, orange, gold, and yellow mixed with dark green conifers. In the middle distance, place a calm deep-blue mountain lake in a bowl-shaped valley, reflecting the surrounding forested slopes and rocky peaks. Surround the lake with rugged mountains and steep ridgelines, including pale gray exposed rock faces on the right and darker forested mountains on the left. Beyond the lake, fill the valley with a thick white sea of clouds or fog, smooth and rolling like cotton, with multiple distant mountain peaks and ridges emerging above it across the horizon. Use a clear bright blue sky with no clouds above, crisp morning light, high visibility, strong natural contrast, and vibrant colors. Composition should be vertical, approximately 4:5, with the lake centered slightly below the middle, autumn forest dominating the foreground, cloud sea spanning the background, and dramatic alpine peaks framing the scene. Style: professional travel and nature photography, sharp focus throughout, realistic lighting, no people, no buildings, no text, no watermark.
+```
+
+**来源：** [@いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will/status/2089953880327258306) | 2026-08-19
+
+---
+

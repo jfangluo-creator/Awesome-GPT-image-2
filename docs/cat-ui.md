@@ -13454,3 +13454,83 @@ Constraints: Use exactly 6 model recommendation rows, exactly 4 hardware tiles, 
 
 ---
 
+### 🖥️ 例 6495：魔法泉边的仙女
+
+![魔法泉边的仙女](../images/%E9%AD%94%E6%B3%95%E6%B3%89%E8%BE%B9%E7%9A%84%E4%BB%99%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宏大的电影级奇幻动漫插画，描绘六位美丽的仙女在魔法花园清澈的绿松石色泉水旁休憩的场景。画面阳光明媚、植被茂盛且细节丰富，斑驳的光影透过巨大的古树洒下，前景点缀着五彩缤纷的野花和长满苔藓的岩石，中景处有一座带有蓝色圆顶的金色华丽凉亭，右侧是层叠的瀑布，远方则是耸立在森林之上的蓝色尖顶童话城堡。采用精致的 3D 动漫人物风格，展现细腻的皮肤、明亮传神的眼睛、精致的面容、丝绸般的长发，以及带有金色镶边的优雅半透明希腊风格雪纺长裙。六位仙女分别是：1) 最左侧前景处的一位金发仙女，靠近观看者，单膝抬起，身穿白色垂坠长裙，配有金色肩带；2) 凉亭区域坐着一位淡紫色头发的仙女，身穿浅紫色长裙，双腿交叠；3) 中心岩石上坐着一位蓝色头发的仙女，身穿浅蓝色长裙，神情平静地注视前方；4) 水边站着一位粉色头发的仙女，身穿飘逸的粉色长裙，单手轻轻挥动致意；5) 泉水边跪着一位绿色头发的仙女，身穿浅绿色长裙；6) 最右侧花丛中坐着一位银白色头发的仙女，身穿淡紫白色长裙，手轻触胸口。氛围应宁静、梦幻且田园诗意，如同 {argument name="scene title" default="泉边休憩的仙女 No. 3"}。强调 {argument name="art style" default="高度精致的奇幻动漫 3D 插画"}、{argument name="lighting" default="温暖的金色晨光与闪烁的高光"}、{argument name="setting" default="带有瀑布、凉亭和远方城堡的魔法森林泉水"} 以及 {argument name="color palette" default="柔和色调的长裙、翠绿的植被、绿松石色的水面和金色的建筑"}。尽可能采用全身构图，姿态优雅，人体结构精细，赤足，无文字，无水印，无现代物品，全景 16:9 比例。
+
+[English]
+Create a wide cinematic fantasy anime illustration of exactly six beautiful nymph maidens resting beside a clear turquoise spring in an enchanted garden. The scene is sunlit, lush, and highly detailed, with dappled light filtering through huge ancient trees, colorful wildflowers in the foreground, mossy stones, a golden ornate gazebo with a blue domed roof in the midground, cascading waterfalls on the right, and a distant fairytale castle with blue spires rising above the forest. Use a polished 3D anime figure style with soft skin, large expressive eyes, delicate faces, long silky hair, and elegant translucent Greek-inspired chiffon dresses with gold trim. The six nymphs are: 1) a foreground blonde nymph on the far left, seated close to the viewer with one knee raised, wearing a white draped dress with gold straps; 2) a lavender-haired nymph seated under the gazebo area, wearing a light purple dress, one leg crossed over the other; 3) a blue-haired nymph seated on a rock near the center, wearing a pale blue dress and looking forward calmly; 4) a pink-haired nymph standing near the water, wearing a flowing pink dress and lifting one hand in a gentle greeting; 5) a green-haired nymph kneeling by the spring, wearing a pale green dress; 6) a silver-white-haired nymph seated on the far right among flowers, wearing a lavender-white dress and touching her chest lightly. The mood should be serene, magical, and idyllic, like {argument name="scene title" default="Nymphs Resting by the Spring No. 3"}. Emphasize {argument name="art style" default="highly polished fantasy anime 3D illustration"}, {argument name="lighting" default="warm golden morning sunlight with sparkling highlights"}, {argument name="setting" default="enchanted forest spring with waterfalls, gazebo, and distant castle"}, and {argument name="color palette" default="pastel dresses, emerald foliage, turquoise water, and gold architecture"}. Full-body composition where possible, graceful poses, refined anatomy, bare feet, no text, no watermark, no modern objects, panoramic 16:9 aspect ratio.
+```
+
+**来源：** [@ppanicx](https://x.com/ppanicx/status/2090028279898001761) | 2026-08-19
+
+---
+
+### 🖥️ 例 6512：卡哇伊情绪大爆发拼贴画
+
+![卡哇伊情绪大爆发拼贴画](../images/%E5%8D%A1%E5%93%87%E4%BC%8A%E6%83%85%E7%BB%AA%E5%A4%A7%E7%88%86%E5%8F%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Milk Signal"} 创作一张色彩极其丰富的动漫“情绪大爆发拼贴”海报，画面中心为一个大型 Q 版/动漫女孩，周围环绕 18 个较小的表情剪贴和 UI 弹窗贴纸。
+
+画布：1:1 正方形构图，背景为充满涂鸦的亮黄色，采用密集的贴纸炸弹布局，不留空白。使用粗白边贴纸轮廓、黑色投影、霓虹粉/青/紫色点缀、高光质感，呈现充满活力的日系卡哇伊杂志风格。
+
+主体：一个可爱的金发动漫女孩，留着短波波头和刘海，有着淡紫色的双眸、白皙的皮肤、红润的脸颊、含泪的尴尬表情、汗滴、微张的颤抖嘴唇，双手紧握在领口附近。她穿着一件套在荷叶边白衬衫外面的淡蓝色大号毛衣，戴着小耳环。将她作为情感焦点，以半身像形式置于画面正中央。
+
+周围表情剪贴：在边缘处添加 18 个完全相同的金发女孩 Q 版形象，每个都有白色贴纸边框。包含以下 18 种表情/动作：1 闭眼微笑且双手贴脸，2 空洞担忧脸，3 张嘴震惊，4 兴奋大笑姿势，5 圆眼惊讶，6 掩面哭泣，7 害羞脸红，8 尴尬地用手遮嘴，9 惊慌失措的小型全身姿势，10 含泪恳求脸，11 带有红色愤怒标记的撅嘴，12 困倦无聊脸，13 眨眼微笑，14 爱心眼表情，15 不屑的斜眼，16 开心张嘴笑，17 困惑地看向侧面，18 底部边缘的小型惊讶脸。
+
+贴纸与 UI 元素：包含 5 个带有可读文字的复古电脑风格弹窗：左上角粉色“ERROR”，顶部中央日语“送信中…”，中右侧“LOADING”，左下角“CONNECT”，以及左上角附近的一个小型洋红色心形窗口。添加 4 个对话气泡/符号气泡：右上角“!!!”，左上角“???”，右上中部附近“?!”，以及右下角的三点气泡。其余空间用霓虹星星、爱心、闪电、音符、箭头、像素入侵者图标、波浪线、微小闪光和波形涂鸦填满。
+
+标题排版：在下部中央放置大型粗体日文气泡字体 Logo，内容为 {argument name="main title text" default="ミルキュン シグナル!"}。字体需具备光泽感和层次感：顶部为热粉色，底部为青/绿松石色，带有粗白轮廓、深海军蓝阴影、黄色高光，标题旁配有小爱心图标，后方有彩虹漩涡，并呈现动态的 3D 贴纸效果。
+
+视觉风格：高能量萌系动漫插画，精致的数字艺术，淡金色头发，光泽感双眼，夸张的情绪表达，贴纸拼贴，饱和的糖果色，干净的线条，清晰的细节，俏皮而混乱的布局，适合社交媒体的日系流行美学。
+
+约束条件：保持中心角色占据主导地位且清晰可见，严格遵守 18 个小型表情剪贴、5 个 UI 窗口和 4 个对话气泡的数量要求，避免写实渲染，避免使用暗淡色彩，除标题和 UI 标签外，避免出现其他大型文字。
+
+[English]
+Goal: Create a high-energy kawaii anime “emotion explosion collage” poster centered on {argument name="character name" default="Milkyun"}, a cute blonde bob-haired girl, surrounded by many tiny chibi reaction stickers and colorful digital pop graphics.
+
+Canvas: Square 4:5-ish social media illustration, packed edge-to-edge with no empty space. Use a bright {argument name="background color" default="lemon yellow"} background filled with confetti, stars, hearts, lightning bolts, music notes, speech bubbles, UI windows, pixel icons, sparkles, and doodle outlines. Overall look should be glossy, sticker-like, saturated, and chaotic but readable.
+
+Main subject: One large central anime girl from the chest up, occupying most of the middle. She has {argument name="hair color" default="warm blonde"} chin-length bob hair with soft bangs, large sparkling lavender-purple eyes, pale skin, flushed cheeks, sweat drops, tiny tears, and an overwhelmed open-mouth expression. Her hands are clenched near her collar as if flustered or panicking. Outfit: oversized pale blue sweater with soft ruffled white collar, small earrings, delicate line art, thick white sticker outline and bold dark outer stroke.
+
+Surrounding sticker elements: Add exactly 20 smaller chibi versions of the same girl around the border and corners, each with a thick white cutout outline and different expressions. Count and include these 20 chibis: 1 top-left cropped laughing chibi, 2 top-center shy neutral chibi, 3 upper-right shocked chibi near an exclamation bubble, 4 far-right upper crying-open-mouth chibi, 5 right-upper tiny blank-faced chibi, 6 right-middle anxious chibi biting sleeves, 7 right-middle sad chibi with hands near face, 8 right-lower angry winking chibi near a loading window, 9 lower-right small neutral chibi, 10 far-right mid small shy chibi, 11 bottom-right shy chibi, 12 bottom-right cropped winking chibi, 13 bottom-center cropped chibi peeking up, 14 lower-left winking chibi, 15 lower-left heart-eyes chibi, 16 left-lower small winking chibi near CONNECT, 17 left-middle neutral surprised chibi, 18 left-middle crying chibi, 19 left-upper laughing chibi with raised arm, 20 upper-left cropped smiling chibi.
+
+Text and graphic labels: Use a huge two-line Japanese logo at the bottom reading {argument name="title text" default="ミルキュン シグナル!"}. Make the top word hot pink with white highlights and black shadow, and the lower word cyan/turquoise with white highlights and black shadow; add rainbow swooshes, hearts, stars, and lightning around it. Include visible UI pop-up graphics with readable text: “ERROR” near the top-left, “送信中...” in a blue window near the top center, “LOADING” on the right, “CONNECT” on the left-lower side, plus speech bubbles reading “!!!”, “???”, “?!”, and a small ellipsis bubble. Add pixel heart and pixel face icons.
+
+Visual style: Japanese anime idol sticker collage, ultra-cute moe style, bold outlines, glossy gradients, dense decoration, neon pink/cyan/purple accents, energetic manga reaction marks. The emotional theme is {argument name="emotion theme" default="flustered panic and overloaded cuteness"}. Keep everything crisp and bright, like a promotional character sticker sheet mixed with a pop music single cover.
+
+Constraints: No realism, no muted colors, no empty background, no watermark. Keep the central character dominant, all chibis recognizable as the same character, and the title large enough to read.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2089947970640977955) | 2026-08-19
+
+---
+
+### 🖥️ 例 6517：巴黎清晨咖啡生活方式场景
+
+![巴黎清晨咖啡生活方式场景](../images/%E5%B7%B4%E9%BB%8E%E6%B8%85%E6%99%A8%E5%92%96%E5%95%A1%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一段电影感十足、写实的短视频。画面中，一位留着棕色长波浪卷发和刘海的时髦年轻女性，身穿米色风衣，内搭白色上衣和浅色长裤，背着一个棕色皮质单肩包。她从一栋经典欧式建筑优雅的蓝色大门走出，步入阳光明媚、种满绿植和花箱的鹅卵石街道。她自信地走在迷人的巴黎风情小巷中。她走向并进入一家温馨的咖啡馆，咖啡馆有着木门和玻璃窗，上面标有类似“CHANEL ALEX”的字样。在温暖舒适、配有露梁、吊灯和大理石吧台的咖啡馆内，她向一位戴着围裙、留着胡须的咖啡师点了一杯“冰香草拿铁”。特写镜头展示了白色盘子上一块金黄酥脆的牛角面包和一把叉子。她坐在窗边，开心地从透明玻璃杯中啜饮分层的拿铁，闭上眼睛享受着，并说道：“这味道真棒。”随后，她咬了一大口牛角面包，说道：“完美的一天开始了。”最后一个镜头是她走在晨光熹微、熙熙攘攘的鹅卵石街道上，手里拿着咖啡和咬了一半的牛角面包，对着镜头微笑。柔和的自然光，暖色调，浅景深，高细节，生活方式美学。
+
+[English]
+A cinematic, realistic short video of a stylish young woman with long wavy brown hair and bangs, wearing a beige trench coat over a white top and light pants, carrying a brown leather shoulder bag. She steps out of an elegant blue door of a classic European building onto a sunlit cobblestone street lined with plants and flower boxes. She walks confidently down the charming Parisian-style alley. She approaches and enters a cozy cafe with wooden doors and glass windows labeled something like “CHANEL ALEX” or similar. Inside the warm, inviting cafe with exposed beams, pendant lights, and a marble counter, she orders an “Ice vanilla latte, please” from a bearded barista in an apron. A close-up of a golden, flaky croissant on a white plate with a fork. She sits by the window, happily sips the layered latte from a clear glass mug, closes her eyes in enjoyment, and says “That’s the good stuff.” She then takes a big bite of the croissant and says “Perfect start to the day.” Final shot of her walking down a bustling cobblestone street in golden morning light, holding the coffee and half-eaten croissant, smiling and looking at the camera. Soft natural lighting, warm tones, shallow depth of field, high detail, lifestyle aesthetic
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2089930417420087621) | 2026-08-19
+
+---
+

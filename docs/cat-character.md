@@ -8043,3 +8043,121 @@ Create a premium cinematic character bible sheet for {argument name="project nam
 
 ---
 
+### 🧍 例 6473：电影级角色设定对比表
+
+![电影级角色设定对比表](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%AF%B9%E6%AF%94%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级电影级 VS 角色设定表，对比 {argument name="first country" default="JAPAN"} 与 {argument name="second country" default="CHINA"}。请将上传的角色设定图作为双方的严格视觉参考，不得更改任何一方的外观。
+
+左侧 — {argument name="first country" default="JAPAN"}：身后带有白色与红色水彩泼墨效果
+
+[English]
+Create a premium cinematic VS character bible sheet for {argument name="first country" default="JAPAN"} vs {argument name="second country" default="CHINA"}. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance.
+
+LEFT SIDE — {argument name="first country" default="JAPAN"}: White and red watercolor splash behind him
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2090130980967449053) | 2026-08-19
+
+---
+
+### 🧍 例 6494：黑色电影风格刺客角色设定集
+
+![黑色电影风格刺客角色设定集](../images/%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E5%88%BA%E5%AE%A2%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="JOHN"} 的原创动作惊悚片刺客创建一个宽幅电影感角色设定集，呈现效果如同精美的概念艺术项目。
+
+画布：超宽横向角色设计图，比例约为 2.4:1，采用干净的白色背景，点缀黑色墨迹飞溅和霓虹紫蓝色灯光。使用粗犷的图像小说 / 动画概念艺术风格，线条锐利，阴影戏剧化，并具有高对比度的笔触质感。
+
+布局：将项目分为 3 个主要区域。左侧区域为带有排版的英雄插画海报；中央区域为全身三视图；右侧区域为细节网格和配色方案。
+
+左侧区域：在左上角放置醒目的黑色粗笔触标题文字 {argument name="title text" default="JOHN"}。下方添加小型大写副标题：{argument name="subtitle text" default="THE PROFESSIONAL / ONE VS ALL"}。展示一张 John 从大腿中部以上的戏剧性裁剪英雄特写，他正冷静地向前走，右手垂直握着一把黑色手枪。他身穿合身的黑色西装、黑色马甲、白色领带、黑色衬衫、黑色皮带和黑色皮鞋。表情严峻且危险。在他身后，营造出爆炸性的黑色墨迹飞溅，混合霓虹紫和电光蓝的夜店光束、模糊的人影以及飞溅纹理。左下角文字为：{argument name="tagline" default="ONE MAN. NO MERCY."}
+
+中央区域：在人物上方添加小型大写标题“TURNAROUND”，并配有一条细横线。展示该角色的 3 个全身三视图：1 个正面站立视图，1 个向右的侧面视图，以及 1 个背影视图。保持服装一致：黑色定制夹克、马甲、修身长裤、白色领带、深色衬衫、黑色皮鞋。角色拥有轮廓分明的脸庞、浓密的眉毛、短而凌乱的黑发（鬓角带灰），以及修剪整齐的深色胡须（带有灰色条纹）。
+
+右侧区域：添加小型大写标题“DETAILS”。创建 4 个方形细节面板，排列成 2x2 网格：1 个严峻面部和发型的特写，1 个带有白色领带和翻领的西装上半身特写，1 个手持向下指向的黑色手枪的手部特写，以及 1 个擦得锃亮的黑色皮鞋和裤脚特写。使用细线条的面板边框和微妙的紫色墨迹飞溅作为点缀。
+
+右下角：添加一个标记为“COLOR PALETTE”的部分，包含 4 个水平笔触色块：1 个黑色色块、1 个炭灰色色块、1 个深紫色色块和 1 个深海军蓝色色块。
+
+角色细节：角色应看起来像一位久经沙场的中年职业杀手，身材高大健硕，下颚方正，眼神锐利，头发略显凌乱且竖起，姿态从容冷静。武器为一把紧凑型黑色半自动手枪。整体氛围致命、优雅且充满黑色电影感。
+
+约束条件：必须使用 3 个三视图人物、4 个细节面板和 4 个配色色块。所有排版文字保持英文。不要包含任何 Logo、水印、额外面板或前景中的额外角色。
+
+[English]
+Goal: Create a wide cinematic character sheet for an original action-thriller assassin named {argument name="character name" default="JOHN"}, presented like a polished concept-art board.
+
+Canvas: Extra-wide horizontal character design sheet, roughly 2.4:1 aspect ratio, clean white background with black ink splatters and neon purple-blue lighting accents. Use a gritty graphic-novel / anime concept art style with sharp linework, dramatic shadows, and high-contrast brush textures.
+
+Layout: Divide the sheet into 3 main zones. Left zone is a poster-like hero illustration with typography. Center zone is a full-body turnaround. Right zone is a details grid and color palette.
+
+Left zone: At the top left, place massive bold black brushstroke title text reading {argument name="title text" default="JOHN"}. Beneath it, add small uppercase subtitle text: {argument name="subtitle text" default="THE PROFESSIONAL / ONE VS ALL"}. Show one large dramatic cropped hero image of John from about mid-thigh up, walking forward calmly, holding a black handgun upright in his right hand. He wears a fitted black suit, black vest, white tie, black dress shirt, black belt, and black dress shoes. His expression is stern and dangerous. Behind him, create an explosive black ink splash mixed with neon purple and electric blue nightclub light beams, faint silhouettes of people, and splatter textures. Bottom left text reads: {argument name="tagline" default="ONE MAN. NO MERCY."}
+
+Center zone: Add a small uppercase heading above the figures reading "TURNAROUND" with a thin horizontal rule. Show exactly 3 full-body turnaround poses of the same character: 1 front view standing straight, 1 side profile facing right, and 1 rear view facing away. Keep the outfit consistent: black tailored jacket, vest, slim trousers, white tie, dark shirt, black shoes. The character has a strong angular face, thick eyebrows, short messy black hair with gray at the sides, and a trimmed dark beard with gray streaks.
+
+Right zone: Add a small uppercase heading reading "DETAILS". Create exactly 4 square detail panels arranged in a 2-by-2 grid: 1 close-up portrait of the stern face and hair, 1 close-up of the upper suit torso with white tie and lapels, 1 close-up of a hand holding a black handgun pointed downward, and 1 close-up of polished black dress shoes and trouser cuffs. Use thin sketchy panel borders and subtle purple ink splatter accents.
+
+Bottom right: Add a section labeled "COLOR PALETTE" with exactly 4 horizontal brush-stroke swatches: 1 black swatch, 1 charcoal gray swatch, 1 deep purple swatch, and 1 dark navy blue swatch.
+
+Character details: The character should look like a hardened middle-aged professional killer, tall and athletic, with a square jaw, intense eyes, slightly messy spiked hair, and a controlled calm posture. The weapon is a compact black semi-automatic handgun. The mood is lethal, elegant, and noir.
+
+Constraints: Use exactly 3 turnaround figures, exactly 4 detail panels, and exactly 4 color swatches. Keep all typography in English. No logos, no watermarks, no extra panels, no extra characters in the foreground.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2090033792245219681) | 2026-08-19
+
+---
+
+### 🧍 例 6510：宽幅极简角色设定图
+
+![宽幅极简角色设定图](../images/%E5%AE%BD%E5%B9%85%E6%9E%81%E7%AE%80%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位留着黑色卷发的年轻男子"} 创建一张宽幅极简角色设定图，在同一个水平画布上并排展示两种不同的角色设定设计。
+
+画布：超宽全景比例，约 4:1，浅灰色背景，留白干净，无边框，无阴影，无水印。
+
+布局：将画布平分为左右两部分。每一部分都是一个独立的角色设定图，布局相同：顶部为粗体标题，从左到右排列三个全身转面姿势，最右侧为一个较大的面部/头部特写。总共使用 2 个角色设定面板。
+
+左侧面板细节：采用柔和的扁平卡通风格，肤色温暖，色彩柔和。展示 4 个角色绘图：1 个正面全身视图、1 个侧面全身视图、1 个背面全身视图和 1 个大面部特写。角色拥有圆润的黑色卷发、简单友好的面部、特写中较长的脖子、宽松的深藏青色/黑色卫衣、白色九分裤和黑色鞋子。全身姿势均匀分布，面部特写比全身姿势更大。
+
+右侧面板细节：采用更细的、类似单色素描的扁平风格，带有深藏青色轮廓和极简的色彩点缀。展示 4 个角色绘图：1 个正面全身视图、1 个侧面全身视图、1 个背面全身视图和 1 个大面部特写。同一个角色穿着深色大码毛衣、白色直筒裤和深色鞋子。在毛衣袖子上添加微妙的紫色点缀线条。面部特写经过简化，短黑发，可见耳朵，头部下方有黑色衣领形状。
+
+文字内容：仅绘制以下文字标签，拼写必须完全一致。左侧面板：CHARACTER SHEET、FRONT、SIDE、BACK、FACE。右侧面板：CHARACTER SHEET、FRONT、SIDE、BACK、FACE。标题使用粗体大写手绘无衬线字体，每个视图下方使用小号大写标签。
+
+视觉风格：干净的矢量风格插画，简单的圆润形状，略带不完美的手绘线条，配色方案限制在黑色、深藏青色、白色、浅桃色肤色和浅灰色背景。保持构图通透且平衡。
+
+约束：不要添加任何其他字母、符号、标志、签名、日期、URL、水印或装饰性文字。总共保持 8 个角色绘图：6 个全身转面视图和 2 个面部特写。
+
+[English]
+Goal: Create a wide minimalist character sheet illustration for {argument name="character name" default="a young man with curly black hair"}, showing two separate character sheet designs side by side on one horizontal canvas.
+
+Canvas: Very wide panoramic aspect ratio, about 4:1, pale light gray background, clean empty margins, no borders, no shadows, no watermark.
+
+Layout: Split the canvas into two equal halves. Each half is its own character sheet with the same basic layout: a bold title at the top, three full-body turnaround poses arranged left to right, and one larger face/head close-up on the far right. Use exactly 2 character sheet panels total.
+
+Left panel details: Use a soft flat cartoon style with warm skin tone and muted colors. Show exactly 4 character drawings: 1 front full-body view, 1 side full-body view, 1 back full-body view, and 1 large face close-up. The character has rounded curly black hair, a simple friendly face, a long neck in the close-up, a loose dark navy/black sweatshirt, cropped white pants, and black shoes. Place the full-body poses evenly spaced, with the face close-up larger than the body poses.
+
+Right panel details: Use a thinner, more monochrome sketch-like flat style with dark navy outlines and minimal color accents. Show exactly 4 character drawings: 1 front full-body view, 1 side full-body view, 1 back full-body view, and 1 large face close-up. The same character wears a dark oversized sweater, white straight pants, and dark shoes. Add subtle purple accent lines on the sweater sleeves. The face close-up is simplified, with short dark hair, ears visible, and a black collar shape beneath the head.
+
+Text content: Draw only the following text labels, each spelled exactly as written. In the left panel: CHARACTER SHEET, FRONT, SIDE, BACK, FACE. In the right panel: CHARACTER SHEET, FRONT, SIDE, BACK, FACE. Use bold uppercase hand-drawn sans-serif text for the titles and small uppercase labels under each view.
+
+Visual style: Clean vector-like illustration, simple rounded forms, slightly imperfect hand-drawn lines, limited palette of black, dark navy, white, pale peach skin, and light gray background. Keep the composition airy and balanced.
+
+Constraints: Do not add any other letters, symbols, logos, signatures, dates, URLs, watermarks, or decorative text. Keep exactly 8 character drawings total: 6 full-body turnaround views and 2 face close-ups.
+```
+
+**来源：** [@なおき🥞](https://x.com/naoki_ninja_/status/2089955679666602449) | 2026-08-19
+
+---
+
