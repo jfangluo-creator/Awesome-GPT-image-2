@@ -3978,3 +3978,120 @@ Create a realistic square photo of a handwritten French poem on cream textured p
 
 ---
 
+### 🏛️ 例 6550：Sky Railway 2099 概念设计
+
+![Sky Railway 2099 概念设计](../images/Sky%20Railway%202099%20%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅令人惊叹的未来派纽约市景象，磁悬浮列车穿梭于悬挂在数千英尺高空、摩天大楼之间的透明玻璃轨道上。巨大的瀑布从屋顶花园倾泻而下，自动驾驶飞行器在建筑间穿行。行人在被全息树木环绕的高架公园中驻足观看。照片级真实建筑，电影级日落光影，超精细反射，大气朦胧感，物理级精准光照，IMAX 科幻电影剧照，Sony A1，HDR，杰作。
+
+[English]
+A breathtaking futuristic New York City where magnetic trains travel through transparent glass tracks suspended between skyscrapers thousands of feet above the streets. Giant waterfalls flow from rooftop gardens while autonomous flying vehicles move between buildings. Pedestrians watch from elevated parks surrounded by holographic trees. Photorealistic architecture, cinematic sunset lighting, ultra-detailed reflections, atmospheric haze, physically accurate lighting, IMAX science-fiction film still, Sony A1, HDR, masterpiece.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2090393426848260445) | 2026-08-20
+
+---
+
+### 🏛️ 例 6556：奢华购物长廊摄影
+
+![奢华购物长廊摄影](../images/%E5%A5%A2%E5%8D%8E%E8%B4%AD%E7%89%A9%E9%95%BF%E5%BB%8A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感生活方式照片，呈现参考图中的同一位女性，保留其精确的面部特征、面部比例、眼睛、鼻子、嘴唇、眉毛以及深棕色长发。她自然地坐在 {argument name="location" default="宏伟的奢华室内购物长廊"} 内一张优雅的咖啡桌旁，背景是欧式建筑、华丽的阳台、大理石地面、温暖的店面灯光，以及背景中模糊的人群。
+
+她身穿 {argument name="clothing" default="廓形黑色西装外套，内搭修身黑色高领衫"}，下着 {argument name="trousers" default="宽松的炭灰色定制长裤"}，佩戴黑色皮带和优雅的黑色皮鞋，戴着一副精致的圆形黑框眼镜。坐姿放松自信，一只手臂随意搭在椅子上，身体微微后倾，自然地看向镜头。
+
+她身旁的小型黑色大理石桌上放着一个黑色咖啡杯和一盏温暖的黄铜台灯，旁边还有一个有质感的黑色皮质手提包。深沉的傍晚氛围，深黑色调与温暖的琥珀色及金色灯光交织，抛光大理石上呈现出丰富的倒影，展现出带有现代编辑风格的精致“老钱风”美学。
+
+由他人使用 iPhone 随手抓拍，构图略显随意，呈现真实的皮肤纹理、自然的头发丝、细腻的阴影、浅景深，背景可见购物者，营造出氛围感虚化效果，呈现出高级时尚摄影质感，避免摆拍感或 AI 生成感。画面中无商场名称，无清晰可见的店铺名称，无 Logo，9:16 竖屏比例。
+
+[English]
+Ultra-realistic cinematic lifestyle photo of the same woman from the reference image, preserving her exact facial identity, facial proportions, eyes, nose, lips, eyebrows and long dark-brown hair. She is sitting naturally at an elegant café table inside a {argument name="location" default="grand luxury indoor shopping arcade"} with European-inspired architecture, ornate balconies, marble floors, warm storefront lighting and people softly blurred in the background.
+
+She wears an {argument name="clothing" default="oversized structured black blazer over a fitted black turtleneck"}, {argument name="trousers" default="relaxed charcoal tailored trousers"}, black leather belt and elegant black shoes, with subtle round black eyeglasses. Relaxed confident sitting pose, one arm resting casually on the chair, slightly leaning back, looking naturally toward the camera.
+
+A small black marble table beside her holds a black coffee cup and a warm brass table lamp, with a structured black leather handbag nearby. Moody evening atmosphere, deep blacks mixed with warm amber and golden lighting, rich reflections on polished marble, sophisticated old-money aesthetic with a modern editorial edge.
+
+Shot candidly by another person on an iPhone, slightly imperfect framing, realistic skin texture, natural hair strands, subtle shadows, shallow depth of field, background shoppers visible, atmospheric bokeh, premium fashion photography without looking staged or AI-generated. No mall name, no readable store names, no logos, 9:16 vertical.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2090377335572693301) | 2026-08-20
+
+---
+
+### 🏛️ 例 6587：巨型冰淇淋施工现场
+
+![巨型冰淇淋施工现场](../images/%E5%B7%A8%E5%9E%8B%E5%86%B0%E6%B7%87%E6%B7%8B%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感垂直超现实微缩施工场景：一个巨大的 {argument name="dessert subject" default="香草软冰淇淋蛋筒"} 如同建筑巨型工程般矗立在白雪皑皑的景观中，位于画面中心。蛋筒为写实的金色华夫饼蛋筒，具有深邃的网格纹理，巨大的光泽白色软冰淇淋螺旋在上方堆叠隆起，既有雪感又充满奶油质感。周围有 17 名戴着橙色安全帽和防护装备的微型建筑工人，每人都在执行不同的任务：1 名工人在高空作业车上向左上方旋涡喷洒白色冰淇淋/雪，1 名工人在顶部附近手持工具，1 名工人站在最顶端手持垂直杆，1 名工人在左上脊处攀爬/检查，1 名工人在左前脊处平整表面，1 名工人在右上脊处使用工具，1 名工人在左侧搬运或支撑梯子，1 名工人在中心脊处凿刻，1 名工人通过缆绳悬挂在右侧，1 名工人在右侧悬挂平台上边喷洒碎屑边做手势，1 名工人站在蛋筒附近的雪脊上，1 名工人在蛋筒底部挖掘，1 名工人在蛋筒前方行走，1 名工人在前景装载机旁，1 名工人在挖掘机臂附近，1 名工人在右下边缘，1 名工人在自卸卡车附近。包含 6 种施工机械或设备：左侧 1 台黄色伸缩臂高空作业车，左下方 1 台黄色推土机/装载机，中右下方 1 台黄色挖掘机，右下方 1 台装满白色物料的橙色自卸卡车，右脊上 1 台小型挖掘装载机，以及右侧由起重机缆绳悬挂的 1 个工作平台。添加两架靠在蛋筒和冰淇淋上的高梯、右侧的缆线、覆盖地面的碎冰/雪堆，以及工人们雕刻或涂抹材料时产生的漂浮白色喷雾。背景：深蓝色天空配以蓬松的积云，明亮的日光，清晰的阴影，奇幻而逼真的比例对比，高细节，移轴微缩感，无文字，无标志。将图像呈现于简洁白色页面中央的圆角长方形框内，艺术品周围留有宽裕的白色边距，如同垂直海报或社交媒体卡片。使用 {argument name="aspect ratio" default="4:5 垂直"} 构图，超精细电影级光效，写实纹理，鲜艳色彩，俏皮的奇幻现实主义。
+
+[English]
+Goal: Create a whimsical cinematic photoreal miniature scene of a giant vanilla soft-serve ice cream cone being constructed and maintained like a monumental building project in a snowy landscape.
+
+Canvas: Vertical image with a centered rounded-rectangle photo frame on a clean white page, 4:5 portrait composition inside the frame. Bright daylight, crisp 1080p-style detail, saturated blue sky, fluffy white clouds, high contrast, playful surreal scale.
+
+Main subject: A colossal waffle cone stands upright in the center, emerging from piles of churned white snow. On top is a towering spiral of creamy white vanilla soft serve, textured like thick whipped snow with sculpted ridges, peaks, flakes, and spray. The cone has a detailed golden-brown waffle grid pattern and looks enormous compared with the workers and vehicles.
+
+Layout and action: Show an active construction site around the ice cream tower. Use exactly 22 tiny construction workers in orange safety helmets and work clothes, each posed doing a different task: 1 worker standing at the very peak with a tool raised, 2 workers beside the peak shaping the top swirl, 1 worker spraying ice cream from a high boom lift on the upper left, 1 worker operating that boom lift basket, 1 worker climbing a tall ladder on the left side of the cone, 1 worker standing on the left mid-level swirl with a scraper, 1 worker on the front upper swirl smoothing cream, 1 worker on the right upper swirl using a shovel, 1 worker hanging by a rope on the right side, 1 worker on a suspended platform at right guiding ropes, 1 worker on the same platform gesturing upward, 1 worker on the central front swirl using a trowel, 1 worker at the base inspecting the cone, 1 worker shoveling snow near the cone foot, 1 worker walking across the snowy foreground with tools, 1 worker operating a front loader, 1 worker standing near the front loader giving directions, 1 worker operating an excavator, 1 worker beside the excavator raking snow, 1 worker near a dump truck checking the load, and 1 worker on the far right carrying a shovel.
+
+Machinery and props: Include exactly 6 yellow construction vehicles: a tall boom lift on the left spraying cream, a rear bulldozer/loader partly hidden on the left, a large front loader in the lower left foreground pushing snow, a small excavator in the lower center-right scooping snow, a dump truck on the right filled with white snow/cream, and a compact loader on the right hillside. Include exactly 3 visible ladders leaning against the cone and ice cream, plus 1 suspended work platform hanging from cables on the right.
+
+Visual style: Ultra-detailed cinematic miniature photography, tilt-shift feeling, realistic textures, warm sunlight, clean shadows, toy-like workers but believable construction gear, charming scale contrast, no text, no logos, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2090267550521385012) | 2026-08-20
+
+---
+
+### 🏛️ 例 6593：武士对决浮世绘三联画
+
+![武士对决浮世绘三联画](../images/%E6%AD%A6%E5%A3%AB%E5%AF%B9%E5%86%B3%E6%B5%AE%E4%B8%96%E7%BB%98%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅垂直三联画（六块高窄画板并排），采用经典的中国浮世绘与水墨画风格。主题：一名 {argument name="warrior 1" default="年轻的中国女武士"} 与一名 {argument name="warrior 2" default="年长的武士"} 在古风建筑（木质寺庙、瓦片屋顶、障子门、石灯笼）前使用武士刀进行决斗。色彩与氛围：整体采用黑褐色、深褐色调，并带有陈旧纸张的质感。背景应比前景更暗，使用深棕色和近乎黑色的阴影来营造深度与戏剧感。构图：- 左侧画板：两位武士对峙，拔刀出鞘，姿态紧绷。- 中间画板：激战正酣，刀剑交锋，伴有火花与动态线条，姿势充满张力。- 右侧画板：决胜瞬间，一名武士向前突刺，另一名正在格挡。确保三块画板中人物的面部、盔甲和服饰保持一致。使用强劲的墨线、细腻的水彩渲染、可见的笔触以及柔和的大地色调（赭石色、棕珀色、深褐色）。整体风格应具有历史感、电影感且充满戏剧张力。
+
+[English]
+Create a vertical triptych (six tall panels side by side) in a classic Chinese ukiyo-e and ink-wash style. Subject: A {argument name="warrior 1" default="young Chinese samurai girl"} and an {argument name="warrior 2" default="older samurai man"} fighting with katanas in front of old-style Chinese architecture (wooden temples, tiled roofs, shoji screens, stone lanterns). Color and mood: Overall black brownish, sepia-toned palette with an aged-paper texture. The background should be darker than the foreground, using deep browns and near-black shadows to create depth and drama. Composition: - Left panel: The two warriors facing off, swords drawn, tense stance. - Middle panel: Mid-clash, blades crossing, sparks and motion lines, dynamic poses. - Right panel: A decisive strike moment, one warrior lunging forward, the other parrying. Keep the characters’ faces, armor, and clothing consistent across all three panels. Use strong ink outlines, subtle watercolor washes, visible brush strokes, and muted earth tones (ochre, umber, sepia, dark brown). The overall feel should be historical, cinematic, and dramatic.
+```
+
+**来源：** [@Maya](https://x.com/MayaAiCreator/status/2090258359513481393) | 2026-08-20
+
+---
+
+### 🏛️ 例 6594：单色极简风格问候海报
+
+![单色极简风格问候海报](../images/%E5%8D%95%E8%89%B2%E6%9E%81%E7%AE%80%E9%A3%8E%E6%A0%BC%E9%97%AE%E5%80%99%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+画图任务：先提炼出一个可被压缩成剪影或单一实物痕迹的核心角色，再把它安置在一条极窄、近乎沉默的纵向影像带底部，周围保留大面积浅灰空白；第一眼必须是左侧高而空的灰色实体与右侧稀疏文字之间的冷静失衡，主题内容只在底部小尺度出现，像被巨大留白和时间压低。整体采用单色灰阶、低对比、哑光纸面与细颗粒印刷噪点，影像边缘轻微软化，黑色只用于少量强锚点：小剪影、粗重主标题、右上数字或标记。文字系统像建筑构件而非装饰，主标题用超重几何无衬线构造，笔画短厚、端点平切或圆化，字腔被压紧，局部可有小星点或圆点作为节奏停顿；副信息极小、细、松散，可竖排或偏轴放置，制造阅读路径的迟缓。主题转换时更换人物、物件、符号与文本含义，但保持窄影像柱、大空场、黑灰稀疏锚点、纸质颗粒、错位层级和孤独纪念感。避免彩色装饰、戏剧光效、饱满构图、整洁商业排版、过度清晰修图和热闹叙事。
+
+主题：{argument name="早安信息" default="早安+问候+GOOD MORNING+城市+金句+天气+2026-08-20"}
+
+一共10个国家地标建筑
+
+10个图片
+
+每个图片都有截然不同的色相逻辑 
+每个国家都是对应国家的文字逻辑
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090247658107777506) | 2026-08-20
+
+---
+

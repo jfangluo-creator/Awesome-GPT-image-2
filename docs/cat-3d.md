@@ -7493,3 +7493,109 @@ Create a whimsical high-detail anime fantasy illustration in a vertical 3:4 comp
 
 ---
 
+### 🧸 例 6537：等轴测微缩模型海报
+
+![等轴测微缩模型海报](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为精致的极简等距视角插画，如一件陈列在纸面上的微缩立体模型或建筑沙盘。不要机械复刻照片细节，而是以概括体块、清晰边缘、简洁层级和微型场景关系重新表达主体，使其保留一眼可辨的身份特征，同时具有安静、克制、诗意的编辑插画气质。
+
+整体采用**等距视角、微缩景观、纸面模型感**的构图逻辑：主体像被切割并安放在一小块纸面或微型基座上，周围保留大面积留白，通过体量对比、边缘裁切、轻微投影和少量微小细节建立尺度感与孤独感。可加入极少量辅助元素承托主体，但不得形成第二视觉中心。
+
+配色完全从上方原始照片中提取，优先保留最具辨识度、最有气质和最能代表主体的颜色，再将复杂色彩**归纳、提纯、柔化并统一为有限色盘**。保留原图的冷暖关系与色彩性格，但降低杂色和视觉噪声，使颜色更平静、克制、柔和、有纸上编辑插画感；通过同色深浅、邻近色关系和少量色差区分体块，不凭空加入与原图无关的固定色系。使用精细墨线、扁平色面、轻微阴影和纸张颗粒表现结构与层次。
+
+文字作为构图的一部分巧妙介入，从照片的主题、地点、动作、状态或情绪中提炼一个{argument name="英文标题" default="简短英文标题"}，并搭配极少量编号、短句或微型注释。文字保持细瘦、克制、现代编辑感，可沿留白边缘、主体基座、水平轴线或等距结构排列，与图形共同形成安静而精致的版式节奏。
+
+整体参考**极简等距插画、微缩立体模型、纸上景观和高级编辑设计**，呈现安静、诗意、克制、精致、具有收藏感的视觉气质。避免卡通感、高饱和撞色、与原图无关的固定配色、塑料3D感、复杂场景堆积、电商感和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090447110168822128) | 2026-08-20
+
+---
+
+### 🧸 例 6552：苔藓阳光下梦幻般的毛绒小麻雀
+
+![苔藓阳光下梦幻般的毛绒小麻雀](../images/%E8%8B%94%E8%97%93%E9%98%B3%E5%85%89%E4%B8%8B%E6%A2%A6%E5%B9%BB%E8%88%AC%E7%9A%84%E6%AF%9B%E7%BB%92%E5%B0%8F%E9%BA%BB%E9%9B%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 9:16 的垂直梦幻自然肖像，主角是 {argument name="character name" default="Kedama Suzume"}，一只静静栖息在苔藓覆盖的森林地面上的圆滚滚毛绒小麻雀。鸟儿应作为唯一的视觉主体，位于画面左下方的三分之一处，右侧和上方留出大面积柔和发光的留白。这只麻雀应拥有超可爱的圆球形身体，覆盖着温暖的 {argument name="feather color" default="棕色和奶油色"} 羽毛，小巧的层叠翅膀带有扇形羽纹，黑亮如珠的眼睛，小巧的深色喙，桃粉色的腮红，以及身体下方隐约可见的小脚。在鸟儿左侧点缀三株精致的野花茎，配以小白花、露珠、苔藓和闪烁的尘埃微粒。使用来自左上方的金色背光，营造浓郁的清晨薄雾，背景为奶油般的虚化叶片，采用浅景深效果，鸟儿边缘带有柔和的轮廓光，画面右半部分呈现过曝的白金色光晕。氛围：宁静，远离喧嚣，温柔的静谧时光。风格：高质量奇幻 3D 插画与微距自然摄影相结合，毛绒质感，电影级柔焦，温暖的柔和绿色与黄色调，无文字，无水印，无其他动物。
+
+[English]
+Create a vertical 9:16 dreamy nature portrait of {argument name="character name" default="Kedama Suzume"}, a tiny round plush-like sparrow resting quietly on a mossy forest floor. The bird should be the single main subject, positioned in the lower-left third with a large expanse of soft glowing negative space on the right and upper area. Give the sparrow an extra-cute chubby spherical body, warm {argument name="feather color" default="brown and cream"} plumage, small layered wings with scalloped feather markings, glossy black bead eyes, a tiny dark beak, peach-pink blush cheeks, and tiny feet just visible under the body. Surround it with exactly three delicate wildflower stems near the left side of the bird, small white blossoms, dew, moss, and sparkling dust motes. Use golden backlight from the upper left, strong morning haze, creamy bokeh foliage in the background, shallow depth of field, soft rim light around the bird, and an overexposed white-gold glow fading across the right half of the frame. Mood: peaceful, away from noise, gentle quiet time. Style: high-quality whimsical 3D illustration mixed with macro nature photography, plush texture, cinematic soft focus, warm pastel greens and yellows, no text, no watermark, no extra animals.
+```
+
+**来源：** [@トクツー](https://x.com/TK2Works/status/2090382748221571156) | 2026-08-20
+
+---
+
+### 🧸 例 6566：小人举起巨大的电视遥控器
+
+![小人举起巨大的电视遥控器](../images/%E5%B0%8F%E4%BA%BA%E4%B8%BE%E8%B5%B7%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个写实的电影感微缩场景，画面中是一个微小的 {argument name="person description" default="留着深色卷发、肤色中等、身穿棕色外套内搭深色格子衬衫的年轻男子"}，他站在木制咖啡桌上，身旁是一个巨大的黑色电视遥控器，正双手用力抓举着遥控器，仿佛它非常沉重。遥控器比人要大得多，从左下角向右下角呈对角线放置，边缘圆润，带有凸起的橡胶按键、圆形方向键、数字键以及红、绿、黄、蓝四个彩色按键。背景中放置一台大尺寸平板电视，屏幕上显示着模糊的绿色球场足球比赛画面，营造出强烈的景深和虚化效果。在人物后方的左侧放置一大碗爆米花，部分处于失焦状态。使用温暖的客厅灯光、真实的比例对比、浅景深、细腻的皮肤和织物纹理、电影级构图、桌面上自然的阴影，以及舒适的电影之夜氛围。无标题，无水印，无额外文字。
+
+[English]
+Create a photorealistic cinematic miniature scene of a tiny {argument name="person description" default="young man with curly dark hair, light-medium skin, wearing a brown coat over a dark plaid shirt"} standing on a wooden coffee table beside an enormous black TV remote control, gripping and lifting the remote with both hands as if it is heavy. The remote is much larger than the person, angled diagonally from lower left to lower right, with rounded edges, raised rubber buttons, a circular directional pad, number buttons, and four colored buttons in red, green, yellow, and blue. In the background, place a large flat-screen TV showing a blurred soccer match on a green field, creating strong depth of field and bokeh. Add a large bowl of popcorn on the left side behind the person, partially out of focus. Use warm living-room lighting, realistic scale contrast, shallow depth of field, detailed skin and fabric texture, cinematic composition, natural shadows on the tabletop, and a cozy movie-night atmosphere. No captions, no watermark, no extra text.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2090326191521865811) | 2026-08-20
+
+---
+
+### 🧸 例 6583：洪崖洞东方剪纸艺术
+
+![洪崖洞东方剪纸艺术](../images/%E6%B4%AA%E5%B4%96%E6%B4%9E%E4%B8%9C%E6%96%B9%E5%89%AA%E7%BA%B8%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+9:16竖版，现代东方女性梦境立体剪纸艺术，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，layered shadow box，epic oriental papercraft fantasy，contemporary oriental art poster。
+
+作品主题为“她从洪崖洞的灯火里走向江面”。
+
+画面核心叙事为：{argument name="核心叙事" default="一位年轻东方女性从层层叠叠的纸雕山城与灯火回廊中缓缓走向临江阶梯，面前是江水、夜风、远桥与月色"}。她从繁盛喧闹的灯火深处走出，来到更辽阔开阔的江面边缘，像终于在热闹之后看见自己真正要去的远方。
+
+主体人物为视觉年龄约25岁的东方成年女性，清醒独立、神秘优雅，带一点穿越繁华后的冷静感。人物拥有清秀鹅蛋脸，细长杏眼微微抬起，神情克制而专注。人物不看镜头，采用背影或侧背影叙事姿态，作为情绪核心。
+
+人物发型与头饰为：黑色长发低挽，发尾延展出细长流动的纸艺丝带，佩戴浅金灯饰纹样与小型花枝发饰。头饰轻盈精致，不复杂不高耸。
+
+人物服装为：深朱红、暖金与象牙白层叠纸艺长裙，裙摆与披帛带有极为精细的楼阁、灯火、栏杆、波浪与城市纹样镂空结构，外层披帛修长轻盈，大面积向身后与侧后方展开。服装必须具有清晰纸张厚度、细密裁切边缘、纤维纹理、轻微折痕和高完成度的博物馆级纸雕工艺感，披帛与裙摆像一整片繁复的镂空纸雕长卷。
+
+梦境载体为：山城纸艺楼阁群与临江回廊。
+
+梦境意象包括：{argument name="梦境意象" default="吊脚楼、灯火、长阶、江面、远桥、飞鸟、满月、远处城市灯海"}。所有建筑、人物、江水、天空、桥梁、灯笼、栏杆和植物都必须统一为高完成度的立体纸雕语言，不要写实摄影，不要普通CG夜景。
+
+整体剪纸结构采用：多层舞台式。
+
+构图与人物动作为：画面左侧与上方主体是一整面沿崖壁垂直生长的巨大纸雕山城，层层吊脚楼、楼阁、回廊、露台、栏杆、灯笼与小桥彼此交叠，从前景一直延伸到远景，形成极其复杂而有秩序的垂直空间。右侧是开阔江面、远桥、城市天际线与满月夜空，形成明晰的开合关系。人物位于画面下方偏中左的临江台阶之上，身体朝向江面与远方，缓步向下或安静停驻，成为连接“繁华山城”与“辽阔江面”的叙事焦点。
+
+山城建筑必须明显参考洪崖洞式山地吊脚楼群，但全部纸雕化处理：多层木构楼阁、密集窗格、层层回廊、悬挑平台、弯折楼梯、挑檐、红灯笼、暖光窗景彼此交错，形成压倒性的垂直生长感和强烈纵深。建筑密度很高，但秩序清晰，近景建筑可以被画框裁切，增强空间压迫感与现场感。
+
+前景与中景可以出现连续的纸艺栏杆、纸灯、石阶、平台与少量纸雕植物剪影，作为观者进入山城内部的框景。右侧江面开阔，水面有细致的纸雕波纹与月光倒影，远处一座桥梁横跨江面，桥身灯光点亮，远方城市灯海形成细密光点。夜空中可见一轮明月与零散飞鸟，月色清冷，和山城暖灯形成冷暖对比。
+
+整体色彩方案为：{argument name="色彩方案" default="朱红、暖金、深青蓝、象牙白为主，少量墨黑平衡"}。朱红用于楼阁主体、人物主裙、栏杆与灯笼结构；暖金用于灯火、窗格、描边与局部高光；深青蓝用于夜空、江水与远景阴影；象牙白用于镂空披帛、建筑高光、月光与部分装饰性纸层。整体色彩华丽而通透，冷暖对比明显，但不能脏浊，不要整体压黑。
+
+光线与纸张质感为：暖金灯火从楼阁内部透出，与冷蓝夜色和月光交织，建筑纸层局部发光，江面反射灯火与月光。纸张厚度、裁切纹样、镂空栏杆、窗格、灯笼边缘和人物服装细节都必须极其丰富清晰。强化真实纸张纤维、轻微折痕、层间投影、边缘透光感和多层纸雕结构，使整张画面像一件高完成度的大型东方纸雕艺术装置。
+
+画面整体具有东方梦境山城、纸雕夜游、江边月色、女性成长叙事和高级艺术海报感。重点不只是“洪崖洞夜景”，而是“从繁华灯火里走向辽阔江面”的情绪转折。山城必须繁盛、复杂、层层向上生长；江面必须开阔、清冷、留出呼吸空间；人物必须成为由繁入静的情绪锚点。
+
+补充要求：强化山城垂直空间与灯火繁盛感，人物位于前景或中前景，但不能破坏整体建筑压迫感与纵深感；整个场景必须统一纸雕化，不能只是人物纸艺、背景写实。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2090272881569870218) | 2026-08-20
+
+---
+

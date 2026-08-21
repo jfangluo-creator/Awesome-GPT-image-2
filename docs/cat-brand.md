@@ -17806,3 +17806,227 @@ Create a highly realistic, ultra-detailed landscape photograph of a {argument na
 
 ---
 
+### 🏷️ 例 6530：动漫风格：从车内视角看东京广告牌
+
+![动漫风格：从车内视角看东京广告牌](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%EF%BC%9A%E4%BB%8E%E8%BD%A6%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%9C%E4%BA%AC%E5%B9%BF%E5%91%8A%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为视觉风格参考，将场景从交易台设置转换为从 {argument name="vehicle type" default="汽车"} 内部向外看的电影级动漫视角，透过挡风玻璃和侧窗观察 {argument name="city setting" default="东京密集的商业区"}。保留相同的宽屏比例、精致的赛璐珞/3D 动漫质感、戏剧性的红绿色调点缀、光泽反射以及高对比度光影，但需完全移除显示器、键盘、手部、扬声器和交易图表界面。
+
+新构图：将观察者置于汽车前排乘客区域，前景中部分可见深色车顶框架、挡风玻璃立柱、仪表盘、方向盘边缘、侧视镜和红色座椅。室外展示在 {argument name="time of day" default="明亮的午后阳光"} 下紧密排列的高层城市建筑，呈现强烈的阴影和反光玻璃表面。
+
+新增标识：在建筑群中包含 9 个显著的广告牌/标识元素：1 个位于中央顶部的巨型标识（带日文）、1 个红色龙/生物广告牌、1 个垂直白色日文标识、1 个宽幅红白数字屏幕、1 个绿色角色广告牌、1 个蓝白相间的日文店招、1 个位于右上方的巨型红白广告牌、1 个左侧带有红色人物的圆柱形高大屏幕，以及 1 个较远处的红色矩形小标识。标识保持图形化和风格化，使用合理的日文排版，而非完全可读的文字。
+
+风格约束：营造出干净、高端的 AI 视频概念帧感；透视清晰，电影级构图，前景中无人，无交易图表，无桌面设备，无水印。
+
+[English]
+Using REFERENCE_0 as the visual style reference, transform the scene from a trading desk setup into a cinematic anime view from inside {argument name="vehicle type" default="a car"} looking out through the windshield and side window at {argument name="city setting" default="a dense Tokyo commercial district"}. Preserve the same widescreen aspect ratio, polished cel-shaded/3D-anime look, dramatic red-and-green color accents, glossy reflections, and high-contrast lighting, but remove the monitors, keyboard, hands, speakers, and trading-chart interface entirely.
+
+New composition: place the viewer in the front passenger area of the car, with the dark roof frame, windshield pillars, dashboard, steering wheel edge, side mirror, and a red seat partially visible in the foreground. Outside, show tall urban buildings packed tightly together under {argument name="time of day" default="bright late-afternoon sunlight"}, with strong shadows and reflective glass surfaces.
+
+Added signage: include exactly 9 prominent billboard/sign elements across the buildings: 1 large central top sign with Japanese text, 1 red dragon/creature billboard, 1 vertical white Japanese sign, 1 wide red-and-white digital screen, 1 green character billboard, 1 blue-and-white Japanese storefront sign, 1 large red-and-white billboard on the upper right, 1 tall left-side cylindrical screen with a red figure, and 1 smaller distant red rectangular sign. Keep the signage mostly graphic and stylized, with plausible Japanese typography rather than perfectly readable text.
+
+Style constraints: make it feel like a clean, upscale AI-video concept frame; sharp perspective, cinematic framing, no people in the foreground, no trading charts, no desktop equipment, no watermark.
+```
+
+**来源：** [@beech](https://x.com/beechinour/status/2090517505685209339) | 2026-08-20
+
+---
+
+### 🏷️ 例 6555：《败犬女主太多了！》动画主视觉图
+
+![《败犬女主太多了！》动画主视觉图](../images/%E3%80%8A%E8%B4%A5%E7%8A%AC%E5%A5%B3%E4%B8%BB%E5%A4%AA%E5%A4%9A%E4%BA%86%EF%BC%81%E3%80%8B%E5%8A%A8%E7%94%BB%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感十足的动画主视觉图，用于一部名为 {argument name="Japanese title" default="負けヒロインが多すぎる!"} 的校园浪漫喜剧系列。使用 16:9 宽屏画幅，柔和的日光，绘画感的高端 TV 动画风格，干净的线条，柔和的辉光，写实的教室透视，以及略显柔和的蓝灰色阴影。场景设定在现代日本高中的教室或食堂，旁边是大开的窗户，可以看到混凝土柱子、阳台栏杆，以及窗外明亮天空下的远山和城市建筑。
+
+场景构图：画面前景的长桌旁坐着 3 名学生。角色 1（左侧焦点）是一位开朗的蓝发女学生，留着深蓝色长发，蓝色眼睛，穿着白色短袖校服衬衫和蓝色蝴蝶结；她单手托腮，带着自鸣得意、戏谑的微笑和淡淡的红晕，看起来既放松又带点淘气。角色 2（中间）是一位黑发男学生，穿着白色短袖衬衫和深绿色领带，侧头看向蓝发女孩，表情焦虑且困惑，带着小汗珠，姿势略微佝偻。角色 3（右侧）是一位留着酒红色短发的矮个子女学生，别着小发夹，坐在靠后的位置，部分身体被课桌和深蓝色书包遮挡，手里拿着一本浅色花纹的书或手机贴近脸部，假装不在意地斜眼偷看。
+
+前景物品：包含 4 个清晰可见的课桌物品：蓝发女孩面前的粉色便当盒、一块粉白相间的布或包装纸、男孩旁边贴有日文标签的小盒酸奶饮料及吸管，以及酒红色头发女孩面前的深蓝色书包。
+
+文字元素：画面中需集成 7 组清晰可见的文字。1) 左上角的主标题（日文）：{argument name="Japanese title" default="負けヒロインが多すぎる!"}，采用蓝色和粉色的书法字体。2) 下方的小字英文副标题：“MAKEINE Too Many Losing Heroines!”。3) 蓝发女孩附近的手写白色对话：{argument name="left dialogue" default="やっぱ私は負けヒロインなんだよね〜"}。4) 男孩附近的小字白色旁白：{argument name="boy aside" default="また始まった…"}。5) 酒红色头发女孩附近的手写白色备注：{argument name="right dialogue" default="別に気にしてない"}。6) 男孩身后的墙上海报，包含日文和一行小字英文“Too Many Losing Heroines!”。7) 右上角混凝土墙上的白色手写引语。添加细长的弯曲箭头，从对话备注指向对应的角色。
+
+氛围与风格：青春苦涩的喜剧感，温暖但略带忧郁，如同精致动画改编作品的宣传剧照。使用来自左侧的自然窗光，分层的景深效果，细腻的头发高光，微妙的皮肤红晕，清晰但不刺眼的文字，且不包含水印或多余角色。
+
+[English]
+Create a cinematic anime key visual for a romantic comedy school series titled {argument name="Japanese title" default="負けヒロインが多すぎる!"}. Use a 16:9 widescreen frame, soft daylight, painterly high-end TV anime style, clean line art, gentle bloom, realistic classroom perspective, and slightly muted blue-gray shadows. The setting is a modern Japanese high school classroom or cafeteria beside large open windows, with concrete pillars, balcony railings, distant hills and city buildings visible outside under a bright sky.
+
+Scene composition: show exactly 3 students seated at a long desk in the foreground. Character 1, the main focus on the left, is a cheerful blue-haired schoolgirl with long deep-blue hair and blue eyes, wearing a white short-sleeve school blouse and a blue bow; she leans on one hand with a smug, teasing smile and faint blush, looking relaxed and slightly mischievous. Character 2, center, is a black-haired schoolboy in a white short-sleeve shirt and dark green tie, looking sideways at the blue-haired girl with an anxious, confused expression, small sweat marks, and slightly hunched posture. Character 3, right, is a short burgundy-haired schoolgirl with a small hair clip, seated farther back, partially hidden behind the desk and a navy school bag, holding a pale patterned book or phone close to her face while pretending not to care with a sulky side-eye.
+
+Foreground objects: include exactly 4 visible desk items: a pink lunch box in front of the blue-haired girl, a pink-and-white cloth or wrapper, a small yogurt drink carton with a straw near the boy labeled in Japanese, and a dark navy school bag in front of the burgundy-haired girl.
+
+Text elements: include exactly 7 visible text groups integrated into the image. 1) Top left main title in Japanese: {argument name="Japanese title" default="負けヒロインが多すぎる!"}, with blue and pink calligraphic lettering. 2) Small English subtitle under it: "MAKEINE Too Many Losing Heroines!" 3) Handwritten white dialogue near the blue-haired girl: {argument name="left dialogue" default="やっぱ私は負けヒロインなんだよね〜"}. 4) Small white aside near the boy: {argument name="boy aside" default="また始まった…"}. 5) White handwritten note near the burgundy-haired girl: {argument name="right dialogue" default="別に気にしてない"}. 6) A wall poster behind the boy with Japanese text and a small English line reading "Too Many Losing Heroines!" 7) A handwritten white quote in the upper right corner on the concrete wall. Add thin curved arrows pointing from dialogue notes toward the relevant characters.
+
+Mood and style: youthful bittersweet comedy, warm but slightly melancholic, like a promotional still from a polished anime adaptation. Use natural window lighting from the left, layered depth of field, detailed hair highlights, subtle skin blush, crisp but not overly sharp text, and no watermark or extra characters.
+```
+
+**来源：** [@Token Gremlin](https://x.com/TokenGremlin/status/2090380176416727265) | 2026-08-20
+
+---
+
+### 🏷️ 例 6560：《败北女角太多了！》动画教室主视觉图
+
+![《败北女角太多了！》动画教室主视觉图](../images/%E3%80%8A%E8%B4%A5%E5%8C%97%E5%A5%B3%E8%A7%92%E5%A4%AA%E5%A4%9A%E4%BA%86%EF%BC%81%E3%80%8B%E5%8A%A8%E7%94%BB%E6%95%99%E5%AE%A4%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的电影感动画主视觉图，主题为校园恋爱喜剧，标题为 {argument name="series title" default="負けヒロインが多すぎる!"}。场景设定在黄昏或午后阳光柔和的日本高中教室，配有宽大的开窗、混凝土立柱、阳台栏杆，窗外是朦胧的城市与山景。前景中，三名学生坐在课桌前：左侧是 {argument name="main heroine" default="一位开朗的蓝发女学生"}，她单手托腮前倾，带着一丝得意的微笑，蓝色的双眸水汪汪的，脸颊微红，身穿白色短袖校服衬衫，系着蓝色领结，胸前戴着可爱的熊形配饰；中间是 {argument name="male lead" default="一位紧张的棕发男学生"}，穿着白衬衫和绿领带，瞪大眼睛不安地斜视着她，额头冒着汗珠；右侧是 {argument name="second heroine" default="一位留着栗色短发的女学生"}，她侧身坐着，躲在花纹笔记本或手机后面，假装不在意，表情闷闷不乐且有些害羞，戴着发夹，身穿白色校服衬衫。课桌上需包含四个清晰可见的物品：蓝发女孩面前的粉色便当盒、一个粉白相间的布包、一盒插着吸管且带有日文标签的草莓酸奶，以及右侧前景处的一个深蓝色书包。添加类似动画宣传海报的平面设计文字叠加：左上角为蓝色和粉色的日文标题 {argument name="headline text" default="負けヒロインが多すぎる!"}，下方配有英文副标题“MAKEINE Too Many Losing Heroines!”；添加四处白色手写风格的日文侧边注释，并配有箭头或虚线，分别位于蓝发女孩、男主角、栗色短发女孩附近以及右上角。背景墙上需添加两张海报：一张是栗色短发女孩身后立柱上的灰色海报，印有日文和英文小字“Too Many Losing Heroines!”；另一张是右侧高墙上的白色海报，印有日文标语和一条细蓝线。画面需采用新海诚风格的细腻动画光影、写实的教室透视、绘画感背景、柔和的轮廓光、微妙的镜头光晕、生动的角色表演、干净的线条，以及柔和的冷色调阴影，除指定的宣传元素外，不得包含额外角色或文字。
+
+[English]
+Create a widescreen 16:9 anime key visual for a romantic school comedy titled {argument name="title text" default="負けヒロインが多すぎる!"}. Scene: three Japanese high school students sit at desks in a bright classroom during lunch, with large windows, concrete pillars, balcony railings, blue sky and distant buildings/mountains outside. Soft cinematic afternoon lighting, shallow depth of field, detailed modern TV-anime rendering, expressive faces, delicate line art, natural skin shading, slightly melancholic but comedic atmosphere.
+
+Characters: exactly 3 students. 1) Foreground left: a cheerful blue-haired teenage girl with long messy navy-blue hair, blue eyes, flushed cheeks, wearing a white short-sleeve school shirt and blue bow tie; she leans on one hand with a smug, teasing smile, looking relaxed and confident. 2) Center: a black-haired teenage boy in a white short-sleeve school shirt with a green necktie, sitting behind her, looking sideways with a worried awkward expression and a small sweat drop. 3) Right: a short maroon-haired teenage girl with side hair clips, wearing a white school shirt, half-hidden behind a desk and holding a patterned book or phone near her face, pretending not to care while looking annoyed or embarrassed.
+
+Foreground props: exactly 4 prominent desk items: a pink lunch box in front of the blue-haired girl, a crumpled pink-and-white cloth, a small yogurt drink carton with a straw and Japanese text, and a dark navy school bag in front of the maroon-haired girl.
+
+Text layout: top left display the large Japanese title {argument name="title text" default="負けヒロインが多すぎる!"} in hand-painted blue and pink lettering, with small English subtitle beneath: "MAKEINE Too Many Losing Heroines!" Add exactly 5 handwritten white annotation captions around the characters: left beside the blue-haired girl: {argument name="left annotation" default="やっぱ私は負けヒロインなんだよね〜"}; near the boy: {argument name="boy annotation" default="また始まった…"}; near the right girl: {argument name="right annotation" default="別に気にしてない"}; on a poster in the back: {argument name="poster slogan" default="負けても、きっと、青春は、終わらない。"}; top right on the wall: "それでも、好きな気持ちは、きっと、負けじゃない。" Include small curved arrows and dotted leader marks pointing from some annotations to the characters.
+
+Background details: include exactly 2 visible wall posters with Japanese inspirational copy and small English title lines reading "Too Many Losing Heroines!" Keep the composition like an anime promotional still: the blue-haired girl dominates the left foreground, the boy is centered behind her, the maroon-haired girl is smaller on the right, with desks forming a horizontal foreground line. Avoid extra characters, avoid photorealism, avoid distorted hands, and keep all text legible.
+```
+
+**来源：** [@jun](https://x.com/jun1228909/status/2090340154137551340) | 2026-08-20
+
+---
+
+### 🏷️ 例 6561：奢华房地产销售海报
+
+![奢华房地产销售海报](../images/%E5%A5%A2%E5%8D%8E%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%94%80%E5%94%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端垂直房地产销售海报，品牌为虚构的精品开发商 AUREN CASA，需强化 Orbit 的揭幕感与 Transit 的奢华质感。严格保持原始结构逻辑：背景为浅景深的柔和暖米色奢华室内，画面中央为悬浮在两只逼真手掌之间的大型现代别墅模型，上方手掌将薄屋顶板向上提起，下方手掌从底部支撑建筑模型，顶部设有简洁的 Logo 与标题区，底部为紧凑的品牌联系信息条。整张图片必须呈现出旗舰地产发布会的视觉效果：优雅、情感温暖且具有国际高端水准。主视觉：在中心位置放置一个极其精致的双层现代别墅模型，并完整展示室内剖面。强化 Orbit 的方向感，使被提起的屋顶平面与被支撑的房屋主体产生更具动态的关联，仿佛掀开屋顶的动作正在释放内部的生活体验。屋顶板与模型之间的间隙应显得刻意且更具戏剧性，同时保持真实与可控。房屋模型必须具有手工感、价值感且符合建筑逻辑：纤细的深色金属框架、落地玻璃、温暖的胡桃木或橡木表面、嵌入式照明、优雅的客厅、用餐区、上层私人套房、室内绿植以及层次分明的楼板。建筑与室内：别墅必须呈现为高端产品，而非概念玩具。底层：开放式客厅与餐厅，配有精致家具、暖色调搁架、艺术品及细腻的居住奢华感。上层：更柔和私密的卧室或休息套房。材质渲染需极其考究：木材、玻璃、哑光板材、金属框架、软装纹理、环境光辉及微缩生活美学。室内应感觉温暖、诱人且具有全球高端品质。手部与真实感：双手必须真实、优雅且解剖结构正确，手指间距自然，握持力度可信，皮肤纹理细腻，并采用商业美学灯光。上方手掌应显得优雅且意图明确，轻柔地提起屋顶板。下方手掌应显得稳固且具有支撑感，体现工艺与关怀。无手部畸变、无多余手指、无尴尬姿势。Transit 方向：将整张海报的风格提升至更国际化、更具编辑感和更奢华的发布海报标准。减少图形干扰，保持顶部品牌区更简洁，使联系条更低调，柔化背景模糊中过度的对比度，让中央模型承载更多的情感与商业权重。图片应呈现出顶级开发商与高端室内设计公司强强联手的旗舰感。灯光与氛围：使用柔和的暖色日光，并带有微妙的建筑室内光辉。让模型接收来自右上角或前上方的优雅定向光，在屋顶板、玻璃边缘、木质内饰和手部产生细腻的高光。加强光影关系，赋予模型真实的体积感，使掀开屋顶的动作更具戏剧性。背景应保持奶油色、模糊且奢华，无任何干扰。排版与品牌：顶部区域：一个原创的极简 Logo 标志，一个原创开发商名称，以及一句简短的英文标题，例如 “OPEN TO ELEVATED LIVING” 或 “WHERE SPACE BECOMES HOME”，必须完全原创，不得抄袭。下方添加一行小型辅助文字。底部条：一个优雅的品牌联系栏，包含原创的虚构电话号码、城市文本和网址，比宣传册横幅更简洁、更克制。所有排版必须原创、现代、高端，且服务于建筑模型。风格：奢华房地产发布海报、高端建筑与室内品牌推广、精品住宅营销、设计建造地产营销、带有情感温度的超写实商业渲染、戛纳级别的开发商广告质感。色彩系统：暖米色、柔和灰褐色、奶油色、胡桃木棕、柔和的炭灰色框架线条、琥珀色室内光、克制的深色文字，必要时可加入一种微妙的品牌点缀色。保持整体冷静、精致且全球高端。负面提示词：无抄袭品牌名称、无抄袭口号、无杂乱背景、无玩具屋感、无扭曲的屋顶几何结构、无变形的手部、无多余手指、无畸形的解剖结构、无浑浊的阴影、无黑色斑块、无水印、无现有 Logo、无嘈杂的布局、无廉价宣传册感。
+
+[English]
+Create a premium vertical real-estate sales poster for a fictional boutique developer brand called AUREN CASA, refined with stronger Orbit reveal energy and more polished Transit luxury. Preserve the original structural logic exactly: a soft warm beige luxury interior background in shallow depth of field, a large central modern villa maquette floating between two realistic human hands, the upper hand lifting a thin roof slab upward, the lower hand supporting the architectural model from beneath, a clean logo-and-headline zone at the top, and a compact branded contact-information strip at the bottom. The whole image must feel like a flagship property-launch visual: elegant, emotionally warm, and internationally premium. Main visual: At the center, place one ultra-refined two-story modern villa maquette with fully visible cutaway interiors. Strengthen the Orbit direction by making the lifted roof plane and the supported house body feel more dynamically related, as if the act of opening the roof is actively releasing the living experience inside. The gap between roof slab and model should feel deliberate and slightly more dramatic, while remaining realistic and controlled. The house model must feel handcrafted, valuable, and architecturally believable: slim dark metal frame, floor-to-ceiling glass, warm walnut or oak surfaces, recessed lighting, elegant living room, dining zone, upper private suite, indoor greenery, and clean layered floor plates. Architecture and interiors: The villa must read as a premium product, not a conceptual toy. Lower floor: open-plan living and dining with refined furniture, warm shelves, art piece, and subtle residential luxury. Upper floor: softer intimate bedroom or lounge suite. Materials must be rendered with great care: timber, glass, matte slabs, metal framing, upholstery texture, ambient light glow, and miniature lifestyle elegance. The interior should feel warm, inviting, and globally premium. Hands and realism: Both hands must be realistic, elegant, and anatomically correct, with natural finger spacing, believable grip pressure, fine skin texture, and beauty-commercial lighting. The upper hand should feel graceful and intentional, delicately lifting the roof slab. The lower hand should feel stable and supportive, reinforcing craftsmanship and care. No hand distortion, no extra fingers, no awkward pose. Transit direction: Refine the whole page toward a more international, more editorial, and more luxurious launch-poster standard. Reduce graphic noise, keep the top branding cleaner, make the contact strip more understated, soften any excessive contrast in the background blur, and allow the central model to carry more of the emotional and commercial weight. The image should feel like a flagship collaboration between a top-tier developer and a premium interior design house. Lighting and mood: Use soft warm daylight with subtle architectural interior glow. Let the model receive elegant directional light from upper-right or upper-front, with delicate highlights on the roof slab, glass edges, timber interiors, and the hands. Strengthen light-shadow relationships enough to give the model genuine volume and make the lifted-roof action feel more dramatic. The background should remain creamy, blurred, and luxurious, with no distraction. Typography and branding: Top zone: one original minimal logo mark, one original developer name, and one short English headline such as “OPEN TO ELEVATED LIVING” or “WHERE SPACE BECOMES HOME,” fully original and not copied. Add one small supporting line beneath. Bottom strip: one elegant branded contact bar with original fictional phone number, city text, and website, cleaner and more restrained than a brochure banner. All typography must be original, modern, premium, and secondary to the architectural model. Style: Luxury real-estate launch poster, premium architecture-and-interior branding, boutique residential campaign, design-build property marketing, hyper-real commercial rendering with emotional warmth, Cannes-level developer advertising polish. Color system: Warm beige, soft taupe, cream, walnut brown, muted charcoal frame lines, amber interior glow, restrained dark text, and one subtle brand accent if needed. Keep everything calm, polished, and globally premium. Negative prompt: no copied brand names, no copied slogans, no cluttered background, no toy-house feel, no distorted roof geometry, no warped hands, no extra fingers, no malformed anatomy, no muddy shadows, no black blotches, no watermark, no existing logos, no noisy layout, no cheap brochure feel.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2090338483592368349) | 2026-08-20
+
+---
+
+### 🏷️ 例 6562：猫耳女仆肖像
+
+![猫耳女仆肖像](../images/%E7%8C%AB%E8%80%B3%E5%A5%B3%E4%BB%86%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版肖像插画，描绘一位可爱的兽耳女仆在明亮的维多利亚风格房间中向观众倾身。主体是一位年轻的猫耳少女，拥有 {argument name="hair color" default="银灰发色"} 的双马尾，侧边卷发系着黑色小丝带，有着毛茸茸的淡色猫耳和粉色耳廓，以及一双 {argument name="eye color" default="粉紫色"} 的闪亮大眼睛。她面带温柔的微笑，脸颊红润，面容稚嫩，头发和眼睛带有光泽感。她身穿经典的黑白女仆装：黑色长袖连衣裙、白色圆领、颈部系有黑色蝴蝶结、白色荷叶边围裙、泡泡袖肩饰、白色袖口以及一个巨大的白色荷叶边女仆头饰。采用近景四分之三侧面视角，上半身占据画面大部分，身体前倾，头部微侧，一只手向镜头伸出并做出友好的挥手动作，五指清晰可见。背景是高大的阳光窗户，配有奶油色窗帘、雕花深色木饰、淡雅的图案壁纸，窗外可见柔和的绿植。采用温暖的清晨逆光穿过窗户，猫耳和头发边缘带有细腻的轮廓光，高调明亮的强光，柔和的阴影，浅景深，以及干净且细节丰富的日本动漫插画风格，线条流畅，光影色彩鲜艳柔和，无文字或水印。构图为 3:4 竖版，氛围亲密可爱，角色居中并以腰部为界进行裁剪。
+
+[English]
+Create a polished anime-style vertical portrait illustration of a cute kemonomimi maid girl leaning toward the viewer in a bright Victorian room. The subject is a young cat-eared girl with {argument name="hair color" default="silvery ash gray"} twin-tail hair, soft curled side locks tied with small black ribbons, large fluffy cat ears with pale fur and pink inner ears, and big {argument name="eye color" default="pinkish purple"} sparkling eyes. She has a small gentle smile, rosy cheeks, a soft childlike face, and glossy highlights on her hair and eyes. She wears a classic black-and-white maid outfit: black long-sleeved dress, white rounded collar, black bow at the neck, white frilled apron, puffed white shoulder frills, white cuffs, and a large white ruffled maid headband. Pose her in a close-up three-quarter view, upper body filling most of the frame, leaning forward with her head slightly tilted and one hand extended toward the camera in a friendly wave with five visible fingers. Place her in front of tall sunlit window panels with cream curtains, carved dark wooden trim, faint patterned wallpaper, and soft greenery visible outside. Use warm morning backlight streaming through the windows, delicate rim light on the ears and hair, bright high-key highlights, soft shadows, shallow depth of field, and a clean highly detailed Japanese anime illustration style with smooth linework, vibrant pastel lighting, and no text or watermark. Composition should be vertical 3:4, intimate and cute, with the character centered and cropped around the waist.
+```
+
+**来源：** [@Matsubon](https://x.com/Matsubon_Q7/status/2090335912123392155) | 2026-08-20
+
+---
+
+### 🏷️ 例 6572：《败犬女主太多了！》动画教室主视觉图
+
+![《败犬女主太多了！》动画教室主视觉图](../images/%E3%80%8A%E8%B4%A5%E7%8A%AC%E5%A5%B3%E4%B8%BB%E5%A4%AA%E5%A4%9A%E4%BA%86%EF%BC%81%E3%80%8B%E5%8A%A8%E7%94%BB%E6%95%99%E5%AE%A4%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感的动画主视觉图，用于一部名为 {argument name="series title" default="負けヒロインが多すぎる!"} 的校园恋爱喜剧系列，背景设定在明亮但略带忧郁的日间教室。采用 16:9 宽屏构图，运用来自大窗户的柔和自然光、冷蓝灰色的阴影、细腻的背景绘画以及精致的现代动画角色渲染。画面中需包含 3 名学生：1) 左前方，一名开朗的蓝发女学生，留着凌乱的长深蓝色头发，蓝色眼睛，脸颊绯红，带着戏谑的微笑，单手托腮，身穿白色短袖校服衬衫并系着蓝色领结，课桌上放着一个粉色便当盒和一块揉皱的粉色布；2) 中央，一名紧张的黑发男学生，带着担忧的神情向侧面瞥视，身穿白色短袖衬衫和深绿色领带，坐在她身后，课桌上放着一盒带有吸管的粉色草莓酸奶；3) 右侧，一名内向的短酒红色头发女学生，戴着发夹，半躲在一本浅色书本或笔记本后，看起来既恼火又尴尬，旁边放着一个深海军蓝色的书包。背景中包含 2 张海报，均属于同一系列：一张柱子上的竖版海报，采用日式排版，内容关于“即使失败青春仍在继续”，并配有小的英文副标题“Too Many Losing Heroines!”；另一张是右上角倾斜的海报，上面写着简短的励志日文标语。添加 3 条带有弯曲箭头的白色手写注释：左侧靠近蓝发女孩的注释写着 {argument name="left annotation" default="やっぱ私は負けヒロインなんだよね〜"}，中央靠近男孩的注释写着 {argument name="center annotation" default="また始まった…"}，右侧靠近酒红色头发女孩的注释写着 {argument name="right annotation" default="別に気にしてない"}。在左上角添加主日文 Logo {argument name="logo text" default="負けヒロインが多すぎる!"}，采用蓝色和粉色的书法字体，下方附带小的罗马音/英文文本：“MAKEINE Too Many Losing Heroines!” 保持教室的写实感，包含窗框、混凝土柱子、远处的城市和山脉，使用浅景深，线条细腻，无锯齿边缘，无多余角色，无水印。
+
+[English]
+Goal: Create a widescreen anime promotional key visual for {argument name="anime title" default="Makeine: Too Many Losing Heroines!"}, set in a bright high-school classroom during daytime, with cinematic soft lighting and detailed hand-drawn animation style.
+
+Canvas: 16:9 landscape composition, about 1170×660 px feel, with a shallow cinematic depth of field. The camera sits at desk height, looking slightly upward across a classroom table toward three students, with large windows and concrete pillars in the background. Outside the windows, show a hazy blue sky, distant buildings, and green hills.
+
+Layout: Place the main blue-haired girl large in the left foreground, the boy in the center middle ground, and the red-haired girl on the right background. A wooden desk spans the entire bottom edge. Add the title logo in the upper left corner and promotional handwritten captions around the characters. Keep the right side darker and more shaded than the left.
+
+Characters: Include exactly 3 students. 1) Left foreground girl: a cheerful teenage girl with long deep-blue hair, soft bangs, blue eyes, flushed cheeks, and a playful smug smile. She wears a white short-sleeved school shirt with a blue bow tie and small decorative charms at her chest. She rests her cheek on one hand, leaning casually over the desk and looking pleased. 2) Center boy: a teenage boy with short dark brown hair, pale skin, and a worried awkward expression, wearing a white short-sleeved school shirt and a dark green necktie. Add small sweat drops on his face and have him glance toward the blue-haired girl. 3) Right background girl: a small, withdrawn teenage girl with short reddish-purple bobbed hair and hairpins, seated apart near a gray pillar. She hides behind a pale phone or book, eyes narrowed as if pretending not to care.
+
+Desk objects: Include exactly 4 visible desk items in the foreground: a pink lunch box or tray in front of the blue-haired girl, a crumpled pink-and-white cloth at the far left front, a small strawberry yogurt drink carton with a straw near the center, and a dark navy school bag in front of the red-haired girl.
+
+Background and posters: Show exactly 2 wall posters on the right side. Poster 1 is vertical, pale gray, taped to a pillar behind the boy, with Japanese slogan text and small English subtitle “Too Many Losing Heroines!” near the bottom. Poster 2 is a darker angled poster in the upper right corner with white Japanese slogan text and a thin blue underline.
+
+Visible text: Upper left title logo should combine Japanese title text with small English text: “MAKEINE / Too Many Losing Heroines!” Use blue and pink title colors. Add exactly 4 handwritten white caption callouts: one near the blue-haired girl on the left reading {argument name="left caption" default="やっぱ 私は負けヒロイン なんだよね〜"}, one near the boy reading {argument name="boy caption" default="また 始まった…"}, one near the red-haired girl reading {argument name="right caption" default="別に 気にしてない"}, and one at the upper right reading {argument name="upper right slogan" default="それでも、好きな気持ちは、きっと、負けじゃない。"}. Add subtle arrows or dotted guide lines pointing from captions to the characters.
+
+Visual style: High-quality modern Japanese anime film still, delicate linework, soft cel shading, realistic classroom lighting, gentle bloom, blue-gray shadows, warm sunlight from the left windows, expressive faces, polished official key art look.
+
+Constraints: Use exactly 3 characters, 4 desk items, 2 posters, and 4 handwritten caption callouts. Keep all text legible and placed like a promotional anime poster, with no extra characters, no watermark, and no photorealism.
+```
+
+**来源：** [@寝ろ](https://x.com/XRay96/status/2090303915967517093) | 2026-08-20
+
+---
+
+### 🏷️ 例 6581：《败犬女主太多了！》动画课堂主视觉图
+
+![《败犬女主太多了！》动画课堂主视觉图](../images/%E3%80%8A%E8%B4%A5%E7%8A%AC%E5%A5%B3%E4%B8%BB%E5%A4%AA%E5%A4%9A%E4%BA%86%EF%BC%81%E3%80%8B%E5%8A%A8%E7%94%BB%E8%AF%BE%E5%A0%82%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部名为 {argument name="series title" default="負けヒロインが多すぎる!"} 的校园恋爱喜剧创作一张电影质感的动画主视觉图，营造出一种忧郁又不失趣味的课堂氛围，并呈现出精致的电影级光影效果。
+
+画布：16:9 宽屏横向构图，1200×675 比例，柔和的景深，清冷的日光从宽大的教室窗户射入。使用写实的现代日本高中教室场景，包含混凝土立柱、窗框，窗外可见城市建筑和淡蓝色的天空。
+
+布局：在教室课桌周围放置 3 名学生。左前方是女主角，在画面中占比最大，单手托腮，露出戏谑且略带爱慕的微笑。中间是坐在她身后的男生，神情不安且尴尬，额头带有一滴小汗珠。右侧是第二名女生，体型较小且略显孤立，坐在一个深色书包后，用浅色智能手机遮住嘴部，表情嫉妒或冷漠。保持课桌边缘位于画面底部前景。
+
+角色：女主角留着凌乱的长深蓝色头发，蓝色眼睛，脸颊红润，身穿白色短袖校服衬衫，佩戴蓝色丝带和黄色小饰品；她单手托腮，带着得意的微笑看向观众。男生留着深棕色短发，身穿白色校服衬衫，系绿色领带，神情担忧地看向侧面。右侧女生留着酒红色短波波头，别着两个黄色小发卡，身穿白色校服衬衫，手机上方露出的双眼微眯。
+
+可见物品（课桌上共 5 件）：蓝发女孩面前放着 1 个粉色便当盒、1 块揉皱的粉白相间布料或餐巾、1 个印有草莓图案并带有日文标签的粉色小酸奶盒；酒红发女孩面前放着 1 个深海军蓝大书包，且她手中拿着 1 部带有装饰的浅色智能手机。
+
+文字叠加（共 6 处）：1. 左上角标题 Logo，显示 {argument name="title logo text" default="負けヒロインが多すぎる!"}，下方带有小型罗马音/英文副标题；2. 蓝发女孩附近的手写白色对话，内容为 {argument name="heroine speech" default="やっぱ 私は負けヒロインなんだよね〜"}，并带有弯曲箭头；3. 男生附近的小型白色内心独白，内容为 {argument name="boy thought" default="また始まった…"}；4. 男生身后墙上的垂直海报，带有日文标语及英文副标题“Too Many Losing Heroines!”；5. 右上角的手写白色标语，内容为 {argument name="upper right slogan" default="それでも、好きな気持ちは、きっと、負けじゃない。"}；6. 酒红发女孩附近的小型手写白色文字，意为她假装没注意到，并带有虚线和弯曲箭头。
+
+视觉风格：高质量日本动画电影剧照，精致的线条，自然的皮肤阴影，富有表现力的眼睛，微妙的腮红，充满氛围感的教室光影，窗户处有轻微的光晕，柔和的蓝色与灰色与女主角鲜艳的蓝发及酒红发女孩的发色形成对比。添加海报设计风格的排版和融入场景的手写标注图形。
+
+约束：除上述 6 项外，不得添加额外角色、额外课桌物品或额外文字元素。确保所有文字清晰可辨，但在适当位置保持自然的手写感。禁止添加水印，禁止写实风格，禁止 3D 渲染。
+
+[English]
+Goal: Create a cinematic anime key visual for a romantic school comedy titled {argument name="series title" default="負けヒロインが多すぎる!"}, with a melancholy but funny classroom atmosphere and polished feature-film lighting.
+
+Canvas: Wide 16:9 horizontal frame, 1200×675 style composition, soft depth of field, cool daylight entering from large classroom windows. Use a realistic modern Japanese high school classroom with concrete pillars, window frames, city buildings and pale blue sky outside.
+
+Layout: Place exactly 3 students around a classroom table. Foreground left is the main heroine, largest in frame, leaning on one hand and smiling with a teasing, slightly lovesick expression. Center is a schoolboy sitting behind her, looking uneasy and awkward with a small sweat drop. Right is a second girl, smaller and partly isolated, sitting behind a dark school bag while hiding her mouth behind a pale smartphone, looking jealous or indifferent. Keep the desk edge across the bottom foreground.
+
+Characters: The main heroine has long messy deep blue hair, blue eyes, rosy cheeks, a white short-sleeve school shirt, and a blue ribbon with a small yellow ornament; she rests her cheek on her hand and looks toward the viewer with a smug smile. The boy has short dark brown hair, a white school shirt, green necktie, and a worried sideways glance. The right-side girl has short burgundy bobbed hair with two small yellow hairpins, a white school shirt, and narrowed eyes above her phone.
+
+Visible objects, exactly 5 on the desk: 1 pink lunchbox in front of the blue-haired girl, 1 crumpled pink-and-white cloth or napkin, 1 small pink yogurt drink carton labeled in Japanese with a strawberry graphic, 1 large dark navy school bag in front of the burgundy-haired girl, and 1 pale decorated smartphone held by the burgundy-haired girl.
+
+Text overlays, exactly 6 distinct text elements: 1 top-left title logo reading {argument name="title logo text" default="負けヒロインが多すぎる!"} with small romanized/English subtitle beneath it, 2 handwritten white speech near the blue-haired girl reading {argument name="heroine speech" default="やっぱ 私は負けヒロインなんだよね〜"} with a curved arrow, 3 small white thought text near the boy reading {argument name="boy thought" default="また始まった…"}, 4 vertical wall poster behind the boy with Japanese slogan and the English subtitle “Too Many Losing Heroines!”, 5 handwritten white slogan in the upper-right corner reading {argument name="upper right slogan" default="それでも、好きな気持ちは、きっと、負けじゃない。"}, and 6 small handwritten white text near the burgundy-haired girl meaning she is pretending not to notice, with a dotted line and curved arrow.
+
+Visual style: High-quality Japanese anime film still, delicate line art, natural skin shading, expressive eyes, subtle blush, atmospheric classroom lighting, slight bloom on windows, muted blues and grays contrasted with the heroine’s vivid blue hair and the burgundy-haired girl’s hair. Add poster-design typography and handwritten annotation graphics integrated into the scene.
+
+Constraints: Do not add extra characters, extra desk objects, or extra text elements beyond the six listed. Keep all text legible but naturally hand-drawn where appropriate. No watermark, no photorealism, no 3D render.
+```
+
+**来源：** [@naisute](https://x.com/nAI_station/status/2090276271297286271) | 2026-08-20
+
+---
+
+### 🏷️ 例 6585：高山峡谷第一人称视角肖像
+
+![高山峡谷第一人称视角肖像](../images/%E9%AB%98%E5%B1%B1%E5%B3%A1%E8%B0%B7%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0%E8%A7%86%E8%A7%92%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+广角第一人称 POV 户外摄影：{argument name="subject" default="参考图中的同一位年轻女性"}，保留其面部特征和整体外貌，正仰卧在 {argument name="setting" default="郁郁葱葱的高山峡谷"} 中，周围是生机勃勃的绿草、零星的岩石和高耸崎岖的山脉。她头上戴着 {argument name="outfit detail" default="白色佩斯利花纹头巾"}，身穿一件宽松的浅灰色短袖 T 恤和蓝色运动短裤。一个不锈钢水瓶和一根登山杖自然地放在她身边。相机位置较低，贴近地面，营造出一种沉浸式的广角视角，展现她看向周围风景的视野。远处是雄伟的岩石山峰，天空是浓郁的夏日湛蓝，点缀着大朵柔软的白云，温暖的阳光透过云隙洒下。自然日光，真实的户外纹理，逼真的皮肤和织物细节，电影级景深，鲜艳而自然的夏日色彩，超写实，高细节，8K。
+
+[English]
+Wide-angle first-person POV outdoor photograph: The {argument name="subject" default="same young woman from the reference image"}, preserving her facial identity and overall appearance, is relaxing on her back in a {argument name="setting" default="lush alpine valley"} surrounded by vivid green grass, scattered rocks, and towering rugged mountain formations. She wears a {argument name="outfit detail" default="white paisley bandana-style scarf"} over her head, a relaxed light-gray short-sleeve T-shirt, and blue athletic shorts. A metallic stainless-steel water bottle and a hiking pole rest naturally beside her. The camera is positioned low near ground level, creating an immersive wide-angle perspective as she looks toward the surrounding scenery. Dramatic rocky peaks dominate the distance beneath a rich blue summer sky filled with large soft white clouds, with warm sunlight glowing through gaps in the clouds. Natural daylight, authentic outdoor textures, realistic skin and fabric detail, cinematic depth, vibrant yet natural summer colors, ultra-photorealistic, highly detailed, 8K.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2090268481698832535) | 2026-08-20
+
+---
+

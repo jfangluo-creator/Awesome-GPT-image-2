@@ -18619,3 +18619,87 @@ Create a dynamic vertical anime street-art illustration of {argument name="chara
 
 ---
 
+### 🎨 例 6524：京都回忆软木板拼贴画
+
+![京都回忆软木板拼贴画](../images/%E4%BA%AC%E9%83%BD%E5%9B%9E%E5%BF%86%E8%BD%AF%E6%9C%A8%E6%9D%BF%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个怀旧的京都旅行记忆软木板拼贴画，标题为 {argument name="headline text" default="Kyoto Memories"}，呈现出如同将真实的纸质纪念品钉在木框内的质感。
+
+画布：垂直 4:5 图像，温暖昏暗的博物馆式灯光，带有深色木框的写实软木板背景，柔和的阴影，古董米色纸张纹理，撕裂的边缘，美纹纸胶带，黄铜图钉和长尾夹。整体氛围温馨、手工感强、略带深褐色调和秋意。
+
+布局：在软木板上排列 12 个主要的钉住或粘贴物品，自然重叠：
+1. 左上角一张小型油画风格明信片，描绘黄昏时分发光的京都神社建筑，用一枚黄铜图钉固定。
+2. 顶部中央一条撕裂的手工标题纸条，用优雅的手写体写着“Kyoto Memories”，下方有红色下划线，并盖有一个小小的红枫叶印章。
+3. 右上角一张用小型黄铜长尾夹夹住的公交车票，上面写着“KYOTO CITY BUS / ONE-DAY PASS”、日文文本、日期“24.11.08”和“¥700”，并配有一个简单的公交车图标。
+4. 中央一张大型风景油画明信片，内容为 {argument name="main landmark" default="Fushimi Inari Taisha endless red torii gates"}，展示了一条穿过无数朱红色鸟居的石径，森林植被，灯笼光影，以及点彩画法的纹理；用两枚黄铜图钉固定。
+5. 左中位置一张撕裂的便签，上面有手写的英文文本：“Fushimi Inari Taisha / endless gates, / quiet woods, / fox messengers. / 2024.11.08”。
+6. 右中位置一张垂直撕裂的和纸便签，上面有日文书法诗句，底部附近有一个红色印章。
+7. 左下角一张折叠的京都地图，用红圈标出了岚山 (Arashiyama)、金阁寺 (Kinkakuji)、祇园 (Gion) 和伏见稻荷 (Fushimi Inari)；部分被一片红枫叶和一片黄银杏叶覆盖。
+8. 左下角一张茶屋收据，标有“OMATCHA TEA HOUSE”，配有少量日文文本、“MATCHA SET ¥880”、“WAGASHI ¥380”以及总计“¥1,260”。
+9. 下方中央一张小型油画风格明信片，描绘了一条挂满红灯笼的静谧神社小径，顶部固定。
+10. 右下方中央一张小型油画风格明信片，描绘了一尊在神社戴着红围兜的狐狸雕像，顶部固定。
+11. 右下角一张神社入场券，写着“SHRINE ENTRY”、“ADULT”、“¥500”、日期“24.11.08”及票号，用一枚黄铜图钉固定在顶部附近。
+12. 右下角一张油画风格明信片，内容为 {argument name="secondary landmark" default="Kinkaku-ji Golden Pavilion"} 在水中的倒影，背景是深色的树木和柔和的金色高光。
+
+其他零散物品：添加 3 片秋叶：地图上覆盖一片红枫叶，茶屋收据附近一片黄银杏叶，手写便签下方盖有一个小的红枫叶图案。在右下角添加 1 个小型织物旅行护身符挂件，用红白绳系住，上面有类似旅行护身符的日式字符。
+
+视觉风格：明信片应看起来像厚涂油画或水粉画，具有明显的点彩笔触、丰富但柔和的秋季色彩、粗糙的手工纸边缘，没有现代的光泽感。使用温暖的琥珀色高光、深森林绿、朱红色、棕褐色纸张、黄铜图钉和深胡桃木色。
+
+文本内容：保持标题“Kyoto Memories”醒目且清晰。在手写笔记或票据显示日期的地方使用日期 {argument name="travel date" default="2024.11.08"}。在票据和便签上包含雅致的小型日文文本，但不要使画面过于拥挤。
+
+约束条件：照片级真实的物理拼贴画，而非平面图形设计。保留 12 个钉住/粘贴的纸质物品和 3 片秋叶的精确数量。没有人像，没有现代设备，没有水印，没有额外的标题，没有干净的数字 UI 元素。
+
+[English]
+Goal: Create a nostalgic Kyoto travel memory corkboard collage titled {argument name="headline text" default="Kyoto Memories"}, as if made from real paper souvenirs pinned inside a wooden frame.
+
+Canvas: Vertical 4:5 image, warm dim museum-like lighting, realistic corkboard background with a dark wooden frame, soft shadows, antique beige paper textures, torn edges, masking tape, brass pushpins, and binder clips. Overall mood is cozy, handmade, slightly sepia, and autumnal.
+
+Layout: Arrange exactly 12 main pinned or taped items on the corkboard, overlapping naturally:
+1. Top-left small painterly postcard of a glowing Kyoto shrine building at dusk, pinned with one brass tack.
+2. Top-center torn handmade title strip reading “Kyoto Memories” in elegant handwritten script, underlined in red, with a small red maple leaf stamp.
+3. Top-right bus pass ticket clipped with a small brass binder clip, reading “KYOTO CITY BUS / ONE-DAY PASS,” Japanese text, date “24.11.08,” and “¥700,” with a simple bus icon.
+4. Center large landscape painting postcard of {argument name="main landmark" default="Fushimi Inari Taisha endless red torii gates"}, showing a stone path receding through many vermilion gates, forest foliage, lantern glow, and textured pointillist brushwork; secure it with two brass tacks.
+5. Left-middle torn note with handwritten English text: “Fushimi Inari Taisha / endless gates, / quiet woods, / fox messengers. / 2024.11.08”.
+6. Right-middle vertical torn washi note with Japanese calligraphy poem and a small red seal stamp near the bottom.
+7. Lower-left folded Kyoto map with red circled destinations labeled Arashiyama, Kinkakuji, Gion, and Fushimi Inari; partially overlapped by a red maple leaf and a yellow ginkgo leaf.
+8. Bottom-left tea house receipt labeled “OMATCHA TEA HOUSE,” with small Japanese text, “MATCHA SET ¥880,” “WAGASHI ¥380,” and total “¥1,260”.
+9. Lower-center small painterly postcard of a quiet shrine walkway lined with red lanterns, pinned at the top.
+10. Lower-right-center small painterly postcard of a fox statue wearing a red bib at a shrine, pinned at the top.
+11. Right-lower shrine entry ticket reading “SHRINE ENTRY,” “ADULT,” “¥500,” date “24.11.08,” and ticket number, pinned near the top with a brass tack.
+12. Bottom-right painterly postcard of {argument name="secondary landmark" default="Kinkaku-ji Golden Pavilion"} reflected in water, with dark trees and muted golden highlights.
+
+Additional loose objects: Add exactly 3 autumn leaves: one red maple leaf over the map, one yellow ginkgo leaf near the tea receipt, and one small red maple motif stamped on the lower handwritten note. Add exactly 1 small fabric travel charm tag at the bottom-right corner, tied with a red-and-white cord, with Japanese-style characters suggesting a travel amulet.
+
+Visual style: The postcards should look like thick impasto oil or gouache paintings with visible stippled brush marks, rich but muted autumn colors, rough handmade paper borders, and no glossy modern finish. Use warm amber highlights, deep forest greens, vermilion reds, tan paper, brass pins, and dark walnut wood.
+
+Text content: Keep the headline “Kyoto Memories” prominent and legible. Use the date {argument name="travel date" default="2024.11.08"} where handwritten notes or tickets show a date. Include tasteful small Japanese text on tickets and notes, but do not overcrowd the image.
+
+Constraints: Photorealistic physical collage, not a flat graphic design. Preserve the exact count of 12 pinned/taped paper items and 3 autumn leaves. No people, no modern devices, no watermark, no extra headline, no clean digital UI elements.
+```
+
+**来源：** [@シス猫 (sysCat) @無色で無職なネコ (no-color, no-job)](https://x.com/sysCat64/status/2090574956245782764) | 2026-08-20
+
+---
+
+### 🎨 例 6541：地球上的巨型圆环
+
+![地球上的巨型圆环](../images/%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%E5%B7%A8%E5%9E%8B%E5%9C%86%E7%8E%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个名为 {argument name="title concept" default="地球上的圆环"} 的电影级科幻景观：地平线上矗立着一个巨大的垂直圆环巨型结构，它坐落于广阔的草地上，其规模之大，使山脉相形见绌，并占据了整个天空。圆环是一个单一的连续圆形带，透视上略微倾斜，由风化的灰色金属和类似混凝土的面板构成，带有复杂的工业接缝、分层装甲板、隐约可见的窗户、外露的结构肋条，以及右侧一个清晰可见的圆形机械对接模块。圆环的底部边缘消失在靠近地面的大气雾气中，暗示了其不可思议的尺度。前景：一片宁静潮湿的草地，长满野草、小花，散布着深色岩石，下方中心有一个浅浅的反射池塘，柔和地映照着天空。中景：起伏的绿色原野、低矮的山丘、细小的水道和远处的山脉轮廓，右侧远处有几座雪峰。背景：淡蓝色的天空伴有柔和的云朵，左侧有温暖的低角度阳光，圆环周围环绕着薄雾和体积光。风格：超细节写实概念艺术、史诗级规模、自然光影、柔和的绿色与蓝灰色调、柔和的金色高光、宁静而令人敬畏的氛围、4:5 垂直构图、广角镜头感、高动态范围、细腻的胶片颗粒感。约束条件：无人、无车辆、无文字、无标志、无水印；保留且仅保留一个巨大的圆环结构和一个前景池塘。
+
+[English]
+Create a cinematic science-fiction landscape titled {argument name="title concept" default="The Ring on Earth"}: a colossal vertical ring megastructure standing on the horizon in a vast grassy plain, so enormous it dwarfs mountains and dominates the sky. The ring is a single continuous circular band, slightly tilted in perspective, made of weathered gray metal and concrete-like panels with intricate industrial seams, layered armor plates, faint windows, exposed structural ribs, and one visible circular mechanical docking module on the right side. The bottom edges of the ring disappear into atmospheric haze near the ground, suggesting impossible scale. Foreground: a quiet wet meadow with wild grasses, small flowers, scattered dark rocks, and a shallow reflective pond occupying the lower center, mirroring the sky softly. Midground: rolling green fields, low hills, tiny waterways, and distant mountain silhouettes, with a few snowy peaks far right. Background: pale blue sky with soft clouds, warm low-angle sunlight from the left, mist and volumetric haze around the ring. Style: ultra-detailed photorealistic concept art, epic scale, naturalistic lighting, muted greens and blue-grays, soft golden highlights, serene yet awe-inspiring mood, 4:5 vertical composition, wide-angle lens feel, high dynamic range, subtle film grain. Constraints: no people, no vehicles, no text, no logo, no watermark; keep exactly one giant ring structure and one foreground pond.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090432903713058989) | 2026-08-20
+
+---
+

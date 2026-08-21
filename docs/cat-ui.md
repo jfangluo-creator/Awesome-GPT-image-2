@@ -13534,3 +13534,245 @@ A cinematic, realistic short video of a stylish young woman with long wavy brown
 
 ---
 
+### 🖥️ 例 6527：Q 版战术警察少女（带光环）
+
+![Q 版战术警察少女（带光环）](../images/Q%20%E7%89%88%E6%88%98%E6%9C%AF%E8%AD%A6%E5%AF%9F%E5%B0%91%E5%A5%B3%EF%BC%88%E5%B8%A6%E5%85%89%E7%8E%AF%EF%BC%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在透明感的黑色背景上创建一个全身 Q 版动漫角色贴纸：一位严肃的年轻女性战术警察，拥有大头小身的比例，以自信的重心偏移姿势站立。她留着 {argument name="hair color" default="短款亮黑"} 波波头，厚重的刘海遮住了左眼，露出一只柔和的灰紫色眼睛，皮肤白皙，表情中性且略带严厉。在她的头顶上方添加一个发光的未来感光环：一个纤细且发着蓝白光的椭圆形环，带有断裂的弧形片段，并在环的右前方有一个明亮的星形十字光斑。服装：敞开的深蓝色警察夹克、浅蓝色衬衫、黑色领带、深蓝色战术裤、带银色扣的黑色腰带、黑色手套和黑色系带作战靴。包含 8 个清晰可见的警察/战术配件和徽章：衬衫上 1 枚金色胸章、夹克袖子上 1 个肩章、上臂 1 个浅色反光臂章、肩部附近夹着 1 个带天线和螺旋电缆的手持对讲机、右臀部 1 个腰带包、左腿 1 个大型大腿枪套、左大腿 1 个绑带式腿包，以及右大腿 1 个工装口袋。采用精致的高质量日本扭蛋游戏 Q 版艺术风格，线条清晰，柔和的赛璐珞阴影，光泽感发丝高光，微妙的布料褶皱，紧凑的比例，以及适合透明 PNG 贴纸的利落边缘。角色垂直居中，光环和靴子周围留有少量边距，无文字，无水印，无额外字符，无背景。
+
+[English]
+Create a full-body chibi anime character sticker on a transparent-looking black background: a serious young female tactical police officer with an oversized head and small body, standing in a confident contrapposto pose. She has {argument name="hair color" default="short glossy black"} bob-cut hair with heavy bangs covering her left eye, one visible muted gray-violet eye, pale skin, and a neutral slightly stern expression. Add a luminous futuristic halo above her head: a thin glowing blue-white elliptical ring with broken arc segments and one bright star-like cross flare at the front-right of the ring. Outfit: navy police jacket worn open, light blue button-up uniform shirt, black necktie, dark navy tactical pants, black belt with silver buckle, black gloves, and black lace-up combat boots. Include exactly 8 visible police/tactical accessories and insignia: 1 gold chest badge on the shirt, 1 shoulder patch on the jacket sleeve, 1 pale reflective armband on the upper arm, 1 handheld radio clipped near the shoulder with an antenna and coiled cable, 1 belt pouch on the right hip, 1 large thigh holster on the left leg, 1 strapped thigh pouch on the left thigh, and 1 cargo pocket on the right thigh. Use polished high-quality Japanese gacha-game chibi art, clean linework, soft cel shading, glossy hair highlights, subtle fabric folds, compact proportions, and crisp edges suitable for a transparent PNG sticker. Center the character vertically, leave a small margin around the halo and boots, no text, no watermark, no extra characters, no scenery.
+```
+
+**来源：** [@ブラックネオンテトラ🖥️AIイラスト](https://x.com/Hyper_Gildaria/status/2090550480665723109) | 2026-08-20
+
+---
+
+### 🖥️ 例 6528：超现实美食奇幻微缩世界
+
+![超现实美食奇幻微缩世界](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%BE%8E%E9%A3%9F%E5%A5%87%E5%B9%BB%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位微型厨师站在岩石峡谷的边缘，将 {argument name="liquid" default="辛辣的绿色 pani"} 倒入流动的河流中，而 {argument name="food structure" default="巨大的酥脆 pani puri 外壳"} 则像金色的洞穴一样在他周围拔地而起。
+
+[English]
+A tiny chef stands on the edge of a rocky canyon, pouring {argument name="liquid" default="spicy green pani"} into a flowing river, while {argument name="food structure" default="enormous crispy pani puri shells"} rise around him like golden caves.
+```
+
+**来源：** [@AI Creators Daily](https://x.com/AICreatorsDaily/status/2090536907721629747) | 2026-08-20
+
+---
+
+### 🖥️ 例 6529：时尚男士杂志大片人像
+
+![时尚男士杂志大片人像](../images/%E6%97%B6%E5%B0%9A%E7%94%B7%E5%A3%AB%E6%9D%82%E5%BF%97%E5%A4%A7%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚男士 {argument name="outfit" default="一身干练的纯黑装束"} 在纯黑背景前自信地摆出姿势。他身穿定制黑色西装，黑色衬衫领口微敞，佩戴着 {argument name="accessories" default="一条精致的金链，戴着金色墨镜"}，留着修剪整齐的胡须，散发着魅力与神秘感。左腕上的奢华腕表闪烁着光泽，戏剧性的灯光突显了他的面部轮廓并投下柔和的阴影，营造出大胆且极具高级感的时尚大片视觉效果。
+
+[English]
+A stylish man {argument name="outfit" default="a sleek, all-black outfit"} poses confidently against a pitch-black background. He wears a tailored black suit, a black shirt with the top buttons open, and a {argument name="accessories" default="subtle gold chain around his neck, he sports golden sunglasses"} and a well-groomed beard, exuding charisma and mystery A luxury wristwatch glint on his left wrist, the lighting is dramatic, highlighting his facial features and casting soft shas, creating a bold, high -fashion editorial look
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2090530939189514391) | 2026-08-20
+
+---
+
+### 🖥️ 例 6533：深色模式 AI 人像结果卡片
+
+![深色模式 AI 人像结果卡片](../images/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20AI%20%E4%BA%BA%E5%83%8F%E7%BB%93%E6%9E%9C%E5%8D%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的移动端应用截图，展示深色模式下的 AI 图像生成结果卡片，呈现柔和的复古中式人像及周围界面。
+
+画布：垂直智能手机截图，比例约为 9:16。使用深炭褐色应用背景，搭配圆角卡片和精致边框。主要内容居中，留有充足边距。
+
+主要生成图像：在卡片顶部放置一张带有圆角的正方形大图。人像描述为 {argument name="character description" default="一位美丽的年轻女子，身着淡绿色和粉色汉服，佩戴荷花发饰，黑色蓬松盘发，精致的垂坠首饰，表情柔和忧郁，正面半身特写"}。人像风格应呈现空灵、治愈、复古、淡雅水粉画质感，配以柔和的漫射日光、发光发丝、半透明织物、纯白背景、淡彩荷花、朦胧氛围、浅景深以及精致优雅的意境。人像中需包含 3 个清晰可见的植物/环境细节：左侧前景的荷花、右侧发间的淡色花朵发饰，以及右侧背景中的小型茶几或花瓶细节。
+
+图像下方的文本块：添加一段左对齐的中文提示词预览，白色文字，约占三行，以省略号结尾。请使用以下确切的可见文本：{argument name="prompt preview text" default="生成图片。人像全身图，朦胧治愈感，水粉画质感，治愈系，复古，纯白背景。华丽淡绿色与粉色襦裙女子，蓬松发髻，荷花头饰，正面近景头部特写。文静优雅，发丝发光，泛光，朦胧，..."}。在其下方放置一个较小的下划线样式中文链接，文字为 {argument name="expand link text" default="展开更多"}。
+
+元数据行：在提示词预览下方，显示一行元数据，左侧为模型名称 {argument name="model label" default="MAI-Image-2.6"}，旁边为日期 {argument name="date label" default="8月20日"}。在同一行的右侧，包含 4 个轮廓操作图标：点赞、点踩、分享箭头和垂直三点菜单。
+
+底部控件：在底部并排添加 2 个带有小间距的大型圆角矩形灰色按钮。左侧按钮文字为“编辑此图片”；右侧按钮文字为“创建新图片”。
+
+视觉风格：使 UI 看起来像真实的移动端应用截图，界面简洁且略显紧凑，采用清晰的白色和灰色字体。人像应比周围界面更亮，呈现梦幻般的淡彩光影和细腻逼真的面部渲染。无额外面板，无水印，无浏览器边框。
+
+[English]
+Goal: Create a realistic mobile app screenshot showing an AI image generation result card in dark mode, featuring a soft vintage Chinese-style portrait and the surrounding interface.
+
+Canvas: Vertical smartphone screenshot, approximately 9:16 ratio. Use a dark charcoal brown app background with rounded card edges and subtle borders. The main content is centered with generous margins.
+
+Main generated image: At the top of the card, place one large square portrait image with slightly rounded corners. The portrait shows {argument name="character description" default="a beautiful young woman in pale green and pink Hanfu, lotus-flower hair ornaments, loose black updo, delicate dangling jewelry, soft melancholic expression, facing forward in a close-up half-body composition"}. Style the portrait as ethereal, therapeutic, vintage, pale watercolor-like, with soft diffused daylight, glowing hair strands, translucent fabric, pure white background, pastel lotus blossoms, misty atmosphere, shallow depth of field, and a refined elegant mood. Include exactly 3 visible floral/environment details in the portrait: lotus flowers on the left foreground, a pale blossom hair ornament on the right side of her hair, and a small tea table or vase detail on the right background.
+
+Text block under image: Add a Chinese prompt preview in white text, left aligned, spanning about three lines, ending with an ellipsis. Use this exact visible text: {argument name="prompt preview text" default="生成图片。人像全身图，朦胧治愈感，水粉画质感，治愈系，复古，纯白背景。华丽淡绿色与粉色襦裙女子，蓬松发髻，荷花头饰，正面近景头部特写。文静优雅，发丝发光，泛光，朦胧，..."}. Below it, place a smaller underlined-style Chinese link reading {argument name="expand link text" default="展开更多"}.
+
+Metadata row: Under the prompt preview, show one metadata row with the model name {argument name="model label" default="MAI-Image-2.6"} on the left and the date {argument name="date label" default="8月20日"} beside it. On the right side of the same row, include exactly 4 outline action icons: thumbs up, thumbs down, share arrow, and vertical three-dot menu.
+
+Bottom controls: Add exactly 2 large rounded rectangular gray buttons at the bottom, side by side with a small gap. The left button says “Edit this image”; the right button says “Create a new image”.
+
+Visual style: Make the UI look like a real mobile app screenshot, clean and slightly compressed, with crisp white and gray typography. The portrait should be much brighter than the surrounding interface, with dreamy pastel lighting and delicate realistic facial rendering. No extra panels, no watermark, no browser chrome.
+```
+
+**来源：** [@0xMomo](https://x.com/0xmomonifty/status/2090463143374012584) | 2026-08-20
+
+---
+
+### 🖥️ 例 6539：AgentBoard SaaS 落地页与仪表盘 UI
+
+![AgentBoard SaaS 落地页与仪表盘 UI](../images/AgentBoard%20SaaS%20%E8%90%BD%E5%9C%B0%E9%A1%B5%E4%B8%8E%E4%BB%AA%E8%A1%A8%E7%9B%98%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="product name" default="AgentBoard"} 的 AI Agent 协作平台创建一张精致的 SaaS 产品探索图，在暖米色背景上并排展示两个大型 Web UI 界面：左侧为营销落地页，右侧为产品仪表盘。采用精致的初创公司设计风格，运用柔和阴影、圆角卡片、纤细的灰色分割线、充足的留白、柔和的森林绿点缀，落地页标题使用黑色衬线字体，UI 文本使用简洁的无衬线字体。
+
+画布：宽屏 4:3 构图，约 1200×900 像素。放置两个带有圆角和细微投影的高大浏览器面板，中间由窄间距隔开。背景为带有淡淡纹理和极柔和暗角的浅奶油色。
+
+左侧屏幕，营销落地页：顶部导航栏左侧为“AgentBoard”标志文本，居中放置 4 个导航链接：Product、Solutions、Resources、Pricing，右侧为 Log in 和深绿色的“Start for free”按钮。首屏区域包含一个小型胶囊标签“AI-NATIVE WORKSPACE”，一个三行大标题“One board. Many agents. Real outcomes.”（其中“Real outcomes.”为斜体且呈绿色），副标题“Plan, build, and ship work—together.”，以及 2 个 CTA 按钮：深绿色“Start for free”和浅色轮廓“Book a demo”。在标题右侧，展示一个等距视角的工作流项目，包含 5 个连接的 Agent 卡片：Research Agent、Strategy Agent、Content Agent、Design Agent 和 Data Agent，通过带有“Done”和“In progress”等小型状态标签的曲线连接线相连。下方包含 4 个指标磁贴：“2.4M+ Tasks automated”、“180K+ Agents this month”、“98.6% On-time”和“4.9★ User rating”。在指标下方，包含一行“Connects with the tools you use”，展示 7 个集成图标/按钮：Slack、Notion、GitHub、Figma、Google Drive、HubSpot 和“+ More”。添加一个包含圆形女性头像的评价模块，引用语为“AgentBoard gives us complete visibility and keeps our team aligned.”，署名为 Sarah Chen，Head of Product, Northline。底部包含 4 个带有微型线性图标的功能简介：Visual workspace、Multi-agent collaboration、Real-time progress 和 Secure & governed。
+
+右侧屏幕，产品仪表盘：创建一个紧凑而优雅的 Web 应用界面。顶部应用栏左侧显示“AgentBoard”，主标签页为 Workspace、Agents、Integrations、Data、Reports，外加一个 Invite 按钮、一行 5 个小型用户头像、“+3”徽章以及一个下拉箭头。左侧边栏为“Acme Inc.”工作空间，包含 11 个导航项：Home、Inbox（带 8 徽章）、Boards、Agents、Workflows、Data、Reports、Integrations、Settings、Help 和 Collapse。主页面标题为 {argument name="dashboard title" default="Q2 Go-to-Market Launch"}，带有一个绿色的“Live”胶囊标签，副标题为“Coordinating agents across research, strategy, content, design, and ops.”。包含 Share 按钮和深绿色的 Add agent 按钮。
+
+仪表盘内容：在标题下方，显示 4 个标签页：Board、Progress、Outputs、Activity，当前选中 Board。主项目画布包含 6 个从左到右排列并由曲线连接线相连的工作流卡片：Research Agent “Market & audience research” (Done)；Data Agent “Performance analysis” (Done)；Strategy Agent “Go-to-market plan” (In progress)；Content Agent “Messaging & content framework” (In progress)；Design Agent “Creative concepts & brand” (In progress)；Ops Agent “Launch readiness & checklist” (In progress)；以及作为第七个端点的 Analytics Agent “Performance forecast” (Queued)。在右上角包含小型项目控件：搜索图标、布局图标、适配图标、缩放“100%”以及下拉菜单。
+
+在项目下方，添加一个 KPI 条，包含 5 个项目：Live progress 72%（带绿色进度条）、9 Active agents、24 Tasks running、156 Tasks completed、92% On-time，以及一个“View all runs”按钮。添加一个 Recent outputs 部分，包含 4 个文档卡片：GTM Strategy Brief、Messaging Framework、Creative Concepts 和 Performance Forecast，每个卡片带有小型预览缩略图和更新时间。添加一个 Recent runs 表格，包含 5 行：Q2 Go-to-Market Launch、Customer Onboarding Revamp、Pricing Strategy Analysis、Brand Refresh Campaign 和 Enterprise Sales Playbook；包含微型 Agent 头像组、彩色状态标签、开始时间和持续时间。底部包含一个 Composer 输入栏，占位符为“What would you like the agents to work on?”，带有 Attach 和 Add context 按钮、“All agents”下拉菜单以及一个绿色发送按钮。
+
+视觉风格：高端极简产品模型，真实的 UI 比例，清晰的矢量级渲染，尽可能保持微小但可读的界面文本，细微的点状背景纹理，浅米色卡片，绿色状态指示器，精细的连接线，现代化的 SaaS 编辑风格，适合产品设计探索推文。
+
+约束：使用 2 个主屏幕，落地页首屏使用 5 个 Agent 卡片，4 个指标磁贴，7 个集成图标，4 个底部功能简介，11 个侧边栏项目，4 个仪表盘标签页，仪表盘项目上使用 6 个工作流 Agent 卡片外加一个排队状态的 Analytics 卡片作为第七个端点，5 个 KPI 项目，4 个输出卡片，以及 5 行表格数据。除描述的 UI 外，不得添加额外的面板、水印、浏览器边框或装饰性文本。
+
+[English]
+Goal: Create a polished editorial SaaS product exploration image for an AI agent collaboration platform called {argument name="product name" default="AgentBoard"}, showing two large web UI screens side by side on a warm off-white background: a marketing landing page on the left and the product dashboard on the right. Use refined startup design, soft shadows, rounded cards, thin gray dividers, lots of whitespace, muted forest-green accents, black serif display typography for the landing headline, and small clean sans-serif UI text.
+
+Canvas: Wide 4:3 composition, approximately 1200×900. Place two tall browser-like panels with rounded corners and subtle drop shadows, separated by a narrow gutter. Background is light cream with faint grain and very soft vignette.
+
+Left screen, marketing landing page: Top navigation bar with the logo text “AgentBoard” at top left, 4 centered nav links labeled Product, Solutions, Resources, Pricing, then Log in and a dark green “Start for free” button on the right. Hero area has a small pill label “AI-NATIVE WORKSPACE”, a large three-line headline reading “One board. Many agents. Real outcomes.” with “Real outcomes.” italic and green, supporting line “Plan, build, and ship work—together.”, and 2 CTA buttons: dark green “Start for free” and light outlined “Book a demo”. To the right of the hero text, show an isometric workflow board with exactly 5 connected agent cards: Research Agent, Strategy Agent, Content Agent, Design Agent, and Data Agent, linked by curved connector lines with small status chips such as Done and In progress. Below, include exactly 4 metric tiles: “2.4M+ Tasks automated”, “180K+ Agents this month”, “98.6% On-time”, and “4.9★ User rating”. Under the metrics, include a row labeled “Connects with the tools you use” with exactly 7 integration icons/buttons: Slack, Notion, GitHub, Figma, Google Drive, HubSpot, and “+ More”. Add a testimonial block with a circular female headshot and the quote “AgentBoard gives us complete visibility and keeps our team aligned.” credited to Sarah Chen, Head of Product, Northline. At the bottom, include exactly 4 feature blurbs with tiny line icons: Visual workspace, Multi-agent collaboration, Real-time progress, and Secure & governed.
+
+Right screen, product dashboard: Create a dense but elegant web app interface. Top app bar shows “AgentBoard” on the left, main tabs Workspace, Agents, Integrations, Data, Reports, plus an Invite button, a row of 5 small user avatars, a “+3” badge, and a dropdown chevron. Left sidebar for workspace “Acme Inc.” with exactly 11 navigation items: Home, Inbox with an 8 badge, Boards, Agents, Workflows, Data, Reports, Integrations, Settings, Help, and Collapse. Main page title reads {argument name="dashboard title" default="Q2 Go-to-Market Launch"} with a green “Live” pill and subtitle “Coordinating agents across research, strategy, content, design, and ops.” Include Share and dark green Add agent buttons.
+
+Dashboard content: Below the title, show exactly 4 tabs: Board, Progress, Outputs, Activity, with Board active. The main board canvas contains exactly 6 connected workflow cards arranged left-to-right with curved connector lines: Research Agent “Market & audience research” Done; Data Agent “Performance analysis” Done; Strategy Agent “Go-to-market plan” In progress; Content Agent “Messaging & content framework” In progress; Design Agent “Creative concepts & brand” In progress; Ops Agent “Launch readiness & checklist” In progress; Analytics Agent “Performance forecast” Queued. Include small board controls at top right: search icon, layout icon, fit icon, zoom “100%”, and dropdown.
+
+Under the board, add a KPI strip with exactly 5 items: Live progress 72% with green progress bar, 9 Active agents, 24 Tasks running, 156 Tasks completed, and 92% On-time, plus a “View all runs” button. Add a Recent outputs section with exactly 4 document cards: GTM Strategy Brief, Messaging Framework, Creative Concepts, and Performance Forecast, each with a small preview thumbnail and update time. Add a Recent runs table with exactly 5 rows: Q2 Go-to-Market Launch, Customer Onboarding Revamp, Pricing Strategy Analysis, Brand Refresh Campaign, and Enterprise Sales Playbook; include tiny agent avatar clusters, colored status pills, started times, and durations. At the bottom, include a Composer input bar with placeholder “What would you like the agents to work on?”, buttons for Attach and Add context, an “All agents” dropdown, and a green send button.
+
+Visual style: Premium minimal product mockup, realistic UI proportions, crisp vector-like rendering, tiny legible interface text where possible, subtle dotted background texture, pale beige cards, green status indicators, fine connector lines, modern editorial SaaS aesthetic suitable for a product-design exploration tweet.
+
+Constraints: Use exactly 2 main screens, exactly 5 agent cards on the landing hero, exactly 4 metric tiles, exactly 7 integration icons, exactly 4 bottom feature blurbs, exactly 11 sidebar items, exactly 4 dashboard tabs, exactly 6 workflow agent cards on the dashboard board plus the queued Analytics card as the seventh endpoint, exactly 5 KPI items, exactly 4 output cards, and exactly 5 table rows. Do not add extra panels, watermarks, browser chrome, or decorative text beyond the described UI.
+```
+
+**来源：** [@Winter](https://x.com/WinterArc2125/status/2090439525587644721) | 2026-08-20
+
+---
+
+### 🖥️ 例 6546：简约动漫风少女街头穿搭
+
+![简约动漫风少女街头穿搭](../images/%E7%AE%80%E7%BA%A6%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%B0%91%E5%A5%B3%E8%A1%97%E5%A4%B4%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身、精致的动漫风格插画，描绘一位端庄可爱的年轻女性站在安静且阳光明媚的居民区街道上。她位于画面中心，面向观众，带着温柔害羞的微笑，姿态放松，一条腿微微向前，仿佛正迈步走动。角色拥有一头 {argument name="hair color" default="深黑褐色"} 的头发，留着直刘海，两根松散的辫子垂在肩上，皮肤白皙细腻，有着温暖的大棕色眼睛，戴着圆形的细框眼镜。她的穿搭简约低调：一件略显宽松的 {argument name="blouse color" default="白色"} 短袖泡泡袖亨利衫，前襟带有小纽扣，下摆束进高腰及膝的蓝色牛仔 A 字裙中，系着一条带有小扣子的棕色细腰带，穿着白色短袜和黑色低帮帆布鞋，鞋带为白色，鞋底为橡胶底。她左手提着一件配饰：一个带有手柄的小巧亮面 {argument name="handbag color" default="红色"} 手提包。场景设定在干净的铺砌人行道或小巷中，背景是浅色石墙、绿植、树木和柔和的城市建筑。运用明亮的夏日清晨阳光，路面上投射出斑驳的树影，背景呈现柔和的虚化效果，具有真实的景深感，线条细腻，织物褶皱细节丰富，头发和眼镜上有自然的亮光，营造出一种纯真安静的氛围。竖构图，肖像比例，全身可见，从头部到鞋子，无文字，无水印，无额外角色。
+
+[English]
+Create a full-body polished anime-style illustration of a modest cute young woman standing on a quiet sunlit residential street. She is centered in the frame, facing the viewer with a gentle shy smile and relaxed posture, one leg slightly forward as if mid-step. The character has {argument name="hair color" default="dark black-brown"} hair with straight bangs and two loose braids falling over her shoulders, soft fair skin, large warm brown eyes, and round thin-framed glasses. Her outfit is simple and understated: a slightly loose {argument name="blouse color" default="white"} short puff-sleeve henley blouse with small front buttons tucked into a high-waisted knee-length blue denim A-line skirt, a narrow brown belt with a small buckle, white ankle socks, and black low-top canvas sneakers with white laces and rubber soles. She holds exactly one accessory: a small glossy {argument name="handbag color" default="red"} handbag by its handle in her left hand. Set the scene on a clean paved sidewalk or alley lined with pale stone walls, greenery, trees, and soft urban buildings in the background. Use bright summer morning sunlight, leafy dappled shadows on the pavement, soft bokeh in the distant background, realistic depth of field, delicate linework, detailed fabric folds, natural highlights on hair and glasses, and a wholesome quiet atmosphere. Vertical composition, portrait aspect ratio, full body visible from head to shoes, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2090415084866793597) | 2026-08-20
+
+---
+
+### 🖥️ 例 6548：月下中国海景
+
+![月下中国海景](../images/%E6%9C%88%E4%B8%8B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宁静的古典中国水墨风格海景，采用 3:2 横向构图。展现广阔的蓝色月光海洋与烟雨蒙蒙的春江入海口交融，一轮巨大的满月位于地平线右上方，长长的银色波光倒影延伸至前景水面。运用柔和的渲染、细腻的笔触、淡青蓝色的氛围、轻柔的薄雾以及微妙的宣纸纹理。背景包含朦胧的山脉和左侧低矮的海岸线，远方右侧地平线上有隐约的岛屿，月亮周围环绕着层叠的云朵。前景由两处岩石岬角构成：左侧岩石上有一座半掩在淡粉色花丛和垂柳中的传统凉亭，右侧岩石上有另一棵枯枝/垂柳的剪影。包含 6 艘船只：左下中心附近 1 艘前景帆船，左中水域 1 艘较大的渔船，左侧远岸附近 1 艘小船，中央地平线月光路径下 1 艘小船，中心右侧 1 艘小型帆船，以及右中水域 1 艘小型渔船。在左上方添加竖排中文书法，诗句内容为 {argument name="poem text" default="春江潮水连海平\n海上明月共潮生"}，下方附带较小的日期落款和一枚红色印章；在右下角添加另一枚小型红色艺术家印章。整体意境应宁静、诗意、明亮且传统，呈现出宋代风格的精致山水画质感。使用 {argument name="color palette" default="雾蓝色、淡银色、柔青色、柔和水墨灰、淡桃花粉"}，并保持画面的绘画感，而非写实风格。
+
+[English]
+Create a tranquil classical Chinese ink-and-watercolor seascape at night, in a wide horizontal 3:2 composition. Show a vast blue moonlit ocean merging with a misty spring river estuary, with a large full moon slightly right of center above the horizon and a long shimmering silver reflection stretching down the water toward the foreground. Use soft washes, delicate brush texture, pale cyan-blue atmosphere, gentle mist, and subtle rice-paper grain. Include hazy mountain ranges and a low shoreline on the left distance, faint islands on the far right horizon, and layered clouds around the moon. In the foreground, frame the scene with two rocky promontories: left rocks with a small traditional pavilion partly hidden among pale pink blossoms and a drooping willow, and right rocks with another leafless/drooping willow silhouette. Include exactly 6 boats: 1 foreground sailboat near the lower center-left, 1 larger fishing boat in the left-middle water, 1 tiny boat near the left distant shore, 1 tiny boat on the central horizon under the moon path, 1 tiny sailboat right of center, and 1 small fishing boat on the right-middle water. Add vertical Chinese calligraphy in the upper left with the poem text {argument name="poem text" default="春江潮水连海平\n海上明月共潮生"}, plus a smaller dated signature column beneath it and a small red seal; add another small red artist seal in the bottom-right corner. The mood should be serene, poetic, luminous, and traditional, like a refined Song-dynasty-inspired landscape painting. Use {argument name="color palette" default="misty blue, pale silver, soft teal, muted ink gray, faint peach blossom pink"} and keep all details painterly rather than photorealistic.
+```
+
+**来源：** [@Dethink](https://x.com/dethinkai/status/2090397626323886178) | 2026-08-20
+
+---
+
+### 🖥️ 例 6551：高端时尚男性大片
+
+![高端时尚男性大片](../images/%E9%AB%98%E7%AB%AF%E6%97%B6%E5%B0%9A%E7%94%B7%E6%80%A7%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚男士身着利落的 {argument name="outfit style" default="全黑"} 服装，在 {argument name="background" default="纯黑背景"} 前自信地摆出姿势。他穿着剪裁考究的 {argument name="suit color" default="黑色西装"}，黑色衬衫领口微敞，颈间佩戴着一条精致的金色项链。他戴着金色墨镜，留着修剪整齐的胡须，散发出迷人而神秘的气质。左手腕上的奢华腕表闪烁着光芒，戏剧性的灯光突显了他的面部轮廓并投下柔和的阴影，营造出一种大胆的高端时尚大片质感。
+
+[English]
+A stylish man a sleek, {argument name="outfit style" default="all-black"} outfit poses confidently against a {argument name="background" default="pitch-black background"}. He wears a tailored {argument name="suit color" default="black suit"}, a black shirt with the top buttons open, and a subtle gold chain around his neck, he sports golden sunglasses and a well-groomed beard, exuding charisma and mystery A luxury wristwatch glint on his left wrist, the lighting is dramatic, highlighting his facial features and casting soft shas, creating a bold, high -fashion editorial look
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2090383330487550289) | 2026-08-20
+
+---
+
+### 🖥️ 例 6557：Apple 风格 iPhone Fold 着陆页
+
+![Apple 风格 iPhone Fold 着陆页](../images/Apple%20%E9%A3%8E%E6%A0%BC%20iPhone%20Fold%20%E7%9D%80%E9%99%86%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构的 {argument name="product name" default="iPhone Fold"} 创建一个精致的 Apple 风格产品着陆页首屏，展示一款高端折叠屏智能手机，采用极具戏剧性的黑白对比和照片级真实感的设备渲染图。
+
+画布：1:1 正方形网页模型，尺寸约为 850 × 850 像素。精确分为 2 个水平部分：顶部是占据约 58% 画布的深色电影感首屏区域，底部是占据约 42% 的明亮白色设计区域。
+
+顶部区域：使用纯黑色背景，底部带有微妙的蓝紫色光晕。所有排版居中。最上方的小标签文字显示为“iPhone Fold”。下方是巨大的粗体 Apple 风格标题，显示为“{argument name="headline text" default="A new dimension for what’s next."}”，采用白银色渐变字体。标题下方添加一段简短的居中段落：“{argument name="subheadline text" default="iPhone Fold combines the power of iPhone with a beautifully flexible design. A larger canvas. A smarter you."}”。在段落下方放置 2 个胶囊按钮：第一个按钮为白色，黑色文字“Watch the film”，并配有一个小型播放图标；第二个按钮为黑色/深色，带有细白色边框和白色文字“Notify me”。
+
+顶部产品渲染：在按钮下方，展示一台大型、照片级真实的折叠屏 iPhone，以浅 V 型打开，放置在光亮的黑色表面上。设备具有黑色钛金属边缘，底部边缘可见扬声器孔和充电接口，折叠处有中央铰链，圆角设计，内部显示屏为深色，呈现出跨越折叠处的抽象紫蓝色花瓣状光影。使用电影级的轮廓光、高对比度，并在手机下方添加淡淡的倒影。
+
+底部区域：简洁的白色 Apple 产品页面布局。左侧创建一个文本块，带有小标签“Design”，随后是巨大的粗体标题：“{argument name="design headline" default="Opens up new possibilities."}”。添加段落：“A remarkably thin and durable design that folds seamlessly. Crafted with titanium. Built to last.”。下方包含 3 行功能展示，配有极简黑色轮廓图标和两行文字：1) “Titanium frame”，副标题“Strong. Light. Refined.”；2) “Seamless hinge”，副标题“Engineered for a smoother fold.”；3) “Built for everyday”，副标题“Durable inside and out.”。
+
+底部产品渲染：在右侧，展示第二个照片级真实的产品组合：一台处于闭合或半折叠状态的黑色 iPhone Fold 竖立着，左半部分可见背板和三摄模组，右半部分可见前置显示屏。前置显示屏显示时间“9:41”、日期“Tue Apr 1”、小型状态图标以及深蓝紫色抽象壁纸。两部分之间使用垂直铰链，带有柔和的阴影和逼真的玻璃反射效果。
+
+视觉风格：极简奢华的 Apple 发布会美学，类似 San Francisco 的字体，精确的对齐，充足的留白，光亮的黑色钛金属材质，微妙的渐变，逼真的光影，无杂乱元素。
+
+约束条件：必须包含 2 个部分、2 个行动号召按钮、3 行功能展示和 2 个主要产品渲染组合。不要添加导航菜单、除设备背面淡淡的 Apple 标志外的额外标志、水印或无关文字。
+
+[English]
+Goal: Create a polished Apple-style product landing page hero for a fictional {argument name="product name" default="iPhone Fold"}, presenting a premium foldable smartphone with dramatic black-and-white contrast and photorealistic device renders.
+
+Canvas: Square 1:1 web mockup, approximately 850 × 850 px. Split into exactly 2 horizontal sections: a dark cinematic hero section on the top taking about 58% of the canvas, and a bright white design section on the bottom taking about 42%.
+
+Top section: Use a pure black background with subtle blue-purple glow near the bottom. Center all typography. At the very top, small label text reads “iPhone Fold”. Below it, a large bold Apple-like headline reads “{argument name="headline text" default="A new dimension for what’s next."}” in white-to-silver gradient lettering. Under the headline, add a short centered paragraph: “{argument name="subheadline text" default="iPhone Fold combines the power of iPhone with a beautifully flexible design. A larger canvas. A smarter you."}” Place exactly 2 pill buttons below the paragraph: first button is white with black text “Watch the film” plus a small play-circle icon; second button is black/dark with a thin white outline and white text “Notify me”.
+
+Top product render: Beneath the buttons, show one large photorealistic foldable iPhone opened like a shallow V on a glossy black surface. The device has black titanium edges, visible speaker holes and charging port along the lower edges, a central hinge at the fold, rounded corners, and a dark inner display with abstract purple-blue petal-like light shapes mirrored across the fold. Use cinematic rim lighting, high contrast, and a faint reflection below the phone.
+
+Bottom section: Clean white Apple product-page layout. On the left, create a text block with the small label “Design”, then a large bold headline: “{argument name="design headline" default="Opens up new possibilities."}” Add the paragraph: “A remarkably thin and durable design that folds seamlessly. Crafted with titanium. Built to last.” Below it, include exactly 3 feature rows with minimalist black outline icons and two lines of text each: 1) “Titanium frame” with subtext “Strong. Light. Refined.” 2) “Seamless hinge” with subtext “Engineered for a smoother fold.” 3) “Built for everyday” with subtext “Durable inside and out.”
+
+Bottom product render: On the right side, show a second photorealistic product composition: a closed or partially folded black iPhone Fold standing upright, with the rear panel and triple camera cluster visible on the left half and the front display visible on the right half. The front display shows the time “9:41”, small date text “Tue Apr 1”, tiny status icons, and a dark blue-purple abstract wallpaper. Use a vertical hinge between the halves, soft shadows, and realistic glass reflections.
+
+Visual style: Minimal luxury Apple keynote aesthetic, San Francisco-like typography, precise alignment, generous whitespace, glossy black titanium materials, subtle gradients, realistic lighting, no clutter.
+
+Constraints: Include exactly 2 sections, exactly 2 call-to-action buttons, exactly 3 feature rows, and exactly 2 main product render compositions. Do not add navigation menus, extra logos beyond a faint Apple logo on the device back, watermarks, or unrelated text.
+```
+
+**来源：** [@Vidhi](https://x.com/vidhisharmx/status/2090368404423319913) | 2026-08-20
+
+---
+

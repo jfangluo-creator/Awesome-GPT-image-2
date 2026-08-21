@@ -8751,3 +8751,181 @@ Create an epic vertical fantasy battle illustration in a highly detailed anime m
 
 ---
 
+### 🎬 例 6538：企业大堂格斗分镜脚本
+
+![企业大堂格斗分镜脚本](../images/%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%A0%82%E6%A0%BC%E6%96%97%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为企业大堂格斗场景创建一个照片级写实的真人电影分镜联系表，以 3x3 网格形式展示 9 个带编号的电影级画面。
+
+画布：宽屏 16:9 联系表图像，面板间由细白线分隔，每个面板左上角标有 1 到 9 的白色小数字。呈现逼真的电影剧照质感、锐利的动作摄影风格、自然的室内日光，768p 分镜精度。
+
+地点：现代高层企业大堂，配有抛光米色大理石地板、右侧和后方的落地玻璃窗及推拉门、中性石材墙板，以及深色大理石接待台。接待台后方设有公司 Logo 和文字 {argument name="company name" default="HINODE CORPORATION"}。接待员在多个镜头中均保持在接待台后方。
+
+角色：使用 3 个固定角色。角色 1 为 {argument name="female fighter" default="一位年轻的东亚女性，身穿海军蓝商务西装、白色衬衫、红色高跟鞋，留着棕色长马尾，带有松散的刘海"}；她体格健壮，专注且在压力下保持冷静。角色 2 为 {argument name="male attacker" default="一位中年东亚男性，身穿黑色西装、黑色衬衫、黑色皮鞋，深色乱发，戴着黑色墨镜"}；他表现得极具攻击性，且逐渐处于下风。角色 3 为 {argument name="receptionist" default="一位年轻的东亚女性，身穿白色衬衫，站在接待台后"}；她看起来既震惊又恐惧。
+
+逐格布局，共 9 个面板：
+1. 广角定场镜头：男性袭击者背对镜头站在开阔的大堂中，面对几米外窗边的女性格斗者；接待员在接待台后清晰可见。紧张的对峙构图。
+2. 中广角动作镜头：男性袭击者向前猛冲，向女性格斗者挥出一记直拳；她穿着海军蓝西装摆出防御姿态，双拳抬起，双脚分开。
+3. 肩部/侧面动作镜头：女性格斗者转身闪避拳头，马尾辫甩动，神情警觉；袭击者身穿黑色西装的手臂横穿前景。
+4. 特写反应镜头：柜台后的接待员紧张地双手交握在胸前，双眼圆睁，注视着这场格斗。
+5. 中景动作镜头：女性格斗者从后方或侧面锁住并扭转袭击者的手臂，迫使他痛苦地弯腰；她的表情克制而坚定。
+6. 紧凑中景镜头：女性格斗者用手掌击打或推搡袭击者的脸部，压迫他的墨镜和脸颊；他面露痛苦，而她正俯视着他。
+7. 广角动态投掷镜头：女性格斗者执行柔道式的过肩摔或扫腿；袭击者被倒置或头朝下摔向大理石地面，一条腿高高扬起，而她穿着红色高跟鞋保持平衡。
+8. 地面控制镜头：袭击者面朝下躺在地板上，表情痛苦；女性格斗者跪在他上方，双手将其手臂反锁在背后。背景中可见接待台和接待员。
+9. 最终胜利镜头：袭击者趴在地上被击败；女性格斗者站在他上方，一只红色高跟鞋稳稳地踩在他的背上，神情从容且胜利；背景中仍可见接待员和公司 Logo。
+
+视觉风格：照片级写实的日本企业动作剧剧照，电影级构图，仅在必要时使用真实的动态模糊，所有 9 个面板中角色身份和服装保持一致，冷色调中性办公照明，地板上的抛光反射，戏剧化但可信的特技编排。
+
+约束：不要添加额外的面板、标题、对话气泡、武器、血迹、暴力或奇幻特效。保持网格整洁易读。确保 9 个带编号的画面和整个大堂场景保持一致。
+
+[English]
+Goal: Create a photorealistic live-action storyboard contact sheet for a corporate lobby fight scene, showing exactly 9 numbered cinematic frames in a 3x3 grid.
+
+Canvas: Wide 16:9 contact-sheet image, thin white gutters separating the panels, each panel numbered in small white digits at the top-left from 1 to 9. Realistic film still look, sharp action photography, natural indoor daylight, 768p storyboard fidelity.
+
+Location: A modern high-rise corporate lobby with polished beige marble floors, tall glass windows and sliding doors on the right and rear, neutral stone wall panels, and a dark marble reception desk. Behind the desk is a company logo and the text {argument name="company name" default="HINODE CORPORATION"}. The receptionist remains behind the desk in multiple shots.
+
+Characters: Use exactly 3 recurring characters. Character 1 is {argument name="female fighter" default="a young East Asian woman in a navy blue business suit, white blouse, red high heels, long brown hair in a ponytail with loose bangs"}; she is athletic, focused, and calm under pressure. Character 2 is {argument name="male attacker" default="a middle-aged East Asian man in a black suit, black shirt, black shoes, messy dark hair, wearing black sunglasses"}; he is aggressive and increasingly defeated. Character 3 is {argument name="receptionist" default="a young East Asian woman in a white blouse behind the reception counter"}; she looks shocked and frightened.
+
+Panel-by-panel layout, exactly 9 panels:
+1. Wide establishing shot: the male attacker stands with his back to camera in the open lobby, facing the female fighter several meters away near the windows; the receptionist is visible behind the reception desk. Tense standoff composition.
+2. Medium-wide action shot: the male attacker lunges forward and throws a straight punch toward the female fighter; she squares up defensively in her navy suit, fists raised, feet apart.
+3. Over-the-shoulder/side action shot: the female fighter pivots and dodges the punch, her ponytail swinging, her face alert; the attacker’s black-suited arm cuts across the foreground.
+4. Close-up reaction shot: the receptionist behind the counter clasps her hands nervously near her chest, eyes wide, watching the fight.
+5. Medium action shot: the female fighter traps and twists the attacker’s arm from behind or beside him, forcing him to bend forward in pain; her expression is controlled and determined.
+6. Tight medium shot: the female fighter strikes or shoves the attacker’s face with an open palm, compressing his sunglasses and cheek; he grimaces while she stares him down.
+7. Wide dynamic throw shot: the female fighter executes a judo-style takedown or sweeping throw; the attacker is inverted or falling headfirst toward the marble floor, one leg flung high in the air, while she stays balanced in red heels.
+8. Ground-control shot: the attacker lies face-down on the floor, grimacing; the female fighter kneels or crouches over him, pinning his arm behind his back with both hands. Reception desk and receptionist visible in the background.
+9. Final victory shot: the attacker lies prone and defeated on the marble floor; the female fighter stands over him with one red high heel planted firmly on his back, looking composed and victorious; receptionist and corporate logo remain visible behind them.
+
+Visual style: Photorealistic Japanese corporate action-drama stills, cinematic framing, realistic motion blur only where appropriate, consistent character identities and wardrobe across all 9 panels, cool neutral office lighting, polished reflections on the floor, dramatic but believable stunt choreography.
+
+Constraints: Do not add extra panels, captions, speech bubbles, weapons, blood, gore, or fantasy effects. Keep the grid clean and readable. Maintain the exact 9 numbered frames and the same lobby location throughout.
+```
+
+**来源：** [@kuripon](https://x.com/malonpon/status/2090446323313147937) | 2026-08-20
+
+---
+
+### 🎬 例 6564：剪发后悔漫画页面
+
+![剪发后悔漫画页面](../images/%E5%89%AA%E5%8F%91%E5%90%8E%E6%82%94%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页精致的日本漫画，讲述一个年轻女孩因冲动剪发而感到后悔的故事，采用柔和的动漫水彩风格。
+
+画布：竖版漫画页面，比例约为 4:5，带有干净的白色间隙和细黑色的分镜边框。使用温暖、细腻的少女漫画风格，背景细节丰富，光线柔和，表情生动，色彩采用柔和的粉彩色。
+
+主角：一个可爱的年轻女孩，名字为 {argument name="character name" default="Ciel"}，拥有大大的青绿色眼睛、白皙的皮肤、红润的脸颊，剪发后留着蓬松的浅棕色短发，头顶有一根小小的呆毛。她穿着白色荷叶边衬衫，系着黑白条纹大蝴蝶结，搭配棕色背带裙或围裙，装扮类似朴素的女学生。她的情绪从震惊转为尴尬，最后变为后悔。
+
+场景：一家温馨的理发店，配有镜子、木质货架、化妆品瓶、植物、理发椅和温暖的日光。最后一格室外场景展示了理发店入口，有植物和一块写着“Ciel Hair / Open 10:00 / Close 19:00 / Thank you!”的黑板招牌。
+
+布局：使用 6 个漫画分镜。
+1. 左上格：女孩坐在理发椅上对着圆镜，主要从背后展示她剪好的短发。镜中倒影里她瞪大眼睛，满脸震惊，嘴巴微张。添加一个巨大的蓝色“!?”反应符号和一个尖刺状的惊讶符号。
+2. 右上格：女孩的特写肖像，背景为深蓝色垂直渐变，看起来伤心欲绝，泪眼婆娑，嘴唇颤抖。添加一个包含日语文字的对话气泡：「み、短すぎる…」以及细小的垂直颤抖文字：「うる…」。
+3. 中间宽幅格：理发店内的侧视图。女孩紧张地摸着头发，一位扎着低发髻、棕色头发的开朗女理发师微笑着双手合十。在理发师周围添加闪光和花朵小图标。对话气泡文字：「お似合いですよ！」。
+4. 中下宽幅格：女孩站在理发店中央，看起来尴尬且快要哭出来，身后是巨大的镜子和理发店货架。对话气泡文字：「こんなはずじゃ…」。
+5. 左下格：理发店入口外，女孩独自站着，双手抱头，看起来很沮丧，仍穿着同样的衣服。包含理发店的黑板招牌。对话气泡文字：「鏡見るのつらいな…」。
+6. 右下格：后悔/幻想格，前景中女孩摸着短发，神情忧虑。在她身后，展示她曾经留着长双马尾、系着黑色丝带、笑容灿烂的闪亮回忆图像。在右下角附近展示两个脱落的黑色丝带蝴蝶结。对话气泡文字：「やっぱり切りすぎたかも…」。
+
+视觉风格：高度精致的现代动漫漫画插画，柔和的线条，明亮的青绿色眼睛，细腻的腮红，头发上有绘画感的高光，柔和的理发店光线，富有情感的少女漫画表情，干净的日本漫画构图，无生硬阴影。
+
+约束：保持 6 个分镜，并严格使用列出的日语对话气泡。不要添加额外的分镜、除理发师以外的额外角色，也不要添加无关的标题。确保“剪发后悔”的主题清晰且引人共鸣。
+
+[English]
+Goal: Create a vertical Japanese manga page about a cute girl regretting an overly short haircut after visiting a hair salon, in a soft detailed anime style.
+
+Canvas: Portrait manga page, approximately 4:5 aspect ratio, with thin black gutters and clean white borders. Use exactly 6 panels: top row has 2 equal panels, middle has 2 full-width horizontal panels stacked, bottom row has 2 equal panels.
+
+Character details: Main character is {argument name="character name" default="a young girl"} with large teal-green eyes, flushed cheeks, and {argument name="hair color" default="light chestnut brown"} hair cut into a very short tousled bob/pixie cut with soft bangs and a tiny ahoge curl. She wears a white frilly blouse, a large black-and-white striped ribbon bow at the collar, brown suspender skirt/overalls, and a small brown shoulder bag in the outdoor panel. Her expressions move from shock to embarrassment, sadness, forced composure, and regret.
+
+Setting and visual style: A cozy bright hair salon with warm wooden furniture, round mirror, salon chair, shelves of bottles, plants, soft daylight, and delicate watercolor-like anime rendering. Use pastel colors, thin clean line art, expressive shoujo manga faces, gentle highlights in the hair and eyes, and subtle screentone/shading. Speech and thought bubbles are white with black outlines and Japanese text.
+
+Panel-by-panel layout and content:
+1. Top-left panel: Interior salon mirror scene. Show the girl from behind sitting in a salon chair, looking into a round mirror. In the mirror her front-facing reflection is shocked with wide eyes and open mouth after seeing the very short haircut. Add large blue punctuation marks “!?” near the left side and a spiky surprise symbol above the reflection.
+2. Top-right panel: Close-up front portrait against a dark bluish vertical emotional background. She looks teary and stunned, cheeks pink, lips trembling. Add one thought bubble with {argument name="short haircut thought" default="み、短すぎる…"} and small vertical trembling text “うる…”.
+3. Middle first full-width panel: Side view in the salon. The girl sits looking uncertain while an adult female hairdresser with brown hair in a neat low bun smiles and claps encouragingly. The hairdresser wears a white shirt with dark suspenders/apron. Add sparkle icons and a speech bubble saying {argument name="hairdresser compliment" default="お似合いですよ！"}.
+4. Middle second full-width panel: The girl alone in the salon, centered, looking embarrassed and about to cry, with the round mirror and salon shelves in the background. Add a thought bubble saying {argument name="embarrassed thought" default="こんなはずじゃ…"}.
+5. Bottom-left panel: Exterior street scene outside the salon entrance with plants and warm storefront details. The girl stands with her shoulder bag, touching her short hair with one hand, eyes downcast and uncomfortable. Include a chalkboard sign that reads exactly: “Ciel Hair / Open 10:00 / Close 19:00 / Thank you!” Add a thought bubble saying “鏡見るのつらいな…”.
+6. Bottom-right panel: Dreamy regret panel with dark purple-blue background. The short-haired girl in the foreground touches her head and looks worried. Behind her, show a glowing imagined version of herself with long twin tails tied with black ribbons, smiling confidently. In the lower right, show exactly 2 loose black hair bows floating/fallen as symbolic objects. Add sparkles around the imagined long-haired version and a thought bubble saying {argument name="final regret thought" default="やっぱり切りすぎたかも…"}.
+
+Constraints: Use exactly 6 panels, exactly one recurring main girl, one hairdresser, one salon sign, and 2 loose black bows in the final panel. Keep all visible dialogue in Japanese as specified. Do not add extra panels, extra characters, watermarks, logos, or narration boxes.
+```
+
+**来源：** [@エルティアナ@Vtuber/ゲーム音楽系キーボーディスト🎹/AI・Web3の錬金術士](https://x.com/atelier_ert/status/2090331190255640737) | 2026-08-20
+
+---
+
+### 🎬 例 6575：困倦卡通熊猫插画
+
+![困倦卡通熊猫插画](../images/%E5%9B%B0%E5%80%A6%E5%8D%A1%E9%80%9A%E7%86%8A%E7%8C%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形的儿童绘本风格插画，主角是一只可爱、简洁的卡通 {argument name="animal character" default="panda bear"}，它正居中站立，面向前方，背景为平坦的户外景观。熊猫拥有圆润的奶油色大脸、黑色的圆形耳朵、黑色的眼圈、半闭的困倦双眼、短短的黑色眉毛、小巧的黑色椭圆形鼻子，以及微张的粉色小嘴，呈现出一种疲惫而呆萌的表情。它的身体短小圆润，有着黑色的四肢、奶油色的大椭圆形肚皮，以及圆圆的爪子，双手和双脚上可见灰色的短小爪尖。使用粗犷的黑色轮廓线、略显不平整的手绘边缘、可见的帆布/丙烯质感，营造出一种天真质朴的儿童民间艺术插画风格。背景：明亮的青蓝色天空，配有 2 朵方块状的白色十字形云朵，分别位于左上方和右上方。地面：温暖的橙黄色泥土，角色下方有柔和的椭圆形阴影，远处的地平线左右两侧各分布着 2 丛圆润的绿色灌木，地面上散落着 3 簇小草和 7 块深灰色的小石头。保持构图对称，角色全身居中，使用鲜明平涂的色彩，画面中不含文字、水印，且不追求照片级写实感。
+
+[English]
+Create a square-ish vertical children's book illustration of a cute cartoon {argument name="animal character" default="panda bear"} standing centered in a simple outdoor landscape. The character should be full body, front-facing, short and round with a large beige face, black circular ears, black eye patches, sleepy half-lidded eyes, small black eyebrows, a tiny black nose, and a small open mouth that makes the expression look tired, dazed, or just about to snap. Use a thick rough black outline around the body and facial features. The panda has a black torso and limbs with a large cream belly patch, stubby arms hanging at the sides, and small gray claws visible on both hands and both feet. The background is a bright cyan-blue sky with exactly two white blocky pixel-like clouds, one in the upper left and one in the upper right. The ground is flat orange-yellow dirt with scattered small rocks, tiny grass tufts, and rounded green bushes on both sides near the horizon. Style it like a hand-painted acrylic or gouache illustration on textured canvas, with visible brush strokes, slightly imperfect edges, bold flat colors, simple shapes, and a charming handmade children's storybook feel. No text, no watermark, no extra characters.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2090293536633802831) | 2026-08-20
+
+---
+
+### 🎬 例 6591：日式防晒科普漫画说明
+
+![日式防晒科普漫画说明](../images/%E6%97%A5%E5%BC%8F%E9%98%B2%E6%99%92%E7%A7%91%E6%99%AE%E6%BC%AB%E7%94%BB%E8%AF%B4%E6%98%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白日式漫画风格的教育漫画，并带有青色专色，用于解释关于防晒霜和紫外线的补充说明。对话气泡和标题框使用竖排日文漫画字体，采用网点纸阴影、粗黑边框、手绘墨线，并带有轻微不完美的印刷漫画质感。
+
+画布：竖向 4:5 漫画页面，白色背景，分为三层。顶层包含 2 个等大的并排分镜；中间层包含 1 个宽幅横向分镜；底层包含 1 个宽幅分镜。使用粗黑色的分镜间距和边框。
+
+视觉风格：复古单色漫画，网点纸效果，速度线，表情生动但造型简洁的可爱角色，仅在服装和防晒用品上使用少量的青色作为点缀。在适当位置保持所有文字竖排，像日式教育漫画一样密集，但不要增加额外的分镜或角色。
+
+分镜 1（左上）：一位留着齐肩黑发、有雀斑、身穿白大褂内搭青色衬衫的开朗年轻女性，用一根手指向上指。身后有放射状速度线。添加 2 个竖排对话气泡：{argument name="top left dialogue" default="それも誤解です！\n紫外線も皮膚への刺激の1つなので"}。她表情自信且友好。
+
+分镜 2（右上）：一位短发女孩穿着青色卫衣，用一只手遮住额头，仿佛在注视阳光。使用网点背景。添加 3 个文本元素：右侧一个小的竖排标题框，内容为 {argument name="bonus title" default="おまけのこぼれ話"}，一个大的对话气泡，内容为 {argument name="top right sunscreen line" default="そう言えばステロイドは紫外線ダメだから"}，以及一个较小的对话气泡，内容为 {argument name="top right question" default="朝は塗らないんですよね？"}。在她的头部附近包含一个小的手写拟声词。
+
+分镜 3（中间宽幅）：戏剧性的漫画背景，描绘山坡上的森林火灾，有火焰、烟雾、树木、蜿蜒的道路和一个小的螺旋风符号。没有人物。覆盖 4 个竖排标题框：右侧一个关于野火后风吹的说明，中间一个关于发炎的皮肤受到紫外线照射会造成额外损伤的说明，左侧一个说明类固醇本身关系不大，以及一个小备注说明外用类固醇基本上是一天使用两次。烟雾和森林纹理使用密集的网点纸效果。
+
+分镜 4（底部宽幅）：同一位年轻女性微笑着出现，戴着宽檐青色遮阳帽，拿着一把青色遮阳伞。她旁边有 3 个带有标签的悬浮防晒用品：一瓶防晒喷雾、一支 SPF 50 PA++++ 防晒霜，以及遮阳伞/帽的标签。添加 4 个文本区域：右侧一个竖排标题，内容为 {argument name="bottom explanation" default="おそらくワセリンを塗ると日焼けするというイメージから来るのでしょうが そもそもそれ自体には明確な論拠はありません。"}，左侧一个竖排标题说明紫外线防护很重要，发炎的皮肤应妥善防晒，右下角一个手写备注说明要使用涂抹时不刺激的产品，以及在防晒用品周围的小手写标签。
+
+约束：总共 4 个分镜，全页仅 2 个人物，青色仅作为点缀色，无全彩渲染，无照片写实感，无水印，无现代 UI 元素，保持页面作为紧凑型日式科普漫画的可读性。
+
+[English]
+Goal: Create a black-and-white Japanese manga-style educational comic page about sunscreen, steroid ointment, ultraviolet rays, and skin inflammation, with only a few teal accent fills. The comic should look like a printed newspaper health explainer with bold panel borders, screentone shading, halftone gradients, hand-drawn ink lines, vertical Japanese dialogue, and slightly crowded text layout.
+
+Canvas: Square 1:1 page, high-contrast monochrome manga art, thick black outer border and thick gutters. Use teal accents only on clothing, umbrella, and sunscreen packaging. Keep the overall look like a generated manga infographic with dense vertical text.
+
+Layout: Use exactly 4 panels arranged as follows: two equal top panels side by side, one wide middle panel spanning the full width, and one wide bottom panel spanning the full width.
+
+Panel 1, top left: A cheerful young woman doctor or educator with shoulder-length dark hair, wearing a white coat over a teal shirt, raises one index finger as if correcting a misconception. Radiating emphasis lines behind her. Include two vertical speech bubbles. Text: 「それも誤解です！」 and 「紫外線も皮膚への刺激の１つなので」.
+
+Panel 2, top right: A young girl with a short dark bob and teal sweatshirt wipes or shields her forehead, looking worried under strong sun. Add a small handwritten sound effect 「まぶしい〜」. Place a vertical title box on the right edge reading 「おまけのこぼれ話」. Include two vertical speech bubbles. Text: 「そう言えば、ステロイドは紫外線ダメだから」 and 「朝は塗らないんですよね？」.
+
+Panel 3, middle wide: A dramatic black-and-white wildfire or mountain fire scene with wind blowing flames across a forested slope; include smoke, trees, a winding road, and a spiral wind symbol. Overlay three vertical narration text boxes. Text box 1 on the right: 「山火事に追い風が吹くように」. Text box 2 center-right: 「炎症のある皮膚に紫外線が当たると余計ダメージが大きくなりますが」. Text box 3 left: 「それとステロイド自体はあまり関係がありません！」 plus smaller side note 「（ステロイド外用は１日２回が基本です。）」.
+
+Panel 4, bottom wide: The same girl now happily uses sun protection: she holds a teal parasol above herself, wears a light hat, and has sunscreen bottles nearby labeled “UV” and “SPF 50 PA+”. Add handwritten labels near objects: 「日焼け止め」 near the sunscreen, 「日傘」 and 「帽子」 near the umbrella and hat. Include three vertical narration blocks: right block 「おそらくワセリンを塗ると日焼けするというイメージから来るのでしょうが そもそもそれ自体は明確な論拠はありません。」, center-left block 「紫外線対策はもちろん大切なので、」, far-left block 「皮膚に炎症がある時は、適切に紫外線対策をしましょうね！」. Add a small handwritten note at lower right: 「塗ってみて刺激のないものを使ってネ!!」.
+
+Visual style: Japanese manga health-education comic, rough ink texture, expressive but simple characters, screentone dots, grayscale printing, dense vertical lettering, slightly imperfect hand-drawn borders, clean white gutters, teal accent color around #68cfc6.
+
+Constraints: Include exactly 4 panels and exactly the listed visible text elements. Do not add extra characters beyond the educator and the girl. Do not use full color beyond the teal accents. Make the composition feel information-dense and slightly cramped, like an AI-generated medical explainer comic. Main topic can be customized as {argument name="comic topic" default="misconceptions about steroid ointment, ultraviolet rays, and sunscreen"}; educator accent clothing color {argument name="accent color" default="teal"}; top-right title label {argument name="side title" default="おまけのこぼれ話"}; sunscreen label {argument name="sunscreen label" default="SPF 50 PA+"}; handwritten reminder {argument name="reminder note" default="塗ってみて刺激のないものを使ってネ!!"}.
+```
+
+**来源：** [@ダークテンタクルマスター (aka. だくてん)](https://x.com/DTM_tentacle69/status/2090261646501683339) | 2026-08-20
+
+---
+

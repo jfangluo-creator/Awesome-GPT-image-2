@@ -3625,3 +3625,67 @@ Transform the image into a charming minimalist hand-drawn doodle illustration. P
 
 ---
 
+### 🔧 例 6535：角色参考图概念设计
+
+![角色参考图概念设计](../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于此 {argument name="subject" default="角色"} 和 {argument name="setting" default="背景"}，请创作一份类似于官方设计素材的角色参考图。 - 包含三视图：正面、侧面和背面 - 添加角色面部表情的变化 - 拆解并展示服装和装备的细节部分 - 添加调色板 - 包含对世界观设定的简要说明 - 整体采用整洁的布局（白色背景，插画风格），高分辨率，专业概念艺术风格。
+
+[English]
+Based on this {argument name="subject" default="character"} and {argument name="setting" default="background"}, please create a character reference sheet similar to official design materials. - Include three-view drawings: front, side, and back - Add variations of the character's facial expressions - Break down and display detailed parts of the clothing and equipment - Add a color palette - Include a brief explanation of the worldview setting - Overall, use an organized layout (white background, illustration style) High resolution, professional concept art style.
+```
+
+**来源：** [@FuguAI](https://x.com/IFritzler8344/status/2090457697359470776) | 2026-08-20
+
+---
+
+### 🔧 例 6567：故事书角色照片转换
+
+![故事书角色照片转换](../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E8%A7%92%E8%89%B2%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用上传的单张照片作为视觉参考。将人物转换为 {argument name="character style" default="可爱的手绘 2D 儿童故事书角色"}，同时确保其身份清晰可辨。
+
+请务必从照片中保留以下内容：
+- 面部特征和肤色
+- 真实的发型、长度、质感和颜色
+- 准确的服装、颜色、图案和叠穿效果
+- 眼镜、珠宝、头饰、包袋以及所有可见的配饰
+
+请勿从任何参考艺术作品中虚构或复制发型、服装、配饰、辫子、马尾、蝴蝶结、软帽或头巾。
+
+### 角色
+使用超大的圆头、小巧紧凑的身体、短手臂、窄肩膀、柔和的圆形轮廓以及可爱的童趣比例。保持头部在视觉上的主导地位。避免使用写实的解剖结构。
+
+### 面部
+简化为小圆点/椭圆眼睛、极简的鼻子、小巧的微笑嘴巴、圆润的脸颊以及柔和的桃色/粉色腮红。保留可辨识的面部特征。不要使用写实的眼睛、精致的嘴唇、动漫特征、光泽的 3D 渲染或浓重的阴影。
+
+### 发型与服装
+还原上传照片中的确切发型和服装，并将其简化为厚实的手绘形状。保留重要的颜色、图案、珠宝、眼镜及其他可辨识的细节。
+
+### 风格
+手工 2D 绘本美学，使用水粉、蜡笔、彩色铅笔和干粉彩。使用略显不规则的深棕色线条、细腻的纸张纹理、不均匀的颜料、柔和的笔触以及不完美的绘画边缘。避免使用干净的矢量图、CGI、动漫或照片写实风格。
+
+### 构图
+1:1 正方形肖像，胸部/腰部以上，居中且主要面向前方，留白平衡。采用放松、迷人的姿势。
+
+### 背景
+简洁温暖的 {argument name="background tone" default="芥末黄、奶油黄、赭石色或米色"} 背景，带有细腻的纸张纹理。不要包含风景、物体、文字、边框或其他干扰元素。
+
+最终效果：将同一个人重新绘制成一个极其可爱、温暖、治愈且充满怀旧感的手工儿童绘本角色——相同的身份、相同的发型、相同的服装、相同的配饰，完全简化且可爱动人。
+
+[English]
+Use the single uploaded photo as the only visual reference. Transform the person into an adorable {argument name="style" default="hand-drawn 2D children’s storybook character"}, while keeping their identity immediately recognizable. Preserve exactly from the photo: - Facial features and skin tone - Real hairstyle, length, texture, and color - Exact clothing, colors, patterns, and layering - Glasses, jewelry, headwear, bags, and all visible accessories. Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork. ### Character Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy. ### Face Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading. ### Hair & Clothing Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details. ### Style Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism. ### Composition Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose. ### Background Simple {argument name="background color" default="warm mustard, butter yellow, ochre, or cream"} background with subtle paper texture. No scenery, objects, text, borders, or distractions. Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2090321208441262454) | 2026-08-20
+
+---
+

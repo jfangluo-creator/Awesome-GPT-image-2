@@ -26989,3 +26989,731 @@ Create a premium vertical food advertising poster for a fictional dairy brand ca
 
 ---
 
+### 🎴 例 6531：极简日式咖喱饭海报
+
+![极简日式咖喱饭海报](../images/%E6%9E%81%E7%AE%80%E6%97%A5%E5%BC%8F%E5%92%96%E5%96%B1%E9%A5%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简主义的编辑风格美食海报，展示如何将写实美食照片转化为简洁的低细节插画，同时保持构图一致。
+
+画布：3:4 比例的竖版海报，采用暖色调米白色纸张背景，留白充裕，呈现安静的日式杂志/海报设计风格。
+
+布局：将海报精确分为 2 个主要视觉区域。上半部分包含一张写实的长方形美食照片，周围环绕细窄的米白色边框。下半部分包含同一道菜品的简约矢量风格插画，居中且尺寸略小，周围配以稀疏的排版和精致的对位标记线。
+
+顶部区域：展示一张餐厅风格的特写照片，主角为 {argument name="dish name" default="日式咖喱饭"}，置于深色光泽餐桌上。菜品盛放在椭圆形深棕色陶瓷盘中，以高位四分之三角度拍摄。包含 8 个清晰可见的食材组件：1 大滩棕色咖喱酱、1 堆大部分被配料覆盖的白米饭、左侧 1 堆炸洋葱丝、中央 1 堆切片猪肉或牛肉、顶部 1 撒淡色蒜片、右侧 1 勺土豆沙拉、后方 1 小撮切碎的蔬菜碎，以及右后方 1 片柠檬角。添加 1 把闪亮的金属勺子从右侧边缘伸入咖喱中。使用自然的暖色调餐厅灯光，呈现真实质感，带有浅淡阴影，画面中无人。
+
+底部区域插画：将同一盘菜品重新创作为扁平化的极简矢量插画，使用精简的信息和色彩。保留完全相同的 8 个食材组件和 1 把勺子，但将其简化为带有细浅轮廓的层叠有机形状，并使用咖喱棕、棕褐色、奶油色、淡黄色、柔和绿色和柔和灰色的有限调色板。椭圆形盘子由细灰色轮廓和配料下方的深棕色咖喱形状勾勒。避免照片级的细节；使其看起来像一张高雅的海报插画。
+
+文字内容：添加 5 个文字块。插画左侧，小号字间距的大写字母书写 "JAPANESE"，其上方为优雅的大号衬线标题 "CURRY\nPLATE"。右上角，小号衬线字体书写 "Comfort in\nEvery Layer."。左下角，小号文字书写 "2024" 并配有一条细横线。右下角，小号字间距的大写字母书写 "MINIMAL\nPOSTER SERIES"。使用精致的黑色或深棕色字体。
+
+图形细节：在下方插画周围添加 3 个细线装饰标记：标题区域左侧附近 1 条细垂直线，插画盘子右下角 1 个小十字准线标记，以及年份附近 1 条微妙的水平线。保持克制、高级的编辑风格，并留出大量负空间。
+
+风格限制：色彩极简，视觉干扰少，无额外标题，无 Logo，无水印，无额外餐具，无额外盘子，画面中无人。最终图像应呈现出精致的日式美食海报质感，对比写实的咖喱饭照片与其简约插画。
+
+[English]
+Goal: Create a minimalist editorial food poster that demonstrates reducing a realistic food photo into a clean low-detail illustration while preserving the composition.
+
+Canvas: Vertical poster in a 3:4 aspect ratio, warm off-white paper background, generous margins, quiet Japanese magazine/poster design.
+
+Layout: Divide the poster into exactly 2 main visual panels. The top half contains a realistic rectangular food photograph with a thin off-white border around it. The bottom half contains a simplified vector-style illustration of the same dish, centered and slightly smaller, surrounded by sparse typography and fine registration-mark lines.
+
+Top panel: Show a close-up restaurant photograph of a {argument name="dish name" default="Japanese curry plate"} on a dark glossy tabletop. The dish sits on an oval dark brown ceramic plate viewed from a high three-quarter angle. Include exactly 8 visible food components: 1 large pool of brown curry sauce, 1 mound of white rice mostly hidden under toppings, 1 pile of thin fried shredded onions on the left, 1 heap of sliced pork or beef in the center, 1 scattering of pale garlic chips across the top, 1 scoop of white potato salad on the right, 1 small garnish of chopped greens near the back, and 1 lemon wedge at the back right. Add exactly 1 shiny metal spoon entering from the right edge into the curry. Use natural warm restaurant lighting, realistic texture, shallow shadows, and no people.
+
+Bottom panel illustration: Recreate the same plate as a flattened minimal vector illustration using reduced information and reduced color. Keep the exact same 8 food components and 1 spoon, but simplify them into layered organic shapes with thin light outlines and a limited palette of curry brown, tan, cream, pale yellow, muted green, and soft gray. The oval plate is suggested by a fine gray outline and a dark brown curry shape beneath the toppings. Avoid photorealistic detail; make it look like a tasteful poster illustration.
+
+Text content: Add exactly 5 text blocks. Left of the illustration, small spaced uppercase text reads "JAPANESE" above a large elegant serif title reading "CURRY\nPLATE". Upper right, small serif copy reads "Comfort in\nEvery Layer." Bottom left, small text reads "2024" with a thin horizontal line beside it. Bottom right, small spaced uppercase text reads "MINIMAL\nPOSTER SERIES". Use refined black or dark brown typography.
+
+Graphic details: Add exactly 3 fine-line decorative marks around the lower illustration: 1 thin vertical line near the left of the title area, 1 small crosshair mark on the lower right of the illustrated plate, and 1 subtle horizontal line near the year. Maintain a restrained, premium editorial look with lots of negative space.
+
+Style constraints: Minimal colors, low visual noise, no extra captions, no logos, no watermark, no additional utensils, no extra plates, and no people. The final image should feel like a polished Japanese food poster comparing a realistic curry plate photograph with its simplified illustration.
+```
+
+**来源：** [@Torishima / INTP](https://x.com/izutorishima/status/2090497949990334773) | 2026-08-20
+
+---
+
+### 🎴 例 6532：月光都市海报
+
+![月光都市海报](../images/%E6%9C%88%E5%85%89%E9%83%BD%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简主义建筑海报，将写实的夜间城市照片与下方的风格化建筑印象形成对比，标题为 {argument name="poster title" default="MOONLIT METROPOLIS"}。
+
+画布：竖向海报，3:4 纵横比，暖米白色纸张背景，留有充足的页边距，呈现精致的画廊印刷质感。
+
+布局：使用上下堆叠的 2 个主要视觉区域。区域 1 为占据上半部分的大型矩形全景夜间城市照片，带有细窄的米白色边框。区域 2 为下方居中的极简主义城市天际线插图，底部留出大面积空白区域用于排版。
+
+顶部区域细节：展示从高层公寓或酒店窗户俯瞰的密集现代河畔大都市夜景。包含许多灯火通明的高层建筑、前景中暗色的住宅区、贯穿中心并带有倒影的河流或运河、桥梁和道路灯光、屋顶上的红色航空障碍灯，以及富有戏剧性的多云夜空。在右上侧上方放置一轮明月，被云层部分遮挡，投射出淡淡的光晕。氛围应类似于夜晚的大阪：潮湿、电影感、写实、略带朦胧、高动态范围、建筑灯光锐利。
+
+底部插图细节：使用柔和的灰色、炭灰色、米色和淡金色，对同一天际线进行简洁的建筑线条艺术诠释。使用细长的垂直摩天大楼形态、简化的块状建筑、向中心延伸的河流走廊、桥梁剪影、淡淡的透视构造线以及屋顶天线上微小的红色航空灯。保持插图低对比度且优雅，水平居中，周围留有大量负空间。
+
+文本内容：包含 4 个文本元素：1) 插图下方居中且字间距拉开的标题：{argument name="poster title" default="MOONLIT METROPOLIS"}；2) 左下角小号大写字母地点：{argument name="location text" default="OSAKA, JAPAN"}；3) 底部中心小号年份，上方带有一条细垂直线：{argument name="year" default="2024"}；4) 右下角小号大写字母描述：{argument name="descriptor text" default="ARCHITECTURAL IMPRESSION"}。使用字间距较大的极小号无衬线字体。
+
+视觉风格：高级建筑海报，编辑设计，静谧的日式极简主义，米白色哑光纸张，平衡的负空间，上方为写实照片，下方为精致的矢量风格建筑渲染。无人物，无近景车辆，无 Logo，无水印，无多余文字。
+
+[English]
+Goal: Create a minimalist architectural poster that contrasts a realistic night city photograph with a stylized architectural impression below it, titled {argument name="poster title" default="MOONLIT METROPOLIS"}.
+
+Canvas: Vertical poster, 3:4 aspect ratio, warm off-white paper background with generous margins and a refined gallery-print look.
+
+Layout: Use exactly 2 main visual sections stacked vertically. Section 1 is a large rectangular panoramic night city photograph occupying the top half, framed by a thin off-white border. Section 2 is a centered minimalist city skyline illustration beneath it, leaving a large blank lower margin for typography.
+
+Top section details: Show a dense modern riverside metropolis at night, viewed from a high apartment or hotel window. Include many illuminated high-rise buildings, dark residential blocks in the foreground, a river or canal running through the center with reflections, bridges and road lights, red aircraft warning lights on rooftops, and a dramatic cloudy night sky. Place a bright moon near the upper center-right, partially veiled by clouds, casting a pale glow. The mood should feel like Osaka at night: humid, cinematic, realistic, slightly hazy, high dynamic range, sharp building lights.
+
+Bottom illustration details: Create a clean architectural line-art interpretation of the same skyline in muted gray, charcoal, beige, and pale gold. Use thin vertical skyscraper forms, simplified blocky buildings, a river corridor receding into the center, a bridge silhouette, faint perspective construction lines, and tiny red aviation lights on rooftop antennae. Keep the illustration low-contrast and elegant, centered horizontally, with lots of surrounding negative space.
+
+Text content: Include exactly 4 text elements: 1) centered spaced-out title under the illustration: {argument name="poster title" default="MOONLIT METROPOLIS"}; 2) bottom-left small uppercase location: {argument name="location text" default="OSAKA, JAPAN"}; 3) bottom-center small year with a thin vertical line above it: {argument name="year" default="2024"}; 4) bottom-right small uppercase descriptor: {argument name="descriptor text" default="ARCHITECTURAL IMPRESSION"}. Use very small letter-spaced sans-serif typography.
+
+Visual style: Premium architectural poster, editorial design, quiet Japanese minimalism, off-white matte paper, balanced negative space, realistic photo above and delicate vector-like architectural rendering below. No people, no cars in close-up, no logos, no watermark, no extra text.
+```
+
+**来源：** [@まいたけ](https://x.com/yushimameltdown/status/2090497325886230707) | 2026-08-20
+
+---
+
+### 🎴 例 6534：Fanta Orange Planet 项目
+
+![Fanta Orange Planet 项目](../images/Fanta%20Orange%20Planet%20%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 15 秒的 Fanta Orange 广告创建一个精美的广告项目，标题为 {argument name="campaign title" default="FANTA ORANGE PLANET"}，副标题为 {argument name="subtitle" default="A Universe Made of Freshness"}，并附带小字“15 Seconds Commercial”。
+
+画布：宽幅 3:2 横向演示项目，白色背景，简洁的代理商项目布局。使用醒目的顶部标题区域，下方为 5 列 2 行的网格，包含 10 个项目面板。每个面板顶部为电影感的橙色科幻图像，下方为白色说明框，包含场景编号、时间码、加粗的场景标题和简短描述。使用细浅灰色网格线，排版清晰，具有高端广告提案的质感。
+
+视觉风格：高度细节化、光泽感、高能量的饮料广告概念艺术。主色调为鲜艳的橙色、金黄色、柑橘绿点缀、深邃的宇宙蓝和白色高光。全程使用闪烁的碳酸气泡、漂浮的橙片、冰块、果汁飞溅、发光的柑橘颗粒、汽水河流和戏剧性的背光。品牌调性应体现出俏皮、新鲜、爆发力和奇幻感。
+
+页眉文字：左侧为大型海军蓝斜体大写标题“FANTA ORANGE PLANET”。右侧为橙色文字“A Universe Made of Freshness”和黑色文字“15 Seconds Commercial”。
+
+布局与面板数量：包含 10 个编号面板，顶部一行从左至右排列为 01–05，底部一行从左至右排列为 06–10。每个面板必须包含可见的时间码和场景标题。
+
+面板详情：
+1. “01”时间码“0.0–1.5s”，标题“THE ORANGE PLANET”：深邃的宇宙空间缓慢转变为充满活力的橙色宇宙。一颗巨大的发光橙色水果像行星一样漂浮，周围环绕着微小的柑橘颗粒和闪烁的金光。
+2. “02”时间码“1.5–3.0s”，标题“A WORLD OF CITRUS”：橙色行星表面的极度微距镜头。橙皮纹理变成了一片美丽的景观，有柑橘山脉、发光的果汁河流，大气中漂浮着微小的气泡。
+3. “03”时间码“3.0–4.5s”，标题“THE ARRIVAL”：一个巨大的 {argument name="soda can brand" default="Fanta orange"} 罐头进入橙色行星轨道，周围环绕着漂浮的冰晶、橙片、新鲜叶子和闪烁的碳酸气泡。
+4. “04”时间码“4.5–6.0s”，标题“CITRUS EXPLOSION”：Fanta 罐头戏剧性地打开。巨大的橙味汽水浪潮像金色的海洋一样在行星表面爆发。柑橘瀑布随处可见。
+5. “05”时间码“6.0–7.5s”，标题“ENTER THE FLAVOR”：摄像机穿过橙色行星。橙片变成漂浮的岛屿，碳酸气泡变成发光的行星，闪烁的汽水河流流经景观。
+6. “06”时间码“7.5–9.0s”，标题“PURE FUN ENERGY”：微小的奇幻角色探索橙色世界，在汽水浪潮上滑行，跳过冰晶，在多彩的柑橘宇宙中庆祝。
+7. “07”时间码“9.0–10.5s”，标题“THE HEART OF FRESHNESS”：一个巨大的 Fanta 罐头从行星中心升起。橙汁浪潮围绕着罐头盘旋，阳光营造出神奇的金色光芒。
+8. “08”时间码“10.5–12.0s”，标题“FROZEN MOMENT”：一切在半空中凝固。橙片、冰块、汽水液滴、气泡和柑橘颗粒在产品周围形成完美的圆形构图。
+9. “09”时间码“12.0–13.5s”，标题“HERO PRODUCT”：一罐冰镇 Fanta 矗立在发光的橙色水晶平台上。在它身后，整个橙色行星在闪烁的大气中缓慢旋转。
+10. “10”时间码“13.5–15.0s”，标题“BRAND SIGNATURE”：干净的白色放射状背景，中心为大型 {argument name="logo text" default="FANTA"} 标志，周围环绕橙色气泡，下方为弧形橙色字体的标语 {argument name="tagline" default="OPEN A WORLD OF FUN"}。
+
+约束条件：使用 10 个面板，不得增加额外面板。项目说明文字保持清晰且使用英文。确保产品罐头和标志看起来像一个可识别的橙味汽水品牌广告，不得添加无关品牌、水印或额外的 UI 元素。
+
+[English]
+Goal: Create a polished advertising storyboard sheet for a 15-second Fanta Orange commercial titled {argument name="campaign title" default="FANTA ORANGE PLANET"}, with the subtitle {argument name="subtitle" default="A Universe Made of Freshness"} and small line “15 Seconds Commercial.”
+
+Canvas: Wide 3:2 landscape presentation board on a white background, clean agency storyboard layout. Use a bold top header area, then a 5-column by 2-row grid containing exactly 10 storyboard panels. Each panel has a cinematic orange sci-fi image on top and a white caption block beneath it with a scene number, timecode, bold scene title, and short description. Thin light-gray grid lines, crisp typography, premium commercial pitch-deck feel.
+
+Visual style: Hyper-detailed, glossy, high-energy beverage commercial concept art. Dominant colors are vivid orange, golden yellow, citrus green accents, deep cosmic blues, and white highlights. Use sparkling carbonation bubbles, floating orange slices, ice cubes, juice splashes, glowing citrus particles, soda rivers, and dramatic backlighting throughout. The brand should feel playful, fresh, explosive, and fantastical.
+
+Header text: Large navy italic uppercase title “FANTA ORANGE PLANET” on the left. To the right, orange text “A Universe Made of Freshness” and black text “15 Seconds Commercial.”
+
+Layout and panel count: Include exactly 10 numbered panels, arranged left to right across the top row as 01–05 and left to right across the bottom row as 06–10. Each panel must include its visible timecode and scene title.
+
+Panel details:
+1. “01” timecode “0.0–1.5s”, title “THE ORANGE PLANET”: A dark cosmic space slowly transforms into a vibrant orange universe. A giant glowing orange fruit floats like a planet, surrounded by tiny citrus particles and sparkling golden light.
+2. “02” timecode “1.5–3.0s”, title “A WORLD OF CITRUS”: Extreme macro shot of the orange planet surface. The texture of orange peel becomes a beautiful landscape with citrus mountains, glowing juice rivers, and tiny bubbles floating in the atmosphere.
+3. “03” timecode “3.0–4.5s”, title “THE ARRIVAL”: A giant {argument name="soda can brand" default="Fanta orange"} can enters the orange planet orbit surrounded by floating ice crystals, orange slices, fresh leaves, and sparkling carbonation bubbles.
+4. “04” timecode “4.5–6.0s”, title “CITRUS EXPLOSION”: The Fanta can opens dramatically. A massive wave of orange soda explodes like a golden ocean across the planet surface. Citrus waterfalls appear everywhere.
+5. “05” timecode “6.0–7.5s”, title “ENTER THE FLAVOR”: Camera flies through the Orange Planet. Orange slices become floating islands, carbonation bubbles become glowing planets, and rivers of sparkling soda flow through the landscape.
+6. “06” timecode “7.5–9.0s”, title “PURE FUN ENERGY”: Tiny fantasy characters explore the orange world, sliding on soda waves, jumping across ice crystals, and celebrating inside the colorful citrus universe.
+7. “07” timecode “9.0–10.5s”, title “THE HEART OF FRESHNESS”: A giant Fanta can rises from the center of the planet. Orange juice waves spiral around the can while sunlight creates a magical golden glow.
+8. “08” timecode “10.5–12.0s”, title “FROZEN MOMENT”: Everything freezes in mid-air. Orange slices, ice cubes, soda droplets, bubbles, and citrus particles create a perfect circular composition around the product.
+9. “09” timecode “12.0–13.5s”, title “HERO PRODUCT”: A chilled Fanta can stands on a glowing orange crystal platform. Behind it, the entire Orange Planet rotates slowly with sparkling atmosphere.
+10. “10” timecode “13.5–15.0s”, title “BRAND SIGNATURE”: Clean white radiant background with the large {argument name="logo text" default="FANTA"} logo centered, orange bubbles around it, and the tagline {argument name="tagline" default="OPEN A WORLD OF FUN"} below in curved orange lettering.
+
+Constraints: Use exactly 10 panels and no extra panels. Keep the storyboard captions legible and in English. Make the product can and logo look like a recognizable orange soda brand advertisement without adding unrelated brands, watermarks, or extra UI elements.
+```
+
+**来源：** [@Fede(URU) 🇺🇾](https://x.com/Federic83017719/status/2090458380536074507) | 2026-08-20
+
+---
+
+### 🎴 例 6544：手绘笔触海报插画
+
+![手绘笔触海报插画](../images/%E6%89%8B%E7%BB%98%E7%AC%94%E8%A7%A6%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将附带的照片转换为笔触插画海报。照片中的主体可以是 {argument name="subject" default="食物、其他产品、风景、动物、人物或任何你想要作为主要展示的对象"}。
+[纵横比]
+竖向 3:4
+[风格]
+数字绘画 / 笔触效果。
+可见的笔触、不规则的边缘、略微拉伸的颜料痕迹。
+呈现出未经修饰且真实的手绘外观。
+将图像解读为扁平化插画，采用简单的形状排列，而非写实描绘。
+无渐变、无阴影、无 3D 渲染或精细纹理。保持整体完全扁平。
+使用细且不规则的笔触轮廓，与涂色区域略有偏差。
+[色彩]
+背景应为 {argument name="background color" default="奶油色 / 米白色纸张"}。
+仅使用从附带照片中提取的 3–4 种颜色：
+1 种深色主色
+1 种亮色主色
+1–2 种辅助色
+略微去饱和的复古色调。
+严禁增加颜色数量。
+[构图]
+主体应居中且醒目，占据画布约 50–55% 的面积。
+在垂直方向上延伸构图，增加上方和下方的空间，同时扩大左右边距。
+顶部：放置 1–2 个 {argument name="subject description" default="英文大写单词"} 来描述主体，使用超大的手绘笔触字体。字间距要非常宽；文字可以环绕插画或向右/向下延伸。
+右下角：添加一个 3–5 个单词的简短英文手写短语，使用强调色。
+[文字]
+观察照片并选择合适的顶部和底部短语。
+不要直接使用主体名称作为顶部文字。
+根据照片呈现的氛围、地点、季节、时间或情感来选择词汇。
+底部短语应显得随性、轻松且略带俏皮——不要过于严肃或具有说明性。
+[禁止项]
+写实渲染
+3D
+阴影
+反射
+Logo
+水印
+边框
+过度放大主体
+
+[English]
+Transform the attached photo into a brush-painted illustration poster. The subject in the photo can be {argument name="subject" default="food, another product, a landscape, an animal, a person, or any object you want to feature as the main subject"}.
+[Aspect Ratio]
+Vertical 3:4
+[Style]
+Digital painting / brush-painted effect.
+Visible brush strokes, uneven edges, slightly stretched paint marks.
+Hand-painted appearance that feels untouched and authentic.
+Interpret the image as a flat illustration with a simple arrangement of shapes rather than a realistic depiction.
+No gradients, shadows, 3D rendering, or detailed textures. Keep everything completely flat.
+Use a thin, irregular brush-painted outline that varies slightly from the painted areas.
+[Color]
+Background should be {argument name="background color" default="cream / off-white paper"}.
+Use only 3–4 colors taken from the attached photo:
+1 dark primary color
+1 bright primary color
+1–2 supporting colors
+Slightly desaturated vintage tone.
+Never increase the number of colors.
+[Composition]
+The subject should be large and centered, occupying approximately 50–55% of the canvas.
+Extend the composition vertically with more space above and below, while also increasing the left and right margins.
+At the top: place 1–2 {argument name="subject description" default="English uppercase words"} describing the subject, in very large hand-painted brush lettering. Use very wide letter spacing; the text may wrap around the illustration or extend toward the right/downward.
+At the bottom right: add a short handwritten English phrase of 3–5 words in an accent color.
+[Text]
+Look at the photo and choose suitable top and bottom phrases.
+Do not use the actual subject name as the top text.
+Choose words based on the atmosphere, location, season, time of day, or emotion shown in the photo.
+The bottom phrase should feel casual, lighthearted, and slightly playful—not overly serious or explanatory.
+[Forbidden]
+Realistic rendering
+3D
+Shadows
+Reflections
+Logos
+Watermarks
+Border frames
+Excessive enlargement of the subject
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2090421882311024862) | 2026-08-20
+
+---
+
+### 🎴 例 6545：几何情感之窗海报
+
+![几何情感之窗海报](../images/%E5%87%A0%E4%BD%95%E6%83%85%E6%84%9F%E4%B9%8B%E7%AA%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有高端品牌广告、艺术杂志与展览视觉的精致质感。为适配画幅，可自然扩展天空、地面或环境背景，主体本身保持不变。 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为具有高级商业审美的极简视觉海报。核心语言是 **“真实物象穿越几何情绪窗口”**：在画面中设置一个窄长、克制、低饱和的几何色块，作为视觉锚点与空间容器。**色块方向不固定，可为横向、竖向或斜向**，根据主体的重心、动作方向、轮廓走势与版面节奏自然决定。主体以真实摄影感或精致写实方式进入色块之中，并局部越界、破框、伸出或穿过边界，形成自然生长感、空间穿透感与留白呼吸感。 构图保持极简、清晰、平衡，以几何色块、主体越界关系和大面积留白建立秩序。主体可居中、偏心、纵向生长或横向舒展，但始终保持单一焦点。背景以白色、浅灰或极浅暖色为主，可加入极轻微的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的辅助层次。 配色从上方照片中提取最有辨识度、最有精气神的颜色关系，转化为**浅色几何窗口 + 真实主体色彩 + 极少量中性色排版**的高级系统。色块颜色可柔化为雾蓝、浅青、米白、淡粉、暖灰、浅金或其他与原图气质一致的浅色调，整体轻盈、干净、现代、精致。 文字作为版式结构的一部分自然介入。可从照片的主题、情绪、动作、状态或象征意义中提炼一个简短英文标题，并搭配少量副标题、地点、状态词或微型注释。标题可横排、竖排或沿色块与主体关系排布，辅助信息以小字号、细字重、舒展字距规整排列，使其呈现高端地产、奢侈品、美学杂志或节气视觉般的高级编辑感。 整体气质强调**东方留白、现代秩序、自然生命力与高级商业美感**。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应保持真实摄影与几何情绪窗口之间清晰、优雅、可迁移的视觉呼应。请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有高端品牌广告、艺术杂志与展览视觉的精致质感。为适配画幅，可自然扩展天空、地面或环境背景，主体本身保持不变。 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为具有高级商业审美的极简视觉海报。核心语言是 **“真实物象穿越几何情绪窗口”**：在画面中设置一个窄长、克制、低饱和的几何色块，作为视觉锚点与空间容器。**色块方向不固定，可为横向、竖向或斜向**，根据主体的重心、动作方向、轮廓走势与版面节奏自然决定。主体以真实摄影感或精致写实方式进入色块之中，并局部越界、破框、伸出或穿过边界，形成自然生长感、空间穿透感与留白呼吸感。 构图保持极简、清晰、平衡，以几何色块、主体越界关系和大面积留白建立秩序。主体可居中、偏心、纵向生长或横向舒展，但始终保持单一焦点。背景以白色、浅灰或极浅暖色为主，可加入极轻微的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的辅助层次。 配色从上方照片中提取最有辨识度、最有精气神的颜色关系，转化为**浅色几何窗口 + 真实主体色彩 + 极少量中性色排版**的高级系统。色块颜色可柔化为雾蓝、浅青、米白、淡粉、暖灰、浅金或其他与原图气质一致的浅色调，整体轻盈、干净、现代、精致。 文字作为版式结构的一部分自然介入。可从照片的主题、情绪、动作、状态或象征意义中提炼一个简短英文标题，并搭配少量副标题、地点、状态词或微型注释。标题可横排、竖排或沿色块与主体关系排布，辅助信息以小字号、细字重、舒展字距规整排列，使其呈现高端地产、奢侈品、美学杂志或节气视觉般的高级编辑感。 整体气质强调**东方留白、现代秩序、自然生命力与高级商业美感**。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应保持真实摄影与几何情绪窗口之间清晰、优雅、可迁移的视觉呼应。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090415726813393008) | 2026-08-20
+
+---
+
+### 🎴 例 6553：中式美学窗景海报
+
+![中式美学窗景海报](../images/%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%AA%97%E6%99%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="海报比例" default="3:4竖版构图"}，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一张柔和、朦胧而具有东方框景秩序的氛围插画。以中国传统建筑中的圆窗、花窗、漏窗、月洞、扇形窗、六角窗或几何棂格作为主要结构框架，根据主体形态选择最合适的一种，不机械套用。主体、枝影、光斑或抽象投影在窗形中显现、穿过、遮挡或溢出，使窗框既固定画面秩序，又形成虚实之间的空间层次。
+
+构图强调视觉重心、比例关系、正负形与留白节奏。窗形不必绝对居中，可轻微偏置、局部裁切或悬置于画面一侧；主体与光影围绕窗形形成主次关系，通过一处主要光区、一处安静留白和少量柔和投影建立稳定而富有诗意的视觉三角。避免平均铺满、过度对称和复杂装饰，让画面看似简单，却具有明确的空间秩序与呼吸感。
+
+背景不固定使用深蓝，而从上方照片中提取一个{argument name="背景色" default="非常浅、低饱和、干净且与原图协调的综合色"}，如雾蓝、浅青、淡杏、柔粉、灰绿、暖米白或极浅紫灰，使背景与主体之间产生温柔而清晰的明度落差。光影则从原图最有生命力的颜色中提炼，可适度提亮、提纯，形成柔和的冷暖呼应。整体避免脏灰、厚重暗底、荧光色和生硬高反差。
+
+质感采用细腻的喷绘颗粒、色粉、空气感柔焦与漫射光，光影边缘自然虚化，带轻微颗粒、粉尘和色彩晕染。窗格本身可以比光影稍清晰，但仍保持柔和，不做硬质建筑描边；让画面像阳光透过传统窗棂投射在一面浅色墙上，被记忆和空气轻轻模糊。
+
+文字作为构图中的微小秩序介入，从照片的情绪、时间、动作、温度或隐喻中提炼一个{argument name="英文标题" default="极短英文标题"}，并搭配少量地点词、状态词或微型短句。文字可沿窗框边缘、弧线、轴线或光影留白排布，与窗形形成对齐、环绕、错位或穿插关系，以极小字号、细字重和宽字距形成安静的高级编辑感。
+
+整体呈现浅色呼吸感背景、传统窗形框景、柔和有色光影、喷绘颗粒、虚实投影与大面积留白共同构成的东方现代视觉。无论主体是人物、动物、植物、建筑、器物或自然景观，都应保持与上方照片清晰呼应，同时具有温柔、静谧、清透、诗意、治愈而高级的艺术气质，避免卡通感、廉价滤镜、厚重暗色、杂乱装饰和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090381352025854206) | 2026-08-20
+
+---
+
+### 🎴 例 6558：复古 ima 选题库海报
+
+![复古 ima 选题库海报](../images/%E5%A4%8D%E5%8F%A4%20ima%20%E9%80%89%E9%A2%98%E5%BA%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="ima"} 创建一张复古的中世纪杂志广告海报，采用温暖的米色纸张背景、陈旧的印刷质感、细腻的网点颗粒，以及怀旧的 20 世纪 50 年代社论插画风格。
+
+画布：横向 3:2 构图，留有宽裕的米白色页边距，布局平衡，如同旧杂志的跨页排版。左半部分以排版为主；右半部分为坐在桌前的女性插画。
+
+布局：在左侧，放置一个优雅的衬线体黑色中文大标题，分为四行堆叠排列，其中品牌词用红色标出：{argument name="headline text" default="仅靠刷手机，我用 ima 搭了个自动选题库"}。下方添加一个小红点和细灰色水平分割线，随后是一个较小的黑色副标题：{argument name="subtitle text" default="素材丢进去，选题自己跑出来"}。在左下角，添加一行极小的灰色页脚文字“ima × Ideas come out.”。
+
+主体插画：在右侧，绘制一位时尚的复古女性，肤色白皙，留着黑色短卷发，佩戴红色发带，身穿红色短袖上衣，涂着红唇，戴着珍珠耳环和手表。她一手托腮，另一只手拿着智能手机，平静地注视着手机。她面前是一台打开的银色笔记本电脑，背面中心印有品牌 Logo “ima”。桌上仅包含 3 件办公用品：笔记本电脑、一本带笔的小笔记本，以及一个放在茶托上的黄色茶杯。
+
+漂浮的灵感流：从笔记本电脑和女性身后，创造一条向上盘旋至右上角的白色纸带，暗示灵感自动涌现。在纸带上附着 8 张矩形选题卡片，每张卡片上带有中文标签：1) {argument name="topic card one" default="情感共鸣"}, 2) “反常识”, 3) “情绪共鸣”, 4) “热点延禧”, 5) “观点递增”, 6) “行业洞察”, 7) “行业洞察”, 8) “长期价值”。使用柔和的纸张色调：米色、淡黄色、浅绿灰色、橙色和奶油色。此外，在漂浮的卡片周围加入 2 张空白小纸条和几颗微小的金色闪烁星形图案。
+
+视觉风格：复古中国杂志封面美学，手绘商业插画，墨线勾勒，柔和的水彩质感阴影，柔和的红黄色调，米色背景，印刷纸张颗粒感，色彩略微褪色，兼具优雅与实用感的生产力广告风格。
+
+约束：保持所有可见文字清晰易读，保留规定数量的漂浮标签卡片和桌面物品，避免照片级真实感，避免现代光泽感 UI 元素，无多余角色，无水印。
+
+[English]
+Goal: Create a retro mid-century magazine advertisement poster for {argument name="brand name" default="ima"}, with a warm cream paper background, aged print texture, subtle halftone grain, and a nostalgic 1950s editorial illustration style.
+
+Canvas: Horizontal 3:2 composition, generous off-white margins, balanced like an old magazine spread. Left half is typography-heavy; right half is an illustrated woman at a desk.
+
+Layout: On the left, place a large black Chinese headline in elegant serif-style type, arranged in four stacked lines, with the brand word in red: {argument name="headline text" default="仅靠刷手机，我用 ima 搭了个自动选题库"}. Under it, add a small red dot and thin gray horizontal divider, then a smaller black subtitle: {argument name="subtitle text" default="素材丢进去，选题自己跑出来"}. In the bottom-left corner, add a tiny footer reading “ima × Ideas come out.” in muted gray.
+
+Main illustration: On the right, draw a fashionable retro woman with pale skin, short black curled hair, red headband, red short-sleeve top, red lipstick, pearl earrings, and a wristwatch. She rests her chin on one hand while holding a smartphone in the other, looking calmly at the phone. In front of her is an open silver laptop with the brand logo “ima” centered on the back. On the desk include exactly 3 desk items: the laptop, a small notebook with a pen, and a yellow teacup on a saucer.
+
+Floating idea stream: From behind the laptop and woman, create a swirling white paper-ribbon trail curling upward to the top-right, suggesting ideas automatically emerging. Attach exactly 8 small rectangular topic cards to the swirl, each with Chinese labels: 1) {argument name="topic card one" default="情感共鸣"}, 2) “反常识”, 3) “情绪共鸣”, 4) “热点延禧”, 5) “观点递增”, 6) “行业洞察”, 7) “行业洞察”, 8) “长期价值”. Use varied muted paper colors: beige, pale yellow, light green-gray, orange, and cream. Also include exactly 2 small blank note papers and a few tiny gold sparkle stars around the floating cards.
+
+Visual style: Vintage Chinese magazine cover aesthetic, hand-drawn commercial illustration, ink outlines, soft watercolor-like shading, muted reds and yellows, cream background, printed paper grain, slightly faded colors, elegant yet practical productivity-ad feeling.
+
+Constraints: Keep all visible text crisp and readable, preserve the exact number of floating labeled cards and desk items, avoid photorealism, avoid modern glossy UI elements, no extra characters, no watermark.
+```
+
+**来源：** [@夏林果的出海日记](https://x.com/momo_peggy/status/2090342342998057161) | 2026-08-20
+
+---
+
+### 🎴 例 6563：日落时分的日本老车站
+
+![日落时分的日本老车站](../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%80%81%E8%BD%A6%E7%AB%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级写实场景：雨后黄金时刻的日本乡村老火车站站台，视角从带顶棚的站台大厅向外望向轨道。建筑呈现出沧桑怀旧的质感：深色木梁、剥落的灰泥墙、老旧的金属立柱、大面积的格子窗门、磨损的长椅、时刻表项目、海报以及倒映着温暖夕阳的湿润混凝土路面。画面中需包含 4 个人物：最左侧有一名剪影状的制服站务员正在查看或更新墙上的大型纸质时刻表；左中位置有一位老人独自坐在木椅上，身旁放着一个黑色行李箱；中间走廊有一名手持文件夹或剪贴板的制服工作人员正走远；右侧站台上有一名背着背包的年轻旅客，正面向一列进站的现代火车。左侧高墙上挂着一个大型圆形模拟车站时钟，显示时间为 {argument name="clock time" default="9:45"}；左后方有一台灯光亮起的饮料自动售货机；左下前景处堆放着报纸或板条箱；右侧轨道上有一列开着前照灯的现代火车正在进站。场景应营造出宁静、忧郁且写实的氛围，温暖的橙色夕阳从右侧射入，轨道远方可见山峦、电线、长长的阴影、柔和的薄雾、细腻的纹理和自然的景深，画面中不应包含任何文字标题或水印。采用宽幅 3:2 横向构图，超精细纪实摄影风格，使用 {argument name="camera lens" default="35mm 镜头"} 拍摄，呈现 {argument name="lighting mood" default="温暖的电影级夕阳倒影"} 和 {argument name="location" default="日本老火车站"} 的怀旧氛围。
+
+[English]
+Create a cinematic photorealistic scene of an old Japanese railway station platform at {argument name="time of day" default="golden-hour sunset after rain"}. The camera looks down a weathered covered platform from inside the station, with warm low sunlight streaming in from the right and reflecting on wet polished concrete floors. The architecture is aged and industrial: peeling wood-paneled walls, tall steel columns, exposed beams, old window frames, hanging lamps, posters and timetables on the wall, and a large round analog station clock high on the left reading about 9:45. Include exactly four human figures: 1) a silhouetted uniformed station worker on the far left reaching up to adjust or check a paper timetable, 2) an elderly man seated on a wooden bench near the left-center with a dark rolling suitcase beside him, 3) a uniformed conductor walking away down the platform near the center carrying a small bag, and 4) a lone passenger standing near the platform edge on the right wearing a backpack and watching the train. Include one illuminated drink vending machine near the center-left with many colorful bottles visible inside, one wooden bench beside it, and one modern commuter train arriving on the right track with headlights on. The far background shows rails, overhead wires, mountains or hills, and a glowing orange sun near the horizon. Use {argument name="location style" default="nostalgic rural Japanese station"}, moody amber lighting, deep shadows, realistic textures, volumetric haze, high dynamic range, shallow cinematic depth, and a 35mm film still composition. Avoid modern signage clutter, avoid crowds, avoid cartoon or illustration style, and keep the atmosphere quiet, nostalgic, and contemplative.
+```
+
+**来源：** [@HsYr](https://x.com/visual58661/status/2090332208519365106) | 2026-08-20
+
+---
+
+### 🎴 例 6570：电影感阳光公寓海报
+
+![电影感阳光公寓海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%98%B3%E5%85%89%E5%85%AC%E5%AF%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感竖版海报风格的照片，标题为 {argument name="title text" default="光的方向"}。场景描绘了一位年轻的东亚女性，身穿 {argument name="outfit" default="淡桃色缎面吊带背心和短裤"}，盘腿坐在老旧公寓楼外狭窄的混凝土窗台上，位置高于一扇带有防盗栏的窗户。她微微仰起脸，双眼闭合或半闭，平静地沐浴在从左上方斜射而入的温暖金色阳光中。她深色的头发随意扎起，一侧肩膀被柔和地照亮，姿态放松而沉思。建筑外墙是带有真实纹理的灰褐色灰泥，布满裂缝、污渍，上方有一扇矩形窗户，下方窗户装有金属防盗栏，挂着两件小衣物，右侧有生锈的垂直排水管。左下角前景中有一棵深色叶片的树木部分遮挡，增加了画面深度。以戏剧性的定向光作为主体：强烈的琥珀色阳光斜切过墙面，可见尘埃与薄雾，右侧呈现深邃阴影，高对比度，温暖的高光，低饱和度的城市色调，35mm 电影级写实构图，浅景深氛围，怀旧宁静的意境。在底部中心位置放置优雅的大号中文字体标题，颜色为淡暖米色，文字内容为 {argument name="bottom title text" default="光的方向"}，像电影海报一样融合在画面中，且不遮挡人物。画面中无其他人物、无 Logo、无水印、无其他可读文字。
+
+[English]
+Create a cinematic vertical movie-poster style photograph titled {argument name="title text" default="光的方向"}. The scene shows a young East Asian woman with {argument name="outfit" default="a pale peach satin camisole and shorts"} sitting cross-legged on a narrow concrete ledge outside an old apartment building, high above a barred window. She tilts her face upward with closed or half-closed eyes, peacefully basking in a diagonal beam of warm golden sunlight entering from the upper left. Her dark hair is tied back loosely, one shoulder softly highlighted, her posture relaxed and contemplative. The building facade is aged gray-brown stucco with realistic texture, cracks, stains, a rectangular upper window, metal security bars over the lower window, two small pieces of laundry hanging below, and rusted vertical drainpipes on the right. A dark leafy tree partially obscures the lower left foreground, adding depth. Use dramatic directional light as the main subject: strong amber sun rays cutting across the wall, visible dust and haze, deep shadow on the right side, high contrast, warm highlights, muted urban colors, photorealistic 35mm cinematic composition, shallow atmospheric depth, nostalgic quiet mood. Place large elegant Chinese serif title text near the bottom center in pale warm beige, reading {argument name="bottom title text" default="光的方向"}, integrated like a film poster without covering the woman. No extra people, no logos, no watermark, no additional readable text.
+```
+
+**来源：** [@larry zheng](https://x.com/larryzheng4/status/2090310330471866823) | 2026-08-20
+
+---
+
+### 🎴 例 6571：复古欧式旅行海报插画
+
+![复古欧式旅行海报插画](../images/%E5%A4%8D%E5%8F%A4%E6%AC%A7%E5%BC%8F%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅垂直版编辑类旅行插画，灵感源自复古欧式旅行海报，描绘一个宁静的夏日午后，背景为宏伟的城市公园以及清晰可见的 {argument name="skyline style" default="曼哈顿风格"} 天际线。采用精致的手绘墨水线条，结合温暖的奶油色纹理纸张上柔和且略带瑕疵的水彩晕染。画面展示一片宽阔的绿草坪，人们在其中放松、阅读、散步、慢跑、骑行和野餐。前景中，一对穿着休闲的 {argument name="subject" default="年轻情侣"} 坐在野餐垫上，身旁放着一个编织篮。加入优雅的黑色复古公园路灯、蜿蜒的小径、构图周围茂密的树木，以及公园后方错落有致的历史建筑与现代摩天大楼。在画面底部附近，添加一座横跨宁静池塘的精致石拱桥。使用柔和的鼠尾草绿、橄榄绿、暖米色、柔和蓝、淡灰色以及细腻的金色阳光，呈现自然的颜料晕染、纸张纹理、精细的排线，以及轻盈且高级的旅行日志美学。无文字、无字母、无 Logo、无排版、无标题、无标识。垂直 4:5 构图，高度细节化，优雅、怀旧，手工水彩与墨水插画。
+
+[English]
+Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2090307485374578755) | 2026-08-20
+
+---
+
+### 🎴 例 6576：汽车广告分镜脚本
+
+![汽车广告分镜脚本](../images/%E6%B1%BD%E8%BD%A6%E5%B9%BF%E5%91%8A%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个专业的 16:9 电影级分镜/联系表，用于 {argument name="duration" default="20 秒"} 的写实风格 {argument name="subject" default="汽车"} 广告。请使用上传的车辆参考项目作为严格的视觉识别标准
+
+[English]
+Create a professional 16:9 cinematic storyboard/contact sheet for a {argument name="duration" default="20-second"} photorealistic {argument name="subject" default="automotive"} commercial. Use the uploaded vehicle reference board as the strict identity
+```
+
+**来源：** [@Abhishek](https://x.com/HeyAbhishek/status/2090292951062811114) | 2026-08-20
+
+---
+
+### 🎴 例 6577：奢华旅行编辑海报
+
+![奢华旅行编辑海报](../images/%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张令人惊叹的 4:5 竖版奢华旅行艺术作品，主题为 {argument name="country" default="[国家]"}，灵感源自高端杂志封面、复古欧洲旅行海报、艺术摄影和柔和的氛围感绘画——同时呈现出完全原创的视觉概念。
+
+概念 —— “玻璃背后的国家”
+
+想象一扇巨大的、晶莹剔透的建筑玻璃窗，垂直悬浮在优雅梦幻的景观中。这扇玻璃不仅仅是一扇窗，它更像是一个通往 {argument name="country" default="[国家]"} 灵魂的门户。
+
+透过玻璃，展现一个层次分明、精美绝伦的微缩世界，包含该国最具辨识度的特征：
+
+• 一个标志性地标作为核心元素
+• 特色建筑和屋顶
+• 壮丽的自然景观 —— 根据 {argument name="country" default="[国家]"} 的不同，可以是山脉、海洋、沙漠、森林或乡村
+• 自然融入环境的微型国旗
+• 传统交通工具
+• 当地花卉和植被
+• 几个微小的人像以体现比例感
+• 一两个标志性的文化细节或物品
+• 氛围感十足的飞鸟、云朵和远景
+
+让一切看起来仿佛存在于一个巨大的透明玻璃门户内，部分元素微妙地穿过玻璃延伸至前景。
+
+魔法时刻
+
+在场景底部，创造一个如镜面般平静的表面。
+
+倒影不再是普通的反射，而是 {argument name="country" default="[国家]"} 的另一种梦幻版本 —— 更加柔和、神秘，近乎水彩画质感。
+
+现实世界与倒影世界在地平线处无缝连接，营造出该国在玻璃下方无限延伸的错觉。
+
+通过玻璃添加精致的折射效果：
+
+• 微妙的彩虹色散
+• 玻璃边缘逼真的高光
+• 被阳光照亮的微小浮尘
+• 柔和的焦散光影
+• 淡淡的凝结水汽和微观玻璃纹理
+• 建筑与天空的优雅倒影
+
+构图
+
+采用极其精致的编辑式构图，留出充裕的负空间。
+
+将标题置于上方区域：
+
+{argument name="country" default="[国家]"}
+
+下方添加一行精致的小标语：
+
+{argument name="country" default="[国家]"} 之魂
+
+随后是微小的编辑细节：
+
+穿越时光的旅程 • 2026
+
+排版应采用极简、优雅的高级时尚衬线字体，完美居中并自然融入艺术作品中。
+
+切勿过度堆砌元素。
+
+地标应在视觉上占据主导地位，而周围的细节则随着观众的深入观察逐渐显现。
+
+氛围
+
+轻雾弥漫的清晨。
+
+温暖的象牙色阳光透过淡云洒下。
+
+柔和的香槟色、奶油色、柔和蓝、灰绿色和暖石色调。
+
+精致的电影级薄雾环绕着建筑。
+
+整幅图像应传达出：
+
+宁静 • 昂贵 • 诗意 • 永恒 • 电影感 • 怀旧 • 精致
+
+将超写实的建筑细节与艺术水彩的细腻感以及奢华时尚编辑的质感完美融合。
+
+[English]
+Create a breathtaking 4:5 vertical luxury travel artwork for {argument name="country" default="[COUNTRY]"}, inspired by high-end editorial magazine covers, vintage European travel posters, fine-art photography, and soft atmospheric painting — but with a completely original visual concept.
+
+CONCEPT — “THE COUNTRY BEHIND THE GLASS”
+
+Imagine a gigantic, crystal-clear architectural glass window floating vertically in an elegant dreamlike landscape. The glass is not merely a window — it acts as a portal into the soul of {argument name="country" default="[COUNTRY]"}.
+
+Through the glass, reveal a beautifully layered miniature world containing the country’s most recognizable identity:
+
+• one iconic landmark as the hero element
+• characteristic architecture and rooftops
+• dramatic natural landscape — mountains, sea, desert, forests, or countryside depending on {argument name="country" default="[COUNTRY]"}
+• a subtle national flag integrated naturally into the environment
+• traditional transportation
+• local flowers and vegetation
+• a few tiny human figures creating scale
+• one or two iconic cultural details or objects
+• atmospheric birds, clouds and distant scenery
+
+Make everything feel as though it exists inside one enormous transparent glass portal, with some elements subtly crossing through the glass into the foreground.
+
+THE MAGIC
+
+At the bottom of the scene, create a perfectly calm mirror-like surface.
+
+Instead of a normal reflection, the reflection becomes an alternate dream version of {argument name="country" default="[COUNTRY]"} — slightly softer, more mysterious and almost watercolor-like.
+
+The real world and reflected world should connect seamlessly at the horizon, creating the illusion that the country continues infinitely beneath the glass.
+
+Add delicate refraction through the glass:
+
+• subtle rainbow dispersion
+• realistic highlights along the glass edges
+• tiny floating dust particles illuminated by sunlight
+• soft caustic light patterns
+• faint condensation and microscopic glass texture
+• elegant reflections of architecture and sky
+
+COMPOSITION
+
+Use an extremely refined editorial composition with generous negative space.
+
+Place the title near the upper section:
+
+{argument name="country" default="[COUNTRY]"}
+
+Underneath, add a sophisticated small tagline:
+
+THE SOUL OF {argument name="country" default="[COUNTRY]"}
+
+Then a tiny editorial detail:
+
+A JOURNEY THROUGH TIME • 2026
+
+Typography should be minimal, elegant, high-fashion serif typography, perfectly centered and naturally integrated into the artwork.
+
+Do not overcrowd the poster.
+
+The landmark should be visually dominant, while the surrounding details gradually reveal themselves as the viewer looks closer.
+
+ATMOSPHERE
+
+Early morning after a light mist.
+
+Warm ivory sunlight filtering through pale clouds.
+
+Soft champagne, cream, muted blue, dusty green and warm stone tones.
+
+A sophisticated cinematic haze surrounds the architecture.
+
+The entire image should feel:
+
+quiet • expensive • poetic • timeless • cinematic • nostalgic • sophisticated
+
+Blend ultra-realistic architectural detail with the delicacy of a fine-art watercolor and the polish of a luxury fashion editorial.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2090290723677749525) | 2026-08-20
+
+---
+
+### 🎴 例 6596：高端饮品广告海报
+
+![高端饮品广告海报](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E5%93%81%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为虚构的高端气泡饮品品牌 {argument name="brand name" default="AURÉO"} 创作一张世界级的高端饮品广告海报。
+
+产品信息如下：
+
+{argument name="product title" default="AURÉO Sparkling Citrus"}
+口味：{argument name="flavor" default="柚子与柠檬"}
+主标题：TASTE THE CROWN
+副标题：重新定义高端气泡柑橘饮品。
+
+创作一张精致的电影感肖像广告，画面中一位帅气的写实风格男性品牌大使自信地站在深色调的高端摄影棚内。
+
+他看起来应像一位真正的国际商业模特——极具吸引力、优雅、充满魅力且自然亲和——不要过度摆拍，也不要显得虚假。
+
+他身穿一件剪裁合体的黑色夹克，内搭黑色衬衫，对着镜头露出自信而微妙的微笑。
+
+他单手自然地在胸前握住 AURÉO 易拉罐，产品正面清晰地朝向观众。
+
+这款饮品罐应高挑且优雅，具备以下特征：
+
+* 哑光高级黑色包装
+* 精致的金属金色细节
+* 奢华的 AURÉO 品牌标识
+* 清晰可读的 “SPARKLING CITRUS” 字样
+* 清晰可读的 “YUZU & LEMON” 字样
+* 冰镇表面上真实的冷凝水珠
+
+在品牌大使和产品身后，创作一个非凡的 **金色气泡柑橘溅射效果，形成微妙的皇冠形状**，从视觉上强化 “Taste the Crown” 的活动理念。
+
+在构图中加入精心控制的高端清爽细节：
+
+* 切片柚子
+* 新鲜柠檬
+* 晶莹剔透的冰块
+* 气泡水滴
+* 微妙的碳酸气泡
+* 定格在空中的细小水珠
+
+保持视觉效果优雅且可控，避免杂乱。
+
+灯光应呈现出高端国际饮品广告的质感：
+
+* 深黑色摄影棚背景
+* 温暖的金色轮廓光
+* 沿大使面部和肩部的精致高光
+* 光滑的产品反光
+* 真实的皮肤纹理
+* 强烈但精致的对比度
+* 浅景深电影感
+* 微妙的大气薄雾
+* 高端商业摄影风格
+
+品牌大使应作为产品的陪衬。
+
+AURÉO 易拉罐必须是视觉焦点。
+
+将最终海报设计成真正的全球广告活动风格，具备专业的层级感和充足的留白。
+
+包含简洁的高端排版：
+
+AURÉO
+
+SPARKLING CITRUS
+
+TASTE THE CROWN
+
+YUZU & LEMON
+
+Premium sparkling citrus, redefined.
+
+排版应优雅、极简、拼写完美、专业对齐，并自然地融入构图中。
+
+请勿使海报过于拥挤。
+
+视觉方向：
+
+高端饮品广告，杂志商业摄影，高端品牌活动，写实真人摄影美学
+
+[English]
+Create a world-class premium beverage advertising poster for a fictional luxury sparkling drink brand called {argument name="brand name" default="AURÉO"}.
+
+The product is:
+
+{argument name="product title" default="AURÉO Sparkling Citrus"}
+Flavour: {argument name="flavor" default="Yuzu & Lemon"}
+Headline: TASTE THE CROWN
+Tagline: Premium sparkling citrus, redefined.
+
+Create a sophisticated cinematic portrait advertisement featuring a handsome photorealistic male brand ambassador standing confidently in a dark luxury studio.
+
+He should look like a real international commercial model — attractive, refined, charismatic and naturally approachable — not overly posed and not artificial-looking.
+
+He wears an elegant fitted black jacket over a black shirt and gives a subtle confident smile toward the camera.
+
+He holds the AURÉO can naturally in one hand at chest level, with the product facing clearly toward the viewer.
+
+The beverage can should be tall and elegant with:
+
+* matte premium black packaging
+* refined metallic gold detailing
+* luxurious AURÉO branding
+* clearly readable “SPARKLING CITRUS”
+* clearly readable “YUZU & LEMON”
+* realistic condensation beads across the chilled surface
+
+Behind the ambassador and product, create an extraordinary **golden sparkling citrus splash forming a subtle crown shape**, visually reinforcing the “Taste the Crown” campaign concept.
+
+Surround the composition with carefully controlled premium refreshment details:
+
+* sliced yuzu
+* fresh lemon
+* crystal-clear ice cubes
+* sparkling droplets
+* subtle carbonation bubbles
+* tiny water particles frozen in motion
+
+Keep the effects elegant and controlled rather than chaotic.
+
+Lighting should feel like a high-end international beverage campaign:
+
+* deep black studio background
+* warm golden rim lighting
+* sophisticated highlights along the ambassador’s face and shoulders
+* glossy product reflections
+* realistic skin texture
+* strong but refined contrast
+* shallow cinematic depth of field
+* subtle atmospheric haze
+* premium commercial photography
+
+The ambassador should remain secondary to the product.
+
+The AURÉO can must be the strongest visual focal point.
+
+Design the final poster like a genuine global advertising campaign with professional hierarchy and generous negative space.
+
+Include clean premium typography:
+
+AURÉO
+
+SPARKLING CITRUS
+
+TASTE THE CROWN
+
+YUZU & LEMON
+
+Premium sparkling citrus, redefined.
+
+Typography should be elegant, minimal, perfectly spelled, professionally aligned and integrated naturally into the composition.
+
+Do not overcrowd the poster.
+
+Visual direction:
+
+luxury beverage advertising, editorial commercial photography, premium brand campaign, photorealistic live-action aesthetic
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2090232675386933359) | 2026-08-20
+
+---
+

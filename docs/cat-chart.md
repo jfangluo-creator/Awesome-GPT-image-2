@@ -3929,3 +3929,21 @@ Each layer must remain perfectly
 
 ---
 
+### 📊 例 6588：高级时装角色概念设计图
+
+![高级时装角色概念设计图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一个 16:9 宽屏布局的高级现代时装角色概念设计图。所附的参考图像定义了艺术风格——请将其视为严格的风格指南，并复刻其精确的渲染效果。
+
+[English]
+Create a premium, modern high-fashion {argument name="subject" default="CHARACTER CONCEPT ART SHEET"} in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE {argument name="style type" default="ART STYLE"} — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2090266092757541043) | 2026-08-20
+
+---
+
