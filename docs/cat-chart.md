@@ -3947,3 +3947,95 @@ Create a premium, modern high-fashion {argument name="subject" default="CHARACTE
 
 ---
 
+### 📊 例 6613：旗袍设计与工艺信息图
+
+![旗袍设计与工艺信息图](../images/%E6%97%97%E8%A2%8D%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%B7%A5%E8%89%BA%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+生成一张 16:9 横版、纯白背景 的 旗袍结构与工艺细节图鉴，整体风格为 现代简洁图鉴页 + 高端服饰结构研究图 + 新中式极简服装解析页，画面干净、明亮、克制、精致，具有清晰的设计感与传播感。\n\n画面顶部设置完整的标题说明区，排版简洁高级、留白充足：\n\n主标题：“现代改良无袖旗袍”\n副标题：“结构与工艺细节图鉴”\n顶部风格说明行：“新中式极简｜米白提花丝绸｜祥云暗花提纹｜米白底・浅金滚边”\n右上角系列标签：“新中式系列”\n\n背景必须是 纯白色，不要米白、不要宣纸色、不要复古纸张感。\n\n画面中央是一位 22–32 岁的成年东方女性，气质 清雅、现代、克制，五官 清秀知性，轮廓柔和，东方感明确，发型为 简洁低髻。人物姿态自然稳定，正面站姿或轻微 3/4 角度，完整露出全身，双臂不要遮挡服装结构，整体重点是展示旗袍，不是拍人物写真。\n\n她身穿一件 现代改良无袖旗袍，风格方向为 新中式极简，整体廓形为 修身流线型。旗袍具有以下明确设定：\n\n领型：低立领\n襟型：简化斜襟\n盘扣类型：极简一字扣\n袖型：无袖\n长度与开衩：小腿中长款，中开衩\n面料：米白提花丝绸\n纹样与工艺：祥云暗花提纹\n主色与滚边配色：米白底 + 浅金滚边\n\n中央完整旗袍必须清晰展示：\n\n低立领结构\n简化斜襟走向\n极简一字盘扣\n无袖肩部轮廓\n修身腰线与腰省关系\n中开衩位置\n下摆与滚边关系\n\n围绕中央主体，在左右两侧分布 7 个局部拆解模块，所有模块必须严格来自中央同一件旗袍，保证 颜色一致、面料一致、纹样一致、滚边一致、结构一致。拆解重点为：\n\n领口\n襟线\n无袖肩部\n腰省\n开衩\n提花纹理\n滚边工艺\n\n局部模块需混合三类形式：\n\n结构放大图：领口、襟线、无袖肩部、开衩\n工艺微距图：提花纹理、滚边工艺、极简一字盘扣\n结构线稿图：腰省结构线稿\n\n使用 虚线手绘单向箭头 将每个局部模块与中央旗袍的对应位置连接，箭头要求：\n\n极细虚线\n手绘感曲线\n单向箭头\n小圆点定位\n优雅克制，不要科技信息图风\n\n每个局部模块旁边只标注简短中文组件名称，不写长段说明。可使用如下文字：\n\n领口\n襟线\n无袖肩部\n腰省\n开衩\n提花纹理\n滚边工艺\n\n在画面底部加入少量小样陈列，保持简洁，可包含：\n\n米白提花丝绸 面料小样\n浅金滚边 色卡小样\n简约一字盘扣 工艺小样\n\n整体视觉要强调：\n\n纯净感\n现代结构感\n新中式极简气质\n面料提花的细腻层次\n米白与浅金的高级配色\n图鉴感、设计研究页感、可传播性\n\n光线柔和明亮，像高级服装设计展示页，能清晰呈现丝绸提花纹理、滚边厚度、盘扣细节与剪裁结构。\n\n负面约束：\n不要普通写真海报感，不要电商白底商品图感，不要杂乱排版，不要大段说明文字，不要粗箭头，不要科技感直线连接，不要人物遮挡服装结构，不要局部模块与中央旗袍不一致，不要错误开衩位置，不要模糊纹理，不要塑料质感。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2090825188107833774) | 2026-08-21
+
+---
+
+### 📊 例 6659：高级时装角色概念设计图
+
+![高级时装角色概念设计图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张优质、现代的高级时装角色概念艺术设计图，采用 16:9 宽屏布局，背景为纯白色。所附参考图定义了艺术风格 —— 请将其视为严格的风格指南，并精准复刻其渲染效果。
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2090674444679143913) | 2026-08-21
+
+---
+
+### 📊 例 6673：复古经典鸡尾酒信息图
+
+![复古经典鸡尾酒信息图](../images/%E5%A4%8D%E5%8F%A4%E7%BB%8F%E5%85%B8%E9%B8%A1%E5%B0%BE%E9%85%92%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张 16:9 宽屏教育演示 Slides 信息图，主题为 {argument name="headline text" default="TIMELESS ICONS:"} 以及经典鸡尾酒的解构，采用奢华的复古地下酒吧风格。
+
+画布：16:9 横向 Slides，深祖母绿背景，带有细腻的晕影效果，细双线金色边框，圆角深色框架，华丽的装饰艺术风格边角装饰，以及温暖的琥珀色摄影灯光。使用优雅的衬线字体，颜色为金属金和奶油色，主标题居中置于顶部，下方配有小型间距副标题 {argument name="subtitle text" default="DECONSTRUCTING CLASSICS"}。
+
+布局：将 Slides 分为 3 个垂直鸡尾酒面板，面板间使用细金线装饰，每个面板顶部设有小型金色标题牌。每个面板左侧或中心放置一张写实的鸡尾酒照片，右侧放置垂直排列的配料，并用细虚线引导连接。底部居中添加斜体页脚引语 {argument name="footer quote" default="Each cocktail is a masterclass in ingredient interplay."}，两侧配以小型金色装饰。
+
+板块及可见内容：面板 1 标注为 OLD FASHIONED。展示一个盛满琥珀色威士忌、大块透明冰块以及橙皮装饰的水晶岩石杯，放置在深色吧台上。文本段落：“Old Fashioned：威士忌、糖、苦精、水。优雅简约的典范。”包含 4 个配料小图及标签：威士忌、糖、苦精、水。
+
+面板 2 标注为 NEGRONI。展示一个盛有深红色鸡尾酒、冰块和明亮橙片装饰的大号矮杯。文本段落：“Negroni：金酒、金巴利、甜味美思。标志性的苦甜开胃酒。”包含 3 个配料小图及标签：金酒、金巴利、甜味美思。
+
+面板 3 标注为 DAIQUIRI。展示一个盛有淡色泡沫状鸡尾酒、配以青柠片装饰的浅口杯。文本段落：“Daiquiri：朗姆酒、青柠汁、糖浆。酸甜平衡的纯粹之作。”包含 3 个配料小图及标签：朗姆酒、青柠汁、糖浆。
+
+视觉风格：高级鸡尾酒单信息图，照片级真实的饮品和配料杯，金色雕刻装饰，深绿色天鹅绒质感背景，温暖的高光，高对比度，清晰易读的标签，经典的奢华酒吧氛围。
+
+约束：总共使用 3 个鸡尾酒面板和 10 个配料小图。保持所有文本清晰易读且拼写正确。不要添加任何 Logo、水印、人物、额外的鸡尾酒或额外的配料标签。
+
+[English]
+Goal: Create a single widescreen educational presentation slide infographic about {argument name="headline text" default="TIMELESS ICONS:"} and the deconstruction of classic cocktails, in a luxurious vintage speakeasy style.
+
+Canvas: 16:9 horizontal slide, dark emerald green background with a subtle vignette, thin double-line gold border, rounded dark frame, ornate Art Deco corner flourishes, and warm amber photographic lighting. Use elegant serif typography in metallic gold and cream, with the main title large and centered at the top and a small spaced subtitle beneath it reading {argument name="subtitle text" default="DECONSTRUCTING CLASSICS"}.
+
+Layout: Divide the slide into exactly 3 vertical cocktail panels with thin gold ornamental borders and small gold title plaques at the top of each panel. Each panel contains one large realistic cocktail photo on the left or center and a vertical ingredient stack on the right, connected by fine dotted gold guide lines. Add a centered italic footer quote along the bottom reading {argument name="footer quote" default="Each cocktail is a masterclass in ingredient interplay."}, flanked by small gold flourishes.
+
+Sections and visible content: Panel 1 is labeled OLD FASHIONED. It shows a large crystal rocks glass filled with amber whiskey, big clear ice cubes, and an orange peel garnish on a dark bar surface. Text paragraph: “Old Fashioned: Whiskey, sugar, bitters, water. A study in elegant simplicity.” Include exactly 4 ingredient mini-images with labels: Whiskey, Sugar, Bitters, Water.
+
+Panel 2 is labeled NEGRONI. It shows a large lowball glass with a deep red cocktail, ice cubes, and a bright orange slice garnish. Text paragraph: “Negroni: Gin, Campari, sweet vermouth. The iconic bitter-sweet aperitif.” Include exactly 3 ingredient mini-images with labels: Gin, Campari, Sweet Vermouth.
+
+Panel 3 is labeled DAIQUIRI. It shows a pale frothy daiquiri in a coupe glass with a lime wheel garnish. Text paragraph: “Daiquiri: Rum, lime juice, simple syrup. A pristine balance of sweet and sour.” Include exactly 3 ingredient mini-images with labels: Rum, Lime Juice, Simple Syrup.
+
+Visual style: Premium cocktail-menu infographic, photorealistic drinks and ingredient glasses, gold engraved ornamentation, dark green velvet-like background, warm highlights, high contrast, crisp readable labels, classic luxury bar atmosphere.
+
+Constraints: Use exactly 3 cocktail panels and exactly 10 ingredient mini-images total. Keep all text readable and correctly spelled. Do not add logos, watermarks, people, extra cocktails, or extra ingredient labels.
+```
+
+**来源：** [@Yu Z](https://x.com/YuZ690599018714/status/2090633590027735454) | 2026-08-21
+
+---
+
+### 📊 例 6678：GPT-Image-2 透明度提示词指南
+
+![GPT-Image-2 透明度提示词指南](../images/GPT-Image-2%20%E9%80%8F%E6%98%8E%E5%BA%A6%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97.jpg)
+
+**Prompt:**
+
+```text
+これは1枚の完成された絵ではなく、単体で使う素材です isolated object fully transparent alpha no backdrop no rectangle no plinth no cast shadow
+```
+
+**来源：** [@KANA｜東京AI映像](https://x.com/KanaWorks_AI/status/2090620732724379923) | 2026-08-21
+
+---
+

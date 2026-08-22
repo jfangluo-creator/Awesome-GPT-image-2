@@ -3689,3 +3689,57 @@ Use the single uploaded photo as the only visual reference. Transform the person
 
 ---
 
+### 🔧 例 6612：将情绪板转换为整洁的室内照片
+
+![将情绪板转换为整洁的室内照片](../images/%E5%B0%86%E6%83%85%E7%BB%AA%E6%9D%BF%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%95%B4%E6%B4%81%E7%9A%84%E5%AE%A4%E5%86%85%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将室内情绪板拼贴画转换为整洁、逼真的全景室内照片。以中央的客厅照片作为源场景进行扩展和重构，使其填满整个垂直 {argument name="aspect ratio" default="4:5"} 画幅。移除房间周围所有的剪贴簿和情绪板覆盖物：包括 5 张分别标注为“COLOR STUDY”、“SOFT + BOLD”、“LOVE THIS”、“LIVING ROOM”和“TEXTURE”的手写便签；7 个垂直色卡；5 张额外的照片剪贴；2 张草图纸；以及周围的布料/地毯样本、胶带碎片、撕裂的纸边、贴纸和米色项目背景。保留源照片中真实的房间设计、家具摆放、地板上的人、植物、墙面艺术、镜子、灯具、地毯、咖啡桌、沙发、色彩以及舒适的折衷主义风格。自然且逼真地重构之前被拼贴元素遮挡的区域，确保光影、透视、阴影和镜头感保持一致。最终效果应呈现为一张自然的广角室内摄影照片，而非拼贴画或插图。
+
+[English]
+Using the provided reference image, turn the interior moodboard collage into a clean, realistic full-room photograph. Use the central living-room photo as the source scene and expand/reconstruct it so it fills the entire vertical {argument name="aspect ratio" default="4:5"} frame. Remove every scrapbook and moodboard overlay around the room: 5 handwritten note scraps labeled “COLOR STUDY,” “SOFT + BOLD,” “LOVE THIS,” “LIVING ROOM,” and “TEXTURE”; 7 vertical paint swatches; 5 extra photo cutouts; 2 sketch papers; and the surrounding fabric/rug samples, tape pieces, torn paper edges, stickers, and beige board background. Preserve the actual room design, furniture placement, person on the floor, plants, wall art, mirrors, lamps, rug, coffee table, sofa, colors, and cozy eclectic style from the source photo. Recreate any areas previously covered by collage elements naturally and photorealistically, with consistent lighting, perspective, shadows, and lens feel. Keep it looking like a candid wide-angle interior photo, not a collage or illustration.
+```
+
+**来源：** [@Deenu Khan](https://x.com/neuraltechai/status/2090826035323396573) | 2026-08-21
+
+---
+
+### 🔧 例 6655：可爱盆栽仙人掌贴纸
+
+![可爱盆栽仙人掌贴纸](../images/%E5%8F%AF%E7%88%B1%E7%9B%86%E6%A0%BD%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的 Q 版仙人掌盆栽贴纸插画，背景透明。画面为居中正视的角色，带有深绿色粗轮廓和柔和的白色贴纸边框。仙人掌颜色为明亮且有光泽的 {argument name="cactus color" default="青柠绿"}，拥有一个圆润的中心主体和 2 个向上弯曲的侧臂（左右各一）。在身体和手臂上添加垂直的棱纹阴影、闪亮的高光点，以及许多分布均匀的奶油色星形刺（底部为橙色）。为仙人掌添加一张开心的脸，包括 2 只巨大的黑色椭圆形亮眼、2 个粉色圆形腮红、2 条弯弯的小眉毛，以及一张张开的笑嘴，露出红色的口腔和粉色的舌头。在仙人掌左上方放置 1 朵红粉色的花，花朵有 6 片圆润的花瓣，中心有一簇黄色花粉点。仙人掌种在一个温暖的 {argument name="pot color" default="橙色赤陶"} 花盆中，花盆有厚实的圆边、深橙色阴影、斑点纹理和白色高光；顶部可见棕色土壤和 5 颗圆润的鹅卵石。风格应为精致的 2D 数字艺术、Q 版吉祥物、色彩鲜艳饱和、平滑渐变、柔和高光、边缘清晰如矢量图，无文字，无水印，无背景场景，呈现透明 PNG 效果，贴纸轮廓外仅可见淡淡的棋盘格预览。
+
+[English]
+Create a transparent-background sticker illustration of a cute kawaii cactus in a terracotta flower pot. The cactus is bright lime green with a tall rounded central body and exactly two upward-curving side arms, one on each side. Give it a cheerful face with two large glossy black oval eyes, pink circular blush cheeks, and a wide open smiling mouth with a red interior and pink tongue. Add vertical darker green ribs and shiny highlight spots on the cactus. Cover the cactus with many small cream-colored starburst spines with orange bases, distributed across the central body and both arms. Place exactly one large red-pink flower on the top-left of the cactus, with six rounded petals and a cluster of small yellow stamens in the center. The pot is warm orange terracotta with a thick rim, darker orange shading, speckles, and glossy white highlights; show brown soil and exactly four visible rounded pebbles along the top. Use a polished digital cartoon style with bold dark green outlines, soft gradients, high saturation, rounded shapes, and a white sticker-like border around the cactus and pot. The background should be transparent, represented by a gray-and-white checkerboard preview if needed, with no text, no watermark, and no extra objects. Customize the subject as a {argument name="plant character" default="kawaii cactus"}, the flower color as {argument name="flower color" default="red-pink"}, the pot color as {argument name="pot color" default="orange terracotta"}, and the expression as {argument name="facial expression" default="happy open-mouth smile"}.
+```
+
+**来源：** [@セカヤサ@AI×Web制作💻小林 秀樹](https://x.com/hideki_climax/status/2090687796298330225) | 2026-08-21
+
+---
+
+### 🔧 例 6682：兴奋的可爱小猫 OMG 贴纸
+
+![兴奋的可爱小猫 OMG 贴纸](../images/%E5%85%B4%E5%A5%8B%E7%9A%84%E5%8F%AF%E7%88%B1%E5%B0%8F%E7%8C%AB%20OMG%20%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张透明背景的可爱 Q 版动物贴纸插画，表现一只兴奋的 {argument name="animal" default="橘色虎斑猫"} 夸张的反应。小猫居中，面向前方，拥有橘色条纹皮毛、奶油色的口鼻部和腹部、粉色的耳廓、充满星光闪烁的巨大琥珀色明亮双眼、红润的脸颊、张开的惊喜嘴巴，两只前爪贴在脸颊旁。在整个角色和图形周围添加厚实的白色贴纸轮廓，并带有细微的深色阴影/边缘。在左上角包含 1 个巨大的漫画单词 {argument name="comic text" default="OMG!"}，使用粗体圆润的黄橙色气泡字体，并带有黑色轮廓和白色外描边。在小猫的右上角添加 2 个独立的黄色感叹号，在左右两侧各添加 1 个黄色闪光图标，并在右脸颊附近添加 3 条简短的白色动态线。采用鲜艳的动漫贴纸风格，干净的矢量线条，温暖的橘色渐变，高对比度，表情生动，无额外物体，无背景图案，无水印。
+
+[English]
+Create a cute kawaii sticker illustration on a transparent background featuring an excited chibi {argument name="animal" default="orange tabby kitten"} reacting dramatically. The kitten is centered, facing forward, with orange striped fur, cream muzzle and belly, pink inner ears, huge glossy amber eyes filled with star highlights, rosy blush cheeks, an open happy shocked mouth, and both front paws raised against its cheeks. Add a thick white sticker outline with a thin dark shadow/edge around the entire character and graphics. Include exactly 1 large comic word at the upper left reading {argument name="comic text" default="OMG!"} in bold rounded yellow-orange bubble letters with black outline and white outer stroke. Add exactly 2 separate yellow exclamation marks to the upper right of the kitten, exactly 2 small yellow sparkle icons, one on the left and one on the right, and exactly 3 short white motion lines near the right cheek. Use a vibrant anime sticker style, clean vector-like line art, warm orange gradients, high contrast, playful expression, no extra objects, no background pattern, no watermark.
+```
+
+**来源：** [@eXphinx](https://x.com/EXphinx/status/2090612889824657762) | 2026-08-21
+
+---
+

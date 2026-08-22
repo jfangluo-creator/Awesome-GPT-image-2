@@ -27717,3 +27717,541 @@ luxury beverage advertising, editorial commercial photography, premium brand cam
 
 ---
 
+### 🎴 例 6603：贪污者火车票诗歌海报
+
+![贪污者火车票诗歌海报](../images/%E8%B4%AA%E6%B1%A1%E8%80%85%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%AF%97%E6%AD%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅插画诗歌海报，左侧为超现实主义表现派绘画，右侧为黑色文本面板，灵感源自马克·夏加尔 (Marc Chagall) 和早期现代主义民间艺术。
+
+画布：横向 16:9 构图，尺寸约为 1024×576。左侧三分之二为质感丰富的油画场景，带有细深色边框；右侧三分之一为哑光黑色面板，包含一个二维码和居中的诗歌文本。
+
+左侧插画：用厚涂画笔描绘梦幻般的夜景，采用柔和的宝石色调，人物面部略显扭曲且修长。中心主体为 1 名瘦削、苍白、忧郁的男性贪污者，脸型狭长，留着深色卷发，眼睑沉重，身穿深海军蓝外套，内搭紫色马甲、白衬衫和领带。他低头看着马甲口袋。左手拿着一张标有“TRAIN TICKET WEST”字样的纸质车票；右手拿着现金，靠近塞满彩色小宝石的马甲口袋。在前景下方，展示 1 个巨大的稻草鸟巢，里面装满了赃物：清晰可见 1 张美元钞票、1 只金怀表、1 串珍珠项链，以及 8 颗红色、紫色、透明、黄色和蓝色的巨型切面宝石。鸟巢上栖息着 1 只黑白喜鹊，嘴里衔着一串珍珠。
+
+其他绘画人物与符号：在绘画区域包含 5 个背景/故事元素：左上方 1 名神情庄重的准新娘，胸前有花朵和一只灰色小鸟；中右侧 1 列行驶在蓝绿色景观中的蒸汽机车；顶部附近天空中 1 匹白马，背上骑着 1 名紫色骑手；右上角 1 轮黄色新月；右下边缘附近 1 个戴面具的紫色戏剧人物。所有人物保持绘画感、象征性，且略带梦幻色彩，而非写实风格。
+
+右侧文本面板：使用纯黑色背景。顶部中心放置 1 个白色方形二维码图形。下方居中排列一首俳句风格的诗歌，采用淡蓝灰色手写字体，字形略有不规则感。诗歌必须完全如下：
+“{argument name="poem text" default="feathering his nest\nwith stolen jewels and cash\nthe embezzler\nchecks his vest pockets\nfor the train ticket west"}”
+将“train ticket west”短语处理得比周围文本稍粗。诗歌下方，添加一个居中的小型制作人员名单，采用同样的手写风格，内容为：
+“AI image created by\n{argument name="artist name" default="Michael H. Lester"}\nin collaboration with\n{argument name="model credit" default="GPT Image 2 Low on"}\n{argument name="platform handle" default="Nightcafestudio"}\ntwitter: @mhlester”
+底部添加两行居中的 URL：“https://creator.nightcafe.studio/?ru/mhlester” 和 “https://4-michael-lester.pixels.com/”。
+
+风格限制：拒绝照片写实主义。使用表现力强的笔触、扁平化透视、蓝紫色夜色调、金色与宝石点缀、诗意的忧郁氛围以及手工字体。严格保留人物、动物、贵重物品和背景符号的数量；除可见的深色边框外，不得添加额外的物体、Logo 或装饰性边框。
+
+[English]
+Goal: Create a wide illustrated poetry poster combining a surreal expressionist painting on the left with a black text panel on the right, inspired by Marc Chagall and early modernist folk art.
+
+Canvas: Horizontal 16:9 composition, approximately 1024×576. Left two-thirds is a richly textured oil-painting scene with a thin dark border; right one-third is a matte black panel containing a QR code and centered poem text.
+
+Left illustration: Paint a dreamlike night scene in thick impasto brushstrokes, muted jewel tones, and slightly distorted elongated faces. The central subject is 1 slim, pale, melancholy male embezzler with a long narrow face, dark curly hair, heavy-lidded eyes, wearing a dark navy coat over a purple vest, white shirt, and tie. He is looking downward while checking his vest pocket. In his left hand he holds a paper ticket labeled “TRAIN TICKET WEST”; in his right hand he holds cash near a vest pocket stuffed with tiny colorful jewels. In the lower foreground, show 1 large straw bird nest filled with stolen valuables: exactly 1 visible dollar bill, 1 gold pocket watch, 1 pearl necklace strand, and 8 large faceted jewels in red, purple, clear, yellow, and blue tones. Perched on the nest is 1 black-and-white magpie holding a string of pearls in its beak.
+
+Additional painted figures and symbols: Include exactly 5 background/story elements in the painted panel: 1 solemn bride-like woman at upper left with flowers and a small gray bird at her chest; 1 steam locomotive traveling through a blue-green landscape at mid-right; 1 white horse with 1 purple rider floating in the sky near the top; 1 yellow crescent moon at the upper right; and 1 masked purple theatrical figure near the lower right edge. Keep all figures painterly, symbolic, and slightly dreamlike rather than realistic.
+
+Right text panel: Use a solid black background. At the top center place 1 white square QR-code graphic. Beneath it, center a haiku-like poem in pale blue-gray hand-lettered text with gentle irregular letterforms. The poem must read exactly:
+“{argument name="poem text" default="feathering his nest\nwith stolen jewels and cash\nthe embezzler\nchecks his vest pockets\nfor the train ticket west"}”
+Make the phrase “train ticket west” slightly bolder than the surrounding text. Below the poem, add a small centered credit block in the same hand-lettered style reading:
+“AI image created by\n{argument name="artist name" default="Michael H. Lester"}\nin collaboration with\n{argument name="model credit" default="GPT Image 2 Low on"}\n{argument name="platform handle" default="Nightcafestudio"}\ntwitter: @mhlester”
+At the bottom, add two centered URL lines: “https://creator.nightcafe.studio/?ru/mhlester” and “https://4-michael-lester.pixels.com/”.
+
+Style constraints: No photorealism. Use expressive brush texture, flattened perspective, blue-violet night palette, gold and gem accents, poetic melancholy mood, and handmade lettering. Preserve the exact count of characters, animals, valuables, and background symbols; do not add extra objects, logos, or decorative borders beyond the visible dark frame.
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2090871429680250961) | 2026-08-21
+
+---
+
+### 🎴 例 6608：首尔与东京复古旅行海报
+
+![首尔与东京复古旅行海报](../images/%E9%A6%96%E5%B0%94%E4%B8%8E%E4%B8%9C%E4%BA%AC%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的手绘编辑风格旅行海报，融合 {argument name="city one" default="首尔"} 和 {argument name="city two" default="东京"} 的视觉语言，呈现出怀旧的复古亚洲旅行插画风格。画面前景中央，一位时尚的东亚年轻女性正自信地走在宽阔的城市人行横道上，身穿现代感十足的深色宽松套装、阔腿裤、运动鞋，并背着斜挎包。街道以强烈的对称透视感向背景深处延伸，周围环绕着密集的现代建筑、行人、店面、色彩鲜艳的竖排招牌、架空电线、路灯、出租车以及生动的城市细节。自然地融合首尔与东京的视觉元素：韩文与日文招牌、黄色的首尔风格出租车与日本城市车辆交织，同时在远处的地平线上放置标志性的首尔南山塔和东京塔作为互补的地标。背景采用温暖的米色纸张质感，点缀柔和的红、蓝、橙、青、黄和黑色。运用强劲且富有表现力的黑色墨水轮廓、粗犷的手绘笔触、细腻的水彩填充、复古纸张纹理、不完美的墨迹边缘、微妙的印刷质感，营造出怀旧的旅行海报氛围，兼具迷人的图像小说美学、电影般的景深以及高度精细的建筑与人物刻画。在顶部添加醒目的手绘字体，写着“SEOUL × TOKYO”，并配以一行小巧的手写副标题“Discover the hidden pulse of the city.”。优雅的编辑式构图，平衡的布局，地道的插画旅行海报质感，4:5 竖构图，高细节。
+
+[English]
+Create a vibrant hand-drawn editorial travel poster combining the visual language of {argument name="city one" default="Seoul"} and {argument name="city two" default="Tokyo"}, in a nostalgic retro Asian travel-illustration style. A stylish young East Asian woman walks confidently across a wide urban crosswalk in the center foreground, wearing a contemporary dark oversized outfit, loose trousers, sneakers, and a crossbody bag. The street stretches deep into the background with strong symmetrical perspective, surrounded by dense modern buildings, pedestrians, storefronts, colorful vertical signs, overhead utility wires, street lamps, taxis, and lively city details. Blend Seoul and Tokyo visual elements naturally: Korean Hangul and Japanese signage, a yellow Seoul-style taxi mixed with Japanese urban vehicles, while placing a recognizable Seoul Namsan Tower and Tokyo Tower rising in the distant skyline as complementary landmarks. Use a warm cream paper background with muted red, blue, orange, teal, yellow, and black accents. Strong expressive black ink outlines, rough hand-drawn brushwork, delicate watercolor fills, vintage paper grain, imperfect ink edges, subtle print texture, nostalgic travel-poster atmosphere, charming graphic-novel aesthetic, cinematic depth, highly detailed architecture and characters. Add bold hand-painted typography at the top reading “SEOUL × TOKYO”, with a small handwritten subtitle “Discover the hidden pulse of the city.” Elegant editorial composition, balanced layout, authentic illustrated travel-poster feel, vertical 4:5 format, high detail.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2090841506307612993) | 2026-08-21
+
+---
+
+### 🎴 例 6620：复古织物拼贴艺术海报
+
+![复古织物拼贴艺术海报](../images/%E5%A4%8D%E5%8F%A4%E7%BB%87%E7%89%A9%E6%8B%BC%E8%B4%B4%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+如下提示词，也类似逻辑来表达， 结尾别标点， 必要的时候空行  别说教，俏皮，很发散思维的表达， 金句是那种让人回味的，甚至记录下来的那种。设计知识，也是浓缩且精准，值得回味。   甚至你可以只围绕这个提示词，最核心的美学创意或者风格创作逻辑，展开讲讲~ 下半部分的东西，要具体融入生活来说说，而不是宽泛的来说  所有表达，要让懂设计的人，不觉得你在表达陈词滥调，你也不要总是固定表达结构，各种可能都可以  信息密度要高，至少10个信息逻辑层次 如下是提示词：  ————————  请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。  上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。  下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，进一步理解照片中的情绪、潜台词或隐喻，再重构为温暖复古的手工拼布贴画。不要机械复制原图，而是使用格纹棉布、亚麻、水洗粗麻、补丁布和缝线，将最重要的形态与关系概括成简洁布片，使人一眼能认出原物，同时感受到照片背后的安静、陪伴、距离、停留、成长、归属、偶遇或时间感等内在情绪。  构图强调留白的艺术与视觉呼吸，不把元素平均铺满。根据主体的重心、动作方向和叙事关系，自由安排布片的大小、疏密、层叠、裁切与越界，让主要形态与大面积空白形成有张力的关系；部分枝叶、轮廓、人物动作、器物边缘或景物可以自然伸出拼布区域，让画面像正在生长、经过或延续，而不是被边框封死。留白不是空缺，而是承担距离、情绪、时间和想象的空间。  配色不设固定色卡，从上方照片中提取最有生命力、最能代表其精神气质的颜色，自适应转化为治愈系、人文主义的柔和布艺配色。保持原图自身的冷暖关系和色彩身份，适度柔化、提亮和协调，使整体温润、清爽、亲切、有生活感；主体可保留一处更鲜明的重点色，其余颜色柔和陪衬。不同照片应产生不同色组，避免固定米黄、灰棕、莫兰迪和刻意做旧。  保留真实布纹、纤维、毛边、针脚、补丁、交叉缝线与轻微不规则拼接，使手工痕迹自然可见，但整体仍保持高级编辑设计的克制与精度。复古感来自材质和手作，而不是脏色、泛黄或廉价旧化。  文字不是简单放一句英文，而应成为情绪与构图的一部分。从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句，避免仅仅写地点或物体名称。文字可用细线刺绣、手缝线迹或轻微手写形式，顺着主体走势、贴近布片边缘、藏入负空间、与缝线发生延续或停顿，让图形与文字共同形成阅读节奏。文字应少而有意味，像一句没有说完的话，而不是说明标签。  整体呈现治愈、温暖、安静、有人情味、有生命力、有留白、有故事感的视觉气质，像高级生活杂志、独立绘本与当代纺织艺术结合的作品。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应先理解原图真正想表达什么，再决定如何取舍、留白、拼接与排版，避免儿童手工课感、机械临摹、平均构图、无意义装饰和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090807474467291568) | 2026-08-21
+
+---
+
+### 🎴 例 6623：珐琅旅行磁贴海报设计
+
+![珐琅旅行磁贴海报设计](../images/%E7%8F%90%E7%90%85%E6%97%85%E8%A1%8C%E7%A3%81%E8%B4%B4%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级旅行设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="构图比例" default="3:4竖版构图"}，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有旅行摄影、独立出版物和艺术明信片质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚精致的{argument name="装饰风格" default="流金珐琅旅行冰箱贴 / 金属徽章"}。不要机械复刻全部细节，而是提炼最有记忆点的外轮廓、结构与局部特征，以简洁几何分区和珐琅色块重新塑造，让人一眼能够认出与上方照片是同一主体，同时具有真实纪念徽章的设计感。
+
+主体采用真实珐琅填色 + 金属分隔线 + 清晰白色金属外描边，边缘具有适度厚度、圆润倒角和细腻金属反光；内部可加入少量流金般的金属线条或局部金属细节，用于强调结构与层次。珐琅表面光洁、饱满但不过度塑料化，保留轻微高光、材质起伏与真实工艺感。徽章下方产生柔和而短促的立体投影，使其像真正放置在纸面上的实体冰箱贴，而不是扁平插画或数字贴纸。
+
+配色从上方照片中提取最具辨识度、最有生命力的颜色，转化为干净、鲜明、协调的珐琅色组，通过主色、邻近色与少量对比色区分不同结构区域。背景保持{argument name="背景底色" default="米白、浅灰、柔和粉彩"}或从原图延伸出的纯净浅色，大面积留白，让金属与珐琅成为唯一视觉焦点。
+
+构图根据主体自身的轮廓走势、视觉重心和动作方向重新设计，徽章可适度偏心、倾斜或局部延展，但整体保持稳定、精致和有收藏感。避免复杂场景，把原照片压缩成一个具有明确轮廓 and 完整视觉识别度的纪念物。
+
+文字作为徽章造型的一部分巧妙融入，而不是单独贴在背景上。从照片的地点、主体名称、主题或旅行情绪中提炼极短英文标题，可沿徽章边缘弧形排列、嵌入金属框架、穿插于主体负形或作为珐琅铭牌存在；文字同样具有金属或珐琅实体质感，与主体共享同一套结构语言，保持少量、精致、清晰。
+
+整体呈现真实摄影 × 流金珐琅 × 白色金属描边 × 立体徽章 × 高级旅行纪念品的视觉气质，清爽、明亮、精致、有收藏感。无论主体是建筑、人物、动物、植物、器物、交通工具、食物或自然景观，都应保持高度可识别和良好迁移性。避免卡通贴纸、塑料3D、廉价金边、厚重阴影、复杂装饰、电商商品图和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090799598336168140) | 2026-08-21
+
+---
+
+### 🎴 例 6632：果汁商业广告项目
+
+![果汁商业广告项目](../images/%E6%9E%9C%E6%B1%81%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：{argument name="product name" default="高端冷压果汁"} 产品商业广告项目
+
+格式：
+• 单页高端项目
+• 3:4 竖屏比例
+• 新鲜饮品产品推广
+• 8 个电影级项目场景
+• 产品始终作为核心主角
+
+页眉：
+• 现代高端排版
+• 信息卡片：
+  - 时长：20 秒
+  - 风格：新鲜饮品商业广告
+  - 产品：冷压果汁
+  - 音频：清爽液体 ASMR
+• “为何选择此风格”部分
+• 橙色、绿色与奶油色美学
+
+项目：
+1. 覆盖着冷凝水的果汁瓶
+2. 微距特写下的瓶盖开启瞬间
+3. 新鲜橙汁从瓶中倒出
+4. 空中定格的果汁飞溅
+5. 新鲜水果切片在瓶身周围落下
+6. 展示天然果汁质感的极致微距
+7. 冰块落入果汁杯中
+8. 带有清爽飞溅效果与水果的最终产品主视觉
+
+每个面板：
+• 场景编号
+• 时长标签
+• 镜头方向
+• 视觉画面
+• 动作描述
+• 产品细节
+
+镜头：
+高速液体摄影、微距特写、慢动作飞溅、冷凝水细节、戏剧性背光、电影级主视觉镜头。
+
+风格：
+超写实饮品商业广告、逼真的液体物理效果、冷凝水珠、新鲜水果质感、鲜艳的自然光、高端包装、8K 分辨率。
+
+[English]
+TITLE: {argument name="product name" default="Premium Cold-Pressed Fruit Juice"} Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Fresh beverage product campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero
+
+HEADER:
+• Modern premium typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Fresh Beverage Commercial
+  - Product: Cold-Pressed Fruit Juice
+  - Audio: Refreshing Liquid ASMR
+• Why This Style Works section
+• Orange, green and cream aesthetic
+
+STORYBOARD:
+1. Juice bottle covered with condensation
+2. Bottle cap opening in macro close-up
+3. Fresh orange juice pouring from the bottle
+4. Juice splash frozen in mid-air
+5. Fresh fruit pieces falling around the bottle
+6. Extreme macro showing natural juice texture
+7. Ice cubes dropping into a glass of juice
+8. Final hero bottle with refreshing splash and fruit
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, macro close-ups, slow-motion splash, condensation detail, dramatic backlight, cinematic hero shot.
+
+STYLE:
+Ultra-realistic beverage commercial, realistic liquid physics, condensation droplets, fresh fruit textures, vibrant natural lighting, premium packaging, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2090774232213131401) | 2026-08-21
+
+---
+
+### 🎴 例 6641：几何分割海报设计
+
+![几何分割海报设计](../images/%E5%87%A0%E4%BD%95%E5%88%86%E5%89%B2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将我上传的每张照片分别制作成一张高级感海报，不要进行多图拼贴；每张照片需输出为独立的海报。采用 3:4 的整体竖构图，严格划分为两个等高区域，上下两部分各占画布的 50%。上半部分应保留原始照片，维持主体结构、写实纹理、自然光影及原始色彩氛围，仅进行细微的高级摄影调色，使其呈现出艺术出版物或展览摄影的质感。为适配所需比例，您可以自然地延伸天空、地面或环境背景，但严禁拉伸、扭曲或改变主体。下半部分应从照片中提取最具辨识度的主体、轮廓、姿态及叙事关系；先理解其核心意义、文化属性或情感联系，再将其重构为结合了民俗文化图录、古籍拓片与现代平面设计的图形组合。不要逐一翻译照片中的每个元素，也不要添加通用的传统纹理；仅保留一个核心视觉母题及极少数真正具有叙事意义的辅助形态。运用剪影、负空间、局部放大、形状融合及符号化转换，使图形不仅对应原物，更能表达其背后的深意。在严谨的几何框架与比例系统上构建构图：从主体自身的结构中推导出圆形、方形、三角形、弧线、轴线或重复比例作为“几何矩阵”，随后通过共切、共轴、嵌套、镜像、比例递进或边缘裁切关系，将所有主体形态、辅助图形、排版及负空间对齐。布局可以自由分布、偏心、溢出边界或非对称，但所有元素必须遵循同一结构逻辑，营造出清晰的视觉重心、层级、韵律与负空间；远观时秩序感应一目了然，近看则应显现出传统印刷的痕迹与细腻细节。避免杂乱的元素堆砌与装饰性累加。从上半部分的照片中提取最具特色、生动且富有精神表现力的色彩，并将其重组为简洁、克制的纸质印刷色板。使用明亮的浅纸色背景留出呼吸感，一种深色建立视觉骨架，并使用从原图中提取的一到两种主题色来组织主体与有限的装饰点缀。通过面积比例、叠印与色调来构建深度。
+
+[English]
+Please turn each photo I upload into a separate premium-designed poster, with no multi-image collage; output each photo as an independent poster. Use an overall 3:4 vertical composition, strictly divided into two equal-height sections, with the upper and lower halves each occupying exactly 50% of the canvas. The upper half should preserve the original photograph, maintaining the subject’s structure, realistic texture, natural lighting and shadows, and original color atmosphere, with only subtle high-end photographic color grading to give it the quality of an art publication or exhibition photograph. To adapt the image to the required aspect ratio, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the main subject. The lower half should extract the most recognizable subject, silhouette, posture, and narrative relationship from the photograph; first understand its core meaning, cultural attributes, or emotional relationship, then reconstruct it into a graphic composition combining the character of a folk-culture catalog, antique rubbing prints, and modern graphic design. Do not translate every element in the photograph one by one, and do not add generic traditional patterns; retain only one core visual motif and a very small number of auxiliary forms that truly carry narrative significance. Use silhouette, negative space, partial enlargement, shape merging, and symbolic transformation so that the graphic not only corresponds to the original object but also expresses the meaning behind it. Build the composition on a rigorous geometric framework and proportional system: derive circles, squares, triangles, arcs, axes, or repeated proportions from the structure of the subject itself as the “geometric matrix,” then align all main forms, secondary graphics, typography, and negative space through shared tangencies, common axes, nesting, mirroring, proportional progression, or edge cropping relationships. The layout may be freely distributed, off-center, extend beyond boundaries, or be asymmetrical, but every element must obey the same structural logic, creating a clear visual center of gravity, hierarchy, rhythm, and negative space; from a distance the order should be immediately legible, while closer viewing should reveal traditional print traces and subtle details. Avoid random scattered elements and decorative accumulation. Extract the most distinctive, lively, and spiritually expressive colors from the upper photograph and reorganize them into a clean, restrained paper-printing palette. Use a bright, light paper-colored background to create breathing room, one dark color to establish the visual skeleton, and one or two theme colors derived from the original photograph to organize the main subject and limited accents. Build depth through area ratios, overprinting, and ton
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090753061857931599) | 2026-08-21
+
+---
+
+### 🎴 例 6647：手工奶酪商业广告项目
+
+![手工奶酪商业广告项目](../images/%E6%89%8B%E5%B7%A5%E5%A5%B6%E9%85%AA%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+高端手工奶酪产品商业广告项目
+
+格式：
+• 单页高端项目
+• 3:4 竖屏比例
+• 美食产品营销活动
+• 8 个电影级项目场景
+• 奢华编辑风格呈现
+
+页眉：
+• 优雅的衬线字体
+• 信息卡片：
+  - 时长：20 秒
+  - 风格：美食手工食品广告
+  - 产品：高端奶酪
+  - 音频：柔和的食品 ASMR
+• “为何这种风格有效”部分
+• 奶油色、金黄色与深棕色美学
+
+项目场景：
+1. 深色石板上展示的高端奶酪包装
+2. 打开包装，露出手工奶酪
+3. 刀具切开奶酪
+4. 展示奶油质感的极致微距镜头
+5. 提起切片时奶酪的拉丝效果
+6. 将奶酪放置在温热的烤制表面上
+7. 产品周围摆放的碎屑、香草与奶酪
+8. 最终呈现优雅奶酪摆盘的产品主视觉镜头
+
+每个面板：
+• 场景编号
+• 时长标签
+• 摄像机指向
+• 视觉画面
+• 动作描述
+• 产品细节
+
+摄像机：
+极致微距、慢动作切片、质感特写、俯视食品构图、浅景深、电影级产品推镜头。
+
+风格：
+超写实手工食品摄影、奶油状奶酪质感、逼真的融化效果、细腻的碎屑、温暖的摄影棚灯光、高端美食品牌塑造、奢华商业品质、8K 分辨率。
+
+[English]
+TITLE:
+Premium Artisan Cheese Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Luxury editorial presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Gourmet Artisan Food Commercial
+  - Product: Premium Cheese
+  - Audio: Soft Food ASMR
+• Why This Style Works section
+• Cream, golden yellow and dark brown aesthetic
+
+STORYBOARD:
+1. Premium cheese package displayed on dark stone
+2. Package opening to reveal artisan cheese
+3. Knife slicing through the cheese
+4. Extreme macro showing creamy texture
+5. Cheese stretching as a slice is lifted
+6. Cheese placed onto a warm toasted surface
+7. Crumbs, herbs and cheese arranged around the product
+8. Final hero product shot with elegant cheese presentation
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion slicing, texture close-ups, overhead food composition, shallow depth of field, cinematic product push-in.
+
+STYLE:
+Ultra-realistic artisan food photography, creamy cheese texture, realistic melting, detailed crumbs, warm studio lighting, premium gourmet branding, luxury commercial quality, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2090738907378004072) | 2026-08-21
+
+---
+
+### 🎴 例 6648：奢华珠宝宣传海报
+
+![奢华珠宝宣传海报](../images/%E5%A5%A2%E5%8D%8E%E7%8F%A0%E5%AE%9D%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张名为 VELORIA JEWELS 的虚构奢侈品牌的高级珠宝垂直宣传海报，结合 Orbit 风格的视觉流动感与 Transit 风格的编辑式克制。以一条钻石与祖母绿项链作为绝对的视觉核心，优雅地垂落在深酒红色丝绒雕塑般的隆起处。画面必须呈现出私密、电影感、稀有且全球高端的质感，文字极简，材质极尽考究。核心构图：采用垂直居中的奢华静物构图。深绯红色丝绒隆起于画面中下部，如同柔软的高级定制景观，呈现出一道优雅的受光脊线。项链精巧地呈自然的 U 型垂挂于脊线之上，链条与吊坠元素顺应丝绒的轮廓，仿佛自然滑落至位。画面上半部分保留大面积深炭黑色褶皱，留有充足的负空间，使构图更具呼吸感。项链必须位于最明亮的焦点区域，成为无可争议的视觉中心。Orbit 导向：通过项链的垂坠感和丝绒地形强化视觉动线。两条下垂的链条形成向中心宝石汇聚的精致内收感，下方的丝绒褶皱微妙地向外辐射，将视线引导至项链的最低点。吊坠宝石应呈现出有节奏的悬垂感，营造出一种宁静的向下流动与回旋。动感必须优雅且符合重力逻辑，避免杂乱。Transit 克制：将一切简化为核心的奢华结构：深色背景、雕塑感丝绒、一条项链、极简 Logo、一行短标题。去除所有不必要的描述性文案和装饰性杂物。最终海报应一眼即能识别为旗舰级珠宝视觉，展现出极致的清晰度与从容的自信。珠宝设计：一条博物馆级白金或铂金材质的精细铰接项链。前部曲线处，排列一组受控的梨形和椭圆形切割白钻，间距优雅，自然垂坠。中心处，点缀一颗鲜艳的深绿色祖母绿吊坠或椭圆形祖母绿，作为唯一的色彩焦点。项链需呈现出精致而昂贵、平衡且工艺精湛的质感，具备可信的铰接结构、真实的重量感、锐利的镶嵌工艺以及高端宝石比例。布光：采用来自左前上方的电影级奢华摄影棚布光，在丝绒脊线和项链上形成集中的光池。背景保持在受控的深邃阴影中。钻石捕捉到清脆克制的白色高光，祖母绿则展现出深邃饱和的绿色深度与内部反射。丝绒应呈现出触感丰富的绒毛、微妙的定向纹理，以及从受光绯红到近乎黑色的勃艮第红的优雅色调渐变。对比度必须具有电影感且干净，无浑浊阴影，无过曝高光。材质渲染：丝绒必须呈现出极度奢华、致密且柔软的质感，具备可信的压缩感、毛绒细节和高级定制级的纹理。项链金属需展现出精致的抛光反射和边缘清晰度。钻石需呈现真实的火彩和清脆的刻面，避免夸张的闪烁效果。祖母绿需展现天然宝石的深度、微妙的半透明感和高贵的饱和色彩。每种材质都应触感真实、昂贵且物理逻辑统一。排版与品牌：顶部中心放置极简奢华徽标及品牌名称“VELORIA JEWELS”。添加一行微小的描述文字：“High Jewelry”。底部中心附近仅放置一行简短的编辑式标题：“Rare Light, Quietly Held”。排版应稀疏、优雅，且从属于产品，采用柔和的象牙白或浅银白色。色彩系统：深炭黑、酒红丝绒、白钻火彩、冷铂金或白金反射，以及唯一的克制祖母绿点缀。饱和度必须保持克制、奢华且情感丰富。风格：戛纳级别奢华珠宝宣传、超高端编辑式静物、戏剧性极简主义、旗舰品牌广告、收藏级图像质量、永恒、优雅、电影感、全球市场化。图像质量与物理约束：超细节、高分辨率、锐利的项链细节、可信的链条垂坠、真实的宝石光学效果、真实的丝绒绒毛纹理、干净的深色背景、无额外道具、无随机装饰元素、无水印、无复制文案、无浑浊阴影、无过度的闪光效果。负面提示：复制原始标语、复制原始品牌名称、额外的珠宝首饰、杂乱的造型、廉价目录感、虚假的 CGI 项链、塑料宝石、过度闪烁的钻石、霓虹色祖母绿、扭曲的链条、破损的宝石镶嵌、浑浊的黑色、平坦的丝绒纹理、嘈杂的背景、难以阅读的排版、水印、随机道具、低端电商感
+
+[English]
+Create a premium vertical high-jewelry campaign poster for a fictional luxury maison called VELORIA JEWELS, combining Orbit-style visual flow with Transit-style editorial restraint. Feature a single diamond-and-emerald necklace as the absolute visual hero, elegantly draped across a sculptural mound of deep wine-red velvet. The image must feel intimate, cinematic, rare, and globally premium, with minimal text and maximum material sophistication. Core composition: Use a vertically centered luxury still-life composition. A dramatic mound of deep crimson velvet rises through the lower-middle of the frame like a soft couture landscape, with one graceful illuminated crest. Across this crest, a delicate high-jewelry necklace is arranged in a precise natural U-shaped fall, its chain and drop elements following the velvet’s contour as if gently sliding into place. The top half of the image remains mostly deep charcoal-black drapery with subtle soft folds and large negative space, allowing the composition to breathe. The necklace must sit exactly at the brightest focal zone and remain the unmistakable center of attention. Orbit direction: Strengthen the visual movement through the necklace drape and velvet topography. The two descending chain lines should form a refined inward sweep toward the center gemstone, while the velvet folds beneath subtly radiate and funnel the eye toward the necklace’s lowest point. The drop stones should feel rhythmically suspended, creating a quiet sense of downward flow and return. The motion must be elegant and almost gravitational, never busy. Transit restraint: Reduce everything to the essential luxury structure only: dark backdrop, sculpted velvet, one necklace, minimal logo, one short headline. Remove all unnecessary descriptive copy and decorative clutter. The final poster should read instantly as a flagship jewelry visual with extreme clarity and calm confidence. Jewelry design: A museum-grade necklace in white gold or platinum with a fine articulated chain. Along the front curve, place a controlled sequence of pear-shaped and oval-cut white diamonds, elegantly spaced and naturally hanging. At the center, add one vivid deep-green emerald drop or oval emerald accent as the sole chromatic jewel focus. The necklace must feel delicate yet costly, balanced, and exquisitely crafted, with believable articulation, realistic weight, sharp settings, and premium gemstone proportion. Lighting: Use dramatic luxury studio lighting from upper left-front, forming a concentrated pool of light over the crest of the velvet and the necklace. The background remains in rich controlled shadow. Diamonds catch crisp restrained white highlights, while the emerald shows deep saturated green depth and internal reflection. The velvet should reveal tactile pile, subtle directional nap, and elegant tonal gradients from illuminated crimson to near-black burgundy. Contrast must be cinematic but clean, with no muddy shadows and no blown highlights. Material rendering: The velvet must feel ultra-rich, dense, and soft, with believable compression, plush fiber detail, and couture-level texture. The necklace metal must show refined polished reflections and delicate edge clarity. Diamonds must display realistic brilliance and crisp faceting without exaggerated sparkle effects. The emerald must show natural gemstone depth, subtle translucency, and noble saturated color. Every material should feel tactile, expensive, and physically coherent. Typography and branding: At the top center, place a minimal luxury emblem and the brand name “VELORIA JEWELS”. Add one tiny descriptor line: “High Jewelry”. Near the bottom center, place one short editorial headline only: “Rare Light, Quietly Held”. Typography should be sparse, elegant, and secondary to the product, set in soft ivory or pale silver-white. Color system: Deep charcoal black, wine-red velvet, white diamond brilliance, cool platinum or white-gold reflections, and a single restrained emerald-green accent. Saturation must remain disciplined, luxurious, and emotionally rich. Style: Cannes-level luxury jewelry campaign, ultra-premium editorial still life, dramatic minimalism, flagship maison advertising, collectible image quality, timeless, elegant, cinematic, globally marketable. Image quality and physical constraints: Ultra-detailed, high resolution, razor-sharp necklace detail, believable chain drape, realistic gemstone optics, true velvet pile texture, clean dark background, no extra props, no random decorative elements, no watermark, no copied wording, no dirty shadows, no excessive glitter effects. Negative prompt: copied original slogan, copied original brand name, extra jewelry pieces, cluttered styling, cheap catalog look, fake CGI necklace, plastic gemstones, oversparkled diamonds, neon emerald, distorted chain, broken stone settings, muddy blacks, flat velvet texture, noisy background, unreadable typography, watermark, random props, low-end ecommerce look
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2090736900688732668) | 2026-08-21
+
+---
+
+### 🎴 例 6661：复古现代主义编辑海报
+
+![复古现代主义编辑海报](../images/%E5%A4%8D%E5%8F%A4%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直编辑拼贴海报，主体为 {argument name="character" default="[CHARACTER]"}，身着 {argument name="clothing" default="[CLOTHING]"}，全身剪影置于 {argument name="palette" default="[PALETTE]"} 的鲜明分割背景之上。在角色后方放置超大号压缩排版文字“[TITLE]”，并被身体部分遮挡，在边缘附近对齐放置小型编辑微型文字“[MICROTEXT]”。将 [FORM] 作为粗体抽象图形元素融入排版周围，运用半色调网点、粗糙墨水侵蚀、影印颗粒、丝网印刷瑕疵和分层纸张纹理。强烈的非对称构图，高对比度，受控的留白，平涂色块，复古现代主义印刷设计，无奇幻战斗意象，无额外角色，无光泽 3D 渲染，长宽比 4:5。
+
+[English]
+Vertical editorial collage poster featuring {argument name="character" default="[CHARACTER]"} in {argument name="clothing" default="[CLOTHING]"}, full-body cutout positioned across a sharp split background of [PALETTE]. Place oversized condensed typography reading “{argument name="title" default="[TITLE]"}” behind the character, partially obscured by the body, with small editorial microtext reading “[MICROTEXT]” aligned near the outer margin. Integrate [FORM] as bold abstract graphic elements around the typography, using halftone dots, rough ink erosion, photocopy grain, screen-print imperfections and layered paper texture. Strong asymmetric composition, high contrast, controlled negative space, flat color fields, vintage modernist print design, no fantasy battle imagery, no extra characters, no glossy 3D rendering, aspect ratio 4:5.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2090662002054303832) | 2026-08-21
+
+---
+
+### 🎴 例 6663：复古半色调肖像海报
+
+![复古半色调肖像海报](../images/%E5%A4%8D%E5%8F%A4%E5%8D%8A%E8%89%B2%E8%B0%83%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的复古半色调海报艺术肖像，主角为 {argument name="subject name" default="PERSON_NAME"}。如果提供了参考照片，请使用该照片；否则，请根据所提供的人名创作肖像。最终图像必须仅为全出血插图，不得包含参考照片缩略图或嵌入式图像。
+
+以醒目的 1960 年代至 70 年代丝网印刷 / 胶印平版印刷美学渲染主体，灵感源自复古政治海报、抗议艺术、复古杂志封面、演唱会海报和基于模版的图形插画。在将面部转化为高对比度墨水线条、交叉排线、点画法、半色调网点和雕刻风格阴影的同时，保留可辨认的面部比例和特征。避免照片级真实感、喷枪效果和平滑的渐变。
+
+构图：严格采用向左的 90 度侧面轮廓，眼睛直视前方，下巴微抬，表情自信中性。在 4:5 或 3:4 的构图中垂直框选头部和上肩/胸部，主体约占画面的 70%–85%。在头部后方放置一个巨大的纯色太阳/光环圆圈，头发和肩膀略微打破其边缘。头发需高度细节化，呈现流动的发丝、方向性运动和图形化高光条纹。
+
+背景：陈旧的奶油色、纸张或帆布纹理，带有不对称的几何色块、微妙的半色调图案、交叉排线、模拟印刷颗粒和轻微的丝网印刷瑕疵。保持设计精致且协调，避免杂乱。
+
+色彩方向：自动选择一种由 2–4 种颜色组成的有限高对比度调色板。默认为暖奶油色 + 海报红 + 近黑色墨水，但也允许有品位的替代方案，例如深海军蓝 + 柔和红/橙色 + 奶油色、炭灰色 + 焦橙色 + 奶油色，或醒目的芥末黄/金色 + 黑色双色调。不得使用摄影色彩渐变。
+
+排版：将主体姓名醒目地置于左上角，使用超粗体压缩无衬线字体或板状衬线字体，全大写，字间距紧凑，堆叠 1–2 行。在其下方使用较小的粗体压缩字体添加 2–4 个字的短语或描述，并使用海报的强调色。保持排版与构图融为一体，视觉平衡。
+
+服装：使用简洁的现代或符合时代特征的服装，采用平涂色、可见的织物褶皱线条，并应用相同的半色调/雕刻处理。在适当的情况下保留参考照片中可辨认的配饰，但保持极简。
+
+光影：在轮廓上使用单一的强定向光源，创造出醒目的图形阴影形状。通过交叉排线、点画法和半色调密度来构建阴影，而非使用渐变。
+
+最终质量：清晰、高度细节化、可直接打印的海报插图，锐利的面部线条，真实的复古印刷纹理，强烈的图形层次感，可辨认的肖像，平衡的负空间，以及高端的编辑艺术指导。保持整体一致性。
+
+[English]
+Create a refined vintage halftone poster-art portrait of {argument name="subject name" default="PERSON_NAME"}. Use the uploaded reference photo when provided; otherwise, create the likeness from the named person. The final image must be a full-bleed illustration only, with no reference-photo thumbnail or inset image.
+
+Render the subject in a bold 1960s–70s screen-printed / offset-lithograph aesthetic, inspired by vintage political posters, protest art, retro magazine covers, concert posters, and stencil-based graphic illustration. Preserve recognizable facial proportions and identity while translating the face into high-contrast ink linework, cross-hatching, stippling, halftone dots, and engraved-style shading. Avoid photorealism, airbrushing, and smooth gradients.
+
+Composition: strict 90-degree side profile facing left, eyes looking forward, chin slightly lifted, confident neutral expression. Frame the head and upper shoulders/chest vertically in a 4:5 or 3:4 composition, with the subject occupying roughly 70–85% of the frame. Place a large solid-color sun/halo circle behind the head, with the hair and shoulders slightly breaking its edge. Make the hair highly detailed, with flowing individual strands, directional movement, and graphic highlight streaks.
+
+Background: aged cream, paper, or canvas texture with asymmetric geometric color blocks, subtle halftone patterns, crosshatching, analog print grain, and slight screen-print imperfections. Keep the design sophisticated and cohesive rather than cluttered.
+
+Color direction: automatically choose one limited, high-contrast palette of 2–4 colors. Default to warm aged cream + poster red + near-black ink, but allow tasteful alternatives such as deep navy + muted red/orange + cream, charcoal + burnt orange + cream, or a striking mustard/gold + black duotone. No photographic color gradients.
+
+Typography: place the subject's name prominently in the top-left, using an extra-bold condensed grotesque sans-serif or slab-serif in ALL CAPS, tightly kerned and stacked across 1–2 lines. Add a short 2–4 word epithet or descriptor beneath it in a smaller bold condensed typeface, using the poster's accent color. Keep typography integrated into the composition and visually balanced.
+
+Clothing: use simple modern or era-appropriate clothing with flat colors, visible fabric-fold linework, and the same halftone/engraving treatment. Preserve recognizable accessories from the reference when appropriate, but keep them minimal.
+
+Lighting: use one hard directional light source across the profile, creating bold graphic shadow shapes. Build shadows using cross-hatching, stippling, and halftone density rather than gradients.
+
+Final quality: crisp, highly detailed, print-ready poster illustration, sharp facial linework, authentic vintage print texture, strong graphic hierarchy, recognizable likeness, balanced negative space, and premium editorial-art direction. Maintain the same overal
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2090659270295683372) | 2026-08-21
+
+---
+
+### 🎴 例 6667：铁道记忆双联画
+
+![铁道记忆双联画](../images/%E9%93%81%E9%81%93%E8%AE%B0%E5%BF%86%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅垂直双联画，将同一场景的写实铁路车辆段照片与极简主义纪念海报设计进行对比，以 {argument name="locomotive model" default="EF66 27 / JNR"} 为核心，标题为 {argument name="poster title" default="IRON MEMORY"}。
+
+画布：3:4 纵向图像，精确平分为 2 个等宽的水平面板：顶部面板为写实彩色照片，底部面板为印在暖米白色纸张上的复古丝网印刷海报。
+
+顶部面板：展示 1 辆停在日本户外车辆段铁轨上的蓝色与奶油色相间的日本电力机车。从左前方低角度拍摄，机车占据画面大部分空间，前部车牌显示“EF66 27”，侧面带有小型“JNR”标志。在机车右侧包含 1 名正在仰望机车的人：{argument name="person description" default="一名留短发的成年人，身穿灰色夹克、条纹围巾、蓝色牛仔裤和运动鞋"}。机车周围环绕着多条平行铁轨、碎石道砟、高架接触网、升起的受电弓以及带有敞开式车库门的浅色工业车辆段建筑。使用自然日光、带有柔和云朵的蓝天、写实的阴影、略带怀旧感的胶片色彩，并展现机车上细致的锈蚀痕迹。
+
+底部面板：将顶部场景重新诠释为平面图形海报，仅使用米色纹理纸张上的柔和蓝色油墨。创作一个从左侧观察的相同机车的大型简化剪影，可见受电弓和高架电线。在右下方添加 1 个站在火车旁的小型人物剪影。使用不规则的空白米色负空间（如云朵或记忆形状）穿过火车剪影。右侧以细蓝色几何轮廓勾勒出车辆段建筑和轨道线。风格应类似于复古铁路纪念印刷品、孔版印刷或丝网印刷，带有颗粒感、褪色的油墨和细微的纸张斑点。
+
+底部面板文字内容：在左下方以简洁且字间距宽的无衬线字体放置大标题“{argument name="poster title" default="IRON MEMORY"}”。在其下方添加“{argument name="locomotive model" default="EF66 27 / JNR"}”。添加简短说明文字：“Depot, Japan” 和 “A moment beside the road that remembers.”。在底部中心书写 “TRACKS OF TIME”，后接一条细水平线，并在右下角书写 “No. 6627”。
+
+约束：包含 2 个面板，每个面板内仅限 1 辆机车和 1 个人。保持顶部面板为照片级写实，底部面板为单色图形风格。不要添加额外的火车、额外的人员、徽标、水印或无关文字。
+
+[English]
+Goal: Create a vertical two-part commemorative railway poster combining realistic photography and minimalist print design, themed around a vintage Japanese electric locomotive and memory.
+
+Canvas: Portrait 3:4 poster, split horizontally into exactly 2 panels of equal width. The top panel is a realistic color photograph; the bottom panel is a retro screen-printed graphic poster on warm off-white paper.
+
+Top panel: Show a large blue-and-cream Japanese electric locomotive in a train depot, viewed from a low front-left three-quarter angle. The locomotive has the visible number plate “EF66 27” on the front and small “JNR” markings on the side. Include overhead catenary wires, metal gantries, rail tracks, gravel ballast, industrial depot buildings, and a partly cloudy blue sky. Place exactly 1 human figure near the right side of the locomotive: {argument name="person description" default="a young woman in a jacket and jeans standing beside the train and looking up at it"}. Make the locomotive dominate the scene, with realistic daylight, film-photo color, crisp mechanical detail, mild vintage grain, and no motion blur.
+
+Bottom panel: Create a flat two-color graphic interpretation of the top image, like a cyan-blue ink screen print on textured cream paper. Use a large simplified silhouette of the same locomotive, depot structures, catenary wires, and the same single standing person. The train silhouette should occupy the upper and center area, with a dramatic white negative-space cloud or plume shape in front of the train. Keep the bottom panel minimal, poster-like, slightly distressed, with visible paper grain and ink imperfections.
+
+Text content in the bottom panel: Include exactly 6 text elements: 1) large title “{argument name="headline text" default="IRON MEMORY"}” at lower left, 2) subtitle “{argument name="train label" default="EF66 27 / JNR"}” beneath it, 3) small location line “{argument name="location text" default="Depot, Japan"}”, 4) small poetic caption “{argument name="caption text" default="A moment beside the road that remembers."}”, 5) centered bottom label “TRACKS OF TIME” with a thin horizontal rule extending right, and 6) small catalog number “No. 6627” at bottom right. Use clean geometric uppercase typography with generous letter spacing.
+
+Constraints: The image must contain exactly 1 locomotive and exactly 1 person. Preserve the horizontal split between realistic photo above and graphic poster below. Do not add extra trains, extra people, logos beyond the specified JNR/train markings, watermarks, or unrelated decorative elements. Keep the mood nostalgic, industrial, quiet, and documentary.
+```
+
+**来源：** [@ＵＳＯ８００鉄道総裁](https://x.com/uso800railway/status/2090648771550159250) | 2026-08-21
+
+---
+
+### 🎴 例 6681：未来感 Numero 杂志封面
+
+![未来感 Numero 杂志封面](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Numero%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体：
+一位神秘的年轻女性，留着白金短发，眼神深邃，展现出未来感的高定时尚气质。
+
+创作一张高级杂志封面。
+打造一张令人难忘的编辑肖像，强调个性、创新与前卫美学。
+
+风格：高定时尚编辑摄影、雕塑感布光、冰银色、白色与石墨色调、未来感高级定制、细腻的皮肤质感、受控的阴影、极简构图、微妙的金属反射、电影级景深、照片级 8K 画质。
+
+杂志标题：NUMÉRO
+发行日期：2026 年 8 月
+标题：美学的未来
+超越平凡
+全新愿景
+
+[English]
+SUBJECT:
+A mysterious young woman with short platinum-blonde hair, striking eyes, and a futuristic high-fashion presence.
+
+Create ONE premium magazine cover.
+Build one unforgettable editorial portrait emphasizing individuality, innovation, and avant-garde beauty.
+
+STYLE: High-fashion editorial photography, sculptural lighting, icy silver, white, and graphite palette, futuristic couture, crisp skin texture, controlled shadows, minimalist composition, subtle metallic reflections, cinematic depth of field, photorealistic 8K.
+
+MAGAZINE TITLE: NUMÉRO
+ISSUE DATE: AUGUST 2026
+HEADLINES: The Future of Beauty
+Beyond the Ordinary
+A New Vision
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2090616204109173159) | 2026-08-21
+
+---
+
+### 🎴 例 6687：浅草雷门和纸明信片
+
+![浅草雷门和纸明信片](../images/%E6%B5%85%E8%8D%89%E9%9B%B7%E9%97%A8%E5%92%8C%E7%BA%B8%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张复古日本旅行明信片 / 收藏卡片，采用手工和纸水彩拼贴风格，以 {argument name="location headline" default="ASAKUSA, TOKYO, JAPAN"} 和 {argument name="landmark name" default="KAMINARIMON GATE"} 为主题，展现宁静的春日清晨。
+
+画布：竖向 3:4 明信片布局，底色为温暖的象牙色手工和纸，带有毛边质感、细微纤维、轻微的陈旧边缘以及纤细的淡色边框。整体视觉效果应呈现为高级印刷艺术明信片，而非照片。
+
+布局：顶部排版区、中央大型插图以及底部收藏版页脚。中央插图占据页面大部分空间，边缘呈现不规则的撕纸/水彩融合效果，与背景自然过渡。
+
+顶部文字内容：最上方为小号间距衬线字体，书写“WASHI ART COLLECTION”，配有精致的花卉装饰和纤细的水平金色线条。下方为大号优雅衬线大写标题，书写“{argument name="location headline" default="ASAKUSA, TOKYO, JAPAN"}”。其下为较小的红色大写文字，书写“{argument name="landmark name" default="KAMINARIMON GATE"}”。再下方用小号草书书写“a calm spring morning”，两侧配以精致的金色装饰分隔符。
+
+中央插图：展示位于东京浅草寺的雷门，正面视角并带有轻微的透视校正，中央悬挂着巨大的红色纸灯笼，上面印有醒目的黑色书法字。门身为朱红色，配有深绿色格栅板、风化的灰褐色瓦片屋顶、木梁、白色装饰块，以及灯笼上方带有金色文字的绿色匾额。营造出小雨后湿润石板路的感觉，带有柔和的倒影，行人正向门内走去。
+
+场景中的可见元素计数：包含 1 个大型中央红灯笼，灯笼上方 1 个绿底金字匾额，门内 2 个守护神像龛，左侧 1 个带有竖排日文的石碑，樱花树旁 1 个黑色路灯，左下方 1 个小型装饰性灯笼结构，右侧 1 排挂有红灯笼的店面，以及前景中 2 位穿着和服的女性（左侧为米色花纹和服，右侧为粉色花纹和服）。背景可添加少量穿着素色外套的行人，但需保持次要地位。
+
+季节与氛围：{argument name="seasonal detail" default="soft pink cherry blossoms"} 在左侧繁茂盛开，部分遮挡并勾勒出雷门和路灯的轮廓。清晨宁静、薄雾缭绕，色调柔和，地面湿润，光线漫射。
+
+底部页脚：左下角包含一段黑色墨水书写的竖排日文短诗，下方盖有一个红色方形印章。底部居中文字：大号草书“Picture Postcard”，下方为红色衬线字体“Handmade Washi Art”，接着是一个带有细边框的标签“ART EDITION”，然后是“LIMITED EDITION / 2000”，最后是红色小字“NOT VALID FOR POSTAGE”。右下角包含 1 个圆形的金色收藏印章，印有“COLLECTOR SHEET”，顶部带有小花图标，底部为波浪纹样。
+
+视觉风格：手工和纸艺术、水彩水粉、撕纸拼贴质感、可见纸张纤维、柔和颗粒感、不完美的墨迹边缘，色调包含朱红、灰粉、苔藓绿、暖灰、古金以及深褐色排版。保持写实的建筑比例，但采用绘画感和纹理化的渲染方式。
+
+约束条件：保留所有指定的英文文本。保持画面整洁并居中，如同可打印的收藏明信片。避免出现现代标识、汽车、霓虹灯、照片级写实、光泽感数码特效或多余的 Logo。
+
+[English]
+Goal: Create a vintage Japanese washi art postcard poster of {argument name="location" default="Asakusa, Tokyo, Japan"}, showing the Kaminarimon Gate on a calm spring morning.
+
+Canvas: Vertical portrait postcard, 3:4 ratio, cream handmade washi paper background with deckled-looking watercolor edges, subtle fibers, light stains, and a soft printed-paper texture. Leave generous cream margins at the top and bottom like a collectible art sheet.
+
+Main illustration: Center a painterly washi-collage watercolor view of Kaminarimon Gate in Asakusa. Show exactly 1 large red temple gate with a weathered gray tiled roof, red pillars, green lattice panels, and a huge central red-and-white paper lantern with bold black kanji. Add exactly 1 gold-and-green sign plaque above the lantern. Include exactly 2 guardian statue alcoves, one on each side of the gate. The street is wet and reflective, suggesting early morning after rain. Add exactly 1 blooming pink cherry blossom tree on the left, exactly 1 black street lantern in front of the blossoms, exactly 1 stone monument pillar on the lower left with vertical Japanese calligraphy, and exactly 2 rows of small market shops flanking the walkway. Place exactly 2 foreground women in kimono, one cream floral kimono at lower left and one pink kimono at lower right, plus exactly 14 additional small pedestrians walking through the gate and along the approach. Use soft muted reds, dusty pinks, warm browns, slate grays, dark ink accents, and gold details.
+
+Top typography: At the top, set small uppercase text “WASHI ART COLLECTION” with thin decorative horizontal rules and a tiny flower ornament. Beneath it, large elegant serif title text “{argument name="main title" default="ASAKUSA, TOKYO, JAPAN"}”. Below that, smaller red uppercase text “{argument name="landmark subtitle" default="KAMINARIMON GATE"}”. Under the subtitle, add cursive italic text “{argument name="mood line" default="a calm spring morning"}” with delicate gold divider flourishes on both sides.
+
+Bottom typography and stamps: In the lower margin, add a short vertical Japanese poem block on the left and a small red square seal stamp below it. Center the bottom text as: cursive “Picture Postcard”, red serif “Handmade Washi Art”, boxed letterspaced “ART EDITION”, then “LIMITED EDITION / 2000”, and tiny red “NOT VALID FOR POSTAGE”. On the lower right, add exactly 1 circular collector stamp containing “COLLECTOR SHEET”, a small flower, and wave-line ornamentation.
+
+Style: Traditional Japanese watercolor, washi paper collage, handmade travel postcard, soft ink bleed, textured brush marks, slightly faded archival print, elegant museum-shop souvenir design. Keep all text crisp enough to read while retaining a hand-printed vintage feel. No modern cars, no neon signs, no photorealism, no watermark.
+```
+
+**来源：** [@シス猫 (sysCat) @無色で無職なネコ (no-color, no-job)](https://x.com/sysCat64/status/2090604892511748484) | 2026-08-21
+
+---
+

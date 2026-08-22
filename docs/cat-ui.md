@@ -13776,3 +13776,217 @@ Constraints: Include exactly 2 sections, exactly 2 call-to-action buttons, exact
 
 ---
 
+### 🖥️ 例 6616：中国武将透明素材聊天界面
+
+![中国武将透明素材聊天界面](../images/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E5%B0%86%E9%80%8F%E6%98%8E%E7%B4%A0%E6%9D%90%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个深色模式的聊天截图，展示生成的透明背景素材预览。画布：768×768 正方形，采用纯黑色应用背景。在右上角放置一个圆角蓝色聊天气泡，其中包含精确的中文文本 {argument name="chat message" default="再帮我生成一张透明背景的中国武将舞剑图，要求剑身带有绚丽的刀光特效。"}，使用白色无衬线字体，分为两行显示，带有充足的内边距和药丸状圆角。在其下方，展示一个大型图像预览面板，背景为深灰色棋盘格透明网格。在面板中心放置一个极具张力的中国武将舞剑剪影：一位年轻的古代中国将军，留着飘逸的长黑发，表情坚毅，身着华丽的红、白、黑、金配色盔甲和长袍，红色的丝带和披风在空中飞舞，带有精美的金色刺绣细节和毛皮镶边肩甲，单腿动态腾空前冲。他手持长剑从左向右斜向前方，周围环绕着生动的发光刀光特效：一个巨大的椭圆形光晕环绕着角色，由金色火花、蓝白色能量轨迹和明亮的运动光束组成。让武将看起来像高细节的奇幻游戏角色渲染图，具有锐利的金属和织物纹理、轮廓光，除棋盘格网格背景外无其他可见背景。在预览底部添加三个小型 UI 控件：左下角一个圆角深色标签，文字为「编辑」；中右下方一个圆形深色下载图标按钮；右下角一个圆形深色分享/上传图标按钮。视觉风格：现代移动聊天界面内的写实电影级奇幻角色艺术，高对比度，精致的 GPT 风格图像生成效果。约束：保持角色背后的棋盘格透明图案可见，不要添加额外的消息、水印或额外的 UI 面板。
+
+[English]
+Create a dark-mode chat screenshot featuring a generated transparent-background asset preview. Canvas: square 768×768 with a pure black app background. At the upper right, place one rounded blue chat bubble containing the exact Chinese text {argument name="chat message" default="再帮我生成一张透明背景的中国武将舞剑图，要求剑身带有绚丽的刀光特效。"} in white sans-serif type, split across two lines, with generous padding and pill-shaped corners. Below it, show a large image-preview panel with a dark gray checkerboard transparency grid. Center the panel on a dramatic Chinese warrior sword-dance cutout: a young male ancient Chinese general with long flowing black hair, intense expression, ornate red, white, black, and gold armor and robes, red ribbons and cape sweeping through the air, embroidered gold details, fur-trimmed shoulder armor, and one extended leg in a dynamic midair lunge. He holds a sword angled diagonally forward from left to right, surrounded by vivid glowing blade-light effects: one large elliptical swirl wrapping around the character, composed of golden sparks, blue-white energy trails, and bright motion streaks. Make the warrior look like a high-detail fantasy game character render with sharp metallic and fabric textures, rim lighting, and no visible background except the checkerboard grid. Add exactly three small UI controls over the bottom of the preview: a rounded dark label at bottom left reading 「编辑」, a circular dark download icon button near the lower center-right, and a circular dark share/upload icon button at the bottom right. Visual style: realistic cinematic fantasy character art inside a modern mobile chat interface, high contrast, polished GPT-style image generation result. Constraints: keep the checkerboard transparency pattern visible behind the character, do not add extra messages, watermarks, or additional UI panels.
+```
+
+**来源：** [@图勒卡](https://x.com/w1y1y1/status/2090819400894906623) | 2026-08-21
+
+---
+
+### 🖥️ 例 6633：黎明前的未来主义草甸
+
+![黎明前的未来主义草甸](../images/%E9%BB%8E%E6%98%8E%E5%89%8D%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E8%8D%89%E7%94%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级、照片写实的景观，标题为 {argument name="scene title" default="黎明之前"}：俯瞰远处未来城市天际线的宁静黎明前草甸。使用 4:5 的竖构图，采用低视平线视角。前景展示潮湿的野草、小野花、散落的深色岩石，以及占据画面下部中央的静止浅水池，倒映着粉紫色的天空和远处塔楼的微弱轮廓。在左侧中景处，放置一座孤零零的高耸狭窄金属观测或通信塔，矗立在低矮的草丘上，具有细长的格子支撑结构、一个小平台、天线细节，顶部有微弱的暖光。在远处的地平线上，展现一座朦胧的未来主义大都市，拥有许多细长的摩天大楼和尖塔；使中心偏右侧最高的那座针状塔楼在晨雾中发出微弱的光芒。氛围应显得宁静、广阔且忧郁，平原上覆盖着柔和的雾层，城市灯光隐约可见。天空应占据上半部分，布满柔和的蓝灰色、紫红色、桃色和玫瑰色的层云，暗示着日出前的那一刻。使用自然光，柔和的体积雾，池塘中逼真的倒影，草丛和岩石的高细节，柔和的淡色调色彩分级，画面中无人、无动物、无车辆、无文字、无标志、无水印。
+
+[English]
+Create a cinematic, photorealistic landscape titled {argument name="scene title" default="Before Dawn"}: a quiet pre-dawn meadow overlooking a distant futuristic city skyline. Use a vertical 4:5 composition from a low eye-level viewpoint. In the foreground, show damp wild grass, small wildflowers, scattered dark rocks, and a still shallow pond occupying the lower middle of the frame, reflecting the pink-lavender sky and faint silhouettes of distant towers. On the left midground, place exactly one tall, narrow metal observation or communications tower standing alone on a low grassy hill, with thin lattice supports, a small platform, antenna details, and a subtle warm light near the top. Across the far horizon, show one hazy futuristic metropolis with many slender skyscrapers and spires; make the tallest needle-like tower slightly right of center, glowing faintly through morning mist. The atmosphere should feel silent, expansive, and melancholic, with soft fog layers over the plains and city lights barely visible. The sky should fill the upper half with layered clouds in muted blue-gray, mauve, peach, and rose, suggesting the moment just before sunrise. Use naturalistic lighting, gentle volumetric haze, realistic reflections in the pond, high detail in the grasses and rocks, subdued pastel color grading, no people, no animals, no vehicles, no text, no logo, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090772418398962061) | 2026-08-21
+
+---
+
+### 🖥️ 例 6634：水下 MPD 警用机器人测试
+
+![水下 MPD 警用机器人测试](../images/%E6%B0%B4%E4%B8%8B%20MPD%20%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%8B%E8%AF%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级照片写实的竖构图图像，展示一个未来派的日本警视厅重型人形机器人在清澈的蓝色泳池中进行水下阻力测试。机器人体型庞大、笨重且具有战术感，由棱角分明的白色和深蓝色装甲板构成，露出黑色的机械关节、软管、活塞、螺栓和传感器模块。头部是一个长方形的多摄像头传感器条，正面有 4 个巨大的圆形玻璃镜头，安装在粗壮的机械颈部上，右肩/背部可见一根小型垂直天线状桅杆。机器人身上有 3 块醒目的深色装甲板，带有白色标记：胸部面板印有“警视庁”和“MPD”，左肩/臂盾印有“警视庁”和“MPD”，右肩/臂盾印有“警视庁”和“MPD”。在两个肩部盾牌单元的顶部添加红色半透明警灯条。展示机器人部分浸没在波光粼粼的水面下，周围环绕着密集的空气泡、水花、水滴，以及在装甲上闪烁的焦散光影。采用近景低角度正面视角，躯干居中，双臂向两侧伸展，传感器头部位于画面上方三分之一处。光照应为明亮的池水阳光，具有高对比度、蓝色反射、闪烁的高光、逼真的折射效果，背景为浅景深的池水。风格：超精细科幻机甲写实、日本警用机器人概念艺术、清晰的机械纹理、电影动作剧照，无人，除可见的“警视庁”和“MPD”标记外，无其他文字。
+
+[English]
+Create a cinematic photorealistic vertical image of a futuristic Japanese Metropolitan Police Department heavy-duty humanoid robot undergoing an underwater resistance test in a clear blue pool. The robot is large, bulky, and tactical, built from angular white and dark navy armored plates with exposed black mechanical joints, hoses, pistons, bolts, and sensor modules. Its head is a rectangular multi-camera sensor bar with exactly 4 large circular glass lenses facing forward, mounted on a thick mechanical neck, with a small vertical antenna-like mast visible on the robot’s right shoulder/back. The robot has exactly 3 prominent dark armor panels with white markings: one chest panel reading “警視庁” above “MPD,” one left shoulder/arm shield reading “警視庁” and “MPD,” and one right shoulder/arm shield reading “警視庁” and “MPD.” Add red translucent police light strips on the tops of both shoulder shield units. Show the robot partially submerged just beneath the rippling water surface, surrounded by dense air bubbles, splashes, droplets, and shimmering caustic light patterns across the armor. Use a close-up low-front perspective, with the torso centered, arms extending to both sides, and the sensor head near the upper third of the frame. Lighting should be bright aquatic sunlight with high contrast, blue reflections, sparkling highlights, realistic refraction, and a shallow depth-of-field background of pool water. Style: ultra-detailed sci-fi mecha realism, Japanese police robotics concept art, crisp mechanical textures, cinematic action still, no people, no extra text beyond the visible “警視庁” and “MPD” markings.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2090771699684008403) | 2026-08-21
+
+---
+
+### 🖥️ 例 6642：可爱仙人掌透明贴纸
+
+![可爱仙人掌透明贴纸](../images/%E5%8F%AF%E7%88%B1%E4%BB%99%E4%BA%BA%E6%8E%8C%E9%80%8F%E6%98%8E%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的卡哇伊风格贴纸插画，主体是一个快乐的盆栽仙人掌，背景为透明 PNG。主体是一个圆形的桶状仙人掌，带有两条向上弯曲的手臂，皮肤颜色为明亮的 {argument name="cactus color" default="青柠绿"}，带有较深的垂直凹槽、光泽高光，以及厚实的深绿色轮廓和柔和的白色贴纸边框。仙人掌拥有开心的表情，包括 2 只带有白色高光的大型黑色椭圆形眼睛、2 个粉色圆形腮红、2 个简单的弯曲眉毛，以及 1 张张开的微笑嘴巴，露出粉色舌头。在仙人掌顶部添加 1 朵大大的红粉色花朵，花朵有 6 片圆润的花瓣和一簇黄色雄蕊。沿肋骨和手臂均匀分布许多带有橙色中心的小型星形奶油色刺。将仙人掌放置在 1 个陶土花盆中，颜色为 {argument name="pot color" default="暖橙色陶土"}，花盆带有厚边、细微的斑点、光泽白色高光，顶部可见棕色小石子和土壤。采用精致的数字卡通渲染风格，色彩饱和，渐变平滑，阴影柔和，呈现出俏皮的商业贴纸美感。背景必须为透明；不要显示房间、桌子、摄影棚背景、风景、文字、水印或其他多余物体。角色居中，全身可见，纵向构图，高分辨率。
+
+[English]
+Create a cute kawaii sticker-style illustration of a happy potted cactus as a transparent PNG. The main subject is one round barrel cactus with two raised curved arms, bright {argument name="cactus color" default="lime green"} skin, darker vertical grooves, glossy highlights, and a thick dark green outline plus a soft white sticker border. The cactus has a cheerful face with 2 large black oval eyes with white highlights, 2 pink circular blush cheeks, 2 simple curved eyebrow marks, and 1 open smiling mouth with a pink tongue. Add exactly 1 large red-pink flower on top of the cactus with 6 rounded petals and a cluster of small yellow stamens. Add many small star-shaped cream thorns with orange centers along the ribs and arms, evenly distributed. Place the cactus in exactly 1 terracotta flower pot, colored {argument name="pot color" default="warm orange terracotta"}, with a thick rim, subtle speckles, glossy white highlights, and visible brown pebbles/soil at the top. Use a polished digital cartoon rendering with saturated colors, smooth gradients, soft shadows, and a playful commercial sticker aesthetic. The background must be transparent; show no room, table, studio backdrop, scenery, text, watermark, or extra objects. Center the character, full body visible, portrait orientation, high resolution.
+```
+
+**来源：** [@cyberkk](https://x.com/krienknight/status/2090744469477904546) | 2026-08-21
+
+---
+
+### 🖥️ 例 6656：可爱仙人掌贴纸
+
+![可爱仙人掌贴纸](../images/%E5%8F%AF%E7%88%B1%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的 Kawaii 贴纸风格插画，主体为一个在赤陶花盆中微笑的绿色仙人掌，背景为透明棋盘格。仙人掌应具有一个带有垂直纹理的大型圆形中心躯干，以及左右两侧各一只向上弯曲的手臂。为其设计一张快乐的脸，包括两个带有白色高光的亮黑色椭圆形眼睛、粉色圆形腮红，以及一个露出深色内腔和粉色舌头的开怀笑容。在仙人掌上添加许多淡黄色星形刺，刺根部呈橙色：总计 28 簇可见的刺，其中中心躯干上有 11 簇，左臂/左侧有 9 簇，右臂/右侧有 8 簇。在仙人掌顶部左侧放置一朵红粉色大花，花朵有 7 片圆润花瓣，中心有一簇 8 个黄色花粉点。花盆应为暖橙色赤陶材质，带有厚实的圆边、较深的橙色阴影、亮白色高光点、细小斑点，顶部可见褐色小石子和土壤。使用明亮饱和的色彩、柔和的渐变、闪亮的高光、粗犷的深绿色/黑色卡通轮廓线，并在整个仙人掌和花盆周围添加干净的白色贴纸边框。主体居中，近距离裁剪但需保持整个花盆和手臂可见，方形构图，欢快的吉祥物图标风格，无文字，无水印。
+
+[English]
+Create a cute kawaii sticker-style illustration of a smiling green cactus in a terracotta flower pot on a transparent checkerboard background. The cactus should have one large rounded central barrel body with vertical ribbing and two raised curved arms, one on each side. Give it a happy face with two glossy black oval eyes with white highlights, pink circular blush cheeks, and an open smiling mouth with a dark interior and pink tongue. Add many small pale yellow star-shaped spines with orange bases across the cactus: 28 visible spine clusters total, including 11 on the central cactus body, 9 on the left arm/left side, and 8 on the right arm/right side. Place a large red-pink flower on the upper left of the cactus crown with 7 rounded petals and a cluster of 8 yellow pollen dots in the center. The pot should be warm orange terracotta with a thick rounded rim, darker orange shading, glossy white highlight spots, tiny speckles, and visible brown pebbles/soil at the top. Use bright saturated colors, soft gradients, shiny highlights, thick dark green/black cartoon outlines, and a clean white sticker border around the whole cactus and pot. Center the subject, crop close but keep the entire pot and arms visible, square composition, cheerful mascot icon style, no text, no watermark.
+```
+
+**来源：** [@成云杉YSC](https://x.com/yscai101/status/2090678564844888561) | 2026-08-21
+
+---
+
+### 🖥️ 例 6657：ChatGPT 透明披萨生成结果
+
+![ChatGPT 透明披萨生成结果](../images/ChatGPT%20%E9%80%8F%E6%98%8E%E6%8A%AB%E8%90%A8%E7%94%9F%E6%88%90%E7%BB%93%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的深色模式 ChatGPT 对话截图，展示关于透明背景披萨切片的图像生成结果。
+
+画布：方形桌面截图，约 820×847 像素，采用纯黑色 ChatGPT 风格的深色界面背景。
+
+布局：在右上角放置一个圆角蓝色用户消息气泡，内含日语文本和一行小图标。在其下方左对齐显示一张生成的图像预览：一个方形的透明背景棋盘格区域，其中包含一张披萨切片的抠图，披萨呈现出炸裂开来、酱汁和配料四散的效果。在图像预览的下方及周围，包含 ChatGPT 界面控件，底部为输入栏。
+
+文本内容：顶部消息气泡的第一行必须准确显示为「床に叩きつけられた1カットのピザの写真、ピザソースが飛び散っている、背景透過」，第二行显示为「🖼️ 画像を作成する」。在图像预览的左下角附近添加一个标有「編集」的小型深色胶囊按钮。在图像预览的右下角附近添加一个小型圆形分享/下载风格图标。在底部中心附近，添加淡色的日语免责声明：「ChatGPT の回答は必ずしも正しいとは限りません。重要な情報は確認するようにしてください。」底部的输入占位符应显示为「ChatGPT に質問」，左侧带有加号图标，右侧带有小型麦克风/语音图标，以及标签「高い」。
+
+生成图像细节：预览应准确显示 1 片意大利辣香肠披萨，向右上方倾斜，右上角有烤焦的饼皮，融化的马苏里拉奶酪向下延伸，红色番茄酱向外飞溅，披萨上可见意大利辣香肠碎块。周围环绕着许多不规则的酱汁液滴、奶酪丝和飞溅的配料碎片，仿佛披萨被重重摔在地上。抠图应呈现 Alpha/透明外观，披萨后方为深灰色棋盘格背景。披萨应高度逼真、有光泽、凌乱且光影清晰，无盘子，无可见地面。
+
+界面细节：采用现代 ChatGPT 移动端/桌面端混合深色 UI 美学，黑色背景，圆角蓝色用户气泡，柔和的灰色图标，底部为圆角深色输入框。在生成图像区域下方的左侧准确包含 4 个小型反应/操作图标：复制、点赞、点踩和省略号。保持所有 UI 元素简洁清晰。
+
+约束：不要添加额外的消息、头像、水印或浏览器边框。主要焦点应为聊天界面内透明 PNG 风格的披萨抠图。使用 {argument name="pizza prompt text" default="床に叩きつけられた1カットのピザの写真、ピザソースが飛び散っている、背景透過"} 作为可见的用户请求，{argument name="subject" default="one pepperoni pizza slice smashed with sauce splashing"}，以及 {argument name="interface language" default="Japanese"}。
+
+[English]
+Goal: Create a realistic screenshot of a dark-mode ChatGPT conversation showing an image generation result about a transparent-background pizza slice.
+
+Canvas: Square-ish desktop screenshot, approximately 820×847 px, with a pure black ChatGPT-style dark interface background.
+
+Layout: At the top right, place one rounded blue user message bubble containing Japanese text and a small image icon line. Below it, aligned left, show one generated image preview: a square transparent-background checkerboard area with a cutout photo of a pizza slice exploding into scattered sauce and toppings. Under and around the image preview, include small ChatGPT interface controls, then a bottom input bar.
+
+Text content: The top message bubble must read exactly: 「床に叩きつけられた1カットのピザの写真、ピザソースが飛び散っている、背景透過」 on the first line, and 「🖼️ 画像を作成する」 on the second line. Add a small dark pill button labeled 「編集」 near the lower-left corner of the image preview. Add a small circular share/download-style icon near the lower-right corner of the image preview. Near the bottom center, add the faint Japanese disclaimer: 「ChatGPT の回答は必ずしも正しいとは限りません。重要な情報は確認するようにしてください。」 The bottom input placeholder should read 「ChatGPT に質問」, with a plus icon on the left and small microphone/voice icons on the right, plus the label 「高い」.
+
+Generated image details: The preview should show exactly 1 triangular slice of pepperoni pizza, tilted diagonally upward to the right, with a browned crust at the top right, melted mozzarella cheese stretching downward, red tomato sauce splashing outward, and pepperoni pieces visible on the slice. Surround it with many irregular sauce droplets, cheese strands, and flying topping fragments as if the slice was slammed onto a floor. The cutout should have an alpha/transparent look represented by a dark gray checkerboard background behind the pizza. Make the pizza highly photorealistic, glossy, messy, and sharply lit, with no plate and no visible floor.
+
+Interface details: Use a modern ChatGPT mobile/desktop hybrid dark UI aesthetic, black background, rounded blue user bubble, soft gray icons, and a rounded dark input field at the bottom. Include exactly 4 small reaction/action icons below the generated image area on the left: copy, thumbs up, thumbs down, and an ellipsis. Keep all UI elements subtle and crisp.
+
+Constraints: Do not add extra messages, avatars, watermarks, or browser chrome. The main focus should be the transparent PNG-style pizza cutout inside the chat interface. Use {argument name="pizza prompt text" default="床に叩きつけられた1カットのピザの写真、ピザソースが飛び散っている、背景透過"} as the visible user request, {argument name="subject" default="one pepperoni pizza slice smashed with sauce splashing"}, and {argument name="interface language" default="Japanese"}.
+```
+
+**来源：** [@とらの](https://x.com/TlanoAI/status/2090677011341836296) | 2026-08-21
+
+---
+
+### 🖥️ 例 6660：超大水果微缩世界
+
+![超大水果微缩世界](../images/%E8%B6%85%E5%A4%A7%E6%B0%B4%E6%9E%9C%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影级、超写实构图，画面中一位 {argument name="subject" default="娇小的微缩女孩"} 穿着 {argument name="clothing" default="白色上衣搭配牛仔背带裤"}，正在 {argument name="setting" default="户外阳光明媚的木质桌面"} 上与巨大的水果和饮料愉快地互动。背景为热带海滩，带有柔和的黄金时刻逆光和焦外成像效果。超精细纹理，逼真的皮肤质感，鲜艳的水果色彩，巨型柠檬水杯中闪烁的冰块，巨大果汁瓶上晶莹的冷凝水珠，以及温暖的金色光影。8k 分辨率，85mm 镜头拍摄，商业摄影风格，照片级真实感 --ar 4:
+
+[English]
+A cinematic, hyper-realistic composition featuring a {argument name="subject" default="tiny miniature girl"} wearing {argument name="clothing" default="denim overalls over a white top"}, happily interacting with massive, oversized fruits and drinks on a {argument name="setting" default="sunlit wooden tabletop outdoors"}. Tropical beach background with soft, golden hour backlighting and bokeh. Ultra-detailed textures, realistic skin textures, vibrant fruit colors, sparkling ice cubes in a giant glass of lemonade, glossy condensation on a massive juice bottle, and warm, golden lighting. 8k resolution, shot on 85mm lens, commercial photography style, photorealistic --ar 4:
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2090666976309809221) | 2026-08-21
+
+---
+
+### 🖥️ 例 6683：挥手的香蕉吉祥物
+
+![挥手的香蕉吉祥物](../images/%E6%8C%A5%E6%89%8B%E7%9A%84%E9%A6%99%E8%95%89%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个精致的 3D 卡通吉祥物，角色为 {argument name="fruit character" default="成熟的黄香蕉"}，呈现为透明背景上的全身独立贴纸。香蕉直立并带有轻微弧度，俏皮地向观察者左侧倾斜，果皮呈明亮的金黄色，靠近果柄和尖端处带有淡淡的绿色，表面有细小的褐色斑点，质感光亮，顶部果柄和底部尖端为逼真的深褐色切面。在果皮中上部添加一个欢快的拟人化面部：两只大的椭圆形棕色眼睛，带有白色巩膜和闪亮的高光，两条粗而弯曲的棕色眉毛，一张张开的笑脸，露出白色的牙齿、深色的口腔内部和红色的舌头。添加两条纤细的黄色手臂：左臂高高举起并挥动，戴着白色卡通手套，露出四个圆润的手指和拇指；右臂弯曲，戴着白色手套的拳头叉在腰间。添加两条纤细的黄色腿，穿着白色短袜和超大号运动鞋；运动鞋为蓝、白、黄配色，配有白色鞋带和厚实的白色鞋底。采用友好的儿童卡通风格，造型圆润流畅，色彩明亮饱和，柔和的摄影棚灯光，带有微妙的接触阴影，边缘清晰利落，无文字，无水印，构图居中，从头部到鞋子全身可见。
+
+[English]
+Create a polished 3D cartoon mascot of a {argument name="fruit character" default="ripe yellow banana"} as a full-body isolated sticker on a transparent background. The banana stands upright with a slight curve, tilted playfully to the viewer’s left, bright golden-yellow peel with subtle green near the stem and tip, small brown freckles and speckles, glossy highlights, and realistic dark brown cut ends at the top stem and bottom tip. Give it a cheerful anthropomorphic face in the upper-middle of the peel: two large oval brown eyes with white sclera and shiny highlights, two thick curved brown eyebrows, a wide open smiling mouth with white teeth, dark mouth interior, and red tongue. Add exactly two slim yellow arms: the left arm is raised high and waving with an open white cartoon glove showing four rounded fingers plus thumb, and the right arm is bent with a white gloved fist resting on the hip. Add exactly two slim yellow legs wearing white ankle cuffs and oversized sneakers; the sneakers are blue, white, and yellow with white laces and thick white soles. Use a friendly children’s cartoon style, smooth rounded forms, bright saturated colors, soft studio lighting, subtle contact shading, crisp clean edges, no text, no watermark, centered composition, full character visible from head to shoes.
+```
+
+**来源：** [@manabu uekusa  植草 学](https://x.com/mauekusa/status/2090611343342878800) | 2026-08-21
+
+---
+
+### 🖥️ 例 6685：ChatGPT 透明机器人截图
+
+![ChatGPT 透明机器人截图](../images/ChatGPT%20%E9%80%8F%E6%98%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的 ChatGPT 移动端界面截图，展示一个可爱机器人吉祥物的透明背景图像生成结果。
+
+画布：横向截图，尺寸约为 1200 × 895 像素，采用简洁的白色应用背景，留有大量空白。界面应呈现为手机或平板电脑上的 ChatGPT 对话形式，而非精修的海报。
+
+布局：放置 3 个主要可见内容元素：右上角放置 1 个局部机器人图像，仅显示下半身、双腿和一只手；右上侧居中位置放置 1 个浅蓝色用户消息气泡；左下角放置 1 个生成的图像预览卡片。底部添加 1 个横跨宽度的输入栏。
+
+用户消息气泡：圆角矩形，填充浅蓝色。日文文本需完全一致：{argument name="user message" default="GPTちゃん、このかわいらしいロボットのマスコットの透明背景画像を作って。つまり周りの白い部分を透明にして。"}。使用深灰色无衬线字体，两行，左对齐。
+
+生成的图像预览卡片：圆角矩形预览框，背景为灰白相间的透明棋盘格图案。内部包含 1 个可爱的旧化机器人吉祥物，在大腿处裁剪，略微偏左站立，左手挥动。预览右下角边缘附近包含 1 个圆形下载按钮覆盖层，为带有黑色向下箭头的白色圆圈。
+
+机器人细节：该机器人是一个迷人的复古玩具风格人形吉祥物，拥有方形灰白色头部、微小的琥珀色发光矩形眼睛、绿色圆形耳罩、头部右侧有一根细黑色天线，金属面板上有磨损和划痕，可见黑色关节和电缆，肩部、颈板、手腕、膝盖和侧板上有绿色点缀。头部有一个类似 OpenAI 的小标志和文字 {argument name="forehead label" default="OpenAI"}。胸部有手写的日文文本 {argument name="chest text" default="ちゃっぴ〜"}。抬起的手有分段的金属手指，手掌朝前。风格为照片级真实的 3D 渲染，具有玩具机器人比例、柔和的摄影棚灯光、细微的污垢、磨损的边缘以及友好的吉祥物表情。
+
+底部输入栏：包含 5 个可见的控件或文本元素：最左侧 1 个加号图标，1 个显示为 {argument name="input placeholder" default="ChatGPT に質問"} 的文本输入占位符，1 个显示为 {argument name="model label" default="高い"} 并带有微小向下箭头的模型选择标签，1 个黑色麦克风图标，以及 1 个带有白色垂直波形条的蓝色圆形语音按钮。输入栏为白色，带有圆角顶部和细微阴影。
+
+视觉风格：准确的日文版 ChatGPT UI 截图美学，白色负空间，细微的圆角，清晰的 UI 文本，无水印，无额外标题，无浏览器边框。
+
+[English]
+Goal: Create a realistic screenshot-style image of a ChatGPT mobile conversation demonstrating transparent-background image generation for a cute robot mascot.
+
+Canvas: Landscape 16:9 mobile screenshot composition, white app background, clean minimal UI, high-resolution, with lots of empty white space in the upper left and center.
+
+Layout: Show exactly 4 main visible UI/content elements: 1 partially cropped robot image at the top right, 1 pale blue user message bubble in the upper middle-right, 1 generated image preview card in the lower left, and 1 rounded chat input bar along the bottom.
+
+Top content: Place the lower half of a cute weathered humanoid robot mascot cropped at the top-right edge, showing only legs, part of torso, one arm, and feet. The robot is white metal with green accent panels, black joints, scuffed grime, chunky feet, and a friendly toy-like industrial design.
+
+User message bubble: A rounded pale blue chat bubble centered slightly right, containing Japanese text exactly as: {argument name="user message" default="GPTちゃん、このかわいらしいロボットのマスコットの透明背景画像を作って。つまり周りの白い部分を透明にして。"}. Use dark gray Japanese sans-serif text, two lines, with generous padding.
+
+Generated image preview: In the lower-left area, create one large rounded rectangle preview card with a gray-and-white checkerboard transparency pattern. Inside it, show exactly 1 robot mascot from the waist up, matching the top robot: white scratched metal body, green shoulder and ear-like side panels, black mechanical joints, square head, glowing warm yellow rectangular eyes, small antenna on the right side of the head, and an OpenAI logo plate on the forehead. The robot is waving with its left hand raised. On its chest, include handwritten Japanese text exactly: {argument name="chest text" default="ちゃっぴ〜"}. Crop the robot slightly at the bottom of the preview card. Add exactly 1 small circular download button with a downward arrow at the lower-right corner of the preview card.
+
+Bottom input bar: Add one large rounded white input field spanning the bottom width with subtle gray border/shadow. Include exactly 5 visible controls/text items inside it: a plus icon on the far left, placeholder text exactly {argument name="input placeholder" default="ChatGPT に質問"}, a model label exactly {argument name="model label" default="高い⌄"} near the right, a small black microphone icon, and a blue circular voice waveform button at the far right.
+
+Visual style: Photorealistic 3D robot render combined with a clean ChatGPT-like mobile app UI screenshot. Use soft shadows, crisp text, rounded corners, neutral white background, and a realistic transparent checkerboard preview. Keep all Japanese text legible and preserve the UI spacing. No extra messages, no watermark, no browser chrome, no additional icons beyond the specified elements.
+```
+
+**来源：** [@マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue/status/2090608734284460334) | 2026-08-21
+
+---
+

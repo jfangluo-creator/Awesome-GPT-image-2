@@ -8929,3 +8929,223 @@ Constraints: Include exactly 4 panels and exactly the listed visible text elemen
 
 ---
 
+### 🎬 例 6599：日式防晒科普漫画
+
+![日式防晒科普漫画](../images/%E6%97%A5%E5%BC%8F%E9%98%B2%E6%99%92%E7%A7%91%E6%99%AE%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白日式科普漫画，讲解紫外线、类固醇和防晒知识，并进行局部青色渲染。采用简洁友好的科普漫画画风，使用粗黑边框、网点纸阴影、手绘线条、竖排日文排版，并带有轻微的复古印刷漫画质感。
+
+画布：4:5 竖版页面，白色背景，四格漫画布局。使用 4 个分镜：顶部两格等分，中间一格横向通栏，底部一格横向通栏。保留宽大的黑色间隙和略显不规则的墨线边框。
+
+布局与分镜：第 1 格（左上）：一位面带微笑的年轻女医生或讲解员，留着齐肩黑发，身穿白大褂，内搭青色衬衫，单指向上。背景有放射状强调线。添加两个竖排对话气泡，包含来自 {argument name="comic dialogue text" default="それも誤解です！ / 紫外線も皮膚への刺激の1つなので"} 的日文说明文字。第 2 格（右上）：一位留着黑色波波头、身穿青色卫衣的年轻女孩，困惑地摸着额头，配有小小的烦恼拟声词，右侧带有竖排标题牌。包含来自 {argument name="top right panel text" default="おまけのこぼれ話 / そう言えばステロイドは紫外線ダメだから / 朝は塗らないんですよね？ / まぶしい〜"} 的日文文字。第 3 格（中间通栏）：一幅戏剧性的黑白山火场景，山坡上烟雾缭绕，火焰随风飘动，有茂密的松树、蜿蜒的道路和一个小小的螺旋风标。叠加竖排矩形旁白框。包含来自 {argument name="middle narration text" default="山火事に追い風が吹くように / 炎症のある皮膚に紫外線が当たると余計ダメージが大きくなりますが / それとステロイド自体はあまり関係がありません！ / （ステロイド外用は1日2回が基本です。）"} 的日文文字。第 4 格（底部通栏）：年轻女孩现在平静地微笑着，做好了防晒措施，撑着一把青色遮阳伞，戴着宽檐帽。在她周围展示 4 个标注好的防晒用品/细节：1 把青色雨伞、1 顶宽檐帽、1 支标注 SPF 50 PA++ 的防晒霜、1 瓶标注 UV cut 的防晒喷雾。在帽子和雨伞附近添加小的手写拟声词标签，并在右下角添加备注。包含来自 {argument name="bottom panel text" default="おそらくワセリンを塗ると日焼けするというイメージから来るのでしょうが / そもそもそれ自体実は明確な論拠はありません。 / 紫外線対策はもちろん大切なので、皮膚に炎症がある時は、適切に紫外線対策をしましょうね！ / 塗ってみて刺激のないものを使ってネ!!"} 的日文文字。
+
+角色细节：使用一名反复出现的黑色波波头圆眼女孩，以及一名留着齐肩黑发的年轻女医生/讲解员。面部设计保持简洁、可爱且富有表现力，鼻子极小，采用漫画豆豆眼。仅在服装和防晒配件上使用青色；其余部分均为黑、白和网点灰色。
+
+视觉风格：日式科普网络漫画，线条清晰，网点渐变，竖排对话气泡，高对比度黑色边框，轻微纸张纹理，专业漫画构图。无需全彩渲染，无需写实风格，无水印，无额外分镜，无额外角色。
+
+[English]
+Goal: Create a black-and-white Japanese manga explainer comic about ultraviolet rays, steroids, and sun protection, with selective teal coloring. Use clean, friendly educational manga art, thick black panel borders, screentone shading, hand-drawn linework, vertical Japanese typography, and a slightly retro printed-comic texture.
+
+Canvas: Portrait 4:5 page, white background, four-panel manga layout. Use exactly 4 panels: two equal panels across the top row, one wide horizontal panel in the middle, and one wide horizontal panel at the bottom. Keep generous black gutters and slightly imperfect inked borders.
+
+Layout and panels: Panel 1, top left: a smiling young female doctor or explainer with shoulder-length black hair, wearing a white coat over a teal shirt, points upward with one finger. Radiating emphasis lines burst behind her. Add two vertical speech balloons containing the Japanese explanation text from {argument name="comic dialogue text" default="それも誤解です！ / 紫外線も皮膚への刺激の1つなので"}. Panel 2, top right: a young girl with a short black bob and teal sweatshirt touches her forehead as if puzzled, with a small annoyed sound effect and a vertical title placard on the right. Include the Japanese text from {argument name="top right panel text" default="おまけのこぼれ話 / そう言えばステロイドは紫外線ダメだから / 朝は塗らないんですよね？ / まぶしい〜"}. Panel 3, middle wide panel: a dramatic monochrome forest wildfire scene on a mountainside, with smoke and flames blowing in the wind, dense pine trees, a winding road, and a small spiral wind mark. Overlay vertical rectangular narration boxes. Include the Japanese text from {argument name="middle narration text" default="山火事に追い風が吹くように / 炎症のある皮膚に紫外線が当たると余計ダメージが大きくなりますが / それとステロイド自体はあまり関係がありません！ / （ステロイド外用は1日2回が基本です。）"}. Panel 4, bottom wide panel: the young girl now smiles calmly while protected from the sun, holding a teal parasol and wearing a wide-brim hat. Around her, show exactly 4 labeled sun-protection items/details: 1 teal umbrella, 1 wide-brim hat, 1 sunscreen tube labeled SPF 50 PA++, and 1 UV-cut bottle labeled UV cut. Add small handwritten sound-effect labels near the hat and umbrella, plus a note near the bottom right. Include the Japanese text from {argument name="bottom panel text" default="おそらくワセリンを塗ると日焼けするというイメージから来るのでしょうが / そもそもそれ自体実は明確な論拠はありません。 / 紫外線対策はもちろん大切なので、皮膚に炎症がある時は、適切に紫外線対策をしましょうね！ / 塗ってみて刺激のないものを使ってネ!!"}.
+
+Character details: Use one recurring young girl character with black bob hair and rounded eyes, plus one young female doctor/explainer with shoulder-length black hair. Keep faces simple, cute, and expressive, with minimal noses and manga dot eyes. Use teal only for clothing and sun-protection accessories; everything else should be black, white, and screentone gray.
+
+Visual style: Educational Japanese web manga, crisp ink, halftone gradients, vertical speech balloons, high-contrast black borders, mild paper grain, and professional comic composition. No full-color rendering, no photorealism, no watermark, no extra panels, and no extra characters.
+```
+
+**来源：** [@シンナリナスビ](https://x.com/shinnari_nasubi/status/2090902757607977098) | 2026-08-21
+
+---
+
+### 🎬 例 6631：复古漫画风格：直升机渗透任务
+
+![复古漫画风格：直升机渗透任务](../images/%E5%A4%8D%E5%8F%A4%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%9A%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%B8%97%E9%80%8F%E4%BB%BB%E5%8A%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页垂直排版的黑白漫画，采用老派军事科幻风格，具有粗黑的边框、粗犷的墨水质感、高对比度的网点阴影、扁平的电影感构图，以及略带复古战争漫画的氛围。
+
+画布：高长宽比的竖向漫画页面，比例约为 9:16。使用单色灰度，仅在机舱内部加入极其细微的柔和红色点光源。添加风化的纸张纹理、划痕、烟雾和厚重的黑色填充。
+
+布局：使用 4 个水平排列的漫画分镜，垂直堆叠，由厚实的白色间隙和沉重的黑色边框分隔。
+
+分镜 1：俯瞰夜间荒废城市战场的广角定场镜头。一架军用直升机飞过满是燃烧建筑、烟柱、废墟剪影和远山的废弃城市。直升机上方有一个巨大的发光圆形旋翼模糊效果或光环状光迹。在左上角放置一个方形白色旁白框，内含日文「敵支配領域 侵入」。
+
+分镜 2：狭窄的动作分镜，展示直升机机身和驾驶舱的侧面特写，带有雨水般的速度线和强烈的反射高光。在右侧放置一个白色矩形标题框，包含两行文字：「作戦コード：」和“GLASS VEIL”。
+
+分镜 3：狭窄的机舱内部，展示 9 名可见的、外貌完全相同的动漫风格女性仿生人士兵，排成一排，表情严肃地看向前方。她们留着长长的浅色头发，佩戴战术项圈，面部处于阴影中。在前景中央添加一个白色椭圆形对话气泡，内含「AO進入。」。
+
+分镜 4：底部的大型分镜，展示直升机货舱内部，采用一点透视法，视角沿中央过道延伸。展示 16 名可见的、外貌完全相同的女性人造生命士兵，分两排相对而坐，左侧 8 名，右侧 8 名。她们是年轻的动漫女性，留着 {argument name="hair color" default="浅银金色"} 长发，眼神平静无波，身穿黑色战术夹克，佩戴胸挂、手套、大腿绑带、靴子和紧凑的军事装备。两侧最前端的士兵最大，队列向后舱门延伸。头顶的灯光营造出微弱的红色高光。在顶部中央放置一个白色矩形旁白框，第一行写着“Vita Simulata”，第二行写着「人工生命歩兵群。」。
+
+主体细节：士兵们如同克隆人般统一，拥有瓷器般苍白的脸庞、齐刘海、长发和冷漠的表情。直升机内部工业感十足，狭窄、金属质感强且昏暗，布满铆钉、面板、电缆、长凳和反光的中央地板轨道。
+
+视觉风格：日式漫画墨水插画，厚重的黑色填充，密集的排线，网点渐变，戏剧性的黑色电影灯光，烟雾与粗粝感，融合了 20 世纪 80 年代复古战争漫画的影响与现代动漫角色设计。保持所有文字清晰，白色框内黑色字体，并严格保留所写的日文文本。
+
+约束条件：使用 4 个分镜，共 4 处文本元素，分镜 3 中必须有 9 名可见士兵，分镜 4 中必须有 16 名可见的就坐士兵。除微弱的红色机舱内灯光外，不使用其他颜色。无水印，无额外标题，无额外对话气泡。
+
+[English]
+Goal: Create a vertical black-and-white manga page in an older military sci-fi style, with thick black panel borders, gritty ink texture, high-contrast screentone shading, flat cinematic compositions, and a slightly retro war-comic atmosphere.
+
+Canvas: Tall portrait manga page, roughly 9:16 aspect ratio. Use monochrome grayscale with only very subtle muted red accent lights inside the aircraft. Add weathered paper grain, scratches, smoke, and heavy blacks.
+
+Layout: Use exactly 4 horizontal comic panels stacked vertically, separated by thick white gutters and heavy black borders.
+
+Panel 1: Wide establishing shot over a devastated urban battlefield at night. A military helicopter flies above a ruined city full of burning buildings, smoke columns, rubble silhouettes, and distant mountains. Above the helicopter is a large glowing circular rotor blur or halo-like light trail. Place one square white narration box at upper left containing the Japanese text 「敵支配領域 侵入」.
+
+Panel 2: Narrow action panel showing an extreme close-up of the helicopter fuselage and cockpit from the side, with rain-like speed lines and harsh reflected highlights. Place one white rectangular caption box on the right containing two lines: 「作戦コード：」 and “GLASS VEIL”.
+
+Panel 3: Narrow interior panel inside the helicopter, showing exactly 9 visible identical anime-style female android soldiers in a dark row, facing forward with serious expressions. They have long pale hair, tactical collars, and shadowed faces. Add a white oval speech bubble in the center foreground containing 「AO進入。」.
+
+Panel 4: Large bottom panel inside the cargo hold of the helicopter, drawn in one-point perspective down the central aisle. Show exactly 16 visible identical female artificial-life soldiers seated in two opposing rows, 8 on the left and 8 on the right. They are young anime women with long {argument name="hair color" default="pale silver-blonde"} hair, calm emotionless eyes, black tactical jackets, chest rigs, gloves, thigh straps, boots, and compact military gear. The foreground soldier on each side is largest, with the rows receding toward the rear door. Overhead lights create small muted red highlights. Place a centered white rectangular narration box near the top reading “Vita Simulata” on the first line and 「人工生命歩兵群。」 on the second line.
+
+Subject details: The soldiers are clone-like and uniform, with porcelain pale faces, straight bangs, long hair, and stoic expressions. The helicopter interior is industrial, cramped, metallic, and dark, with rivets, panels, cables, benches, and a reflective central floor track.
+
+Visual style: Japanese manga ink illustration, heavy black fills, dense hatching, screentone gradients, dramatic noir lighting, smoke and grit, retro 1980s war-comic influence mixed with modern anime character design. Keep all text crisp, black on white boxes, and preserve the Japanese text exactly as written.
+
+Constraints: Use exactly 4 panels, exactly 4 text elements, exactly 9 visible soldiers in panel 3, and exactly 16 visible seated soldiers in panel 4. No color except faint red interior light accents. No watermark, no extra captions, no extra speech bubbles.
+```
+
+**来源：** [@前野凌@AIEventCollection運営](https://x.com/AI_animeryo/status/2090778446574309579) | 2026-08-21
+
+---
+
+### 🎬 例 6645：电影级科幻分镜网格
+
+![电影级科幻分镜网格](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%A7%91%E5%B9%BB%E5%88%86%E9%95%9C%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个包含 9 个电影级画面的单图分镜，采用 3×3 网格排列。每个画面均为 16:9 宽屏面板，带有电影级长宽比的遮幅。风格：超高清科幻大片与高端航空广告的融合。视觉参考：Blade Runner 2049 的调色风格，结合 UEFA Champions League 的广播开场与奢侈品牌 TVC 的质感。
+
+[English]
+Create a single image storyboard with 9 cinematic frames arranged in a 3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium airline commercial. Think Blade Runner 2049 color grading meets a UEFA Champions League broadcast opener meets a luxury brand TVC.
+```
+
+**来源：** [@Arron2006](https://x.com/ColorWolf2006/status/2090741246868476224) | 2026-08-21
+
+---
+
+### 🎬 例 6646：哥特式奇幻绘本插画
+
+![哥特式奇幻绘本插画](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%A5%87%E5%B9%BB%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+哥特式奇幻手绘插画，主角为 {argument name="character" default="[HUMAN]"}，身穿 {argument name="clothing" default="[CLOTHING]"}，身边伴有 {argument name="companion" default="[ANIMAL]"}，场景设定在 [SCENERY]，使用 [COLORS] 色调。两个角色均拥有超大的凝视双眼、细长的四肢比例、极小的嘴巴、骨感且笨拙的姿态，表情略带忧郁却不失魅力。采用松散的黑色墨水线条，具有粗糙的素描质感、涂鸦式阴影、扭曲的透视效果，背景为枯树或变形的建筑，营造出诡异可爱的氛围，呈现超现实的独立绘本情绪，色彩平涂且饱和，搭配发光的渐变天空，表现力强，具有稚拙的绘画风格，非写实，长宽比 4:5。
+
+[English]
+Gothic whimsical hand-drawn illustration of {argument name="character" default="[HUMAN]"} wearing {argument name="clothing" default="[CLOTHING]"}, accompanied by {argument name="companion" default="[ANIMAL]"}, set in [SCENERY], using a [COLORS] palette. Both characters have oversized staring eyes, elongated spindly proportions, tiny mouths, bony awkward posture, and a slightly melancholic but charming expression. Loose scratchy black ink linework, rough sketch texture, scribbled shading, crooked perspective, barren trees or warped buildings, eerie cute atmosphere, surreal indie storybook mood, flat saturated colors with a glowing gradient sky, expressive naive drawing style, no realism, aspect ratio 4:5.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2090740008395149355) | 2026-08-21
+
+---
+
+### 🎬 例 6670：四格漫画：迟到的女高中生
+
+![四格漫画：迟到的女高中生](../images/%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB%EF%BC%9A%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅竖版日式四格漫画，讲述一名女高中生因以为自己迟到而惊慌失措，随后发现当天是周日的故事。
+
+画布：高长条形漫画页面，比例约为 4:5，白色背景，带有粗黑色外边框，并由粗黑色间隙分隔出 4 个从上到下排列的横向分镜。画面采用干净明快的动漫风格，带有光泽高光、生动的表情和清晰的墨线轮廓。
+
+主角：一位可爱的日本女高中生，留着深蓝色短波波头，平刘海，琥珀色双眼，脸颊红润，身穿带有深蓝色领子和红色领巾的白色水手服校服。她出现在每一个分镜中。
+
+分镜布局与动作：
+1. 第一格：卧室早晨场景，采用俯视视角。女孩躺在白色枕头上的被子里，突然惊醒，表情震惊、张大嘴巴，头上有汗珠和红色警示标记。左侧的小木制床头柜上放着一个黄色双铃闹钟和几本书。右侧包含 1 个对话气泡，内含竖排日语文本：{argument name="first bubble text" default="もう朝!?"}。
+2. 第二格：户外赶往学校的场景，背景为明亮的蓝天、速度线、绿植和学校风格的建筑。女孩身穿水手服奔跑，满头大汗，嘴里叼着一片吐司。包含 2 个对话气泡：右侧气泡文本 {argument name="second panel right bubble text" default="遅刻しちゃう!"}；左侧气泡文本 {argument name="second panel left bubble text" default="遅刻しちゃう!"}。
+3. 第三格：学校门口场景，有黑色金属大门、绿树和红砖墙。女孩站在画面中央，拿着一部粉色智能手机，表情惊讶且困惑，嘴巴微张。右侧包含 1 个对话气泡，内含竖排日语文本：{argument name="third bubble text" default="あれ…誰もいない?"}。
+4. 第四格：同样的校门和红砖墙背景。女孩感到如释重负又有些尴尬，闭着眼睛微笑，脸颊泛红，手里拿着粉色智能手机。右侧包含 1 个对话气泡，内含竖排日语文本：{argument name="final bubble text" default="今日、日曜日だった…"}。
+
+文本与字体：使用粗体黑色手写风格的日式漫画字体，在带有黑色边框和指向女孩的尾巴的白色圆形对话气泡内进行竖排排版。确保所有日语文本清晰且醒目。
+
+约束条件：严格使用 4 个分镜，总计 5 个对话气泡。不要添加旁白框、额外角色、Logo、水印或其他文字。保持明亮、精致的动漫/漫画风格，类似于现代校园喜剧漫画。
+
+[English]
+Goal: Create a vertical Japanese manga page in polished anime style about a schoolgirl oversleeping, rushing to school, then realizing it is Sunday.
+
+Canvas: Portrait comic page, roughly 3:4 aspect ratio, white margins, thick black outer border, divided into exactly 4 horizontal panels stacked from top to bottom with clean black gutters.
+
+Main character: A cute teenage Japanese schoolgirl with short dark navy bob hair, straight bangs, large amber-gold eyes, fair skin, blush marks, and expressive sweat drops. She wears a classic white sailor school uniform with a dark navy collar and a red neckerchief. Keep her design consistent in all 4 panels.
+
+Panel count and layout: Use exactly 4 panels.
+1. Top panel: bedroom wake-up scene, angled view from above. The girl lies in bed on a white pillow and blanket, eyes wide and mouth open in panic. A wooden bedside table at left holds a yellow twin-bell alarm clock and books. Add a jagged red panic mark near her head. One large speech bubble on the right with vertical Japanese text: {argument name="wake up text" default="もう朝!?"}.
+2. Second panel: outdoor rushing-to-school scene. The girl runs in her sailor uniform with toast in her mouth, cheeks flushed, sweat drops, one fist raised. Background shows blue sky, speed lines, school-like fence/building and green trees. Include exactly 2 large speech bubbles: right bubble text {argument name="right rushing text" default="遅刻しちゃう!"}; left bubble text {argument name="left rushing text" default="遅刻しちゃう!"}.
+3. Third panel: school gate scene. The girl stands front-facing in front of a brick school gate and metal fence, holding a pink smartphone, looking surprised and confused with a small open mouth. Background includes leafy green trees and bright blue sky. One speech bubble on the right with vertical Japanese text: {argument name="empty school text" default="あれ…誰もいない?"}.
+4. Bottom panel: same school gate composition as panel 3. The girl smiles awkwardly with closed happy eyes, blushing, still holding the pink smartphone, realizing her mistake. One speech bubble on the right with vertical Japanese text: {argument name="sunday realization text" default="今日、日曜日だった…"}.
+
+Visual style: Bright, clean modern anime manga coloring, crisp line art, soft gradients, expressive face close-ups, high saturation but gentle lighting. Use large rounded white speech bubbles with black outlines and bold brush-style vertical Japanese lettering. Maintain a humorous slice-of-life tone.
+
+Constraints: Use exactly 4 panels and exactly 5 speech bubbles total. Do not add extra characters, extra narration boxes, logos, watermarks, or page numbers. Make the Japanese text legible and placed inside the speech bubbles only.
+```
+
+**来源：** [@える](https://x.com/el_el_san/status/2090642960568455455) | 2026-08-21
+
+---
+
+### 🎬 例 6671：手持四格漫画的 Q 版职场女性
+
+![手持四格漫画的 Q 版职场女性](../images/%E6%89%8B%E6%8C%81%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB%E7%9A%84%20Q%20%E7%89%88%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的动漫风格元插画，描绘一位开朗的 Q 版职场女性正在展示一页完成的四格漫画，作为 AI 制作漫画的可爱教程或展示封面。
+
+画布：方形竖构图，采用 4:5 的人像比例。使用黑白漫画背景，包含戏剧性的放射状速度线、网点、散落的空白漫画格以及边缘的撕纸效果。保持中心人物和手中的漫画页为全彩。
+
+主体：一位 2 头身比例的 Q 版动漫女孩，名为 {argument name="character name" default="Lamis"}，正面向前，笑容灿烂。她留着深 {argument name="hair color" default="绯红色"} 的长波浪卷发，配有刘海，拥有超大的闪亮紫蓝色眼睛、红润的脸颊、眼下有细小的蓝色泪痣，并佩戴蓝色水滴状耳环。她身穿深海军蓝职业套装，内搭白色翻领衬衫，穿着黑色连裤袜和黑色高跟鞋。她的小手抓着手中那页大漫画纸的左上角和右上角；她的鞋子从页面下方露出。
+
+手持漫画页布局：页面为一张干净的白纸，带有细黑边框，包含 2x2 网格排列的 4 个漫画格。每个漫画格中都包含相同的 Q 版职场女性和一叠高高的文件，以可爱的动漫漫画风格绘制，并带有浅灰色的纸张阴影。包含日语对话气泡和拟声词，但需保持清晰简洁。
+
+四格内容，共 4 格：
+1. 左上格：Q 版女性自豪地站在一叠非常高的矩形文件旁，一只手叉腰，另一只手进行展示。对话气泡文字：{argument name="first panel text" default="これで、会議の準備は完璧です"}。
+2. 右上格：她注意到巨大的文件堆摇摇欲坠，在倾斜的文件堆旁露出担忧的神情。小型对话气泡文字：{argument name="second panel text" default="…………あ"}。
+3. 左下格：文件堆戏剧性地坍塌在她身上；她瘫倒在地，纸张四处飞散。添加一个锯齿状对话气泡，写着 {argument name="third panel text" default="きゃああっ！？"} 以及粗体的日语拟声词「ドサドサドサッ！」。
+4. 右下格：她疲惫地被压在文件堆下，周围散落着零星的纸张。对话气泡文字：{argument name="fourth panel text" default="……会議まで、あと5分です"}。
+
+视觉风格：主角采用高质量的亮面动漫渲染，可爱的 Q 版比例，干净的线条，鲜艳的头发和眼睛高光，柔和的腮红，清爽的白色漫画页，全彩人物与单色漫画纹理背景形成强烈对比。如果需要，可在左上角添加淡淡的类 Logo 标记，但不要有明显的浮水印。
+
+约束：仅使用一个主角，手持一页包含 4 个漫画格的漫画。不要添加额外角色。周围的背景漫画格保持空白，不含可读文字，以确保手中的漫画始终是视觉焦点。
+
+[English]
+Goal: Create a polished anime-style meta illustration of a cheerful chibi office woman presenting a completed 4-panel manga page, like a cute tutorial/showcase cover for an AI-made comic.
+
+Canvas: Square vertical composition, portrait-oriented within a 4:5 feel. Use a black-and-white manga background with dramatic radial speed lines, halftone dots, scattered blank white comic panels and torn paper shapes around the edges. Keep the center character and held manga page in full color.
+
+Main subject: A large 2-head-tall chibi anime girl named {argument name="character name" default="Lamis"}, facing forward and smiling brightly. She has glossy deep {argument name="hair color" default="crimson red"} long wavy hair with bangs, oversized sparkling violet-blue eyes, rosy cheeks, tiny blue beauty marks under one eye, and blue teardrop earrings. She wears a dark navy business suit over a white collared shirt, black tights, and black heels. Her small hands grip the top left and top right corners of a large manga page held in front of her body; her shoes peek out below the page.
+
+Held manga page layout: The page is a clean white sheet with a thin black border and exactly 4 panels arranged in a 2 by 2 grid. Each panel contains the same chibi businesswoman and a tall stack of documents, drawn in cute anime manga style with light grayscale paper shading. Include Japanese speech bubbles and sound effects, but keep them legible and minimal.
+
+Four panel contents, exactly 4:
+1. Top-left panel: The chibi woman stands proudly beside a very tall rectangular stack of papers, one hand on her hip and one hand presenting it. Speech bubble text: {argument name="first panel text" default="これで、会議の準備は完璧です"}.
+2. Top-right panel: She notices the huge stack wobbling, looking worried beside the leaning pile. Small speech bubble text: {argument name="second panel text" default="…………あ"}.
+3. Bottom-left panel: The paper stack collapses dramatically onto her; she is sprawled on the floor with papers flying everywhere. Add a jagged speech bubble saying {argument name="third panel text" default="きゃああっ！？"} and a bold Japanese sound effect reading 「ドサドサドサッ！」.
+4. Bottom-right panel: She lies tired and flattened under a mound of documents, with loose sheets scattered around her. Speech bubble text: {argument name="fourth panel text" default="……会議まで、あと5分です"}.
+
+Visual style: High-quality glossy anime rendering for the main character, cute super-deformed proportions, clean line art, vibrant hair and eye highlights, soft blush, crisp white manga page, strong contrast between full-color character and monochrome manga texture background. Add a faint white logo-like mark in the upper left if desired, but no prominent watermark.
+
+Constraints: Use exactly one main character holding exactly one manga page with exactly 4 panels. Do not add extra characters. Keep the surrounding background panels blank without readable text so the held comic remains the focus.
+```
+
+**来源：** [@星宮ラミス | AIart 👠](https://x.com/LamisAIart/status/2090642295796175303) | 2026-08-21
+
+---
+

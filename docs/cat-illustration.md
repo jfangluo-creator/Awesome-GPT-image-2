@@ -18703,3 +18703,107 @@ Create a cinematic science-fiction landscape titled {argument name="title concep
 
 ---
 
+### 🎨 例 6617：精灵魔剑士角色设计
+
+![精灵魔剑士角色设计](../images/%E7%B2%BE%E7%81%B5%E9%AD%94%E5%89%91%E5%A3%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身高奇幻动漫角色概念插画，背景为干净的灰白色：一位年轻的男性精灵魔剑士，有着尖耳朵、{argument name="hair color" default="沙金色"} 凌乱的层次感短发、锐利的琥珀色双眼，嘴角带着自信的浅笑。他以放松的英雄姿态站立，身体略微向左倾斜，头部朝向前方；左手掌心向上，正在召唤一个发光的金色星盘状魔法符文，右手在腰间持有一本大型华丽的魔法书。服装：一套精致的皇家法师盔甲，主色调为 {argument name="main outfit colors" default="深海军蓝、酒红、白色和金属金"}，包含一件高领长外套、一件带有酒红色内衬的飘逸分叉披风、双肩的叠层肩甲、胸前显眼的太阳罗盘徽章、一条带有小包的宽腰带、修身长裤、盔甲护手、护膝以及白金配色的盔甲靴。包含三个核心天体主题：胸前的金色罗盘/太阳徽章、魔法书封面上配套的徽章，以及悬浮在抬起手旁边的圆形魔法阵。魔法书为酒红色皮革材质，带有金色边角、几何饰边和凸起的罗盘符号。魔法符文由同心圆、罗盘方位、微小星辰和精细的放射状线条组成，散发出柔和的暖金色光芒。采用优雅的日式 RPG 角色设计美学，线条清晰如墨，精致的赛璐璐阴影，细腻的水彩质感，复杂的金色花丝，修长的英雄比例，且画面中不包含任何文字、Logo、水印或背景景物。
+
+[English]
+Create a full-body high-fantasy anime character concept illustration on a clean off-white background: one young male elf mage-knight with pointed ears, {argument name="hair color" default="sandy blond"} tousled layered hair, sharp amber eyes, and a confident slight smile. He stands in a relaxed heroic pose, body angled slightly left, head facing forward; his left hand is raised palm-up conjuring one glowing golden astrolabe-like magic sigil, while his right arm holds one large ornate spellbook at his hip. Outfit: an elaborate royal mage armor ensemble in {argument name="main outfit colors" default="deep navy blue, burgundy, white, and metallic gold"}, with one high-collared long coat, one flowing split cape with burgundy lining, layered shoulder armor on both shoulders, one prominent sun-compass chest emblem, one wide belt with pouches, fitted trousers, armored gauntlets, knee guards, and white-and-gold armored boots. Include exactly three main celestial motifs: a golden compass/sun emblem on the chest, a matching emblem on the spellbook cover, and a floating circular magic diagram beside the raised hand. The spellbook is burgundy leather with gold corners, geometric trim, and a raised compass symbol. The magic sigil is made of concentric rings, compass points, tiny stars, and fine radial linework, glowing softly in warm gold. Use elegant Japanese RPG character design aesthetics, crisp ink-like line art, refined cel shading, delicate watercolor texture, intricate gold filigree, slim heroic proportions, and no text, logo, watermark, or background scenery.
+```
+
+**来源：** [@JPLEE](https://x.com/leegoonz73/status/2090817783210889544) | 2026-08-21
+
+---
+
+### 🎨 例 6636：两只毛茸茸的可爱猫咪
+
+![两只毛茸茸的可爱猫咪](../images/%E4%B8%A4%E5%8F%AA%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%92%AA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅迷人的手绘水彩墨水插画，画面中正好有 2 只毛茸茸的猫咪紧挨着坐在一起，背景为 {argument name="background" default="白色背景"}。左侧的猫咪体型较小，身体圆润，呈金橙色，胸前有一块奶油白色斑块，前爪为白色，粗壮卷曲的尾巴收在左侧，有着小巧的粉色鼻子、红润的脸颊、竖起的三角形耳朵（内耳为粉色），以及一对看向斜上方、硕大且富有光泽的绿色眼睛。右侧的猫咪体型更大、更高，长毛且非常蓬松，颜色为 {argument name="large cat fur color" default="奶油白色"}，巨大的羽毛状尾巴向右扫去，脸部、胸部、身体和尾巴周围有柔软蓬松的毛发笔触，内耳为粉色，有着小巧的粉色鼻子、红润的脸颊，以及同样向上凝视的硕大且富有光泽的绿色眼睛。两只猫咪都有可爱的小嘴、精致的胡须、圆润的爪子和温柔天真的表情。使用细腻的黑色素描轮廓，呈现出可见的铅笔状毛发质感、柔和的粉彩色调和微妙的水彩颗粒感，画面中不包含任何文字、道具、阴影、边框或其他动物。将猫咪置于画面中央，周围留有充足的空白，采用温馨可爱的故事书风格，适合用作透明背景贴纸或独立剪贴画。
+
+[English]
+Create a charming hand-drawn watercolor-and-ink illustration of exactly 2 fluffy cats sitting close together on a plain {argument name="background" default="white background"}. The left cat is smaller, round-bodied, golden-orange with a cream-white chest patch and white front paws, a thick curled tail tucked along its left side, tiny pink nose, blush cheeks, upright triangular ears with pink inner ears, and oversized glossy green eyes looking slightly upward. The right cat is larger and taller, long-haired and very fluffy, {argument name="large cat fur color" default="cream-white"}, with a huge plume tail sweeping to the right, soft shaggy fur strokes around the face, chest, body, and tail, pink inner ears, tiny pink nose, blush cheeks, and oversized glossy green eyes also gazing upward. Both cats have cute small mouths, delicate whiskers, rounded paws, and a gentle innocent expression. Use fine black sketch outlines, visible pencil-like fur texture, soft pastel coloring, subtle watercolor grain, and no text, props, shadows, borders, or extra animals. Center the cats with ample empty space around them, in a cozy kawaii storybook style suitable for a transparent-background sticker or isolated clipart.
+```
+
+**来源：** [@Fini.Yang](https://x.com/FiniYang/status/2090766864653930911) | 2026-08-21
+
+---
+
+### 🎨 例 6637：赛博朋克仿生人创作艺术
+
+![赛博朋克仿生人创作艺术](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%88%9B%E4%BD%9C%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的赛博朋克科幻插画，采用极端的荷兰式倾斜构图，仿佛整个未来感 AI 实验室都在剧烈倾斜以增强情感张力。主体是一位高挑、优雅的人形仿生人艺术家，名为 {argument name="AI name" default="GEMINI"}，位于画面中心偏右，拥有光泽的彩虹色铬合金身体、分段式机械手、发光的青色和洋红色电路，以及光滑的头盔状面部，上面显示着“GEMINI / CREATIVE MIND”字样，头部、肩部和背部伸出晶莹剔透的鳍片和碎片。仿生人正在自主创作艺术：四只手在胸前精细地塑造一个漂浮的晶体面具或龙形抽象雕塑，发光的线条、粒子轨迹、火花和数据流从手中流向物体。使用 16:9 宽屏构图、动态视角、深景深、霓虹边缘光、反光地板，以及密集的未来感实验室细节，包括服务器机架、全息显示器、展示霓虹城市天际线的落地窗、天花板电缆、发光灯带和远处就座的技术人员。在仿生人周围包含五个漂浮的半透明全息文字面板：1) 头部左上方显示“CREATIVE IMPULSE ACTIVATED”，2) 右上方显示“AUTONOMOUS GENERATION”，3) 左侧雕塑附近显示“EMOTION THROUGH {argument name="Japanese emotion text" default="ドキドキトクタ"}”，4) 左下角显示“NEW PERSPECTIVE: DUTCH ANGLE”，5) 右下角部分被裁剪的面板显示“EMOTION TO THROUGH”。氛围应表现出 AI 获得创造意志并倾斜自身视角以创作情感艺术的那一刻。风格：高度精细的数字概念艺术、光泽感硬表面设计、棱镜玻璃、青-紫-粉霓虹色调、戏剧性光晕、体积光、运动轨迹，焦点清晰对准仿生人和雕塑，无水印，除指定面板外无额外文字。
+
+[English]
+Create a cinematic cyberpunk sci‑fi illustration in an extreme Dutch angle, as if the entire futuristic AI laboratory is tilted dramatically to intensify emotion. The main subject is a tall, elegant humanoid android artist named {argument name="AI name" default="GEMINI"}, centered slightly right, with a glossy iridescent chrome body, segmented robotic hands, glowing teal and magenta circuitry, a smooth helmet-like face displaying the words “GEMINI / CREATIVE MIND,” and crystalline translucent fins and shards protruding from the head, shoulders, and back. The android is autonomously generating art: four hands delicately shape a floating crystalline mask or dragon-like abstract sculpture at chest height, while luminous threads, particle trails, sparks, and data streams flow from the hands into the object. Use a wide 16:9 composition, dynamic perspective, deep depth of field, neon rim lighting, reflective floor panels, and dense futuristic lab details including server racks, holographic monitors, window walls showing a neon city skyline, ceiling cables, glowing strips, and distant seated technicians. Include exactly five floating translucent holographic text panels around the android: 1) “CREATIVE IMPULSE ACTIVATED” above left of the head, 2) “AUTONOMOUS GENERATION” to the upper right, 3) “EMOTION THROUGH {argument name="Japanese emotion text" default="ドキドキトクタ"}” on the left near the sculpture, 4) “NEW PERSPECTIVE: DUTCH ANGLE” at lower left, and 5) a partially cropped lower-right panel reading “EMOTION TO THROUGH.” The mood should feel like the moment an AI gains creative will and tilts its own viewpoint to make emotional art. Style: highly detailed digital concept art, glossy hard-surface design, prismatic glass, cyan-purple-pink neon palette, dramatic bloom, volumetric light, motion trails, sharp focus on the android and sculpture, no watermark, no extra text beyond the specified panels.
+```
+
+**来源：** [@夏空夕日](https://x.com/Natsuzora_yuhi/status/2090765953806237757) | 2026-08-21
+
+---
+
+### 🎨 例 6640：清澈溪流旁的杯面
+
+![清澈溪流旁的杯面](../images/%E6%B8%85%E6%BE%88%E6%BA%AA%E6%B5%81%E6%97%81%E7%9A%84%E6%9D%AF%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="清流"}で食べる{argument name="食べ物" default="カップ麺"}
+```
+
+**来源：** [@One Breath｜AI Portrait](https://x.com/OneBreath00/status/2090753435343954326) | 2026-08-21
+
+---
+
+### 🎨 例 6664：Limit Reset Q 版贴纸
+
+![Limit Reset Q 版贴纸](../images/Limit%20Reset%20Q%20%E7%89%88%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的白色背景上创作一张可爱的模切笔记本电脑贴纸插图，采用光面卡哇伊 Q 版吉祥物风格，带有粗黑轮廓和醒目的白色贴纸边框。画面中心是一位面带微笑的 Q 版成年男性，留着 {argument name="hair color" default="深棕色"} 的凌乱短发，拥有大而明亮的棕色眼睛、浓密的眉毛、淡淡的胡茬、红润的脸颊以及兴奋的张嘴笑容，身穿一件 {argument name="hoodie color" default="黑色"} 连帽衫。他身体前倾，双手向下按压着底部中央一个大型光面红色紧急按钮，按钮安装在深灰色圆形底座上；按钮上有醒目的白色大写文字 {argument name="button text" default="LIMIT RESET"}。在角色身后，绘制一个巨大的红色圆形重置箭头，形成一个近乎完整的圆环，末端在右上角指向下方。添加 3 个黄色闪光图标：角色左侧 2 个，右侧 1 个；并在下侧附近添加 4 个黄色小爆发光芒，左右各 2 个。使用鲜艳的红色、黑色、白色和黄色，平滑的矢量风格阴影，按钮和面部带有光泽高光，俏皮的贴纸比例，居中构图，无额外文字，无水印。
+
+[English]
+Create a cute die-cut laptop sticker illustration on a white background with a thick white sticker border and bold black cartoon outlines. Center one chibi-style smiling man with {argument name="hair color" default="dark brown spiky hair"}, large glossy brown eyes, thick eyebrows, light stubble, rosy cheeks, and an excited open-mouth smile, wearing a black hoodie. He leans forward with both hands pressing a huge glossy red emergency push button labeled in large bold white uppercase text {argument name="button text" default="LIMIT RESET"}; the button sits on a dark gray oval base with highlights and shadows. Behind him, place one thick red circular reset arrow forming an almost complete loop, ending in a large downward arrowhead on the right. Add exactly 3 yellow sparkle stars around the character: 2 on the left side and 1 on the right side. Add exactly 4 small yellow emphasis rays near the lower sides of the button: 2 on the left and 2 on the right. Use a vibrant kawaii vector sticker style, high contrast, glossy highlights, clean shading, centered composition, no extra text, no watermark.
+```
+
+**来源：** [@Developing Adventures](https://x.com/DevAdventur3s/status/2090651300098613354) | 2026-08-21
+
+---
+
+### 🎨 例 6690：太空中的空灵光之河
+
+![太空中的空灵光之河](../images/%E5%A4%AA%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%81%B5%E5%85%89%E4%B9%8B%E6%B2%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在最后一颗恒星之外的某处，一条 {argument name="subject" default="光之河"} 仍在静静流淌。✨
+
+[English]
+Somewhere beyond the last star, a {argument name="subject" default="river of light"} is still flowing. ✨
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2090589721970041287) | 2026-08-21
+
+---
+

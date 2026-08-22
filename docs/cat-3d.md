@@ -7599,3 +7599,77 @@ Create a photorealistic cinematic miniature scene of a tiny {argument name="pers
 
 ---
 
+### 🧸 例 6604：微缩俄罗斯立体模型旅行海报
+
+![微缩俄罗斯立体模型旅行海报](../images/%E5%BE%AE%E7%BC%A9%E4%BF%84%E7%BD%97%E6%96%AF%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的 {argument name="location" default="俄罗斯"} 微缩旅行海报模型，背景为暖色调的奶油色纹理纸。左侧有一只真实的手拿着一张复古的 {argument name="travel card" default="RUSSIA DAY TRAVELCARD"}，卡片上有一个巨大的镂空窗口。精细的微缩莫斯科场景从卡片中立体浮现，并以强烈的 45 度角向外延伸，使红色的莫斯科无轨电车看起来像是正从卡片中驶出。
+
+画面包含圣瓦西里主教座堂、克里姆林宫、斯帕斯卡亚塔、地铁标志、行人、冬季街道、斑马线、路灯以及细微的雪景。场景周围环绕着优雅的黑灰色手绘草图，包括大剧院、芭蕾舞演员、克里姆林宫和圣彼得堡建筑，并配有手写旅行标签。
+
+温暖的编辑式旅行日记美学，手工 3D 立体效果，逼真的纸张纹理，电影级摄影棚灯光，移轴微缩写实感，细节清晰，柔和阴影，精致的剪贴簿构图，浓郁的俄罗斯红金配色，竖版 4:5，8K 分辨率。
+
+[English]
+Create a photorealistic {argument name="location" default="Russia"} miniature travel-poster diorama on warm cream textured paper. A realistic hand holds a vintage {argument name="travel card" default="RUSSIA DAY TRAVELCARD"} on the left with a large cut-out window. A detailed miniature Moscow scene physically emerges through the card and extends outward at a strong three-quarter angle, making the red Moscow trolleybus appear to drive out of the card.
+
+Feature Saint Basil's Cathedral, Kremlin, Spasskaya Tower, Metro sign, pedestrians, winter streets, zebra crossings, lamps, and subtle snow. Surround the scene with elegant black-and-gray hand-drawn sketches of the Bolshoi Theatre, ballet dancers, Kremlin, and Saint Petersburg architecture, with handwritten travel labels.
+
+Warm editorial travel-diary aesthetic, handcrafted 3D pop-up effect, realistic paper texture, cinematic studio lighting, tilt-shift miniature realism, crisp details, soft shadows, sophisticated scrapbook composition, rich Russian red and gold accents, vertical 4:5, 8K.
+```
+
+**来源：** [@ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211/status/2090855445640728846) | 2026-08-21
+
+---
+
+### 🧸 例 6619：巨型咖啡杯咖啡馆立体模型
+
+![巨型咖啡杯咖啡馆立体模型](../images/%E5%B7%A8%E5%9E%8B%E5%92%96%E5%95%A1%E6%9D%AF%E5%92%96%E5%95%A1%E9%A6%86%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高细节数字艺术作品，展示了一个放在深色木地板上的巨型陶瓷咖啡杯，杯内是一个功能齐全的微型咖啡馆。咖啡杯的前壁镂空，露出温馨的砖墙咖啡馆内景，配有悬挂的爱迪生灯泡、摆满罐子的木架、精致的浓缩咖啡机、糕点展示柜，以及一位穿着围裙、正在拉花的男咖啡师。巨型咖啡杯顶部盛满热拿铁，上面有复杂的玫瑰花拉花，并伴有逼真的升腾热气。巨型咖啡杯旁站着一位优雅的年轻女性，她扎着高马尾，身穿一件 {argument name="dress" default="高领长袖灰蓝色长裙"}，腰间系着腰带。她面带温柔的微笑，手里拿着一个带有精致心形图案的小白咖啡杯，杯中正轻轻冒着热气。环境氛围温暖，周围装饰着盆栽植物、温暖的仙女灯、地灯，背景呈现出柔和梦幻的虚化效果。超写实，8k 分辨率，电影级光效，温馨美学。
+
+[English]
+High-detail digital artwork of a giant ceramic coffee mug sitting on a dark wooden floor, serving as a miniature, fully functional coffee shop inside. The front wall of the mug is hollowed out, revealing a cozy brick-walled cafe interior with hanging Edison bulb lights, wooden shelves filled with jars, a detailed espresso machine, pastry displays, and a male barista in an apron pouring latte art The top of the giant mug is filled with a hot latte featuring intricate rosette latte art and realistic rising steam Standing next to the giant mug is an elegant young woman with her hair tied in a high ponytail, dressed in a {argument name="dress" default="high-neck, long-sleeved slate blue maxi dress"} with a belted waist She is smiling softly while holding a smaller white coffee cup with a subtle heart design with steam gently rising from it The ambient environment is warm and atmospheric, decorated with surrounding potted plants, warm fairy lights, lanterns on the floor, and soft, dreamy bokeh blurring the background. Ultra-realistic, 8k resolution, cinematic lighting, cozy aesthetic.
+```
+
+**来源：** [@Lavinia](https://x.com/laviniavelle/status/2090807504288542889) | 2026-08-21
+
+---
+
+### 🧸 例 6669：粉彩纸艺世界画作
+
+![粉彩纸艺世界画作](../images/%E7%B2%89%E5%BD%A9%E7%BA%B8%E8%89%BA%E4%B8%96%E7%95%8C%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精美的 4:5 竖版粉彩纸艺画，将 {argument name="country" default="Japan"} 描绘为一个绘制在手工纹理纸上的完整微缩世界。运用细腻的粉彩水粉、柔和的水彩和彩色铅笔质感，呈现出可见的纸张纤维、轻柔的笔触、不完美的边缘以及微妙的层叠颜料。
+
+让该国最具代表性的地标、景观、传统建筑、当地花卉、美食、服饰、野生动物及文化元素自然地从画面中浮现，如同连续的手绘插画般融合在一起。将 {argument name="country flag" default="Japan"} 国旗巧妙地融入艺术作品中，并在底部以优美的手绘字体优雅地写上“{argument name="country name" default="JAPAN"}”。
+
+使用由粉蓝色、腮红粉、奶油黄、薄荷绿、薰衣草紫、桃色和乳白色组成的精致色调，搭配柔和的阴影与细腻的高光。风格简约、奇幻且具有高端编辑艺术感，营造出梦幻般的氛围。强调触感手工纸质、艺术化的不完美感、优雅的构图、高度精细的微缩元素，拒绝生硬的轮廓、拒绝写实主义、拒绝 3D 渲染，拒绝杂乱。
+
+呈现出一种由手工绘制、充满粉彩质感的奢华旅行明信片风格。
+
+[English]
+Create a beautiful vertical 4:5 pastel-colored paper painting featuring {argument name="country" default="Japan"} as an entire miniature world painted onto textured handmade paper. Use delicate pastel gouache, soft watercolor and colored-pencil textures, with visible paper fibers, gentle brush strokes, imperfect painted edges and subtle layered pigments.
+
+Let the country’s most recognizable landmarks, landscapes, traditional architecture, local flowers, food, clothing, wildlife and cultural elements naturally emerge from the painted surface, blending together like one continuous handmade illustration. Include the {argument name="country flag" default="Japan"} flag subtly integrated into the artwork and elegantly write “{argument name="country name" default="JAPAN"}” at the bottom in beautiful hand-painted lettering.
+
+Use a sophisticated palette of powder blue, blush pink, butter yellow, mint green, lavender, peach and cream, with soft shadows and delicate highlights. Minimal, whimsical, premium editorial art style, dreamy atmosphere, tactile handmade paper, artistic imperfections, elegant composition, highly detailed miniature elements, no harsh outlines, no photorealism, no 3D rendering, no clutter.
+
+Feels like a luxury travel postcard painted by hand with pastel colors.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2090646059848720427) | 2026-08-21
+
+---
+

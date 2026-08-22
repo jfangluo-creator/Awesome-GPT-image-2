@@ -8180,3 +8180,73 @@ Constraints: Do not add any other letters, symbols, logos, signatures, dates, UR
 
 ---
 
+### 🧍 例 6597：OpenAI 来源检测结果正面显示
+
+![OpenAI 来源检测结果正面显示](../images/OpenAI%20%E6%9D%A5%E6%BA%90%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E6%AD%A3%E9%9D%A2%E6%98%BE%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，编辑验证结果屏幕，使其显示正面的 OpenAI 来源检测结果，而非负面结果。保持深色圆角卡片布局、嵌入的键盘照片、居中构图、底部链接以及白色圆角按钮不变。
+
+修改 3 个验证状态元素：1) 将粉色圆形 X 图标替换为绿色圆形勾选图标，2) 将标题颜色改为绿色并设置为「OpenAI ツールで生成されました」，以及 3) 将说明正文替换为「このコンテンツは OpenAI のツールを使用して生成されました。以下のシグナルは、この結果を裏付ける証拠です。」
+
+保留参考图中的 2 个底部文本元素：链接「詳細を表示する」和按钮标签「別のファイルを検証」。采用简洁的日文 UI 风格，在黑色背景上保持高对比度，使用圆角设计，并确保编辑后的图像看起来像真实的截图，而非重新设计的海报。
+
+[English]
+Using the provided reference image, edit the verification-result screen so it shows a positive OpenAI provenance detection result instead of a negative one. Keep the same dark rounded card layout, the embedded keyboard photo, the centered composition, the bottom link, and the white rounded button unchanged.
+
+Change exactly 3 verification-status elements: 1) replace the pink circular X icon with a green circular checkmark icon, 2) change the headline to green and set it to 「OpenAI ツールで生成されました」, and 3) replace the explanatory body text with 「このコンテンツは OpenAI のツールを使用して生成されました。以下のシグナルは、この結果を裏付ける証拠です。」
+
+Preserve exactly 2 lower text elements as in the reference: the link 「詳細を表示する」 and the button label 「別のファイルを検証」. Use a clean Japanese UI style, high contrast on black, rounded corners, and make the edit look like an authentic screenshot rather than a redesigned poster.
+```
+
+**来源：** [@ムーÅ](https://x.com/_Nyoi_/status/2090941444479696994) | 2026-08-21
+
+---
+
+### 🧍 例 6638：动漫角色三视图
+
+![动漫角色三视图](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+キャラクター三面図 添付したキャラクター画像をメインの参考画像として使用してください。 同じキャラクターを、以下の3方向から描いたキャラクター三面図を作成してください。 1.正面 2.横向き 3.背面 参考画像のキャラクターと同一人物として認識できるよう、顔、髪型、髪色、瞳の色、体型、肌の色、衣装、アクセサリー、特徴的な部分を忠実に維持してください。 3方向すべてで、自然に直立した同じポーズ・同じ縮尺で描いてください。 身長、体型、髪型、衣装のデザイン、アクセサリーの位置や形状を、3方向で完全に統一してください。 白い無地の背景、ニュートラルな照明、全身が見える構図、キャラクター設定資料として見やすいレイアウトにしてください。 極端なパース、躍動感のあるポーズ、身体の切れ、別のキャラクター、文字、不要な背景要素は入れないでください。 高品質なアニメキャラクターデザイン、繊細な線画、統一されたプロポーション、見やすい設定資料、正面・側面・背面のターンアラウンド。
+```
+
+**来源：** [@ABM@AIArt](https://x.com/abm_velvet/status/2090762147248935414) | 2026-08-21
+
+---
+
+### 🧍 例 6688：赛博朋克悬崖巨型城市壁纸
+
+![赛博朋克悬崖巨型城市壁纸](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%82%AC%E5%B4%96%E5%B7%A8%E5%9E%8B%E5%9F%8E%E5%B8%82%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为基础构图，将悬崖奇幻城市转换为 {argument name="city style" default="未来感东亚赛博朋克巨型城市"}，同时保留极具戏剧性的垂直悬崖背景、高海拔尺度以及 16:9 的宽屏桌面壁纸构图。将古朴的悬崖居所和古代堡垒感替换为密集的霓虹灯塔式建筑，并融合高耸的科幻摩天大楼、圆柱形巨型结构、天线、平台、发光窗户、全息标志以及嵌入岩壁的分层空中码头。
+
+将氛围更改为 {argument name="time of day" default="云层之上的橙红色日落"}：右侧地平线上有一轮巨大的低垂落日，天空呈现温暖的桃色，阴影为紫蓝色，城市下方笼罩着朦胧云雾，并带有电影级的体积雾效果。让场景更具未来感和生活气息，加入红灯笼、垂直发光标志、小型发光店面以及赛博朋克风格的蓝/红点缀灯光。
+
+在天空和城市空域中精确添加 12 架显眼的飞行载具：右下方 1 架带有两个明亮蓝色引擎的大型前置运输机，左下方 1 架部分可见的载具，右上方附近 1 架大型巡逻艇，中央塔楼上方 1 架小型飞行器，中左上方 1 架小型飞行器，中心天空附近 1 架粉色灯光飞行器，中央建筑平台附近 1 架细长型飞行器，1 架横穿太阳的微小剪影，以及散布在右侧日落天空中的 4 架远距离小型飞行器。保持载具与粗犷的未来科幻设计风格一致。
+
+保留参考图中宏大的海拔感和悬崖边缘建筑特色，但移除瀑布，并将中世纪/奇幻基调替换为精致的 {argument name="visual style" default="超细节电影级 4K 科幻概念艺术"}。画面中不得包含任何文字叠加、水印或边框。
+
+[English]
+Using the provided reference image as the base composition, transform the cliffside fantasy city into a {argument name="city style" default="futuristic East Asian cyberpunk megacity"} while keeping the dramatic vertical cliff setting, high-altitude scale, and wide 16:9 desktop-wallpaper framing. Replace the rustic cliff dwellings and ancient fortress feel with dense neon-lit pagoda architecture fused with towering sci-fi skyscrapers, cylindrical megastructures, antennas, platforms, glowing windows, holographic signs, and layered sky docks built into the rock face.
+
+Change the atmosphere to {argument name="time of day" default="orange-red sunset above clouds"}: a huge low sun on the right horizon, warm peach sky, purple-blue shadows, misty clouds below the city, and cinematic volumetric haze. Make the scene feel more futuristic and populated, with red lanterns, vertical illuminated signs, small lit storefronts, and cyberpunk blue/red accent lights.
+
+Add exactly 12 prominent flying vehicles to the sky and city airspace: 1 large foreground transport with two bright blue engines at lower right, 1 partially visible vehicle at lower left, 1 large patrol craft near the upper right, 1 small craft above the central towers, 1 small craft near the upper center-left, 1 pink-lit craft near the center sky, 1 elongated craft near the central building platforms, 1 tiny silhouette crossing the sun, and 4 additional small distant aircraft scattered across the right-side sunset sky. Keep the vehicles consistent with a rugged futuristic sci-fi design.
+
+Preserve the grand sense of altitude and cliff-edge architecture from the reference, but remove the waterfall and replace the medieval/fantasy tone with a polished {argument name="visual style" default="ultra-detailed cinematic 4K sci-fi concept art"}. No text overlays, no watermark, no border.
+```
+
+**来源：** [@Sophia_ammy](https://x.com/JessyRosyyy/status/2090604804758265975) | 2026-08-21
+
+---
+

@@ -18030,3 +18030,107 @@ Wide-angle first-person POV outdoor photograph: The {argument name="subject" def
 
 ---
 
+### 🏷️ 例 6626：光泽感盆栽素材
+
+![光泽感盆栽素材](../images/%E5%85%89%E6%B3%BD%E6%84%9F%E7%9B%86%E6%A0%BD%E7%B4%A0%E6%9D%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个干净且可复用的盆栽植物产品素材，主体为风格化的盆栽，背景透明，并在深灰色棋盘格透明网格上进行预览。将主体垂直和水平居中放置在纵向画布上。植物共有 7 片清晰可见的光泽感椭圆形叶子：右上角一片大型直立叶，左上角一片中型直立叶，向右延伸的一片长横向叶，向左延伸的一片长横向叶，左下角一片较小的叶子，右下角一片圆润的叶子，以及茎干之间半遮掩的一片小型中心新叶。使用明亮清新的绿色渐变，带有平滑的高光、细腻的中心叶脉和弯曲的侧脉，粗壮的绿色茎干从土壤中簇生而出。花盆为简约的圆润白色陶瓷盆，具有宽阔的椭圆形开口、柔和的阴影、极简的纹理，顶部可见深棕色的颗粒状土壤。采用精致的 3D 图标 / 黏土渲染风格，左上方柔和的摄影棚灯光，叶片和花盆下方有柔和的环境光遮蔽，边缘清晰，适合用作贴纸或 UI 素材。无文字、无 Logo、无水印、无额外物体。保持背景真实透明，棋盘格仅用于示意透明度。
+
+[English]
+Create a clean reusable product asset of a stylized houseplant in a pot on a transparent background, previewed over a dark gray checkerboard transparency grid. Center the subject vertically and horizontally on a portrait canvas. The plant has exactly 7 visible glossy oval leaves: one large upright leaf at the top right, one medium upright leaf at the top left, one long horizontal leaf extending right, one long horizontal leaf extending left, one smaller lower-left leaf, one rounded lower-right leaf, and one small central emerging leaf partly hidden between stems. Use bright fresh green gradients with smooth highlights, subtle central veins and curved side veins, thick green stems clustered from the soil. The pot is a simple rounded white ceramic planter with a wide oval opening, soft shadows, minimal texture, and dark brown pebbly soil visible at the top. Use polished 3D icon / clay-render style, soft studio lighting from the upper left, gentle ambient occlusion under leaves and pot, crisp edges suitable for stickers or UI assets. No text, no logo, no watermark, no extra objects. Keep the background actually transparent, with the checkerboard only representing transparency if shown.
+```
+
+**来源：** [@Daivison Cardoso](https://x.com/daivbr/status/2090788155230163077) | 2026-08-21
+
+---
+
+### 🏷️ 例 6639：奢华现代热带风情客厅
+
+![奢华现代热带风情客厅](../images/%E5%A5%A2%E5%8D%8E%E7%8E%B0%E4%BB%A3%E7%83%AD%E5%B8%A6%E9%A3%8E%E6%83%85%E5%AE%A2%E5%8E%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="room type" default="奢华现代热带风情客厅"}，配有落地玻璃墙，可饱览令人惊叹的 {argument name="view" default="岛屿全景"}。清澈见底的绿松石色海洋、郁郁葱葱的翠绿山峦、摇曳的棕榈树、充满活力的热带花园以及无尽的蓝天。温暖的自然光洒满室内，营造出明亮、通透的氛围。优雅的现代家具，配有大型 {argument name="furniture" default="米色组合沙发"}、天然木质咖啡桌、编织纹理、室内热带植物、木质拱形天花板、抛光硬木地板，无边泳池与海洋地平线完美融合。超写实建筑可视化，色彩鲜艳饱和，电影级光效，照片级真实感，高端奢华度假村美学，高度细节化，HDR，全局光照，光线追踪，清晰对焦，杂志级室内摄影，宁静的热带天堂，居中构图，无人物，无文字，无水印。
+
+[English]
+A {argument name="room type" default="luxurious modern tropical living room"} with floor-to-ceiling glass walls opening to a breathtaking {argument name="view" default="panoramic island view"}. Crystal-clear turquoise ocean, lush emerald mountains, swaying palm trees, vibrant tropical gardens, and endless blue sky. Warm natural sunlight floods the interior, creating a bright, airy atmosphere. Elegant contemporary furniture with a large {argument name="furniture" default="cream-colored sectional sofa"}, natural wood coffee table, woven textures, indoor tropical plants, wooden vaulted ceiling, polished hardwood floors, infinity pool blending seamlessly into the ocean horizon. Ultra-realistic architectural visualization, vivid saturated colors, cinematic lighting, photorealistic, premium luxury resort aesthetic, highly detailed, HDR, global illumination, ray tracing, sharp focus, magazine-quality interior photography, peaceful tropical paradise, centered composition, no people, no text, no watermark.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2090756054242185345) | 2026-08-21
+
+---
+
+### 🏷️ 例 6654：透明 Q 版柴犬贴纸
+
+![透明 Q 版柴犬贴纸](../images/%E9%80%8F%E6%98%8E%20Q%20%E7%89%88%E6%9F%B4%E7%8A%AC%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的 Q 版贴纸风格插图，格式为 PNG，背景透明（在灰白相间的透明度预览图上展示）。主体为两只并排站立的柴犬，全身照，面向前方，表情快乐友好：左侧的狗为 {argument name="left dog color" default="黑褐色"} 柴犬，佩戴明亮的 {argument name="left harness color" default="橙红色"} 胸背带，带有黑色和黄色小带子以及白色弧形标志；右侧的狗为 {argument name="right dog color" default="奶油白色"} 柴犬，佩戴 {argument name="right harness color" default="黑色"} 胸背带，带有白色弧形标志。保持它们各自的宠物特征，使其易于辨认：直立的三角形耳朵、卷曲的蓬松尾巴、厚实的毛发、圆润有光泽的眼睛、张开的笑脸、可见的粉色舌头、小爪子以及紧凑的柴犬体型比例。采用精致的数字插画风格，具有柔和逼真的毛发质感、干净的剪裁边缘、脚下细微的阴影、明快愉悦的表情，以及高分辨率的透明 PNG 贴纸外观。不要添加文字、背景风景、额外的动物、胸背带以外的项圈或道具。
+
+[English]
+Create a cute Q-version cartoon PNG sticker with a transparent background, showing exactly 2 Shiba Inu dogs standing side by side and leaning close together, preserving the original pet characteristics: the left dog is a {argument name="left dog color" default="black-and-tan Shiba Inu"} with cream eyebrows, cream muzzle and legs, fluffy curled tail, open smiling mouth, pink tongue out, and an orange-red chest harness with black and yellow trim; the right dog is a {argument name="right dog color" default="white Shiba Inu"} with a soft cream-white coat, curled tail, open smiling mouth, pink tongue out, and a black chest harness. Render them as adorable chibi-style pets with large expressive eyes, rounded faces, slightly oversized heads, soft fluffy fur texture, clean detailed linework, and a friendly happy expression. Both dogs should face forward in a full-body pose, paws visible, ears upright, tails curled over their backs, bodies touching naturally. Use a polished digital illustration style, high detail, warm lighting, subtle soft shadow only if compatible with transparency, no scenery, no props other than the two harnesses, no text, no watermark. Output as PNG with transparent background.
+```
+
+**来源：** [@比特小师妹｜KiKi](https://x.com/bit_sister/status/2090696913305886972) | 2026-08-21
+
+---
+
+### 🏷️ 例 6675：可爱微笑仙人掌贴纸
+
+![可爱微笑仙人掌贴纸](../images/%E5%8F%AF%E7%88%B1%E5%BE%AE%E7%AC%91%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个可爱的卡哇伊风格贴纸插图，主体为一个在透明背景上微笑的盆栽仙人掌吉祥物，背景显示为淡淡的灰色棋盘格透明预览。仙人掌颜色为明亮的 {argument name="cactus color" default="青绿色"}，具有光泽感和垂直棱纹，拥有一个大的圆形中心躯干，两侧各有一只向上弯曲的手臂。为其添加一张开心的脸，包含 2 只带有白色高光的大型黑色椭圆形眼睛、2 个粉色圆形腮红，以及一个露出红色内里和粉色舌头的宽大微笑嘴巴。在身体和手臂上添加许多奶油色的小型星芒状仙人掌刺，底部为橙色，保持可爱而非尖锐的质感。在仙人掌头部的左上方放置 1 朵大花：{argument name="flower color" default="珊瑚红"} 花瓣，黄色圆形雄蕊，以及深绿色轮廓。将仙人掌放置在 1 个陶土花盆中，花盆呈暖橙色，带有深色阴影、光泽高光、厚实的圆边，顶部可见棕色鹅卵石/土壤。在所有主要形状周围使用粗犷的深绿色/黑色轮廓，并在整个角色周围加上厚实的柔和白色贴纸边框。风格应为精致的矢量风格数字艺术，具有柔和的渐变、闪亮的高光、高饱和度、圆润的形态、居中构图，无文字，无水印，是适合网页或贴纸使用的独立素材。{argument name="background" default="透明棋盘格预览"}
+
+[English]
+Create a cute kawaii sticker-style illustration of a cheerful potted cactus mascot on a transparent background shown with a faint gray checkerboard preview. The main subject is a bright lime-green barrel cactus with three visible vertical ribs and two upward-curving side arms, all outlined with a thick dark green stroke and surrounded by a soft white sticker border. Give the cactus a happy face: two large glossy black oval eyes with white highlights, small curved eyebrow-like marks above, round pink blush cheeks, and a wide open smiling mouth with a dark interior and pink tongue. Add exactly one large red-pink flower on the upper left of the cactus with 6 rounded petals and a cluster of small yellow bead-like stamens in the center. Cover the cactus with exactly 20 visible pale yellow star-shaped thorn clusters, each with a small orange center, distributed across the main body and both arms. Place the cactus in a warm orange terracotta flowerpot with a thick rounded rim, darker orange shading, glossy white highlights, small speckles, and visible brown pebbles in the soil at the top. Use a polished digital cartoon style with soft gradients, shiny highlights, saturated colors, clean vector-like edges, and a playful asset-ready look. Center the character, full body visible, no text, no watermark, no extra objects.
+```
+
+**来源：** [@kogu](https://x.com/koguGameDev/status/2090632136424591837) | 2026-08-21
+
+---
+
+### 🏷️ 例 6680：照片转品牌 Logo 设计海报
+
+![照片转品牌 Logo 设计海报](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%93%81%E7%89%8C%20Logo%20%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+☀️ 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为一个**简洁、专业、具有品牌识别性的定制字标 / Logo 图形**。不要把主体图形单独放在文字旁边，而是将其最关键的轮廓、结构或特征巧妙融入字母本身或整体标志结构中，使图形与文字成为一个统一、完整、可识别的视觉符号。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应提炼其最核心的视觉特征，并转化为简洁、几何化、图形化的标志语言，在极少信息中保持一眼可辨的身份感。 文字从照片的主体名称、主题属性、地点线索、动作状态或象征意义中提炼为一个简短英文主文本；如原图本身具有明确专名，可直接转化为主标识名称；如没有明确名称，则提炼一个高度概括、易识别、适合作为品牌字标的英文词或短语。可搭配极少量辅助小字，如类别、地区、状态词或简短标语，但必须高度克制，只作为识别层级的补充。文字与图形需共同构成标志，而不是“图标 + 标题”的常规拼贴。 整体风格保持**极简、现代、几何、醒目、优雅、留白充足、构图平衡**。背景采用浅色纯色或极浅中性色，保持清洁简约；标志以黑白或极少量色彩呈现，颜色可从上方照片中提取最具精神气质的一种进行少量转译，但整体仍以克制、专业、品牌化为优先。标志在下半部分画面中保持舒适的中等视觉尺寸，不过大也不过小，具有成熟品牌标识、文化视觉系统或高级设计工作室作品的完成度。 整体强调**图形与文字一体化、主体识别度、几何秩序、精致字距、专业布局与高级留白**，呈现现代标志设计与艺术海报结合的视觉气质。避免旅游海报感、简单图标加文字、卡通化、装饰堆砌、电商感、廉价图形和模板感。 ☀️
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090616800711229764) | 2026-08-21
+
+---
+
+### 🏷️ 例 6684：浪漫日落露台专辑封面
+
+![浪漫日落露台专辑封面](../images/%E6%B5%AA%E6%BC%AB%E6%97%A5%E8%90%BD%E9%9C%B2%E5%8F%B0%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形专辑封面插画，用于一首名为 {argument name="song title" default="Matcha-Orange"} 的柔和歌曲。画面展示一个浪漫的湖畔或海滨露台日落场景，采用略微低角度的正面视角。前景中，两人以深色剪影呈现，坐在小圆咖啡桌两旁，营造出亲密交谈或安静约会的氛围。画面中需包含 2 个人物：左侧一人身体前倾，手托下巴；右侧一人留长发，侧身而坐。中间放置 1 张小圆桌、2 把椅子，以及 3 件清晰可见的桌面物品：一个茶杯、一个小茶壶或水壶，以及一个浅盘或甜点碟。露台铺设白色木地板，具有强烈的墨线透视感，长长的深色阴影向观众延伸，左右两侧设有栏杆。栏杆外是平静发光的水面，两侧可见远处的深色海岸线剪影。天空呈现从地平线附近的暖橙色到顶部的深青绿色的戏剧性渐变，布满许多细小的白星，以及几道从左上角向中心斜向划过的流星状长条。在左右两侧添加华丽的奶油白色线条云朵，采用密集的平行轮廓排线绘制，右上角有叶片花枝伸入。采用复古日本木刻版画与现代线条海报风格：高对比度的奶油色线条、深青色剪影、手绘蚀刻纹理、细腻的纸张质感、优雅的怀旧氛围，无可见文字，无 Logo，无水印。
+
+[English]
+Create a square album-cover illustration for {argument name="song title" default="Matcha-Orange"}, with no visible typography. Show a romantic twilight seaside terrace scene in vintage Japanese woodblock-print and etched linocut style. The composition centers on exactly 2 silhouetted people seated across from each other at a small round café table: one person on the left leaning forward with hand near chin, one person on the right with long hair in profile, both in dark navy silhouette. On the table include exactly 4 visible objects: one small cup near the left figure, one central teapot or carafe, one steaming cup or bowl near the right figure, and one small dish or plate. They sit on exactly 2 wicker café chairs on a wooden deck with strong plank lines and long cast shadows toward the viewer. Frame the terrace with railings on both sides, a bench-like structure at the far left edge, a bench or low railing at the far right edge, dark coastal hills on the horizon, and a calm glowing ocean stretching across the middle. The sky should be a dramatic gradient from warm orange at the horizon to deep teal-green at the top, filled with many tiny stars and white speckles. Add sweeping fine white meteor-like lines crossing diagonally through the sky and large stylized engraved clouds: one large cloud mass on the upper-left edge and one smaller cloud mass on the right horizon. In the upper-right corner, include a leafy flowering branch extending inward in pale cream linework. Use a limited palette of deep teal, dark navy, cream white, and orange sunset glow; high-contrast silhouettes; hand-drawn hatch lines; screenprint texture; subtle paper grain; nostalgic DALL-E-era album art mood. Square 1:1 canvas, centered balanced composition, crisp decorative line art, dreamy and intimate atmosphere, no text, no watermark.
+```
+
+**来源：** [@抹茶オレンジ🧋🍊](https://x.com/MATCHA_ORANGE_/status/2090608920972943758) | 2026-08-21
+
+---
+
