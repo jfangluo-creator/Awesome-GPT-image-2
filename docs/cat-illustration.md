@@ -18807,3 +18807,125 @@ Somewhere beyond the last star, a {argument name="subject" default="river of lig
 
 ---
 
+### 🎨 例 6702：东方未来主义女性概念艺术
+
+![东方未来主义女性概念艺术](../images/%E4%B8%9C%E6%96%B9%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E5%A5%B3%E6%80%A7%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+创作一幅竖版 4:5 的“{argument name="风格" default="东方未来主义"}”超现实女性艺术概念图，梦境感强烈，画面高级、安静、神秘，适合{argument name="用途" default="电影或游戏前期视觉设定"}。
+画面中心是一位来自未来东方文明的{argument name="主体" default="年轻东方女性"}，三分之二身像。她拥有精致的脸蛋、深棕色大眼睛、古典秀直鼻、克制的朱红樱桃唇，以及透出玉石般内光的瓷白肌肤。表情宁静而疏离，目光越过观者，仿佛正在接收遥远时代传来的信息。墨黑长发部分挽起，其余发丝在失重环境中缓慢漂浮；发间悬着一枚没有实体支撑的白玉发簪，它同时是一件微型量子接口，周围环绕极细的冷白光环。
+她穿着由汉服轮廓演化而来的未来高定礼服：保留层叠衣摆和流动的东方曲线，材质变为半透明智能丝绸、珍珠陶瓷薄片与柔性液态金属。单侧肩部设计，健康丰腴的古典体态，姿态如雕塑般舒展，柔和明暗表现身体体积。衣料内部生长着纤细发光回路，线路按照祥云、山水和古代星图的节奏排列，没有任何可读文字。宽袖与衣带逐渐解构为悬浮的水墨粒子、银色数据流和透明光膜，传统刺绣仿佛正在实时生成。
+人物赤足站在无边的镜面浅水上，水面是一层具有感知能力的液态显示介质，每一步都会扩散出精密的同心光纹。她身后巨大的珍珠月亮是一座沉睡的行星级量子数据核心，月面内部可见缓慢旋转的同心机械结构和半透明能量层。倒悬山峦漂浮在天空，山体内部露出洁白的悬浮城市与反重力建筑；朱红锦鲤化为半透明的全息数据生命，穿过空气、衣袖和月影；白色莲花由微型无人机群聚合而成，在薄雾中无声开合。
+人物背后悬浮着类似古代浑天仪的多重圆环，与极简全息界面结合，形成东方圣像般的科技光环，不出现任何文字或数字。
+空间尺度与物理逻辑刻意不可能：天空同时出现两个月亮，倒影比实体更加清晰，远处建筑向上坠落，水墨云穿过机械结构。整体保持诗性、静谧和清醒梦感，不要恐怖氛围。发丝、长袖、数据流与全息锦鲤形成贯穿画面的 S 形动势，人物是明确的视觉锚点，保留大面积东方留白和深远空间层次。
+使用柔和的电影级体积光、雾中光束、冷白全息辉光、珍珠漫反射与细腻轮廓逆光。主色为月白、玉青、银灰和淡墨黑，仅以少量朱红作为视觉焦点。科技感来自材料、结构、光学和空间设计，而不是密集霓虹灯。
+融合高精度写实人物、东方工笔线条、水墨晕染、精密工业设计和当代超 surreal 概念艺术；边缘柔和溶入雾白背景，材质可信，细节丰富但不拥挤。
+最终效果：原创的未来东方文明美学，梦境感与科技感并重，优雅、空灵、陌生但可信，具有高级美术馆与电影概念设定气质。面部和手部结构自然，服饰层次清晰。不要文字、题字、印章、标识、水印或边框；避免常规霓虹赛博朋克城市、廉价仙侠海报、机械义肢堆砌、过度磨皮、塑料皮肤、杂乱界面、畸形手指、重复肢体和五官错位。
+```
+
+**来源：** [@Mr Gafish | 鱼哥](https://x.com/MrGafish/status/2091175229183971335) | 2026-08-22
+
+---
+
+### 🎨 例 6708：MPD 机甲捕获蜘蛛机器人
+
+![MPD 机甲捕获蜘蛛机器人](../images/MPD%20%E6%9C%BA%E7%94%B2%E6%8D%95%E8%8E%B7%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级竖屏科幻动作场景，背景为雨夜的工业港口：一台巨大的黑白相间警用人形机甲，来自东京警视厅（Tokyo Metropolitan Police Department），机身上标有日文「警视厅」和“MPD”字样，正在使用粗壮的棕色束缚绳捕获一台敌对的黑色多足机器人。画面中包含且仅包含 2 台主要机器人：右侧是一台高耸的双足警用机器人，体型厚重，黑色机械关节上覆盖着白色分段装甲板，双肩闪烁着红色警示灯，头部上方安装有大型发射器/传感器吊舱，双手紧握多根绳索；左侧是一台深色的蜘蛛状四足机器人，姿态低伏且具有攻击性，拥有光泽的黑色装甲，四条清晰可见的关节腿，红色发光光学传感器，身体和腿部被绳索缠绕，处于半倾倒状态并被向后拉扯。场景设置在湿润且具有反射效果的地面上，机器人脚下有溅起的水花，背景为集装箱、起重机、脚手架和远处的工业建筑。使用大雨雨丝、风暴云、薄雾、戏剧性的冷灰蓝色调、明亮的红色警示 LED 灯、逼真的水面反射、高细节硬表面机械设计、粗粝的照片写实感、电影级构图、低机位视角、紧张的动态感、浅层大气雾霾，画面中无人，无额外机器人，无水印。可自定义机构标识 {argument name="police label" default="警视厅 MPD"}，场景地点 {argument name="location" default="雨中工业港口"}，被捕获的机器类型 {argument name="enemy robot type" default="黑色多足机器人"}，天气 {argument name="weather" default="狂风暴雨"}，以及氛围 {argument name="mood" default="电影级战术对峙"}。
+
+[English]
+Create a cinematic vertical sci-fi action scene in a rainy industrial harbor at night: a massive white-and-black police humanoid mech from the Tokyo Metropolitan Police Department, labeled with Japanese text 「警視庁」 and “MPD,” is capturing a hostile black multi-legged robot using thick tan restraint ropes. The image contains exactly 2 main robots: 1 towering bipedal police robot on the right, bulky armored body, white segmented plates over black mechanical joints, red emergency lights glowing on both shoulders, large launcher/sensor pod mounted on top of its head, gripping multiple ropes with both hands; and 1 dark spider-like quadruped robot on the left, low aggressive posture, glossy black armor, four visible articulated legs, red glowing optical sensor, partially toppled and being pulled back by the ropes wrapped around its body and legs. Set the scene on wet reflective pavement with splashing water around the robot feet, shipping containers, cranes, scaffolding, and distant industrial structures in the background. Use heavy rain streaks, storm clouds, mist, dramatic cold blue-gray lighting, bright red warning LEDs, realistic water reflections, high-detail hard-surface mechanical design, gritty photorealism, cinematic composition, low camera angle, tense motion, shallow atmospheric haze, no people visible, no extra robots, no watermark. Customize the agency marking as {argument name="police label" default="警視庁 MPD"}, the setting as {argument name="location" default="rainy industrial harbor"}, the captured machine as {argument name="enemy robot type" default="black multi-legged robot"}, the weather as {argument name="weather" default="heavy rainstorm"}, and the mood as {argument name="mood" default="cinematic tactical confrontation"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2091161375347454043) | 2026-08-22
+
+---
+
+### 🎨 例 6709：重甲巨熊对峙
+
+![重甲巨熊对峙](../images/%E9%87%8D%E7%94%B2%E5%B7%A8%E7%86%8A%E5%AF%B9%E5%B3%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅黑暗史诗奇幻电影质感的插画，主题为 {argument name="encounter title" default="与重甲巨熊的对峙"}：画面中心是一头巨大的熊形怪物，它正咆哮着向前猛扑，大嘴张开，獠牙毕露，双眼闪烁着紫光，巨大的金属利爪向观众抓来。巨熊全身覆盖着层叠的黑色钢制装甲，宛如重叠的鳞片，装甲上布满了划痕、铆钉和锯齿，肩甲厚重，胸前挂着一枚华丽的护身符，镶嵌着一颗发光的 {argument name="gem color" default="紫色"} 水晶。在右下角前景处，展示 1 名孤胆人类骑士的背影，他比巨兽渺小得多，身穿华丽的深色盔甲，披着破烂的斗篷，手持 1 把剑尖向下的长剑，并举起 1 面大盾进行防御。场景设定在废墟般的哥特式城市或堡垒峡谷中，左右两侧由 2 座高耸的残破石塔墙框定，头顶乌云密布，灰烬飘散，火星四溅，碎石飞舞，地面湿润且具有反射感，怪物周围的地面上喷涌出诡异的紫色魔法火焰或能量。采用低角度英雄式构图，巨熊占据画面主体，骑士用于衬托比例，运用高对比度的明暗对照法，冷灰色金属色调搭配紫色的魔法高光，纹理超精细，写实的奇幻概念艺术，戏剧性的体积烟雾，焦点清晰，纵向 4:5 比例，无文字，无水印。
+
+[English]
+Create a dark epic fantasy cinematic illustration of {argument name="encounter title" default="Encounter with an Armored Bear"}: a colossal bear-like monster dominates the frame, lunging forward and roaring with its mouth wide open, fangs exposed, purple-glowing eyes, and enormous metal claws reaching toward the viewer. The bear is covered head to toe in layered blackened steel armor plates like overlapping scales, battered, scratched, riveted, and jagged, with heavy shoulder plates and a large ornate amulet on its chest holding a glowing {argument name="gem color" default="purple"} crystal. In the lower right foreground, show exactly 1 lone human knight seen from behind, much smaller than the beast, wearing dark ornate armor and a tattered cloak, holding exactly 1 long sword angled downward and exactly 1 large kite shield raised defensively. Set the scene in a ruined gothic city or fortress canyon with exactly 2 tall broken stone tower walls framing the left and right sides, storm clouds overhead, drifting ash, sparks, flying debris, shattered rocks, wet reflective ground, and eerie purple magical flames or energy erupting from the ground around the monster. Use a low-angle heroic composition, the bear filling most of the image, the knight providing scale, high contrast chiaroscuro lighting, cold gray-black metal tones with violet magical highlights, ultra-detailed textures, realistic fantasy concept art, dramatic volumetric smoke, sharp focus, vertical 4:5 aspect ratio, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2091161155205279922) | 2026-08-22
+
+---
+
+### 🎨 例 6720：彩虹礁石上的星夜美人鱼
+
+![彩虹礁石上的星夜美人鱼](../images/%E5%BD%A9%E8%99%B9%E7%A4%81%E7%9F%B3%E4%B8%8A%E7%9A%84%E6%98%9F%E5%A4%9C%E7%BE%8E%E4%BA%BA%E9%B1%BC.jpg)
+
+**Prompt:**
+
+```text
+{argument name="背景" default="無数の星が散りばめられた夜空、大海原の虹色の岩礁"}に座っている{argument name="髪色" default="水色"}の長く流れるような髪、{argument name="鱗の色" default="水色"}に光り輝く鱗を持つ人魚。
+```
+
+**来源：** [@おもも桃](https://x.com/omomomomo0309/status/2091098679125901469) | 2026-08-22
+
+---
+
+### 🎨 例 6741：缘侧上的欢笑
+
+![缘侧上的欢笑](../images/%E7%BC%98%E4%BE%A7%E4%B8%8A%E7%9A%84%E6%AC%A2%E7%AC%91.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="縁側"}でこぼれる{argument name="情景" default="笑い"}
+```
+
+**来源：** [@One Breath｜AI Portrait](https://x.com/OneBreath00/status/2091025415980843380) | 2026-08-22
+
+---
+
+### 🎨 例 6742：电影级动作冒险项目
+
+![电影级动作冒险项目](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E4%BD%9C%E5%86%92%E9%99%A9%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为原创 {argument name="genre" default="高能动作冒险"} 短片创作一个 16:9 的电影级动画开发项目
+
+[English]
+Create a single 16:9 cinematic animation development board for an original {argument name="genre" default="high-energy action adventure"} short film
+```
+
+**来源：** [@xiaomiaode](https://x.com/xiaomiaode5383/status/2091024953751781431) | 2026-08-22
+
+---
+
+### 🎨 例 6744：吕布骑赤兔水墨画
+
+![吕布骑赤兔水墨画](../images/%E5%90%95%E5%B8%83%E9%AA%91%E8%B5%A4%E5%85%94%E6%B0%B4%E5%A2%A8%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具戏剧性的竖构图中国水墨奇幻战争插画，主角是 {argument name="character name" default="吕布"}，这位传奇的三国武将正骑着赤兔马在空中冲锋。武将位于画面中偏左位置，身穿华丽的黑金配色中国古代盔甲，披着飘逸的深红色披风，表情凶猛，黑发束起，头戴高冠，身后两根长长的雉鸡翎向上卷曲。他从左下方向右上斜举着一把巨大的方天画戟；武器有着长长的黑色戟杆、错综复杂的锯齿状金属刃口、红色流苏以及泼墨细节。马匹是一匹强壮的红色战马，正向右腾空而起，张着嘴，鬃毛飞扬，前腿抬起，装饰着深色皮质缰绳和精美的金色盔甲，胸前有龙形饰物。在他们身后，使用爆炸性的深红色笔触，如同血红色的战旗或墨迹在苍白的宣纸天空中蔓延。下方展现一个崎岖的山谷，两侧是陡峭的深蓝黑色悬崖，山谷中云雾缭绕，用厚重的纹理墨笔勾勒。在左上方添加竖排中国书法，内容为 {argument name="main calligraphy" default="吕布"}，旁边配有较小的书法，内容为 {argument name="subtitle calligraphy" default="人中吕布 马中赤兔"}，并在文字下方盖上两枚红色印章。风格：高度细腻的绘画感宣纸纹理，传统中国泼墨构图与史诗奇幻写实主义相结合，动态十足，红色、黑色、金色与深蓝色的强烈对比，无现代物品，无边框，无水印。
+
+[English]
+Create a dramatic vertical Chinese ink-and-wash fantasy illustration of {argument name="character name" default="Lu Bu"}, the legendary Three Kingdoms warrior, charging through a narrow mountain gorge on a rearing {argument name="horse color" default="blood-red"} warhorse. The warrior wears ornate black-and-gold lamellar armor with sharp gilded details, a fierce expression, dark hair and beard, and a small crested headpiece with two long pheasant-tail plumes arcing high behind him. He raises an enormous Fangtian halberd diagonally across the composition, its jagged double crescent blade pointing to the upper right with red tassels near the head. A vast torn {argument name="cape color" default="crimson"} cape explodes behind him like splashed paint, merging with red ink bursts that fill the upper background. The horse is muscular, mid-leap and rearing, mouth open, mane flying, ornate bridle and chest armor decorated with a fierce beast-mask emblem. Below, dark blue-black rocky cliffs frame a deep misty ravine, painted with rough expressive brush strokes and white fog. Use a textured off-white rice-paper background, dynamic splatter ink, energetic xieyi brushwork, high contrast red against deep navy rocks, painterly realism mixed with traditional Chinese martial art poster aesthetics. Add vertical black Chinese calligraphy in the upper left reading {argument name="calligraphy text" default="吕布"}, with smaller side inscriptions and two small red seal stamps beneath it. No modern objects, no borders, no watermark, keep the image focused on one warrior, one horse, one halberd, one cape, two plume arcs, two red seal stamps, and the mountain gorge.
+```
+
+**来源：** [@mo Ki](https://x.com/static_stare/status/2091015064342163716) | 2026-08-22
+
+---
+

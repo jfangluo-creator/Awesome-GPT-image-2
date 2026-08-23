@@ -3743,3 +3743,57 @@ Create a cute kawaii sticker illustration on a transparent background featuring 
 
 ---
 
+### 🔧 例 6726：笨拙手绘风照片涂鸦
+
+![笨拙手绘风照片涂鸦](../images/%E7%AC%A8%E6%8B%99%E6%89%8B%E7%BB%98%E9%A3%8E%E7%85%A7%E7%89%87%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以附带的照片为参考，保留其可辨认的身份特征、发型、表情、姿势、服装、幼崽以及原始配色。将其重绘为可爱的笨拙手绘涂鸦，呈现出大而歪斜的头部、微小且别扭的身体、豆豆眼以及简单的五官。使用纤细且略微抖动的黑色圆珠笔线条，以及松散的彩色铅笔涂抹笔触。保持其刻意的业余感和可爱的笨拙感，同时确保画面整洁、不杂乱，并配以简洁的背景和充足的留白。
+
+[English]
+Using the attached photo as reference, preserve the recognizable identity, hairstyle, expression, pose, clothing, baby animal, and original colors. Redraw it as a cute, clumsy hand-drawn doodle with an oversized crooked head, tiny awkward body, dot eyes, and simple facial features. Use thin, slightly shaky black ballpoint-pen lines and loosely scribbled colored-pencil strokes. Keep it intentionally amateur and adorably awkward, but clean and uncluttered, with a simplified background and plenty of white paper.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2091061728117428531) | 2026-08-22
+
+---
+
+### 🔧 例 6755：复古铅笔人像转换
+
+![复古铅笔人像转换](../images/%E5%A4%8D%E5%8F%A4%E9%93%85%E7%AC%94%E4%BA%BA%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将人像转换为手绘风格的复古石墨时尚素描，同时精准保留主体身份、姿势、表情、发型、服装、帽子、配饰以及整体构图。将照片转换为暖色调陈旧米色纸张上的单色铅笔与炭笔线条画，呈现清晰的交叉排线、松散的素描轮廓、有质感的阴影、晕染的石墨影调，以及头发、帽子、肩膀和毛衣边缘略显粗糙的未完成感。保持相同的半身构图和手指抵唇姿势，去除照片级的色彩，替换为细腻的深褐色与灰色调以及纸张纹理。着重表现针织帽、发丝、面部特征、手部和图案毛衣的细腻铅笔质感。保持参考图的简洁背景，呈现为留白的复古纸张，不添加任何额外物体、文字、边框或水印。
+
+[English]
+Using the provided reference image, transform the portrait into a vintage hand-drawn graphite and charcoal sketch on warm beige textured paper. Preserve the same identity, pose, framing, hairstyle, beanie, hair clips, sweater, accessories, and facial expression from the reference, but convert the photo into a monochrome pencil illustration with subtle sepia paper tone. Render visible sketch construction lines, rough crosshatching, soft smudged shading, fine hair strokes, fabric knit texture, and slightly unfinished edges around the shoulders and hat. Keep the composition as a bust portrait centered on a simple blank paper background, with no added objects, text, border, or watermark. Style intensity: {argument name="sketch realism" default="highly detailed realistic graphite portrait"}. Paper tone: {argument name="paper tone" default="warm aged beige"}. Line quality: {argument name="line quality" default="rough expressive pencil and charcoal strokes"}.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2090986512271941938) | 2026-08-22
+
+---
+
+### 🔧 例 6759：月神弓箭手壁纸
+
+![月神弓箭手壁纸](../images/%E6%9C%88%E7%A5%9E%E5%BC%93%E7%AE%AD%E6%89%8B%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为古典神话绘画风格和带翅膀仙子形象的基础，将主体转换为 {argument name="mythological character" default="一位受阿尔忒弥斯/戴安娜启发的月亮女神弓箭手"}。保留宏大的巴洛克/古典油画处理手法、戏剧性的云层、巨大的羽翼、飘逸的浅色褶皱长袍、雕塑般的身体结构以及电影级的宽屏桌面壁纸构图，但将姿势改为侧身持弓、拉满箭矢的状态。精确添加 5 个新关键细节：1 把华丽的月牙形弓、1 支搭在弦上的箭、腰间 1 个箭袋、发间 1 个新月装饰，以及天空中 1 轮遥远的新月。将光影和氛围从温暖的白昼转变为 {argument name="atmosphere" default="黑暗的月夜"}，呈现星光点点的多云天空、银灰色高光、发光的薄雾以及空灵的月光。使图像呈现出神话般的 4K 桌面壁纸质感：高度精细、优雅、史诗感、绘画感，无文字，无水印。
+
+[English]
+Using REFERENCE_0 as the classical mythological painting style and winged celestial figure base, transform the subject into {argument name="mythological character" default="a female moon goddess archer inspired by Artemis/Diana"}. Keep the grand Baroque/classical oil-painting treatment, dramatic clouds, monumental feathered wings, flowing pale drapery, sculptural anatomy, and cinematic wide desktop-wallpaper composition, but change the pose so she is aiming a bow in profile with one arrow drawn taut. Add exactly 5 new key details: 1 ornate crescent-shaped bow, 1 nocked arrow, 1 quiver at her waist, 1 crescent moon ornament in her hair, and 1 distant crescent moon in the sky. Shift the lighting and atmosphere from warm heavenly daylight to {argument name="atmosphere" default="dark moonlit night"}, with a starry cloud-filled sky, silver-gray highlights, glowing mist, and ethereal lunar radiance. Make the image feel like a mythological 4K desktop wallpaper: highly detailed, elegant, epic, painterly, no text, no watermark.
+```
+
+**来源：** [@Sophia_ammy](https://x.com/JessyRosyyy/status/2090967193500655943) | 2026-08-22
+
+---
+

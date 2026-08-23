@@ -4095,3 +4095,161 @@ Create a vertical triptych (six tall panels side by side) in a classic Chinese u
 
 ---
 
+### 🏛️ 例 6712：配备室内泳池的奢华水疗浴室
+
+![配备室内泳池的奢华水疗浴室](../images/%E9%85%8D%E5%A4%87%E5%AE%A4%E5%86%85%E6%B3%B3%E6%B1%A0%E7%9A%84%E5%A5%A2%E5%8D%8E%E6%B0%B4%E7%96%97%E6%B5%B4%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个写实风格的超豪华现代水疗浴室室内设计，采用 4:3 宽幅横向建筑渲染图。房间几乎完全采用暖灰色石灰岩或洞石装饰，铺设无缝大尺寸石材地砖和墙板，色调为柔和的米灰色，营造出宁静的度假村氛围。在左侧前景放置一个大型独立式椭圆形白色浴缸，配有极简的拉丝金属落地水龙头；旁边放置 1 张小型圆形深色石材边桌，桌上精确摆放 4 件洗浴用品：2 个琥珀色按压瓶、1 个小罐子以及 1 条折叠毛巾或肥皂碟。沿左侧墙壁设计一个长条形悬浮石材洗漱台，下方配有暖色 LED 灯带，上方安装两面高大的圆角长方形背光镜，配备极简水龙头，并进行简约装饰，包括小瓶子和花瓶中的枝叶。在背景中央展示一个玻璃封闭的淋浴间，采用透明无框面板，天花板上的雨淋式花洒喷洒出可见的水流，设有放置洗漱用品的嵌入式壁龛，以及三个壁挂式控制器或插座。在中心偏右处，通过石材隔断划分出一个独立的马桶间，内设壁挂式白色马桶、小搁板和毛巾。在图像右半部分，设计一个从前景延伸至背景的室内长方形绿松石色小型泳池，水面清澈且有涟漪，近端设有水下台阶、纤细的金属扶手以及连续的水下边缘照明。泳池后方采用落地玻璃墙，展现出一个私人庭院花园，内有 1 棵纤细的树木、低矮的绿色植物和石墙；玻璃上呈现出倒影。在右后方添加 1 把带靠垫的休闲椅，前方是一面柔和照明的垂直条纹墙板。天花板平滑且具有雕塑感，设有一个散发暖光的巨大圆角长方形内凹灯槽、小型嵌入式筒灯以及细长的黑色线性天花板槽。采用暖色环境光、隐藏式 LED 灯带、柔和的反射效果、来自花园的平衡自然光，呈现电影级建筑摄影质感，使用平视广角镜头，细节清晰，材质真实，画面中无人、无文字、无杂物。可选自定义：将其设置为 {argument name="room type" default="超豪华现代水疗浴室"}，搭配 {argument name="stone material" default="暖灰色石灰岩或洞石"}、{argument name="pool color" default="绿松石色"} 室内小型泳池、{argument name="lighting mood" default="暖色度假村环境光"}，以及包含 {argument name="courtyard tree" default="一棵纤细树木"} 的庭院。
+
+[English]
+Create a photorealistic ultra-luxury modern spa bathroom interior in a wide horizontal 4:3 architectural render. The room is clad almost entirely in warm gray limestone or travertine, with seamless large-format stone floor and wall slabs, soft beige-gray tones, and calm resort-like atmosphere. In the left foreground place a large freestanding oval white bathtub with a minimal brushed-metal floor-mounted faucet; beside it add exactly 1 small round dark stone side table holding exactly 4 bath items: 2 amber pump bottles, 1 small jar, and 1 folded towel or soap dish. Along the left wall create a long floating stone vanity with under-cabinet warm LED lighting, two tall rounded-rectangle backlit mirrors, minimal faucets, and sparse decor including small bottles and branches in vases. In the center background show a glass-enclosed shower with transparent frameless panels, a rainfall shower head pouring visible water from the ceiling, a recessed niche with toiletries, and three wall-mounted controls or outlets. Slightly right of center include a separate toilet alcove behind a stone partition with a wall-hung white toilet, a small shelf, and a towel. On the right half of the image create an indoor rectangular turquoise plunge pool running from foreground to background, with clear rippling water, submerged steps at the near end, a slim metal handrail, and continuous underwater edge lighting. Beyond the pool, use floor-to-ceiling glass walls revealing a private courtyard garden with exactly 1 slender tree, low green plants, and stone walls; include reflections on the glass. Near the back right add exactly 1 cushioned lounge chair with pillows in front of a softly lit vertical ribbed wall panel. The ceiling should be smooth and sculptural with a large rounded rectangular cove light glowing warmly, small recessed downlights, and thin black linear ceiling slots. Use warm ambient lighting, hidden LED strips, soft reflections, balanced natural daylight from the garden, cinematic architectural photography, eye-level wide-angle lens, crisp details, realistic materials, no people, no text, no clutter. Optional customization: make this a {argument name="room type" default="ultra-luxury modern spa bathroom"} with {argument name="stone material" default="warm gray limestone or travertine"}, a {argument name="pool color" default="turquoise"} indoor plunge pool, {argument name="lighting mood" default="warm ambient resort lighting"}, and a courtyard containing {argument name="courtyard tree" default="one slender tree"}.
+```
+
+**来源：** [@Tz](https://x.com/Tz_2022/status/2091148147867152460) | 2026-08-22
+
+---
+
+### 🏛️ 例 6713：田园风动漫花艺
+
+![田园风动漫花艺](../images/%E7%94%B0%E5%9B%AD%E9%A3%8E%E5%8A%A8%E6%BC%AB%E8%8A%B1%E8%89%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的动漫风格竖版肖像，描绘 {argument name="character name" default="一位年轻女性"} 在质朴的乡村厨房里插野花。画面展示她腰部以上、向右侧身四分之三的侧影，她带着温柔专注的微笑，皮肤白皙，脸颊微红并带有雀斑，戴着圆形细框眼镜，留着 {argument name="hair color" default="温暖的栗棕色"} 头发，有细碎的刘海，肩上垂着一条长而松散的侧编辫。她穿着浪漫的田园风服饰：白色泡泡袖衬衫，领口有荷叶边蕾丝装饰，外搭一件深 {argument name="dress color" default="宝蓝色"} 的德恩德尔式围裙裙，配有系带胸衣、褶皱裙摆和背后的蝴蝶结。她的双手正细致地整理着木桌上奶油色陶瓷壶里的花束，壶身带有蓝色花卉图案。花束中包含 3 种清晰可见的花卉：白色小雏菊、柔和的蓝色野花和淡黄色的小枝，配有绿色的茎叶；花朵要保持朴素自然，不要过于鲜艳。背景是一个温暖的老式农舍厨房，有木制橱柜、搁板、模糊的罐子和陶器，左侧有一扇洒满阳光的窗户，柔和的晨光中夹杂着尘埃，横贯整个场景。采用绘画感高细节动漫插画风格，真实光影，细腻的线条，浅景深，温暖的金色高光，自然的皮肤纹理，复杂的发丝，营造出舒适怀旧的氛围，肖像构图，无文字，无水印。
+
+[English]
+Create a detailed anime-style vertical portrait of {argument name="character name" default="a young woman"} arranging wildflowers in a rustic countryside kitchen. She is shown from the waist up in three-quarter profile facing right, with a gentle focused smile, fair skin, soft blush and freckles, round thin-rimmed glasses, and {argument name="hair color" default="warm chestnut brown"} hair with wispy bangs and a long loose side braid over her shoulder. She wears a romantic cottagecore outfit: a white puff-sleeve blouse with ruffled lace trim under a deep {argument name="dress color" default="royal blue"} dirndl-style pinafore dress with a lace-up bodice, gathered skirt, and bow at the back. Her hands delicately adjust a bouquet in a cream ceramic pitcher with blue floral patterns on a wooden table. The bouquet contains exactly 3 visible flower types: small white daisy-like flowers, muted blue wildflowers, and tiny pale yellow sprigs, with green stems and leaves; keep the flowers modest and natural rather than overly bright. The setting is a warm old farmhouse kitchen with wooden cabinets, shelves, blurred jars and crockery, a sunlit window on the left, and soft dust-filled morning light streaming across the scene. Use painterly high-detail anime illustration, realistic lighting, delicate linework, shallow depth of field, warm golden highlights, natural skin texture, intricate hair strands, cozy nostalgic atmosphere, portrait composition, no text, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2091140582886506592) | 2026-08-22
+
+---
+
+### 🏛️ 例 6718：电影级奢华 CEO 办公室肖像
+
+![电影级奢华 CEO 办公室肖像](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%A5%A2%E5%8D%8E%20CEO%20%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影级奢华编辑肖像，主角是一位 20 出头的英俊青年，自信地坐在高端办公室里优雅的行政办公桌前。灵感源自上传参考图的构图、坐姿、专业氛围及拍摄视角，但以独特奢华的男性美学进行了重新设计。
+
+他留着浓密且富有自然质感的 {argument name="hair color" default="乌黑"} 头发，略显凌乱并柔和地向后梳理，拥有深邃传神的棕色眼眸、天然浓密的眉毛、轮廓分明的男性下颌线、立体的颧骨、挺拔的鼻梁以及修剪整齐的胡茬。皮肤呈现出真实的毛孔、自然的纹理及精致的电影级布光。
+
+他身着剪裁无可挑剔的 {argument name="suit color" default="深炭黑色"} 奢华西装，内搭一件挺括的白色高级衬衫，领口第一颗扣子随意解开，佩戴着精致的瑞士风格奢华腕表、简约的铂金或银质戒指，以及低调的高端配饰。西装剪裁完美，面料质感丰富，翻领优雅，展现出一种既强大又从容的气质。
+
+他自然地坐在深色胡桃木奢华大办公桌后的高级黑色皮质行政椅上，一只手拿着时尚的智能手机贴近耳边，仿佛正在进行一场重要的商务通话，另一只手随意地搭在高级皮革笔记本上。桌上放着一台轻薄的现代笔记本电脑。
+
+办公室被打造为奢华的 CEO 顶层公寓办公室，落地玻璃窗外俯瞰着精致的城市天际线，配有深色胡桃木建筑细节、细腻的大理石表面、设计师家具、优雅的抽象艺术品、温暖的环境光以及精心布置的极简主义装饰。点缀几株高雅的绿植以形成对比。
+
+光影：电影级温暖窗光与柔和的漫反射摄影棚光线交织，发丝和肩部带有细腻的轮廓光，腕表和笔记本电脑上有真实的反射，阴影柔和，呈现出高端奢华广告的美学质感。
+
+摄影：平视视角，中景至全身构图，50mm 专业人像镜头，浅景深，焦点清晰对准面部，背景是虚化优美的奢华办公室，比例自然。
+
+氛围：富有、自信、睿智、精致、沉稳、强大、低调的优雅，现代亿万富翁/CEO 美学。
+
+视觉质量：超写实，电影级调色，HDR，极其细腻的皮肤纹理，真实的织物感，真实的手部与手指细节，自然的脸部解剖结构，高端时尚摄影，奢华杂志编辑风格，8K 分辨率，照片级真实，无人工塑料感皮肤，无过度修图，无文字，无水印。
+
+[English]
+Ultra-realistic cinematic luxury editorial portrait of a handsome young man in his early 20s, seated confidently at an elegant executive desk in a sophisticated high-end office. Inspired by the uploaded reference image’s composition, seated pose, professional atmosphere, and camera perspective, but redesigned with a distinctly luxurious, masculine aesthetic.
+
+He has thick, naturally textured {argument name="hair color" default="jet-black"} hair, slightly messy and softly swept back, expressive deep-brown eyes, naturally full eyebrows, a sharp masculine jawline, defined cheekbones, straight nose, and subtle neatly trimmed beard. His skin has realistic pores, natural texture, and refined cinematic lighting.
+
+He wears an impeccably tailored {argument name="suit color" default="deep charcoal-black"} luxury suit, a crisp white premium dress shirt with the top button casually open, a sophisticated Swiss-style luxury wristwatch, minimal platinum or silver rings, and understated high-end accessories. The suit has perfect tailoring, rich fabric texture, elegant lapels, and a powerful yet effortless appearance.
+
+He sits naturally in a premium black leather executive chair behind a large dark walnut luxury desk, one hand holding a sleek smartphone near his ear as if engaged in an important business call, while the other rests casually on a premium leather notebook. A slim modern laptop sits on the desk.
+
+The office is transformed into a luxury CEO penthouse office with floor-to-ceiling glass windows overlooking a sophisticated city skyline, dark walnut architectural details, subtle marble surfaces, designer furniture, elegant abstract artwork, warm ambient lighting, and carefully arranged minimalist décor. Add a few tasteful green plants for contrast.
+
+Lighting: cinematic warm window light mixed with soft diffused studio illumination, subtle rim light around the hair and shoulders, realistic reflections on the watch and laptop, gentle shadows, premium luxury advertising aesthetic.
+
+Camera: eye-level perspective, medium-to-full body composition, 50mm professional portrait lens, shallow depth of field, sharp focus on the face, beautifully blurred luxury office background, natural proportions.
+
+Mood: wealthy, confident, intelligent, sophisticated, calm, powerful, understated elegance, modern billionaire/CEO aesthetic.
+
+Visual quality: ultra-photorealistic, cinematic color grading, HDR, extremely detailed skin texture, realistic fabric, realistic hands and fingers, natural facial anatomy, premium fashion photography, luxury magazine editorial, 8K detail, photorealistic, no artificial plastic skin, no excessive retouching, no text, no watermark.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2091112361855709315) | 2026-08-22
+
+---
+
+### 🏛️ 例 6719：奇幻卧室镜面自拍
+
+![奇幻卧室镜面自拍](../images/%E5%A5%87%E5%B9%BB%E5%8D%A7%E5%AE%A4%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级逼真的竖版镜面自拍，主角是一位 {argument name="subject" default="年轻女性"}，身处 {argument name="setting" default="温馨、奇幻的卧室"} 中。她留着一头自然的深棕色短卷发，凌乱的刘海柔和地修饰着脸庞，表情俏皮，嘴唇微微嘟起。她穿着一件 {argument name="outfit" default="装饰着多个蓬松白色毛球的超大款淡天蓝色针织毛衣"}，搭配高腰白色百褶裙。她戴着精致的珍珠项链、银色手镯和几枚色彩缤纷的戒指。
+
+她一手拿着智能手机，部分遮住脸庞，在大落地镜前自然地摆出姿势。镜子周围环绕着茂盛的人造常春藤，营造出梦幻般的植物边框。卧室背景中可以看到温暖的仙女灯、色彩鲜艳的手工彩虹装饰、欢快的蓝色花朵墙饰、一扇白色的门，以及镜中反射出的细致生活细节。
+
+柔和的室内暖光，略带复古数码相机质感，轻微的胶片颗粒感，柔和的粉彩色调，自然的皮肤纹理，逼真的卷发，细腻的针织面料，随性的社交媒体镜面摄影风格，温馨的青春氛围，浅景深，高度细节化，真实的比例，4:5 竖构图。
+
+[English]
+A photorealistic vertical mirror selfie of a {argument name="subject" default="young woman"} in a {argument name="setting" default="cozy, whimsical bedroom"}. She has short, naturally curly dark-brown hair with soft messy bangs framing her face, and a playful expression with gently puckered lips. She is wearing an {argument name="outfit" default="oversized pastel sky-blue knitted sweater decorated with multiple fluffy white pom-pom details"}, paired with a high-waisted white pleated skirt. She wears a delicate pearl necklace, silver bracelets, and several colorful rings.\n\nShe holds a smartphone in one hand, partially covering her face, while posing naturally in front of a large full-length mirror. The mirror is surrounded by lush artificial ivy vines, creating a dreamy botanical frame. The bedroom background features warm fairy lights, a colorful handmade rainbow decoration, a cheerful blue flower wall decoration, a white door, and subtle personal room details visible in the reflection.\n\nSoft warm indoor lighting, slightly vintage digital-camera aesthetic, gentle film grain, muted pastel tones, natural skin texture, realistic curly hair, detailed knitted fabric, candid social-media mirror photography, cozy youthful atmosphere, shallow depth of field, highly detailed, realistic proportions, vertical 4:5 composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2091110022889750959) | 2026-08-22
+
+---
+
+### 🏛️ 例 6730：雨中乡村小屋花园与绵羊
+
+![雨中乡村小屋花园与绵羊](../images/%E9%9B%A8%E4%B8%AD%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%B1%8B%E8%8A%B1%E5%9B%AD%E4%B8%8E%E7%BB%B5%E7%BE%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅郁郁葱葱的雨中花园电影级写实景观：画面中偏右位置坐落着一座浅鼠尾草绿色的小型波纹金属棚屋/小屋，屋顶呈陡峭的人字形，部分被潮湿茂密的灌木和树木遮挡，小屋设有一扇小方窗、一扇朴素的门，屋顶尖端有一个微小的风向标。小屋前方草地上站着一只白色的绵羊，面向左侧；门边放着一把绿色户外椅。前景是一个平静的深绿色池塘，占据了图像底部，倒映着饱和的植被。场景四周环绕着茂盛的深绿色叶片：左上角和右上角由大树勾勒轮廓，小屋周围是浓密的灌木丛，左侧是观赏草，右侧是圆形的苔藓状修剪植物。大雨以细长明亮的斜线贯穿整个画面，背景是逐渐淡入远方的朦胧蓝绿色山脉或森林。使用宽幅 {argument name="aspect ratio" default="16:9"} 构图，采用柔和的漫射阴天光线，呈现浓郁的翡翠色调，细节丰富，纹理自然，营造出宁静的魔幻现实主义氛围，画面中无人、无文字、无水印。主体应给人一种暴风雨中植物园内静谧隐秘避难所的感觉，包含 {argument name="weather" default="heavy rain"}、{argument name="building color" default="pale sage green"}、{argument name="animal" default="one white sheep"} 以及 {argument name="mood" default="peaceful and mysterious"}。
+
+[English]
+Create a cinematic photorealistic landscape in a lush rainy garden: a small pale sage-green corrugated metal shed/cottage with a steep gabled roof sits slightly right of center, partly hidden by dense wet shrubs and trees, with one small square window, one plain door, and a tiny weather vane on the roof peak. In front of the cottage is exactly one white sheep standing on the grass, facing left, and exactly one green outdoor chair beside the doorway. The foreground is a calm dark green pond occupying the bottom band of the image, reflecting the saturated vegetation. Surround the scene with abundant deep green foliage: large trees framing the top left and top right corners, thick bushes around the cottage, ornamental grasses on the left, and rounded mossy topiary-like plants on the right. Heavy rain falls diagonally across the entire frame as fine bright streaks, with a misty blue-green mountain or forested backdrop fading into the distance. Use a wide {argument name="aspect ratio" default="16:9"} composition, soft diffused overcast lighting, rich emerald tones, high detail, natural textures, serene magical realism atmosphere, no people, no text, no watermark. The main subject should feel like a quiet hidden refuge in a stormy botanical garden, with {argument name="weather" default="heavy rain"}, {argument name="building color" default="pale sage green"}, {argument name="animal" default="one white sheep"}, and {argument name="mood" default="peaceful and mysterious"}.
+```
+
+**来源：** [@Umesh](https://x.com/umesh_ai/status/2091044195628728558) | 2026-08-22
+
+---
+
+### 🏛️ 例 6745：蓝色马赛克花园浴池提示词
+
+![蓝色马赛克花园浴池提示词](../images/%E8%93%9D%E8%89%B2%E9%A9%AC%E8%B5%9B%E5%85%8B%E8%8A%B1%E5%9B%AD%E6%B5%B4%E6%B1%A0%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="湯庭"}の{argument name="スタイル" default="青いモザイク"}
+```
+
+**来源：** [@One Breath｜AI Portrait](https://x.com/OneBreath00/status/2091014526384898490) | 2026-08-22
+
+---
+
+### 🏛️ 例 6760：动漫龙主题休息室壁纸
+
+![动漫龙主题休息室壁纸](../images/%E5%8A%A8%E6%BC%AB%E9%BE%99%E4%B8%BB%E9%A2%98%E4%BC%91%E6%81%AF%E5%AE%A4%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 电影质感的精美动漫风格桌面壁纸。画面主角是 {argument name="character name" default="Kirara"}，一位美丽的年轻女性，留着一头乌黑亮丽的 {argument name="hair color" default="黑色"} 长发，配有柔和的刘海，自信地坐在奢华黑色皮沙发的右侧。她身穿一件无袖 {argument name="dress color" default="黄色"} 膝盖长度连衣裙，领口带有白色小翻领，内搭一件覆盖双臂和双腿的黑色透明蕾丝/网状连体衣。姿势设定为：一条腿交叉前伸，露出赤足，一只手肘靠在沙发扶手上，另一只手靠近脸庞，神情冷静优雅，面带微笑。场景设定在黄金时段一间富丽堂皇的日式休息室：温暖的木质墙板，透着阳光的障子窗，窗外可见绿叶树木，沙发正后方悬挂着一幅龙纹卷轴，左侧摆放着盆栽竹子和黑色台灯，右侧有一个装饰花瓶，插着开花的枝条。沙发为黑色皮革材质，两个扶手上刻有华丽的金色龙纹。前景铺设一张巨大的黑色地毯，上面绘有巨大的复杂 {argument name="rug motif" default="金龙"} 图案，细节刻画龙鳞、龙爪、龙须及漩涡状装饰纹样。采用戏剧性的暖色背光、柔和的阳光、浓郁的琥珀色阴影、高细节纹理、优雅的构图、浅景深，呈现出高级的桌面壁纸质感。无文字，无水印，无多余角色。
+
+[English]
+Create a cinematic 16:9 desktop wallpaper in polished anime style featuring {argument name="character name" default="Kirara"}, a beautiful young woman with long glossy {argument name="hair color" default="black"} hair and soft bangs, sitting confidently on the right side of a luxurious black leather sofa. She wears a sleeveless {argument name="dress color" default="yellow"} knee-length dress with a small white collar, layered over a sheer black full-body lace/net-pattern garment covering her arms and legs. Pose her with one leg crossed and extended forward, bare feet visible, one elbow resting on the sofa arm, one hand near her face, smiling calmly with a cool, elegant expression. Set the scene in an opulent Japanese-inspired lounge at golden hour: warm wooden wall panels, shoji-style windows glowing with sunlight, leafy trees visible outside, a hanging dragon scroll centered behind the sofa, a potted bamboo plant and black table lamp on the left, and a decorative vase with flowering branches on the right. The sofa is black leather with ornate gold dragon carvings on both armrests. In the foreground, place a large black rug with an enormous intricate {argument name="rug motif" default="gold dragon"} design spanning the floor, highly detailed scales, claws, whiskers, and swirling ornamental patterns. Use dramatic warm backlighting, soft sunbeams, rich amber shadows, high-detail textures, elegant composition, shallow depth of field, and a premium desktop wallpaper finish. No text, no watermark, no extra characters.
+```
+
+**来源：** [@手嶋海嶺（ゆっくり生命体）](https://x.com/TeshimaKairei/status/2090962936999399607) | 2026-08-22
+
+---
+

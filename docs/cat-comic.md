@@ -9149,3 +9149,23 @@ Constraints: Use exactly one main character holding exactly one manga page with 
 
 ---
 
+### 🎬 例 6749：动画电影分镜故事板
+
+![动画电影分镜故事板](../images/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%88%86%E9%95%9C%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为“{argument name="film title" default="THE TINY INVENTOR AND THE SLEEPING SUPERHERO"}”的 3D 动画短片第 2 部分，创作一张高细节的专业分镜故事板图像。
+此分镜故事板必须涵盖 {argument name="timestamp" default="0:15"} 的内容
+
+[English]
+Create a single high-detail professional storyboard sheet image for PART 2 of the original 3D animated short film titled “{argument name="film title" default="THE TINY INVENTOR AND THE SLEEPING SUPERHERO"}.”
+This storyboard sheet must cover {argument name="timestamp" default="0:15"}
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2091005867370119556) | 2026-08-22
+
+---
+

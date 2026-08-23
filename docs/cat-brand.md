@@ -18134,3 +18134,224 @@ Create a square album-cover illustration for {argument name="song title" default
 
 ---
 
+### 🏷️ 例 6691：《无头骑士异闻录》风格东京十字路口主视觉图
+
+![《无头骑士异闻录》风格东京十字路口主视觉图](../images/%E3%80%8A%E6%97%A0%E5%A4%B4%E9%AA%91%E5%A3%AB%E5%BC%82%E9%97%BB%E5%BD%95%E3%80%8B%E9%A3%8E%E6%A0%BC%E4%B8%9C%E4%BA%AC%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫主视觉图，灵感源自《无头骑士异闻录》（Durarara!!），场景设定在繁忙的池袋/涩谷风格东京十字路口，时间为正午，天空湛蓝且云朵稀疏。画面中共有五位主要角色分布在前景和中景：1）最左侧，一位身材瘦削、黑发的少年，身穿深色校服，双手插兜，背着单肩包，神情严肃，视线略微偏离镜头；2）左中位置，摩托车后方，一位开朗的金发少年穿着休闲校服，手持智能手机，面带微笑；3）前景中央，一位基于 {argument name="character name" default="塞尔提·史特路尔森"} 的无头女骑手，身穿亮面黑色皮质紧身衣，戴着带有金色猫耳和蓝色反光护目镜的头盔，坐在或倚靠在一辆炫酷的黑色未来感运动摩托车旁，颈部飘散着暗黑色的烟雾状触手；4）右中位置，一位害羞的黑发眼镜少女，身穿蓝色水手服，系着红色领结，双手抓着书包肩带；5）最右侧，一位高大的金发男子，身穿整洁的白色调酒师西装和黑色衬衫，戴着墨镜，肩上随意扛着一根金属路牌杆。采用极具张力的电影化视角，巨大的黑色摩托车占据画面下半部分，地面湿润且带有倒影，背景是密集的人群，头顶悬挂着红色的交通灯，高楼大厦上覆盖着色彩斑斓的日本霓虹灯广告牌和招牌，包括可见的店铺招牌，如 {argument name="store sign text" default="TSUTAYA"}。视觉风格：高细节现代动漫插画，线条锐利，高光质感，青色与洋红色调的城市灯光，写实的倒影，动态的城市纵深感，无边框或水印。氛围：时尚、酷炫、神秘，群像宣传海报。融入 {argument name="quote theme" default="世界并不像你想象的那么残酷"} 的氛围感，但无需添加大段可读的文字。
+
+[English]
+Create a polished anime key visual inspired by Durarara!!, set in a busy Ikebukuro/Shibuya-style Tokyo crossing at midday under a vivid blue sky with scattered clouds. The scene features exactly five main characters arranged across the foreground and midground: 1) at far left, a slim black-haired teenage boy in a dark school uniform, hands in pockets, carrying a shoulder bag, looking serious and slightly away from camera; 2) left-center behind the motorcycle, a cheerful blond teenage boy in casual school clothes holding a smartphone and smiling; 3) center foreground, a headless female rider based on {argument name="character name" default="Celty Sturluson"}, wearing a glossy black leather catsuit and a reflective gold cat-eared helmet with a blue mirrored visor, seated beside or leaning on a sleek black futuristic sport motorcycle, with dark smoky shadow tendrils drifting from the neck area; 4) right-center, a shy black-haired schoolgirl with glasses in a blue sailor-style uniform with red neck ribbon, holding her schoolbag straps; 5) far right, a tall blond man in an immaculate white bartender suit and black shirt, sunglasses, casually holding a metal street sign pole across one shoulder. Use dramatic cinematic perspective with the large black motorcycle dominating the lower half of the image, wet reflective pavement, dense pedestrian crowds in the background, red traffic light overhead, and towering buildings covered in colorful Japanese neon billboards and signs including visible shop signage such as {argument name="store sign text" default="TSUTAYA"}. Visual style: high-detail modern anime illustration, sharp linework, glossy highlights, saturated cyan-magenta city lighting, realistic reflections, dynamic urban depth, no borders or watermark. Mood: stylish, cool, mysterious, ensemble cast promotional poster. Include the quote atmosphere of {argument name="quote theme" default="The world is not as cruel a place as you think"} without adding large readable quote text.
+```
+
+**来源：** [@DRAGON@AIイラスト](https://x.com/DRAGON08636282/status/2091304823148990552) | 2026-08-22
+
+---
+
+### 🏷️ 例 6724：优雅旋转的动漫舞者
+
+![优雅旋转的动漫舞者](../images/%E4%BC%98%E9%9B%85%E6%97%8B%E8%BD%AC%E7%9A%84%E5%8A%A8%E6%BC%AB%E8%88%9E%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级动漫风格的全身插画，主角是 {argument name="character name" default="一位优雅的年轻女性"}，捕捉她在一个优雅且阳光明媚的大厅中进行旋转的瞬间。她回眸看向观众，表情平静且略带忧郁，身体随着舞蹈动态地扭转。她拥有 {argument name="hair color" default="深棕色的长发"}，随着旋转在空中划出巨大的弧线，许多细碎的发丝在光线下闪烁。她身穿一件合身的 {argument name="jacket color" default="深绯红色"} 定制西装外套，袖口带有金色纽扣，下摆因动作而向外张开，搭配一条蓬松的黑色及膝裙，裙摆内衬为淡淡的红色；裙子因旋转而扬起并呈螺旋状向外扩散。她穿着亮面黑色踝带高跟鞋，一只脚着地，另一只脚交叉在后，突显出优雅的转身。场景是一个室内走廊或宴会厅，左侧有高大的窗户，温暖的午后阳光倾泻而入，长方形的阴影投射在光亮的反射地面上，背景中是模糊的深色建筑立柱。在空中添加 7 片飘落的小红花瓣，以增强动感。采用戏剧性的逆光构图，发丝和衣物边缘带有温暖的轮廓光，展现逼真的织物褶皱、流动的布料动态、精致的面部特征、油画质感且高度细腻的渲染、浅景深、竖向肖像构图，无文字，无水印。
+
+[English]
+Create a cinematic anime-style full-body illustration of {argument name="character name" default="a graceful young woman"} captured mid pivot turn in an elegant sunlit hall. She is looking back over her shoulder toward the viewer with a calm, slightly wistful expression, her body twisted dynamically as if dancing. She has {argument name="hair color" default="long dark brown hair"} flowing dramatically in wide arcs from the spin, with many fine loose strands catching the light. Her outfit is a fitted {argument name="jacket color" default="deep crimson red"} tailored blazer with gold buttons on the cuffs, flaring open at the hem from the motion, paired with a voluminous black knee-length skirt with a subtle red inner lining; the skirt is lifted and spiraling outward from the pivot. She wears glossy black ankle-strap high heels, one foot planted and the other crossing behind, emphasizing the elegant turn. The scene is an interior corridor or ballroom with tall windows on the left, warm late-afternoon sunlight streaming in, long rectangular shadows on a polished reflective floor, and softly blurred dark architectural columns in the background. Add exactly 7 small red flower petals drifting through the air around her, enhancing the sense of motion. Use a dramatic backlit composition, warm rim lighting on hair and fabric edges, realistic fabric folds, flowing cloth dynamics, delicate facial features, painterly yet highly detailed rendering, shallow depth of field, vertical portrait framing, no text, no watermark.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2091075058185949691) | 2026-08-22
+
+---
+
+### 🏷️ 例 6728：深色科技风轮播图转视频幻灯片
+
+![深色科技风轮播图转视频幻灯片](../images/%E6%B7%B1%E8%89%B2%E7%A7%91%E6%8A%80%E9%A3%8E%E8%BD%AE%E6%92%AD%E5%9B%BE%E8%BD%AC%E8%A7%86%E9%A2%91%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张深色、高端的科技风轮播幻灯片，用于推广 {argument name="headline text" default="社交媒体轮播图转视频"}，品牌为 DSIV Music，包含电影质感的桌面生产力场景及指导性营销文案。
+
+画布：垂直 3:4 海报，尺寸约 900 × 1200 像素，木炭黑背景，带有细腻颗粒感，细灰色边框，隐约的几何弧线，十字准线标记，点阵网格装饰，以及温暖的琥珀色高光线条。
+
+布局：采用左侧重心的编辑排版，右侧放置产品模型。左上角显示品牌文字“DSIV”，下方为“MUSIC”；右上角显示“DSIVMUSIC.COM”。在品牌下方放置幻灯片编号“04”，并配有一条细水平线。下方添加一个琥珀色轮廓的小胶囊标签，文字为 {argument name="tool label" default="GPT Image 2 + HyperFrames"}。主标题位于左侧中心，采用非常醒目的白色粗体无衬线字体，分四行排列。下方添加副标题：{argument name="subheading text" default="通过动态效果、字幕和时间轴，将匹配的图片幻灯片转化为 TikTok、Reels 和 Shorts 短视频。"}
+
+右侧视觉：展示一台写实的深色显示器，以一定角度放置在桌面上，键盘和小型音频/控制设备处于阴影中。显示器上呈现轮播图转视频的编辑界面：顶部整齐排列 5 张垂直幻灯片卡片，编号分别为 01、02、03、04 和 05。卡片 01 显示“3 个 Codex 提示词”，下方小字为“音乐制作人真正能用的”；卡片 02 显示“大多数 AI 提示词太宽泛”；卡片 03 显示“生成更好的 MIDI 变体”；卡片 04 显示“构建会话路线图”；卡片 05 部分被截断，以“Turn...”开头，呈现出延伸到屏幕外的效果。卡片下方展示 3 行带标签的时间轴：“CAPTIONS”（字幕）、“MUSIC / VO”（音乐/配音）和“TRANSITIONS”（转场），包含米色字幕块、橙色音频波形以及紫色/灰色的小型转场块。
+
+中左侧区域：添加一条琥珀色短分割线，下方标注间距较大的大写标签“WHY IT WORKS”。下方列出 2 个核心优势，每项前加一个带圆圈的加号图标：“One idea, many formats”（一个创意，多种格式）和“Fast repurposing”（快速二次利用）。
+
+底部区域：添加一个带琥珀色轮廓的大型圆角矩形提示框。框内标题文字为“MAX PROMPT”。正文使用等宽打字机字体，内容为：“为 [TOPIC] 生成 5–8 张匹配的轮播幻灯片，保持排版、间距和视觉效果的一致性。然后创建一个 HyperFrames 序列，包含幻灯片时间轴、转场思路、动态字幕、音乐/配音时间轴以及用于垂直短视频的确定性渲染设置。”末尾添加一个终端风格的“>_”。左下角页脚显示“@DSIVMUSIC”；右下角有一个小型抽象圆形 DSIV 风格标识。
+
+视觉风格：简洁的黑白 SaaS/创作者经济美学，高对比度排版，温暖的琥珀色点缀，显示器和桌面具有细腻的摄影写实感，干净的现代瑞士网格构图，电影级灯光，清晰易读的文字，除 DSIV 品牌外无其他多余 Logo。
+
+[English]
+Goal: Create a dark, premium tech carousel slide promoting {argument name="headline text" default="Social media carousels as video"}, branded as DSIV Music, with a cinematic desktop-production setup and instructional marketing copy.
+
+Canvas: Vertical 3:4 poster, about 900 × 1200 px, black charcoal background with subtle grain, thin gray border, faint geometric arcs, crosshair marks, dotted grid accents, and warm amber highlight lines.
+
+Layout: Use a left-heavy editorial layout with a product mockup on the right. Top left shows the brand text “DSIV” with “MUSIC” beneath it; top right shows “DSIVMUSIC.COM”. Under the brand, place the slide number “04” with a thin horizontal rule. Below that, add a small outlined amber pill label reading {argument name="tool label" default="GPT Image 2 + HyperFrames"}. The main headline occupies the left center in very large bold white sans-serif type across four lines. Beneath it, add the subheading: {argument name="subheading text" default="Turn matching image slides into TikToks, Reels, and Shorts with motion, captions, and timing."}
+
+Right visual: Show a realistic dark monitor angled slightly in perspective on a desk, with a keyboard and small audio/control device in shadow. On the monitor, display a carousel-to-video editing interface: exactly 5 vertical slide cards across the top, numbered 01, 02, 03, 04, and 05. Card 01 reads “3 Codex prompts” with smaller text “music producers can actually use”; card 02 reads “Most AI prompts are too broad.”; card 03 reads “Generate better MIDI variations”; card 04 reads “Build a session roadmap”; card 05 is partially cropped and begins with “Turn...” as if continuing offscreen. Below the cards, show exactly 3 labeled timeline rows: “CAPTIONS”, “MUSIC / VO”, and “TRANSITIONS”, with beige caption blocks, an orange audio waveform, and small purple/gray transition blocks.
+
+Middle-left section: Add a small amber divider line, then the spaced uppercase label “WHY IT WORKS”. Under it list exactly 2 benefits, each preceded by a circled plus icon: “One idea, many formats” and “Fast repurposing”.
+
+Bottom section: Add a large rounded rectangle prompt box outlined in amber. Header text inside the box says “MAX PROMPT”. Body text uses a monospaced typewriter style and reads: “Generate 5–8 matching carousel slides for [TOPIC] with consistent typography, spacing, and visuals. Then create a HyperFrames sequence with slide timing, transition ideas, kinetic captions, music/VO timing, and deterministic render settings for a vertical short-form video.” End with a small terminal-style “>_”. Bottom left footer reads “@DSIVMUSIC”; bottom right has a small abstract circular DSIV-style mark.
+
+Visual style: Sleek black-and-white SaaS/creator-economy aesthetic, high contrast typography, warm amber accents, subtle photographic realism on the monitor and desk, clean modern Swiss grid composition, cinematic lighting, crisp legible text, no extra logos beyond DSIV branding.
+```
+
+**来源：** [@DSIV](https://x.com/dsivmusic/status/2091055266985103567) | 2026-08-22
+
+---
+
+### 🏷️ 例 6736：动漫涂鸦与真实照片融合
+
+![动漫涂鸦与真实照片融合](../images/%E5%8A%A8%E6%BC%AB%E6%B6%82%E9%B8%A6%E4%B8%8E%E7%9C%9F%E5%AE%9E%E7%85%A7%E7%89%87%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为精确的背景参考。保留原始真实环境、建筑、透视、光影、色彩、阴影及相机构图。
+
+将一个可爱、时尚的黑白手绘动漫涂鸦女孩自然地添加到真实照片中。角色应看起来像是一个被放置在现实场景中的 2D 水墨插画，从而创造出逼真的真人照片与手绘插画的融合效果。
+
+角色风格：
+- 干净的黑色墨水线条艺术
+- 白色/极浅的内部填充，极简阴影
+- {argument name="character aesthetic" default="韩式/日式漫画风格美学"}
+- 自然、优雅的比例
+- 飘逸的长黑发
+- 简单的面部特征，眼神生动
+- 角色全身有清晰可见的黑色轮廓，如同手工剪裁的贴纸
+- 略带不完美的手绘线条，营造真实的速写本质感
+- 角色除黑白外不含任何色彩
+
+角色融合：
+- 使角色的比例、透视和位置与照片相匹配
+- 确保她的双脚与地面/楼梯自然接触
+- 通过自然的阴影和重叠的透视关系，增加与环境的真实互动
+- 保持背景完全为摄影风格且细节丰富
+- 请勿将背景转换为动漫或插画风格
+- 角色应呈现出仿佛一个手绘人物走进了真实照片中的效果
+
+服装方面，请使用适合拍摄地点的休闲现代街头服饰。如果参考图中有所指定，请保留可辨识的服装细节，如超大号 T 恤、牛仔裤、运动鞋、单肩包、球衣号码或配饰。
+
+构图：
+- 尽可能展示角色全身
+- 角色自然地放置在前景或中景位置
+- 保持原始的地标、体育场、建筑、楼梯、树木、天空、广告及周围环境清晰可见
+- 维持原始照片的广角构图
+- 明亮的自然日光
+- 清晰的细节
+- 逼真的摄影背景
+- 单色插画角色与彩色真实环境之间形成强烈对比
+
+整体美学：电影感旅行摄影 + 韩式街拍 + 黑白漫画线条艺术 + 剪贴簿/贴纸插画，具有无缝的透视和光影融合效果。
+
+请勿将整张图像处理成卡通风格。仅角色应为插画效果；其余部分必须保持照片级真实感。
+
+[English]
+Use the uploaded photo as the exact background reference. Preserve the original real-life environment, architecture, perspective, lighting, colors, shadows, and camera composition.\n\nAdd a {argument name="character style" default="cute, stylish black-and-white hand-drawn anime doodle girl"} naturally into the real photograph. The character should look like a 2D ink illustration placed physically inside the real-world scene, creating a realistic live-action photo + hand-drawn illustration fusion.\n\nCharacter style:\n- Clean black ink line art\n- White/very light interior with minimal shading\n- Cute Korean/Japanese manga-inspired aesthetic\n- Natural, elegant proportions\n- Long flowing dark hair\n- Simple facial features with expressive eyes\n- Clearly visible black outline around the entire character, like a hand-cut sticker\n- Slightly imperfect hand-drawn lines for an authentic sketchbook feel\n- No colors on the character except black and white\n\nCharacter integration:\n- Match the character's scale, perspective, and position to the photograph\n- Make her feet properly contact the ground/stairs\n- Add realistic interaction with the environment through natural shadows and overlapping perspective\n- Keep the background completely photographic and detailed\n- Do not turn the background into anime or illustration\n- The character should appear as if a hand-drawn person has stepped into the real photograph\n\nFor the outfit, use {argument name="outfit" default="casual modern streetwear"} appropriate for the location. Preserve recognizable clothing details such as oversized T-shirts, jeans, sneakers, shoulder bag, jersey numbers, or accessories when specified in the reference image.\n\nComposition:\n- Full-body character when possible\n- Character positioned naturally in the foreground or middle ground\n- Keep the original landmark, stadium, buildings, stairs, trees, sky, advertisements, and surroundings clearly visible\n- Maintain the original photograph's wide-angle composition\n- Bright natural daylight\n- Crisp details\n- Realistic photographic background\n- Strong contrast between the monochrome illustrated character and colorful real environment\n\nOverall aesthetic: cinematic travel photography + Korean street photography + monochrome manga line art + scrapbook/sticker illustration, with seamless perspective and lighting integration.\n\nDo not make the entire image cartoon-like. Only the character should be illustrated; everything else must remain photorealistic.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2091031110688137680) | 2026-08-22
+
+---
+
+### 🏷️ 例 6743：一级方程式赛车胜利庆典
+
+![一级方程式赛车胜利庆典](../images/%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%B5%9B%E8%BD%A6%E8%83%9C%E5%88%A9%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超逼真的电影级肖像，主角是 {argument name="driver name" default="Loryane"}，一位红发的 {argument name="team" default="Ferrari"} 一级方程式赛车手，正在领奖台上庆祝她的比赛胜利。她身穿红色的 Ferrari 赛车服，上面带有赞助商标志（Shell、Santander、Pirelli、Ferrari），头戴白色 Ferrari 棒球帽，脸上洋溢着喜悦的笑容，正将香槟喷向空中，形成动态的、定格的闪亮水滴。背景是模糊的一级方程式领奖台，配以柔和的灯光和焦外成像效果，营造出激动人心的胜利氛围。摄像机角度：中近景（腰部以上），略微倾斜以捕捉香槟喷洒的动态。光影：自然日光，香槟雾气上有强烈的反射，暖色调高光突显她的红发。表情：真诚的快乐与肾上腺素飙升。构图：竖屏（9:16），电影级景深，高速快门下的真实感，清晰可见的水滴和动态模糊。关键词：Ferrari 胜利庆典，香槟喷洒，逼真的赛车肖像，一级方程式女车手，红色赛车服，动态运动，电影级光影，喜悦表情，体育胜利。负面提示词：无深色背景，无卡通外观，无脸部裁剪，无头盔，无夸张的动态模糊，无五彩纸屑，无过近的观众，无单色调。
+
+[English]
+Ultra-realistic cinematic portrait of {argument name="driver name" default="Loryane"}, a red-haired {argument name="team" default="Ferrari"} Formula 1 driver, celebrating her race victory on the podium. She is wearing her red Ferrari racing suit with sponsor patches (Shell, Santander, Pirelli, Ferrari) and a white Ferrari cap, smiling with joy as she sprays champagne into the air, creating dynamic sparkling droplets frozen in motion. The background shows a blurred Formula 1 podium with soft lighting and bokeh effect, evoking excitement and triumph. Camera angle: mid-close shot (from waist up), slightly diagonal to capture motion of the champagne spray. Lighting: natural daylight with strong reflections on the champagne mist, warm highlights accentuating her red hair. Expression: genuine happiness and adrenaline. Composition: vertical (9:16), cinematic depth of field, high-speed shutter realism, visible droplets and motion blur. Keywords: Ferrari victory celebration, champagne spray, realistic racing portrait, female Formula 1 driver, red suit, dynamic motion, cinematic lighting, joyful expression, sports triumph. Negative Prompts: no dark background, no cartoon look, no cropped face, no helmet, no exaggerated motion blur, no confetti, no audience too close, no monochrome tone.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2091022117341122742) | 2026-08-22
+
+---
+
+### 🏷️ 例 6756：动态新闻故事板表
+
+![动态新闻故事板表](../images/%E5%8A%A8%E6%80%81%E6%96%B0%E9%97%BB%E6%95%85%E4%BA%8B%E6%9D%BF%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色基础，为 {argument name="video duration" default="15 秒"} 的 4:3 广告视频创建一个完整的动画编辑风格动态排版故事板表。保持 Pepe 的角色设计、服装、比例、配色、街头服饰风格和充满活力的动作姿势与参考图一致，但将其置于醒目的模块化新闻品牌宣传布局中。
+
+目标：设计一个深海军蓝色的项目，标题为 {argument name="brand header" default="MODULAR DAILY NEWS"}，副标题为“STORYBOARD COMPLETO · 18 QUADROS”，右上角附带小字备注“ANIME EDITORIAL + KINETIC TYPE / 15 SEGUNDOS · 4:3”。使用深海军蓝、白色、黑色墨迹线条以及明亮的青色/绿色点缀的高对比度配色方案。
+
+布局：创建 18 个故事板面板，排列成 3 行 6 列的网格。每个面板必须有细边框、动态漫画/动画运动线条、撕纸或笔触风格的排版，底部带有包含帧编号、时间戳和动作标签的小型说明栏。
+
+故事板面板，共 18 帧：
+1. “01 — 00:00.000 — ARRANCADA”：Pepe 在深色速度线中向前冲刺。
+2. “02 — 00:00.800 — CRYPTO RASGA”：Pepe 撕开巨大的对角线“CRYPTO”字样。
+3. “03 — 00:01.600 — CRYPTO ONDA”：青色波浪背景，带有像波浪一样弯曲的“CRYPTO”字样。
+4. “04 — 00:02.400 — IA DESPENCA”：巨大的“IA”字母向下坠落。
+5. “05 — 00:03.200 — CHICOTE IA”：Pepe 在扫过的“IA”动态鞭影旁贴地滑行。
+6. “06 — 00:04.000 — VÓRTICE NOTÍCIAS”：Pepe 坠入由重复的“NOTÍCIAS”组成的圆形漩涡中。
+7. “07 — 00:04.800 — NOTÍCIAS EXPELEM”：Pepe 从“NOTÍCIAS”文字螺旋中被发射出来。
+8. “08 — 00:05.600 — ONDA CURADORIA”：巨大的扭曲“CURADORIA”文字，Pepe 在青色波浪下。
+9. “09 — 00:06.400 — QUEDA CURADORIA”：Pepe 在布满破碎“CURADORIA”字母的青色场地上翻滚。
+10. “10 — 00:07.200 — DEFI REBATE”：巨大的“DEFI”文字，Pepe 在青色圆环上方弹跳。
+11. “11 — 00:08.000 — OPORTUNIDADES RASGAM”：圆形的“OPORTUNIDADES”排版撕裂，Pepe 从中冲出。
+12. “12 — 00:08.800 — TÚNEL EM PORTUGUÊS”：由重复的“EM PORTUGUÊS”文字组成的隧道。
+13. “13 — 00:09.600 — LEVE E MODERNA”：围绕 Pepe 循环显示的“LEVE”和“MODERNA”排版。
+14. “14 — 00:10.400 — TODO DIA IMPULSIONA”：Pepe 在重复的“TODO DIA”排版中被向上发射。
+15. “15 — 00:11.200 — CRYPTO + IA”：分割构图，“CRYPTO”和“IA”发生碰撞。
+16. “16 — 00:12.000 — NEWS SE MONTA”：Pepe 倒挂在巨大的正在组装的“NEWS”字母之间。
+17. “17 — 00:13.200 — DAILY RASGA A TELA”：Pepe 撕开青色画布，露出 DailyNews 标志。
+18. “18 — 00:14.200 — LEIA AGORA”：最终行动号召卡片，Pepe 站在左侧，右上角为 {argument name="logo text" default="DailyNews"} 标志，文案为“CRYPTO E IA. TODO DIA.”以及醒目的 CTA {argument name="call to action" default="LEIA AGORA"}。
+
+风格限制：使其看起来像精致的广告故事板，而非漫画页；使用电影级帧构图、动态编辑字体、大胆的透视变形、速度轨迹、墨迹飞溅、青色高光线条以及整洁的制作项目标签。请勿添加额外的面板、额外的角色、水印或不相关的文字。
+
+[English]
+Using REFERENCE_0 as the character base, create a complete anime-editorial kinetic-typography storyboard sheet for a {argument name="video duration" default="15 seconds"} 4:3 advertising video. Keep the Pepe character design, outfit, proportions, colors, streetwear styling, and energetic action poses consistent with the reference, but place him into a bold modular news-brand campaign layout.
+
+Goal: Design a dark navy presentation board titled {argument name="brand header" default="MODULAR DAILY NEWS"}, with the subtitle “STORYBOARD COMPLETO · 18 QUADROS” and a small top-right note “ANIME EDITORIAL + KINETIC TYPE / 15 SEGUNDOS · 4:3”. Use a high-contrast palette of deep navy, white, black ink strokes, and bright teal/green accents.
+
+Layout: Create exactly 18 storyboard panels arranged in a 3-row by 6-column grid. Each panel must have a thin border, dynamic manga/anime motion lines, ripped-paper or brush-stroke typography, and a small caption strip at the bottom with frame number, timestamp, and action label.
+
+Storyboard panels, exactly 18:
+1. “01 — 00:00.000 — ARRANCADA”: Pepe sprinting forward through dark speed lines.
+2. “02 — 00:00.800 — CRYPTO RASGA”: Pepe tearing through a huge diagonal “CRYPTO” word.
+3. “03 — 00:01.600 — CRYPTO ONDA”: teal wave background with “CRYPTO” bending like a wave.
+4. “04 — 00:02.400 — IA DESPENCA”: giant falling “IA” letters crashing downward.
+5. “05 — 00:03.200 — CHICOTE IA”: Pepe low to the ground beside a sweeping “IA” motion whip.
+6. “06 — 00:04.000 — VÓRTICE NOTÍCIAS”: Pepe falling into a circular vortex of repeated “NOTÍCIAS”.
+7. “07 — 00:04.800 — NOTÍCIAS EXPELEM”: Pepe being launched from a “NOTÍCIAS” text spiral.
+8. “08 — 00:05.600 — ONDA CURADORIA”: large warped “CURADORIA” text with Pepe under a teal wave.
+9. “09 — 00:06.400 — QUEDA CURADORIA”: Pepe tumbling across a teal field with broken “CURADORIA” letters.
+10. “10 — 00:07.200 — DEFI REBATE”: huge “DEFI” text, Pepe bouncing above teal rings.
+11. “11 — 00:08.000 — OPORTUNIDADES RASGAM”: circular “OPORTUNIDADES” typography tearing open with Pepe bursting through.
+12. “12 — 00:08.800 — TÚNEL EM PORTUGUÊS”: tunnel of repeated “EM PORTUGUÊS” text.
+13. “13 — 00:09.600 — LEVE E MODERNA”: looping typography reading “LEVE” and “MODERNA” around Pepe.
+14. “14 — 00:10.400 — TODO DIA IMPULSIONA”: Pepe launched upward inside repeated “TODO DIA” typography.
+15. “15 — 00:11.200 — CRYPTO + IA”: split composition with “CRYPTO” and “IA” colliding.
+16. “16 — 00:12.000 — NEWS SE MONTA”: Pepe hanging upside down among huge assembling “NEWS” letters.
+17. “17 — 00:13.200 — DAILY RASGA A TELA”: Pepe tearing open a teal canvas revealing the DailyNews logo.
+18. “18 — 00:14.200 — LEIA AGORA”: final call-to-action card with Pepe standing at left, the {argument name="logo text" default="DailyNews"} logo at top right, and the copy “CRYPTO E IA. TODO DIA.” plus the large CTA {argument name="call to action" default="LEIA AGORA"}.
+
+Style constraints: Make it look like a polished advertising storyboard, not a comic page; use cinematic frame composition, kinetic editorial lettering, bold perspective distortion, speed trails, ink splatters, teal highlight strokes, and clean production-board labeling. Do not add extra panels, extra characters, watermarks, or unrelated text.
+```
+
+**来源：** [@Nett0](https://x.com/nett0eth/status/2090982873255887020) | 2026-08-22
+
+---
+

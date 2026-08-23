@@ -7673,3 +7673,181 @@ Feels like a luxury travel postcard painted by hand with pastel colors.
 
 ---
 
+### 🧸 例 6699：等轴测玩具积木重构
+
+![等轴测玩具积木重构](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E7%8E%A9%E5%85%B7%E7%A7%AF%E6%9C%A8%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、空间关系、真实材质、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，按照“解构—筛选—提炼—重构”的逻辑，转化为具有 **3D / isometric 空间感的治愈系积木雕塑**。重点保留主体最独特的体量比例、轴线、曲线、穿插、层叠、遮挡与负空间，以圆润、简洁、具有触感的模块化体块重新组织；不完整复刻细节，但必须一眼感受到与上方原图的对应。
+
+构图根据主体自身的视觉重心、姿态方向和空间关系自适应设计，通过大小体块、高低错层、前后穿插、局部悬浮、疏密变化与大面积留白建立节奏。积木可以拼接、叠放、嵌套、穿越或自然错位，使主体既保留身份，又具有当代艺术玩具般的雕塑感和轻松想象力，避免机械拆件和简单像素化。
+
+**配色必须从上方原图本身分析产生。** 先识别照片中最有生命力、最有辨识度的主色关系，以及综合色温、明度层级、冷暖呼应和关键点色，再将这些颜色重新调制为更柔和、清澈、明亮、有空气感的治愈色彩体系。保留原图的色相身份与情绪记忆，但适度提高明度、降低刺眼对比、净化灰脏杂色，使颜色呈现温柔、童趣、轻盈而高级的感觉。不同照片应自然得到不同配色，不固定使用任何预设色卡，也不要为了“治愈感”强行加入原图不存在的颜色。
+
+色彩通过**主色面积、辅助色层次、同源深浅与极少量鲜活点色**建立节奏，让主体看起来丰富但不杂乱、可爱但不甜腻、柔和但有精气神。积木材质采用细腻哑光、柔和漫反射的质感，带轻微纸浆、木质、粉蜡或柔性材料般的触感，边角圆润、阴影轻柔，避免塑料高光、金属感、厚重CG和廉价玩具质感。
+
+文字建立轻盈的高级编辑式微排版系统，从照片的光影、动作、空间、情绪或象征意义中提炼一个2–5词的标题，并搭配少量状态词、地点、编号、方向词或微型注释，不使用年份。文字可沿积木边缘、模块缝隙、视觉轴线或负空间排列，也可与体块形成穿插、遮挡与对齐，让文字自然成为积木构图的一部分。
+
+整体呈现 **真实摄影 × 治愈积木 × isometric空间 × 原图色彩转译 × 高级编辑设计** 的视觉气质，温柔、轻盈、童趣、安静、精致、有想象力但不幼稚。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应从原图自身的结构与色彩中发展出独特的积木组合和配色方式，避免固定色卡、乐高式复制、儿童卡通、电商玩具展示感和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2091180646626627732) | 2026-08-22
+
+---
+
+### 🧸 例 6704：《权力的游戏》等距视角地图立体模型
+
+![《权力的游戏》等距视角地图立体模型](../images/%E3%80%8A%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E3%80%8B%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E5%9C%B0%E5%9B%BE%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个超精细、超写实的等距视角微缩比例模型地图，呈现来自 {argument name="TV show" default="Game of Thrones"} 的世界，悬浮在纯净温暖的米白色摄影棚背景上，下方带有柔和的投影。
+
+画布：竖版海报构图，4:5 比例，居中的立体模型占据下三分之二，上方三分之一为大型标题排版。使用干净的摄影棚灯光、逼真的阴影、浅而清晰的景深，呈现高端收藏级桌面模型质感。
+
+标题文本：顶部设置间距较宽的小号大写文本 {argument name="world label" default="WESTEROS & ESSOS"}。下方放置巨大的高瘦衬线/奇幻风格标题 {argument name="main title" default="GAME OF THRONES"}，采用深炭灰色并带有轻微的风化纹理；将 THRONES 中的 O 设计为类似铁王座垂直剑刃的图案。在主标题下方，添加间距较宽的小号文本 {argument name="subtitle" default="HBO | 2011"}。
+
+地图布局：构建两个由蓝色海洋隔开的独立凸起陆地模型。左侧为维斯特洛，狭长，顶部为雪域北部，有类似长城的冰封边界、崎岖的绿色中部地带、蜿蜒的浅色道路、山脊、森林、湖泊、城堡微缩模型，底部为较温暖的南部沙漠。右侧为厄索斯，更宽且呈横向，有锯齿状的中部山脉、东部干燥的黄橙色平原、西部绿褐色地形、河流、道路、要塞城市、金字塔、塔楼和废墟。两块大陆均有厚实的雕刻悬崖边缘，呈现剖面地形，侧面为岩石棕色，并点缀有微小的沿海岛屿。
+
+需包含的独立元素：在地图上精确放置 10 个纹章旗帜标记：维斯特洛 6 个，厄索斯 4 个。维斯特洛旗帜：雪域北部区域一个黑色旗帜，中上部区域一个黄蓝旗帜，中部区域一个红色狮子旗帜，中西部城堡附近一个深红色旗帜，中下部区域一个蓝色旗帜，南部城堡一个红色狮子旗帜。厄索斯旗帜：山脉区域一个深蓝色旗帜，右上角城市一个红色旗帜，右侧城市一个绿色旗帜，中下部城市一个蓝金旗帜。在周围海域及大陆之间散布精确 24 艘微型帆船和小船，均为微缩比例且大小各异。
+
+视觉风格：超写实微缩模型感，等距四分之三俯视视角，高度精细的地形纹理，微小的城堡与定居点，清晰的道路与河流，柔和的奇幻地图配色，蓝色水域，雪白北部，赭石沙漠，苔藓绿，岩石灰，以及微妙的环境阴影。立体模型应呈现出手工制作的博物馆级道具或 {board} 地图的质感，而非平面插画。
+
+约束条件：无人像，无现代物品，无水印，无 UI，无边框。保持所有文本清晰且居中。背景必须保持简洁的米白色，并在标题和悬浮地图周围留出充足的负空间。
+
+[English]
+Goal: Create an ultra-detailed photorealistic isometric miniature scale-model diorama map of the world from {argument name="TV show" default="Game of Thrones"}, floating on a pure warm off-white studio background with a soft drop shadow beneath.
+
+Canvas: Vertical poster composition, 4:5 aspect ratio, centered diorama occupying the lower two-thirds and large title typography in the upper third. Use clean studio lighting, realistic shadows, shallow but readable depth, and a premium collectible tabletop model look.
+
+Title text: At the top, set small spaced uppercase text reading {argument name="world label" default="WESTEROS & ESSOS"}. Below it, place a huge tall condensed serif/fantasy title reading {argument name="main title" default="GAME OF THRONES"}, dark charcoal with slightly weathered texture; make the O in THRONES resemble the Iron Throne vertical blade motif. Beneath the main title, add small spaced text reading {argument name="subtitle" default="HBO | 2011"}.
+
+Map layout: Build two separate raised landmass miniatures divided by blue sea. On the left is Westeros, tall and narrow, with a snowy northern region at the top, a wall-like icy boundary, rugged green central lands, winding pale roads, mountain ridges, forests, lakes, castle miniatures, and a warmer southern desert region at the bottom. On the right is Essos, wider and more horizontal, with jagged central mountains, dry yellow-orange plains to the east, green-brown western terrain, rivers, roads, fortified cities, pyramids, towers, and ruins. Both continents have thick carved cliff edges like cutaway terrain, rocky brown sides, and tiny coastal islands.
+
+Discrete elements to include: Use exactly 10 heraldic banner markers placed across the map: 6 on Westeros and 4 on Essos. Westeros banners: one black northern banner in the snowy top region, one yellow-and-blue banner in the upper central region, one red lion banner in the central region, one dark red banner near the central-west castle, one blue banner in the lower central region, and one red lion banner at the southern castle. Essos banners: one dark blue banner in the mountain region, one red banner in the far upper-right city, one green banner at the right-side city, and one blue-gold banner in the lower central city. Add exactly 24 tiny sailing ships and boats scattered in the surrounding seas and between the continents, all miniature scale and varied in size.
+
+Visual style: Hyper-real miniature realism, isometric three-quarter top-down view, highly detailed terrain texture, tiny castles and settlements, crisp roads and rivers, muted fantasy-map colors, blue water, snow white north, ochre desert, mossy greens, rocky grays, and subtle atmospheric shadows. The diorama should feel like a handcrafted museum-quality prop or board-game map, not a flat illustration.
+
+Constraints: No people, no modern objects, no watermark, no UI, no border frame. Keep all text legible and centered. The background must remain plain off-white with ample negative space around the title and floating map.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2091167214195847433) | 2026-08-22
+
+---
+
+### 🧸 例 6705：发光龙猫机器人手办模型
+
+![发光龙猫机器人手办模型](../images/%E5%8F%91%E5%85%89%E9%BE%99%E7%8C%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E5%8A%9E%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级高端收藏手办产品照，主角为悬浮的机器人版 {argument name="character name" default="龙猫"}，将其重构为一款光泽感黑色蒸汽朋克/机甲风格的猫型森林精灵玩具，拥有圆润的身体、灰白色的肚皮，可见金属面板接缝、划痕、铆钉及磨损边缘。该手办拥有 2 只发着温暖琥珀色光芒的圆形 LED 眼睛，头顶有 2 只高耸的黑色圆锥状耳朵/角，咧开的大嘴露出奶油色的长方形牙齿，长着细长的黑色胡须，拥有 2 只向外伸展的节段式机械手臂，以及带有 5 个尖爪的钉状爪手。肚皮上包含 7 个温暖发光的月牙形 LED 切口，排列成经典的龙猫胸部花纹。机器人悬浮在一个圆形黑色展示底座上的精致微缩景观模型上方：底座上有微小的森林丘陵、蜿蜒的蓝色河流、小屋、朦胧的云雾和烟雾效果。身体下方有 2 团明亮的橙色喷射火焰，底部伴有蒸汽云，手办后方可见 3 根透明的弧形亚克力支撑杆。场景设定在 {argument name="background setting" default="带有河流和远方湖泊的日落山谷"}，背景为橙粉色的云彩、地平线附近的低垂太阳以及温暖的反射光。采用浅景深、逼真的摄影棚微距摄影效果、高级树脂手办工艺、电影级布光、柔和的焦外成像、高细节纹理，构图为方形竖构图，无文字，无水印。
+
+[English]
+Create a cinematic high-end collectible figure product photo of a floating robot version of {argument name="character name" default="Totoro"}, reimagined as a glossy black steampunk/mecha cat-forest spirit toy with a round body, off-white belly, visible metal panel seams, scratches, rivets, and worn edges. The figure has exactly 2 glowing warm amber circular LED eyes, exactly 2 tall black cone ears/horns on top, a wide toothy grin with cream rectangular teeth, thin black whiskers, exactly 2 outstretched segmented mechanical arms, and spiked claw hands with 5 pointed claws on each hand. The belly contains exactly 7 warm glowing crescent-shaped LED cutouts arranged like the classic Totoro chest markings. The robot is hovering above a detailed miniature landscape diorama on a round black display base: tiny forested hills, a winding blue river, small houses, misty clouds, and smoke effects. Under the body are exactly 2 bright orange jet flames, with vapor clouds below, and exactly 3 transparent curved acrylic support rods visible behind the figure. Set the scene against a dramatic {argument name="background setting" default="sunset mountain valley with a river and distant lake"}, with orange-pink clouds, a low sun near the horizon, and warm reflected light. Use shallow depth of field, realistic studio macro photography, premium resin figure craftsmanship, cinematic lighting, soft bokeh, highly detailed textures, square vertical composition, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2091166918866845854) | 2026-08-22
+
+---
+
+### 🧸 例 6727：足球队徽景观立体模型
+
+![足球队徽景观立体模型](../images/%E8%B6%B3%E7%90%83%E9%98%9F%E5%BE%BD%E6%99%AF%E8%A7%82%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高细节的写实等轴测微缩比例模型立体透视画，外形完全依照 {argument name="club name" default="[俱乐部名称]"} 的官方徽章轮廓制作 —— 并非方形底座，而是徽章真实的精确剪影，向下挤压成厚实的板材，边缘呈现粗糙的自然悬崖质感，仿佛徽章被物理切割并提取出来。板材精确地遵循了真实徽章的每一处曲线、尖角和细节。
+
+整个顶面是一个细节丰富的微缩景观，仅使用俱乐部官方配色 —— {argument name="primary color" default="[主色]"} 和 {argument name="secondary color" default="[辅色]"} 进行渲染。每一处表面、建筑、道路、树木、场地和地形特征都严格限制在此调色板内。不使用真实的自然色彩 —— 所有元素均重新映射为俱乐部的配色。地形依然保留完整的物理细节：海拔变化、微型建筑、道路、树木、广场以及遍布各处的微观细节 —— 但这一切仅存在于俱乐部的配色方案中，营造出一个梦幻般的单色世界。
+
+风格：超写实移轴微缩摄影 —— 极其锐利，全画面聚焦，无模糊。上方采用柔和温暖的摄影棚灯光，带有轻柔的漫反射阴影。调色板严格且统一 —— 以 [主色] 为主导，[辅色] 作为贯穿始终的装饰色。
+
+布局：徽章形状的立体模型悬浮在画面下方三分之二处，背景为纯净的灰白色摄影棚背景，下方带有柔和的投影，四周留有清晰的边距。上方三分之一为留白的灰白色空间，配以极简主义的编辑排版，居中对齐：最上方为小号宽字距大写字母的联赛名称，下方为粗体压缩无衬线字体的 [俱乐部名称]，颜色为中炭灰色 —— 醒目且占据主导地位 —— [国家] 的小型扁平矩形旗帜位于俱乐部名称右侧，垂直居中，大小与俱乐部名称的大写字母高度一致。下方为小号宽字距大写字母标注的成立年份和所在城市。
+
+极简主义编辑海报美学，优质印刷品质，4:5 纵横比。
+
+[English]
+Ultra-detailed photorealistic isometric miniature scale-model diorama shaped exactly like the official crest outline of {argument name="club name" default="[CLUB NAME]"} — not a square tile, but the true precise silhouette of the badge, extruded downward into a thick slab with rough natural cliff-like edges, like the crest physically cut out and lifted. The slab follows every curve, point and detail of the real crest shape precisely.
+
+The entire top surface is a richly detailed miniature landscape rendered exclusively in {argument name="club name" default="[CLUB NAME]"}'s official club colors — {argument name="primary color" default="[PRIMARY COLOR]"} and {argument name="secondary color" default="[SECONDARY COLOR]"}. Every surface, building, road, tree, field and terrain feature is tinted and colored strictly within this palette. No realistic natural colors — everything is remapped to the club's colors. The terrain still has full physical detail: elevation changes, tiny buildings, roads, trees, plazas, micro-detail throughout — but all of it exists only in the club color palette, creating a dreamlike monochromatic world in those colors.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm studio lighting from above, gentle diffuse shadows. The color palette is strict and unwavering — {argument name="primary color" default="[PRIMARY COLOR]"} dominates, {argument name="secondary color" default="[SECONDARY COLOR]"} as accent throughout.
+
+Layout: the crest-shaped diorama floats centered in the lower two-thirds of the frame on a pure off-white studio background with a soft drop shadow beneath, clear margins on all sides. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the league name at the very top, then {argument name="club name" default="[CLUB NAME]"} in a bold condensed sans-serif in medium charcoal grey — large and dominant — with a small flat rectangular flag of [COUNTRY] sitting immediately to the right of the club name, vertically centered, sized to the cap-height of the club name. Then small wide-tracked caps below with founded year and home city.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2091060854003290330) | 2026-08-22
+
+---
+
+### 🧸 例 6750：专业 3D 动画分镜表
+
+![专业 3D 动画分镜表](../images/%E4%B8%93%E4%B8%9A%203D%20%E5%8A%A8%E7%94%BB%E5%88%86%E9%95%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为“{argument name="film title" default="THE TINY INVENTOR AND THE SLEEPING SUPERHERO"}”的原创 3D 动画短片第 1 部分，创建一张高细节的专业分镜表图像。
+此分镜表必须涵盖 {argument name="timestamp" default="0:00"}
+
+[English]
+Create a single high-detail professional storyboard sheet image for PART 1 of an original 3D animated short film titled “{argument name="film title" default="THE TINY INVENTOR AND THE SLEEPING SUPERHERO"}”.
+This storyboard sheet must cover {argument name="timestamp" default="0:00"}
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2091005656321134746) | 2026-08-22
+
+---
+
+### 🧸 例 6751：敦煌剪纸梦境艺术
+
+![敦煌剪纸梦境艺术](../images/%E6%95%A6%E7%85%8C%E5%89%AA%E7%BA%B8%E6%A2%A6%E5%A2%83%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+9:16竖版，现代东方女性梦境立体剪纸艺术，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，poetic female dreamscape。
+
+作品主题为“她走进敦煌壁画未画完的那一页”。
+
+一位视觉年龄约24岁的东方成年女性，神秘优雅、安静坚定，独自沿着纸雕洞窟中的长阶向前走去。人物清秀鹅蛋脸，细长杏眼微微抬起，神情安静而专注。黑色长发半披半挽，发丝与飞天式纸带自然连接，佩戴浅金流云与小型花枝发饰。
+
+人物身穿{argument name="配色" default="赭石、石绿、孔雀蓝与金色"}组成的多层纸艺长裙，裙摆带飞天、藻井、沙纹和月牙泉式镂空纹样，外层披帛在风中向身后轻盈铺动。服装具有清晰纸张厚度、纤维纹理、裁切边缘和细密镂空结构。
+
+画面采用相对简约的多层舞台式构图，不堆满壁画人物。主体是一座巨大、层层相套的敦煌式纸雕洞窟门洞，拱形门框占据画面主要空间，顶部保留一个大型藻井纸雕花纹作为视觉锚点。门洞左右只保留少量飞天纸雕与壁画人物剪影，形成文明遗梦感，但避免复杂拥挤。
+
+人物位于画面下方中央偏小位置，背对或三分之二侧背对镜头，沿几级宽阔纸艺长阶向巨大门洞走去。人物比例明显小于门洞，用来强调洞窟的巨大尺度。
+
+透过门洞，可以直接看到另一重被打开的敦煌梦境：辽阔金色沙丘、弯曲的月牙泉般碧蓝水面、远山、纸艺云层与天空中的一轮细月。沙丘和水面由多层纸片叠加形成，空间开阔、干净，不要加入过多建筑。
+
+整体色彩比传统敦煌配色更鲜明、更清透：以高饱和但高级的孔雀蓝、石绿、赭石、暖沙金为主，加入适量朱砂橙红作为视觉点睛。门洞外层采用赭石与金色，中层加入石绿和孔雀蓝，远方沙漠使用暖金与浅赭色，月牙泉使用清亮蓝绿色。颜色彼此清晰分离，不使用统一棕黄色滤镜，不灰蒙、不脏旧。
+
+光线采用洞窟内部偏暖、门外更明亮的冷暖过渡。金色天光从远方沙丘与月牙泉方向照入，穿过纸雕门洞落在长阶与人物轮廓上，形成明显但柔和的引导光。藻井、飞天、门框与人物披帛边缘有细腻透光感，暗部仍保持孔雀蓝、石绿与赭色层次。
+
+所有洞窟、藻井、飞天、沙丘、月牙泉、云层、人物和服装必须统一为高完成度的立体纸雕语言。强化真实纸张纤维、纸层厚度、手工裁切边缘、轻微折痕和层间投影，整体像一座高级敦煌主题纸雕艺术装置，而不是普通壁画插画。
+
+整体情绪为：古老、神秘、安静、辽阔、文明正在重新苏醒。画面重点是“一个巨大门洞之后，另一页古老世界被重新打开”，构图简洁有力，人物小，空间大，色彩鲜明而通透。
+
+负面提示词：真人摄影，普通动漫，塑料3D，树脂，黏土，毛毡，儿童手工，普通敦煌旅游插画，壁画人物过多，装饰堆积，画面过满，人物过大，大量佛像堆叠，洞窟太暗，棕黄色滤镜，整体灰蒙，颜色发脏，饱和度过低，暗部死黑，月牙泉不明显，沙丘空间过小，门洞过小，纸层混乱，纸张边缘模糊，人物与背景材质割裂，文字，Logo，水印。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2091005036369203546) | 2026-08-22
+
+---
+

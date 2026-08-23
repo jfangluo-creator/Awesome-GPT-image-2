@@ -13990,3 +13990,133 @@ Visual style: Photorealistic 3D robot render combined with a clean ChatGPT-like 
 
 ---
 
+### 🖥️ 例 6703：舒曼与勃拉姆斯莱茵河海报
+
+![舒曼与勃拉姆斯莱茵河海报](../images/%E8%88%92%E6%9B%BC%E4%B8%8E%E5%8B%83%E6%8B%89%E5%A7%86%E6%96%AF%E8%8E%B1%E8%8C%B5%E6%B2%B3%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+莱茵河逐渐转化为琴弦、五线谱和键盘：舒曼的崩溃在五年后转化为勃拉姆斯的音乐架构
+
+[English]
+con el Rin transformándose progresivamente en cuerdas, pentagramas y teclado: el derrumbe de Schumann convertido, cinco años después, en la arquitectura musical de Brahms
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2091168560039026733) | 2026-08-22
+
+---
+
+### 🖥️ 例 6714：动漫少女装洗碗机
+
+![动漫少女装洗碗机](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E8%A3%85%E6%B4%97%E7%A2%97%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫风格插画，描绘一位年轻女性在现代阳光明媚的家庭厨房中，将餐具放入嵌入式洗碗机。她以四分之三侧面站立在洗碗机旁，洗碗机门已打开，拉篮已拉出，她正轻轻地将一个白色大盘子放入前排架子中；画面中可见 4 个白色盘子：1 个在她手中，3 个已放置在下层架子上。这位女性留着 {argument name="hair color" default="深棕色近乎黑色"} 的头发，带有柔和的刘海和两条松散的辫子，戴着精致的圆框眼镜，皮肤白皙，面带平静的微笑，营造出温馨的居家氛围。她身穿白色短袖罗纹亨利衫，带有小纽扣和细微的荷叶边，下身搭配高腰蓝色牛仔裙和棕色腰带。厨房狭窄且充满现代感，左侧有光泽的深色台面、炉灶边缘、黑色玻璃水壶、白色电热水壶或咖啡壶、一个小瓶子，上方有橱柜，背景中有一个虚化的冰箱，右侧是明亮的洗涤区，窗边摆放着一盆植物。利用午后温暖的阳光从右侧射入，背景虚化，光影和反射真实，线条干净利落，衣物褶皱和牛仔布纹理细节丰富，呈现优雅的日本动漫插画品质，肖像构图，无文字，无水印，无多余角色。
+
+[English]
+Create a polished anime-style vertical illustration of a young woman in a modern sunlit home kitchen, loading dishes into a built-in dishwasher. She is standing in three-quarter view beside the lower cabinet dishwasher with the door open and the rack pulled out, gently placing one large white plate into the front rack; visible dish elements include exactly 4 white plates: 1 plate in her hands and 3 plates already standing in the lower rack. The woman has {argument name="hair color" default="dark brown almost black"} hair with soft bangs and two loose braids, delicate round glasses, fair skin, a calm slight smile, and a gentle domestic atmosphere. Her outfit is a white short-sleeve ribbed henley blouse with small buttons and subtly ruffled edges, tucked into a high-waisted blue denim skirt with a brown belt. The kitchen is narrow and contemporary with glossy dark countertops on the left, a stovetop edge, a black glass kettle, a white electric kettle or coffee pot, a small bottle, upper cabinets, a refrigerator in the soft-focus background, and a bright sink area on the right with a potted plant near a window. Use warm late-afternoon sunlight streaming from the right, soft bokeh background, realistic lighting and reflections, clean linework, detailed fabric folds and denim texture, elegant Japanese anime illustration quality, portrait composition, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2091139683145351632) | 2026-08-22
+
+---
+
+### 🖥️ 例 6725：星空紫水晶法师权杖
+
+![星空紫水晶法师权杖](../images/%E6%98%9F%E7%A9%BA%E7%B4%AB%E6%B0%B4%E6%99%B6%E6%B3%95%E5%B8%88%E6%9D%83%E6%9D%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高奇幻风格的魔法权杖物品图标，背景为纯白或透明，独立呈现，无阴影框或场景。权杖呈长条状，从左下角向右上角倾斜，由深色扭曲的雕刻木材制成，缠绕着优雅的卷曲金藤和金丝装饰。顶部是一个华丽的金色新月形框架，带有雕刻的漩涡纹路、叶状金饰，以及一颗镶嵌在新月内部、光芒四射的半透明 {argument name="main crystal color" default="紫色"} 五角星水晶，带有明亮的镜头光晕和多面宝石反射效果。包含精确的 8 个可见紫色宝石元素：新月内 1 颗大型星形水晶、金链上 1 颗悬挂的多面水滴状水晶、底部柄端 1 颗圆形宝石、新月下方 1 颗圆形宝石、杖身上 2 颗椭圆形镶嵌宝石、杖身上 1 颗小型星形宝石，以及下杖身附近 1 颗微型椭圆形宝石。包含精确的 5 个可见金色星形装饰：新月尖端 1 个、主水晶左侧 1 个小星、新月右边缘 1 个小星、悬挂水晶上方 1 个微型星，以及杖身上 1 个星形底座。采用精致的游戏素材 / RPG 物品栏图标风格，边缘清晰，具有丰富的金色金属高光、深棕色木纹、发光的魔法闪烁以及高度细腻的奇幻装饰。将完整物体居中，周围留有充足的空白，无文字、无手部、无角色、无背景图案。该物品应呈现出 {argument name="artifact type" default="星空法师权杖"} 的质感，展现奢华的黄金工艺与璀璨的紫水晶魔法。
+
+[English]
+Create a high-fantasy magical staff game asset isolated on a pure white or transparent background, angled diagonally from lower left to upper right. The staff has a long twisted dark walnut wooden shaft wrapped by thin spiraling polished gold vines. At the top is an ornate gold crescent-moon frame with filigree engravings, leaf-like gold brackets, and a brilliant faceted purple crystal star set inside the crescent, emitting a soft violet glow and bright white sparkle at its center. Include exactly 8 visible purple jewel elements: 1 large five-point star crystal in the crescent, 1 round amethyst gem below the crescent, 1 dangling purple teardrop crystal on a fine gold chain, 4 small oval purple inlays along the shaft, and 1 large round purple orb set into the bottom pommel. Include exactly 6 visible gold star ornaments: 1 star at the top tip of the crescent, 1 small star overlapping the upper left of the large purple star, 1 small star on the right point of the large purple star, 1 small star on the lower right curve of the crescent, 1 tiny star above the dangling crystal, and 1 star clasp on the middle of the shaft. The bottom pommel should be ornate gold with a glowing purple orb. Render in highly detailed polished fantasy RPG item icon style, glossy metallic gold, carved wood grain, gemstone refraction, subtle magical violet aura, crisp edges, centered composition with lots of empty background space, no text, no character, no shadow-heavy scene.
+```
+
+**来源：** [@連](https://x.com/mikagenomikoto/status/2091066421275250798) | 2026-08-22
+
+---
+
+### 🖥️ 例 6732：极简贴纸拼贴效果
+
+![极简贴纸拼贴效果](../images/%E6%9E%81%E7%AE%80%E8%B4%B4%E7%BA%B8%E6%8B%BC%E8%B4%B4%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+精确保留原始场景、构图、透视、建筑、街道、物体、光影、材质和摄影纹理。仅将人物更改为 {argument name="sticker style" default="极简黑白手绘"} 风格的贴纸，并保持其姿势、动作、比例、服装轮廓、数量和位置不变。使用粗线条单线插画，仅使用纯黑白，不含灰色、色彩或渐变，并带有干净的白色贴纸边框。打造逼真的高分辨率照片背景与扁平化 2D 素描人物形成对比，呈现极简涂鸦 / INS 编辑拼贴风格。背景清晰、细节丰富、照片级真实感，8K 画质。宽高比：3:4 / 9:16。
+
+[English]
+Preserve the original scene, composition, perspective, buildings, streets, objects, lighting, shadows, materials, and photographic textures exactly. Change only the {argument name="target" default="characters"} into {argument name="style" default="minimalist black-and-white hand-drawn stickers"}, keeping their poses, actions, proportions, clothing outlines, number, and positions unchanged. Use {argument name="illustration style" default="rough single-line illustrations"} with only pure black and white no gray,color, or gradients with clean white sticker borders. Create a realistic high-resolution photo background contrasted with flat 2D sketch characters, in a minimalist graffiti/INS editorial collage style. Sharp, detailed, photorealistic background, 8K look. Aspect ratio: 3:4 / 9:16.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2091037001705234458) | 2026-08-22
+
+---
+
+### 🖥️ 例 6733：带有可爱仙人掌贴纸的推文截图
+
+![带有可爱仙人掌贴纸的推文截图](../images/%E5%B8%A6%E6%9C%89%E5%8F%AF%E7%88%B1%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%B4%B4%E7%BA%B8%E7%9A%84%E6%8E%A8%E6%96%87%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的 X/Twitter 风格帖子截图，展示关于透明图像生成的公告，并嵌入一张带有透明背景的贴纸插图。
+
+画布：方形社交媒体截图，约 900 × 1090 像素，白色背景，最右侧有细淡边框，保持简洁的 X/Twitter 界面间距。
+
+布局：左上角放置 1 个圆形个人资料头像，显示一名微笑的年轻人。其右侧放置加粗黑体的显示名称 {argument name="display name" default="Tibo"}，后跟 1 个蓝色认证徽章，下方为灰色的账号名 {argument name="handle" default="@thsottiaux"}。右上角放置 2 个小型界面图标：1 个黑色可见性/隐藏图标和 1 个灰色三点溢出菜单。在标题下方，显示 2 个文本段落：第一段为英文，第二段为中文。在文本下方，放置 1 张带有棋盘格透明图案背景的大型圆角嵌入式图像卡片。
+
+文本内容：英文段落：{argument name="English post text" default="Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop."} 中文段落：{argument name="Chinese post text" default="太棒了！现在你可以使用 ChatGPT 和 GPT-Image-2 API 制作透明图像了。\n这是我准备打印出来贴到笔记本电脑上的仙人掌图片。"}
+
+嵌入式插图：在图像卡片内，创建 1 个位于透明棋盘格背景中心的可爱 kawaii 风格仙人掌贴纸。仙人掌具有 1 个带有垂直纹理和光泽高光的大型椭圆形绿色主体，2 个弯曲的侧臂，黑色的笑眼，张开的快乐嘴巴，粉红色的脸颊，许多带有桃色基底的奶油色小刺，以及粗深绿色轮廓。仙人掌顶部放置 1 朵粉红色花朵，花朵有 5 片大圆花瓣，中心有黄色珠状雄蕊，并带有深色轮廓。仙人掌放置在 1 个带有卷边、光泽高光、深色轮廓的橙色陶土花盆中，花盆内有棕色土壤和几颗可见的鹅卵石。在仙人掌和花盆周围添加 1 个柔软的白色贴纸状边框，使其看起来像可打印的笔记本电脑贴纸。
+
+视觉风格：高分辨率简洁截图美学，类似于 X/Twitter 的黑灰色 UI 排版，宽裕的边距，仙人掌采用俏皮的光泽 3D 卡通贴纸风格，饱和的绿色和橙色，清晰的轮廓，柔和的阴影。
+
+约束：使用 1 张嵌入式图像卡片，1 个仙人掌，2 个仙人掌手臂，1 朵花，1 个花盆，2 个帖子段落，以及 2 个右上角 UI 图标。不要添加点赞、评论、时间戳、水印或额外的界面元素。
+
+[English]
+Create a realistic social-media post screenshot on a white interface, like an X/Twitter post, showing a verified user announcing transparent background images. At the top left, include a small circular profile photo of a smiling man, the display name {argument name="display name" default="Tibo"} in bold with a blue verified checkmark, and the handle {argument name="handle" default="@thsottiaux"} in gray beneath it. At the top right show two small interface icons: a circular refresh-like icon and a three-dot menu. The post text should be large black sans-serif and contain exactly two paragraphs: first, “{argument name="English post text" default="Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop."}” and second, Chinese text “{argument name="Chinese post text" default="太棒了！现在你可以使用 ChatGPT 和 GPT-Image-2 API 制作透明图像了。这是我准备打印出来贴到笔记本电脑上的仙人掌图片。"}”. Below the text, embed one large rounded-corner image preview with a light gray-and-white checkerboard transparency pattern. Centered inside the preview is a glossy kawaii sticker illustration of a potted cactus on a transparent background: exactly 1 central tall oval cactus body, exactly 2 raised side arms, exactly 1 terracotta flowerpot, exactly 1 pink-red flower with yellow center dots on top, many small cream-colored star-shaped spines, black cute oval eyes with white highlights, rosy pink cheeks, and an open smiling mouth. Use vibrant saturated greens, thick dark green sticker outline, shiny highlights, soft shadows, and a clean sticker-print style. Keep the screenshot composition vertical, cropped around the post, with generous white margins and no extra UI elements or watermark.
+```
+
+**来源：** [@Harold W. Chen 左尔文](https://x.com/Harold_W_Chen/status/2091034694431490261) | 2026-08-22
+
+---
+
+### 🖥️ 例 6757：复古低多边形太空飞行预览
+
+![复古低多边形太空飞行预览](../images/%E5%A4%8D%E5%8F%A4%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%A4%AA%E7%A9%BA%E9%A3%9E%E8%A1%8C%E9%A2%84%E8%A7%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在桌面应用程序窗口内创建一个复古低多边形 3D 太空飞行预览界面。画布为 16:9 的宽屏截图，带有白色 macOS 风格的浏览器/应用框架，顶部圆角，左上角有三个交通灯样式的按钮，窗口标题为“Space 1995 (DEBUG)”。窗口内部是深邃的黑色星空，布满许多微小的白色像素星点和少量较大的方形恒星，左上方附近有一颗巨大的深蓝色行星。主体是一艘位于画面中心偏下方的橙色块状飞船，以四分之三俯视视角向右飞行。飞船应呈现 1990 年代多边形游戏资产的质感：厚实的矩形几何结构、可见的面板网格细节、两个侧翼引擎舱、宽阔平坦的中央机身、顶部前方的深色驾驶舱玻璃、小型黑色推进器、左侧引擎舱带有微妙的橙色发光效果，以及清晰的类体素边缘。添加极简科幻 HUD 叠加层：左上角有一条细青色水平线，其上方是发光的青色像素/等宽字体标题“SPACE 1995 // FLIGHT SYSTEM”，下方带有较小的副标题“SHIP PREVIEW”。右下角添加一个深色半透明矩形状态面板，左侧带有细长的橙色垂直装饰条，面板内显示小型青白色等宽字体“VX 150 DIABLO // LOADED”。画面仅包含 1 艘飞船、1 颗行星、1 个左上角标题 HUD 块和 1 个右下角状态 HUD 面板。视觉风格：1995 年复古未来主义电脑游戏、低多边形 Three.js 概念艺术、黑色太空背景、青色与橙色 UI 点缀、构图简洁，无人物，无额外标签，无水印。可自定义元素：飞船模型名称 {argument name="spaceship model name" default="VX 150 DIABLO"}、主 HUD 标题 {argument name="main HUD title" default="SPACE 1995 // FLIGHT SYSTEM"}、副标题 {argument name="subtitle" default="SHIP PREVIEW"}、飞船颜色 {argument name="ship color" default="orange"}、行星颜色 {argument name="planet color" default="dark blue"}。
+
+[English]
+Goal: Create a retro 1990s spaceflight debug preview screen showing a low-poly voxel spaceship in deep space, suitable as concept art for a Three.js primitive model.
+
+Canvas: Wide 16:9 screenshot inside a macOS-style application window with rounded corners, white title bar, subtle drop shadow, and three traffic-light buttons at top left. The window title reads “Space 1995 (DEBUG)”.
+
+Scene: A black starfield fills the app viewport, scattered with many tiny white stars plus exactly 4 larger pale-blue square stars: one near the upper left, one near upper right, one lower left of center, and one lower right. Near the top center-left is one large dark blue planet, partially cropped by the upper edge, with soft shading and a small bright square highlight.
+
+Main subject: Center the spaceship slightly below mid-frame, angled in three-quarter view as if flying toward the lower right. The ship is a chunky low-poly / voxel-inspired sci-fi craft named {argument name="ship name" default="VX 150 DIABLO"}. It has exactly 3 main orange modules: one broad central wedge-shaped body and 2 symmetrical side engine pods connected by short struts. Use {argument name="ship color" default="burnt orange"} panels with darker orange bevels, visible grid-like panel segmentation, small vents, blocky greebles, and primitive geometric construction. The central body has a black cockpit window on the front top with a thin light trim and a narrow orange stripe down the glass. Add a small dark rectangular vent on top of the rear center body and one small dark inset on each side pod. The left side pod has a warm yellow-orange glow on its front/side face, while both pods have dark rear thruster rectangles.
+
+HUD and text: In the upper left of the black viewport, add a thin cyan horizontal rule. Beneath it, display glowing pixel/monospace cyan text: “{argument name="headline text" default="SPACE 1995 // FLIGHT SYSTEM"}” with smaller text below reading “SHIP PREVIEW”. In the bottom right, add a dark translucent rectangular status panel with a vertical orange accent bar on its left and cyan-white monospace text reading “{argument name="status text" default="VX 150 DIABLO // LOADED"}”; add two tiny dark square indicators at the far right of the panel.
+
+Visual style: Retro-futuristic 1995 computer graphics, low-poly 3D render, voxel-like hard edges, simple primitive shapes, cinematic black space background, teal HUD typography, orange spaceship contrast, crisp but slightly nostalgic UI. Keep the composition spacious and minimal, with no extra planets, no additional ships, no characters, and no watermark.
+```
+
+**来源：** [@Kevin Whinnery](https://x.com/kevinwhinnery/status/2090982392903205148) | 2026-08-22
+
+---
+

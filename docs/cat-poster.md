@@ -28255,3 +28255,323 @@ Style: Traditional Japanese watercolor, washi paper collage, handmade travel pos
 
 ---
 
+### 🎴 例 6698：分层排版时尚海报
+
+![分层排版时尚海报](../images/%E5%88%86%E5%B1%82%E6%8E%92%E7%89%88%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其转换为垂直的时尚杂志海报，同时保留主体的身份、姿势、服装、低角度视角以及野兽派混凝土建筑。通过精细的构图调整，将其重构为精致的封面，呈现电影般的对比度、柔和的米色/灰色调、细腻的胶片颗粒感以及高级时尚杂志的质感。
+
+排版：在海报上方添加一个超大的压缩大写排版单词：{argument name="main cover word" default="EXEMPLAIRE"}。字母需极高，呈奶油色/灰白色，并被海报边缘裁剪。通过深度遮罩将文字融入构图：部分垂直笔画置于主体和建筑后方，其余部分置于前方，从而营造出分层的杂志封面效果。保持排版粗犷、极简且具有建筑感。
+
+附加文本：在右下角添加一个极简的封面细节块，包含 3 行内容：{argument name="issue line" default="VOL. 01"}、{argument name="theme line" default="OUTSIDE / INSIDE"} 以及 {argument name="year" default="2026"}。使用小号、字间距宽的大写灰白色字体。
+
+约束条件：请勿更改人物的服装、表情或姿势。请勿添加额外的物体、Logo、边框或水印。保持野兽派建筑可见，并确保最终图像呈现出杂志编辑级别的海报质感，而非简单的照片滤镜效果。
+
+[English]
+Using the provided reference image, transform it into a vertical editorial magazine poster while preserving the subject’s identity, pose, outfit, low-angle perspective, and brutalist concrete architecture. Reframe slightly tighter into a polished cover composition with cinematic contrast, muted beige/gray grading, subtle film grain, and a premium fashion-editorial finish.
+
+Typography: Add one oversized condensed uppercase typographic word across the full poster: {argument name="main cover word" default="EXEMPLAIRE"}. Make the letters extremely tall, cream/off-white, and cropped by the poster edges. Integrate the word through the composition with depth masking: some vertical letter strokes pass behind the subject and architecture, while others sit in front, creating a layered magazine-cover effect. Keep the typography bold, minimal, and architectural.
+
+Additional text: Add a small minimal cover-detail block near the lower right with exactly 3 lines: {argument name="issue line" default="VOL. 01"}, {argument name="theme line" default="OUTSIDE / INSIDE"}, and {argument name="year" default="2026"}. Use small spaced uppercase lettering in off-white.
+
+Constraints: Do not change the person’s clothing, expression, or pose. Do not add extra objects, logos, borders, or watermarks. Keep the brutalist building visible and make the final image feel like an editorial-grade poster rather than a simple photo filter.
+```
+
+**来源：** [@Deenu Khan](https://x.com/neuraltechai/status/2091188516659073472) | 2026-08-22
+
+---
+
+### 🎴 例 6707：复古中世纪旅行杂志海报
+
+![复古中世纪旅行杂志海报](../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E4%B8%96%E7%BA%AA%E6%97%85%E8%A1%8C%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受中世纪交通和工程出版物启发的复古编辑旅行杂志海报。以宏伟的 {argument name="subject" default="[主题]"} 作为主要摄影主体，采用强烈的低角度透视拍摄，具备极佳的几何构图和简洁的建筑线条。在页面上方使用醒目的大号压缩粗体大写标题“{argument name="title" default="[标题]"}”，并使其与主体部分重叠或形成框架。在下方添加一行精致的小号副标题：“{argument name="tagline" default="[简短描述性标语]"}”。在图像周围加入小型编辑标签、技术风格说明文字、页码以及极简的排版细节。
+
+视觉风格：真实的 20 世纪 60-70 年代复古印刷设计，复古工业旅行杂志，柔和的青蓝色、褪色的铁锈红、暖奶油色纸张、微妙的橄榄色点缀，略微去饱和的摄影效果，自然光，逼真的胶片颗粒感，网点纹理，陈旧的纸张纤维，轻微的油墨瑕疵，柔和的褪色边缘，档案级印刷照片质感。强烈的留白，平衡的瑞士风格编辑布局，醒目的排版，精致的博物馆画册美学，高度细节化的主体摄影，真实的比例，清晰的层级，既怀旧又高级。
+
+保持系列作品的布局一致性：奶油色背景，超大号蓝色标题，居中主图，深青色小号信息文本，克制的红/锈色点缀，角落页码，真实的复古杂志印刷纹理。垂直 4:5 构图，细节清晰，高分辨率编辑海报。
+
+[English]
+Create a vintage editorial travel-magazine poster inspired by mid-century transportation and engineering publications. Feature a monumental {argument name="subject" default="[SUBJECT]"} as the main photographic subject, captured from a dramatic low-angle perspective with strong geometric composition and clean architectural lines. Use a large condensed bold uppercase headline “{argument name="title" default="[TITLE]"}” occupying the upper portion of the page, partially interacting with or framing the subject. Add a smaller refined subtitle beneath it: “{argument name="tagline" default="[SHORT DESCRIPTIVE TAGLINE]"}”. Include small editorial labels, technical-style captions, a page number, and minimal typographic details around the image.
+
+Visual style: authentic 1960s–1970s vintage print design, retro industrial travel magazine, muted teal blue, faded rust red, warm cream paper, subtle olive accents, slightly desaturated photography, natural sunlight, realistic film grain, halftone texture, aged paper fibers, gentle ink imperfections, soft faded edges, archival printed-photo appearance. Strong negative space, balanced Swiss-inspired editorial layout, bold typography, sophisticated museum-book aesthetic, highly detailed subject photography, realistic proportions, clean hierarchy, nostalgic but premium.
+
+Keep the layout consistent across a series: cream background, oversized blue headline, centered main image, small dark-teal informational text, restrained red/rust accents, page number in the corner, authentic vintage magazine print texture. Vertical 4:5 composition, crisp details, high-resolution editorial poster.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2091161796887593338) | 2026-08-22
+
+---
+
+### 🎴 例 6716：奇趣街头花摊海报
+
+![奇趣街头花摊海报](../images/%E5%A5%87%E8%B6%A3%E8%A1%97%E5%A4%B4%E8%8A%B1%E6%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温暖的编辑风格竖版图片，展示迷人的街头花摊，将上方的写实摄影场景与下方的奇趣插画海报相结合。
+
+画布：竖向 2:3 比例，水平分为两个面板。上方面板约占画布的 45%，呈现为一张自然光下的街头抓拍照片；下方面板约占 55%，呈现为基于相同花卉的奶油色纸质拼贴插画。
+
+上方面板：展示城市人行道上的户外花卉陈列，背景为午后金色的阳光。背景包含茂密的绿植和桉树叶，左侧边缘为紫色花卉，前方奶油色塑料筐内摆放着淡粉色帝王花类花卉。在绿植上方添加一张手写价格标签，文字大致为“little luxury 25”。背景细节包括砖墙、店面橱窗、路缘石、柏油路面和柔和的阴影。照片需具备写实感、温馨感和轻微的怀旧气息，采用浅景深和柔和的暖色调。
+
+下方面板布局：在温暖的奶油色背景上，将花卉陈列重构为居中的整洁剪纸拼贴画。使用恰好 4 个可见的奶油色塑料花筐：上方 2 个筐内装满淡粉色帝王花类花卉，左下方 1 个筐内装满淡粉色小玫瑰，右侧下方 1 个大型支撑筐。在底部周围散落几片花瓣和细小的叶子。
+
+插画涂鸦：在花卉周围添加恰好 6 个微小的黑色线条勾勒的趣味小人：左侧梯子上站着 1 个向花朵比心的角色，左下角 1 个骑着带花篮自行车的人，花朵上方 1 个跪着整理花茎的小人，右侧筐边缘 1 个攀爬或坐着的小人，底部中央 1 个拿着小花束站立的人，以及右下角 1 个正在浇水或照料幼苗的孩童形象。人物形象需保持简洁、俏皮、手绘感，并与拼贴画融为一体。
+
+文字内容：在下方面板左侧，书写醒目的手写引言：“{argument name="quote" default="flowers don’t rush, neither should you."}”，下方配一个小粉心。右上角添加一张剪贴纸条，写着“{argument name="note text" default="today’s little luxury"}”，并配一个小爱心。右下角添加一个小黑板画架，写着“{argument name="chalkboard text" default="pick what makes you smile"}”，并配一个小爱心。
+
+视觉风格：融合写实花卉摄影与极简黑色墨水涂鸦，呈现柔和的纸张纹理、轻柔的阴影、淡粉色与鼠尾草绿的配色、米色花筐，营造出温馨的生活杂志构图和迷人的手工质感。
+
+可自定义主题细节：主要花卉为 {argument name="main flower type" default="pale pink protea-like flowers"}；整体氛围为 {argument name="mood" default="slow, gentle, cozy, and optimistic"}。
+
+约束条件：保持所有文字清晰且呈手写体，除 6 个涂鸦人物外避免增加额外角色，除下方面板的 2 个标牌和上方面板的 1 个价格标签外避免增加额外标志，无水印，无 Logo。
+
+[English]
+Goal: Create a warm editorial-style vertical image about a charming street flower stand, combining a realistic photo scene on top with a whimsical illustrated poster version below.
+
+Canvas: Portrait 2:3 aspect ratio, split horizontally into two panels. The upper panel should occupy about 45% of the canvas and look like a candid sunlit street photograph. The lower panel should occupy about 55% and look like a cream-paper collage illustration based on the same flowers.
+
+Upper panel: Show an outdoor florist display on a city sidewalk in golden afternoon light. Include dense greenery and eucalyptus leaves in the back, purple flowers at the left edge, and pale pink protea-like flowers arranged in cream plastic crates at the front. Add a small handwritten price tag above the greenery reading roughly "little luxury 25". Background details include a brick wall, shop window, curb, asphalt street, and soft shadows. Make the photo realistic, cozy, slightly nostalgic, with shallow depth of field and muted warm tones.
+
+Lower panel layout: On a warm cream background, recreate the flower display as a tidy cutout collage centered in the frame. Use exactly 4 visible cream plastic flower crates: 2 upper crates filled with pale pink protea-like blooms, 1 lower front crate filled with small pale pink roses, and 1 large right-side support crate beneath the flowers. Scatter a few fallen petals and tiny leaves around the base.
+
+Illustrated doodles: Add exactly 6 tiny black line-drawn hobby-figure characters around the flowers: 1 person standing on a ladder at the left holding a heart toward the flowers, 1 person riding a bicycle with a flower basket at bottom left, 1 small kneeling person above the flowers arranging stems, 1 tiny climber or seated figure on the right crate edge, 1 standing person near the bottom center holding a small bouquet, and 1 childlike person at lower right watering or tending a sprout. Keep the figures simple, playful, hand-drawn, and integrated with the collage.
+
+Text content: On the left side of the lower panel, write the large handwritten quote: "{argument name="quote" default="flowers don’t rush, neither should you."}" with a small pink heart underneath. At the top right, add a clipped paper note that says "{argument name="note text" default="today’s little luxury"}" with a small heart. At the lower right, add a small chalkboard easel sign that says "{argument name="chalkboard text" default="pick what makes you smile"}" with a small heart.
+
+Visual style: Blend realistic flower photography with minimalist black ink doodles, soft paper texture, gentle shadows, pastel pink and sage green palette, beige crates, cozy lifestyle-magazine composition, charming handmade feel.
+
+Customizable subject details: The main flowers are {argument name="main flower type" default="pale pink protea-like flowers"}; the overall mood is {argument name="mood" default="slow, gentle, cozy, and optimistic"}.
+
+Constraints: Keep all text legible and handwritten, avoid extra characters beyond the 6 counted doodle figures, avoid extra signs beyond the 2 lower-panel signs and the 1 upper-panel price tag, no watermark, no logo.
+```
+
+**来源：** [@Abhishek Naidu](https://x.com/abhisheknaiidu/status/2091128833520902285) | 2026-08-22
+
+---
+
+### 🎴 例 6721：抽象几何人文海报
+
+![抽象几何人文海报](../images/%E6%8A%BD%E8%B1%A1%E5%87%A0%E4%BD%95%E4%BA%BA%E6%96%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为高端海报。采用 3:4 比例布局，1:1 分割。上半部分为经过高端调色的原始照片。下半部分将主体重构为 {argument name="style" default="极简抽象几何表现形式"}，运用简洁的形状和细腻的线条。构图平衡且富有艺术人文气息，纸张呈现出浮雕质感。使用从原图中提取的柔和色调，搭配米白色和灰粉色等温暖且内敛的色彩。
+
+[English]
+Please turn each of my uploaded photos into a separate high-end designed poster. Do not create collages or combine multiple images—each photo should be processed and output individually.
+
+Use an overall 3:4 vertical composition, divided into two equal sections with a strict 1:1 height ratio, each occupying 50% of the canvas.
+
+The upper half should preserve the original photo, maintaining the subject’s structure, realistic texture, natural lighting, and original color atmosphere. Only apply subtle high-end color grading to give it the feel of magazine photography and art exhibition imagery. To fit the format, the sky, ground, or environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
+
+The lower half should extract the most recognizable subject, silhouette, posture, and narrative relationship from the photo, and reconstruct them into a minimal abstract geometric visual expression. Use simple geometric shapes, flat color blocks, fine lines, structural lines, and negative space to reinterpret the subject. Do not create realistic illustration or pile up complex details, but the key characteristics must remain clear enough that the original subject is instantly recognizable. Depending on the relationships in the original image, a small number of horizontal lines, contour lines, spatial dividing lines, or abstract environmental elements may be added, so the composition retains a sense of order and breathing space within restraint.
+
+The composition should emphasize balance, rhythm, and humanistic character. The subject in the lower half should be the only visual focal point. The overall layout should remain generally centered, but not rigidly symmetrical. Use controlled proportions, positive and negative space relationships, variation in density, subtle layering shifts, and large areas of blank space to establish a calm, professional layout order. The image should be clean, stable, and restrained, while also carrying a gentle sense of spatial undulation and a slight embossed quality—so that the geometric forms feel as if they are softly pressed into or subtly raised from the paper surface, creating delicate and understated dimensionality rather than obvious 3D effects.
+
+The color palette should be extracted from the upper photo, but not copied mechanically. Instead, it should be transformed into a softer palette with a stronger humanistic temperament. Use low-stimulation, warm, restrained tones such as off-white, warm white, light gray, sand, dusty pink, pale ochre, mist blue, and sage green as the base. Retain the most characteristic main and supporting colors from the original image, and build a harmonious, calm, and visually enduring relationship through a limited palette. The overall color feeling should be gentle, airy, cultured, and lived-in, while avoiding
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2091083893650935846) | 2026-08-22
+
+---
+
+### 🎴 例 6731：香脆薯角商业广告项目
+
+![香脆薯角商业广告项目](../images/%E9%A6%99%E8%84%86%E8%96%AF%E8%A7%92%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+高端香脆薯角产品商业广告项目
+
+格式：
+• 单页高端项目
+• 3:4 竖屏比例
+• 美食产品营销活动
+• 8 个电影级项目场景
+• 产品始终作为核心视觉主体
+• 高端广告代理商演示风格
+
+页眉：
+• 醒目的奢华排版
+• 信息卡：
+  - 时长：20 秒
+  - 风格：电影级美食广告
+  - 产品：香脆薯角
+  - 音频：油炸声 + 香脆 ASMR
+• “为何这种风格有效”板块
+• 暖奶油色、金黄色与深棕色美学
+• 极简美食主题装饰元素
+
+项目：
+1. 高端冷冻薯角包装立于干净的深色表面上
+2. 包装开启，露出金黄的薯角
+3. 薯角慢动作落入热油中
+4. 酥脆表皮冒泡的极度微距特写
+5. 薯角带着热气从油炸锅中捞出
+6. 掰开一个薯角，露出松软的内心
+7. 香脆薯角摆放在原始产品包装旁
+8. 带有戏剧性金色食物飞溅效果的最终产品定格画面
+
+每个面板：
+• 场景编号
+• 时长标签
+• 运镜方向
+• 视觉画面
+• 动作描述
+• 产品细节
+
+摄影：
+极度微距、高速食品摄影、慢动作油炸、受控推镜头、俯视构图、电影级主体构图。
+
+风格：
+超写实美食广告、香脆金黄质感、逼真的油泡、蒸汽颗粒、细腻的薯角表面、戏剧性摄影棚布光、高端包装、8K 分辨率。
+
+[English]
+TITLE:
+Premium {argument name="product" default="Crispy Potato Wedges"} Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold luxury typography
+• Information cards:
+  - Duration: {argument name="duration" default="20 Seconds"}
+  - Style: Cinematic Food Commercial
+  - Product: {argument name="product" default="Crispy Potato Wedges"}
+  - Audio: Frying + Crispy ASMR
+• Why This Style Works section
+• Warm cream, golden yellow and dark brown aesthetic
+• Minimal food-themed decorative elements
+
+STORYBOARD:
+1. Premium frozen potato wedges package standing on a clean dark surface
+2. Package opening with golden potato wedges visible
+3. Potato wedges dropping into hot oil in slow motion
+4. Extreme macro shot of bubbling crispy coating
+5. Golden wedges emerging from the fryer with steam
+6. One wedge breaking open to reveal a soft fluffy center
+7. Crispy wedges arranged beside the original product package
+8. Final hero packshot with dramatic golden food splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed food photography, slow-motion frying, controlled push-in, overhead composition, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food commercial, crispy golden texture, realistic oil bubbles, steam particles, detailed potato surface, dramatic studio lighting, premium packaging, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2091043191755878628) | 2026-08-22
+
+---
+
+### 🎴 例 6734：台北复古现代主义旅行海报
+
+![台北复古现代主义旅行海报](../images/%E5%8F%B0%E5%8C%97%E5%A4%8D%E5%8F%A4%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的编辑类旅行海报插画，主题为 {argument name="city" default="TAIPEI"}，灵感源自复古现代主义旅行艺术。将 {argument name="landmark" default="Taipei 101"} 表现为耸立在层叠城市天际线之上的核心地标，前景包含国立中正纪念堂、台湾传统建筑、郁郁葱葱的树木、远处的青山、优雅的桥梁以及平静的蓝色河流或水岸。采用精致的几何拼贴构图，融合重叠的拱门、矩形、圆形、阶梯式建筑形状以及细腻的纸张纹理叠加。色调采用柔和的粉彩配色，包括粉蓝色、奶油色、暖陶土色、灰珊瑚色、鼠尾草绿和深海军蓝。极简手绘插画风格，带有轻微的复古印刷颗粒感，柔和的自然光，简洁的建筑线条，平衡的留白，具备高级的欧洲旅行海报美学，既怀旧又现代，细节丰富但不杂乱。在顶部居中位置放置标题“TAIPEI”，使用纤细、宽间距的大写字体。垂直 4:5 构图，高级艺术印刷品质，优雅且协调，拒绝照片写实，拒绝渐变，拒绝冗余文字。
+
+[English]
+Create a refined editorial travel poster illustration of {argument name="city" default="TAIPEI"}, inspired by vintage modernist travel art. Show Taipei 101 as the dominant landmark rising above a layered city skyline, with the National Chiang Kai-shek Memorial Hall in the foreground, traditional Taiwanese architecture, lush trees, distant green mountains, elegant bridges, and a calm blue river or waterfront. Use a sophisticated geometric collage composition with overlapping arches, rectangles, circles, stepped architectural shapes, and subtle paper-texture overlays. Muted pastel palette of powder blue, cream, warm terracotta, dusty coral, sage green, and deep navy. Minimalist hand-painted illustration, slightly grainy vintage print texture, soft natural daylight, clean architectural lines, balanced negative space, sophisticated European travel-poster aesthetic, nostalgic yet contemporary, highly detailed but uncluttered. Place the title “{argument name="city" default="TAIPEI"}” centered at the top in thin, widely spaced uppercase typography. Vertical 4:5 composition, premium art-print quality, elegant, cohesive, no photorealism, no gradients, no excessive text.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2091034664203133243) | 2026-08-22
+
+---
+
+### 🎴 例 6747：日式麻婆豆腐海报
+
+![日式麻婆豆腐海报](../images/%E6%97%A5%E5%BC%8F%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版日式餐厅广告海报，用于展示 {argument name="dish name" default="陳麻婆豆腐"}，将令人垂涎的川味麻婆豆腐呈现为高端外带或家庭餐点。
+
+画布：竖向海报，2:3 比例，深色纹理黑棕色背景，带有微妙的做旧感和陈年纸张质感，点缀红色与金色，采用戏剧性的暖色食物摄影布光。
+
+布局：左上角放置一个小红方印，内含竖排日文「本場の麻婆をお家で」。顶部横向设置奶油色毛笔风格标语「辛さ・痺れ・旨みの三位一体。」，下方配有一条细横线，右上角装饰一个小金云纹。中心位置为巨大的红色书法标题「陳麻婆豆腐」，右侧配有一个较小的红色印章「陳」。标题下方添加副标题「— 本格四川の味を、食卓へ —」。下方添加三行白色正文：「山椒の痺れと唐辛子の辛さがやみつき！」、「なめらかな豆腐と旨みたっぷりの肉味噌が絡み合う、」、「本場の味を再現した自慢の逸品。ご飯が止まらない！辛さ・痺れをお好みでどうぞ。」
+
+食物图像：中下方展示一个大型质朴陶碗，盛满色泽红亮的麻婆豆腐：豆腐块、肉末、辣椒油、红辣椒碎、中心堆叠的四川花椒粒以及葱花。食物需呈现出浓郁、油亮、辛辣、热气腾腾且极具食欲感，采用浅景深真实摄影风格。
+
+右侧标签：碗旁悬挂一个竖向浅褐色纸质标签，印有黑色日文「本場の味をそのままに」，底部配有一个小红辣椒插画。
+
+功能列表：碗的左侧包含三行圆形图标加文字的功能说明，行间以金色虚线分隔：1) 红色辣椒图标配「花椒のしびれ」及副标题「本場の痺れを再現」，2) 红色火焰图标配「唐辛子の辛さ」及副标题「ピリ辛が食欲をそそる」，3) 豆腐碗图标配「なめらか豆腐」及副标题「とろける食感と旨み」。
+
+底部价格栏：底部添加一条深红色横向色带。左侧写有「特別価格」及超大号奶油金色价格 {argument name="price" default="1800円"}，后接「(税込)」。右侧创建一个细金色装饰框，标题为「おすすめの食べ方」，内容为「温かいご飯にたっぷりかけて、炒め野菜や麺との相性も抜群です。」并配有一个小饭碗图标。最底端边缘包含结束语「ご家庭で本格四川料理をぜひお楽しみください。」，并点缀金色云纹。
+
+视觉风格：高端日式美食海报，粗犷书法字体，带有毛笔质感的红色标题，奶油金色辅助文字，金色装饰边框，食物上的电影级高光，地道的四川氛围，高对比度，奢华而质朴。
+
+限制：仅使用一个主食碗、一个左上角红印、一个右侧红印、一个竖向纸质标签、三个功能图标、一个价格区块和一个推荐框。确保所有日文清晰可读并按描述位置放置。避免出现额外菜肴、多余 Logo、人物、水印或现代 UI 元素。
+
+[English]
+Goal: Create a vertical Japanese restaurant advertisement poster for {argument name="dish name" default="陳麻婆豆腐"}, presenting an appetizing bowl of authentic Sichuan mapo tofu as a premium take-home/home-dining product.
+
+Canvas: Portrait poster, 2:3 aspect ratio, dark black-brown textured paper background with subtle grunge, gold ornamental cloud-line decorations, red seal accents, and a luxurious traditional Chinese/Japanese menu aesthetic.
+
+Layout: At the top left, place one red square seal with vertical white Japanese text: 「本場の麻婆をお家で」. Across the top center, add the cream headline 「辛さ・痺れ・旨みの三位一体。」 with a thin gold divider line beneath it. Dominating the upper-middle area, place the huge red brush-calligraphy dish title 「陳麻婆豆腐」, with a small red outlined vertical stamp on the right containing 「陳」. Under the title, add the subtitle 「— 本格四川の味を、食卓へ —」. Below that, add three lines of smaller white copy: 「山椒の痺れと唐辛子の辛さがやみつき！」, 「なめらかな豆腐と旨みたっぷりの肉味噌が絡み合う、」, 「本場の味を再現した自慢の逸品。ご飯が止まらない！辛さ・痺れをお好みでどうぞ。」
+
+Main food image: Fill the lower-middle with a large rustic dark ceramic bowl of glossy red-orange mapo tofu, viewed from a slightly high front angle. The dish must look very delicious and realistic: large pale tofu cubes, minced meat, chili oil sheen, Sichuan pepper granules piled at the center, red chili flecks, and many chopped green onions scattered on top. Use dramatic warm lighting and high contrast so the oil and tofu glisten against the dark background.
+
+Right tag: Overlapping the upper right of the bowl, add one vertical beige paper tag with rough edges, black calligraphy text 「本場の味をそのままに」, and two small red chili pepper illustrations near the bottom.
+
+Feature list: On the left side beside the bowl, create exactly 3 stacked feature rows separated by dotted gold lines, each with a circular cream icon and Japanese text: 1) chili pepper icon, title 「花椒のしびれ」, subtext 「本場の痺れを再現」; 2) flame icon, title 「唐辛子の辛さ」, subtext 「ピリ辛が食欲をそそる」; 3) tofu bowl/cubes icon, title 「なめらか豆腐」, subtext 「とろける食感と旨み」.
+
+Bottom price and recommendation band: Add a dark reddish-brown horizontal band along the bottom. On the left, show 「特別価格」 above a very large cream-gold price {argument name="price" default="1800円"} with small 「(税込)」. On the right, add an ornate gold rectangular frame titled 「おすすめの食べ方」 with copy 「温かいご飯にたっぷりかけて、炒め野菜や麺との相性も抜群です。」 and a small rice bowl illustration. At the very bottom center, add the closing line 「ご家庭で本格四川料理をぜひお楽しみください。」 with gold cloud ornaments on both sides.
+
+Visual style: Premium Japanese-Chinese fusion food flyer, authentic brush typography, red and gold palette, aged paper texture, realistic food photography composited with graphic menu elements, crisp readable text, no people, no extra dishes, no watermark.
+```
+
+**来源：** [@きのこ先輩🍄kinoko-senpai](https://x.com/sin5d/status/2091009680416080264) | 2026-08-22
+
+---
+
+### 🎴 例 6761：几何视窗极简商业海报
+
+![几何视窗极简商业海报](../images/%E5%87%A0%E4%BD%95%E8%A7%86%E7%AA%97%E6%9E%81%E7%AE%80%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+设计一张具有高级商业审美的极简海报，核心视觉语言是“真实物象穿越几何情绪窗口”。画面中设置一个窄长的低饱和色块，作为视觉锚点和空间容器，色块颜色根据主题选择柔和浅色，如雾蓝、浅青、米白、淡粉、暖灰或浅金。将{argument name="核心物象" default="[核心物象]"}以真实摄影质感或精细写实方式置入色块之中，但不要完全困在色块内，要让主体局部越界、破框、延伸到留白区域，形成自然生长感和空间穿透感。背景保持极简，使用大面积白色或浅灰留白，加入几乎透明的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的视觉细节。整体排版要像高端地产、奢侈品、美学杂志或节气海报，文字细长、克制、字距舒展，标题可竖排，辅助信息用小字号规整排列。画面需要有东方留白、现代秩序、自然生命力、轻奢品质感。避免杂乱、避免高饱和、避免厚重阴影、避免廉价模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2090960491648815553) | 2026-08-22
+
+---
+

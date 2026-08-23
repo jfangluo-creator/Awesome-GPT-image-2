@@ -4039,3 +4039,65 @@ Constraints: Use exactly 3 cocktail panels and exactly 10 ingredient mini-images
 
 ---
 
+### 📊 例 6754：深色信息图转视频海报
+
+![深色信息图转视频海报](../images/%E6%B7%B1%E8%89%B2%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%BD%AC%E8%A7%86%E9%A2%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="DSIV MUSIC"} 创建一张深色高端编辑风格的信息图海报，解释使用 GPT Image 2 和 HyperFrames 进行“信息图转视频”的工作流程。
+
+画布：4:5 竖版海报，哑光黑背景配以微妙的炭灰色渐变，画布四周带有细边框，高对比度白色排版，暖琥珀色强调线与标签，呈现出流畅的未来感音乐/科技工作室美学。
+
+布局：分割式构图，左侧为文字密集的信息区，右侧为大型倾斜电脑显示器模型，底部为宽幅提示词卡片。添加淡雅的几何叠加元素：弧线、微小的点阵纹理、十字准星标记以及细分割线。
+
+顶部品牌标识：左上角放置 Logo 文字“DSIV”，字母间距拉开，下方标注“MUSIC”。其下方放置小数字“03”及一条短横线。右上角放置网址“DSIVMUSIC.COM”。
+
+主标题区：添加一个带有琥珀色轮廓的小圆角胶囊标签，文字为“GPT Image 2 + HyperFrames”。下方设置两行超大加粗白色标题：“Infographic-” 和 “to-video”。标题下方添加副标题：“使用 GPT Image 2 生成密集且文字准确的图形，然后在 HyperFrames 中对图层进行动画处理。”
+
+“为何有效”部分：添加琥珀色间距标题“WHY IT WORKS”。包含 2 行带有圆形轮廓图标的优势说明：1) 打开的书本图标，标注“Better reading order”；2) 播放按钮图标，标注“More retention from motion”。
+
+右侧显示器内容：展示一台透视角度略微倾斜的逼真黑色桌面显示器。屏幕上创建一个紧凑的业务仪表盘，标题为“REVENUE GROWTH ROADMAP”，副标题为“Q2 PLAN OVERVIEW”。仪表盘顶部必须包含 4 张关键指标卡片：1) 上升趋势图图标，“$2.4M”，“Total Revenue”，“+28% vs Q1”；2) 人像图标，“12.5K”，“New Customers”，“+35% vs Q1”；3) 购物车图标，“$192”，“Avg. Order Value”，“+12% vs Q1”；4) 环形图图标，“24.8%”，“Gross Margin”，“+6.3pp vs Q1”。下方包含 1 张标注为“GROWTH TREND”的折线图，横轴为“Revenue (USD)”，月份标签为 JAN, FEB, MAR, APR, MAY, JUN。右侧包含 4 行增长驱动因素：“Product Innovation”、“Marketing Efficiency”、“Sales Expansion” 和 “Customer Retention”，每行配有一个小型琥珀色图标。仪表盘底部包含 4 个由箭头连接的流程框：“AWARENESS / Expand reach”、“CONVERSION / Optimize funnel”、“RETENTION / Drive loyalty” 和 “GROWTH / Scale impact”。
+
+桌面物品：显示器下方展示一台带有小旋钮和指示灯的深色音频接口或机架设备、低平键盘以及右下角的一个紧凑型控制台，整体处于阴影中。
+
+底部提示词卡片：在底部宽度范围内创建一个大型圆角矩形轮廓卡片。卡片左上角使用琥珀色间距文字“MAX PROMPT”。右上角添加一个小型终端符号“>_”。卡片内部使用等宽白色字体，内容为：“Create a clean infographic for [TOPIC] with accurate labels, metrics, icons, arrows, and chart elements. Leave visual breathing room. Then convert it into a HyperFrames plan that animates count-ups, line draws, arrows, highlights, captions, and voiceover timing in a deterministic 9:16 or 16:9 MP4.”
+
+页脚：左下角文字“@DSIVMUSIC”。右下角为一个类似风格化“5”的小型圆形字形。
+
+视觉风格：电影级黑底产品摄影与清晰的 UI 设计相结合，锐利的排版，微妙的辉光，琥珀色高光，准确易读的文字，逼真的显示器光影，清晰的信息层级。
+
+约束条件：保持所有文字清晰可辨，拼写与指定内容完全一致。必须使用 2 行优势说明、4 张指标卡片、4 行增长驱动因素和 4 个流程框。请勿添加额外的 Logo、水印或无关文字。
+
+[English]
+Goal: Create a premium dark editorial poster/slide teaching how to turn infographics into animated videos using {argument name="tool pairing" default="GPT Image 2 + HyperFrames"}. The design should feel like a high-end tech/music brand case-study card: minimal, cinematic, black background, white typography, warm amber accent lines, and a realistic workstation monitor showing a business dashboard.
+
+Canvas: Portrait 4:5 social post, approximately 900 × 1200 px. Use a thin gray border around the whole canvas, deep black charcoal background, subtle concentric arcs, dotted grid texture, small plus-sign drafting marks, and very low-contrast technical linework.
+
+Layout: Left side contains the branding, issue number, main headline, explanation, and two benefit bullets. Right side contains a realistic angled computer monitor on a dark desk. Bottom third contains a large rounded rectangle prompt box. Keep generous negative space and strong reading order from top-left to right monitor to bottom prompt box.
+
+Branding and top details: In the top-left, place the logo text “DSIV” with spaced letters and smaller “MUSIC” underneath. In the top-right, place “DSIVMUSIC.COM”. Below the logo, add the issue number “03” with a thin horizontal line extending right. Add one small rounded amber-outline pill reading “GPT Image 2 + HyperFrames”.
+
+Main headline: Large bold off-white sans-serif text on the left, split across two lines: “Infographic-” and “to-video”. Under it, add the subtitle: “Generate dense, text-accurate graphics with GPT Image 2, then animate layers in HyperFrames.”
+
+Benefit section: Add the amber spaced heading “WHY IT WORKS”. Include exactly 2 benefit rows with circular outline icons: 1) an open-book icon labeled “Better reading order”; 2) a play-triangle icon labeled “More retention from motion”.
+
+Right monitor content: Show a black desktop monitor angled slightly in perspective. On the screen is a clean dashboard titled “REVENUE GROWTH ROADMAP” with the subtitle “Q2 PLAN OVERVIEW”. Include exactly 4 key metric cards across the top: 1) chart-arrow icon, “$2.4M”, “Total Revenue”, “+28% vs Q1”; 2) group icon, “12.5K”, “New Customers”, “+35% vs Q1”; 3) shopping cart icon, “$192”, “Avg. Order Value”, “+12% vs Q1”; 4) donut-chart icon, “24.8%”, “Gross Margin”, “+6.3pp vs Q1”. Below, include exactly 1 orange line chart labeled “GROWTH TREND” with months JAN, FEB, MAR, APR, MAY, JUN along the bottom and rising data points. To the right, include exactly 4 growth driver rows with small amber circular icons: “Product Innovation”, “Marketing Efficiency”, “Sales Expansion”, and “Customer Retention”. Along the bottom of the dashboard, include exactly 4 connected roadmap boxes with arrows between them: “AWARENESS / Expand reach” → “CONVERSION / Optimize funnel” → “RETENTION / Drive loyalty” → “GROWTH / Scale impact”.
+
+Desk details: Under the monitor, include a dark audio rack or amplifier with small knobs and indicator lights, a low-profile keyboard in shadow, and a small control surface at the bottom-right. Keep these objects subtle and nearly black, with faint highlights.
+
+Bottom prompt box: Create a wide rounded rectangle with a thin gray outline and amber heading “MAX PROMPT”. Add a small terminal-style symbol “>_” in the upper-right of the box. Inside, use white monospaced type with this exact text: “Create a clean infographic for [TOPIC] with accurate labels, metrics, icons, arrows, and chart elements. Leave visual breathing room. Then convert it into a HyperFrames plan that animates count-ups, line draws, arrows, highlights, captions, and voiceover timing in a deterministic 9:16 or 16:9 MP4.”
+
+Footer: Bottom-left small text “@DSIVMUSIC”. Bottom-right add a small abstract circular DSIV-style mark. Use tiny plus marks and faint arcs behind the footer.
+
+Visual style: Dark monochrome luxury tech aesthetic, crisp vector typography mixed with realistic rendered monitor hardware, high contrast but restrained, amber accents only for highlights, thin strokes, clean grid alignment, accurate legible text, no clutter.
+
+Constraints: Use exactly 4 dashboard metric cards, 4 growth driver rows, 4 roadmap boxes, and 2 benefit rows. Do not add extra sections, people, bright colors, or decorative elements that compete with the text. Keep all typography sharp and readable.
+```
+
+**来源：** [@DSIV](https://x.com/dsivmusic/status/2090994617441288586) | 2026-08-22
+
+---
+
