@@ -9169,3 +9169,63 @@ This storyboard sheet must cover {argument name="timestamp" default="0:15"}
 
 ---
 
+### 🎬 例 6780：惊慌失措的仓鼠漫画分镜
+
+![惊慌失措的仓鼠漫画分镜](../images/%E6%83%8A%E6%85%8C%E5%A4%B1%E6%8E%AA%E7%9A%84%E4%BB%93%E9%BC%A0%E6%BC%AB%E7%94%BB%E5%88%86%E9%95%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的黑白日式漫画分镜，主角是一只可爱的仓鼠，采用极度特写镜头，构图略微偏右，展示其胸部以上部位，小小的爪子紧握并举起，表现出惊慌失措的样子。仓鼠有着巨大的圆形惊恐双眼、弯曲的忧虑眉毛、张开的椭圆形嘴巴露出两颗门牙，胡须清晰可见，左上方有一只大耳朵，柔软蓬松的毛发通过密集的网点纸效果呈现，辅以精细的排线，额头和脸颊上布满汗珠。采用经典的漫画高对比度墨线风格：粗黑轮廓线、细腻的点画、交叉排线，背景中横向扫过的速度线，以及对话气泡周围爆炸式的黑色放射状效果。包含 2 个垂直的日文对话气泡：右上角是一个高而尖的白色气泡，文字为 {argument name="upper right speech text" default="やることが…"}；左下角是一个更大且高尖的白色气泡，文字为 {argument name="lower left speech text" default="やることが多い……!!"}，如果可能，请在第一个汉字旁加上类似注音假名的小字。整体构图应传达出焦虑和喜剧感，仿佛仓鼠正被繁重的工作压得喘不过气。使用正方形画布，带有细黑色的漫画边框，无颜色，除网点纹理外无灰度渲染，无水印，且不包含额外角色或多余文字。
+
+[English]
+Create a dramatic black-and-white Japanese manga panel featuring a cute hamster in extreme close-up, centered slightly to the right, shown from chest up with tiny clenched paws raised in panic. The hamster has huge round shocked eyes, arched worried eyebrows, an open oval mouth with two front teeth, visible whiskers, one large ear on the upper left, soft fluffy fur rendered with dense screentone dots, fine hatching, and multiple sweat drops on its forehead and cheeks. Use classic high-contrast manga inking: thick black outlines, detailed stippling, crosshatching, speed lines sweeping horizontally across the background, and explosive black radial burst effects around the speech balloons. Include exactly 2 vertical Japanese speech balloons: one tall spiky white balloon at the upper right with the text {argument name="upper right speech text" default="やることが…"}, and one larger tall spiky white balloon at the lower left with the text {argument name="lower left speech text" default="やることが多い……!!"}, including small furigana-like characters beside the first kanji if possible. The composition should feel anxious and comedic, as if the hamster is overwhelmed by too many tasks. Use a square canvas with a thin black manga panel border, no color, no grayscale wash beyond screentone texture, no watermark, and no extra characters or extra text.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2091527401402736844) | 2026-08-23
+
+---
+
+### 🎬 例 6822：仓鼠奶茶漫画页面
+
+![仓鼠奶茶漫画页面](../images/%E4%BB%93%E9%BC%A0%E5%A5%B6%E8%8C%B6%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版日式漫画，讲述一只毛茸茸的仓鼠不情愿地尝试便利店奶茶，并瞬间爱上它的故事。大部分分镜采用黑白漫画线条风格，最后的高潮分镜切换为全彩。
+
+画布：长条漫画页，比例约为 2:3，留有干净的白色边距，细黑色分镜框，符合从右向左的漫画阅读习惯。在左上角添加一个小标题 {argument name="top caption" default="セ○ンのミルクティー舐めてた"}，右上角标注“1/1”。
+
+布局：使用 6 个独立分镜。第 1 格为左上角的铺垫，展示在窝里的仓鼠。第 2 格为右上角的传闻展示，显示一杯冰奶茶。第 3 格为中间的宽幅分镜，展示晴天下的便利店外观。第 4 格为狭长的横向分镜，展示买到的饮料和正在纠结价格的仓鼠。第 5 格为另一个狭长横向分镜，展示仓鼠喝下第一口。第 6 格为底部的大幅高潮分镜，采用彩色，画面充满鲜花和闪耀的情绪。
+
+主体细节：主角是 {argument name="character" default="一只圆滚滚、毛茸茸的侏儒仓鼠"}，画风可爱但起初略带愤世嫉俗，拥有小巧的爪子、小耳朵、柔软的毛发质感和富有表现力的眼睛。饮料是 {argument name="drink" default="装在透明塑料杯中、带有冰块、吸管和圆顶盖的便利店冰奶茶"}。在第 1 至 5 格中，仓鼠保持灰度，使用细腻的排线和网点纸阴影。在最后一格中，让仓鼠脸颊泛红，双眼闪烁着巨大的光芒，两只爪子紧紧握住杯子，吸管含在嘴里，被美味所征服。
+
+分镜细节与文字：包含 12 个可见的日文文本元素：1) 顶部标题“セ○ンのミルクティー舐めてた”；2) 第 1 格旁白框“今日は日曜日なので、朝活がてらチャレンジしようと思う”；3) 第 2 格旁白框“昔に聞く某コンビニのミルクティーが美味しいという噂”；4) 第 2 格较小的旁白框“聞いてはいたが、まだ飲んでいない”；5) 第 3 格旁白框“……まぁ なんとなく「ロイヤルミルクティーでござい」って感じなんだろう。”；6) 第 3 格对话气泡“いらっしゃいませー”；7) 第 3 格旁白框“と思い後回しにしてたんだよね……”；8) 第 4 格竖向旁白“——買ってきた”；9) 第 4 格对话气泡“なんだかんだ「こー言う感じね」”；10) 第 4 格对话气泡“「まぁ二回目はいいかなー」ってなるんだろうけど…”；11) 第 4 格价格气泡“300円 ※Lサイズはお高いよね……”；12) 第 6 格大幅旁白框“また買おうと決意したハムスターであった”。此外，在最后一格添加一个戏剧性的反应气泡 {argument name="reaction text" default="——ッ!?"}，并在吸管附近添加拟声词“ズズ……”或“はむ”。
+
+视觉风格：手绘青年漫画风格，精准的黑墨线条，柔和的灰色网点，细腻的毛发排线，写实的便利店建筑，透明塑料杯质感，可见的冰块，轻松的喜剧节奏。最后一格应变得华丽浪漫：柔和的粉色、桃色和奶油色花朵，飘落的花瓣，温暖的金色闪光，闪烁着星光的双眼，与之前单色调的怀疑形成强烈对比。
+
+约束条件：保持页面作为单页漫画的可读性，无水印，无额外分镜，除背景中可能出现的微小路人外无其他角色，严格保留日文文本，并强调仓鼠从怀疑到成为奶茶忠实粉丝的幽默“瞬间转化”过程。
+
+[English]
+Goal: Create a vertical Japanese manga page about a fluffy hamster reluctantly trying convenience-store milk tea and instantly falling in love with it. Use black-and-white manga line art for most panels, then switch to full color for the final dramatic reaction panel.
+
+Canvas: Tall comic page, approximately 2:3 aspect ratio, clean white margins, thin black panel borders, right-to-left manga reading feel. Add a small top header reading {argument name="top caption" default="セ○ンのミルクティー舐めてた"} at the upper left and “1/1” at the upper right.
+
+Layout: Use exactly 6 discrete comic panels. Panel 1 is the top-left setup panel with the hamster in a nest. Panel 2 is the top-right product rumor panel showing an iced milk tea cup. Panel 3 is a wide middle panel showing the exterior of a convenience store on a bright day. Panel 4 is a narrow horizontal panel showing the purchased drink and the hamster debating the price. Panel 5 is another narrow horizontal panel showing the hamster taking the first sip. Panel 6 is the large bottom climax panel in color, filled with flowers and sparkling emotion.
+
+Subject details: The main character is {argument name="character" default="a round, fluffy dwarf hamster"}, drawn cute but slightly cynical at first, with tiny paws, small ears, soft fur texture, and expressive eyes. The drink is {argument name="drink" default="iced convenience-store milk tea in a clear plastic cup with ice, straw, and domed lid"}. In panels 1–5, keep the hamster grayscale with delicate hatching and screentone shading. In the final panel, make the hamster blush deeply with enormous glittering eyes, both paws gripping the cup, straw in mouth, overwhelmed by deliciousness.
+
+Panel-by-panel details and text: Include exactly 12 visible Japanese text elements: 1) top caption “セ○ンのミルクティー舐めてた”; 2) panel 1 narration box “今日は日曜日なので、朝活がてらチャレンジしようと思う”; 3) panel 2 narration box “昔に聞く某コンビニのミルクティーが美味しいという噂”; 4) panel 2 smaller narration box “聞いてはいたが、まだ飲んでいない”; 5) panel 3 narration box “……まぁ なんとなく「ロイヤルミルクティーでござい」って感じなんだろう。”; 6) panel 3 speech bubble “いらっしゃいませー”; 7) panel 3 narration box “と思い後回しにしてたんだよね……” ; 8) panel 4 vertical narration “——買ってきた”; 9) panel 4 speech bubble “なんだかんだ「こー言う感じね」”; 10) panel 4 speech bubble “「まぁ二回目はいいかなー」ってなるんだろうけど…”; 11) panel 4 price bubble “300円 ※Lサイズはお高いよね……” ; 12) panel 6 large narration box “また買おうと決意したハムスターであった”. Also add a dramatic reaction bubble in the final panel reading {argument name="reaction text" default="——ッ!?"} and a small slurping sound effect near the straw reading “ズズ……” or “はむ”.
+
+Visual style: Hand-drawn seinen manga style, precise black ink, soft gray screentones, detailed fur hatching, realistic convenience-store architecture, clear plastic cup transparency, ice cubes visible, gentle comedy timing. The final panel should become lush and romantic: pastel pink, peach, and cream flowers, falling petals, warm golden sparkles, glossy star-filled eyes, strong contrast between previous monochrome skepticism and final colorful bliss.
+
+Constraints: Keep the page readable as a single comic page, no watermark, no extra panels, no extra characters except tiny background shoppers if needed, preserve the Japanese text exactly as shown, and emphasize the humorous “instant conversion” from skeptical hamster to devoted milk-tea fan.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2091345934752022973) | 2026-08-23
+
+---
+

@@ -28575,3 +28575,371 @@ Visual style: Premium Japanese-Chinese fusion food flyer, authentic brush typogr
 
 ---
 
+### 🎴 例 6763：奥德赛神话三联画海报
+
+![奥德赛神话三联画海报](../images/%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%A5%9E%E8%AF%9D%E4%B8%89%E8%81%94%E7%94%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高挑的垂直艺术海报，灵感源自希腊神话《奥德赛》，画面被精确分为 3 个宽幅电影感横向面板，面板间以深色细边框分隔，海报顶部和底部留有深森林绿色的边距。采用梦幻般的新古典主义奇幻风格：大理石建筑、雕塑感岩石、飘逸的织物、苍白的皮肤、超长的黑发，色调为阳光下的奶油白、海洋蓝，并带有高端插画书封面的绘画质感。
+
+画布：垂直 3:4 海报，优雅的画廊构图，无现代物品，无 Logo 或水印。在顶部边距、面板之间以及底部边距的中心位置，添加微小且间距宽阔的金色衬线字母；文字应具有装饰性，且大部分不可辨认。
+
+面板 1：海边阳光明媚的古石露台。展示 2 座巨大的奶油色大理石鹰雕像，分别位于左侧和中左侧的方基座上，雕刻出细腻的羽毛和钩状喙。旁边展示 2 位身着白色古典褶皱长袍的女性：一位背对观众、位于中心附近的露肩女子，以及一位坐在最右侧、身穿白色托加长袍且留着极长黑发向左飘逸的苍白女子。背景：柔和的蓝色海洋与天空，巨大的墙影，柔和的金色光线。
+
+面板 2：更黑暗、更具戏剧性的岩石海岸场景。展示 1 位独自躺在深蓝黑色岩石上的苍白女子，身上裹着长长的白色床单，像液态大理石或海沫一样倾泻在前景中。她双臂交叉前倾，神情忧郁而内省。在她身后，一座高耸的深色悬崖向上弯曲，明亮的象牙色织物或瀑布般的褶皱从右上角垂下，落入发光的泡沫中。利用深色悬崖与发光白布之间的高对比度。
+
+面板 3：明亮开阔的海滨远景。展示 1 位躺在蓝灰色岩石上的苍白女子，身上裹着一件鲜艳的 {argument name="dress color" default="深红色"} 飘逸织物，极长的 {argument name="hair color" default="乌黑色"} 头发被强风吹向右侧，极具戏剧感。她单手托头，表情忧郁而优雅。在远景左侧展示 6 艘平静蓝海上的白色三角帆船，地平线上有柔和的云朵。
+
+整体氛围：{argument name="mood" default="忧郁、神话、浪漫且充满风感"}。主题：{argument name="theme" default="受《奥德赛》启发的希腊海之女神哀歌"}。光线应柔和、具有电影感且明亮，融合大理石白、海洋蓝阴影和精致的金色点缀。保持构图的精致、诗意与超现实感，使其看起来像一张奢华的艺术海报，而非写实摄影作品。
+
+[English]
+Create a tall vertical fine-art poster inspired by mythic Greek Odyssey imagery, divided into exactly 3 wide horizontal cinematic panels separated by thin dark borders, with deep forest-green poster margins at the top and bottom. Use a dreamy neoclassical fantasy style: marble architecture, sculpted stone, flowing fabric, pale skin, ultralong black hair, sunlit cream whites, ocean blues, and painterly texture like a high-end illustrated book cover.
+
+Canvas: vertical 3:4 poster, elegant gallery composition, no modern objects, no logo or watermark. Add tiny widely spaced gold serif letters centered in the top margin, between panels, and bottom margin; the lettering should feel decorative and mostly illegible.
+
+Panel 1: A sunlit ancient stone terrace beside the sea. Show exactly 2 massive cream marble eagle statues perched on square plinths at the left and center-left, carved with detailed feathers and hooked beaks. Beside them show exactly 2 female figures in white classical drapery: one bare-shouldered woman seen from behind near the center, and one pale woman seated at the far right in a white toga-like dress with very long black hair streaming leftward. Background: muted blue sea and sky, monumental wall shadows, soft golden light.
+
+Panel 2: A darker, more dramatic rocky coastal scene. Show exactly 1 solitary pale woman reclining low on dark blue-black rocks, wrapped in a long white sheet that cascades across the foreground like liquid marble or sea foam. She leans forward with arms folded, melancholic and introspective. Behind her, a towering dark cliff curves upward, with bright ivory fabric or waterfall-like drapery descending from the upper right into luminous foam. Use high contrast between the dark cliff and glowing white cloth.
+
+Panel 3: A bright open seaside vista. Show exactly 1 pale woman lying on blue-gray rocks, wrapped in a vivid {argument name="dress color" default="crimson red"} flowing cloth, with extremely long {argument name="hair color" default="jet black"} hair blown dramatically to the right by strong wind. She rests her head in one hand, expression wistful and elegant. In the far left background show exactly 6 small white triangular sailboats on a calm blue sea, with soft clouds on the horizon.
+
+Overall mood: {argument name="mood" default="melancholic, mythic, romantic, and wind-swept"}. Subject theme: {argument name="theme" default="Odyssey-inspired Greek sea goddess lament"}. Lighting should be soft, cinematic, and luminous, with marble whites, ocean blue shadows, and delicate gold accents. Keep the composition refined, poetic, and surreal, like a luxury art poster rather than a realistic photograph.
+```
+
+**来源：** [@Dreameryanyan](https://x.com/yanliudreamer/status/2091673644640686201) | 2026-08-23
+
+---
+
+### 🎴 例 6786：Porsche 911 照片与水彩海报
+
+![Porsche 911 照片与水彩海报](../images/Porsche%20911%20%E7%85%A7%E7%89%87%E4%B8%8E%E6%B0%B4%E5%BD%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的垂直汽车海报，将同一款汽车的写实照片与插画渲染图进行对比，主体为经典的 {argument name="car model" default="Porsche 911 Carrera 993"}，颜色为 {argument name="car color" default="Turquoise Metallic"}。
+
+画布：竖向海报，比例约为 3:4，暖象牙色纸张背景，留有宽边距，呈现简洁的画廊印刷质感。
+
+布局：使用 2 个垂直堆叠的大型横向图像面板。顶部面板 1 为写实摄影，下方面板 2 为同一场景的水彩墨水插画。在面板下方，添加四行居中的排版文字以及一条细分割线。
+
+场景细节：车辆为低矮的经典 Porsche 911 双门轿跑车，从左前方 45 度角视角拍摄，停在绿树成荫的宁静道路上。车辆配有圆形大灯、日式前车牌、白色五辐轮毂，引擎盖和车门上有光泽反射，车身姿态略微降低。背景包括阳光照射的石墙、路边护栏、沥青车道标线、头顶的树枝，以及路面上斑驳的阴影。
+
+面板 1：写实摄影风格，温暖的午后阳光，高细节，深绿色调，强对比度，逼真的阴影，光泽金属漆面，电影级街头摄影质感。
+
+面板 2：以细腻的手绘水彩插画风格重现相同构图，带有精细的墨水轮廓，淡奶油色和绿色渲染，柔和的对比度，写意的路面纹理，简化的叶片，以及轻微的纸张纹理。保持车辆可辨识且位置不变。
+
+文字内容：在图像面板下方添加 4 行居中文字：第 1 行是大号间距大写文字 “{argument name="headline text" default="PORSCHE 911 CARRERA"}”；第 2 行是较小的文字 “{argument name="year text" default="993"}”；第 3 行是极小的文字 “{argument name="paint label" default="Turquoise Metallic"}”；第 4 行是带有间距的引语文字 “{argument name="quote" default="Life is short, buy the Porsche"}”。在引语下方，添加一行较小的日语翻译：“人生は短い、ポルシェを買おう”。在油漆标签和引语之间放置一条细水平分割线。
+
+排版：极简豪华编辑风格，宽字间距，纤细无衬线字体，黑色或深灰色文字，完美居中。
+
+约束：使用 2 个图像面板，并在其下方包含 5 个可见文字元素（含日语翻译）。除车身上的 Porsche 小徽标外，不得添加任何标志。无水印，无额外说明文字，除象牙色海报边距外，不添加其他边框。
+
+[English]
+Goal: Create a refined vertical automotive poster comparing a realistic photo and an illustrated rendering of the same car, centered on a classic {argument name="car model" default="Porsche 911 Carrera 993"} in {argument name="car color" default="Turquoise Metallic"}.
+
+Canvas: Portrait poster, approximately 3:4 ratio, warm ivory paper background with wide margins and a clean gallery-print look.
+
+Layout: Use exactly 2 large horizontal image panels stacked vertically. Panel 1 at the top is a realistic photograph. Panel 2 below it is a watercolor-and-ink illustration of the same scene. Beneath the panels, add centered typography in four text lines plus one thin divider line.
+
+Scene details: The car is a low, classic Porsche 911 coupe viewed from a front-left three-quarter angle, parked on a quiet road under leafy green trees. It has round headlights, a Japanese-style front license plate, white five-spoke wheels, glossy reflections on the hood and doors, and a slightly lowered stance. Background includes a sunlit stone wall, roadside railings, asphalt lane markings, tree branches overhead, and dappled shadows across the road.
+
+Panel 1: Photorealistic, warm afternoon sunlight, high detail, deep greens, strong contrast, realistic shadows, glossy metallic paint, cinematic street photography.
+
+Panel 2: Recreate the same composition as a delicate hand-drawn watercolor illustration with fine ink outlines, pale cream and green washes, softened contrast, sketchy road texture, simplified foliage, and light paper grain. Keep the car recognizable and in the same position.
+
+Text content: Add exactly 4 centered lines under the image panels: line 1 large spaced uppercase text “{argument name="headline text" default="PORSCHE 911 CARRERA"}”; line 2 smaller text “{argument name="year text" default="993"}”; line 3 very small text “{argument name="paint label" default="Turquoise Metallic"}”; line 4 spaced quote text “{argument name="quote" default="Life is short, buy the Porsche"}”. Under the quote, add a smaller Japanese translation: “人生は短い、ポルシェを買おう”. Place one thin horizontal divider line between the paint label and the quote.
+
+Typography: Minimal luxury editorial styling, generous letter spacing, thin sans-serif font, black or dark gray text, perfectly centered.
+
+Constraints: Use exactly 2 image panels and exactly 5 visible text elements below them including the Japanese translation. Do not add logos beyond the small Porsche hood badge on the car. No watermark, no extra captions, no border other than the ivory poster margin.
+```
+
+**来源：** [@J 👁△](https://x.com/_Js_vision_/status/2091495784349110530) | 2026-08-23
+
+---
+
+### 🎴 例 6791：迈阿密之夜舞蹈封面
+
+![迈阿密之夜舞蹈封面](../images/%E8%BF%88%E9%98%BF%E5%AF%86%E4%B9%8B%E5%A4%9C%E8%88%9E%E8%B9%88%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="headline text" default="Miami Night"} 的热带合成波舞曲创作一张方形转竖版的霓虹音乐封面海报，将女性跳舞剪影与迈阿密天际线双重曝光效果融合。
+
+画布：竖版 4:5 海报，高分辨率，光面电影质感。使用鲜艳的日落至夜晚渐变背景：地平线附近为热情的橙色和洋红色，顶部为深紫色和海军蓝的星空。
+
+主体图像：画面中心为一名全身女性舞者剪影，侧身向右，双臂高举过头顶，呈现舞蹈姿态。她长发飘逸，随风向左飞扬。她的身体是一个深色剪影，内部填充了双重曝光的城市景观：发光的摩天大楼、微小的窗户灯光、粉色的屋顶灯、棕榈树、滨水倒影以及躯干和腿部内波光粼粼的海湾水面。保持轮廓清晰优雅，并带有强烈的背光效果。
+
+背景环境：展示夜晚的迈阿密滨水天际线，两侧有棕榈树，模糊的城市建筑、闪烁的灯光以及水面上的霓虹倒影。前景中包含 2 棵显眼的棕榈树剪影（左右各一），以及天际线附近较小的远景棕榈树。上方添加星空。
+
+主体艺术上的排版：在舞者和天际线之上，放置醒目的发光手写草书霓虹文字 {argument name="neon script text" default="Miami Night"}。字体应呈现明亮的粉白色，如同霓虹灯管，横跨画面近全宽并穿过中心。
+
+底部信息面板：在海报底部约四分之一处添加一个深海军蓝的长方形面板。包含 6 个排列整齐的文字/图标元素，呈现音乐宣传卡片样式：1) 一个粉色音符图标，后接白色标题文字 {argument name="track title" default="MiamiNight"}；2) 粉色副标题文字 {argument name="challenge text" default="“Dance party” Challenge"}；3) 一条带有中心小闪光点的细装饰水平分割线；4) 白色艺术家署名行 {argument name="artist line" default="— Crystal Dragon Lancer エル"}；5) 两个粉色标签 "#Suno" 和 "#AI音楽"；6) 右下角小字白色制作信息 "Direction / Prompt: Elle"。
+
+视觉风格：复古迈阿密夜生活、合成波专辑封面艺术、霓虹粉紫配色、电影级双重曝光、光面反射、高对比度、梦幻热带派对氛围、简洁的社交媒体封面设计。
+
+约束：保持所有列出的文字清晰易读并按描述位置放置。不要添加额外的标志、水印或不相关的文字。请保留默认文本中出现的日文字符。
+
+[English]
+Goal: Create a square-to-portrait neon music cover poster for a tropical synthwave dance track titled {argument name="headline text" default="Miami Night"}, blending a silhouetted dancing woman with a Miami skyline double exposure.
+
+Canvas: Vertical 4:5 poster, high-resolution, glossy cinematic finish. Use a vivid sunset-to-night gradient background: hot orange and magenta near the horizon, deep purple and navy starry sky at the top.
+
+Main image: Center a full-body female dancer silhouette, facing right in profile, arms raised above her head with both hands posed like she is dancing. Her long loose hair flows left in the wind. Her body is a dark silhouette filled with a double-exposure city scene: illuminated high-rise skyscrapers, tiny window lights, pink rooftop lights, palm trees, waterfront reflections, and rippling bay water inside the torso and legs. Keep her outline crisp and elegant, with strong backlighting.
+
+Background environment: Show a Miami waterfront skyline at night with palm trees on both sides, blurred city buildings, sparkling lights, and neon reflections across the water. Include exactly 2 prominent palm tree silhouettes in the foreground, one on the left and one on the right, plus smaller distant palms near the skyline. Add a star-filled sky above.
+
+Typography over main art: Across the dancer and skyline, place large glowing handwritten cursive neon text reading {argument name="neon script text" default="Miami Night"}. The script should be bright pink-white, like a neon tube, spanning nearly the full width of the image and crossing the center.
+
+Bottom information panel: Add a dark navy rectangular lower panel occupying about the bottom quarter of the poster. Include exactly 6 visible text/icon elements arranged like a music promotion card: 1) a pink music note icon followed by white title text {argument name="track title" default="MiamiNight"}; 2) pink subtitle text {argument name="challenge text" default="“Dance party” Challenge"}; 3) a thin decorative horizontal divider with a small sparkle at the center; 4) white artist line reading {argument name="artist line" default="— Crystal Dragon Lancer エル"}; 5) two pink hashtags reading "#Suno" and "#AI音楽"; 6) small white credit text at bottom right reading "Direction / Prompt: Elle".
+
+Visual style: Retro Miami nightlife, synthwave album artwork, neon pink and purple color palette, cinematic double exposure, glossy reflections, high contrast, dreamy tropical party atmosphere, clean social-media cover design.
+
+Constraints: Keep all listed text legible and positioned as described. Do not add extra logos, watermarks, or unrelated text. Preserve the Japanese characters exactly where they appear in the default text.
+```
+
+**来源：** [@エル💙way](https://x.com/ellewayAI/status/2091492145685205064) | 2026-08-23
+
+---
+
+### 🎴 例 6801：超现实生物主题旅行海报
+
+![超现实生物主题旅行海报](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%94%9F%E7%89%A9%E4%B8%BB%E9%A2%98%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 比例的高级竖版概念旅行海报，将 {argument name="country" default="[COUNTRY]"} 想象成一个巨大的生命有机体，而非传统的地图。
+
+{argument name="country" default="[COUNTRY]"} 标志性的轮廓被转化为超现实的生物景观。山脉演变为骨骼结构，河流化作发光的静脉与动脉，森林变为微观的肺部与活体组织，沙漠呈现出纹理质感的皮肤，而主要城市则表现为微小且充满能量脉动的生物发光细胞簇。
+
+自然元素应与生物解剖结构无缝融合——瀑布如同循环的血液般流淌，道路宛如神经通路，森林像肺部一样呼吸，云层如同半透明的薄膜般悬浮，微小的聚落则像相互连接的神经元一样闪烁。
+
+在保持 {argument name="country" default="[COUNTRY]"} 地理轮廓准确性的同时，使这种转化具有艺术感与可信度。
+
+电影级微距摄影，超细节 3D 环境，有机质感，微妙的生物发光，逼真的大气深度，戏剧性而优雅的布光，柔和的阴影，高级编辑旅行艺术美学，精致的配色方案，神秘而梦幻的氛围。
+
+极简构图，在国家形状的有机体周围留出充足的负空间。无游客，无旗帜，无通用的地标拼贴，无杂乱元素，除底部一行优雅的 {argument name="country title" default="[COUNTRY]"} 标题外，不包含任何文字。
+
+风格：超现实生物写实主义 + 电影级微缩世界 + 奢华旅行海报 + 科学艺术
+长宽比：4:5 竖版
+质量：超高细节，照片级真实质感，错综复杂的微观细节，博物馆级概念艺术作品。
+
+[English]
+Create a premium vertical 4:5 conceptual travel poster of {argument name="country" default="[COUNTRY]"}, imagined as a gigantic living organism rather than a conventional map.
+
+The entire recognizable silhouette of {argument name="country" default="[COUNTRY]"} is transformed into a surreal biological landscape. Its mountain ranges become a skeletal structure, rivers become glowing veins and arteries, forests become microscopic lungs and living tissue, deserts become textured skin, and major cities appear as tiny clusters of bioluminescent cells pulsing with energy.
+
+Natural elements should seamlessly merge with biological anatomy — waterfalls flowing like circulating blood, roads resembling neural pathways, forests breathing like lungs, clouds hovering like translucent membranes, and tiny settlements glowing like interconnected neurons.
+
+Maintain the accurate geographic silhouette of {argument name="country" default="[COUNTRY]"} while making the transformation artistic and believable.
+
+Cinematic macro photography, ultra-detailed 3D environment, organic textures, subtle bioluminescence, realistic atmospheric depth, dramatic but elegant lighting, soft shadows, premium editorial travel-art aesthetic, sophisticated color palette, mysterious and dreamlike mood.
+
+Minimal composition with generous negative space around the country-shaped organism. No tourists, no flags, no generic landmark collage, no clutter, no text except a small elegant {argument name="country title" default="[COUNTRY]"} title at the bottom.
+
+Style: surreal biological realism + cinematic miniature world + luxury travel poster + scientific art
+Aspect ratio: 4:5 vertical
+Quality: hyper-detailed, photorealistic textures, intricate micro-details, museum-quality conceptual artwork.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2091447739230146944) | 2026-08-23
+
+---
+
+### 🎴 例 6813：高端饮料商业广告项目
+
+![高端饮料商业广告项目](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E6%96%99%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+高端 {argument name="product" default="气泡果饮"} 产品商业广告项目
+
+格式：
+• 单页高端项目
+• {argument name="ratio" default="3:4 竖屏比例"}
+• 奢侈饮料产品营销活动
+• 8 个电影级项目场景
+• 产品始终作为核心主角
+• 高端广告代理商展示风格
+
+页眉：
+• 现代奢华排版
+• 信息卡片：
+
+时长：{argument name="duration" default="10 秒"}
+
+风格：电影级饮料广告
+
+产品：气泡果饮
+
+音频：气泡声 + 清爽液体 ASMR
+• “为何选择此风格”部分
+• 银色、柑橘橙与深蓝色美学
+• 极简高端装饰元素
+
+项目：
+
+1. 覆盖着冷凝水的冰镇气泡饮料瓶
+
+2. 瓶盖开启，伴随气泡喷涌而出
+
+3. 气泡在饮料中穿梭的极致微距镜头
+
+4. 气泡饮料倒入水晶杯中
+
+5. 冰块慢动作落入杯中
+
+6. 新鲜柑橘切片激起戏剧性水花
+
+7. 冷凝水与碳酸气泡的微距特写
+
+8. 最终主角瓶身与玻璃杯，周围环绕冰冻水花
+
+每个面板：
+• 场景编号
+• 时长标签
+• 摄像机方向
+• 视觉画面
+• 动作描述
+• 产品细节
+
+摄像机：
+高速液体摄影、极致微距、冰冻水花捕捉、慢动作倾倒、戏剧性背光、冷凝水特写、电影级产品主角构图。
+
+风格：
+超写实饮料广告、逼真碳酸感、细腻水珠、动态液体飞溅、高级玻璃反射、摄影棚布光、奢华品牌感、商业摄影、8K。
+
+[English]
+TITLE:
+Premium {argument name="product" default="Sparkling Fruit Drink"} Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• {argument name="ratio" default="3:4 Portrait ratio"}
+• Luxury beverage product campaign
+• 8 cinematic storyboard scenes
+• Product remains the central hero
+• Premium advertising agency presentation
+
+HEADER:
+• Modern luxury typography
+• Information cards:
+
+Duration: {argument name="duration" default="10 Seconds"}
+
+Style: Cinematic Beverage Commercial
+
+Product: Sparkling Fruit Drink
+
+Audio: Fizz + Refreshing Liquid ASMR
+• Why This Style Works section
+• Silver, citrus orange and deep blue aesthetic
+• Minimal premium decorative accents
+
+STORYBOARD:
+
+1. Chilled sparkling drink bottle covered in condensation
+
+2. Bottle cap opening with a burst of carbonation
+
+3. Extreme macro shot of bubbles racing through the drink
+
+4. Sparkling drink pouring into a crystal glass
+
+5. Ice cubes falling into the glass in slow motion
+
+6. Fresh citrus slices creating a dramatic splash
+
+7. Macro shot of condensation and carbonation bubbles
+
+8. Final hero bottle and glass surrounded by frozen splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, extreme macro, frozen splash capture, slow-motion pour, dramatic backlighting, condensation close-up, cinematic product hero framing.
+
+STYLE:
+Ultra-realistic beverage advertising, realistic carbonation, detailed water droplets, dynamic liquid splash, premium glass reflections, studio lighting, luxury branding, commercial photography, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2091388744599486491) | 2026-08-23
+
+---
+
+### 🎴 例 6814：现代主义汽车海报设计
+
+![现代主义汽车海报设计](../images/%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简风格汽车海报设计，主体为 {argument name="car" default="[CAR]"}，展示完美的侧面轮廓，位置偏低并居中。一个精致的 {argument name="brand" default="[BRAND]"} 小徽标/标志位于上方角落，配有简短的标语“{argument name="slogan" default="[SLOGAN]"}”，采用微小的现代主义大写字体。一组戏剧性的分层速度条纹从上方角落斜向切入画面中心，营造出动感与视觉节奏。温暖的象牙色纸张背景，留有大量的负空间。清晰的技术插图，精准的比例，细腻的丝网印刷质感，精致的墨线勾勒，极简阴影，画廊级平面设计。地面下方有细微的油漆滴落和色彩拖尾。瑞士现代主义汽车海报，精致的矢量精度，博物馆级海报质量，宽高比 4:5。
+
+[English]
+Ultra-clean automotive poster design featuring a {argument name="car" default="[CAR]"}, perfect side profile, positioned low and centered in the frame. A small refined {argument name="brand" default="[BRAND]"} badge/logo sits near the upper corner, with a short slogan reading “{argument name="slogan" default="[SLOGAN]"}” in tiny modernist uppercase typography. A dramatic diagonal burst of layered {argument name="colors" default="[COLORS]"} speed stripes slices across the composition from upper corner to lower center, creating motion and visual rhythm. Warm ivory paper background with expansive negative space. Crisp technical illustration, precise proportions, subtle screen-print texture, fine ink outlines, minimal shadows, gallery-quality graphic design. Thin paint drips and color trails descending beneath the ground plane. Swiss modernist automotive poster, refined vector precision, museum poster quality, aspect ratio 4:5.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2091388301328666776) | 2026-08-23
+
+---
+
+### 🎴 例 6819：中国古风奇幻游戏海报
+
+![中国古风奇幻游戏海报](../images/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E9%A3%8E%E5%A5%87%E5%B9%BB%E6%B8%B8%E6%88%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+画幅比例：21:9。保持高完成度东方古风幻想游戏宣传海报的三维CG渲染媒介、低饱和蓝白灰绿与木棕色彩、暖柔庭院光、细腻景深和分层前景质感。将主角改为画面右中偏上的{argument name="角色性别" default="女性"}古风角色，改为{argument name="发型" default="半束银黑长发与浅蓝花冠"}，脸型略圆，眼睛微微下垂，视线转向左侧飞鸟，嘴角带轻微含笑；她穿{argument name="服装" default="雾蓝与 ivory 白相间的贴身丝绸长衣"}和较厚的层叠裙，袖口与腰带有细小金属装饰，身体侧坐在更高的木栏上，左手轻扶栏杆，右手托起一枚小巧金色铃饰，裙摆和发带向右下方飘动。左侧改为一只停在樱花枝上的蓝灰色小鸟，花簇减少但保留粉色樱花框景；背景改为半开放水榭，保留茶席、木梁、盆景和右侧绿植的中等清晰度。人物面部、铃饰和手部为局部锐化焦点，边缘花瓣和前景枝叶轻微柔焦；左下保留中等大小书法标题及低权重小字，右上保留窄幅竖向标注和印章，文字不得覆盖面部。保持温柔空灵、春日浪漫和流动斜线构图。
+```
+
+**来源：** [@波妞PONYO](https://x.com/ponyodong/status/2091354925968298444) | 2026-08-23
+
+---
+
+### 🎴 例 6828：趣味涂鸦创意海报
+
+![趣味涂鸦创意海报](../images/%E8%B6%A3%E5%91%B3%E6%B6%82%E9%B8%A6%E5%88%9B%E6%84%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片创建 3:4 的独立海报。上半部分为原始照片，下半部分将视觉核心重构为 {argument name="format" default="真实主体 + 黑色线条涂鸦人物"} 海报。主体在保持原有特征的同时，通过周围与之互动的涂鸦进行趣味性重构。采用原始照片的配色，背景为灰白色，并搭配高对比度的深灰色线条。
+
+[English]
+Please turn each uploaded photo into its own independent high-end designed poster. Do not make multi-photo collages; each photo must be output separately. Use an overall 3:4 vertical composition, divided into two equal horizontal sections with a strict 1:1 height ratio, each occupying 50% of the canvas.
+
+The upper half should preserve the original photo, maintaining the subject’s structure, realistic texture, natural lighting and shadows, and the original color atmosphere. Only apply subtle, high-end photographic color grading so that it carries the feel of a lifestyle magazine, independent publication, or fine-art photography. To fit the aspect ratio, the surrounding environment may be naturally extended, but the subject must not be stretched, distorted, or altered.
+
+For the lower half, first understand the true visual core and underlying meaning of the original image. The most important thing is not simply “what is in the picture,” but rather “what is most worth remembering” — this could be a subject, an action, a relationship, a contrast, an emotional moment, or some symbolic implication. Then extract the most recognizable subject, silhouette, posture, spatial relationship, and narrative clues, and reconstruct them into a playful editorial poster in the form of “{argument name="style" default="real subject + black-line doodle figures"}.” Do not mechanically crop the largest object in the original image. Instead, preserve the visual anchor that best represents the spirit and storytelling of the photo, so that the lower half can be instantly connected to the original image while also feeling like an intelligent second interpretation of it.
+
+The real subject should retain its material qualities and identity features, while its angle, proportion, lighting, and color may be moderately optimized to make its core characteristics more vivid. Information in the original image that is unrelated to the underlying meaning may be omitted, but the key relationships that support the theme must be preserved. Add a small number of minimalist {argument name="accent elements" default="black-line doodle figures"} around the subject. Their actions, placement, and interactions should be generated naturally based on the original image’s form, context, and implied meaning, so that they feel like they are responding to, amplifying, or playfully reversing the original story of the photo, rather than performing random actions.
+
+The color palette should be drawn from the most recognizable and spirited colors in the upper photo, and may be moderately purified, brightened, and reorganized. The background should mainly use off-white, light tones, or the most comfortable pale tone from the original image, while maintaining plenty of negative space. The real subject should carry the main color presence, while the doodle figures and text should appear in black or dark gray fine lines for contrast, creating an overall f
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2091325200638017857) | 2026-08-23
+
+---
+

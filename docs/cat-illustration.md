@@ -18929,3 +18929,91 @@ Create a dramatic vertical Chinese ink-and-wash fantasy illustration of {argumen
 
 ---
 
+### 🎨 例 6771：身着绯红长袍的龙族女帝
+
+![身着绯红长袍的龙族女帝](../images/%E8%BA%AB%E7%9D%80%E7%BB%AF%E7%BA%A2%E9%95%BF%E8%A2%8D%E7%9A%84%E9%BE%99%E6%97%8F%E5%A5%B3%E5%B8%9D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版奇幻仙侠插画，采用超精细的东亚水墨画与暗黑华丽新艺术风格。画面展示了 {argument name="character name" default="一位宁静的仙界女帝"} 侧身坐在长满青苔的悬崖上，身披绣有复杂青色金银丝线的黑色外袍，那件 {argument name="dress color" default="深绯红色"} 的长裙如丝绸之河般倾泻在岩石上。她留着极长的黑发，佩戴优雅的金饰，肤色苍白，目光平静地向下俯视，膝上横放着一根纤细的礼仪权杖或长剑。在她的上方和身后，一条巨大的蛇形龙在天空中盘旋，其躯体由深青色鳞片、旋转的雕刻云纹和青铜金色的鹿角状龙角组成，正垂下头守护着她。悬崖周围环绕着茂密的 {argument name="flower type" default="彼岸花"}、扭曲的深色枝干、古老破败的寺庙建筑、云雾和缭绕的云气。画面中需包含四只白鹤：前景底部有一只颈部羽毛为黑色、头顶红色的仙鹤，女子右侧有两只飞行或站立的仙鹤，高处的云端中还有一只小小的仙鹤剪影。背景是广阔的仙山寺庙景观，伴有玉色云雾、苍白的瀑布或光束、风暴云层，远处点缀着如灯笼般微弱的亮光。色调采用深青、黑、玉灰、象牙白、柔和金和饱和绯红。构图应具有电影感和对角线张力，龙从左上角向中心形成一道巨大的弧线，女子位于中下部，红色的长裙引导视线向下延伸。渲染需体现极细的线条、密集的装饰细节、写意的烟雾、层叠的景深、细腻的质感、高对比度、空灵的氛围，且严禁出现任何现代物品。
+
+[English]
+Create a tall vertical fantasy xianxia illustration in an ultra-detailed East Asian ink-painting and dark ornate Art Nouveau style. The scene shows {argument name="character name" default="a serene immortal empress"} seated in profile on a mossy cliff, wearing a flowing black outer robe embroidered with intricate teal filigree and a dramatic {argument name="dress color" default="deep crimson red"} gown cascading down the rocks like a river of silk. She has very long black hair streaming behind her, an elegant gold hair ornament, pale skin, and a calm downward gaze, holding a slender ceremonial staff or sword across her lap. Above and behind her, a colossal serpentine dragon coils through the sky, its body made of dark teal scales, swirling carved cloud patterns, and bronze-gold antler-like horns, lowering its head protectively toward her. Surround the cliff with dense {argument name="flower type" default="red spider lilies"}, twisted dark branches, ancient broken temple architecture, mist, and curling clouds. Include exactly four white cranes: one large crane in the bottom foreground with black neck feathers and red crown, two cranes flying or standing to the right of the woman, and one small crane silhouette high in the cloudy sky. The background is a vast celestial mountain-temple landscape with jade mist, pale waterfalls or shafts of light, stormy clouds, and small glowing lantern-like points in the distance. Use a limited palette of deep teal, black, jade gray, ivory white, muted gold, and saturated crimson red. Composition should be cinematic and diagonal, with the dragon forming a sweeping arch from upper left to center, the woman centered lower-middle, and the red gown leading the eye to the bottom edge. Render with extreme fine linework, dense ornamental detail, painterly smoke, layered depth, delicate textures, high contrast, ethereal atmosphere, and no modern objects.
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2091548888956317731) | 2026-08-23
+
+---
+
+### 🎨 例 6777：可爱仙人掌贴纸素材
+
+![可爱仙人掌贴纸素材](../images/%E5%8F%AF%E7%88%B1%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%B4%B4%E7%BA%B8%E7%B4%A0%E6%9D%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个可爱的透明背景仙人掌贴纸素材，主体为居中且独立的可爱风盆栽仙人掌，无背景。主体是一个亮绿色的卡通桶状仙人掌，种在赤陶花盆中，采用光泽感矢量/吉祥物风格绘制，带有粗深绿色轮廓、柔和渐变，以及环绕整个轮廓的白色模切贴纸边框。仙人掌有一个大的椭圆形中心躯干和两个向上弯曲的侧臂，总共三个主要部分：1 个中心椭圆躯干，1 个左侧抬起的臂，1 个右侧抬起的臂。在肋纹和手臂上散布许多带有橙色底座的奶油色星形仙人掌刺，并在绿色表面添加圆形的亮面高光。为仙人掌添加一个可爱的开心表情：两只带有白色闪光高光的大型黑色椭圆眼睛、细细的弯眉毛、粉红色的圆形脸颊，以及张开的笑嘴，内部为深色并露出粉色舌头。在仙人掌顶部左侧放置一朵红粉色的花，花朵有 6 片圆润的花瓣，中心有一簇黄色珠状雄蕊。花盆为暖橙色赤陶材质，带有厚实的圆边、深橙色阴影、斑点纹理、明亮的白橙色光斑，顶部可见棕色土壤和圆润的鹅卵石。使用透明的棋盘格背景来表示 Alpha 透明度，实际素材应被清晰剪裁，可直接放入设计中使用。保持构图为正方形，风格生动有趣，高分辨率，清晰锐利，无文字，无水印，除细微的贴纸边缘外无投影。
+
+[English]
+Create a cute transparent-background sticker asset of a kawaii potted cactus, centered and isolated with no scenery. The subject is a bright green cartoon barrel cactus in a terracotta flower pot, drawn in a glossy vector/mascot style with thick dark green outlines, soft gradients, and a white die-cut sticker border around the entire silhouette. The cactus has one large oval central body with vertical rib grooves and two upward-curving side arms, exactly three main cactus parts total: 1 central oval trunk, 1 left raised arm, and 1 right raised arm. Add many small cream-colored starburst cactus spines with orange bases scattered along the ribs and arms, plus round glossy highlights on the green surface. Give the cactus an adorable happy face: two large black oval eyes with white sparkle highlights, small curved eyebrows, rosy pink circular cheeks, and a wide open smiling mouth with a dark interior and pink tongue. Place a large red-pink flower on top-left of the cactus crown, with exactly six rounded petals and a cluster of small yellow bead-like stamens in the center. The pot is warm orange terracotta with a thick rounded rim, darker orange shading, speckled texture dots, bright white-orange shine patches, and visible brown soil and rounded pebbles at the top. Use a transparent checkerboard-style background to indicate alpha transparency, while the actual asset should be cut out cleanly and ready to drop into designs. Keep the composition square, playful, high-resolution, crisp, no text, no watermark, no drop shadow beyond subtle sticker edging.
+```
+
+**来源：** [@Kai](https://x.com/hqmank/status/2091531783154377176) | 2026-08-23
+
+---
+
+### 🎨 例 6785：东京警视厅重型机器人部队
+
+![东京警视厅重型机器人部队](../images/%E4%B8%9C%E4%BA%AC%E8%AD%A6%E8%A7%86%E5%8E%85%E9%87%8D%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%A8%E9%98%9F.jpg)
+
+**Prompt:**
+
+```text
+『警視庁重機対策課ロボット隊』
+
+{argument name="ロボットの出自" default="Ｃ国製"}ロボットが、雷で狂ってしまい、それに対処を求められた警視庁ロボ
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2091497067818754551) | 2026-08-23
+
+---
+
+### 🎨 例 6788：优雅振袖和服角色立牌
+
+![优雅振袖和服角色立牌](../images/%E4%BC%98%E9%9B%85%E6%8C%AF%E8%A2%96%E5%92%8C%E6%9C%8D%E8%A7%92%E8%89%B2%E7%AB%8B%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个全身、高分辨率的角色立牌，主角为 {argument name="character name" default="Yuria"}，一位拥有细腻瓷肌的优雅年轻女性，留着 {argument name="hair color" default="银灰金色"} 头发，发型为松散的低发髻，配有轻盈的刘海和细碎的发丝。她身穿奢华的淡紫灰色振袖和服，长袖飘逸，后腰系着奶油金色的腰带，发间装饰着精致的小白花发饰。和服上有精细的植物刺绣和手绘图案：绿色的茎叶、白黄色的百合花以及紫色的花朵，图案集中在袖口和下摆，底部渐变为深灰绿色边框。让她摆出优雅的时尚杂志拍摄姿势，身体呈对角线倾斜，一只长袖向外向上抬起，另一只袖子向前垂落，和服的下摆在身后优雅地铺开。她神情平静、高雅且略带忧郁，妆容柔和，眼帘低垂。采用半写实动漫 / 真实时尚插画风格，展现细腻的布料褶皱、明亮柔和的光影、清晰的边缘，以及高度精细的头发、配饰和织物轮廓。将角色作为剪影抠图处理，背景为 {argument name="background type" default="带 Alpha 通道的透明背景"}；请勿添加任何场景、道具、文字、水印、边框或重阴影背景。
+
+[English]
+Create a full-body, high-resolution character standee of {argument name="character name" default="Yuria"}, an elegant young woman with a soft porcelain complexion and {argument name="hair color" default="silvery ash-blonde"} hair styled in a loose low bun with wispy bangs and fine stray strands. She wears a luxurious pale lavender-gray furisode kimono with long flowing sleeves, a cream-and-gold obi tied at the back, and delicate floral hair ornaments with small white blossoms. The kimono has detailed botanical embroidery and painted patterns: green stems and leaves, white and yellow lilies, and purple flowers concentrated along the sleeve edges and lower hem, fading into a darker gray-green border at the bottom. Pose her in a graceful fashion-editorial stance, body angled diagonally, one long sleeve lifted outward and upward, the other sleeve draping forward, the train of the kimono pooling elegantly on the floor behind her. Her expression is calm, refined, and slightly melancholic, with soft makeup and downcast eyes. Use a semi-realistic anime / photoreal fashion illustration style with delicate fabric folds, luminous soft lighting, clean edges, and highly detailed hair, accessories, and textile contours. Isolate the character as a cutout on a {argument name="background type" default="transparent background with alpha channel"}; do not add scenery, props, text, watermark, border, or shadow-heavy background.
+```
+
+**来源：** [@Keiji](https://x.com/Keiji1653050/status/2091492801427198392) | 2026-08-23
+
+---
+
+### 🎨 例 6802：抽象天体山湖
+
+![抽象天体山湖](../images/%E6%8A%BD%E8%B1%A1%E5%A4%A9%E4%BD%93%E5%B1%B1%E6%B9%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宁静的宽幅抽象水彩风景画，长宽比为 16:9，画面呈现淡奶油色的朦胧天空，下方是两座蓝灰色山脉之间平静且具有反射效果的湖泊。场景应融合诗意的日本水墨画风格与精致的天体几何元素：柔和的大气雾霭、柔和的靛蓝色阴影、温暖的象牙色光线、细腻的纸张纹理以及细微的金色斑点。画面中放置两座主要山体，左侧为深色层叠山脉，右侧为较柔和的蓝色山脉，向明亮空旷的中心地平线延伸。前景展示如镜面般的水面，带有细长的白色同心涟漪线和流畅的弧形轮廓线。在左侧岸边添加稀疏的芦苇和干草，点缀着微小的金色种子头。叠加精确而淡雅的几何细节：细长的垂直引导线、大型透明圆弧、点状轨道曲线以及小型节点。在水面上方包含一个中央悬挂的垂直对齐结构，共有 7 个可见的圆形元素：顶部是一个微小的深色圆点，下方是两个浅色环形节点，接着是一个赭色小圆点、一个较大的金色球体、一个浅色环形节点，以及一个接触水面并产生涟漪的深蓝色球体。在左上方添加第二条带有小节点的细微垂直线，包括一个深蓝色圆点和一个浅黄色圆点。保持构图宽敞且具有冥想感，画面中无人、无建筑物、无文字、无边框且无水印。使用 {argument name="color palette" default="朦胧奶油色、靛蓝色、板岩灰、柔金色和白色"}，{argument name="landscape setting" default="黎明时分平静的山湖"}，{argument name="art style" default="抽象水彩水墨画与天体几何"}，以及 {argument name="mood" default="宁静、空灵、沉思"}。
+
+[English]
+Create a serene wide-format abstract watercolor landscape, 16:9 aspect ratio, with a pale cream misty sky over a calm reflective lake between two blue-gray mountain ranges. The scene should feel like poetic Japanese ink wash mixed with delicate celestial geometry: soft atmospheric haze, muted indigo shadows, warm ivory light, subtle paper texture, and fine gold flecks. Place two main mountain masses, one dark layered range on the left and one softer blue range on the right, receding toward a bright empty center horizon. In the foreground, show glassy water with thin white concentric ripple lines and sweeping curved contour lines. Add sparse reeds and dry grasses near the left shoreline, with tiny golden seed heads. Overlay precise but faint geometric details: thin vertical guide lines, large transparent circular arcs, dotted orbital curves, and small node points. Include one central hanging vertical alignment above the water with exactly seven visible circular elements: a tiny dark dot at the top, two small pale ring nodes below it, one small ochre dot, one larger golden sphere, one pale ring node, and one dark blue sphere touching the water and creating ripples. Add a second subtle vertical line with small nodes on the upper left, including one dark blue dot and one pale yellow dot. Keep the composition spacious and meditative, with no people, no buildings, no text, no frame, and no watermark. Use {argument name="color palette" default="misty cream, indigo blue, slate gray, soft gold, and white"}, {argument name="landscape setting" default="calm mountain lake at dawn"}, {argument name="art style" default="abstract watercolor ink wash with celestial geometry"}, and {argument name="mood" default="quiet, ethereal, contemplative"}.
+```
+
+**来源：** [@時科なごり](https://x.com/tokishinanagori/status/2091441618662650200) | 2026-08-23
+
+---
+

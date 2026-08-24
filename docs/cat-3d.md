@@ -7851,3 +7851,125 @@ This storyboard sheet must cover {argument name="timestamp" default="0:00"}
 
 ---
 
+### 🧸 例 6779：《进击的巨人》等距视角立体地图
+
+![《进击的巨人》等距视角立体地图](../images/%E3%80%8A%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%E3%80%8B%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E7%AB%8B%E4%BD%93%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超细节、照片级真实的等距微缩模型立体透视海报，展示 {argument name="anime title" default="进击的巨人"} 的世界，呈现为干净的米白色摄影背景下的收藏级博物馆地图。
+
+画布：垂直 4:5 海报构图。上三分之一为排版，下三分之二为悬浮的方形切割地形立体模型，侧面为崎岖岩石，下方带有柔和的写实阴影。
+
+顶部排版：居中对齐，使用高挑、紧凑、粗体、做旧的无衬线字体。上方小字间距排版为“THE WORLD OF”。主标题为“{argument name="main title text" default="ATTACK ON TITAN"}”，使用非常大的深炭灰色字母。下方小字间距排版为“{argument name="studio line" default="WIT STUDIO • 2013"}”。
+
+立体模型布局：以高角度等距视角展示围墙文明，包含三道巨大的同心圆石墙和防御城门。中心区域包含密集的圆形王都，设有放射状街道和白色中央纪念碑。周围环形区域包含微型村庄、农田、道路、河流、森林、瞭望塔和微小的人类模型。墙外后方是积雪的山脉、荒野、散落的废墟和开阔地形。模型外缘为厚实的悬崖状切割岩石基座，顶部覆盖草地。
+
+标签指示牌：包含 14 个小型深色矩形地图标签牌，带有白色大写文字，分布在立体模型周围：1) “BEYOND THE WALLS”（墙外）位于山脉附近，2) “ZIGANSHINA DISTRICT”（希干希纳区）位于左上墙区，3) “KROLVA DISTRICT”（克洛瓦区）位于右上墙区，4) “SHIGANSHINA DISTRICT”（希干希纳区）位于最右侧，5) “LAKE NALLE”（纳勒湖）位于左侧蓝色湖泊旁，6) “YARCKEL DISTRICT”（亚尔克尔区）位于左侧外围区域，7) “CHLORBA DISTRICT”（托洛斯特区）位于左下区域，8) “HUMANITY'S STRONGEST”（人类最强）位于左下角小型军事徽章旁，9) “TROST DISTRICT”（托洛斯特区）位于右侧外围区域，10) “TRAINING GROUNDS”（训练场）位于右下角，11) “ROYAL CAPITAL MITRAS”（王都米特拉斯）位于中心城市，12) “INNER WALL WALL SINA”（内墙 希娜之墙）位于最内层墙，13) “MIDDLE WALL WALL ROSE”（中墙 罗塞之墙）位于中间墙，14) “OUTER WALL WALL MARIA”（外墙 玛利亚之墙）位于前方外墙。
+
+主体细节：使墙环高耸、呈浅色石质、风化感强，并分段设有巨大的城门和红顶塔楼。在景观中填充微小的士兵、平民、马匹、瓦顶房屋、道路、农田、桥梁、溪流和森林。在墙外及墙附近添加少量微小的巨人般人形剪影以体现比例，但保持场景的地图感，而非动作焦点。
+
+视觉风格：超写实微缩模型摄影与动漫世界制图的结合，清晰的等距视角，温暖的日光，写实的阴影，高纹理细节，微小的手绘模型人偶，自然的绿色和棕色，浅色石墙，积雪的灰色山脉，电影级的景深效果，但所有重要标签均清晰可辨。
+
+约束：保持图片为单张海报，无边框，无水印，无额外 Logo。保留上述精确的 14 个地图标签和 3 个墙体标签。使用米白色背景，居中放置悬浮的立体模型，并配以干净的摄影棚灯光。
+
+[English]
+Goal: Create an ultra-detailed photorealistic isometric miniature scale-model diorama poster of the world from {argument name="anime title" default="Attack on Titan"}, presented like a collectible museum map on a clean off-white studio background.
+
+Canvas: Vertical 4:5 poster composition. The upper third is typography, the lower two-thirds is a floating square-cut terrain diorama with rugged rocky sides and a soft realistic shadow beneath.
+
+Top typography: Centered at the top, use tall condensed bold distressed sans-serif lettering. Small spaced text above reads "THE WORLD OF". Main title reads "{argument name="main title text" default="ATTACK ON TITAN"}" in very large dark charcoal letters. Small spaced text below reads "{argument name="studio line" default="WIT STUDIO • 2013"}".
+
+Diorama layout: Show the walled civilization as a high-angle isometric model with three enormous concentric circular stone walls and fortified gates. The center contains a dense circular royal city with radial streets and a white central monument. Surrounding rings contain miniature villages, farms, roads, rivers, forests, watchtowers, and tiny human figures. Beyond the walls at the back are snow-capped mountains, wilderness, scattered ruins, and open terrain. The outer edge of the model is a thick cliff-like cutaway rock base with grass on top.
+
+Labeled signs: Include exactly 14 small dark rectangular map-label plaques with white uppercase text, placed around the diorama: 1) "BEYOND THE WALLS" near the mountains, 2) "ZIGANSHINA DISTRICT" on the upper-left wall area, 3) "KROLVA DISTRICT" on the upper-right wall area, 4) "SHIGANSHINA DISTRICT" on the far right, 5) "LAKE NALLE" by a blue lake on the left, 6) "YARCKEL DISTRICT" on the left outer area, 7) "CHLORBA DISTRICT" on the lower-left area, 8) "HUMANITY'S STRONGEST" beside a small military crest on the lower-left, 9) "TROST DISTRICT" on the right outer area, 10) "TRAINING GROUNDS" on the lower-right, 11) "ROYAL CAPITAL MITRAS" at the central city, 12) "INNER WALL WALL SINA" on the innermost wall, 13) "MIDDLE WALL WALL ROSE" on the middle wall, 14) "OUTER WALL WALL MARIA" on the front outer wall.
+
+Subject details: Make the wall rings tall, pale stone, weathered, and segmented with massive gates and red-roofed towers. Populate the landscape with tiny soldiers, civilians, horses, tiled-roof houses, roads, farmland plots, bridges, streams, and forests. Add a few tiny Titan-like humanoid silhouettes outside and near the walls for scale, but keep the scene map-like rather than action-focused.
+
+Visual style: Hyper-realistic miniature model photography mixed with anime-world cartography, crisp isometric perspective, warm daylight, realistic shadows, high texture detail, tiny hand-painted model figures, natural greens and browns, pale stone walls, snowy gray mountains, cinematic depth of field but all important labels legible.
+
+Constraints: Keep the image as a single poster, no border, no watermark, no extra logos. Preserve the exact 14 map labels listed above and the three wall labels. Use an off-white background and a centered floating diorama with clean studio lighting.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2091529289283866634) | 2026-08-23
+
+---
+
+### 🧸 例 6792：梦幻奇趣 3D 卡通渲染
+
+![梦幻奇趣 3D 卡通渲染](../images/%E6%A2%A6%E5%B9%BB%E5%A5%87%E8%B6%A3%203D%20%E5%8D%A1%E9%80%9A%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个全身 3D 渲染作品，主角为 {argument name="subject" default="女孩"}，风格为 {argument name="style" default="受迪士尼、皮克斯及独立动画工作室启发的卡通风格"}。她有着闪烁的大眼睛、天真的表情，以及自然的 1:4 头身比。她正安静地坐在漂浮岛屿上方蓬松的云朵上。场景呈现出梦幻般的灯光、柔和的粉彩色调、神奇的漂浮景观以及奇趣的幻想氛围。该艺术作品将风格化的 3D 角色渲染与水彩纹理及模糊轮廓相结合，营造出一种绘画般的视觉效果。
+
+[English]
+A full-length 3D render of a {argument name="subject" default="girl"} in a {argument name="style" default="cartoon style inspired by Disney, Pixar, and independent animation studios"}. She has large sparkling eyes, an innocent expression, and a natural 1:4 head-to-body ratio. She is sitting peacefully on a fluffy cloud atop a floating island in the sky. The scene features dreamy lighting, soft pastel colors, magical floating landscapes, and a whimsical fantasy atmosphere. The artwork combines stylized 3D character rendering with watercolor textures and blurred contours for a painterly look.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2091480580865311004) | 2026-08-23
+
+---
+
+### 🧸 例 6807：里约热内卢 3D 纸艺立体模型
+
+![里约热内卢 3D 纸艺立体模型](../images/%E9%87%8C%E7%BA%A6%E7%83%AD%E5%86%85%E5%8D%A2%203D%20%E7%BA%B8%E8%89%BA%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个高度精细、照片级逼真的微缩旅行海报立体模型，灵感来源于 {argument name="city" default="里约热内卢"}，以手工制作的 3D 纸艺场景呈现，背景为温暖的象牙白且带有轻微纹理。
+
+在前景中，一只逼真的人手在左侧垂直拿着一张复古的 {argument name="nationality" default="巴西"} 旅行票据或里约主题的交通卡。赋予卡片陈旧的纸张质感、细微的印刷瑕疵、优雅的排版以及看起来真实的旅行细节。从卡片后方，一个微缩的里约热内卢景观像复杂的立体书模型一样物理性地向外凸起。
+
+将 {argument name="landmark" default="地标" default="基督救世主像"} 作为核心地标，置于微缩城市景观的高处，周围环绕着郁郁葱葱的绿色山脉。在下方，构建一条微小的写实里约街道，包含经典的黄色出租车、色彩斑斓的建筑、棕榈树、行人、骑行者、路灯、瓷砖人行道以及细小的巴西城市细节。在远处加入科帕卡巴纳海滩元素，点缀微小的遮阳伞、游客以及大西洋的一角。对建筑和地形进行分层处理，使一切看起来像是用纸张、木材、石膏和微缩材料物理构建而成，具有令人信服的深度、投影、重叠的表面以及轻微的四分之三视角。
+
+在 3D 主场景周围，融入精致的黑色、炭灰色和柔和棕褐色的手绘旅行插画。左上角包含一张微小的糖面包山草图，右上角是一幅艺术化的科帕卡巴纳海滨大道插画，右侧沿边是精细的塞勒隆阶梯草图，底部附近则是一幅微小的伊帕内玛海滩天际线绘图。添加微妙的手写旅行笔记、微小的地图标记、建筑轮廓、指南针符号、邮票细节以及低调的巴西旅行注释。
+
+保持构图精致而不拥挤。将写实的微缩摄影与复古旅行日志设计相结合，展现真实的纸张纤维、淡淡的墨水晕染、不完美的手绘线条、温暖的自然摄影棚灯光、柔和的阴影、细微的胶片颗粒，以及由奶油色、炭灰色、柔和绿色、海洋蓝和巴西黄组成的精致色调。
+
+最终图像应呈现出一种高端收藏级里约热内卢旅行明信片化身为物理微缩世界的感觉，中央立体模型细节锐利，周围插画略显柔和。高度写实的人手和手指、可信的微缩材料、电影级产品摄影、编辑类旅行杂志美学、浅景深、超精细纹理、照片级 3D 细节、垂直 4:5 构图、8K 画质。
+
+[English]
+Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background. In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama. Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective. Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations. Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette. The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2091408386466214031) | 2026-08-23
+
+---
+
+### 🧸 例 6825：3D 等轴测厚涂油画海报
+
+![3D 等轴测厚涂油画海报](../images/3D%20%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%8E%9A%E6%B6%82%E6%B2%B9%E7%94%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，以 **isometric / 轴测式3D空间逻辑**重构为精致的厚涂微景观。主体不是平面插画，而是具有明确体积、结构、前后关系和稳定落点的立体微缩实体；保留原物最关键的身份特征，可适度整理视角与比例，使其在统一轴测空间中更加完整、清晰、有雕塑感。
+
+主体坐落在一块由厚涂颜料形成的**主题色域**之上。色块不是普通矩形背景，而应根据原图内容转化为水面、地面、道路、草地、光带、岸线、影子或其他与主题相关的空间切片，并沿 isometric 透视方向自然延伸。主体必须与色块发生真实空间关系，可出现落地、嵌入、穿越、延伸、倒影、波纹、投影或局部越界，使二维厚涂笔触与三维主体巧妙连接。
+
+构图依据主体的体量、朝向和运动方向自适应安排，以**斜向轴测、稳定重心、前后纵深和大面积留白**建立专业空间秩序。主体通常位于色块的关键节点而非机械居中，色块承担视线引导和透视延伸；必要时可加入一组低权重的云、太阳、植物、波纹或抽象自然意象，与主体形成前后层次，但不建立第二视觉中心。
+
+绘画语言采用**立体微缩模型 × 厚涂油画 × 真实纸面**的融合方式。主体细节精致、体积清晰，周围环境则保留明显的刮刀痕迹、厚颜料堆积、起伏边缘和手工笔触；云、水、地面和光线可以具有近似浮雕般的油彩厚度，使画面产生“真实模型立在尚未干透的油画颜料上”的触觉错觉。
+
+配色从上方照片中提取**最明亮、最鲜活、最能代表主体精气神的颜色**重新调制，提高明度、纯净度和生命力，以大量清洁暖白作为呼吸空间，搭配清透主色和少量阳光般的暖色点睛。整体明亮、治愈、鲜活而高级，避免灰脏、低沉、莫兰迪化、荧光感和廉价糖果色。
+
+文字少量介入，从照片的主体、地点、情绪或象征意义中提炼简短标题，并搭配极少量副文、编号或微型注释。排版保持细致、克制，可顺应轴测方向、厚涂色块边缘或留白区域排列，与空间透视形成巧妙呼应，而不是独立贴在画面上的标题。
+
+整体呈现 **isometric 立体主体 × 厚涂色域 × 明亮治愈配色 × 真实纸张 × 大面积留白** 的视觉关系。无论主体是建筑、人物、动物、植物、器物、交通工具或自然景观，都应让三维主体真实“站立、生长或存在”于厚涂色块构成的空间中，避免平面贴图、普通插画、塑料CG、玩具模型感和模板化微景观。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2091340055138963955) | 2026-08-23
+
+---
+

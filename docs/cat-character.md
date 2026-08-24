@@ -8332,3 +8332,177 @@ Constraints: Keep the firearm unloaded-looking and presented only as a static vi
 
 ---
 
+### 🧍 例 6765：红色尖刺面具静物柜
+
+![红色尖刺面具静物柜](../images/%E7%BA%A2%E8%89%B2%E5%B0%96%E5%88%BA%E9%9D%A2%E5%85%B7%E9%9D%99%E7%89%A9%E6%9F%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为红色尖刺皮革头盔/面具的设计源，将其转化为写实风格的静物场景，而非动作肖像。移除佩戴者和动态模糊。将面具设计呈现为存放在旧青色木柜中的 7 顶实体头盔：上层架子放置 1 顶主头盔，左上角边缘截取 1 顶局部头盔，左下前方放置 1 顶大型开口头盔，其后方放置 1 顶破损/开口头盔，下方中央放置 1 顶倾斜头盔，右下后方放置 1 顶头盔，右前方放置 1 顶包含 {argument name="animal" default="一只小黑猫"} 的头盔。保留参考图中的红色皮革、黑色眼孔、金属铆钉、银色侧鳍、裂开的接缝以及手工制作的磨损感，但使所有头盔成为带有真实划痕和破损的实体物品。
+
+添加新环境：{argument name="setting" default="一个油漆剥落的青色木质壁橱或柜子内部"}，包含剥落的油漆、深邃的阴影、磨损的木板、污垢以及富有情绪的电影质感光效。在右侧墙壁上添加 3 张悬挂或钉住的陈旧小照片。使用深青色与红色的调色风格，营造浅景深氛围阴影、细腻的胶片颗粒感和高细节的写实效果。保持构图为竖向、私密且略带诡异感，仿佛是在废弃房间中被发现的场景。避免添加人物、文字、标志或超出上述 7 顶以外的额外头盔。
+
+[English]
+Using the provided reference image as the design source for the red spiked leather helmet/mask, transform it into a grounded photorealistic still-life scene instead of an action portrait. Remove the wearer and motion trails. Show the mask design as a collection of exactly 7 physical helmets stored in an old teal wooden cabinet: 1 main helmet on the upper shelf, 1 partial helmet cropped at the far upper-left edge, 1 large open helmet at the lower-left front, 1 broken/open helmet behind it, 1 tilted helmet in the lower center, 1 helmet at the lower-right rear, and 1 front-right helmet containing {argument name="animal" default="a small black cat"}. Preserve the red leather, black eye openings, metal studs, silver side fins, cracked seams, and worn handcrafted look from the reference, but make all helmets tangible objects with realistic scuffs and damage.
+
+Add a new environment: {argument name="setting" default="a decayed teal wooden closet or cabinet interior"} with chipped paint, dark shadows, worn planks, grime, and moody cinematic lighting. Add exactly 3 small aged photographs pinned or hanging on the right wall. Use a dark teal-and-red color grade, shallow atmospheric shadows, subtle film grain, and high-detail photorealism. Keep the composition vertical, intimate, and slightly eerie, as if discovered inside an abandoned room. Avoid adding people, text, logos, or extra helmets beyond the 7 listed.
+```
+
+**来源：** [@ibexdream](https://x.com/ibexdream/status/2091606385033126175) | 2026-08-23
+
+---
+
+### 🧍 例 6769：蓝色花卉和服角色设定图
+
+![蓝色花卉和服角色设定图](../images/%E8%93%9D%E8%89%B2%E8%8A%B1%E5%8D%89%E5%92%8C%E6%9C%8D%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位身着蓝白花卉和服的优雅年轻女性"} 创建一张简洁的动漫角色设定图，确保所有视角下的角色设计保持一致。
+
+画布：宽幅横向角色参考图，比例约为 3:1，白色背景，高分辨率数字动漫插画。在画布上排列五个独立的画面，不带任何文字标签。
+
+布局：从左到右精确展示 5 个角色视角：1) 四分之三侧身氛围肖像，角色回眸，叠加绘画风格的蓝色花卉纹理，并配有装饰性抽象背景；2) 正面大特写，聚焦于面部、刘海、眼睛、耳环及蓝色花朵发饰；3) 全身正面居中视图，直立站姿，双臂微张以展示和服轮廓；4) 右侧面半身像，展示发量、发饰、袖子及腰带；5) 从头部到上半身的背面视图，展示发型、长发、和服背面及深蓝色大蝴蝶结。
+
+角色细节：角色是一位精致的年轻动漫女性，皮肤白皙，面带柔和红晕，拥有清澈的蓝紫色大眼睛、小嘴唇，以及长而有光泽的 {argument name="hair color" default="带有深蓝色挑染的黑发"}。发型为直刘海，两侧留有长发丝，部分头发盘起。包含华丽的蓝色花卉发饰：硕大鲜艳的蓝色牵牛花状花朵、淡色小花、垂坠链条、珠串、蓝色流苏以及圆形吊坠耳环。
+
+服装：她身着精致的白色和服，配有蓝色滚边和淡蓝色花卉图案，装饰着蓝色花朵及微妙的橙色点缀花卉。使用深海军蓝腰带，背面可见深蓝色大蝴蝶结。全身视图中的鞋履为蓝白相间的传统木屐。袖口和下摆应呈现浅蓝色花卉图案及细腻的绘画细节。
+
+视觉风格：优雅的现代日本动漫角色设计，清晰的线条，柔和的水彩感花卉纹理，光泽感的蓝黑色发丝高光，明亮的眼睛，细腻的阴影，参考视图采用简洁的白色摄影棚背景，最左侧的肖像具有更具装饰性的层叠纸艺与花卉拼贴感。色调为 {argument name="color palette" default="白色、海军蓝、钴蓝色、淡蓝色、黑色及少量橙色点缀"}。
+
+约束：确保角色在所有 5 个视角中保持一致，在每个画面中维持相同的发型、配饰、和服图案及颜色。无标题，无 UI，无水印，无额外角色，无裁剪的全身视图。
+
+[English]
+Goal: Create a clean anime character sheet for {argument name="character name" default="an elegant young woman in a blue-and-white floral kimono"}, preserving one consistent character design across all views.
+
+Canvas: Wide horizontal character reference sheet, approximately 3:1 aspect ratio, white background, high-resolution digital anime illustration. Arrange five discrete panels across the canvas with no text labels.
+
+Layout: Show exactly 5 character views from left to right: 1) three-quarter atmospheric portrait with the character turned back over her shoulder, painterly blue floral texture overlay and decorative abstract background; 2) large front-facing bust close-up focusing on the face, bangs, eyes, earrings, and blue flower hair ornament; 3) full-body front view centered, standing upright with arms slightly open to show the kimono silhouette; 4) right-facing side profile bust showing hair volume, hair ornaments, sleeve, and obi; 5) rear view from head to upper body showing the hairstyle, long hair, back of kimono, and large dark-blue bow.
+
+Subject details: The character is a delicate young anime woman with pale skin, soft blush, large cool blue-violet eyes, small lips, and long glossy {argument name="hair color" default="black hair with deep blue highlights"}. Her hair has straight bangs, long flowing side strands, and partial updo sections. Include ornate blue floral hair accessories: large vivid blue morning-glory-like flowers, small pale blossoms, dangling chains, bead strands, blue tassels, and a circular charm earring.
+
+Outfit: She wears a refined white kimono with blue trim and pale blue floral patterns, decorated with blue flowers and subtle orange accent blossoms. Use a deep navy obi belt and a large dark-blue bow visible in the back view. Footwear in the full-body view should be blue-and-white traditional sandals. The sleeve edges and hem should show light blue floral motifs and delicate painterly detailing.
+
+Visual style: Elegant modern Japanese anime character design, crisp line art, soft watercolor-like floral textures, glossy black-blue hair highlights, luminous eyes, delicate shading, clean white studio background for the reference views, with the leftmost portrait having a more decorative layered paper-and-floral collage feel. Color palette is {argument name="color palette" default="white, navy blue, cobalt blue, pale blue, black, and small orange accents"}.
+
+Constraints: Keep the character consistent across all 5 views, maintain the same hairstyle, accessories, kimono pattern, and colors in every panel. No captions, no UI, no watermark, no extra characters, no cropped full-body view.
+```
+
+**来源：** [@みちゃ(micha)](https://x.com/micha_ai_art/status/2091563445246480426) | 2026-08-23
+
+---
+
+### 🧍 例 6778：道歉仓鼠表情包
+
+![道歉仓鼠表情包](../images/%E9%81%93%E6%AD%89%E4%BB%93%E9%BC%A0%E8%A1%A8%E6%83%85%E5%8C%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张可爱的两格竖版表情包图片，主角是同一只毛茸茸的黄白相间仓鼠，它正坐在新闻发布会的桌前对着麦克风道歉。
+
+画布：社交媒体常用的方形至竖向比例，约为 4:5，水平平分为 2 个等大的方格，中间有一条细白线作为分隔。采用写实而可爱的动物渲染风格，配合柔和的摄影棚灯光、浅景深以及米色幕布背景。
+
+布局：两格画面底部三分之一处均铺有蓝色桌布，背景为米色幕布，左侧桌面上放置着一个带黑色有线手持麦克风的桌面支架。仓鼠位于画面中右侧，特写镜头，头部和背部为金色皮毛，脸颊和身体为白色，圆耳朵，乌黑发亮的眼睛，粉色小鼻子，可见其小爪子搭在桌面上。
+
+第一格：仓鼠看起来很烦躁且不以为然，正视前方，眯着眼睛，嘴巴紧抿。麦克风位于仓鼠左侧，朝向它但并未触碰。在此格下部中央添加粗体日文表情包文字 {argument name="top caption" default="チッ うるせぇな"}。文字样式为圆润粗体，绿色填充，白色描边，带有淡淡的深色阴影。
+
+第二格：同一只仓鼠现在身体前倾靠近麦克风，用一只小爪子握住麦克风，睁大眼睛，嘴巴微张带笑，表现出表演性质的愉悦和歉意。在此格下部中央添加粗体日文表情包文字 {argument name="bottom caption" default="反省してま〜す"}。文字样式为圆润粗体，蓝色填充，白色描边，带有淡淡的深色阴影。
+
+主体细节：使用一只拥有 {argument name="fur color" default="金橙色与白色"} 绒毛的仓鼠，毛发细节丰富，带有细长胡须，身体圆润柔软，眼睛具有卡通般的表现力，同时保持其余部分的写实感。麦克风为黑色，带有金属网罩，线缆从左下角延伸出去，配有一个小巧的黑色支架。
+
+视觉风格：日本互联网表情包截图，写实可爱的动物模仿新闻道歉发布会，聚焦于仓鼠和麦克风，构图简洁，无额外角色，无 Logo，无水印，除两段字幕外无其他文字。
+
+[English]
+Goal: Create a cute two-panel vertical meme image featuring the same fluffy golden-and-white hamster at a press conference table, apologizing into a microphone.
+
+Canvas: Square-to-portrait social media format, about 4:5 ratio, split horizontally into exactly 2 equal panels with a thin white divider line between them. Use realistic-but-adorable animal rendering with soft studio lighting, shallow depth of field, and a beige curtain backdrop.
+
+Layout: Both panels show a blue tablecloth across the bottom third, beige curtain background, and a black wired handheld microphone on a small desk stand at the left side. The hamster is centered-right, large and close-up, with golden fur on the head and back, white cheeks and body, round ears, glossy black eyes, tiny pink nose, and visible little paws resting on the table.
+
+Panel 1: The hamster looks annoyed and unimpressed, facing forward with narrowed eyes and a small stern mouth. The microphone sits to the hamster’s left, angled toward it but not being touched. Add bold Japanese meme text along the lower center of this panel reading {argument name="top caption" default="チッ うるせぇな"}. Style the text as thick rounded characters, green fill, white outline, subtle dark shadow.
+
+Panel 2: The same hamster now leans toward the microphone and holds it with one tiny paw, looking performatively cheerful and apologetic with wide eyes and a small open smiling mouth. Add bold Japanese meme text along the lower center reading {argument name="bottom caption" default="反省してま〜す"}. Style this text as thick rounded characters, blue fill, white outline, subtle dark shadow.
+
+Subject details: Use a hamster with {argument name="fur color" default="golden orange and white"} plush fur, highly detailed individual hairs, small whiskers, soft chubby body, and expressive cartoon-like eyes while keeping the rest photorealistic. The microphone is black with a metal mesh grille, cable trailing off the lower left, and a compact black stand.
+
+Visual style: Japanese internet meme screenshot, realistic cute animal parody of a press apology conference, crisp focus on hamster and microphone, clean composition, no extra characters, no logos, no watermark, no additional text beyond the two captions.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2091531069548093524) | 2026-08-23
+
+---
+
+### 🧍 例 6823：写实风格女性角色参考图
+
+![写实风格女性角色参考图](../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张超写实的年轻女性角色参考图，作为电影级生活化场景中严格的身份参考。
+
+画布：垂直 3:4 肖像拼贴，简洁的编辑排版，柔和的自然日光，高级写实摄影风格，无文字，无标签，无水印。
+
+布局：使用 8 个画面整齐排列的网格。顶行包含 4 个全身站立视图：正面、四分之三正面、左侧面和背面。底行包含 4 个画面：左侧为两张近景头像（头部和肩部），分别展示中性表情和轻微微笑；右侧为两张全身生活化姿势，展示放松的站立姿态。
+
+角色细节：同一位 {argument name="character name" default="年轻东亚女性"} 出现在每个画面中，20 岁出头，苗条的女性比例，中等身高，光滑白皙的皮肤，椭圆形脸庞，精致的下颌线，自然的平眉，杏仁状的深棕色眼睛，小巧笔挺的鼻子，柔和自然的嘴唇，淡妆，表情平静且平易近人。她留着长长的 {argument name="hair color" default="黑色"} 头发，中分，带有柔和的波浪卷，垂过肩部，具有真实的质感和发丝细节。
+
+服装：她穿着一件修身的短袖罗纹 {argument name="top color" default="米白色"} 圆领 T 恤，高腰浅蓝色直筒牛仔裤，以及干净的白色低帮运动鞋。服装应具有真实的织物纹理、接缝、褶皱、牛仔缝线、口袋、腰带和自然的贴合感。
+
+画面细节：顶行精确包含 4 个全身身份转向视图：1 个双臂放松的中性正面站姿，1 个单手靠近口袋的四分之三正面站姿，1 个清晰的侧面站姿，1 个展示头发长度和牛仔裤后袋的背面视图。左下角精确包含 2 个近景肖像：1 个中性表情和 1 个温和的轻微微笑。右下角精确包含 2 个全身生活化姿势：1 个单手插兜、双腿交叉的随意倚靠姿势，1 个双臂交叉、面带柔和微笑的站姿。
+
+环境：极简明亮的公寓或摄影棚内景，背景为浅色墙壁、浅色木地板、米色沙发、黑白框画、盆栽绿植和精致的搁板。背景在各个画面中应保持柔和模糊且一致，如同真实的室内摄影。
+
+视觉风格：超写实真人外观，高分辨率商业摄影，50mm 镜头感，浅景深，柔和的电影级日光，自然的色彩分级，精准的解剖结构，真实的皮肤纹理，真实的头发物理效果，画面之间有清晰的垂直接缝。
+
+约束：在所有 8 个画面中保持完全相同的脸型、发型、身体比例、服装和身份。避免使用插画、动漫、美颜滤镜夸张效果、额外人物、多余肢体、扭曲的手部、文字覆盖、标志或不一致的服装。
+
+[English]
+Goal: Create an ultra-photorealistic character reference sheet for a young woman, suitable as a strict identity reference for cinematic lifestyle scenes.
+
+Canvas: Vertical 3:4 portrait collage, clean editorial layout, soft natural daylight, premium realistic photography, no text, no labels, no watermark.
+
+Layout: Use exactly 8 panels arranged in a neat grid. Top row contains 4 full-body standing views: front view, three-quarter front view, left side profile, and back view. Bottom row contains 4 panels: two close-up portrait head-and-shoulders shots on the left showing neutral and slight-smile expressions, then two full-body lifestyle poses on the right showing relaxed standing poses.
+
+Character details: The same {argument name="character name" default="young East Asian woman"} appears consistently in every panel, early 20s, slim feminine proportions, average height, smooth fair skin, oval face, delicate jawline, straight natural brows, almond-shaped dark brown eyes, small straight nose, soft natural lips, minimal makeup, calm approachable expression. She has long {argument name="hair color" default="black"} hair, center-parted with soft loose waves falling past the shoulders, realistic shine and individual strands.
+
+Outfit: She wears a fitted short-sleeve ribbed {argument name="top color" default="cream white"} crew-neck T-shirt, high-waisted light blue straight-leg jeans, and clean white low-top sneakers. Clothing should have realistic fabric texture, seams, folds, denim stitching, pockets, waistband, and natural fit.
+
+Panel details: Count exactly 4 full-body identity turnaround views in the top row: 1 front-facing neutral stance with arms relaxed, 1 three-quarter front stance with one hand near the pocket, 1 clean side profile stance, 1 back view showing hair length and rear jeans pockets. Count exactly 2 close-up portraits in the bottom-left: 1 neutral expression and 1 gentle slight smile. Count exactly 2 full-body lifestyle poses in the bottom-right: 1 leaning casually with one hand in pocket and one leg crossed, 1 standing with arms crossed and a soft smile.
+
+Environment: Minimal bright apartment or studio interior with pale walls, light wood floor, beige sofa, framed black-and-white wall art, potted green plants, and subtle shelves in the background. Background should remain softly blurred and consistent across panels, like a real indoor photoshoot.
+
+Visual style: Ultra-photorealistic live-action look, high-resolution commercial photography, 50mm lens feel, shallow depth of field, soft cinematic daylight, natural color grading, accurate anatomy, realistic skin texture, realistic hair physics, clean vertical seams between panels.
+
+Constraints: Preserve the exact same face, hairstyle, body proportions, outfit, and identity in all 8 panels. Avoid illustration, anime, beauty-filter exaggeration, extra people, extra limbs, distorted hands, text overlays, logos, or inconsistent clothing.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2091345498909319528) | 2026-08-23
+
+---
+
+### 🧍 例 6830：身份置换图像一致性提示词
+
+![身份置换图像一致性提示词](../images/%E8%BA%AB%E4%BB%BD%E7%BD%AE%E6%8D%A2%E5%9B%BE%E5%83%8F%E4%B8%80%E8%87%B4%E6%80%A7%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+图像编辑任务。使用 {argument name="base image" default="Image 1"} 作为基础图像。复刻相同的场景、姿势、摄像机角度、构图、光照、服装风格和背景。仅更改 {argument name="identity" default="person identity"} 以匹配附加的 AI 模型参考图像。保持相同的身体朝向、手部位置、面部朝向和构图。保留原始手机拍摄的质感：轻微的运动模糊、JPEG 压缩痕迹、传感器噪点、不完美的裁剪、真实的阴影、不均匀的室内光线以及自然的皮肤纹理。不要将其处理成摄影棚渲染的效果。
+
+[English]
+Image editing task. Use Image 1 as the base image. Reproduce the same scene, pose, camera angle, framing, lighting, outfit style and background. Change only the {argument name="person identity" default="person identity"} to match the attached AI model reference images. Keep the same body orientation, hand position, facial direction and composition. Preserve the {argument name="aesthetic" default="raw phone-photo look"}: slight motion blur, JPEG compression, sensor noise, imperfect crop, real shadows, uneven indoor light and natural skin texture. Do not make it look like a studio render.
+```
+
+**来源：** [@Tobias Fendt](https://x.com/tobiasfendt_/status/2091315236817301938) | 2026-08-23
+
+---
+

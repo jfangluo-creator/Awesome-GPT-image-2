@@ -14120,3 +14120,79 @@ Visual style: Retro-futuristic 1995 computer graphics, low-poly 3D render, voxel
 
 ---
 
+### 🖥️ 例 6766：可爱宝宝与小猫壁纸
+
+![可爱宝宝与小猫壁纸](../images/%E5%8F%AF%E7%88%B1%E5%AE%9D%E5%AE%9D%E4%B8%8E%E5%B0%8F%E7%8C%AB%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="subject" default="戴着帽子、身穿粉色衣服的可爱宝宝"}，有着大大的眼睛，被 {argument name="companions" default="小猫"} 环绕，脸上带着幸福的微笑，光线温暖，色彩柔和。摄影风格类似于 {argument name="style" default="可爱宠物壁纸背景"}，画面中展示宝宝的全身。
+
+[English]
+A {argument name="subject" default="cute baby wearing pink and a hat"} with big eyes, surrounded by {argument name="companions" default="kittens"}, with a happy smile, warm lighting, and soft colors. The photography style resembles a {argument name="style" default="cute pet wallpaper background"}, with the baby's full body visible in the image.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2091586526492967080) | 2026-08-23
+
+---
+
+### 🖥️ 例 6797：圆角视频框中的豪华大厦
+
+![圆角视频框中的豪华大厦](../images/%E5%9C%86%E8%A7%92%E8%A7%86%E9%A2%91%E6%A1%86%E4%B8%AD%E7%9A%84%E8%B1%AA%E5%8D%8E%E5%A4%A7%E5%8E%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张单一的写实 CGI 建筑静态图，主体为 {argument name="building type" default="豪华现代住宅大厦"}，采用极具冲击力的低角度仰视视角，居中置于宽幅水平圆角矩形框内。大厦应呈现高端奢华质感，约 10–12 层高，配备玻璃幕墙、大型反光窗户、深色金属阳台栏杆、米色石材或混凝土外立面饰带、垂直棕色装饰柱、内凹式阳台，以及利落的现代几何造型。将建筑物置于纯粹的无限黑色背景中，画面中不得包含天空、景观、人物、车辆、文字、Logo 或水印。采用高端摄影棚灯光，玻璃与金属表面带有细腻反光，呈现精致的建筑可视化效果，材质真实，垂直线条锐利，并带有轻微的电影感柔光。构图应呈现为嵌入简洁白色界面中的视频框效果：图像区域周围有厚实的白色边框，配有大型圆角黑色观看窗口，白色边框面板上方和下方留有黑色遮幅空间。大厦从画面下方中央升起，底部边缘进行裁剪，顶部因透视关系略微后倾，以突显其高度与奢华感。
+
+[English]
+Create a single photorealistic CGI architectural still of a {argument name="building type" default="luxury modern residential tower"} viewed from a dramatic low angle, centered inside a wide horizontal rounded-rectangle frame. The tower should look premium and expensive, approximately 10–12 stories tall, with glass curtain walls, large reflective windows, dark metal balcony railings, beige stone or concrete facade bands, vertical brown accent columns, recessed balconies, and crisp contemporary geometry. Place the building against a pure infinite black background with no sky, landscape, people, cars, text, logos, or watermark. Use high-end studio lighting with subtle reflections on glass and metal, a polished architectural visualization look, realistic materials, sharp vertical lines, and slight cinematic softness. The composition should appear like a video frame embedded in a clean white interface: thick white border around the image area, large rounded black viewing window, and black letterbox space above and below the white framed panel. Keep the tower rising from the lower center, cropped near the bottom edge, with the top leaning slightly back from perspective, emphasizing height and luxury.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2091469283901784073) | 2026-08-23
+
+---
+
+### 🖥️ 例 6820：故障风格“Lost Save”动漫游戏封面
+
+![故障风格“Lost Save”动漫游戏封面](../images/%E6%95%85%E9%9A%9C%E9%A3%8E%E6%A0%BC%E2%80%9CLost%20Save%E2%80%9D%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="game title" default="ロスト・セーブ"} 创作一张方形赛博朋克动漫游戏封面插图，风格模仿损坏的复古街机/VHS 屏幕，画面包含一个向观众伸手的戏剧性特写角色以及密集的像素 UI 叠加层。
+
+画布：1:1 正方形构图，深黑色背景，霓虹青色/蓝色/紫色调，发光的 CRT 边框，扫描线，色差，故障伪影，像素抖动，轻微鱼眼透视，高对比度电影级光效。
+
+主体：一位名叫 {argument name="player name" default="ALOKU"} 的中性风动漫角色从中心向前倾身，左下方前景处手持复古掌机/控制器伸向镜头。手部和设备距离最近且带有轻微动态模糊，面部清晰。角色留着凌乱的齐肩 {argument name="hair color" default="薄荷绿渐变电光蓝发梢"}，发丝带有湿润感，刘海遮住部分眼睛，露出顽皮的尖牙笑容，皮肤苍白，佩戴小圆环/水滴耳环、黑色项圈、叠穿深色街头服饰及吊坠项链。强烈的青色轮廓光勾勒出头发和肩膀。
+
+布局与 UI 元素：添加精确的 14 个可见复古游戏界面元素：1 个左上角“▶ PLAY”标签，1 个右上角显示“HI-SCORE 00012026”的分数块，1 个左上方的像素外星人图标，1 个显示“1UP ALOKU”的玩家状态块，1 个小方格网格图标，1 个小星星/火花图标，1 个包含两个实心心形和三个空心心形的生命值槽，1 个微小的版本标签“ALOKU ver 1.00”，1 个右侧垂直文字“INSERT ME IN YOUR HEART♡”，1 个右侧中心附近的对话气泡，内含日文“まだ 終われない。”，1 个垂直排列的四个小骷髅图标，1 个“CHAPTER_01”区块，1 个底部包含“YES”和“NO”两个按钮的选择提示，以及 1 个左下角显示“RARE”的稀有度徽章。
+
+文字内容：主标题必须是横跨底部中心的大号发光像素文字，内容为 {argument name="game title" default="ロスト・セーブ"}，下方直接标注英文副标题“LOST SAVE”。在其下方添加“> PRESS START_”。右下角包含简短的日文点缀文字：“データが見つかりません だってボクは ‘バグった主人公’だから。” 左下角 RARE 徽章下方添加两个小型项目符号标签：“MUSIC JACKET” 和 “PIXEL EMO”。
+
+视觉风格：高细节动漫主视觉图，光泽感数字绘画与像素艺术 HUD 结合，霓虹青色排版，黑色与青色调街机界面，损坏的存档文件美学，情感丰富且俏皮的故障主角氛围，戏剧性的景深，强烈的屏幕光晕，细微的像素噪点，破碎的 UI 片段，避免使用现代简洁 UI。
+
+约束：保留上述 14 个 UI 元素的精确数量，确保所有文字清晰可辨并像游戏开始界面一样排列，避免添加额外角色，避免写实摄影，避免添加与设计无关的水印或 Logo。
+
+[English]
+Goal: Create a dark cyberpunk anime game-cover poster for a fictional retro video game called {argument name="game title" default="ロスト・セーブ"}, with a VHS/CRT glitch aesthetic and pixel-art UI overlays.
+
+Canvas: Square 4:5-ish poster composition, black background with neon cyan, electric blue, violet, and teal highlights. Add a glowing arcade screen border, scanlines, chromatic aberration, pixel noise, corrupted blocks, and thin HUD frames.
+
+Main subject: A close-up dynamic anime illustration of an androgynous young person named {argument name="character name" default="ALOKU"}, leaning toward the viewer with one arm thrust forward holding a retro handheld game controller. They have messy layered {argument name="hair color" default="mint green hair fading into vivid blue tips"} covering one eye, pale skin, a sharp mischievous grin with visible teeth, green eyes, black nail polish, earrings, a black choker, layered necklaces, and an oversized dark hoodie or jacket. Use dramatic rim lighting from cyan and blue, with painterly detailed hair strands and a gritty high-contrast shadowed face.
+
+Layout and visible UI elements: Include exactly 11 major UI/text elements: 1) top-left pixel label “▶ PLAY”; 2) left column pixel alien icon with “1UP” and “ALOKU”; 3) top-right score block reading “HI-SCORE 00012026” with a row of hearts and “ALOKU ver 1.00”; 4) right vertical text “INSERT ME IN YOUR HEART♡”; 5) small speech bubble near the character reading {argument name="speech bubble text" default="まだ 終われない。"}; 6) large central Japanese title “ロスト・セーブ”; 7) English subtitle “LOST SAVE”; 8) command line “> PRESS START_”; 9) bottom-left rarity sticker “RARE” with two feature lines “MUSIC JACKET” and “PIXEL×EMO”; 10) bottom-right chapter block “CHAPTER_01” with Japanese flavor text; 11) two small choice buttons labeled “YES” and “NO”. Also add exactly 4 small pixel skull icons stacked vertically along the right side.
+
+Visual style: High-detail modern anime key visual blended with retro arcade pixel graphics, holographic cyan typography, glitch fragments, datamosh artifacts, old game cartridge mood, emotional “bugged protagonist” atmosphere, dramatic fisheye perspective from the outstretched hand, shallow depth of field on the controller, sharp focus on the face and title.
+
+Constraints: Keep all text legible but intentionally pixelated, do not add extra large titles beyond the listed text, keep the character centered and dominant, emphasize the feeling of a broken save file that refuses to end.
+```
+
+**来源：** [@亞緑(あろく)](https://x.com/aroku0626/status/2091351733050261773) | 2026-08-23
+
+---
+

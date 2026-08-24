@@ -3797,3 +3797,87 @@ Using REFERENCE_0 as the classical mythological painting style and winged celest
 
 ---
 
+### 🔧 例 6772：极简手绘涂鸦风格
+
+![极简手绘涂鸦风格](../images/%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图像转换为迷人的极简手绘涂鸦插画。在保留主体、姿势、比例和整体构图的同时，将其简化为俏皮、童趣的形态。使用带有轻微抖动、压力不均且自然不完美的笔触，勾勒出随性的毛笔线条。保持线条简洁疏朗，并加入微小而富有表现力的细节，赋予主体个性。添加精致的水彩墨迹，进行非常柔和、克制的色彩点缀，同时保留大量留白。营造出一种天真的速写本氛围，充满奇思妙想的卡通形状、随性的标记、柔和的瑕疵以及真实的手绘质感。避免过多的细节、写实感、厚重的阴影或精致的数字矢量边缘。最终效果应呈现出一种可爱的艺术家手绘水彩墨迹涂鸦感。
+
+[English]
+Transform the image into a charming minimalist hand-drawn doodle illustration. Preserve the main subject, pose, proportions, and overall composition while simplifying everything into playful, childlike forms. Use loose brush-pen outlines with subtle wobble, uneven pressure, and naturally imperfect handmade strokes. Keep the linework clean and sparse, with tiny expressive details that give the subject personality. Add delicate watercolor-ink touches with very soft, restrained color accents while maintaining plenty of clean white space. Create a naive sketchbook feeling with whimsical cartoon shapes, spontaneous marks, gentle imperfections, and an authentic handmade drawing quality. Avoid excessive detail, realism, heavy shading, or polished digital-vector edges. The final result should feel like a cute artist’s notebook doodle drawn by hand with watercolor ink.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2091548854760181828) | 2026-08-23
+
+---
+
+### 🔧 例 6781：黑墨书法转换
+
+![黑墨书法转换](../images/%E9%BB%91%E5%A2%A8%E4%B9%A6%E6%B3%95%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为字形来源，将红色的印刷体楷书字形转换为 GPT Image 2 风格的黑墨毛笔书法渲染图。在保持原有字符、比例、位置和白色方形画布不变的前提下，将整洁的红色矢量风格笔画替换为纯黑色墨迹笔画，并呈现出粗糙的鬃毛质感、枯笔飞白、边缘不平整以及锋利的“捺”或“撇”收笔效果。移除顶部的原始红色日文字体标签，并在左上角添加纯黑色文本标签 {argument name="top left label" default="GPT Image 2"}。保留与参考布局完全一致的 3 个独立主要笔画组件：左侧的大型竖/横笔画、右上角的小点笔画以及右下角的扫笔笔画。呈现极简的单色对比样本外观，无额外装饰，无水印。
+
+[English]
+Using REFERENCE_0 as the character-shape source, transform the red printed kaisho glyph into a GPT Image 2-style black brush-calligraphy rendering. Preserve the same overall character, scale, placement, and white square canvas, but replace the clean red vector-like strokes with solid black ink strokes that have rough bristle texture, dry-brush fraying, uneven edges, and sharp sweeping hane/harai endings. Remove the original red Japanese font label at the top and instead add the plain black text label {argument name="top left label" default="GPT Image 2"} in the upper-left corner. Keep exactly 3 separated main stroke components matching the reference layout: the large left vertical/cross stroke, the small upper-right dot stroke, and the lower-right sweeping stroke. Minimal monochrome comparison-sample look, no extra decoration, no watermark.
+```
+
+**来源：** [@ykwe](https://x.com/yukawe/status/2091517127551541729) | 2026-08-23
+
+---
+
+### 🔧 例 6809：Q 版动漫城市变身
+
+![Q 版动漫城市变身](../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%E5%9F%8E%E5%B8%82%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为主要参考。将人物转换为 {argument name="art style" default="可爱的、手绘动漫/Q 版角色"}，同时保留原人物可辨认的面部特征、发型、服装、姿势和配饰。
+
+一位可爱的年轻女性站在蓝调时刻的现代城市街道上，周围环绕着高耸的照明摩天大楼和节日圣诞装饰。一棵巨大的发光 {argument name="centerpiece" default="圣诞树"} 覆盖着温暖的金色灯光，矗立在她身后，营造出神奇的节日氛围。街道上充满了优雅的装饰灯、行人、现代建筑和柔和的城市夜景照明。
+
+以迷人的 {argument name="illustration style" default="日式手绘动漫/Q 版插画风格"} 渲染角色，具有富有表现力的大眼睛、脸颊上的柔和腮红、精致的面部细节、带纹理的铅笔和墨水轮廓、微妙的水彩感着色以及略显不完美的纯手工素描细节。保持背景写实且高度精细，在插画角色与现实环境之间形成鲜明的对比。
+
+电影级构图、自然视角、柔和的夜间照明、温暖的圣诞光芒、逼真的背景深度、细腻的服装纹理、舒适的冬季氛围、高细节、美观、竖向人像构图。
+
+[English]
+Use the uploaded image as the primary reference. Transform the person into a {argument name="character style" default="cute, hand-drawn anime/chibi character"} while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.
+
+A cute young woman standing on a {argument name="setting" default="modern city street at blue hour"}, surrounded by tall illuminated skyscrapers and {argument name="decorations" default="festive Christmas decorations"}. A huge glowing Christmas tree covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.
+
+Render the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.
+
+Cinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2091401764360896762) | 2026-08-23
+
+---
+
+### 🔧 例 6811：照片转涂鸦风格角色
+
+![照片转涂鸦风格角色](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅将上传照片中的人物转换为可爱的涂鸦风格角色，同时保持原始照片背景不变。核心规则：背景 = 原始写实照片；人物 = 可爱的手绘涂鸦角色。保留背景：尽可能保持原始照片中的天空、景观、建筑、水体、家具、地面、植物、栏杆、物体、光影、色彩、透视、摄像机角度、构图和纹理。请勿对背景或环境物体进行重绘、简化、插画化或应用涂鸦/蜡笔/铅笔效果。仅转换人物：将每个人替换为迷人且稚拙的涂鸦版本，同时保留：- 人物的确切数量 - 原始位置和相对比例 - 正面/背面/侧面/四分之三侧面朝向 - 头部和身体方向 - 姿势和动作 - 手臂和腿部位置 - 与人或物体的互动 - 发型、服装颜色及主要配饰。重要提示：如果某人背对镜头，请保持背对；如果是侧面，请保持侧面；如果是正面，请保持正面。切勿将人物旋转至面向观众，也不要凭空创造不可见的脸部。可爱涂鸦风格：自由地将写实解剖结构重新诠释为可爱且不完美的角色：- 超大的圆头 - 娇小紧凑的身体 - 短小简化的四肢 - 微小的手脚 - 可爱笨拙的比例 - 随意的涂鸦发型 - 可见时使用小圆点眼睛和简单的面部特征 - 适当时加上红润的涂鸦脸颊。保持原始姿势的可辨识度，但进行简化并适当夸张以增加可爱感。绘画风格：随意的稚拙手绘涂鸦，类似于快速的儿童素描。使用细而颤抖的黑色轮廓、不完美的形状、重叠的草图线条、涂鸦式的彩色铅笔或蜡笔填充、不均匀的着色、留白以及略显凌乱的边缘。角色应看起来是刻意粗略绘制的，但极其可爱。物体：人物周围的物体、家具、风景和物品应尽可能保持照片质感。涂鸦角色可以自然地接触或握住真实的摄影物体。融合：保持正确的比例、地面接触感、深度和遮挡关系，使涂鸦角色自然地占据原人物的位置。最终效果：感觉就像将真人从原始照片中移除，并替换为他们可爱的小手绘涂鸦版本，而真实世界的背景保持不变。优先事项：1. 原始摄影背景 2. 人物位置和比例 3. 精确的身体朝向 4. 姿势和动作 5. 可爱夸张的涂鸦角色设计。避免全图插画化、背景涂鸦化、写实解剖结构、动漫、漫画、3D 卡通、精致数字艺术、矢量线条、改变姿势、改变朝向、增加人物或凭空创造脸部。
+
+[English]
+Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged. CORE RULE: Background = original realistic photo. People = cute hand-drawn doodle characters. PRESERVE THE BACKGROUND: Keep the original sky, landscape, buildings, water, furniture, ground, plants, railings, objects, lighting, colors, perspective, camera angle, framing, and textures as close to the original photo as possible. Do NOT redraw, simplify, illustrate, or apply doodle/crayon/pencil effects to the background or environmental objects. TRANSFORM ONLY PEOPLE: Replace each person with a charming, naive doodle version while preserving: - exact number of people - original position and relative scale - front/back/side/three-quarter orientation - head and body direction - pose and gesture - arm and leg positions - interactions with people or objects - hairstyle, clothing colors, and major accessories IMPORTANT: If someone faces away, keep them back-facing. If sideways, keep them sideways. If facing forward, keep them forward. Never rotate a person toward the viewer or invent a face that is not visible. CUTE DOODLE STYLE: Freely reinterpret realistic anatomy into an adorable, imperfect character: - oversized round head - tiny compact body - short simplified arms and legs - tiny hands and feet - cute awkward proportions - loose scribbled hair - tiny dot eyes and simple facial features when visible - rosy scribbled cheeks when appropriate Keep the original pose recognizable, but simplify and slightly exaggerate it for cuteness. DRAWING STYLE: Loose naive hand-drawn doodle, like a quick children's sketch. Use thin shaky black outlines, imperfect shapes, overlapping sketch lines, scribbled colored-pencil or crayon fills, uneven coloring, white gaps, and slightly messy edges. The character should look intentionally roughly drawn but extremely cute. OBJECTS: Objects, furniture, scenery, and items around the people should remain photographic whenever possible. A doodle character may naturally touch or hold a real photographic object. INTEGRATION: Keep correct scale, ground contact, depth, and occlusion so the doodle characters naturally occupy the same locations as the original people. FINAL LOOK: It should feel like the real people were removed from the original photograph and replaced with adorable little hand-drawn doodle versions of themselves, while the real-world background remained untouched. Prioritize: 1. Original photographic background 2. Person position and scale 3. Exact body orientation 4. Pose and gesture 5. Cute exaggerated doodle character design Avoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2091391958128251286) | 2026-08-23
+
+---
+

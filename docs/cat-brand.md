@@ -18355,3 +18355,135 @@ Style constraints: Make it look like a polished advertising storyboard, not a co
 
 ---
 
+### 🏷️ 例 6764：架空历史欧洲政治地图
+
+![架空历史欧洲政治地图](../images/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2%E6%AC%A7%E6%B4%B2%E6%94%BF%E6%B2%BB%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+如果欧洲歌唱大赛从未存在过的欧洲政治地图
+
+[English]
+A political map of Europe if Eurovision never existed
+```
+
+**来源：** [@Generated Atlas](https://x.com/GeneratedAtlas/status/2091609203588632680) | 2026-08-23
+
+---
+
+### 🏷️ 例 6787：Worldwalker 奇幻成就艺术图
+
+![Worldwalker 奇幻成就艺术图](../images/Worldwalker%20%E5%A5%87%E5%B9%BB%E6%88%90%E5%B0%B1%E8%89%BA%E6%9C%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="achievement name" default="Worldwalker"} 创建一张竖版奇幻成就艺术图：一位戴着兜帽的孤独旅行者站在古老圆形石制枢纽的中心，采用略微俯视的电影化视角。场景黑暗、神秘且宏大，以紫罗兰色、靛蓝色、黑色和洋红色光影为主调，并点缀着微妙的金色和冰蓝色。在旅行者周围布置五个截然不同的世界传送门，每个传送门代表一个不同的领域：1) 左侧是一个被扭曲的黑色根茎和藤蔓环绕的椭圆形传送门，通向日落时分温暖的金色森林；2) 上方中心是一个巨大的垂直浮石传送门，伴有紫色闪电裂纹，显露出超现实外星景观中遥远的尖顶水晶城堡；3) 右侧是一个尖锐的三角形冰晶传送门，散发着冷冽的蓝白色光芒，展现出一座晶体塔楼构成的冰封城市；4) 左下方是一个旋转的星系漩涡传送门，充满恒星和紫色宇宙星云；5) 右下方是一个块状像素化的立方体碎片传送门，发出洋红色光芒，展示出一座霓虹数字城市景观。中心处的旅行者身形虽小但显得英勇，身披深色斗篷，手持法杖或手杖，站在刻有符文的圆形地面上，地面上有通向每个传送门的路径。画面需包含复杂的环境细节、漂浮的碎片、破碎的石块、魔法粒子、大气雾气、体积光，采用绘画风格的概念艺术渲染，具有高对比度、清晰的轮廓，并呈现出高级游戏成就徽章的质感。画面中不应包含任何可读文字、UI 边框、Logo 或水印。
+
+[English]
+Create a vertical fantasy achievement artwork for {argument name="achievement name" default="Worldwalker"}: a lone hooded traveler stands at the center of an ancient circular stone nexus, viewed from a slightly elevated cinematic angle. The scene is dark, mystical, and epic, dominated by violet, indigo, black, and magenta lighting with subtle gold and icy blue accents. Show exactly five distinct world portals arranged around the traveler, each representing a different realm: 1) an oval portal on the left framed by twisted black roots and vines, opening to a warm golden forest at sunset; 2) a large vertical floating-stone portal at the upper center, cracked with purple lightning, revealing a distant spired crystal castle over a surreal alien landscape; 3) a sharp triangular ice-crystal portal on the right, glowing cold blue-white and showing a frozen city of crystalline towers; 4) a swirling spiral galaxy vortex portal at the lower left, filled with stars and purple cosmic mist; 5) a blocky pixelated cube-fragment portal at the lower right, glowing magenta and showing a neon digital cityscape. The central traveler should be small but heroic, wearing a dark cloak and holding a staff or walking stick, standing on a circular rune-like floor with pathways radiating toward each portal. Use intricate environmental detail, floating debris, fractured stone, magical particles, atmospheric fog, volumetric light, painterly concept-art rendering, high contrast, sharp silhouettes, and a premium game achievement badge feel. No readable text, no UI frame, no logo, no watermark.
+```
+
+**来源：** [@David Stöckli](https://x.com/davidstoeckli/status/2091495129026527447) | 2026-08-23
+
+---
+
+### 🏷️ 例 6789：水彩幻想龙鸟少年
+
+![水彩幻想龙鸟少年](../images/%E6%B0%B4%E5%BD%A9%E5%B9%BB%E6%83%B3%E9%BE%99%E9%B8%9F%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和的水彩动漫插画，描绘一个名为 {argument name="character name" default="未命名的龙鸟少年"} 的开朗幻想兽人少年，他正蹲在阳光明媚的公园里。他留着凌乱的短 {argument name="hair color" default="深紫色"} 发，长着一对巨大的、内侧毛色较浅的狼/猫状竖耳，额头上架着一副圆形的橙色墨镜，闭着眼睛微笑，表情轻松而调皮。他的身体融合了人类、鸟类、爬行动物和海洋生物的特征：绿色的鳞片小腿，巨大的橙色鸟状利爪，脚趾带有蓝色爪子，身后拖着一条弯曲的绿色爬行动物尾巴，背部有蓝色的小背棘，一只手臂上有橙白相间的羽毛，左手脸颊旁缠绕着一个小章鱼同伴或触手状生物，清晰可见八条蓝绿色的触手和圆形的蓝色吸盘。让他身穿一件深海军蓝色的中式无袖马甲，配有橙金色滚边和盘扣，下身穿着宽松的深海军蓝色七分裤，裤脚有橙色镶边，腰间挂着一条装饰有金色小挂件和流苏的橙色前襟。让他以微向左侧的低蹲姿势蹲着，一只手肘撑在膝盖上，另一只手托着脸颊，看起来无忧无虑且可爱。在他上方和后方放置一把倾斜的传统日式油纸伞，伞面外侧为淡薄荷色，内侧为暖橙色，配有蓝色伞骨和深蓝色伞柄。背景：明亮过曝的夏季公园，有柔和的绿树、斑驳的阳光、浅色的草地和步道，远处右侧有一张模糊的木长椅。视觉风格：精致的手绘动漫水彩，轻盈的铅笔/墨水轮廓，柔和的粉彩色调，半透明的水彩渲染，空气感的高调照明，柔和的光晕，奇幻的角色设计，无文字，无水印，竖构图肖像。
+
+[English]
+Create a soft watercolor anime illustration of a cheerful fantasy beast-boy character named {argument name="character name" default="unnamed dragon-bird boy"} crouching in a sunlit park. He has short messy {argument name="hair color" default="deep violet"} hair, large upright wolf/cat-like ears with pale inner fur, round orange-tinted sunglasses resting on his forehead, closed smiling eyes, and a relaxed mischievous grin. His body blends human, bird, reptile, and sea-creature traits: green scaled lower legs, large orange birdlike taloned feet with blue claws, a long green reptilian tail curving behind him with small blue dorsal spines, feathered orange-and-white arm plumage on one arm, and a small octopus companion or tentacled hand-like creature draped over his left hand near his cheek, with exactly eight visible green-blue tentacles and round blue suction cups. Dress him in a sleeveless dark navy Chinese-style vest with orange-gold trim and frog closures, loose dark navy cropped pants with orange edging, and an orange hanging front sash decorated with a small gold ornament and tassel. Pose him in a low squat facing slightly left, one elbow resting on his knee and one hand supporting his cheek, looking carefree and cute. Above and behind him place one large traditional Japanese paper parasol, tilted diagonally, with pale mint outer panels, warm orange underside, blue ribs, and a dark blue handle pole. Background: bright overexposed summer park with soft green trees, dappled sunlight, pale grass and path, and one faint wooden bench in the right distance. Visual style: delicate hand-painted anime watercolor, light pencil/ink outlines, pastel colors, translucent washes, airy high-key lighting, gentle bloom, whimsical fantasy character design, no text, no watermark, vertical portrait composition.
+```
+
+**来源：** [@A-kei(エィケイ)](https://x.com/A__Kei/status/2091492793755562202) | 2026-08-23
+
+---
+
+### 🏷️ 例 6816：海盗放克播放列表封面
+
+![海盗放克播放列表封面](../images/%E6%B5%B7%E7%9B%97%E6%94%BE%E5%85%8B%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="playlist title" default="FUNK GUERRA!"} 创建正方形 Spotify 播放列表封面艺术，风格设定为大胆的复古丝网印刷海盗放克专辑海报。使用黑色背景，搭配暖奶油色和鲜艳红橙色的受限色调，呈现厚重的做旧墨迹质感、粗糙的半调/颗粒感、锐利的高对比度矢量形状以及戏剧性的漫画书式光影。中心主体是一位侧脸向右的凶猛海盗船长，留着长长的黑色辫子和浓密胡须，佩戴圆环耳环，头戴印有骷髅交叉骨标志的三角帽，身穿带有奶油色轮廓和纽扣的深色海军大衣。他在右下角前景处紧握一个巨大的船舵。在他身后，包含 2 个海盗符号：一个位于帽子上，另一个位于右侧的黑色旗帜上。在左上角海盗身后添加一个巨大的红橙色做旧月亮。在右上角放置一个小的长方形红橙色轮廓标签，内含以粗体大写字母书写的 {argument name="duration label" default="1 HOUR"}。下半部分由超大的堆叠排版占据：第一个单词 {argument name="top title word" default="FUNK"} 为奶油色，第二个单词 {argument name="bottom title word" default="GUERRA!"} 为红橙色，两者均采用巨大的压缩无衬线板式/块状字体，字间距紧凑。整体构图应呈现出具有侵略性的朋克放克海盗宣传画风格，确保在缩略图尺寸下清晰易读，且不包含额外文本、水印、写实照片渲染或额外角色。
+
+[English]
+Create a square Spotify playlist cover in a bold vintage screen-printed poster style for a pirate funk mix. Use a near-black background with a limited palette of distressed cream and vivid red-orange. The main subject is a stern pirate captain shown from the waist up in left-facing side profile, positioned in the upper and middle area, with a full black beard, long braided hair with small beads, a hoop earring, a large tricorn hat bearing a skull-and-crossbones emblem, and a high-collared coat with thick cream outlines. His right hand grips a large wooden ship wheel on the right foreground. Behind him, include exactly 2 pirate symbols: one skull-and-crossbones emblem on his hat and one larger skull-and-crossbones on a dark sail flag to the right. Add a huge distressed red-orange moon in the upper left, partially cropped by the canvas edge. Add thin rigging lines and sail shapes in the background. In the top-right corner, place a red-orange outlined rectangular badge containing the text {argument name="duration label" default="1 HOUR"} in bold condensed uppercase red-orange letters. The bottom half is dominated by enormous stacked block typography: first line {argument name="top title word" default="FUNK"} in cream, second line {argument name="bottom title word" default="GUERRA!"} in red-orange, both in heavy uppercase sans-serif with tight spacing, filling almost the full width. Make the composition high-contrast, gritty, slightly weathered, like a retro punk/funk album cover or playlist thumbnail, with clean vector-like ink shapes, rough speckled texture, sharp dramatic lighting, and no extra text or logos.
+```
+
+**来源：** [@Sawchang](https://x.com/sawchang_dsm/status/2091364582719893616) | 2026-08-23
+
+---
+
+### 🏷️ 例 6817：可爱水母贴纸合集
+
+![可爱水母贴纸合集](../images/%E5%8F%AF%E7%88%B1%E6%B0%B4%E6%AF%8D%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张可爱的 LINE 风格动画贴纸精灵图，主角为一个单一的吉祥物角色，{argument name="character name" default="橙色水母吉祥物"}，外观为一只柔软的桃橙色水母，伞盖左上方戴着一朵奶油色的小贝壳花。角色采用光泽水彩阴影，带有红润的脸颊、圆圆的黑眼睛、微小且富有表情的嘴巴、波浪状的触须，以及清晰的深红褐色轮廓线。
+
+画布：正方形 1:1 图像，约 1254×1254 像素，排列为整洁的 4×4 贴纸合集，背景为类似透明效果的浅灰白相间棋盘格。贴纸之间保持均匀间距，确保每个贴纸完整可见，无裁剪。
+
+布局：使用精确的 16 个独立贴纸框，排列为 4 列 × 4 行的网格。每个框内包含一个水母姿势，以及一个带有深红褐色轮廓和粗体圆润日语文字的白色对话气泡。气泡位于每个角色上方，带有指向水母的小尾巴。在适当位置使用橙色动作标记、气泡和小型强调线。
+
+贴纸数量与标签：第 1 行包含 4 个早安问候贴纸，标签为「おはよう!」：1) 正面开心的水母挥动一条触须，2) 闭着月牙眼微笑并举起一条长触须挥动，3) 正面开心的挥手并带有小动作弧线，4) 背面/侧面挥手，脸部略微转开。第 2 行包含 4 个感谢贴纸，标签为「ありがとう!」：5) 害羞鞠躬的水母，闭着眼睛，触须收拢，6) 正面深鞠躬，闭着眼睛，7) 小幅鞠躬姿势，身体下沉并带有侧向动作标记，8) 侧身鞠躬，触须向右拖曳。第 3 行包含 4 个惊讶贴纸，标签为「びっくり!」：9) 正面睁大眼睛的震惊表情，小圆嘴，带有橙色感叹号，10) 类似的正面震惊姿势，带有两个强调标记，11) 较小的水母向上惊吓跳起，下方带有垂直速度线，12) 背面/侧面惊吓跳起，带有气泡和垂直动作线。第 4 行包含 4 个疲惫贴纸，标签为「おつかれさま」：13) 困倦打哈欠的水母，用触须揉眼睛或放在嘴边，14) 较大的打哈欠姿势，闭着眼睛，触须下垂，15) 疲惫的正面姿势，半睁着眼，微皱眉头，头部旁边有气泡，16) 困倦的侧卧或漂浮姿势，闭着眼睛，张嘴打哈欠。
+
+视觉风格：可爱的日式贴纸插画，柔和的水彩质感，温暖的珊瑚橙色身体，淡奶油色褶边，半透明触须，细腻的高光和腮红，圆润的形状，适合聊天贴纸的精致数字艺术。在所有 16 个框架中保持角色设计的一致性。
+
+文字内容：请精确保留显示的日语文字：{argument name="morning text" default="おはよう!"}、{argument name="thank you text" default="ありがとう!"}、{argument name="surprise text" default="びっくり!"} 以及 {argument name="tired text" default="おつかれさま"}。字体应为粗体、手绘风格、圆润、深褐色，并居中放置在每个气泡内。
+
+约束条件：精确 16 个贴纸，精确 4 列 4 行，无额外角色，无水印，无英文字符，单个贴纸周围无边框，保持棋盘格背景在整个画布上可见，以呈现透明效果。
+
+[English]
+Goal: Create a cute LINE-style animated sticker sprite sheet featuring a kawaii orange jellyfish mascot with Japanese speech bubbles, arranged as a clean 4×4 grid for sticker animation frames.
+
+Canvas: Square 1:1 canvas, about 1254×1254 px, with a visible light gray-and-white checkerboard background that looks like transparency. Leave even spacing between all frames and keep each sticker isolated with no borders around the cells.
+
+Layout: Exactly 16 discrete sticker frames in 4 rows and 4 columns. Each frame contains one orange jellyfish character and one rounded white speech bubble above it with a dark brown outline and bold dark brown Japanese text. Use small orange motion marks, bubbles, and speed lines where appropriate.
+
+Character details: The mascot is a chibi jellyfish named {argument name="character name" default="orange jellyfish mascot"}, with a soft translucent peach-orange bell, rosy cheeks, glossy highlights, rounded black eyes, tiny expressive mouth, scalloped cream rim, dangling curly tentacles, and a small pale shell flower accessory on the upper-left side of its head. Style is warm watercolor anime sticker art with clean reddish-brown outlines, soft gradients, cute expressions, and polished LINE stamp appeal.
+
+Frame count and contents: Use exactly 16 frames. Row 1 has 4 morning greeting frames labeled 「おはよう!」: 1) front-facing jellyfish smiling and waving one tentacle, 2) eyes closed happily while waving high, 3) cheerful front view waving with motion arcs, 4) rear/side view waving with the face partly turned away. Row 2 has 4 thank-you frames labeled 「ありがとう!」: 5) eyes closed, bowing politely with tentacles gathered, 6) deeper bow with relaxed closed eyes, 7) centered bow with small side motion marks, 8) side bow drifting right with tentacles trailing. Row 3 has 4 surprised frames labeled 「びっくり!」: 9) front view with round shocked mouth and one orange exclamation mark, 10) front view with two orange surprise marks and wide eyes, 11) smaller floating jellyfish startled with vertical drop lines and bubbles, 12) rear/side startled pose with orange exclamation mark, bubbles, and downward motion lines. Row 4 has 4 tired frames labeled 「おつかれさま」: 13) sleepy yawning jellyfish rubbing its mouth with one tentacle, 14) larger yawn with closed eyes and droopy tentacles, 15) exhausted droopy face with half-closed eyes and bubbles, 16) lying sideways asleep or exhausted with a small open mouth and trailing tentacles.
+
+Text content: Preserve the Japanese text exactly as shown: {argument name="morning greeting text" default="おはよう!"}, {argument name="thank you text" default="ありがとう!"}, {argument name="surprised text" default="びっくり!"}, and {argument name="tired text" default="おつかれさま"}. Make the lettering hand-drawn, bold, rounded, dark brown, centered inside speech bubbles.
+
+Constraints: Maintain a consistent character design across all 16 frames, use no extra characters, no watermark, no cell numbers, no additional text, and keep the background as a baked-in checkerboard transparency preview.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2091362413191057575) | 2026-08-23
+
+---
+
+### 🏷️ 例 6829：松鼠女孩与龙骑士
+
+![松鼠女孩与龙骑士](../images/%E6%9D%BE%E9%BC%A0%E5%A5%B3%E5%AD%A9%E4%B8%8E%E9%BE%99%E9%AA%91%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫插画，主角是 {argument name="character name" default="Morina"}，一位可爱的松鼠女孩龙骑士，正骑着一只巨大的淡粉色巨龙飞翔在湛蓝的天空中。构图采用动态且略带低角度的视角，巨龙从右上角向左下角斜向俯冲向观众，其巨大的头部占据了画面下半部分，张开的嘴里露出细小的尖牙，黄绿色的眼睛带有明亮的高光，额头上有粉色的角板，带有紫色阴影，腹部呈淡蓝色分段状，长着小巧的爪子，宽大的蝙蝠状翅膀部分延伸至左右边缘之外。骑手坐在靠近画面上方中心的龙背上，兴奋地微笑着看向前方；她是一位娇小的 Q 版动漫女孩，留着 {argument name="hair color" default="pink"} 的短蓬松发，有着紫色的大眼睛、猫耳/松鼠耳、一条卷曲的大松鼠尾巴、白色花朵发饰和红润的脸颊。她的服装是可爱的奇幻骑士装：白色与粉色相间的连衣裙，带有百褶裙摆，胸前系着巨大的粉色蝴蝶结，肩部有小巧的金色护甲，穿着白色袖子或手套，配有粉色丝带装饰，以及白色过膝长靴。采用干净的日系可爱奇幻风格，线条粗犷深邃，使用亮面赛璐璐阴影、高饱和度的粉彩色调、闪烁的高光以及充满活力的动感线条。背景是清澈的青蓝色天空，周围环绕着白色的旋转风弧和蓬松的云朵，强调高速飞行的感觉。画面中无文字、无水印、无边框；保持图像清晰、俏皮、充满冒险感，并聚焦于两个核心角色：一位松鼠女孩骑手和一只粉色巨龙。
+
+[English]
+Create a vibrant vertical anime illustration of {argument name="character name" default="Morina"}, a cute squirrel-girl dragon rider flying through a bright blue sky on a large pastel pink dragon. The composition is dynamic and slightly low-angle, with the dragon swooping diagonally toward the viewer from upper right to lower left, its big head dominating the lower half of the image, open mouth with small sharp teeth, yellow-green eyes with glossy highlights, pink forehead horn plates, purple shading, a pale blue segmented belly, small clawed feet, and wide bat-like wings extending partly off the left and right edges. The rider sits on the dragon’s back near the center top, smiling excitedly and looking forward; she is a petite chibi-style anime girl with {argument name="hair color" default="pink"} short fluffy hair, large purple eyes, catlike/squirrel ears, a big curled squirrel tail, a white flower hair accessory, and rosy cheeks. Her outfit is a cute fantasy rider costume: white and pink dress with a pleated skirt, large pink bow at the chest, small gold shoulder armor, white sleeves or gloves, pink ribbon accents, and thigh-high white boots. Use a clean Japanese kawaii fantasy style with thick dark outlines, glossy cel shading, saturated pastel colors, sparkling highlights, and energetic motion lines. The background is a clear cyan-to-blue sky with white swirling wind arcs and fluffy clouds around the edges, emphasizing the feeling of high-speed flight. No text, no watermark, no border; keep the image crisp, playful, adventurous, and centered on exactly two main characters: one squirrel-girl rider and one pink dragon.
+```
+
+**来源：** [@そらいろパキラ](https://x.com/SkyBluePachira/status/2091318753095274941) | 2026-08-23
+
+---
+

@@ -4101,3 +4101,133 @@ Constraints: Use exactly 4 dashboard metric cards, 4 growth driver rows, 4 roadm
 
 ---
 
+### 📊 例 6803：教育类闪电故事板信息图
+
+![教育类闪电故事板信息图](../images/%E6%95%99%E8%82%B2%E7%B1%BB%E9%97%AA%E7%94%B5%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 2:3 的竖版教育故事板信息图，包含 5 个横向场景，采用电影级写实 3D 科学可视化风格，效果如同专业的教育视频故事板。
+
+主题：闪电是如何形成的
+时长：15 秒
+
+1 | 0:00–0:03 — 风暴云
+视觉：巨大的深色风暴云在景观上方形成。
+动作：云层迅速膨胀，内部带有电荷粒子。
+旁白： “闪电始于强大的风暴云内部。”
+音效：风声和远处的雷声。
+摄像机：缓慢的空中推镜头。
+转场：闪光。
+
+2 | 0:03–0:06 — 电荷
+视觉：云层内部特写，展示正负电荷的分离。
+动作：蓝色和橙色粒子向相反方向移动。
+标签：正电荷，负电荷。
+旁白： “冰和水粒子使云层内部的电荷分离。”
+音效：电流噼啪声。
+摄像机：微距追踪。
+转场：能量光晕。
+
+3 | 0:06–0:09 — 电荷积聚
+视觉：地面上方的深色云层，明亮的电能不断增强。
+动作：带电粒子向下方的地面移动。
+旁白： “随着电荷变得更强，电流开始寻找路径。”
+音效：上升的电流嗡嗡声。
+摄像机：从云层向下方的倾斜镜头。
+转场：快速闪光。
+
+4 | 0:09–0:12 — 闪电击中
+视觉：明亮的闪电连接云层与地面。
+动作：闪电迅速向下传播。
+标签：闪电。
+旁白： “强大的放电形成了闪电。”
+音效：巨大的雷鸣声。
+摄像机：快速拉远镜头。
+转场：白光闪烁。
+
+5 | 0:12–0:15 — 雷暴
+视觉：带有闪电和降雨的广阔风暴景观。
+动作：闪电划破天空，下方下着大雨。
+旁白： “空气的突然加热也产生了雷声。”
+音效：深沉的雷鸣滚动声。
+摄像机：广角空中拉远镜头。
+转场：平滑淡出。
+
+底部：旁白 (VO)：清晰、冷静、具有教育感的男性声音。
+
+[English]
+Create a vertical 2:3 educational storyboard infographic, 5 horizontal scenes, cinematic realistic 3D science visualization, exactly like a professional educational video storyboard.
+
+TOPIC: HOW LIGHTNING HAPPENS
+Duration: 15 seconds
+
+1 | 0:00–0:03 — STORM CLOUDS
+Visual: Huge dark storm clouds forming above a landscape.
+Action: Clouds grow rapidly with electric particles inside.
+VO: “Lightning begins inside powerful storm clouds.”
+SFX: Wind and distant thunder.
+Camera: Slow aerial push in.
+Transition: Light Flash.
+
+2 | 0:03–0:06 — ELECTRIC CHARGE
+Visual: Close-up inside cloud showing positive and negative charges separating.
+Action: Blue and orange particles move to opposite sides.
+Labels: POSITIVE CHARGE, NEGATIVE CHARGE.
+VO: “Ice and water particles separate electric charges inside the cloud.”
+SFX: Electric crackle.
+Camera: Macro tracking.
+Transition: Energy Glow.
+
+3 | 0:06–0:09 — CHARGE BUILDS
+Visual: Dark cloud above the ground, bright electrical energy increasing.
+Action: Electric particles move downward toward Earth.
+VO: “As the charge becomes stronger, electricity searches for a path.”
+SFX: Rising electrical hum.
+Camera: Tilt from cloud toward ground.
+Transition: Quick Flash.
+
+4 | 0:09–0:12 — LIGHTNING STRIKE
+Visual: Bright lightning bolt connects cloud to ground.
+Action: Lightning travels rapidly downward.
+Label: LIGHTNING.
+VO: “A powerful electrical discharge creates a lightning bolt.”
+SFX: Loud thunder crack.
+Camera: Fast Pull Back.
+Transition: White Flash.
+
+5 | 0:12–0:15 — THUNDERSTORM
+Visual: Wide storm landscape with lightning and rain.
+Action: Lightning flashes while rain falls below.
+VO: “The sudden heating of air also creates the sound of thunder.”
+SFX: Deep thunder rolling.
+Camera: Wide aerial pull back.
+Transition: Smooth Fade.
+
+Bottom: NARRATOR (VO): Clear, calm, educational male voice.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2091436714384613713) | 2026-08-23
+
+---
+
+### 📊 例 6805：中国诗意艺术海报模板
+
+![中国诗意艺术海报模板](../images/%E4%B8%AD%E5%9B%BD%E8%AF%97%E6%84%8F%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+【诗词原句】：{argument name="诗词" default="填写一句带有明显情绪和画面感的古诗词"}
+【两字主题】：{argument name="主题" default="从诗句中提炼 2 个核心字"}
+【核心情绪】：{argument name="情绪" default="流不尽 / 理不清 / 忘不掉 / 留不住 / 等待 / 思念等"}
+【情绪动作】：流走 / 缠绕 / 残留 / 消失 / 褪色 / 漂离等
+【小主体】：水迹 / 丝线 / 旧窗 / 花瓣 / 灯 / 舟 / 信笺等
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2091430202718953624) | 2026-08-23
+
+---
+
