@@ -8506,3 +8506,61 @@ Image editing task. Use Image 1 as the base image. Reproduce the same scene, pos
 
 ---
 
+### 🧍 例 6867：融合多种艺术风格的角色创作
+
+![融合多种艺术风格的角色创作](../images/%E8%9E%8D%E5%90%88%E5%A4%9A%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A7%92%E8%89%B2%E5%88%9B%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用来自这两张图像的艺术风格，创作一个处于 {argument name="scene" default="[在此处插入场景]"} 中的角色（请勿使用参考图像中的角色）
+
+[English]
+Use this art style from these 2 images to create a character from {argument name="scene" default="[insert scene]"} (no characters from the referenced images should be used)
+```
+
+**来源：** [@That1AiGuy](https://x.com/That1AiGuy/status/2091738661926625758) | 2026-08-24
+
+---
+
+### 🧍 例 6876：日本女高中生制服参考图生成
+
+![日本女高中生制服参考图生成](../images/%E6%97%A5%E6%9C%AC%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%88%B6%E6%9C%8D%E5%8F%82%E8%80%83%E5%9B%BE%E7%94%9F%E6%88%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张 {argument name="character name" default="日本女高中生"} 身着经典水手服的全身角色参考图，作为保持角色一致性的清晰图像参考。
+
+画布：宽幅横向工作室画幅，比例约为 16:9，纯白至浅灰色背景，柔和均匀的摄影棚灯光，除轻微的地面接触阴影外无其他阴影，无文字，无水印。
+
+布局：展示同一名女孩的 4 个全身站立视图，从左至右均匀排列：1 正面视图（面向镜头，面带温和微笑），2 左侧面视图，3 右侧面视图，4 背面视图。保持四个形象比例和高度一致，垂直居中，完整显示双脚，且全身服装无遮挡。
+
+主体细节：一位写实的日本少女，面容自然，身材匀称，直黑发扎成高马尾，配有 {argument name="hair accessory" default="淡粉色花朵发圈"}，额前有柔和的刘海，自然妆容，正面视图表情平静友好。姿态自然，双臂自然下垂于身体两侧。
+
+制服细节：经典的日本水手服，包含 7 个清晰可见的部件：1 腰部剪裁的白色长袖水手衫，2 带有双白条纹装饰的海军蓝水手领，3 胸前系有大的 {argument name="ribbon color" default="红色"} 领结，4 左胸处的小徽章，5 膝盖以上的海军蓝百褶裙，6 海军蓝过膝袜，7 深棕色皮质乐福鞋。袖口带有蓝白条纹，裙摆褶皱清晰。
+
+视觉风格：超写实目录摄影，准确的人体比例，清晰的布料细节，真实的皮肤质感，干净的产品参考图外观，中性白色摄影棚背景，色彩平衡，高分辨率。
+
+约束条件：必须包含 4 个视图，且每个视图均为同一人物；请勿添加额外的姿势、道具、标签、文字、边框、镜子、包袋或背景元素。确保制服在所有四个视图中保持一致。
+
+[English]
+Goal: Create a photorealistic full-body character reference sheet of {argument name="character name" default="a Japanese high school girl"} wearing a traditional sailor-style school uniform, shown as a clean studio turnaround for image-reference use.
+
+Canvas: Wide horizontal white studio background, approximately 16:9, evenly lit with soft shadows under the shoes. The image is divided visually into four equal vertical panels with one standing figure per panel.
+
+Layout: Show exactly 4 full-body views of the same girl, left to right: 1) front view facing the camera with a slight gentle smile, 2) left-side profile facing right, 3) right-side profile facing left, 4) back view facing away. Keep the figure scale consistent across all four views, with the entire body visible from head to shoes and generous white space around each pose.
+
+Subject details: A realistic teenage Japanese schoolgirl with a slim average build, natural posture, light skin, straight black hair with bangs, and a high ponytail tied with {argument name="hair accessory" default="a pale pink scrunchie with a floral pattern"}. Her expression in the front view is calm, friendly, and ordinary, like a real student portrait rather than a fashion model.
+
+Uniform details: Traditional sailor uniform consisting of exactly 7 visible clothing/accessory components: 1) white long-sleeve sailor blouse, 2) navy sailor collar with white stripe trim, 3) red neckerchief tied at the chest, 4) small embroidered crest patch on the left chest, 5) navy pleated skirt above the knees, 6) navy knee-high socks, 7) dark brown leather loafers. The blouse has navy cuffs with white stripe trim. The skirt pleats should be crisp and visible in every angle.
+
+Style: Ultra-realistic studio photography, neutral catalog/reference-sheet lighting, accurate human proportions, natural skin texture, sharp focus, high detail, no stylization, no anime look, no text, no watermark, no props, no background scene.
+```
+
+**来源：** [@内田勉 個人でLLM開発中](https://x.com/sidodtv/status/2091711567180263564) | 2026-08-24
+
+---
+

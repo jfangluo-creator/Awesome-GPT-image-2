@@ -14196,3 +14196,193 @@ Constraints: Keep all text legible but intentionally pixelated, do not add extra
 
 ---
 
+### 🖥️ 例 6831：城市生命系统图谱网页截图
+
+![城市生命系统图谱网页截图](../images/%E5%9F%8E%E5%B8%82%E7%94%9F%E5%91%BD%E7%B3%BB%E7%BB%9F%E5%9B%BE%E8%B0%B1%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的浏览器页面截图，展示一个中文案例研究板块，其中包含一张关于城市系统地图的大型双语信息图海报。
+
+画布：横向截图，尺寸约为 917×833 像素，白色网页背景，裁剪至顶部显示一段中文段落的末尾，底部截断海报的一部分。使用清晰的 UI 风格渲染，无需完整的浏览器边框。
+
+网页布局：在可见区域的左上方，显示一个小的带框图片表情符号/图标，后跟加粗的中文标题“精选案例”，下方有一条横跨大部分宽度的细灰色水平分割线。在其下方，显示一个加粗的子标题：“案例一：信息图可视化”。在该标题下方居中放置一张大型信息图，并留有窄边距。
+
+主海报：设计一张信息密集型的双语图谱海报，标题为“{argument name="main title" default="城市生命系统图谱"}”，英文副标题为“{argument name="English subtitle" default="Urban Metabolism Atlas"}”。在标题下方添加简短的双语标语“城市是一個有生命的系統 / The City is a Living System”。海报应呈现出专业的建筑/城市规划信息图风格：米白色背景、海军蓝标题文字、细灰色面板边框、小型双语标签、图解图标，以及占据中心大部分区域的等轴测城市剖面插图。
+
+海报顶部元素：左上方包含一个标有 N 的罗盘玫瑰，以及一个标有“Scale”的比例尺，刻度为 0、50、100、200、500 米。顶部中心附近包含一个带框的“System Legend”，列出 10 种彩色线条样本，分别标注为：Electricity（电力）、Gas（燃气）、Heating（供暖）、Communication（通信）、Traffic（交通）、Logistics（物流）、Data Flow（数据流）、People Flow（人流）、Clean Water（净水）、Wastewater（污水）。右上角包含一张标有“Location”的小型插图卡片，展示一张简化的城市地图，包含绿色公园、蓝色水道、灰色街道和红色边界。
+
+城市中心插图：展示一座密集的等轴测智慧城市，包含许多高层塔楼、中层街区、带有汽车和公交车的道路、蓝色运河或河流、桥梁、行道树、广场，以及底部剖面可见的地下地铁隧道和公用设施管道。包含无人机、飞机、屋顶太阳能电池板、交通站点、行人和服务车辆等细节。使用穿过城市的细彩色网络线条来暗示水、能源、数据、物流和交通流。在中心场景中添加 5 个可见的圆形编号标注标记：建筑物上标 6，道路/交通走廊附近标 3，右侧街道边缘附近标 8，绿色广场内标 9，地下隧道/运河边缘附近标 10。
+
+侧边信息卡：在城市周围放置 6 张可见的圆角矩形系统卡片，每张卡片带有彩色编号徽章、双语标题、小项目符号标签和微型图表。左侧列有 3 张卡片：1 “能源系统 / Energy Grid”，包含太阳能电池板、电池储能、电动汽车充电和汽车；2 “城市水循环 / Water Cycle”，包含水厂、雨水收集、污水处理、再生水和地下水图表；3 “交通网络 / Transportation”，包含地铁列车、公交车、道路、自行车图标和路线图。右侧列有 3 张卡片：6 “建筑内部系统 / Building Systems”，包含展示楼层、暖通空调、消防安全、楼宇管理系统（BMS）控制和管道的建筑剖面；7 “公共服务 / Public Services”，包含医院、学校、消防站、警察局和社区服务图标；8 “食物与物流 / Food & Logistics”，包含仓库、冷链、最后一公里配送、卡车、货箱和机器人配送。保持左右两列的下部被截图边缘轻微裁剪，以匹配真实的页面视图。
+
+视觉风格：高度详细的半写实等轴测插图与技术信息图设计相结合，采用柔和的灰色和白色，搭配海军蓝字体，强调色为黄色、青色、红色、紫色、橙色和绿色。标题级别的文字应清晰易读，但许多小标签可以非常细小。保持真实中文网页文章展示示例图片的质感。
+
+约束：不要添加浏览器地址栏、水印、浮动工具栏或额外的社交媒体 UI。保留网页上的中文标题以及双语海报的标题层级。图片应看起来像是嵌入在文档页面中的生成式信息图截图。
+
+[English]
+Goal: Create a clean browser-page screenshot showing a Chinese case-study section that presents a large bilingual infographic poster about an urban systems map.
+
+Canvas: Landscape screenshot, about 917×833 px, white webpage background, cropped so the very top shows the tail end of a Chinese paragraph and the bottom cuts off part of the poster. Use crisp UI-like rendering, not a full browser chrome.
+
+Webpage layout: At the top-left of the visible section, show a small framed picture emoji/icon followed by the bold Chinese heading “精选案例”, with a thin gray horizontal divider line underneath spanning most of the width. Below it, show a bold subsection title: “案例一：信息图可视化”. Under that title place one large infographic image centered with narrow margins.
+
+Main poster: Design an information-dense bilingual atlas poster titled “{argument name="main title" default="城市生命系统图谱"}” with the English subtitle “{argument name="English subtitle" default="Urban Metabolism Atlas"}”. Under the title add the small bilingual tagline “城市是一個有生命的系統 / The City is a Living System”. The poster should look like a professional architectural/urban-planning infographic: off-white background, navy headline text, thin gray panel borders, small bilingual labels, diagrammatic icons, and an isometric cutaway city illustration occupying the central majority.
+
+Poster top elements: On the upper left, include a compass rose marked N and a scale bar labeled “Scale” with tick marks 0, 50, 100, 200, 500m. Near the top center, include a boxed “System Legend” with exactly 10 colored line samples labeled: Electricity, Gas, Heating, Communication, Traffic, Logistics, Data Flow, People Flow, Clean Water, Wastewater. On the upper right, include one small inset map card labeled “Location”, showing a simplified city map with green parks, blue waterways, gray streets, and a red boundary.
+
+Central city illustration: Show a dense isometric smart city with many high-rise towers, mid-rise blocks, roads with cars and buses, a blue canal or river, bridges, street trees, plazas, underground metro tunnels and utility pipes visible in a cutaway at the bottom. Include small details such as a drone, airplane, rooftop solar panels, transit stations, pedestrians, and service vehicles. Use thin colored network lines running through the city to imply water, energy, data, logistics, and transit flows. Add exactly 5 visible circular numbered callout markers in the central scene: 6 on a building, 3 near a road/transport corridor, 8 near the right street edge, 9 in a green plaza, and 10 near an underground tunnel/canal edge.
+
+Side information cards: Place exactly 6 visible rounded rectangular system cards around the city, each with a colored numbered badge, bilingual title, small bullet labels, and mini diagrams. Left column has 3 cards: 1 “能源系统 / Energy Grid” with solar panels, battery storage, EV charging, and a car; 2 “城市水循环 / Water Cycle” with water plant, rainwater collection, sewage treatment, reclaimed water, and groundwater diagrams; 3 “交通网络 / Transportation” with a subway train, bus, roads, bicycle icon, and route lines. Right column has 3 cards: 6 “建筑内部系统 / Building Systems” with a cutaway building showing floors, HVAC, fire safety, BMS control, and pipes; 7 “公共服务 / Public Services” with hospital, school, fire station, police station, and community service icons; 8 “食物与物流 / Food & Logistics” with warehouse, cold chain, last-mile delivery, truck, boxes, and robot delivery. Keep the lower portions of the left and right columns slightly cropped by the screenshot edge, matching a captured page view.
+
+Visual style: Highly detailed semi-realistic isometric illustration mixed with technical infographic design, muted grays and whites with navy typography, accent colors yellow, cyan, red, purple, orange, and green. Text should be mostly legible at headline level but many small labels can be tiny. Maintain the feeling of an authentic Chinese web article showcasing an example image.
+
+Constraints: Do not add browser address bars, watermarks, floating toolbars, or extra social-media UI. Preserve the Chinese headings on the webpage and the bilingual poster title hierarchy. The image should look like a screenshot of a generated infographic embedded in a documentation page.
+```
+
+**来源：** [@Amto](https://x.com/XAMTO_AI/status/2092026919654981816) | 2026-08-24
+
+---
+
+### 🖥️ 例 6839：火星上的超现实骑士
+
+![火星上的超现实骑士](../images/%E7%81%AB%E6%98%9F%E4%B8%8A%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%AA%91%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="character" default="中世纪骑士"} 骑着 {argument name="creature" default="巨型金鱼"} 穿过 {argument name="location" default="火星上的麦当劳"}，同时莎士比亚正在弹奏电吉他。
+
+[English]
+A {argument name="character" default="medieval knight"} riding a {argument name="creature" default="giant goldfish"} through a {argument name="location" default="McDonald’s on Mars"} while Shakespeare plays electric guitar.
+```
+
+**来源：** [@Apiframe HQ](https://x.com/apiframe_hq/status/2091888267293843547) | 2026-08-24
+
+---
+
+### 🖥️ 例 6843：哥特风日式手机主页
+
+![哥特风日式手机主页](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E6%97%A5%E5%BC%8F%E6%89%8B%E6%9C%BA%E4%B8%BB%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个怀旧的 21 世纪初日式手机个人主页风格的竖版截图，采用哥特萝莉 / 暗黑幻想美学，以虚构的网站所有者 {argument name="site owner name" default="Mina Reise"} 和网站标题 {argument name="main gothic title" default="Mad Rabbit"} 为中心。
+
+画布：竖屏 2:3 比例，黑色背景，设计成旧式手机主页着陆页的样子。使用酸橙绿、白色和黑色的有限调色板。所有元素垂直居中，留有充足的黑色空间和对称的装饰。
+
+视觉风格：古老的日式手机主页，仿哥特式网络祭坛，像素时代的优雅，做旧的酸橙绿色哥特体排版，细白线稿，小十字架，闪光，花丝，菱形，点状分隔符和装饰性水平线。氛围是神秘、可爱、兔子主题且充满怀旧感。
+
+布局：顶部放置一个横跨页面宽度的华丽酸橙绿色花丝边框，带有对称的卷曲藤蔓、小闪星和中心的一个小十字架。在其下方，显示巨大的做旧哥特体标题“{argument name="main gothic title" default="Mad Rabbit"}”，颜色为酸橙绿。标题下方居中放置一个几何白色线稿兔子头图标，长耳朵，耳朵内填充酸橙绿色，带有一个小酸橙绿领结、菱形装饰以及上方的一个小十字架。
+
+主要名称区域：在兔子下方，放置一个巨大的日文片假名名称，采用细轮廓白色字体，带有酸橙绿色高光：“{argument name="Japanese display name" default="ミナ・レイス"}”。正下方显示罗马拼音名称“{argument name="site owner name" default="Mina Reise"}”，使用衬线字体，两侧有细水平装饰线和小几何装饰。在日文名和罗马拼音名之间添加一个中央菱形/闪光图案。
+
+访客计数行：在名称区域下方，添加一行酸橙绿色的旧式主页计数器信息，两端带有十字架：“†あなたは {argument name="visitor counter" default="000123"} 人目の迷い人†”。对数字进行下划线或强调，使其看起来像经典的网页访问计数器。
+
+导航菜单：创建 6 个垂直堆叠的菜单链接，居中对齐，每个链接均为白色日文文本，前后带有十字架装饰，并配有细水平分隔线。6 个可见的菜单项必须为：1) “※初めにお読みください※”，2) “・プロフィール・”，3) “・日記・”，4) “・小説・”，5) “・イラスト・”，6) “・素敵サイト様へ・”。在分隔线之间放置微小的菱形装饰。
+
+装饰元素计数：包含 1 个大型顶部标题、1 个几何兔子图标、1 个大型日文显示名称、1 行罗马拼音名称、1 行访客计数器、6 个导航菜单链接、名称区域附近的 2 个侧面几何丝带状装饰，以及底部一排酸橙绿色小菱形点。
+
+约束：保持构图对称且居中，不要包含现代 UI 元素、摄影元素、额外的菜单项、水印或写实的手机边框。在保持陈旧位图/网页质感的同时，确保文字清晰可辨。
+
+[English]
+Goal: Create a vertical screenshot-style graphic of a nostalgic early-2000s Japanese mobile personal homepage with a gothic lolita / dark fantasy aesthetic, centered on the fictional site owner {argument name="site owner name" default="Mina Reise"} and the site title {argument name="main gothic title" default="Mad Rabbit"}.
+
+Canvas: Portrait 2:3 aspect ratio, black background, designed like an old mobile homepage landing page. Use a limited palette of acid lime green, white, and black. Everything is vertically centered with generous black space and symmetrical ornamentation.
+
+Visual style: Ancient Japanese cellphone homepage, faux gothic web shrine, pixel-era elegance, distressed lime-green blackletter typography, thin white line art, small crosses, sparkles, filigree, diamonds, dotted separators, and decorative horizontal rules. The mood is occult, cute, rabbit-themed, and nostalgic.
+
+Layout: At the top, place an ornate lime-green filigree border spanning the width, with symmetrical curling vines, small sparkle stars, and a tiny cross at the center. Beneath it, display the large distressed blackletter headline “{argument name="main gothic title" default="Mad Rabbit"}” in lime green. Below the title, center a geometric white line-art rabbit head icon with long ears, lime-green ear fills, a small lime bow tie, diamond accents, and a small cross above it.
+
+Main name area: Under the rabbit, place a large Japanese katakana name in thin outlined white lettering with lime highlights: “{argument name="Japanese display name" default="ミナ・レイス"}”. Directly below, show the romanized name “{argument name="site owner name" default="Mina Reise"}” in a serif font, flanked by thin horizontal decorative lines and small geometric ornaments. Add one central diamond/sparkle motif between the Japanese name and the romanized name.
+
+Visitor line: Below the name area, add a lime-green old-homepage counter message with crosses on both ends: “†あなたは {argument name="visitor counter" default="000123"} 人目の迷い人†”. Underline or emphasize the number as if it is a classic homepage hit counter.
+
+Navigation menu: Create exactly 6 vertically stacked menu links, centered, each in white Japanese text with a leading and trailing cross ornament and a thin horizontal divider line. The 6 visible menu items must be: 1) “※初めにお読みください※”, 2) “・プロフィール・”, 3) “・日記・”, 4) “・小説・”, 5) “・イラスト・”, 6) “・素敵サイト様へ・”. Place tiny diamond ornaments between divider lines.
+
+Decorative elements count: Include exactly 1 large top headline, 1 geometric rabbit icon, 1 large Japanese display name, 1 romanized name line, 1 visitor counter line, 6 navigation menu links, 2 side geometric ribbon-like ornaments near the name area, and 1 bottom row of small lime diamond dots.
+
+Constraints: Keep the composition symmetrical and centered, no modern UI chrome, no photographic elements, no extra menu items, no watermark, no realistic phone frame. Make the text legible while preserving an aged bitmap/webpage feel.
+```
+
+**来源：** [@マツダ](https://x.com/Matuda_Familiar/status/2091876774108152171) | 2026-08-24
+
+---
+
+### 🖥️ 例 6877：当代编辑风格旅行艺术模板
+
+![当代编辑风格旅行艺术模板](../images/%E5%BD%93%E4%BB%A3%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E8%89%BA%E6%9C%AF%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 比例的竖版当代旅行艺术作品，以 {argument name="city" default="[城市名称]"} 和 {argument name="country" default="[国家]"} 为主题，将其转化为宁静、精致且具有收藏价值的编辑风格旅行景观。
+
+围绕 {argument name="city name" default="[城市名称]"} 的独特标识构建整体构图。根据真正定义该城市的元素，自然地融合其最具辨识度的景观、建筑、文化、街道、自然风光、滨水区或山脉组合。场景应呈现为一个连贯的整体环境，而非独立地标的拼贴。
+
+在背景中，使用 {argument name="landscape type" default="[城市标志性景观]"} 营造氛围感，并辅以柔和的景深、细腻的薄雾和优雅的自然光。
+
+在前景中，引入受 [城市历史/文化建筑] 启发的精致简化建筑形态。包含标志性的屋顶、立面、街道、阳台、墙壁、路径和当地纹理。添加微妙的植被和几个与环境自然互动的微小人物剪影，保持其低调且不喧宾夺主。
+
+确保视觉标识明确指向 [城市名称]，但避免将作品变成地标拼贴画。每个元素都应自然地融入周围的景观中。
+
+使用受目的地启发、略微降低饱和度的精致色调，结合温暖的象牙白、柔和的米色、沉稳的大地色系、柔和的建筑色彩以及微妙的环境蓝/绿色。保持整体色调和谐、精致且奢华。
+
+将整个景观置于平静如镜的反射表面之上，营造出建筑、景观和主要视觉元素的细腻垂直倒影。保持倒影柔和、富有氛围感且略带褪色效果。
+
+在边缘周围添加极其微妙的半透明几何形状，以营造当代画廊艺术美感，同时不分散对目的地的注意力。
+
+运用充足的留白、大气薄雾、漫射自然光、细腻阴影、精细建筑线条、质感纸张纹理，以及融合了精致现代数字插画的水彩和水粉质感。
+
+在顶部添加优雅的杂志排版：
+
+[城市名称]
+[简短的城市诗意标语]
+No. 05 — 2026
+
+排版应小巧、精致、字间距宽、极简且对齐完美。
+
+避免动漫美学、过多的文化符号、杂乱、照片级拼贴、通用素材图、过大的地标、过度的装饰和过大的字体。
+
+最终作品应呈现出稀有且具有收藏价值的奢华旅行印刷品感——宁静、艺术、永恒、精致，并能让人一眼认出是 [城市名称]。
+
+重要提示：优先考虑所选城市的真实视觉特征。不要强行加入不属于该城市的元素。根据城市特色，专门调整建筑、景观、植被、氛围和调色板。
+
+[English]
+Create a premium 4:5 vertical contemporary travel artwork featuring {argument name="city" default="CITY NAME"}, {argument name="country" default="COUNTRY"}, transformed into a serene, sophisticated and collectible editorial travel landscape.
+
+Build the entire composition around the unique identity of {argument name="city" default="CITY NAME"}. Naturally integrate its most recognizable combination of landscape, architecture, culture, streets, nature, waterfront or mountains, depending on what genuinely defines the city. The scene should feel like one cohesive environment rather than a collage of separate landmarks.
+
+In the background, create an atmospheric sense of place using [CITY'S SIGNATURE LANDSCAPE — e.g. coastline, mountains, river, desert, forest, skyline, historic district], with soft depth, subtle haze and elegant natural lighting.
+
+In the foreground, introduce refined simplified architectural forms inspired by [CITY'S HISTORIC / CULTURAL ARCHITECTURE]. Include characteristic rooftops, facades, streets, balconies, walls, pathways and local textures. Add subtle vegetation and a few tiny human silhouettes naturally interacting with the environment, keeping them understated and non-dominant.
+
+Make the visual identity unmistakably {argument name="city" default="CITY NAME"}, but avoid turning the artwork into a landmark collage. Every element should flow naturally into the surrounding landscape.
+
+Use a sophisticated, slightly desaturated palette inspired by the destination, combining warm ivory, soft beige, muted earth tones, gentle architectural colors and subtle environmental blues/greens. Keep the entire palette harmonious, refined and luxurious.
+
+Place the entire landscape above a calm glass-like reflective surface, creating delicate vertical reflections of the architecture, landscape and major visual elements. Keep the reflections soft, atmospheric and slightly faded.
+
+Add extremely subtle translucent geometric forms around the borders to create a contemporary gallery-art aesthetic without distracting from the destination.
+
+Use generous negative space, atmospheric haze, diffused natural light, delicate shadows, fine architectural linework, tactile paper grain and restrained watercolor-and-gouache textures blended with sophisticated modern digital illustration.
+
+At the top, add elegant magazine typography:
+
+{argument name="city" default="CITY NAME"}
+{argument name="tagline" default="SHORT POETIC CITY TAGLINE"}
+No. 05 — 2026
+
+Typography should be small, refined, widely spaced, minimal and perfectly aligned.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2091711340666568868) | 2026-08-24
+
+---
+

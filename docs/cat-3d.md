@@ -7973,3 +7973,135 @@ Create a highly detailed, photorealistic miniature travel-poster diorama inspire
 
 ---
 
+### 🧸 例 6840：伦敦微缩纸艺立体模型
+
+![伦敦微缩纸艺立体模型](../images/%E4%BC%A6%E6%95%A6%E5%BE%AE%E7%BC%A9%E7%BA%B8%E8%89%BA%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个精致的微缩纸艺旅行立体模型，展示 {argument name="city name" default="London"}，采用竖版肖像构图，留出大量空白的纹理水彩纸背景。在画面中心偏下方放置一个微型横向手工纸艺舞台，精确展示 14 个可辨识元素：最左侧 1 个红色英式电话亭、1 盏黑色复古路灯、1 个伦敦眼摩天轮、1 棵浅绿色小树、1 座大本钟、1 组议会大厦建筑群、1 面小型英国国旗、1 座带有两座塔楼及蓝色悬索细节的塔桥、桥右侧 1 辆标有“LONDON”字样的红色双层巴士、最右侧 1 棵绿叶繁茂的树、场景下方 1 座石桥/堤岸、1 片蓝色水彩泰晤士河、水面上 1 艘带有微型红旗的蓝白海军风小船，以及横跨场景的 1 条虚线装饰旅行路径。在天空区域添加 3 朵涂鸦风格云朵，右侧添加 3 只简单的飞鸟剪影，大本钟上方添加 1 架沿着虚线弧形轨迹飞行的小飞机。采用奇趣的手工分层纸艺外观，配以柔和阴影、精细墨线勾勒、微妙的水彩晕染，色调以柔和的奶油色、棕褐色、蓝色、绿色、红色和黑色为主，营造出温馨的旅行剪贴簿美感。在河流下方居中位置书写手写体标题“{argument name="caption text" default="London"}”，并在其后加上一颗红色小爱心。保持构图简约、通透且迷人，不要添加额外文字、人物或水印，重点突出空白纸张背景下精细的剪纸细节。
+
+[English]
+Create a delicate miniature paper-craft travel diorama of {argument name="city name" default="London"} on a vertical portrait canvas with lots of empty white textured watercolor-paper background. Place a tiny horizontal handmade paper stage slightly below center, showing exactly 14 recognizable elements: 1 red British telephone booth on the far left, 1 black vintage street lamp, 1 London Eye ferris wheel, 1 small pale green tree, 1 Big Ben clock tower, 1 Houses of Parliament building cluster, 1 small Union Jack flag, 1 Tower Bridge with two towers and blue suspension details, 1 red double-decker bus labeled “LONDON” on the bridge at the right, 1 leafy green tree at the far right, 1 stone bridge/embankment under the scene, 1 blue watercolor River Thames patch, 1 small white-and-navy boat with a tiny red flag on the water, and 1 dotted decorative travel path extending across the scene. Add exactly 3 doodle clouds in the sky area, exactly 3 simple flying bird silhouettes on the right, and exactly 1 tiny airplane above Big Ben following a dashed curved flight path. Use a whimsical handcrafted layered-paper look with soft shadows, fine ink outlines, subtle watercolor washes, muted cream, tan, blue, green, red and black tones, and a cozy travel scrapbook aesthetic. Under the river, center the handwritten caption “{argument name="caption text" default="London"}” followed by a small red heart. Keep the composition minimal, airy, and charming, with no extra text, no people, no watermark, and strong emphasis on tiny cut-paper detail against the blank paper background.
+```
+
+**来源：** [@mertzabun.ai](https://x.com/mertzabunai/status/2091881991243231469) | 2026-08-24
+
+---
+
+### 🧸 例 6855：手工微缩立体景观
+
+![手工微缩立体景观](../images/%E6%89%8B%E5%B7%A5%E5%BE%AE%E7%BC%A9%E7%AB%8B%E4%BD%93%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个由 {argument name="country" default="意大利"} 组成的优质手工微缩立体景观，呈现为漂浮在暖象牙色纹理纸背景上的微型旅游岛屿，采用略微俯视的三分之四视角。
+
+创建一个细节丰富的 {argument name="country" default="意大利"} 风景，包含 {argument name="landmark 1" default="罗马斗兽场"}、{argument name="landmark 2" default="比萨斜塔"}、威尼斯钟楼、美丽的文艺复兴风格圆顶教堂、迷人的赤陶屋顶村舍、狭窄的鹅卵石街道、高大的地中海柏树、橄榄绿植、花卉植物以及挂满成熟黄柠檬的鲜艳柠檬树。
+
+在前景中，加入一辆沿着微型铁轨环绕岛屿行驶的复古绿奶油色意大利电车，一辆停在微型咖啡馆旁的淡绿色 Vespa 摩托车，以及一座横跨绿松石色威尼斯运河的优雅石桥。一艘经典的黑色贡多拉船，内部带有微妙的红色细节，在传统的条纹系船柱旁滑过水面。
+
+在微缩景观上方，一架小型客机飞过开阔的背景，身后留下一条精致的弧形虚线飞行轨迹。添加几朵柔软的小云和远处的飞鸟，营造出奇妙的旅行氛围。
+
+使用温暖的地中海色调：赤陶橙、陈年石灰岩米色、橄榄绿、柔和奶油色、柔和砖红色、淡桃色以及清澈的绿松石蓝水色。每个建筑都应呈现出由彩绘树脂、木材、陶瓷、雕塑叶片和精细建筑模型材料手工制作的质感。
+
+来自左上方的柔和漫射摄影棚灯光，岛屿和建筑物下方有逼真的接触阴影，微妙的景深效果，清晰的微观细节，逼真的微缩摄影，收藏级建筑模型美学，优雅的构图，宁静怀旧的氛围，精致的旅游海报品质，超细节写实主义，8K 分辨率。
+
+在微缩岛屿周围保留充足的留白空间。在岛屿下方居中位置，用精致的手写书法写上“{argument name="country name" default="Italy"}”，并在下方点缀一颗极简风格的小心形。
+
+竖构图，3:4 宽高比。
+
+[English]
+A premium handcrafted miniature diorama of {argument name="country" default="Italy"} arranged as a tiny floating travel island on a warm ivory textured paper background, viewed from a slightly elevated three-quarter perspective.
+
+Create a richly detailed {argument name="country" default="Italian"} landscape featuring the {argument name="landmark 1" default="Colosseum"}, the {argument name="landmark 2" default="Leaning Tower of Pisa"}, a Venetian bell tower, a beautiful Renaissance-style domed church, charming terracotta-roofed village houses, narrow cobblestone streets, tall Mediterranean cypress trees, olive greenery, flowering plants, and a vibrant lemon tree filled with ripe yellow lemons.
+
+In the foreground, include a vintage green-and-cream Italian tram following miniature railway tracks around the island, a pastel green Vespa parked beside a tiny café, and a graceful stone bridge crossing a turquoise Venetian canal. A classic black gondola with subtle red interior details glides through the water beside traditional striped mooring poles.
+
+Above the miniature landscape, a small passenger airplane flies across the open background with a delicate curved dotted flight path trailing behind it. Add a few tiny soft clouds and distant birds for a whimsical travel atmosphere.
+
+Use warm Mediterranean colors: terracotta orange, aged limestone beige, olive green, soft cream, muted brick red, pastel peach, and clear turquoise-blue water. Every structure should feel handcrafted from painted resin, wood, ceramic, sculpted foliage, and fine architectural model materials.
+
+Soft diffused studio lighting from the upper left, realistic contact shadows beneath the island and buildings, subtle depth of field, crisp micro-detail, realistic miniature photography, collectible architectural model aesthetic, elegant composition, peaceful nostalgic mood, sophisticated travel-poster quality, ultra-detailed photorealism, 8K.
+
+Keep generous clean negative space around the miniature island. Center the word “{argument name="country name" default="Italy"}” beneath the island in delicate handwritten calligraphy with a tiny minimalist heart below it.
+
+Portrait composition, 3:4 aspect ratio.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2091813271393456541) | 2026-08-24
+
+---
+
+### 🧸 例 6864：3D 手工黏土旅行纪念牌
+
+![3D 手工黏土旅行纪念牌](../images/3D%20%E6%89%8B%E5%B7%A5%E9%BB%8F%E5%9C%9F%E6%97%85%E8%A1%8C%E7%BA%AA%E5%BF%B5%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质、可爱且具有手工质感的 3D 纸艺与软黏土旅行纪念牌，用于 {argument name="location" default="[LOCATION]"}，作为全球统一收藏系列的一部分。
+
+构图与几何结构：在标准化的 100×100 网格上使用固定的水平框架布局。框架：x=5–95，y=8–92。地标区域：y=18–58。前景：y=48–67。地名区域：y=68–88。底部边距：y=88–92。确保每个地点的比例完全一致。
+
+地标层级：在 x=50 处放置 1 个居中的核心地标，占据 34–38% 的高度；在 x=25 和 x=75 处放置 2 个辅助地标，高度各占 22–28%；在 x=10–90 范围内放置 2–4 个较小的背景元素，高度各占 12–20%；并在前景添加 1–3 个精致的当地细节，高度不超过 14%。仅使用 {argument name="location" default="[LOCATION]"} 最具辨识度且地理特征明显的元素。保留标志性轮廓的同时简化细节，避免杂乱、陈词滥调或刻板印象。
+
+排版：显示“{argument name="location text" default="[LOCATION]"}”，居中且无遮挡。文字应占据纪念牌宽度的 82–86% 和画布高度的 17–20%。使用大号、凸起、圆润的无衬线字体，采用哑光暖象牙色。在整个系列中保持一致的字重、间距、对齐方式和基线。
+
+材质与风格：约 70% 的层叠纸艺和 30% 的哑光软黏土。营造出浅浮雕的手工外观，呈现可见的纸张纤维、细腻的黏土纹理、圆润的手工边缘、精致的层叠阴影以及细微的自然瑕疵。避免使用光泽塑料、金属材质、照片级写实或通用的 CGI 外观。
+
+调色板：以暖象牙色/奶油色为基调，搭配柔和的米色和自然纸张色调，辅以柔和的蓝灰色，并加入少量源自该地点的低饱和度点缀色。
+
+相机与光影：采用正对居中的相机视角，固定透视和比例。使用暖中性背景、柔和的漫反射摄影棚灯光、柔和的阴影、一致的景深以及微妙的立体感。无反光、无夸张的透视效果，也无周围环境干扰。
+
+系列一致性：确保框架、构图、网格、排版、地标比例、层级、物体密度、材质、调色板、灯光、相机角度、景深、阴影和留白在每个地点都完全一致。仅更改地标、与文化/环境相关的细节以及克制的地点专属点缀色。
+
+最终质量检查：{argument name="location text" default="[LOCATION]"} 必须清晰可辨、拼写正确、视觉平衡且无多余文字。保持固定的地标层级、无遮挡的文字、一致的比例、优质的手工质感、可爱的收藏品美学以及全球系列的一致性。
+
+[English]
+Create a premium, cute, handcrafted 3D paper-and-soft-clay destination plaque for {argument name="location" default="[LOCATION]"}, designed as part of one consistent global collectible series.
+
+COMPOSITION & GEOMETRY: Use a fixed horizontal framed layout on a normalized 100%100 grid. Frame: x=5–95, y=8–92. Landmark zone: y=18–58. Foreground: y=48–67. Location-name zone: y=68–88. Bottom margin: y=88–92. Keep these proportions identical for every location.
+
+LANDMARK HIERARCHY: Place 1 centered hero landmark at x=50, occupying 34–38% height; 2 supporting landmarks at x=25 and x=75, each 22–28% height; 2–4 smaller background elements across x=10–90, each 12–20% height; and 1–3 subtle local foreground details, no more than 14% height. Use only the most recognizable and geographically appropriate features of {argument name="location" default="[LOCATION]"}. Preserve defining silhouettes while simplifying details and avoiding clutter, clichés, or stereotypes.
+
+TYPOGRAPHY: Display exactly “{argument name="location" default="[LOCATION]"}”, centered and unobstructed. The lettering should span approximately 82–86% of the plaque width and 17–20% of the canvas height. Use large, raised, embossed, rounded sans-serif lettering in warm ivory with a matte finish. Maintain consistent weight, spacing, alignment, and baseline across the entire series.
+
+MATERIAL & STYLE: Approximately 70% layered paper and 30% soft matte clay. Create a shallow-relief handcrafted appearance with visible paper fibers, subtle clay texture, rounded handmade edges, delicate layer shadows, and small natural imperfections. Avoid glossy plastic, metallic materials, photorealism, or a generic CGI appearance.
+
+COLOR PALETTE: Warm ivory/cream foundation, soft beige and natural paper tones, muted blue-gray secondary accents, plus minimal muted colors inspired by the specific location.
+
+CAMERA & LIGHTING: Straight-on centered camera with fixed perspective and scale. Use a warm neutral background, soft diffused studio lighting, gentle shadows, consistent depth, and subtle dimensional separation. No reflections, dramatic perspective, or surrounding environment.
+
+SERIES CONSISTENCY: Keep the frame, composition, grid, typography, landmark scale, hierarchy, object density, materials, palette, lighting, camera angle, depth, shadows, and negative space identical across every location. Change only the landmarks, culturally/environmentally relevant details, and restrained location-specific accent colors.
+
+FINAL QUALITY CHECK: {argument name="location" default="[LOCATION]"} must be instantly recognizable, correctly spelled, visually balanced, and free of unnecessary text. Maintain the fixed landmark hierarchy, unobstructed lettering, consistent proportions, premium handcrafted texture, cute collectible aesthetic, and cohesive global-series identity.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2091756190183415857) | 2026-08-24
+
+---
+
+### 🧸 例 6881：照片级写实风格的日式生鸡蛋拌饭
+
+![照片级写实风格的日式生鸡蛋拌饭](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%97%A5%E5%BC%8F%E7%94%9F%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实风格的美食摄影图像，主体为 {argument name="dish" default="tamago kake gohan, 日式生鸡蛋拌饭"}，置于一张温暖的木质餐桌上。画面主体为正中心偏下方的一个陶瓷饭碗，碗中盛满晶莹剔透的蒸白米饭，顶部放着 1 个完整的生鸡蛋：鲜艳的橙色蛋黄位于中心，半透明的蛋清渗入米饭中，并带有少许酱油的色泽。加入细腻的蛋清丝细节和米饭上的湿润高光，以增强真实感。饭碗为米色斑点粗陶材质，外侧带有深色竖条纹和深色碗沿，采用近距离四分之三俯视角度拍摄。添加 3 个辅助桌面物品：左后方放置 1 个装有深色液体的小玻璃酱油瓶，处于柔焦状态；右后方放置 1 个装有 3 个棕色鸡蛋的质朴陶瓷碗，部分被裁剪且带有柔焦效果；左前方放置 1 双木筷，斜靠在 1 个深色小筷架上。使用来自左上方的自然晨光，浅景深，暖色调，蛋黄和米饭焦点清晰，呈现真实的陶瓷质感，画面中无人，无文字，无标签，无水印。
+
+[English]
+Create a realistic food photography image of {argument name="dish" default="tamago kake gohan, Japanese steamed white rice topped with a raw egg"} in a rustic ceramic bowl. The bowl is centered in the foreground on a warm wooden table, filled with glossy short-grain white rice and one cracked raw egg on top: a vivid orange yolk sitting intact in the middle, surrounded by translucent egg white spreading into the rice with a light soy-sauce tint. Use a shallow depth of field and natural soft window light, with appetizing highlights on the yolk and individual rice grains clearly visible. In the background, place exactly 2 supporting props: a small glass soy sauce dispenser with dark liquid on the left, slightly blurred, and a ceramic bowl containing exactly 3 brown eggs on the right, also blurred. In the lower left foreground, include exactly 1 pair of wooden chopsticks resting diagonally beside a small dark chopstick rest. Style the scene as a high-resolution Japanese home breakfast photo, warm tones, realistic textures, no text, no hands, no people, no packaging, no extra utensils.
+```
+
+**来源：** [@みどり🐲Midori Tatsuta](https://x.com/midori_tatsuta/status/2091695385228284286) | 2026-08-24
+
+---
+

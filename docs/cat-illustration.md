@@ -19017,3 +19017,123 @@ Create a serene wide-format abstract watercolor landscape, 16:9 aspect ratio, wi
 
 ---
 
+### 🎨 例 6854：主题艺术拼贴模板
+
+![主题艺术拼贴模板](../images/%E4%B8%BB%E9%A2%98%E8%89%BA%E6%9C%AF%E6%8B%BC%E8%B4%B4%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+THEME = {argument name="theme" default="输入主题"}
+STYLE = {argument name="style" default="输入你想要的风格"}
+PALETTE = {argument name="palette" default="输入配色方案"}
+ASPECT RATIO = {argument name="aspect ratio" default="输入你想要的宽高比"}
+
+执行操作：
+  围绕 THEME 创建一个艺术化的多场景拼贴。
+  从 THEME 中自然地衍生出主体、环境、物体、角色和视觉事件。
+  从 THEME 中自然地衍生出情感基调、氛围和能量。
+  在能够有力支撑 THEME 时，使用人物、动物、物体、景观、建筑、抽象形式或它们的任意组合。
+  将每个场景视为来自同一世界的独特情感或概念片段。
+  像富有表现力的编辑艺术排版一样构建构图，而不是像故事板或常规的网格面板。
+  自由变换场景的数量、比例、尺寸和位置。
+  将大型主导图像与狭窄的垂直片段、宽阔的水平裁剪、小细节场景和部分裁剪的构图相结合。
+  错开场景边缘并移动它们的对齐方式，以创造不规则的视觉节奏。
+  让一些场景完全延伸到画布边缘，而另一些则在邻近图像处终止。
+  利用邻近场景比例自然产生的 L 型、阶梯状或偏移排列。
+  避免在整个构图中重复使用相同的矩形尺寸或对齐方式。
+  保持场景在视觉上的独立性，不要在它们之间使用可见的边框或空白间隙。
+  让邻近场景通过不规则的裁剪关系相接，同时保持它们各自环境的独立性。
+  不要将不同的地点混合成一个连续的环境。
+  保持每个场景的主要主体在视觉上包含在该场景内。
+  利用建筑、大面积色块和负空间来塑造整体构图。
+  通过色彩关系、视觉节奏和主题呼应来连接邻近场景，而不是物理上合并它们的内容。
+  选择专门适合 THEME 的环境和情境。
+  在能增强 THEME 时，偶尔加入亲密的片段，如手部、物体、窗户、剪影、建筑细节或留白。
+  赋予每个场景不同的视觉比例、视角和概念焦点。
+  根据 STYLE 使用富有表现力的光影、形状、透视和负空间。
+  在保持整体和谐的同时，改变 PALETTE 在不同场景中的侧重点。
+  当主体、角色、物体或地点重复出现时，保持一致性。
+  保持最终构图在视觉上的简洁、精致且刻意的不规则感。
+
+CAMERA：根据 THEME 选择多样的编辑式取景、环境广角、裁剪中景、孤立细节、不寻常的负空间构图、俯视片段和偏心视角。
+
+规则：
+  将 STYLE 作为媒介、线条和文本的权威标准。
+
+[English]
+THEME = {argument name="theme" default="enter theme"}
+STYLE = {argument name="style" default="enter the style you want"}
+PALETTE = {argument name="palette" default="enter the color palette"}
+ASPECT RATIO = {argument name="aspect ratio" default="enter the aspect ratio you want"}
+
+DO:
+  Create an artistic multi-scene collage built entirely around THEME.
+  Derive subjects, environments, objects, characters and visual events naturally from THEME.
+  Derive the emotional tone, atmosphere and energy naturally from THEME.
+  Use people, animals, objects, landscapes, architecture, abstract forms or any combination of them when they meaningfully support THEME.
+  Treat each scene as a distinct emotional or conceptual fragment from the same world.
+  Build the composition like an expressive editorial art spread rather than a storyboard or regular panel grid.
+  Freely vary the number, scale, proportions and placement of scenes.
+  Combine large dominant images with narrow vertical fragments, wide horizontal crops, small detail scenes and partially cropped compositions.
+  Stagger scene edges and shift their alignments to create an irregular visual rhythm.
+  Let some scenes extend fully to the canvas edge while others terminate against neighboring imagery.
+  Use occasional L-shaped, stepped or offset arrangements created naturally by neighboring scene proportions.
+  Avoid repeating the same rectangle size or alignment across the composition.
+  Keep scenes visually separate without visible frames or empty gaps between them.
+  Let neighboring scenes meet through irregular crop relationships while keeping their environments independent.
+  Do not blend separate locations into one continuous environment.
+  Keep the main subjects of each scene visually contained within that scene.
+  Use architecture, large color fields and negative space to shape the overall composition.
+  Connect neighboring scenes through color relationships, visual rhythm and thematic echoes rather than physically merging their content.
+  Choose environments and situations specifically suited to THEME.
+  Include occasional intimate fragments such as hands, objects, windows, silhouettes, architectural details or empty spaces when they strengthen THEME.
+  Give each scene a different visual scale, point of view and conceptual focus.
+  Use expressive lighting, shape, perspective and negative space according to STYLE.
+  Vary the emphasis of PALETTE from scene to scene while preserving overall harmony.
+  Maintain consistency whenever subjects, characters, objects or locations recur.
+  Keep the final composition visually clean, sophisticated and intentionally irregular.
+
+CAMERA: varied editorial framing, environmental wides, cropped medium views, isolated details, unusual negative-space compositions, overhead fragments and off-center perspectives chosen according to THEME
+
+RULES:
+  Use STYLE as the authority for medium, linework, text
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2091815882057990475) | 2026-08-24
+
+---
+
+### 🎨 例 6860：动漫开发概念项目
+
+![动漫开发概念项目](../images/%E5%8A%A8%E6%BC%AB%E5%BC%80%E5%8F%91%E6%A6%82%E5%BF%B5%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+オリジナル短編映画『{argument name="作品名" default="風待ちの風車"}』のための、1枚の縦長アニメ開発ボードを作成してください。
+```
+
+**来源：** [@井上＠YouTubeオタクコンサル育成する人](https://x.com/YouTube_AIno/status/2091773076375498942) | 2026-08-24
+
+---
+
+### 🎨 例 6863：当代混合媒介城市绘画
+
+![当代混合媒介城市绘画](../images/%E5%BD%93%E4%BB%A3%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E5%9F%8E%E5%B8%82%E7%BB%98%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+当代混合媒介城市绘画，主体为 {argument name="human" default="[HUMAN]"}，身着 {argument name="clothing" default="[CLOTHING]"}，在 [SCENERY] 中 [ANIMAL] 旁 {argument name="pose" default="[POSE]"}。以冷灰色和白色为基底，使用 [COLORS] 进行创作，辅以强烈的黑色墨水剪影、随性的炭笔素描痕迹、刮擦的丙烯色块、半透明的色彩渲染、圆形图形形状、垂直的颜料滴落、喷溅噪点、未完成的拼贴边缘、高对比度的负空间、半抽象的人体结构、富有表现力的笔触质感，以及原始的画廊墙面构图。背景为 [BACKGROUND]，极简但富有层次，带有污渍、涂抹痕迹、细线、破碎的矩形和漂浮的色点。垂直比例 4:5。
+
+[English]
+Contemporary mixed-media urban painting of {argument name="subject" default="a human"}, wearing {argument name="clothing" default="modern streetwear"}, {argument name="pose" default="sitting"} beside {argument name="animal" default="a cat"} in {argument name="scenery" default="a rainy city street"}. Use {argument name="colors" default="vibrant neon accents"} over a cold grey and white base, with harsh black ink silhouettes, loose charcoal sketch marks, scraped acrylic blocks, translucent color washes, circular graphic shapes, vertical paint drips, splatter noise, unfinished collage edges, high-contrast negative space, semi-abstract anatomy, expressive brush texture, and a raw gallery-wall composition. The background is {argument name="background" default="a layered urban texture"}, minimal but layered with stains, smears, thin wires, broken rectangles and floating color dots. Vertical 4:5.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2091758965848003048) | 2026-08-24
+
+---
+

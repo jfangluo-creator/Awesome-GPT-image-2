@@ -28943,3 +28943,400 @@ The color palette should be drawn from the most recognizable and spirited colors
 
 ---
 
+### 🎴 例 6836：巨型巧克力棒超现实主义广告
+
+![巨型巧克力棒超现实主义广告](../images/%E5%B7%A8%E5%9E%8B%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%A3%92%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级 {argument name="product" default="巧克力"} 广告，展示了一块巨大的高端巧克力棒垂直矗立在美丽的 {argument name="setting" default="雪山峡谷"} 中央。巧克力棒尺寸极其夸张，高耸于周围景观之上。巧克力质感丰富且富有光泽，细节逼真，包装优雅高级。数百个小人站在附近拍照，背景是雄伟的雪山。巧克力碎片仿佛在巨型产品周围漂浮，如同重力消失一般。温暖的金色阳光穿透云层，营造出梦幻般的奢华光泽。电影级氛围，逼真的雪地反射，高细节纹理，照片级产品摄影，高端食品广告美学，8K 分辨率，焦点清晰，9:16 竖屏构图，比例真实，无畸变，无水印，无额外文字
+
+[English]
+Ultra-realistic cinematic {argument name="product" default="chocolate"} advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful {argument name="setting" default="snowy mountain valley"}. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text
+```
+
+**来源：** [@𝐔𝐑𝐖𝐀 𓂃♡](https://x.com/Urwa_345/status/2091899842457206792) | 2026-08-24
+
+---
+
+### 🎴 例 6837：勃拉姆斯 1859 年莱比锡海报
+
+![勃拉姆斯 1859 年莱比锡海报](../images/%E5%8B%83%E6%8B%89%E5%A7%86%E6%96%AF%201859%20%E5%B9%B4%E8%8E%B1%E6%AF%94%E9%94%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的复古编辑风格海报，讲述 1859 年勃拉姆斯钢琴协奏曲在莱比锡首演的惨败，采用大胆的历史拼贴风格。
+
+画布：垂直 4:5 海报，带有轻微污渍和印刷纹理的陈旧奶油色纸张背景，高对比度的黑色、象牙白、鲜艳钴蓝色，以及一条细红线作为点缀。
+
+布局：左侧由巨大的堆叠式西班牙语标题占据，采用超紧凑的粗体黑色无衬线字体，内容为 {argument name="headline text" default="SOLO TRES PERSONAS APLAUDIERON"}。将标题分为 3 行：“SOLO TRES”、“PERSONAS”、“APLAUDIERON”。在最后一行标题下方添加一条细红线。在下方，添加一行较小的钴蓝色地点/日期文字 {argument name="location date" default="LEIPZIG, 1859"}。左下角显示一个小的白色页面标记 {argument name="page marker" default="1/4"}。
+
+主体：在右半部分，放置一张巨大的黑白雕版肖像画，主角为 {argument name="composer" default="Johannes Brahms"}，展示胸部以上，表情严肃沉郁，略微向左侧，留着波浪卷发，身着维多利亚时代夹克、白衬衫和领结。肖像应看起来像从纸上剪下的古董蚀刻画，周围有浅色不规则边框。
+
+拼贴元素：除肖像外，包含 4 个主要的视觉拼贴元素：1) 右上角一张黑白古董音乐厅内部照片，矩形裁剪，展示华丽的阳台、立柱、天花板装饰和吊灯；2) 左下角一张钢琴琴键的特写长条，呈对角线倾斜；3) 底部中心横跨一张撕裂的乐谱，倾斜并部分覆盖在琴键上；4) 底部中心人物和乐谱后方有一个钴蓝色的几何纸张形状。在底部中心附近的蓝色形状上，包含 3 个黑色剪影小人，均在鼓掌，间距均匀，代表仅有的三位鼓掌观众。
+
+排版与风格：采用粗野主义海报排版，高大的紧凑块状字母，略显不完美的墨迹边缘，做旧的胶印效果，半色调网点，复印雕刻纹理，撕纸拼贴边缘，以及纪录片式的音乐历史氛围。构图应类似于杂志轮播封面或历史类 YouTube 视频缩略图，具有强烈的视觉层级，且不含多余的装饰性文字。
+
+约束：保留所有可见的文本元素和数量：1 个大标题，1 条红线，1 个蓝色地点/日期标签，1 个页面标记，1 幅作曲家肖像，1 张音乐厅照片，1 张钢琴琴键图像，1 个乐谱碎片，1 个蓝色几何形状，以及正好 3 个鼓掌的剪影。不要添加任何徽标、水印、标题或额外的人物。
+
+[English]
+Goal: Create a dramatic vintage editorial poster about the disastrous 1859 Leipzig premiere of a Brahms piano concerto, in a bold historical collage style.
+
+Canvas: Vertical 4:5 poster, aged cream paper background with slight stains and print texture, high contrast black, ivory, vivid cobalt blue, and a thin red accent line.
+
+Layout: Left side dominated by huge stacked Spanish headline text in ultra-condensed bold black sans-serif, reading {argument name="headline text" default="SOLO TRES PERSONAS APLAUDIERON"}. Place the headline in 3 lines: “SOLO TRES”, “PERSONAS”, “APLAUDIERON”. Add a thin red underline beneath the last headline line. Below it, add a smaller cobalt-blue location/date line reading {argument name="location date" default="LEIPZIG, 1859"}. Bottom-left corner shows a small white page marker reading {argument name="page marker" default="1/4"}.
+
+Main subject: On the right half, place a large engraved black-and-white portrait of {argument name="composer" default="Johannes Brahms"}, shown from the chest up, serious and brooding, facing slightly left, with wavy swept hair, Victorian jacket, white shirt, and bow tie. The portrait should look like an antique etching cut out from paper, with a pale irregular border around it.
+
+Collage elements: Include exactly 4 main visual collage elements besides the portrait: 1) a black-and-white antique concert hall interior photo in the upper right, cropped rectangular, showing ornate balconies, columns, ceiling decoration, and chandelier; 2) a close-up strip of piano keys in the lower left, angled diagonally; 3) torn sheet music across the lower center, tilted and partly overlapping the piano keys; 4) a cobalt-blue angular paper shape behind the lower center figures and sheet music. Include exactly 3 small black silhouetted people standing on the blue shape near the lower center, all clapping, spaced evenly, representing the only three applauding attendees.
+
+Typography and style: Use brutalist poster typography, tall condensed block letters, slightly imperfect ink edges, distressed offset printing, halftone dots, photocopied engraving texture, torn-paper collage edges, and a documentary music-history mood. The composition should feel like a magazine carousel cover or historical YouTube essay thumbnail, with strong visual hierarchy and no extra decorative text.
+
+Constraints: Preserve exactly the visible text elements and counts: 1 large headline, 1 red underline, 1 blue location/date label, 1 page marker, 1 composer portrait, 1 concert hall photo, 1 piano-key image, 1 sheet-music fragment, 1 blue angular shape, and exactly 3 applauding silhouettes. Do not add logos, watermarks, captions, or additional people.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2091894451136336201) | 2026-08-24
+
+---
+
+### 🎴 例 6838：极简剪纸风旅行海报
+
+![极简剪纸风旅行海报](../images/%E6%9E%81%E7%AE%80%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张迷人的极简主义编辑风格旅行海报，主题为 {argument name="city" default="伊斯坦布尔"}，{argument name="country" default="土耳其"}，灵感源自现代剪纸拼贴艺术与手工旅行插画。使用温暖的乳白色/米白色纹理纸张作为背景，采用简洁的矩形海报构图。在顶部，以优雅、大号且间距宽阔的大写字体标注城市名称：“{argument name="city uppercase" default="ISTANBUL"}”。
+
+构建一个细节丰富的层叠式微缩城市景观，使用扁平的剪纸形状，呈现微妙的 3D 深度、柔和的阴影、厚实的白色贴纸状轮廓、圆润的边缘以及手工制作的瑕疵感。展示该城市最具辨识度的地标、历史建筑、清真寺、宣礼塔、塔楼、老式房屋、街道、桥梁、周边景观及当地文化元素。将这些地标以不同的深度自然排列，而非写实摄影。
+
+使用精致的地中海/土耳其色调：赤陶色、柔和珊瑚色、灰青色、鼠尾草绿、暖米色、乳白色、柔和蓝色以及深饱和度较低的蓝色。在适当位置添加风格化的树木、柏树、棕榈树，以及行走的小人、传统交通工具、鸟类、云朵和微妙的当地细节。
+
+在背景中创建层叠的起伏丘陵与山脉，使用简化的几何形状。如果地理位置合适，可添加小河流、湖泊、海岸线或道路。保持插画平衡且简洁。
+
+整件艺术品应呈现出高级手工纸艺立体模型/ 3D 剪纸明信片的质感，具备清晰的矢量形状、真实的纸张纹理、柔和的环境阴影、柔和的摄影棚灯光，以及精致的旅行杂志美学，兼具怀旧与现代设计感。
+
+在底部添加一行优雅的小字说明：“{argument name="city caption" default="伊斯坦布尔"}”。在艺术品周围保留充足的留白。拒绝写实摄影，拒绝过度渐变的 CGI，拒绝繁杂的细节，拒绝杂乱。
+
+长宽比：4:5 竖构图，高分辨率，简洁的居中构图，高级旅行海报设计。
+
+[English]
+Create a charming minimalist editorial travel poster of {argument name="city" default="Istanbul"}, {argument name="country" default="Turkey"}, inspired by modern paper-cut collage and handcrafted travel illustration. Use a warm cream/off-white textured paper background with a clean rectangular poster composition. At the top, place the city name in large, elegant, widely spaced uppercase typography: “{argument name="city uppercase" default="ISTANBUL"}”.
+
+Build a detailed layered miniature cityscape using flat paper-cut shapes with subtle 3D depth, soft shadows, thick white sticker-like outlines, rounded edges, and handcrafted imperfections. Feature the city’s most recognizable landmarks, historic architecture, mosques, minarets, towers, old houses, streets, bridges, surrounding landscape, and local cultural elements. Arrange the landmarks naturally at different depths rather than as a realistic photograph.
+
+Use a refined Mediterranean/Turkish color palette: terracotta, muted coral, dusty teal, sage green, warm beige, cream, soft blue, and dark desaturated blue. Add stylized trees, cypress trees, palm trees where appropriate, small people walking, traditional vehicles, birds, clouds, and subtle local details.
+
+Create layered rolling hills and mountains in the background, with simplified geometric shapes. Add a small river, lake, coastline, or road if geographically appropriate. Keep the illustration balanced and uncluttered.
+
+The entire artwork should look like a premium handmade paper diorama / 3D cut-paper postcard, with crisp vector-like shapes, tactile paper texture, gentle ambient shadows, soft studio lighting, sophisticated travel-magazine aesthetics, nostalgic yet contemporary design.
+
+At the bottom, add a small elegant caption: “{argument name="city caption" default="Istanbul"}”. Maintain generous negative space around the artwork. No photorealism, no gradients-heavy CGI, no excessive detail, no clutter.
+
+Aspect ratio: 4:5 vertical, high resolution, clean centered composition, premium travel poster design.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2091889671626170529) | 2026-08-24
+
+---
+
+### 🎴 例 6846：日式微缩海报广告
+
+![日式微缩海报广告](../images/%E6%97%A5%E5%BC%8F%E5%BE%AE%E7%BC%A9%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简风格的日式宣传海报，演示“照片转微缩海报”的服务，并以虎斑猫照片为例。
+
+画布：4:5 竖版海报，采用暖米白色背景，居中构图，留白充足，呈现柔和的编辑设计风格及精致的日式生活美学。
+
+布局：顶部居中放置日文标题「この一枚が」，使用纤细的灰色手写体。下方展示原始照片（横向矩形）：一只戴着红色项圈的虎斑猫在夜晚的窗台上向上张望，室内灯光温暖，景深较浅。照片下方居中放置小号、字间距较宽的衬线体大写字母“YOUR PHOTO”，随后是一个细长的向下箭头。
+
+核心演示：在箭头下方放置一个较大的竖版海报样机。其上半部分重复展示原始猫咪照片，下半部分呈现微缩立体模型插图：同一只虎斑猫被转化为一个逼真的微缩模型，坐在高耸的白色墙壁/门框旁的小米色平台上，光影柔和，在象牙色背景上投下淡淡的阴影。在迷你海报的左下角添加小号编辑文本“Quiet Watcher”，下方配有难以辨认的微小规格文字，右下角带有微小的目录式标记。
+
+底部文字：在样机下方居中放置加粗的日文行「こうなる。」，随后是一行较小的灰色文字「1枚 480円 ／ 数分で完成」，最后是字间距较宽的小写衬线体网址“miniato.jp”。
+
+视觉风格：极简高级产品广告，采用柔和的米色和灰色调，排版整洁，字体纤细，阴影柔和，上半部分为摄影图片，下半部分为逼真的微缩渲染图，营造安静优雅的氛围。在底部文案前仅展示 2 个可见图像面板：1 张原始横向照片和 1 个转换后的竖版海报样机。转换后的样机包含 2 个上下排列的部分：上方为原始照片，下方为微缩立体模型。
+
+可自定义细节：使用 {argument name="animal subject" default="a tabby cat with a red collar"}（动物主体）、{argument name="headline text" default="この一枚が"}（标题文本）、{argument name="result text" default="こうなる。"}（结果文本）、{argument name="price line" default="1枚 480円 ／ 数分で完成"}（价格行）以及 {argument name="website" default="miniato.jp"}（网址）。
+
+[English]
+Goal: Create a minimalist Japanese promotional poster demonstrating a photo-to-miniature poster transformation service, using a tabby cat photo as the example.
+
+Canvas: Vertical 4:5 poster on a warm off-white background, centered composition, lots of negative space, soft editorial design, refined Japanese lifestyle aesthetic.
+
+Layout: At the top center place the Japanese headline 「この一枚が」 in thin gray handwritten-style typography. Below it, show the original photo as a landscape rectangle: a tabby cat with a red collar sitting at a window ledge at night, looking upward, warm indoor lighting, shallow depth of field. Under the photo, center the text “YOUR PHOTO” in small spaced serif capitals, then a thin downward arrow.
+
+Main demonstration: Below the arrow, place a larger vertical poster mockup. Its upper half repeats the same original cat photo unchanged. Its lower half becomes a miniature diorama illustration: the same tabby cat transformed into a small realistic figure sitting on a tiny beige platform beside a tall white wall/door frame, softly lit, with subtle shadows on an ivory background. Add small editorial text on the lower-left of this mini poster reading “Quiet Watcher” with tiny unreadable specification text beneath it, and tiny catalog-style marks in the lower-right.
+
+Bottom text: Under the mockup, center a bold Japanese line 「こうなる。」, then a smaller gray line 「1枚 480円 ／ 数分で完成」, and finally the website “miniato.jp” in spaced lowercase serif letters.
+
+Visual style: Minimal premium product ad, muted beige and gray palette, clean spacing, thin typography, soft shadows, photographic upper image, realistic miniature lower rendering, quiet and elegant mood. Use exactly 2 visible image panels before the bottom copy: 1 original landscape photo and 1 transformed vertical poster mockup. The transformed mockup contains exactly 2 stacked sections: the unchanged photo on top and the miniature diorama on bottom.
+
+Customizable details: Use {argument name="animal subject" default="a tabby cat with a red collar"}, {argument name="headline text" default="この一枚が"}, {argument name="result text" default="こうなる。"}, {argument name="price line" default="1枚 480円 ／ 数分で完成"}, and {argument name="website" default="miniato.jp"}.
+```
+
+**来源：** [@ヒマを作る人の記録｜非エンジニアがAIでつくる個人開発](https://x.com/hima_tsukuru/status/2091847714355245341) | 2026-08-24
+
+---
+
+### 🎴 例 6849：梦幻虹彩帆船
+
+![梦幻虹彩帆船](../images/%E6%A2%A6%E5%B9%BB%E8%99%B9%E5%BD%A9%E5%B8%86%E8%88%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在虹彩帆影下的一次静谧航行。这是一个独特的奇幻项目场景，描绘了一艘宏伟的帆船在如镜面般平滑的倒影海面上平静漂浮，背景是柔和的粉彩色天空。通过全新的视觉叙事与构图，重新诠释了这一画面。帆布闪烁着虹彩光芒，捕捉着柔和的大气光线，使船只仿佛悬浮于现实与梦境之间，营造出一种宁静且具有魔幻现实主义色彩的氛围，既安详又独具匠心。环境：• 广阔的开阔海域，拥有如镜般的倒影、轻柔的涟漪，以及充满电影感的广阔地平线 • 层叠的粉彩色调蓬松云层，在不显杂乱的同时营造出深度 • 避免出现其他船只、陆地、鸟类或任何破坏宁静感的干扰物体。光影：• 柔和的空灵日光，在帆布、索具和水面上形成漫反射照明 • 船体轮廓上的微妙边缘光，以及虹彩表面周围细腻的发光晕染 • 无刺眼的阴影，无过曝的高光，无强烈的对比。材质：• 具有珠光、半透明质感且色彩流转的帆布 • 带有真实纹理和柔和镜面高光的深色抛光木质船体 • 表面平滑且具有真实光线散射效果的水面。构图：• 宽幅电影镜头，将船只置于偏离中心的位置，以获得更独特、更具编辑感的平衡 • 强调天空与水面的留白，以增强梦幻般的静谧感 • 平静的水平构图，船只在画面中占据显著而优雅的比例。氛围：宁静、神秘且带有安静的超凡脱俗感，具有清新、独特的奇幻电影质感。使用 85mm 镜头拍摄，f/2.8 光圈，浅景深，超高细节，8K 写实感。一艘宏伟的帆船，挂着虹彩发光的帆，在充满蓬松云朵的粉彩色天空下，平静地漂浮在如镜面般平滑的倒影海面上；整体构图宁静而梦幻，柔和空灵的光影与安详的氛围让人联想到奇幻或魔幻现实主义画作。
+
+[English]
+A unique {argument name="subject" default="fantasy campaign scene of a majestic sailing ship"} drifting calmly across a {argument name="sea type" default="glassy, reflective sea"} beneath a {argument name="sky style" default="pastel sky"}, reimagined with fresh visual storytelling and an entirely new composition. The sails shimmer with iridescent glow, catching soft atmospheric light as the vessel feels suspended between reality and dream, with a tranquil, magical realism atmosphere that remains serene yet distinctly original.
+Environment:
+• Vast open sea with mirror-like reflections, gentle ripples, and a horizon that feels expansive and cinematic
+• Fluffy cloud formations in layered pastel tones, creating depth without clutter
+• Avoid additional ships, landmasses, birds, or distracting objects that break the quiet solitude
+Lighting:
+• Soft ethereal daylight with diffused illumination across sails, rigging, and water
+• Subtle rim light on the ship’s silhouette and delicate glow bloom around iridescent surfaces
+• No harsh shadows, no blown highlights, no aggressive contrast
+Materials:
+• Sails with pearlescent, translucent fabric behavior and luminous color shifts
+• Dark polished wood hull with realistic grain and gentle specular highlights
+• Water with a smooth reflective surface and believable light scatter
+Composition:
+• Wide cinematic framing with the ship placed off-center for a more unique, editorial balance
+• Emphasize negative space in sky and water to heighten the dreamlike stillness
+• Calm horizontal composition with the vessel occupying a strong but elegant share of the frame
+Mood:
+Serene, mystical, and quietly otherworldly with a fresh, unique fantasy-cinematic identity
+Shot on 85mm lens, f/2.8, shallow depth of field, ultra-detailed, 8K realism
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2091840823151255696) | 2026-08-24
+
+---
+
+### 🎴 例 6861：超大字体排版风格海报
+
+![超大字体排版风格海报](../images/%E8%B6%85%E5%A4%A7%E5%AD%97%E4%BD%93%E6%8E%92%E7%89%88%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张大胆的前卫宣传海报，让超大字体排版成为视觉概念的核心，而非仅仅作为背景。
+
+品牌：{argument name="brand name" default="[品牌名称]"}
+产品 / 活动：{argument name="campaign" default="[产品或活动]"}
+核心词：{argument name="word" default="[短词]"}
+主体 / 产品：[人物 / 产品]
+
+[English]
+Create a bold editorial campaign poster where oversized typography actively shapes the visual concept instead of simply sitting in the background.
+
+Brand: {argument name="brand name" default="[BRAND NAME]"}
+Product / Campaign: {argument name="campaign" default="[PRODUCT OR CAMPAIGN]"}
+Main Word: {argument name="word" default="[SHORT WORD]"}
+Subject / Product: [PERSON / PRODUCT]
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2091768903831572924) | 2026-08-24
+
+---
+
+### 🎴 例 6865：巨型唇部精华大道广告
+
+![巨型唇部精华大道广告](../images/%E5%B7%A8%E5%9E%8B%E5%94%87%E9%83%A8%E7%B2%BE%E5%8D%8E%E5%A4%A7%E9%81%93%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级产品广告，展示了一支巨大的光泽感 {argument name="product color" default="深红色"} {argument name="product" default="唇部精华管"} 垂直矗立在雨后繁忙的城市大道中央。产品被戏剧性地放大，高耸于周围的建筑和车辆之上。极简的高级包装，印有醒目的白色“{argument name="branding" default="LPSS"}”品牌标识，以及较小的文字“LIP ESSENCE – NATURAL CARE – Moisturizing Treatment”。潮湿的反射路面呈现出逼真的倒影，汽车在产品周围行驶，行人边走边用智能手机拍摄。两侧是优雅的欧式历史建筑，背景可见美丽的金色圆顶大教堂，戏剧性的蓝天布满了柔和的金色落日云彩，温暖的阳光营造出奢华的光泽。高度细腻的写实纹理，精准的产品反射，电影级布光，浅景深，照片级真实摄影，高端美妆广告审美，8K 分辨率，焦点清晰，比例真实，垂直构图，无畸变，无额外文字，无水印。
+
+[English]
+Ultra-realistic cinematic product advertisement featuring a giant glossy {argument name="product color" default="deep-red"} {argument name="product" default="lip essence tube"} standing vertically in the center of a busy grand city boulevard after rain. The product is dramatically oversized, towering above the surrounding buildings and vehicles. Minimal premium packaging with bold white “{argument name="branding" default="LPSS"}” branding and smaller text reading “LIP ESSENCE – NATURAL CARE – Moisturizing Treatment.” Wet reflective road surface with realistic reflections, cars driving around the product, pedestrians walking and photographing it with smartphones. Elegant historic European-style architecture on both sides, beautiful golden-domed cathedral visible in the background, dramatic blue sky filled with soft golden sunset clouds, warm sunlight creating a luxurious glow. Highly detailed realistic textures, accurate product reflections, cinematic lighting, shallow atmospheric depth, photorealistic photography, premium beauty campaign aesthetic, 8K, sharp focus, realistic proportions, vertical composition, no distortion, no extra text, no watermark.
+```
+
+**来源：** [@𝐒𝐊_𝐀𝐈](https://x.com/Its_Saad_kkk/status/2091748835328512255) | 2026-08-24
+
+---
+
+### 🎴 例 6871：平成流行语动漫海报
+
+![平成流行语动漫海报](../images/%E5%B9%B3%E6%88%90%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的正方形动漫反应扭蛋海报，主角是一位充满活力的偶像女高中生，正对着观众指点，主题围绕平成时代的流行语反应。
+
+画布：1:1 正方形插画，高分辨率，色彩鲜艳的日式流行海报构图，带有贴纸般的图形设计。
+
+主体：一位可爱的动漫女孩，{argument name="character name" default="Airi"}，画面右半部分展示大腿以上部位。她留着深蓝色光泽的波波头，带有淡淡的紫色挑染，温暖的棕色眼睛，一只眼睛眨着，脸颊绯红，张开嘴露出开心的笑容。她用食指强烈地指向镜头，产生透视感，另一只手自信地叉在腰间。她身穿白色水手风校园偶像制服，配有橙色领子、橙色领巾、橙色袖口、橙色百褶裙、橙色颈圈、心形小耳环，以及一个带有星星宝石的大型橙色花朵丝带发饰。
+
+布局：将角色置于右中前景，并带有厚实的白色贴纸轮廓。在左侧，加入一句巨大的垂直日文标语，使用粗体红色字体，配以奶油色填充高光和厚实的白/黄色轮廓：{argument name="main phrase" default="今でしょ!"}。在左上角，加入一个小小的倾斜标志，写着 {argument name="era label" default="平成"}。在左上方附近，添加一个较小的橙色标题，写着 {argument name="gacha title" default="流行语ガチャ"}。在左下方，添加一个漫画对话气泡，包含三部分文字：小号蓝色「はい!」、大号粉色「そこ!」以及蓝色「テストに出るよ!!」。
+
+背景：充满活力的橙色和金色放射状背景，带有半调圆点、五彩纸屑、闪光点和节日游戏节目的活力感。使用暖色渐变和高对比度。
+
+装饰元素：在角色和文字周围包含 5 个大型贴纸风格装饰：右上角 1 个黄色星星，右中 1 个青色星星，左下中心附近 1 个红色星星，左下角 1 个黄色星星，以及右侧 1 组两个奶油色的感叹放射状标记。在整个背景中添加白色小闪光点。
+
+视觉风格：精致的现代动漫插画，明亮的眼睛，干净的线条，饱和的橙色调色板，动态透视，俏皮的日式综艺排版，厚实的贴纸轮廓，充满活力且可爱。
+
+约束：保持所有可见的日文文字清晰可辨，并位于指定位置。不要添加额外的角色、额外的对话气泡、徽标、水印或不相关的文字。
+
+[English]
+Goal: Create a bright square anime reaction-gacha poster featuring an energetic idol schoolgirl pointing directly at the viewer, themed around a Heisei-era trendy phrase reaction.
+
+Canvas: 1:1 square illustration, high-resolution, colorful Japanese pop poster composition with a sticker-like graphic design.
+
+Main subject: A cute anime girl, {argument name="character name" default="Airi"}, shown from thighs up on the right half of the image. She has short glossy navy-black bob hair with subtle purple highlights, warm brown eyes, one eye winking, flushed cheeks, and an open cheerful smile. She points her index finger toward the camera with strong foreshortening, while her other hand rests confidently on her hip. She wears a white sailor-style school idol uniform with orange collar, orange neckerchief, orange sleeve cuffs, orange pleated skirt, orange choker, small heart earrings, and a large orange flower-and-ribbon hair accessory with a star gem.
+
+Layout: Place the character on the right-center foreground with a thick white sticker outline. On the left side, include one huge vertical Japanese catchphrase in bold red letters with cream fill highlights and thick white/yellow outline: {argument name="main phrase" default="今でしょ!"}. At the top left, include a small tilted sign reading {argument name="era label" default="平成"}. Near the top center-left, add a smaller orange title reading {argument name="gacha title" default="流行語ガチャ"}. At the lower left, add one comic speech burst containing three text parts: small blue 「はい!」, large pink 「そこ!」, and blue 「テストに出るよ!!」.
+
+Background: Vibrant orange and golden radial burst background with halftone dots, confetti speckles, sparkles, and a festive game-show energy. Use warm gradients and high contrast.
+
+Discrete decorative elements: Include exactly 5 large sticker-style decorations around the character and text: 1 yellow star at the upper right, 1 teal star at the mid-right, 1 red star near the lower center-left, 1 yellow star at the lower left, and 1 set of two cream exclamation-ray marks on the right side. Add small white sparkle glints throughout the background.
+
+Visual style: Polished modern anime illustration, glossy eyes, clean line art, saturated orange palette, dynamic perspective, playful Japanese variety-show typography, thick sticker outlines, energetic and cute.
+
+Constraints: Keep all visible Japanese text legible and in the specified positions. Do not add extra characters, extra speech bubbles, logos, watermarks, or unrelated text.
+```
+
+**来源：** [@愛梨（AI初心者）](https://x.com/Ai_beginner_ri/status/2091732591695348180) | 2026-08-24
+
+---
+
+### 🎴 例 6875：动漫流行语反应扭蛋海报
+
+![动漫流行语反应扭蛋海报](../images/%E5%8A%A8%E6%BC%AB%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%8D%E5%BA%94%E6%89%AD%E8%9B%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的方形动漫扭蛋反应海报，采用高能量的日式漫画风格。主体是一位可爱的年轻动漫少女，拥有 {argument name="hair color" default="白/银色"} 的超长发，精致的双麻花辫混合着飘逸的发丝，蓝色眼睛，白皙皮肤，脸颊泛红，俏皮地眨着眼。她靠近镜头，一只手竖起大拇指点赞，另一只手紧握拳头表现出兴奋的样子，张嘴微笑。她穿着一件明亮的青色与白色相间的运动风短款拉链外套，袖子超大，穿着带有腰带和绑带的白色短裤，佩戴蓝色宝石配饰、星星发饰、耳环、丝带，编织在麻花辫中的小花装饰。采用动态漫画构图，角色占据画布右侧和中心，左侧有一个巨大的垂直日文流行语反应词，内容为 {argument name="main reaction text" default="それな!"}；字体要粗、加粗，蓝色填充，带有白色内边框和厚重的黑色外轮廓，半调纹理，轻微倾斜，强调冲击感。在左上角添加一个圆角对话气泡标签，包含两个文本元素：{argument name="era label" default="令和"} 和 {argument name="series title" default="流行語リアクションガチャ"}。在右上角添加一个可收藏的贴纸徽章，文字为 {argument name="rarity badge text" default="SUPER RARE"}，配有小皇冠和彩色霓虹轮廓。背景：明亮的青色波普艺术半调图案，带有白色飞溅、星星、爱心、速度线、漫画爆炸形状、感叹号和贴纸般的轮廓。使用清晰的漫画线条、光泽的数字着色、干净的赛璐珞阴影、高细节、充满活力的偶像扭蛋美学、饱和的蓝白配色，采用 4:5 的社交媒体海报方形裁剪。确保图像包含四个可见的文本组：左上角的时代标签、左上角的系列标题、巨大的反应词以及右上角的稀有度徽章；避免添加任何其他可读文本、水印或标志。
+
+[English]
+Create a square, high-energy anime trading-card style illustration of a cheerful young female idol reacting to a randomized trendy phrase. The character is a cute anime girl named {argument name="character name" default="Rena"} with very long silver-white hair, twin braids mixed with loose flowing strands, blue eyes, pale skin, blush, and a playful wink. She wears a sporty cropped white zip-up jacket with bright cyan sleeves and trim, white belted shorts, blue gemstone accessories, a blue star hair clip, and small decorative flowers woven into her braids. Pose her close to the camera in a dynamic three-quarter composition, giving a huge thumbs-up toward the viewer with one hand while the other hand is clenched in an excited fist. Use bold manga line art, glossy modern anime rendering, halftone dots, speed lines, stickers, sparkles, stars, hearts, and explosive comic effects on a bright cyan-and-white background. Add one large vertical Japanese comic sound-word on the left, exactly 「それな！」, in huge blue letters with white fill highlights, thick black outline, and drop shadow. Add a rounded label in the upper left reading 「令和」 and 「流行語リアクションガチャ」. Add one colorful badge in the upper right reading “SUPER RARE” with a tiny crown. Overall mood: ultra-cute, energetic, celebratory, gacha-result reveal, Reiwa slang reaction. Use exactly these visible text elements: 1 large phrase 「それな！」, 1 era tag 「令和」, 1 title label 「流行語リアクションガチャ」, and 1 rarity badge “SUPER RARE”. Keep the palette dominated by cyan, white, black outlines, and small yellow accents; no watermark, no extra characters, no additional text.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2091724426312024401) | 2026-08-24
+
+---
+
+### 🎴 例 6882：90 年代香港电影复古肖像
+
+![90 年代香港电影复古肖像](../images/90%20%E5%B9%B4%E4%BB%A3%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E5%A4%8D%E5%8F%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[人物] 图像 1 [签名] 右下角有一个小的 Threads 标志，上方有一个小的白色手写签名“CHAse”。
+
+[姿势与表情]
+姿势与构图：以人物为中心的半身像，靠在贴满报纸的墙上。
+姿势：肩膀和头部靠在左侧的复古报纸墙上，头部后仰，梦幻般地凝视着镜头。
+表情：带有怀旧忧郁感的梦幻表情，红唇微启。营造出一种经典电影场景般的氛围。
+
+[服装与道具]
+服装：一件简单的 {argument name="top" default="纯白/象牙白无袖背心"}，自然地露出纤细的肩线。
+道具：
+吊灯：头顶上方悬挂着一盏黑色哑光复古锥形灯，作为强烈的复古电影元素。
+复古报纸墙：{argument name="background" default="贴满汉字书法印刷旧报纸的左侧墙面"}，增添了独特的复古胶片感。
+项链：领口下方露出的一条纤细银色吊坠项链，增添了精致的细节。
+
+[发型与妆容细节]
+发型：凌乱且自然飘逸的深棕色/纯黑色 {argument name="hairstyle" default="自然长卷发"}。额头和脸颊上散落的细碎发丝，最大程度地提升了梦幻剧照的美感。
+妆容：在温暖的顶光下呈现出光滑的底妆，配以阴影眼妆。唇部用湿润、有光泽的深红色/珊瑚色点缀，成为迷人的视觉焦点。
+
+[光影效果]
+光源：从人物正上方灯具倾泻而下的强烈金黄色/琥珀色聚光灯（顶部主光）。
+效果：在报纸墙、额头、脸颊、嘴唇和肩膀上营造出宁静的高光，而画面右侧和深处背景则沉入深邃的黑暗中，形成戏剧性的明暗对比照明。
+
+[质感与色彩氛围]
+色彩：“90 年代香港电影”氛围，光线和唇部的暖金琥珀色与红色，报纸的褪色米色，以及深青色/黑色的阴影。
+质感：旧报纸褪色粗糙的纸张质感、灯具的哑光钢质表面，以及皮肤和背景上电影胶片的颗粒感。
+
+[胶片与拍摄角度]
+构图：平视水平肖像，捕捉光影和报纸墙的厚重美感。
+特征：电影级大光圈镜头带来的浅景深（Shallow DoF），人物五官和散落的发丝清晰锐利，背景则呈现出梦幻般的虚化效果。
+
+[背景布局]
+空间：让人联想到 90 年代电影中巷弄的经典室内布景。
+细节：左侧画面布满了经典的报纸墙，右下角背景处堆叠的箱子和物品剪影增加了叙事深度。
+
+[English]
+[인물] 이미지 1 [싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다.
+
+[인물의 포즈 및 표정]
+
+포즈 및 구도: 신문지가 빼곡히 붙은 벽면에 머리와 상체를 기대어 선 인물의 아우라를 담아낸 정면 중심의 미디엄 버스트 숏(Medium Bust Shot) 구도입니다.
+
+자세: 화면 좌측의 빈티지 신문 벽에 어깨와 머리를 살짝 기대어 고개를 비스듬히 젖히고 카메라 렌즈를 그윽하게 응시하고 있습니다.
+
+표정: 아련하고 향수 어린 눈빛과 함께 살짝 벌어진 붉은 입술이 돋보이는 몽환적인 표정입니다. 클래식 영화 속 한 장면을 연상시키는 우수 어린 아우라를 연출합니다.
+
+[인물 의상 및 소품]
+
+의상: 가녀린 어깨 라인이 자연스럽게 노출되는 심플한 {argument name="상의" default="퓨어 화이트/아이보리 톤의 슬리브리스 민소매 탑"}을 착용했습니다.
+
+소품:
+
+펜던트 조명 (Pendant Light): 머리 위쪽에 매달린 블랙 매트 컬러의 빈티지 콘형 갓 조명이 강렬한 레트로 시네마틱 오브제 역할을 합니다.
+
+빈티지 신문 벽 (Newspaper Wall): {argument name="배경" default="좌측 벽면 전체를 덮고 있는 한자 서체 프린팅의 오래된 신문지들"}이 독보적인 레트로 아날로그 감성을 더합니다.
+
+목걸이: 목선 아래로 살짝 노출되는 가느다란 실버 팬던트 네크리스가 세련된 디테일을 보조합니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+헤어: 부스스하고 내추럴하게 흩날리는 딥 브라운 / 젯 블랙 톤의 {argument name="헤어스타일" default="긴 내추럴 웨이브"}입니다. 이마와 뺨 위로 부드럽게 흘러내린 얇은 잔머리 가닥(Loose strands)들이 몽환적인 스틸컷 미학을 극대화합니다.
+
+메이크업: 상단 웜톤 조명 아래 온화하게 빛나는 매끄러운 스킨 베이스에, 또렷한 눈매를 살린 음영 아이 메이크업을 매치했습니다. 입술은 시선을 집중시키는 촉촉한 글로시 딥 레드/코랄 립으로 그윽하고 매혹적인 포인트를 주었습니다.
+
+[조명 및 빛 방향]
+
+광원: 인물 바로 위 상단에 위치한 갓 조명에서 아래로 쏟아지는 강렬한 골든 옐로우/앰버 스폿 라이트(Top-down Key Light)입니다.
+
+효과: 조명 바로 아래의 신문지 벽면, 인물의 이마, 뺨, 입술, 어깨선 위로 영롱하고 차분한 하이라이트를 형성하며, 화면 우측과 배경 깊은 곳은 깊은 어둠 속으로 가라앉히는 극적인 저조도 명암 대비(Low-key Chiaroscuro Lighting)를 연출합니다.
+
+[질감과 색감 무드 (핵심 질감 디테일)]
+
+색채: 상단 조명과 립의 따스한 골든 앰버(Golden Amber)·레드(Red), 신문지의 바랜 베이지(Beige), 그리고 배경 음영의 딥 틸/블랙이 이루는 '90s 홍콩 시네마틱(Vintage Hong Kong Cinema)' 색채 무드입니다.
+
+질감 디테일 (특수 분석):
+
+신문지 질감: 오래되어 빛을 받아 노르스름하게 바랜 신문지의 거칠고 섬유질이 살아있는 종이 텍스처와 먹물 인쇄 글귀의 은은한 오돌토돌함.
+
+금속 조명 갓 질감: 상단 블랙 갓 조명의 매트하고 도톰한 스틸/금속 표면 및 전구 내부의 강렬한 발광 질감.
+
+스킨 및 필름 노이즈 질감: 웜톤 빛을 받아 수분감이 감도는 매끈한 피부 결 및 35mm 영화 필름 특유의 거친 입자 노이즈(Cinematic Film Grain) 텍스처.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+구도 및 앵글: 인물의 시선 높이(Eye-level)에 맞춘 수평 포트레이트 구도로, 조명과 신문지 벽면이 만들어내는 묵직한 조형미를 포착합니다.
+
+특징: 시네마틱 대구경 렌즈의 얕은 피사계 심도(Shallow DoF)가 적용되어 인물의 이목구비, 흩날리는 모발 가닥, 머리 부근의 신문지 글귀에는 초점(Sharp Focus)을 선명히 맞추고, 우측 뒤편의 어두운 공간은 몽환적으로 아웃포커싱 처리했습니다.
+
+[배경 및 스튜디오 레이아웃 요소]
+
+공간: 90년대 영화 속 골목길을 연상시키는 고전적인 실내 세트장 공간입니다.
+
+디테일: 화면 좌측은 한자 신문으로 도배된 클래식 벽면이 프레임을 가득 채우고 있으며, 우측 하단 배경에는 쌓여있는 상자들과 물건들의 실루엣이 가라앉아 있어 깊은 서사적 공간감을 제공합니다.
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2091677367106453629) | 2026-08-24
+
+---
+

@@ -4286,3 +4286,47 @@ Create a detailed anime-style illustration of a gentle young woman in a rustic o
 
 ---
 
+### 🏛️ 例 6844：乡村草药师动漫少女
+
+![乡村草药师动漫少女](../images/%E4%B9%A1%E6%9D%91%E8%8D%89%E8%8D%AF%E5%B8%88%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度详细的竖版动漫风格插画，画面主体为 {argument name="character description" default="一位皮肤白皙、五官精致、留着栗棕色长发并编成粗侧辫、带有细碎刘海、佩戴细金丝圆框眼镜的年轻美女"} 在温馨的乡村厨房中工作。画面呈现其腰部以上的四分之三侧面，她低头带着温柔专注的微笑，正用木杵在沉重的石研钵中研磨草药。她的左手扶着研钵，右手握着木杵。她身穿 {argument name="outfit" default="一件带有蕾丝花边的白色短袖衬衫，外搭深海军蓝系带紧身胸衣，配有浅蓝色腰带和蓝色百褶裙"}。研钵中盛放着色彩丰富的混合物，包括绿色草药、红色香料和细小的食物碎块，木桌上还散落着几颗完整的坚果或根茎。背景是一个古老而温暖的木质厨房，设有搁板、陶罐、模糊的炊具，右侧的窗户透出柔和的暮色天空。采用左侧温暖的室内金光与右侧柔和的冷色窗光，浅景深，绘画感半写实动漫渲染，精致的发丝，柔和的皮肤阴影，细腻的织物褶皱与系带，电影级构图，温馨的手作氛围，无文字，无水印。
+
+[English]
+Create a highly detailed vertical anime-style illustration of {argument name="character description" default="a beautiful young woman with fair skin, delicate features, long chestnut-brown hair in a thick side braid, wispy bangs, and thin round gold-rimmed glasses"} working in a cozy rustic kitchen. She is shown from the waist up in a three-quarter side profile, looking downward with a soft focused smile while grinding herbs in a heavy stone mortar with a wooden pestle. Her left hand steadies the mortar and her right hand grips the pestle. She wears {argument name="outfit" default="a white short-sleeved blouse with lace trim under a dark navy lace-up bodice, a pale blue waistband, and a pleated blue skirt"}. The mortar contains a colorful chopped mixture of green herbs, red spices, and small food pieces, with a few whole nuts or roots scattered on the wooden table. The background is an old warm wooden kitchen with shelves, pottery jars, blurred cookware, and a window on the right showing soft twilight sky. Use warm golden indoor light from the left and gentle cool window light from the right, shallow depth of field, painterly semi-realistic anime rendering, refined hair strands, soft skin shading, detailed fabric folds and lacing, cinematic composition, intimate handmade atmosphere, no text, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2091865473063469292) | 2026-08-24
+
+---
+
+### 🏛️ 例 6878：梦幻柔和可爱风卧室肖像
+
+![梦幻柔和可爱风卧室肖像](../images/%E6%A2%A6%E5%B9%BB%E6%9F%94%E5%92%8C%E5%8F%AF%E7%88%B1%E9%A3%8E%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的年轻 {argument name="nationality" default="东亚"} 女性，皮肤白皙，留着黑色长发，梳成两个高发髻，发髻上装饰着色彩柔和的花朵发夹和粉色丝带，正坐在明亮、梦幻且柔和的 {argument name="room style" default="可爱风卧室"} 地板上。她对着镜头温柔微笑，手中托着一个放在白色盘子上的小型圆形 {argument name="object" default="生日蛋糕"}，蛋糕上装饰着粉蓝色糖霜、马卡龙和一支点燃的蜡烛。
+
+她身穿一件印有彩色小图案的浅黄色连衣裙，外搭一件从单肩滑落的柔软超大号浅蓝色毛绒开衫，并穿着配套的浅蓝色过膝袜。自然光透过百叶窗洒入，在她的身上和房间里投下柔和的条纹阴影。
+
+温馨的房间里摆满了可爱的装饰品：她身边有一个系着黄色蝴蝶结的巨大奶油色泰迪熊，花纹毯子上散落着柔和色调的毛线球（粉色、黄色、薄荷绿、紫色），还有一个摆放着马卡龙和迷你甜点的双层架，架子上放着一个身穿白色连衣裙的玩偶，此外还有串灯、“Happy Birthday”贺卡和柔软的毛绒玩具。整体美学风格为超可爱、梦幻、柔和的粉彩色调，采用温暖的黄金时刻光影，细节丰富，照片级真实感，电影级构图，8k 画质。
+
+[English]
+A beautiful young {argument name="nationality" default="East Asian"} woman with fair skin, long black hair styled in two high buns adorned with colorful pastel flower clips and pink ribbons, sitting on the floor in a bright, dreamy pastel {argument name="room style" default="kawaii bedroom"}. She is smiling gently at the camera while holding a small round {argument name="object" default="birthday cake"} with pink and blue frosting, macarons, and a single lit candle on a white plate. 
+
+She wears a light yellow sundress with tiny colorful patterns, a soft oversized light blue fuzzy cardigan slipping off one shoulder, and matching light blue knee-high socks. Natural sunlight streams through window blinds, casting soft striped shadows across her and the room.
+
+The cozy room is filled with cute decorations: a giant cream-colored teddy bear with a yellow bow beside her, balls of pastel yarn (pink, yellow, mint, purple) scattered on a patterned blanket, a two-tiered stand with macarons and mini desserts, a doll in a white dress on a shelf, fairy lights, a "Happy Birthday" card, and soft plushies. The overall aesthetic is ultra-cute, dreamy, soft pastel colors, warm golden hour lighting, highly detailed, photorealistic, cinematic composition, 8k quality
+```
+
+**来源：** [@Jacqueline](https://x.com/hiJacqueline_Ai/status/2091697064048828775) | 2026-08-24
+
+---
+

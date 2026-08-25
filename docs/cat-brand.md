@@ -18487,3 +18487,139 @@ Create a vibrant vertical anime illustration of {argument name="character name" 
 
 ---
 
+### 🏷️ 例 6841：Elfina 梦幻瓷盘
+
+![Elfina 梦幻瓷盘](../images/Elfina%20%E6%A2%A6%E5%B9%BB%E7%93%B7%E7%9B%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张优雅的垂直产品风格摄影图，展示一款专为 {argument name="character name" default="Elfina"} 设计的独特装饰瓷盘。瓷盘置于淡蓝色刺绣蕾丝布料上，在柔和的晨光下从上方微倾角度拍摄。瓷盘呈圆形，边缘带有柔和的扇形波浪纹和纤细的金属金边，深海军蓝至雾白色的渐变釉面从左侧扫向淡雅的中心。盘面装饰着精致的蓝白梦幻花卉、细腻的金色细丝、微小的星芒、弯曲的装饰线条，以及中心对称的晶莹雪花/曼陀罗图案。在盘子周围精确布置 8 簇显眼的蓝白色花朵：左上内缘一朵大花，左侧边缘两朵小花，左下蝴蝶结附近一朵小花，下部中心一朵中型花，右下边缘两朵小花，以及右侧一朵大花。在左下边缘添加一个带有金边的深蓝色丝带蝴蝶结，并点缀一颗蓝色小爱心宝石。在瓷盘周围布置浪漫的桌面细节：左上角和右下角摆放白色牡丹和满天星，散落的白色花瓣，几颗捕捉阳光的刻面透明水晶，以及右上角一个投射出焦散光影的半透明玻璃碟或高脚杯。在左下角，添加一个圆形小浮雕肖像，描绘一位动漫风格的金发精灵女孩，她拥有绿色眼睛、系着海军蓝丝带的双马尾、尖耳朵和蓝白相间的服装，并由蓝色花枝环绕。在底部中心附近，书写一行精致的蓝色手写签名，内容为 {argument name="signature text" default="Elfina"}。采用梦幻、高细节、奢华手工瓷器的美学风格，运用轻盈的淡蓝色和象牙色调、清脆的金色点缀、逼真的陶瓷光泽、浅景深以及闪烁的阳光高光。无需额外文字，无水印，无现代物品。
+
+[English]
+Create an elegant vertical product-style photograph of a unique decorative porcelain plate designed for {argument name="character name" default="Elfina"}. The plate sits on pale blue embroidered lace fabric in soft morning sunlight, viewed from above at a slight angle. The plate is round with a gently scalloped rim and thin metallic gold edging, with a deep navy-to-misty-white gradient glaze sweeping from the left side into a pale center. Decorate it with delicate blue and white fantasy florals, fine gold filigree, tiny starbursts, curved ornamental lines, and a symmetrical crystalline snowflake/mandala motif in the center. Include exactly 8 prominent blue-white flower clusters around the plate: one large bloom on the upper-left inner rim, two small blossoms along the left rim, one small bloom near the lower-left bow, one medium bloom near the lower center, two small blossoms on the lower-right edge, and one large bloom on the right side. Add a dark blue ribbon bow with gold trim and a small blue heart jewel at the lower-left rim. Surround the plate with romantic tabletop details: white peonies and baby’s breath in the upper-left and lower-right corners, scattered white petals, several faceted clear crystals catching sunlight, and a partial transparent glass dish or goblet in the upper-right casting caustic light patterns. At the bottom-left, add a small circular cameo portrait of an anime-style blonde elf girl with green eyes, twin ponytails tied with navy ribbons, pointed ears, and a blue-and-white outfit, framed by blue floral branches. Near the bottom center, write a delicate blue handwritten signature reading {argument name="signature text" default="Elfina"}. Use a dreamy, high-detail, luxury handmade porcelain aesthetic, airy pastel blue and ivory palette, crisp gold accents, realistic ceramic shine, shallow depth of field, and sparkling sunlit highlights. No extra text, no watermark, no modern objects.
+```
+
+**来源：** [@Toudaiji](https://x.com/ISoBZrpOBM85706/status/2091879398098317743) | 2026-08-24
+
+---
+
+### 🏷️ 例 6869：手绘速写涂鸦插画
+
+![手绘速写涂鸦插画](../images/%E6%89%8B%E7%BB%98%E9%80%9F%E5%86%99%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为主体身份和姿势的参考。将 {argument name="subject" default="person"} 转换为 {argument name="style" default="可爱、俏皮、手绘涂鸦插画"}，同时保留其可辨认的身份特征。
+
+风格：
+- 可爱的手工速写涂鸦美学
+- 简单的黑色钢笔/铅笔线条艺术，带有略显粗糙、不完美的笔触
+- 童趣、迷人、异想天开的绘画风格
+- 极简配色，带有柔和的粉彩点缀
+- 白色/米白色纸张背景
+- 可见的手绘纹理和自然的速写瑕疵
+- 避免使用精致的数字矢量艺术或过于整洁的动漫渲染
+
+角色：
+- 保留参考图中人物的关键面部特征、脸型、发型、头发长度、服装、配饰和整体外观
+- 保留人物的可辨认特征，而不是将其变成通用的角色
+- 使用简化的可爱比例，头部略大，眼睛富有表现力
+- 大而圆的手绘眼睛、小鼻子、小巧愉悦的嘴巴，脸颊上有淡淡的腮红
+- 在转化为松散的速写笔触的同时，保持原始发型的可辨认性
+
+姿势与表情：
+- 保留参考图中的主要姿势和身体朝向
+- 赋予角色可爱、愉悦、俏皮的表情
+- 自然的手势和富有表现力的肢体语言
+- 在角色周围添加与氛围相符的小涂鸦元素，例如爱心、星星、皇冠、闪光、动感线条、花朵或微小的符号
+
+绘画细节：
+- 黑色速写线条应略显不均匀、有纹理且不完美
+- 在适当的地方使用松散的交叉排线和涂鸦式阴影
+- 可少量使用柔和的粉色、黄色、蓝色或其他柔和色彩来点缀脸颊和装饰性涂鸦
+- 插画保持以单色为主，辅以选择性的色彩点缀
+- 白色背景，留有充足的负空间
+- 营造出仿佛有人用黑色记号笔或铅笔在纸上亲手绘制的感觉
+
+构图：
+- 将角色置于画面中心，突出显示
+- 保持与参考照片相似的构图
+- 添加少量可爱的周围涂鸦，但不要喧宾夺主
+- 简洁明快的构图，适合用作头像、贴纸、社交媒体帖子或可爱插画
+
+重要提示：
+不要将角色制作成照片写实风格。不要使其过于精致、3D、光亮或专业矢量化。最终效果应看起来像是一个有才华的人在速写本上绘制的真实可爱手工涂鸦，同时又能清晰地辨认出参考图中的人物。
+
+[English]
+Use the provided reference image as the main identity and pose reference. Transform the person into a {argument name="style" default="cute, playful, hand-drawn doodle illustration"} while preserving their recognizable identity.
+
+STYLE:
+- Adorable handmade sketchbook doodle aesthetic
+- Simple {argument name="line art" default="black pen/pencil line art"} with slightly rough, imperfect strokes
+- Childlike, charming, whimsical drawing style
+- Minimal coloring with {argument name="colors" default="soft pastel accents"}
+- White/off-white paper background
+- Visible hand-drawn texture and natural sketch imperfections
+- Avoid polished digital vector art or overly clean anime rendering
+
+CHARACTER:
+- Preserve the person's key facial features, face shape, hairstyle, hair length, clothing, accessories, and overall appearance from the reference
+- Keep the person's recognizable characteristics rather than making them look like a generic character
+- Use simplified cute proportions with a slightly oversized head and expressive eyes
+- Large round hand-drawn eyes, tiny nose, small cheerful mouth, and subtle blush on the cheeks
+- Keep the original hairstyle recognizable while translating it into loose sketchy strokes
+
+POSE & EXPRESSION:
+- Preserve the main pose and body direction from the reference
+- Give the character a cute, cheerful, playful expression
+- Natural hand gestures and expressive body language
+- Add small doodle elements around the character that match the mood, such as hearts, stars, crowns, sparkles, motion lines, flowers, or tiny symbols
+
+DRAWING DETAILS:
+- Black sketch lines should be slightly uneven, textured, and imperfect
+- Use loose cross-hatching and scribbled shading where appropriate
+- Pastel pink, yellow, blue, or other soft colors may be used sparingly for cheeks and decorative doodles
+- Keep the illustration mostly monochrome with selective colorful accents
+- White background with plenty of negative space
+- Make it feel like someone personally drew the character with a black marker or pencil on paper
+
+COMPOSITION:
+- Center the character prominently
+- Keep the framing similar to the reference photo
+- Add a few cute surrounding doodles without distracting from the character
+- Clean, simple composition suitable for a profile picture, sticker, social media post, or cute illustration
+
+IMPORTANT:
+Do not make the character photorealistic. Do not make it overly polished, 3D, glossy, or professionally vectorized.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2091737602051498494) | 2026-08-24
+
+---
+
+### 🏷️ 例 6870：城市主题编辑风海报转换
+
+![城市主题编辑风海报转换](../images/%E5%9F%8E%E5%B8%82%E4%B8%BB%E9%A2%98%E7%BC%96%E8%BE%91%E9%A3%8E%E6%B5%B7%E6%8A%A5%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的参考图像重新创作为一张高级编辑风城市海报，保留其整体构图、取景、透视、色彩和视觉层级。创建一个分为两个主要部分的竖向肖像布局。上半部分是一张高度写实的黄金时刻照片，展示了从高处俯瞰的繁忙多车道高速公路，车流密集。道路两侧绿树成荫，车流向远处的现代城市天际线延伸。画面中心包含标志性的大型圆顶建筑，其后方是一组现代摩天大楼，包括高耸狭长的红色塔楼、玻璃大厦以及现代几何建筑。温暖的夕阳余晖、柔和的大气雾霾、写实的车辆、细腻的植被、自然的阴影、电影感摄影、微妙的胶片颗粒感。
+
+在下方，将同一场景重构为简约的几何/像素艺术风格。将树木、汽车、高速公路、圆顶建筑、天际线和云朵转换为大型、简洁的矩形和多边形色块，同时保持相同的透视关系和可辨识的轮廓。使用一种高级的柔和色调，包括森林绿、橄榄绿、青色、灰蓝色、奶油色、赭石色、赤陶色、暖橙色、柔粉色和淡天蓝色。几何插画应呈现出刻意设计的质感，而非粗糙的像素艺术：边缘清晰、图层分明、色调细微变化，具有优雅的当代艺术画册美感。
+
+使用温暖的象牙白/灰白色背景，并在构图周围留出充足的留白。在底部，添加一个精致的编辑风排版区域，左侧为大号大写标题“{argument name="city title" default="CITY IN MOTION"}”，右侧为副标题“{argument name="subtitle" default="Traffic streams toward the skyline in the warm light of evening."}”，左下方为“{argument name="year" default="2026"}”。使用深海军蓝/炭灰色的简洁现代无衬线字体，并注意字间距与对齐。呈现高级建筑与旅行杂志的美学，精致的极简主义平面设计，照片与其几何重构之间具有连贯的关联性，写实且精致，高分辨率，细节锐利，竖向海报构图。请勿添加任何额外的文字、标志、水印或无关物体。
+
+[English]
+Recreate the uploaded reference image as a premium editorial city poster, preserving the overall composition, framing, perspective, colors, and visual hierarchy. Create a tall portrait-format layout divided into two main sections. The upper section is a highly realistic golden-hour photograph of a busy multilane highway filled with dense traffic, viewed from an elevated position. Lush mature green trees line both sides of the road, while the traffic leads toward a modern city skyline in the distance. Include the distinctive large domed building at the center and a cluster of contemporary skyscrapers behind it, including tall narrow red towers, glass towers, and modern geometric buildings. Warm sunset light, soft atmospheric haze, realistic vehicles, detailed foliage, natural shadows, cinematic photography, subtle film grain.\n\nDirectly below, recreate the same scene as a simplified geometric/pixel-art interpretation. Convert the trees, cars, highway, domed building, skyline, and clouds into large clean rectangular and polygonal blocks while maintaining the same perspective and recognizable silhouettes. Use a sophisticated muted palette of forest green, olive, teal, dusty blue, cream, ochre, terracotta, warm orange, muted pink, and pale sky blue. The geometric illustration should feel intentionally designed rather than crude pixel art: crisp edges, layered blocks, subtle tonal variation, elegant contemporary art-book aesthetic.\n\nUse a warm ivory/off-white background and generous margins around the composition. At the bottom, add a refined editorial typography section with the large uppercase title “{argument name="poster title" default="CITY IN MOTION"}” on the left, the subtitle “Traffic streams toward the skyline in the warm light of evening.” on the right, and “2026” below on the left. Use clean modern sans-serif typography in dark navy/charcoal, with careful spacing and alignment. Premium architecture-and-travel magazine aesthetic, sophisticated minimalist graphic design, cohesive relationship between the photograph and its geometric reinterpretation, realistic and polished, high resolution, sharp details, portrait poster composition. Do not add any extra text, logos, watermarks, or unrelated objects.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2091736383031509309) | 2026-08-24
+
+---
+

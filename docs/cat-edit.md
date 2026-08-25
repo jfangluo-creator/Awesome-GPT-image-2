@@ -3881,3 +3881,21 @@ Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle 
 
 ---
 
+### 🔧 例 6862：照片转贴纸效果
+
+![照片转贴纸效果](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E8%B4%B4%E7%BA%B8%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+精确保留原始场景、构图、透视、建筑、街道、物体、光影、材质及摄影纹理。仅将 {argument name="subject" default="人物"} 转换为 {argument name="style" default="极简黑白手绘贴纸"}，并保持其姿势、动作、比例、服装轮廓、数量及位置不变。使用粗线条单线插画风格，仅保留纯黑白，无灰色、色彩或渐变，并带有干净的白色贴纸边框。营造出写实高分辨率照片背景与扁平化 2D 素描人物形成对比的视觉效果，呈现极简涂鸦/INS 编辑拼贴风格。背景清晰、细节丰富、具有写实感，8K 画质。宽高比：3:4 / 9:16。
+
+[English]
+Preserve the original scene, composition, perspective, buildings, streets, objects, lighting, shadows, materials, and photographic textures exactly. Change only the characters into {argument name="sticker style" default="minimalist black-and-white hand-drawn stickers"}, keeping their poses, actions, proportions, clothing outlines, number, and positions unchanged. Use {argument name="illustration type" default="rough single-line illustrations"} with only pure black and white no gray,color, or gradients with clean white sticker borders. Create a realistic high-resolution photo background contrasted with flat 2D sketch characters, in a minimalist graffiti/INS editorial collage style. Sharp, detailed, photorealistic background, 8K look. Aspect ratio: {argument name="aspect ratio" default="3:4 / 9:16"}.
+```
+
+**来源：** [@Alyar AI](https://x.com/AiwithAlyar/status/2091759663393972673) | 2026-08-24
+
+---
+
