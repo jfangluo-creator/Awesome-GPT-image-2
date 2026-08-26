@@ -8105,3 +8105,21 @@ Create a realistic food photography image of {argument name="dish" default="tama
 
 ---
 
+### 🧸 例 6935：铁丝马上的微缩牛仔女郎
+
+![铁丝马上的微缩牛仔女郎](../images/%E9%93%81%E4%B8%9D%E9%A9%AC%E4%B8%8A%E7%9A%84%E5%BE%AE%E7%BC%A9%E7%89%9B%E4%BB%94%E5%A5%B3%E9%83%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个细节极其丰富的照片级真实感微缩世界场景，主角是 {argument name="character name" default="一位微型年轻女性"}，她化身为牛仔女郎，骑在一匹位于质朴木质桌面上的黑色铁丝马雕塑上。骑手拥有 {argument name="hair color and style" default="扎着高马尾的长波浪棕色头发"}、温暖的小麦色皮肤、自信俏皮的微笑以及精致的五官；她身穿 {argument name="outfit" default="棕色格纹衬衫外搭蓝色牛仔背带裤，佩戴小圆环耳环，挽起袖口，脚蹬棕色皮靴"}。她坐在微型棕色马鞍上，一手握着黑色铁丝缰绳，另一只手高举一根长长的弯曲棕色马鞭或套索状的骑马鞭，摆出如同微型竞技表演般的动作。马匹完全由光泽感的黑色弯曲金属丝制成，清晰可见铁丝构成的头部、鬃毛、肋骨、腿部和尾巴，比例如同玩具，但渲染出了逼真的反光和阴影。场景周围放置超大号厨房用品以体现比例：背景中精准放置 2 个大型道具，左后方是一个装满白米饭的米色陶瓷碗，左前方斜放着一把银色叉子。桌面上散落着许多白米粒，部分米粒悬浮在骑手周围，营造出动感。采用温暖的黄金棕色电影级灯光，浅景深，微距摄影视角，奶油般虚化的背景，焦点清晰地落在微型骑手和铁丝马上，呈现出逼真的皮肤质感、织物纹理、牛仔裤缝线、金属高光、木纹以及米粒的半透明感。竖构图 2:3，主体略微偏右，后方的碗虚化处理，叉子部分截断，无文字，无水印，非卡通风格。
+
+[English]
+Create a highly detailed photorealistic miniature-world scene of {argument name="character name" default="a tiny young woman"} as a cowgirl riding a black wire horse sculpture on a rustic wooden tabletop. The rider has {argument name="hair color and style" default="long wavy brown hair in a high ponytail"}, warm medium skin, a confident playful smile, and delicate facial features; she wears {argument name="outfit" default="blue denim overalls over a brown plaid shirt, small hoop earrings, rolled cuffs, and brown leather boots"}. She sits on a tiny brown saddle, holding black wire reins in one hand and raising a long curved brown whip or lasso-like riding crop in the other, posed mid-action like a miniature rodeo. The horse is made entirely of glossy black bent metal wire, with a visible wire head, mane, ribcage, legs, and tail, scaled like a toy but rendered with realistic reflections and shadows. Surround the scene with oversized kitchen objects for scale: exactly 2 large background props, a beige ceramic bowl filled with white rice on the left rear and a silver fork lying diagonally in the lower left foreground. Scatter many individual white rice grains across the table, with some grains frozen in the air around the rider to suggest motion. Use warm golden-brown cinematic lighting, shallow depth of field, macro photography perspective, creamy bokeh background, crisp focus on the miniature rider and wire horse, realistic skin, fabric texture, denim seams, metal highlights, wood grain, and rice translucency. Vertical 2:3 composition, subject centered slightly right, bowl softly blurred behind, fork partially cropped, no text, no watermark, no cartoon style.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2092087904181092590) | 2026-08-25
+
+---
+

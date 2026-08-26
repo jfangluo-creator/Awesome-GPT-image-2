@@ -9247,3 +9247,181 @@ Constraints: Keep the page readable as a single comic page, no watermark, no ext
 
 ---
 
+### 🎬 例 6888：四格学习猫咪漫画
+
+![四格学习猫咪漫画](../images/%E5%9B%9B%E6%A0%BC%E5%AD%A6%E4%B9%A0%E7%8C%AB%E5%92%AA%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅简洁的动画风格垂直四格日式漫画，讲述一名男学生试图学习时被猫咪打断，最终放弃学习、开心地抚摸猫咪的故事。
+
+画布：垂直漫画页面，带有白色外边距，四个水平长方形分镜从上到下排列，配有粗黑边框和窄白色间隙。柔和的赛璐珞动画上色，简洁干净的线条，温馨的卧室场景，呈现出略带精致感的 AI 动画风格。
+
+角色：一名日本高中男生，名字为 {argument name="character name" default="未命名男孩"}，留着黑色短发，穿着带有金色纽扣的海军蓝学生制服，表情生动。一只白色家猫，内耳呈粉色，眼睛为浅黄色，可爱又淘气。
+
+场景：所有 4 个分镜均为同一个卧室书桌。书桌位于左侧/中央，左侧有一盏灰色可调节台灯，桌上放着打开的螺旋笔记本和铅笔，背景是铺着浅蓝色毯子和枕头的床，有浅蓝色窗帘、米色墙壁和蓝色书桌椅。保持镜头主要为侧面视角，并在各分镜中保持一致。
+
+分镜数量与布局：共 4 个分镜。
+1. 分镜 1：男孩坐在书桌前认真地用铅笔在螺旋笔记本上写字，表情担忧，微微出汗。台灯照亮书桌。在右上角添加一个气泡框，内容为 {argument name="panel 1 thought" default="明日のテスト、ヤバいな…"}。在笔记本附近添加三个小的书写拟声词，分别为「カリ…」、「カリ…」、「カリッ…」。
+2. 分镜 2：白猫突然跳上或爬上打开的笔记本，横跨在页面上，挡住了男孩写字。男孩惊讶地后仰，张着嘴，脸上有红晕/汗水。在右侧添加一个锯齿状气泡框，内容为 {argument name="panel 2 shout" default="わっ!?"}。在猫咪附近添加一个圆形气泡框，内容为「なでて〜」。在猫咪附近添加一个大的猫咪拟声词「ぬんっ」。
+3. 分镜 3：猫咪坐在笔记本上，面对着男孩。男孩身体前倾，双手托腮，表情纠结且略显烦恼，但神情逐渐缓和。在右侧添加一个气泡框，内容为 {argument name="panel 3 thought" default="…どいてくれないかな"}。在男孩和猫咪之间添加一个小的垂直气泡框，内容为「……」。
+4. 分镜 4：男孩妥协了，开始抚摸猫咪，脸上带着温暖的微笑和红晕，猫咪心满意足地蜷缩在笔记本上。铅笔被闲置在桌上。在男孩附近添加一个气泡框，内容为 {argument name="panel 4 line" default="…ま、いっか。"}。添加两个抚摸/满足的拟声词：猫头附近为「ぐ！」以及睡着的猫咪附近为「すやすや」。
+
+可见文字数量：总计包含 12 个可见文字元素：4 个主要的男孩气泡/想法，1 个猫咪气泡，1 个省略号气泡，3 个书写拟声词，1 个猫咪入场拟声词，以及 2 个最后的抚摸/睡眠拟声词。在气泡内适当使用日式垂直漫画字体。
+
+视觉风格：可爱的日常校园漫画，分镜构图清晰易读，表情生动，适度的动作线，轻微阴影，温暖的室内色调，无网点纹理，无过度渲染，无水印，无额外分镜，无额外角色。
+
+[English]
+Goal: Create a clean anime-style vertical 4-panel Japanese manga comic about a schoolboy trying to study while a cat interrupts him, ending with him happily petting the cat instead of studying.
+
+Canvas: Vertical manga page, white outer margin, four horizontal rectangular panels stacked top to bottom with thick black borders and narrow white gutters. Soft cel-shaded anime coloring, simple clean line art, cozy bedroom setting, slightly polished AI-anime look.
+
+Characters: A teenage Japanese schoolboy named {argument name="character name" default="unnamed boy"}, short black hair, navy gakuran school uniform with gold buttons, expressive face. A white domestic cat with pink inner ears and pale yellow eyes, cute and mischievous.
+
+Setting: Same bedroom desk in all 4 panels. Wooden desk at left/center, gray adjustable desk lamp on the left, open spiral notebook and pencil on the desk, bed with pale blue blanket and pillow in the background, light blue curtain, beige wall, blue desk chair. Keep camera mostly side-facing and consistent across panels.
+
+Panel count and layout: Exactly 4 panels.
+1. Panel 1: The boy sits at the desk writing seriously in a spiral notebook with a pencil, looking worried and sweating slightly. The desk lamp shines over the desk. Add one thought bubble at the upper right containing {argument name="panel 1 thought" default="明日のテスト、ヤバいな…"}. Add three small writing sound effects near the notebook, reading 「カリ…」, 「カリ…」, 「カリッ…」.
+2. Panel 2: The white cat suddenly jumps or climbs onto the open notebook, stretching across the page and blocking the boy's writing. The boy recoils in surprise with mouth open and blush/sweat. Add one jagged speech bubble at the right containing {argument name="panel 2 shout" default="わっ!?"}. Add one rounded speech bubble near the cat containing 「なでて〜」. Add one large cat sound effect near the cat reading 「ぬんっ」.
+3. Panel 3: The cat sits upright on the notebook facing the boy. The boy leans forward with both cheeks resting in his hands, looking conflicted and slightly annoyed but softening. Add one thought bubble at the right containing {argument name="panel 3 thought" default="…どいてくれないかな"}. Add one small vertical speech bubble between boy and cat containing 「……」.
+4. Panel 4: The boy gives in and pets the cat, smiling warmly with blush while the cat lies curled contentedly on top of the notebook. Pencil lies unused on the desk. Add one speech bubble near the boy containing {argument name="panel 4 line" default="…ま、いっか。"}. Add two petting/satisfaction sound effects: 「ぐ！」 near the cat's head and 「すやすや」 near the sleeping cat.
+
+Visible text count: Include exactly 12 visible text elements total: 4 main boy bubbles/thoughts, 1 cat speech bubble, 1 ellipsis bubble, 3 writing SFX, 1 cat entrance SFX, and 2 final petting/sleeping SFX. Use Japanese vertical manga lettering inside bubbles where appropriate.
+
+Visual style: Cute slice-of-life school manga, clear readable panel composition, expressive faces, modest motion lines, light shadows, warm indoor colors, no halftone texture, no heavy rendering, no watermark, no extra panels, no extra characters.
+```
+
+**来源：** [@Otntnb](https://x.com/otantin_/status/2092301246845849726) | 2026-08-25
+
+---
+
+### 🎬 例 6915：Glam AI 贴纸合集
+
+![Glam AI 贴纸合集](../images/Glam%20AI%20%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张用于聊天/表情包的亮面数字贴纸合集，包含同一位魅力年轻女性的多种姿势，周围环绕可爱的 kawaii 涂鸦和醒目的漫画文字。
+
+画布：1:1 正方形画布，黑色背景，排列为 3x3 网格，共 9 个独立的模切贴纸。每个贴纸都有厚实的白色边框和微妙的黑色阴影，如同真实的即时通讯应用贴纸。贴纸之间保持均匀间距。
+
+主角：一位照片级写实的时尚年轻女性，拥有 {argument name="hair color" default="长波浪深棕色头发"}、白皙皮肤、红色唇膏、金色圆环耳环，身穿丝滑的铜棕色缎面吊带裙。在所有贴纸中保持面部一致，采用魅力十足的编辑级灯光，高细节半写实贴纸渲染。
+
+贴纸数量及内容，共 9 个：
+1. 左上：戴着黑色墨镜的女性，回头看向肩膀，姿势自信；左侧添加一个发射的卡通火箭、黄色闪光星星，以及白色和黄色漫画字体书写的 {argument name="motivational text" default="Let's GO!"}。
+2. 上中：女性眨眼并向手心飞吻；添加漂浮的粉色爱心和巨大的粉色气泡文字 {argument name="kiss text" default="Mua~"}。
+3. 右上：戴着黑色眼镜的女性，手托腮，神情沉思；旁边添加一个可爱的小绿外星人，面前有一台显示发光文字 {argument name="laptop text" default="AI"} 的小笔记本电脑，外加彩虹、云朵、黄色强调符号和闪光。
+4. 左中：女性双手抱头伸懒腰，闭眼享受；添加彩虹、云朵、闪光、一颗小爱心，以及手写风格的中文贴纸文字 {argument name="relaxation Chinese text" default="生活很哇塞"}。
+5. 正中：女性表情严肃自信，直指镜头；添加火箭喷射效果和巨大的黄色中文漫画文字 {argument name="go Chinese text" default="冲!"}。
+6. 右中：女性眨眼微笑，张着嘴，比出 V 字手势；添加粉色爱心、一个戴着墨镜并竖起大拇指的可爱小绿外星人、彩虹、黄色强调符号，以及中文文字 {argument name="happy Chinese text" default="开心第一"}。
+7. 左下：女性戴着黑色眼镜使用笔记本电脑，手持写有 WORK SMART 和小爱心的外卖咖啡杯；笔记本屏幕闪烁着 AI 文字，旁边漂浮着一个带有闪光的书呆子表情符号。
+8. 中下：女性闭着眼睛，带着温柔的微笑拥抱一个可爱的小绿外星人玩偶或吉祥物；周围添加三颗粉色爱心。
+9. 右下：女性背对镜头回头，神情优雅且略带严肃；右上角添加一个火箭、闪光、一颗小爱心，以及中文书法文字“一起去更大的世界”。
+
+视觉风格：高分辨率贴纸包美学，色彩饱和，光泽高光，清晰的剪裁边缘，醒目的手绘漫画排版，kawaii 图标，趣味十足的社交媒体表情包设计。在每张贴纸中保持角色形象和服装的一致性。避免出现多余的贴纸、额外的人物、水印或写实的背景场景。
+
+[English]
+Goal: Create a glossy digital sticker sheet for chat/emote use featuring the same glamorous young woman in multiple poses, surrounded by cute kawaii doodles and bold comic text.
+
+Canvas: Square 1:1 canvas, black background, arranged as a 3 by 3 grid of exactly 9 separate die-cut stickers. Each sticker has a thick white border with a subtle black shadow, like real messaging-app stickers. Leave even spacing between stickers.
+
+Main character: A photorealistic fashionable young woman with {argument name="hair color" default="long wavy dark brown hair"}, fair skin, red lipstick, gold hoop earrings, and a silky copper-brown satin spaghetti-strap dress. Keep her face consistent across all stickers, glamorous editorial lighting, high-detail semi-realistic sticker rendering.
+
+Sticker count and contents, exactly 9:
+1. Top left: the woman wearing black sunglasses, turned over her shoulder in a confident pose; add a cartoon rocket launching on the left, yellow sparkle stars, and bold text reading {argument name="motivational text" default="Let's GO!"} in white and yellow comic lettering.
+2. Top center: the woman winking and blowing a kiss from her hand; add floating pink hearts and large pink bubble text reading {argument name="kiss text" default="Mua~"}.
+3. Top right: the woman wearing black eyeglasses, resting her cheek on her hand, looking thoughtful; add a cute green alien beside a small laptop with glowing text {argument name="laptop text" default="AI"}, plus a rainbow, clouds, yellow accent marks, and sparkles.
+4. Middle left: the woman stretching with both arms behind her head, eyes closed peacefully; add a rainbow, clouds, sparkles, a small heart, and Chinese handwritten sticker text reading {argument name="relaxation Chinese text" default="生活很哇塞"}.
+5. Middle center: the woman pointing directly toward the viewer with a serious confident expression; add a rocket blast and a large yellow Chinese comic character reading {argument name="go Chinese text" default="冲!"}.
+6. Middle right: the woman winking, smiling with mouth open, and making a V peace sign; add pink hearts, a cute green alien wearing sunglasses giving a thumbs-up, a rainbow, yellow emphasis marks, and Chinese text reading {argument name="happy Chinese text" default="开心第一"}.
+7. Bottom left: the woman wearing black eyeglasses at a laptop, holding a takeaway coffee cup labeled WORK SMART with a small heart; the laptop screen glows with AI text, and a nerd-face emoji floats nearby with sparkles.
+8. Bottom center: the woman hugging a cute green alien plush or mascot with eyes closed and a soft smile; add three pink hearts around them.
+9. Bottom right: the woman turned away over her shoulder, looking elegant and slightly serious; add a rocket in the top right, sparkles, a small heart, and Chinese brush text reading 一起去更大的世界.
+
+Visual style: High-resolution sticker-pack aesthetic, saturated colors, glossy highlights, clean cutout edges, bold hand-drawn comic typography, kawaii icons, playful social-media emoji-pack design. Use consistent character likeness and outfit in every sticker. Avoid extra stickers, extra people, watermarks, or realistic background scenes.
+```
+
+**来源：** [@OwnPathOnly](https://x.com/Dream_Nice8/status/2092173723323478358) | 2026-08-25
+
+---
+
+### 🎬 例 6916：Q 版动漫忍者贴纸合集
+
+![Q 版动漫忍者贴纸合集](../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%E5%BF%8D%E8%80%85%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一套 3×3 的 Q 版动漫忍者表情贴纸，主角为 {argument name="character name" default="漩涡鸣人"}，采用经典少年漫画风格的趣味恶搞画法。
+
+画布：1:1 正方形图像，纯黑色背景。将 9 个独立的模切贴纸均匀排列成 3×3 网格。每个贴纸均带有厚实的白色边框和深色细轮廓，呈现出可打印乙烯基贴纸的效果。
+
+角色设计：每个贴纸中均为同一位金发刺猬头的年轻忍者，身穿橙色连体服，搭配深海军蓝装饰、蓬松的白色衣领、蓝色露趾凉鞋，以及深蓝色护额，护额上刻有银色金属片，上面印有叶状螺旋符号。他脸颊两侧各有三道胡须状印记，采用夸张的 Q 版比例、超大号表情、充满活力的漫画线条、高饱和度色彩以及手绘马克笔阴影。
+
+贴纸数量与姿势：包含 9 个贴纸：
+1. 左上：坐着大哭，嘴巴大张，拳头靠近脸部，蓝色的泪水如瀑布般涌出，带有水滴飞溅效果。
+2. 上中：困惑的站姿，歪着头，眉头紧锁，周围环绕着黄色、红色和蓝色的问号。
+3. 右上：惊恐的尖叫姿势，双眼凸出，带有汗滴，双手呈爪状向前，头后有红色标点符号。
+4. 中左：得意的酷炫姿势，戴着像素风黑色墨镜，比出手指枪手势，周围有闪烁的黄色星星特效。
+5. 正中：搞怪表情，眨眼，用手指拉扯脸颊，吐舌头，带有黄色感叹号和动态旋涡。
+6. 中右：深情的姿势，跪着拥抱一颗巨大的粉色爱心，大笑并脸红，周围环绕着多个粉色爱心。
+7. 左下：胜利的起飞姿势，从火红的火箭状爆炸云中向上跳跃，星星眼，紧握双拳，旁边有卡通小火箭和星星。
+8. 右下：派对庆祝姿势，单腿踢起大笑，戴着派对帽，手持红杯和绿瓶，周围环绕着彩色纸屑。
+9. 右下：疲惫且无感的半身像，半睁着眼，眼下有深色阴影，表情空白，配有带有三个点的对话框和涂鸦式的沮丧云团。
+
+视觉风格：粗线条动漫贴纸艺术，夸张的喜剧表情，动态黑色墨水轮廓，水彩/马克笔质感，明亮的橙色、黄色、蓝色、粉色和红色点缀。保持每个贴纸独立，贴纸之间有明显的黑色间隙。
+
+约束条件：无额外角色，除简单标点符号外无任何可读文字，无水印，无 Logo，无写实渲染，无照片风格。
+
+[English]
+Goal: Create a 3×3 sticker sheet of chibi anime ninja reactions featuring {argument name="character name" default="Naruto Uzumaki"}, drawn as a playful parody of a classic shonen manga style.
+
+Canvas: Square 1:1 image on a solid black background. Arrange exactly 9 separate die-cut stickers in an evenly spaced 3×3 grid. Each sticker has a thick white border and a thin dark outline, like printable vinyl stickers.
+
+Character design: The same young blond spiky-haired ninja appears in every sticker, wearing an orange jumpsuit with dark navy accents, a fluffy white collar, blue open-toe sandals, and a dark blue forehead band with a silver metal plate engraved with a leaf-like spiral symbol. He has three whisker-like cheek marks on each side, exaggerated chibi proportions, oversized expressions, energetic manga linework, saturated colors, and hand-drawn marker shading.
+
+Sticker count and poses: Include exactly 9 stickers:
+1. Top left: sitting and crying dramatically, mouth wide open, fists near face, huge blue streams of tears flooding outward with splash droplets.
+2. Top center: confused standing pose, tilted head, skeptical frown, surrounded by colorful question marks in yellow, red, and blue.
+3. Top right: terrified screaming pose, bulging eyes, sweat drops, hands clawed forward, red punctuation marks behind the head.
+4. Middle left: smug cool pose, sitting with pixelated black sunglasses, finger-gun gesture, sparkling yellow star effects.
+5. Middle center: silly face pose, winking, pulling cheeks with both fingers, tongue sticking out, yellow exclamation marks and motion swirls.
+6. Middle right: affectionate pose, kneeling while hugging a large pink heart, laughing with blush, surrounded by multiple pink hearts.
+7. Bottom left: triumphant launch pose, jumping upward from a fiery rocket-like blast cloud, starry eyes, clenched fists, small cartoon rocket and stars nearby.
+8. Bottom center: party celebration pose, laughing with one leg kicked up, wearing a party hat, holding a red cup and a green bottle, surrounded by colorful confetti.
+9. Bottom right: exhausted unimpressed bust portrait, half-lidded eyes, dark under-eye shadow, blank expression, speech bubble with three dots and a scribbly frustration cloud.
+
+Visual style: Bold anime sticker art, expressive comedy reactions, dynamic black ink outlines, watercolor/marker texture, bright orange, yellow, blue, pink, and red accents. Keep each sticker isolated with visible black gaps between them.
+
+Constraints: No extra characters, no readable text besides simple punctuation marks, no watermark, no logo, no realistic rendering, no photo style.
+```
+
+**来源：** [@Mirochill](https://x.com/mirochill/status/2092171184800485468) | 2026-08-25
+
+---
+
+### 🎬 例 6939：赛博黑色电影风格漫画插画
+
+![赛博黑色电影风格漫画插画](../images/%E8%B5%9B%E5%8D%9A%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="style" default="高渲染漫画/日漫人体结构，锐利的墨线轮廓，密集的交叉排线，赛璐珞上色，以及金属质感高光"}。奢华配饰，强烈的漫画书风格定向光，明亮的暖色高光，街机格斗游戏主视觉图，略带夸张感。
+
+她穿着一件 {argument name="clothing material" default="由翡翠绿、琥珀色、深红色、汽油蓝和烟紫色不规则多面嵌板组成的雕塑感半透明外套"}，在霓虹灯光穿过时发出光芒。发光的深度感。梦幻般的赛博黑色电影时尚大片，精致的数字插画，具有摄影般的深度，透亮的皮肤，丰富的色彩分离，柔和的大气雾感，浅景深，优雅的忧郁感
+
+[English]
+highly rendered {argument name="style" default="comic/manga"} anatomy, sharp ink-like contour work, dense crosshatching, painted cel shading, and metallic highlights. luxury accessories, hard directional comic-book lighting with bright warm highlights,arcade fighting-game key art, slightly camp. She wears a sculptural translucent coat made of {argument name="material" default="irregular faceted panels in emerald, amber, crimson, petrol blue, and smoky violet"}, glowing where neon light passes through it. luminous depth. Dreamlike cyber-noir fashion editorial, polished digital illustration with photographic depth, luminous skin, rich color separation, soft atmospheric haze, shallow depth of field, elegant melancholy
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2092054440408699244) | 2026-08-25
+
+---
+

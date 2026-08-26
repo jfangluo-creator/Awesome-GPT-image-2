@@ -29340,3 +29340,227 @@ Create a square, high-energy anime trading-card style illustration of a cheerful
 
 ---
 
+### 🎴 例 6887：风化民俗海报拼贴
+
+![风化民俗海报拼贴](../images/%E9%A3%8E%E5%8C%96%E6%B0%91%E4%BF%97%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直的混合媒介街头海报拼贴，采用大胆的 20 世纪中期丝网印刷风格，带有刻意的瑕疵和触感十足的陈旧感。主体是一个位于中上方的大型风格化女性面部，灵感源自民俗艺术和装饰艺术海报设计：赭黄色与奶油色分割的面部，闭合的双眼配有浓密的黑色睫毛，黑色的嘴唇，强烈的黑色鼻部和发型轮廓，以及一个红色的皇冠或太阳光芒头饰，头饰上包含 9 条高耸的黑色三角形光芒，弧形带上分布着 7 个黑色圆点。周围环绕着撕纸层、错位的印刷碎片、纸板接缝、胶带补丁、折痕、粗糙的撕裂边缘、墨水渗漏、油漆滴落、划痕、污渍、半色调斑点和脏旧的纸张纹理。背景使用温暖且磨损的米色纸板，并搭配鲜艳的 {argument name="accent colors" default="红色、亮粉色、绿松石色、黄色、橙色、奶油色和黑色"} 色块。包含 6 个主要的周边图形元素：右上角 1 只飞翔的黑色鸟类剪影，左上角 1 个绿松石色与黑色相间的放射状花朵或太阳圆盘，右边缘 1 个青色叶片碎片，左下角 1 个黑色植物剪影，主面部右侧 1 个圆形月亮侧脸肖像（包含绿松石色新月、奶油色侧脸、黑色头发和奶油色星星），以及右下角红色橙色面板中 1 只带有 3 滴泪珠的风格化黑色眼睛。添加较小的抽象细节，包括面部下方的波浪状绿松石色水纹、黑色点阵行、红色和青色垂直油漆滴、半透明胶带条以及重叠的撕裂海报碎片。整体构图应呈现出手工制作、昂贵、不完美且具有模拟质感的效果，而非干净的数字艺术。无清晰可读文字，无水印，无照片写实感；使其看起来像是一张平拍的风化小麦浆糊壁画。
+
+[English]
+Create a vertical mixed-media street poster collage in a bold mid-century screen-print style, with intentional imperfections and tactile aging. The main subject is a large stylized female face centered slightly above the middle, inspired by folk-art and Art Deco poster design: ochre-yellow and cream split face, closed eyes with heavy black lashes, black lips, strong black nose and hair shapes, and a red crown or sunburst headdress with exactly 9 tall black triangular rays and exactly 7 black circular dots along the curved band. Surround her with torn paper layers, misaligned printed fragments, cardboard seams, tape patches, creases, rough ripped edges, ink bleed, paint drips, scratches, stains, halftone speckling, and dirty paper texture. Use a warm worn beige cardboard background with vivid blocks of {argument name="accent colors" default="red, hot pink, turquoise, yellow, orange, cream, and black"}. Include exactly 6 major surrounding graphic motifs: 1 black bird silhouette flying at the upper right, 1 turquoise-and-black radial flower or sun disk at the upper left, 1 teal leafy plant fragment at the right edge, 1 black plant silhouette at the lower left, 1 circular moon-profile portrait at the right of the main face with a turquoise crescent, cream face profile, black hair, and cream star, and 1 stylized black eye with 3 teardrops in a red-orange panel at the lower right. Add smaller abstract details including wavy turquoise water lines under the face, black dotted rows, red and teal vertical paint drips, translucent tape strips, and overlapping torn poster scraps. The composition should feel handmade, expensive, imperfect, and analog rather than clean digital art. No readable text, no watermark, no photorealism; make it look like a weathered wheatpaste mural photographed flat-on.
+```
+
+**来源：** [@HeldigTiger](https://x.com/heldigtiger/status/2092318109629911398) | 2026-08-25
+
+---
+
+### 🎴 例 6892：当代平面设计展览海报
+
+![当代平面设计展览海报](../images/%E5%BD%93%E4%BB%A3%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张原创的当代平面设计展览海报。海报应呈现出适合国际当代平面设计展览的风格。请以平面设计师而非肖像画家的思维进行创作。平面设计本身即是艺术品，插画的存在是为了支撑设计。必要元素：一个可识别的 {argument name="character identity" default="人物形象"}。佩戴太阳镜。一个主导的平面设计元素。如果提供了参考图像，请保留人物的可识别特征。否则，请使用对话中已确立的同一角色。以上是仅有的视觉必要元素，其他所有内容均可为每张海报自由重构。平面设计元素：主导的图形元素可以是几何、字体、建筑、抽象、有机或完全原创的。它可以由单一的大胆形状、超大字体、色带、框架、网格、色块、线条、曲线、镂空、负空间或任何其他图形装置组成。请选择能为该特定海报创造最强整体图形构图的单一视觉元素。视觉风格：无线条艺术。完全由扁平的图形色块构成图像。大面积的简化形状。极简细节。可见的干蜡笔纹理。有限的调色板。大胆的负空间。极简主义编辑海报。拥抱大胆的简化。尽可能减少细节。通过形状而非纹理进行传达。以自信而非精准的态度进行设计。图形构图：构图应完全由艺术总监决定。肖像可以被裁剪、偏移、缩放、部分隐藏或延伸至画框之外，只要这能增强设计感。主导的 {argument name="graphic element" default="图形元素"} 可以与肖像相交、裁剪、框选、遮挡、分割、环绕、打断或在视觉上达到平衡。将字体、负空间、几何平衡和构图视为与肖像同等重要。避免居中构图。避免对称平衡。避免传统的肖像布局。优先考虑大胆的平面设计而非写实插画。色彩：使用受专业色彩设计参考启发的大胆、出人意料的色彩组合，而非自然色彩。避免写实的色彩选择。允许每张海报探索完全不同的调色板。创作自由：插画风格、构图、调色板、图形语言、形状设计、纹理、字体和视觉叙事应由插画师自由诠释。绝不重复使用相同的视觉方案。不要建立重复的标志性主题。每张海报都应从零开始创造属于自己的视觉语言。每张海报都应看起来像是出自不同的世界级平面设计师之手，同时又统一属于同一个展览。
+
+[English]
+Create an original contemporary graphic design exhibition poster. The poster should feel suitable for an international contemporary graphic design exhibition. Think like a graphic designer, not a portrait painter. The graphic design is the artwork. The illustration exists to support the design. REQUIRED ELEMENTS: A recognizable {argument name="character identity" default="character"}. Wearing sunglasses. One dominant graphic design element. If a reference image is provided, preserve the person's recognizable identity. Otherwise, use the same character established throughout the conversation. These are the only required visual elements. Everything else should be freely reinvented for every poster. GRAPHIC DESIGN ELEMENT: The dominant graphic element may be geometric, typographic, architectural, abstract, organic, or entirely original. It may consist of a single bold shape, oversized typography, bands, frames, grids, blocks, lines, curves, cut-outs, negative space, or any other graphic device. Choose the single visual element that creates the strongest overall graphic composition for this specific poster. VISUAL STYLE: No lineart. Construct the image entirely from flat graphic color shapes. Large simplified shapes. Minimal details. Visible dry crayon texture. Limited color palette. Bold negative space. Minimalist editorial poster. Embrace bold simplification. Reduce details whenever possible. Communicate through shape before texture. Design with confidence, not accuracy. GRAPHIC COMPOSITION: The composition should be determined entirely by the art director. The portrait may be cropped, offset, scaled, partially hidden, or extend beyond the frame whenever it strengthens the design. The dominant {argument name="graphic element" default="graphic element"} may intersect, crop, frame, hide, divide, surround, interrupt, or visually balance the portrait. Treat typography, negative space, geometric balance, and composition as equally important as the portrait. Avoid centered composition. Avoid symmetrical balance. Avoid conventional portrait layouts. Prioritize bold graphic design over realistic illustration. COLOR: Use bold, unexpected color combinations inspired by professional color design references rather than natural colors. Avoid realistic color choices. Allow every poster to explore a completely different palette. CREATIVE FREEDOM: The illustration style, composition, color palette, graphic language, shape design, texture, typography, and visual storytelling should be freely interpreted by the illustrator. Never repeat the same visual solution twice. Do not establish a recurring signature motif. Each poster should invent its own visual language from scratch. Every poster should look as though it was created by a different world-class graphic designer while still belonging to the same exhibition.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2092277085914206655) | 2026-08-25
+
+---
+
+### 🎴 例 6893：奢华护肤品宣传海报
+
+![奢华护肤品宣传海报](../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E5%93%81%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为虚构品牌创作一张高端护肤品海报。画面主体为放置在光亮奶油色表面上的玻璃精华瓶，配以金色光影、水珠、柔和倒影、植物投影、优雅的排版，营造出高端美妆广告的质感。为虚构饮料品牌创作一张清爽的汽水海报。画面主体为带有冰块、气泡、凝露和柑橘切片的彩色罐装饮料，配以飞溅效果、醒目的排版、鲜艳的色彩以及清爽的商业产品布光。为虚构的 AI 设备创作一张未来感十足的产品发布海报。画面主体为悬浮在中心、外观简约流畅的设备，配以发光效果、玻璃倒影、细腻的动态模糊、现代感排版，呈现出简洁的高端科技产品宣传风格。
+
+[English]
+Create a premium skincare poster for a fictional brand. Feature a glass serum bottle on a glossy cream surface with golden lighting, water droplets, soft reflections, botanical shadows, elegant typography, and a high-end beauty campaign feel. Create a refreshing soda poster for a fictional drink brand. Feature a colorful can with ice, bubbles, condensation, citrus slices, splash effects, bold typography, vibrant colors, and crisp commercial product lighting. Create a futuristic product launch poster for a fictional AI device. Feature a sleek minimal device floating in the center with glowing light, glass reflections, subtle motion blur, modern typography, and a clean high-end tech campaign style.
+```
+
+**来源：** [@Playyy AI](https://x.com/Playyy_ai/status/2092273800830447964) | 2026-08-25
+
+---
+
+### 🎴 例 6903：复古杂志红色封面艺术
+
+![复古杂志红色封面艺术](../images/%E5%A4%8D%E5%8F%A4%E6%9D%82%E5%BF%97%E7%BA%A2%E8%89%B2%E5%B0%81%E9%9D%A2%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 9:16 比例的竖版摄影棚肖像。构图约为腰部以上，带有轻微的相机倾斜或动态对角线构图。主体居中，略微偏右，身体微微转向观众。背景为 {argument name="background color" default="纯正、浓郁的红色"}，带有颗粒质感，营造出复古杂志封面或音乐海报的氛围。请使用附件参考图中的人物作为主角，准确保留其面部特征。保持他独特的造型：神秘、自信、略带疏离的表情，双眼部分隐藏在窄框深色墨镜后。主体姿态放松而富有表现力，头部微微向前并向一侧倾斜，仿佛正在认真聆听电话。他一手将 {argument name="prop" default="电话听筒"} 贴在耳边，另一只手拿着电话的其余部分。姿势应显得随意、时尚且具有电影感。主体身穿黑色廓形西装外套或夹克，领口深开，内里赤裸或未露出衬衫。整体造型极简且深沉，与明亮的背景形成强烈对比。他佩戴着窄框黑色复古风格墨镜。手中拿着一个带有螺旋电线的有线电话听筒。清晰可见的螺旋电话线将听筒与设备相连。主体的头发呈现湿发感或厚重的纹理，凌乱且蓬松。光线强调了面部、嘴唇和部分颈部，而服装几乎融入了深邃的阴影中。背景应浓郁且略显粗糙，带有复古胶片噪点。时尚编辑摄影风格，灵感源自 20 世纪 80 年代和 90 年代，呈现出光面杂志、音乐封面或艺术海报的质感。高对比度、深邃阴影、可见颗粒感以及细腻的胶片质感。视觉风格：{argument name="visual style" default="复古未来主义、时尚肖像、胶片摄影、戏剧性摄影棚布光"}。氛围应神秘、大胆且时尚。图像应传达出夜间都市文化、音乐、时尚以及秘密电话交谈的感觉。主体看起来魅力十足、自信、略带危险气息且具有电影感。这是一张高度精细的图像，具有明显的胶片颗粒感、深邃的阴影和鲜艳的红色背景。面部、墨镜、双手和复古电话设备焦点清晰。在保持图像高质量、富有表现力并适合时尚/编辑摄影的同时，保留复古质感。
+
+[English]
+A vertical studio portrait in a 9:16 format. The shot is framed approximately from the waist up, with a slight camera tilt or dynamic diagonal composition. The main subject is centered, slightly shifted to the right, with his body turned slightly toward the viewer. The background is {argument name="background color" default="solid, rich red"} with a grainy texture, creating the feeling of a vintage magazine cover or music poster. Use the person from the attached reference as the main character. Accurately preserve his facial features. Maintain his distinctive look: a mysterious, confident, slightly detached expression, with his eyes partially hidden behind narrow dark sunglasses. The subject stands in a relaxed yet expressive pose. His head is slightly tilted forward and to the side, as if he is carefully listening to a phone conversation. He holds a {argument name="prop" default="telephone receiver"} to his ear with one hand and the other part of the phone with the other hand. The pose should feel casual, fashionable, and cinematic. The subject wears a black oversized blazer or jacket with a deep neckline, worn over bare skin or with no visible shirt. The look is minimalist and dark, contrasting strongly with the bright background. He wears narrow black vintage-style sunglasses. In his hand is a wired telephone receiver with a coiled cable. A coiled telephone cord is clearly visible, connecting the receiver to the device. The subject's hair is wet or heavily textured, messy, and voluminous. The lighting emphasizes the face, lips, and part of the neck, while the clothing almost blends into the deep shadows. The background should be rich and slightly rough, with vintage film noise. Fashion editorial photography inspired by the 1980s and 1990s, with the look of a glossy magazine, music cover, or art poster. High contrast, deep shadows, visible grain, and a subtle film texture. Visual style: {argument name="visual style" default="retro-futurism, fashion portrait, analog photography, dramatic studio lighting"}. The atmosphere should be mysterious, bold, and stylish. The image should convey a sense of nighttime urban culture, music, fashion, and a secret telephone conversation. The subject looks charismatic, confident, slightly dangerous, and cinematic. A highly detailed image with pronounced film grain, deep shadows, and a vivid red background. Sharp focus on the face, sunglasses, hands, and retro telephone device. Preserve the vintage texture while keeping the image high-quality, expressive, and suitable for a fashion/editorial photoshoot.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2092226922147352652) | 2026-08-25
+
+---
+
+### 🎴 例 6920：Pho Republic 广告系列网格
+
+![Pho Republic 广告系列网格](../images/Pho%20Republic%20%E5%B9%BF%E5%91%8A%E7%B3%BB%E5%88%97%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为“PHO REPUBLIC”的原创越南面食品牌创作一系列 2x2 旗舰广告海报，融合 Orbit 的活力与 Transit 的克制感。使用超写实的商业美食摄影，而非插画或 3D 渲染。最终作品必须呈现四张协调的方形海报，并以严格的 2x2 网格排列，每个面板均基于相同的结构系统构建，并带有严谨的变化。Pho 汤碗必须在每个面板中始终作为绝对的视觉核心。风格锁定：高端图形美食广告、大胆的编辑海报布局、产品优先的层级、简洁的色块背景、超大动态排版、年轻化的高端亚洲街头餐饮品牌形象、戛纳级别的印刷广告执行。核心广告结构：四个方形面板，交替使用深海军蓝和暖芥末黄背景。每个面板包含一个巨大的白色 Pho 汤碗，均从完全相同的略微俯视的相机角度拍摄。碗的大小、高度、透视、边缘厚度、直径以及视觉重量在四张海报中必须保持完美一致。容器在每个面板中必须处于相同的视觉比例，作为固定的广告锚点。仅允许在排版节奏、圆形文本路径、标注位置和围绕汤碗的定向运动上进行变化。Transit 逻辑：简化每个面板，使布局看起来具有旗舰感且全球化。减少小标签，减少装饰性标注，缩短文案，保留更多简洁的留白，让汤碗、背景色块和主要排版发挥主要作用。避免传单式的密集感。每个正方形都应显得图形化、高端且易于阅读。Orbit 逻辑：在整个 2x2 组合中创建一个协调的运动系统。面板一使用强烈的向下对角线文本流，面板二使用镜像的向内驱动对角线，面板三使用围绕汤碗的受控圆形轨道，面板四使用更紧凑的圆形返回路径，从视觉上总结整个广告系列。这四个面板应感觉像一个连贯的视觉序列：发布、呼应、轨道、收尾。动态必须感觉清晰且具有图形感，而非杂乱。美食设计：创作一款高端牛肉 Pho 招牌菜，包含细节丰富的食材：发光的琥珀色肉汤、细米粉、牛肉片、牛肉丸、牛筋或牛肚点缀、罗勒叶、葱花、红辣椒片、洋葱、新鲜香草以及淡淡的肉汤光泽。食材造型在面板间可略有变动，但碗的大小和视觉主导地位绝不能改变。菜品必须看起来丰盛、香气四溢、热气腾腾且极具吸引力。面板逻辑：1. 左上角面板：深海军蓝背景，超大的堆叠标题从左上角向中心对角线移动，汤碗锚定在左下区域，碗沿附近有少量克制的标注标记。2. 右上角面板：芥末黄背景，镜像的大胆排版从右上角向中心接缝处向内驱动，汤碗的比例和高度与面板一相同，仅有极简的图形点缀。3. 左下角面板：芥末黄背景，居中的汤碗周围环绕着简洁的圆形文本轨道，标注比顶行更少，留白更强。4. 右下角面板：深海军蓝背景，居中的汤碗在比例和位置上与面板三完全匹配，更紧凑的轨道文本和一个紧凑的品牌页脚块来结束广告系列。排版与品牌：仅使用原始英文文本，切勿复制任何现有措辞。使用如“TALK THE PHO”这样大胆的主标题作为整个系列的广告锚点，在比例和节奏上有所变化，但品牌语调始终保持一致。仅添加少量简短的描述词，如“fresh”、“slow broth”、“street soul”、“herbal”和“comfort”。包含一个紧凑的品牌块，写有“PHO REPUBLIC”以及如“modern Vietnamese kitchen”的副标题。排版应显得超大、建筑感、机智且具有动态感，但始终次于汤碗。灯光：明亮受控的摄影棚美食灯光，具有柔和的正面照明和微妙的侧面塑形。肉汤必须发出温暖的光芒，香草必须感觉清脆新鲜，肉的纹理必须保持湿润且真实，白色陶瓷碗必须看起来干净、有光泽且具有立体感。保持阴影柔和且受控，没有浑浊的对比。材质与真实感：四个海报中形状和比例完全相同的真实白色陶瓷碗，热气腾腾且有光泽的肉汤，鲜嫩的牛肉纹理，弹牙的面条，新鲜罗勒，清脆的辣椒片，微妙的油光，干净的哑光背景，高端的印刷级清晰度，以及感觉是设计而非粘贴的集成图形元素。色彩系统：严格交替的海军蓝和芥末黄区域，辅以克制的红色、白色、黑色和香草绿点缀。保持调色板严谨、高对比度且高端。食物颜色必须保持自然且令人垂涎。质量与物理规则：所有四个面板必须感觉像一个统一的旗舰广告系列。每个面板的碗大小必须相等。必须保持相同的碗相机角度、碗比例、碗视觉重量和产品主导地位。保持广告系列简洁、图形化、高端且高度可读。无杂乱、无变形的边缘、无文字碰撞、无薄弱的食物细节、无死黑斑、无过度饱和的肉汤。负面提示：复制的品牌、复制的文本、不一致的碗大小、不一致的碗高度、不一致的碗透视、面板间不同的容器比例、变形的碗沿、模糊的食物、虚假的肉汤质感、凌乱的布局、混乱的排版、廉价的传单外观、低分辨率的印刷感、过度饱和的食物颜色、过多的标签、杂乱的标注、卡通渲染、CGI 外观、插画风格、产品失去主导地位、浑浊的阴影、脏乱的背景。
+
+[English]
+Create a flagship 2x2 campaign poster series for an original Vietnamese noodle brand named "PHO REPUBLIC", merging Orbit energy with Transit restraint. Use ultra-realistic commercial food photography, not illustration, not 3D render. The final artwork must present four coordinated square posters arranged in a strict 2x2 grid, each panel built from the same structural system with disciplined variation. The pho bowl must remain the absolute visual hero in every panel. Style lock: high-end graphic food advertising, bold editorial poster layout, product-first hierarchy, clean color-block backgrounds, oversized kinetic typography, youthful premium Asian street-dining branding, Cannes-level print campaign execution. Core campaign structure: four square panels with alternating deep navy blue and warm mustard yellow backgrounds. Each panel contains one large white pho bowl shown from the exact same slightly top-down camera angle. Bowl size, bowl height, bowl perspective, rim thickness, bowl diameter, and visual weight must be perfectly consistent across all four posters. The container must sit at an equal visual scale in every panel, acting as the fixed campaign anchor. Variation is allowed only in typography rhythm, circular text paths, callout placement, and directional movement around the bowl. Transit logic: simplify every panel so the layout feels flagship and globally polished. Reduce small labels, reduce decorative callouts, shorten copy, preserve more clean negative space, and let the bowl, background block, and primary typography do most of the work. Avoid flyer-like density. Each square should feel graphic, premium, and instantly readable. Orbit logic: create a coordinated movement system across the full 2x2 set. Panel one uses a strong descending diagonal text flow, panel two uses a mirrored inward-driving diagonal, panel three uses a controlled circular orbit around the bowl, and panel four uses a tighter circular return path that visually resolves the campaign. The four panels should feel like one connected visual sequence: launch, counter, orbit, resolve. Motion must feel crisp and graphic, not noisy. Food design: create a premium beef pho hero dish with richly detailed ingredients: glowing amber broth, thin rice noodles, sliced beef, beef balls, tendon or tripe accents, basil leaves, scallions, red chili slices, onion, fresh herbs, and subtle broth sheen. Ingredient styling may shift slightly between panels, but the bowl size and bowl dominance must never change. The dish must feel abundant, fragrant, hot, and highly craveable. Panel logic: 1. Top-left panel: deep navy background, oversized stacked headline moving diagonally from upper-left toward center, bowl anchored in the lower-middle zone, a few restrained callout markers near the rim. 2. Top-right panel: mustard background, mirrored bold typography driving inward from upper-right toward center seam, bowl anchored at the same scale and height as panel one, minimal graphic accents only. 3. Bottom-left panel: mustard background, centered bowl with a clean circular text orbit around it, fewer callouts than the top row, stronger negative space. 4. Bottom-right panel: deep navy background, centered bowl matching panel three exactly in scale and placement, tighter orbit text and a compact brand footer block to conclude the campaign. Typography and branding: use original English text only, never copy any existing wording. Use a bold master phrase such as "TALK THE PHO" as the campaign anchor across the series, varied in scale and rhythm but always consistent in brand voice. Add only a few short descriptors such as "fresh", "slow broth", "street soul", "herbal", and "comfort". Include a compact brand block reading "PHO REPUBLIC" with a subtitle such as "modern Vietnamese kitchen". Typography should feel oversized, architectural, witty, and kinetic, but always secondary to the bowls. Lighting: bright controlled studio food lighting with soft frontal illumination and subtle side shaping. The broth must glow warmly, herbs must feel crisp and fresh, meat textures must remain moist and realistic, and the white ceramic bowls must look clean, glossy, and dimensional. Keep shadows soft and controlled, with no muddy contrast. Materials and realism: realistic white ceramic bowls with identical shape and scale across all four posters, hot glossy broth, tender beef textures, springy noodles, fresh basil, crisp chili slices, subtle oil shimmer, clean matte background fields, premium print-ready sharpness, and integrated graphic elements that feel designed rather than pasted. Color system: strict alternating navy blue and mustard yellow fields, with restrained accents of red, white, black, and herb green. Keep the palette disciplined, high-contrast, and premium. Food colors must remain natural and appetizing. Quality and physical rules: all four panels must feel like one unified flagship campaign. Equal bowl size across every panel is mandatory. Equal bowl camera angle, equal bowl scale, equal bowl visual weight, and equal product dominance must be preserved. Keep the campaign clean, graphic, premium, and highly legible. No clutter, no warped rims, no type collisions, no weak food detail, no dead black patches, no oversaturated broth. Negative prompt: copied branding, copied text, inconsistent bowl sizes, inconsistent bowl height, inconsistent bowl perspective, different container scale between panels, warped bowl rims, blurry food, fake broth texture, messy layout, chaotic typography, cheap flyer look, low-resolution print feel, oversaturated food colors, excessive labels, cluttered callouts, cartoon rendering, CGI look, illustration style, product losing dominance, muddy shadows, dirty background.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2092155004761285113) | 2026-08-25
+
+---
+
+### 🎴 例 6923：赛博朋克动作海报
+
+![赛博朋克动作海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E4%BD%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极具冲击力的电影感动作海报，画面中一名时尚男子正走在黑暗的高速公路上。男子留着黑色短发，胡须修剪整齐，身穿黑色皮夹克、深色 T 恤和破洞牛仔裤，戴着墨镜，一手持着锋利的武士刀。在他身旁走着一只眼神犀利、双眼闪烁黄光的黑豹。背景中，一条巨大的黑色恶龙张开双翼，双眼透着橙光，显得极具压迫感。氛围阴郁，伴有烟雾，采用戏剧性的双色光影——左侧为暖橙色光，右侧为冷蓝灰色光。赛博朋克与奇幻风格融合，超写实，8k 分辨率，细节极致丰富。
+
+[English]
+A powerful cinematic action poster featuring a stylish {argument name="man" default="man"} walking forward on a dark highway. The man has short black hair, a well-groomed beard, wearing a {argument name="outfit" default="black leather jacket, dark t-shirt, and ripped jeans"} with sunglasses, holding a sharp {argument name="weapon" default="katana sword"} in one hand. Walking beside him is a fierce black panther with glowing yellow eyes. Looming large in the background is a massive, menacing black dragon with spread wings and glowing orange eyes. Moody atmosphere with smoke and dramatic dual lighting—warm orange light from the left and cool blue-grey light from the right. Cyberpunk and fantasy fusion, hyper-realistic, 8k resolution, ultra-detailed.
+```
+
+**来源：** [@Rakib Mahmud](https://x.com/rakibmahmudai/status/2092145085496578490) | 2026-08-25
+
+---
+
+### 🎴 例 6924：包豪斯 (Bauhaus) 字体海报设计
+
+![包豪斯 (Bauhaus) 字体海报设计](../images/%E5%8C%85%E8%B1%AA%E6%96%AF%20(Bauhaus)%20%E5%AD%97%E4%BD%93%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+{argument name="デザイン様式" default="バウハウス・タイポグラフィ"}を基調としたポスターデザイン。
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2092139045308772565) | 2026-08-25
+
+---
+
+### 🎴 例 6925：奢华精华液水花广告
+
+![奢华精华液水花广告](../images/%E5%A5%A2%E5%8D%8E%E7%B2%BE%E5%8D%8E%E6%B6%B2%E6%B0%B4%E8%8A%B1%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实的电影级奢华护肤品广告，采用 9:16 竖屏比例。展示一个高级透明玻璃精华滴管瓶（{argument name="brand name" default="The Ordinary"}），使其以轻微的对角线角度悬浮在清澈的蓝色水中，并从戏剧性的皇冠状水花中心浮现。瓶身采用透明圆柱形玻璃材质，内部装有淡水蓝色精华液，配有极简风格的白色标签及细小的黑色护肤品文字、白色螺纹旋盖和柔软的白色橡胶滴管；确保标签、比例、瓶盖和品牌信息清晰可读，同时营造出动态的周边水流感。画面中仅包含 1 个产品瓶、1 个环绕其周围的主水花皇冠、许多逼真的漂浮水滴，以及 4 片位于画面边缘的虚化绿叶：左上角一片、顶部中心边缘一片、右上角一片，以及左下角前景一片。使用暖色阳光、青蓝色背景虚化、光泽反射、水面焦散光影、逼真的玻璃折射效果，产品焦点清晰，浅景深，微距产品摄影，慢动作定格感，高端美妆广告审美，4K UHD 细节。无额外文字，无水印，无畸变，无手部，无其他额外产品。
+
+[English]
+Create an ultra-realistic cinematic luxury skincare advertisement in a vertical 9:16 frame. Show one premium clear glass serum dropper bottle of {argument name="brand name" default="The Ordinary"} suspended at a slight diagonal angle in crystal-clear blue water, emerging from the center of a dramatic crown-shaped splash. The bottle has a transparent cylindrical glass body, pale aqua serum inside, a minimalist white label with small black skincare text, a white ribbed screw cap, and a soft white rubber pipette; keep the label, proportions, cap, and branding crisp and readable while the surrounding motion feels dynamic. Count exactly 1 product bottle, 1 main water splash crown around it, many realistic floating droplets, and 4 large out-of-focus green leaves framing the scene: one upper left, one top center edge, one upper right, and one lower left foreground. Use warm sunlight, teal-blue background bokeh, glossy reflections, caustic light patterns on the water surface, realistic glass refraction, sharp focus on the product, shallow depth of field, macro product photography, slow-motion frozen-action feeling, premium beauty campaign aesthetic, 4K UHD detail. No extra text, no watermark, no distortion, no hands, no additional products.
+```
+
+**来源：** [@Lyra AI](https://x.com/AI_with_Lyra/status/2092116220912771292) | 2026-08-25
+
+---
+
+### 🎴 例 6927：微缩美妆创意广告摄影
+
+![微缩美妆创意广告摄影](../images/%E5%BE%AE%E7%BC%A9%E7%BE%8E%E5%A6%86%E5%88%9B%E6%84%8F%E5%B9%BF%E5%91%8A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实、高端奢华的美妆广告图片，灵感源自顶级化妆品编辑摄影。构图主体为女性面部的微距特写，占据背景位置，呈现自然的暖色调肤色、逼真的毛孔、细微的雀斑、细腻的皮肤质感、水润光泽的嘴唇，以及柔和的金色影棚灯光。保持面部外观优雅、自然、精致且具有照片级真实感，展现出高级美妆广告的审美。
+
+在前景处，放置受现代奢华化妆品品牌启发的优质 {argument name="makeup type" default="液体美妆产品"}。包含一个高挑的 {argument name="bottle type" default="磨砂玻璃液体腮红瓶"} 直立放置，另一个配套的腮红容器横卧在表面。包装应呈现出透过磨砂玻璃可见的柔和哑光 {argument name="color" default="玫瑰粉/珊瑚色"} 液体，配以简洁的极简主义字体和奢华的金属金色瓶盖。将涂抹棒放置在瓶子旁边，柔软蓬松的刷头沾有少量玫瑰色腮红产品。
+
+加入创意微缩世界概念：几名身穿干净白色工作服、佩戴黑色工具腰带、黑色鞋子和粉色安全帽的微型专业美妆人员，正在化妆品周围攀爬细绳。一些微型工作人员看起来正在用微型滚筒和化妆工具在巨大的皮肤表面小心翼翼地涂抹腮红，而另一名工作人员则爬向产品瓶，营造出化妆品正在大规模专业制作和涂抹的错觉。微型人物应具备逼真的比例、细致的服装、可信的姿势、微小的装备、真实的阴影，以及与环境物理精准的交互。
+
+将产品排列在光滑的暖米色/粉色影棚表面上，带有细微的反射和柔和的阴影。使用精心控制的奢华商业灯光设置：暖色漫射主光、柔和轮廓光、玻璃和金属金盖上的柔和高光、逼真的反射、电影级景深以及微妙的氛围光。背景应保持极简、优雅、温暖且整洁，以确保化妆品和微型工作人员始终是视觉焦点。
+
+采用高级美妆广告构图，使用略低的视角、微距摄影美学、浅景深、逼真的虚化效果、极其细腻的玻璃质感、真实的液体半透明感、自然的皮肤纹理、准确的材质反射以及专业的调色。使每一个元素看起来都像是真实存在于同一场景中，而非后期数字合成。
+
+整体氛围：奢华、女性化、创意、趣味、高端、精致且视觉冲击力强。最终图像应呈现出高预算国际化妆品广告大片与想象力丰富的微缩摄影相结合的效果。
+
+超写实，8K 细节，电影级商业摄影，微距镜头，逼真皮肤毛孔，真实
+
+[English]
+Create an ultra-realistic, high-end luxury beauty advertisement inspired by premium editorial cosmetics photography. The composition features a close-up macro portrait of a woman’s face filling the background, with natural warm skin tones, realistic pores, subtle freckles, delicate skin texture, glossy hydrated lips, and soft golden studio lighting. Keep the facial appearance elegant, natural, refined, and photorealistic, with a sophisticated beauty-campaign aesthetic.
+
+In the foreground, place premium {argument name="makeup type" default="liquid makeup products"} inspired by a modern luxury cosmetic brand. Include a tall {argument name="bottle type" default="frosted glass liquid blush bottle"} standing upright and another matching blush container lying horizontally on the surface. The packaging should have a soft muted {argument name="color" default="rosy-pink/coral"} liquid visible through the frosted glass, clean minimalist typography, and a luxurious metallic gold cap. Place the applicator wand beside the bottle, with a soft fluffy doe-foot applicator carrying a small amount of rosy blush product.
+
+Add a creative miniature-world concept: several tiny professional beauty workers dressed in clean white work uniforms, black utility belts, black shoes, and pink protective helmets are climbing thin ropes around the cosmetic products. Some miniature workers should appear carefully painting or applying blush to the giant skin surface with tiny rollers and cosmetic tools, while another worker climbs toward the product bottle, creating the illusion that the cosmetic product is being professionally crafted and applied at a massive scale. The miniature figures should have realistic proportions, detailed clothing, believable poses, tiny equipment, realistic shadows, and physically accurate interaction with the environment.
+
+Arrange the products on a smooth warm beige/pink studio surface with subtle reflections and soft shadows. Use a carefully controlled luxury commercial lighting setup: warm diffused key light, gentle rim lighting, soft highlights on the glass and metallic gold cap, realistic reflections, cinematic depth of field, and subtle atmospheric glow. The background should remain minimal, elegant, warm, and uncluttered so the cosmetics and miniature workers remain the main focus.
+
+Use a premium beauty campaign composition with a slightly low product angle, macro photography aesthetics, shallow depth of field, realistic bokeh, extremely detailed glass textures, realistic liquid translucency, natural skin texture, accurate material reflections, and professional color grading. Make every element look physically present in the same scene rather than digitally pasted together.
+
+Overall mood: luxurious, feminine, creative, playful, premium, sophisticated, and visually striking. The final image should resemble a high-budget international cosmetic advertising campaign combined with imaginative miniature photography.
+
+Ultra-photorealistic, 8K detail, cinematic commercial photography, macro lens, realistic skin pores, reali
+```
+
+**来源：** [@𝐒𝐊_𝐀𝐈](https://x.com/Its_Saad_kkk/status/2092112107982455130) | 2026-08-25
+
+---
+
+### 🎴 例 6932：微缩办公桌冒险海报
+
+![微缩办公桌冒险海报](../images/%E5%BE%AE%E7%BC%A9%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%86%92%E9%99%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="brand name" default="ALINA Ai"} 的励志 AI 创意品牌创作一张 4:5 竖版电影级超写实编辑海报，展示一位微缩的年轻女性坐在巨大的舒适办公桌工作区内，周围环绕着超大号的日常用品和温暖的冒险主题排版。
+
+画布：竖版海报，4:5 比例，高分辨率电影级景深，温暖的琥珀色和深棕色调，情绪化的台灯照明，浅焦，杂志封面构图。
+
+主体：一位留着深棕色长波浪卷发、面带微笑的年轻女性，随意地坐在巨大的打开的笔记本上，仿佛坐在平台上。她身穿棕色衬衫夹克、白色背心、卷边休闲白裤、棕色腰带，脚穿白色运动鞋。她一手拿着一台微型复古相机，另一只手放在笔记本上。她的姿态显得开朗、好奇、充满冒险精神且平易近人。
+
+微缩世界场景：让女性在巨大的创意办公桌环境中显得微小。超大工作区包含 13 组醒目的道具：1) 左侧巨大的复古闹钟，2) 背景中堆叠的书籍和笔记本，3) 手写纸张和草图，4) 右侧贴有“FOCUS FUEL”标签的大号外带咖啡杯，5) 装有铅笔的笔筒，6) 笔记本和桌面上巨大的回形针，7) 左侧的一个小木牌，8) 右侧的一个黑色励志牌，9) 靠在笔记本上的微型梯子，10) 右下角的一盏微型发光台灯，11) 右下角附近的超大键盘按键，包括一个标有“ctrl”的键，12) 前景中散落的文具和夹子，13) 背景中模糊的复古物品和堆叠的文件。
+
+文字布局：在中上部使用优雅的大号衬线字体，书写 {argument name="main title" default="ALINA Ai"}。在其上方，添加小号间距的大写文字：“EXPLORE. DREAM. DISCOVER.”。在主标题下方，添加一个小的圆形标签，写着 {argument name="tagline" default="BIG ADVENTURES START SMALL"}。在左上角，放置“20”在“25”上方，并在其下方添加小号堆叠短语“JOURNEY BEYOND ORDINARY”。在大钟上，添加黑色标签“time to dream”。在咖啡杯上，添加“FOCUS FUEL”。在右侧标牌上，添加“SMALL STEPS BIG DESTINIES”。在左侧木块上，添加三个堆叠的单词：“PLAN”、“CREATE”、“INSPIRE”。在左下角，添加一个小的轮廓徽章，在“DREAMS”上方写着“-MINIATURE-”，在“REAL ADVENTURES”下方。在底部中心，添加引言 {argument name="bottom quote" default="NOT ALL WHO WANDER ARE LOST. SOME ARE JUST EXPLORING TINY WORLDS."}。在右下角，添加三行堆叠文字：“COLLECT”、“MOMENTS”、“NOT THINGS”。
+
+视觉风格：超细节、电影级微缩摄影、逼真的皮肤和织物纹理、精致的编辑海报设计、温暖的高光、丰富的阴影、背景虚化、触感纸张纹理、手写笔记本页面、舒适的复古书房氛围、冒险且励志的品牌基调。
+
+约束：保持所有可见文字清晰可辨，拼写与指定内容完全一致。保持微缩比例的错觉。不要添加额外的标语、徽标、水印或额外字符。构图保持以坐着的女性和巨大的品牌标题为中心。
+
+[English]
+Goal: Create a vertical 4:5 cinematic, ultra-realistic editorial poster for an inspirational AI creativity brand called {argument name="brand name" default="ALINA Ai"}, showing a miniature young woman sitting inside a giant cozy desk workspace, surrounded by oversized everyday objects and warm adventure-themed typography.
+
+Canvas: Portrait poster, 4:5 aspect ratio, high-resolution cinematic depth of field, warm amber and dark brown color grading, moody desk-lamp lighting, shallow focus, editorial magazine cover composition.
+
+Main subject: A smiling young woman with long wavy dark brown hair sits casually on a huge open notebook like it is a platform. She wears a brown overshirt jacket, white tank top, relaxed white pants with rolled cuffs, brown belt, and white sneakers. She holds a tiny vintage camera in one hand, with the other hand resting on the notebook. Her pose feels cheerful, curious, adventurous, and approachable.
+
+Miniature-world scene: Make the woman appear small compared with a giant creative desk environment. The oversized workspace contains exactly 13 prominent prop groups: 1) a huge vintage alarm clock on the left, 2) stacked books and notebooks in the background, 3) handwritten papers and sketches, 4) a large takeaway coffee cup on the right labeled “FOCUS FUEL”, 5) a pen cup with pencils, 6) giant paper clips on the notebook and desk, 7) a small wooden sign on the left, 8) a black inspirational sign on the right, 9) a tiny ladder leaning against the notebook, 10) a miniature glowing desk lamp at bottom right, 11) oversized keyboard keys near the bottom right including one labeled “ctrl”, 12) scattered stationery and clips in the foreground, 13) blurred vintage objects and stacked documents in the background.
+
+Text layout: Use large elegant serif typography across the upper-middle reading {argument name="main title" default="ALINA Ai"}. Above it, add small spaced uppercase text: “EXPLORE. DREAM. DISCOVER.” Under the main title, add a small rounded label reading {argument name="tagline" default="BIG ADVENTURES START SMALL"}. In the top-left corner, place “20” above “25” and below it the small stacked phrase “JOURNEY BEYOND ORDINARY”. On the large clock, add a black label reading “time to dream”. On the coffee cup, add “FOCUS FUEL”. On the right sign, add “SMALL STEPS BIG DESTINIES”. On the left wooden block, add exactly three stacked words: “PLAN”, “CREATE”, “INSPIRE”. At the bottom-left, add a small outlined badge reading “-MINIATURE-” above “DREAMS” above “REAL ADVENTURES”. Along the bottom center, add the quote {argument name="bottom quote" default="NOT ALL WHO WANDER ARE LOST. SOME ARE JUST EXPLORING TINY WORLDS."}. At the bottom-right, add exactly three stacked lines: “COLLECT”, “MOMENTS”, “NOT THINGS”.
+
+Visual style: Hyper-detailed, cinematic miniature photography, realistic skin and fabric texture, polished editorial poster design, warm highlights, rich shadows, bokeh background, tactile paper grain, handwritten notebook pages, cozy vintage study atmosphere, adventurous and inspirational brand mood.
+
+Constraints: Keep all visible text legible and spelled exactly as specified. Preserve the miniature scale illusion. Do not add extra slogans, logos, watermarks, or additional characters. Keep the composition centered on the seated woman and the giant brand title.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2092092283751727306) | 2026-08-25
+
+---
+

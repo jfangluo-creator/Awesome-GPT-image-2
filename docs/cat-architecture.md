@@ -4330,3 +4330,37 @@ The cozy room is filled with cute decorations: a giant cream-colored teddy bear 
 
 ---
 
+### 🏛️ 例 6901：抱着虎斑猫的动漫少女
+
+![抱着虎斑猫的动漫少女](../images/%E6%8A%B1%E7%9D%80%E8%99%8E%E6%96%91%E7%8C%AB%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的动漫风格竖版插画，描绘 {argument name="character name" default="一位年轻女性"} 在夜晚温馨的公寓卧室中站立，双手在胸前轻轻托举着 {argument name="pet description" default="一只带有深色条纹的灰色虎斑猫"}。她留着 {argument name="hair color and style" default="黑色长发，梳成两条松散的麻花辫，配有柔和的刘海和细碎的鬓角"}，有着大而传神的棕色眼睛、精致的五官、淡淡的腮红，并戴着一副圆形的细框眼镜。她穿着一件宽松的 {argument name="shirt color" default="淡粉色"} T 恤和带有白色滚边的灰色家居短裤，呈现出休闲的居家装扮。她的姿势温柔自然，双臂抬起，深情地注视着猫咪；猫咪安静地垂着尾巴，身体微微弯曲，爪子放松，脸转向她。背景是一个光线柔和的现代房间，右侧有一扇高大的深色窗户，展示着带有模糊建筑灯光的夜景，木质窗台上摆放着 2 盆小植物，左侧的书架上放着书籍和装饰品，背景中还有一株较大的绿植。使用来自左侧/前方的温暖室内光线，与窗户射入的冷蓝色夜光相融合，营造出柔和的阴影、头发和猫毛上的细腻轮廓光、细致的布料褶皱、逼真的猫毛质感、干净的线条、高质量的日本动漫渲染效果，以及浪漫静谧的日常氛围。构图为肖像式，取景范围从腰部到大腿中部，画面中不包含任何可见文字，仅在右下角有一个类似艺术家签名的微小标记。
+
+[English]
+Create a polished anime-style vertical illustration of {argument name="character name" default="a young woman"} standing in a cozy apartment bedroom at night, gently lifting and holding {argument name="pet description" default="a gray tabby cat with dark stripes"} in both hands at chest height. She has {argument name="hair color and style" default="long black hair in two loose braids with soft bangs and wispy side strands"}, large expressive brown eyes, delicate features, light blush, and round thin-rimmed glasses. She wears an oversized {argument name="shirt color" default="pale pink"} T-shirt and short gray lounge shorts with white trim, creating a relaxed indoor outfit. Her pose is tender and natural, arms raised as she looks affectionately at the cat; the cat hangs calmly with its tail down, body slightly curved, paws relaxed, and face turned toward her. The setting is a softly lit modern room with a tall dark window on the right showing a nighttime cityscape with blurred building lights, a wooden windowsill with exactly 2 small potted plants, a bookshelf on the left with books and decor, and a larger leafy plant in the background. Use warm indoor lighting from the left/front mixed with cool blue night light from the window, soft shadows, subtle rim light on hair and cat fur, detailed fabric folds, realistic cat fur texture, clean linework, high-quality Japanese anime rendering, romantic quiet slice-of-life mood, portrait composition, waist-up to mid-thigh framing, no visible text except a tiny artist-signature-like mark in the lower right.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2092233535017120049) | 2026-08-25
+
+---
+
+### 🏛️ 例 6941：极简东方晨间问候视觉设计
+
+![极简东方晨间问候视觉设计](../images/%E6%9E%81%E7%AE%80%E4%B8%9C%E6%96%B9%E6%99%A8%E9%97%B4%E9%97%AE%E5%80%99%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+围绕任意主题对象构建清透、安静而带东方节令感的视觉：让大面积高明度空白成为主体环境，以数道横向舒展的半透明柔色带从画面中段延伸至下方，边缘像水汽、湿染与失焦光影般羽化，宽窄、浓淡和间距不均，局部形成轻微波面、倒影与远近层次；在空白深处安置一个由主题语义提炼的小型剪影符号，尺度克制，贴近一条纤细的色带或水平线，并带模糊的浅影，使极小叙事物与辽阔雾白形成强烈尺度反差。散落少量主题派生的狭长碎片或轻叶状笔触，方向疏密随机，用于引导视线而不填满空间。信息集中在上方一侧：英文主标题采用超大号、高挑纤细、粗细反差明显的现代衬线字，分成短行，字距舒展，形成清晰而冷静的黑色骨架；中文主题标题置于其下，使用更凝练厚重、略带书写锋芒与墨迹起伏的字形，与英文形成尺度和笔画密度反差，并用一个从主题核心符号抽取的简洁色块嵌入词组之间。下方配极小字号说明文字；另一侧放置小型日期或编号组合，数字略大，周围细字紧凑；边缘安排一列疏朗的竖向微型文字与短线间隔，保持非对称平衡。颜色不照搬固定色相，而是从未来主题的情绪、文化联想与核心对象中派生：用极浅、低饱和、接近白色的主题基调覆盖绝大部分空间，以同色系稍深且仍柔和的颜色承担水雾色带和远景层次，以少量中等饱和的主题强调色标记符号、局部笔触与文字中的图形节点，正文保持近黑；整体维持高明度、低对比、空气充足、明亮洁净的色彩情绪，强调色只作细小聚焦。表面处理保持柔滑的数码水墨与轻薄纸感，雾化区域有细微扩散和弱颗粒，文字边缘相对清晰，图形边缘适度渗化，不加入厚重污损、强烈阴影或拥挤装饰。最终阅读顺序应先见醒目的双语标题，再落到中文主题与彩色符号，随后沿水平雾带寻找微小叙事剪影，最后发现日期和边缘细字；必须保住“巨大文字与辽阔留白、极小剪影与流动色带”之间的张力。
+
+主题：{argument name="主题内容" default="早安+问候+GOOD MORNING+城市+金句+天气+2026-08-25"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2092041044431139293) | 2026-08-25
+
+---
+

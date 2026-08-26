@@ -8564,3 +8564,53 @@ Style: Ultra-realistic studio photography, neutral catalog/reference-sheet light
 
 ---
 
+### 🧍 例 6904：热带度假主题编辑摄影
+
+![热带度假主题编辑摄影](../images/%E7%83%AD%E5%B8%A6%E5%BA%A6%E5%81%87%E4%B8%BB%E9%A2%98%E7%BC%96%E8%BE%91%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+参考提供的参考图，创作一张充满活力、电影感且照片级逼真的图像。仅将参考图用于整体人物、氛围、构图和时尚美学，并创作一个全新的原创场景。
+
+一位美丽的年轻女性，留着自然波浪感的深棕色长发，眼神温暖而富有表现力，皮肤呈现自然光泽，笑容明媚真诚。她个性轻松洒脱，看起来发自内心地快乐。她的秀发在温暖的海风中飘逸。
+
+她穿着一件宽松飘逸的 {argument name="dress color" default="珊瑚红/橙色"} 大码连衣裙，上面带有 {argument name="pattern" default="大型米色植物和花卉图案"}，面料轻盈，袖口宽大，呈现出休闲的度假廓形。裙摆随风自然摆动，勾勒出优雅的流动线条。
+
+将她置于 {argument name="setting" default="令人惊叹的热带海岸环境，拥有绿松石色的海水、柔和的浪花、金色的沙滩、郁郁葱葱的热带植物、远处的山脉、棕榈树和色彩斑斓的花朵"} 之中。运用浓郁、鲜艳的色彩，营造出温暖的电影级黄金时刻氛围。
+
+摄影风格：超写实旅行编辑摄影、电影级构图、自然的皮肤纹理、逼真的面部细节、细腻的胶片颗粒感、柔和的景深、美丽的焦外成像、体积光、温暖的高光、丰富的色彩分级、高动态范围、逼真的面料质感、自然的头发动态。
+
+构图：全身肖像，略带动态的行走姿势，身体自然转向镜头，直视镜头并露出愉悦的笑容。捕捉一个随性的度假瞬间，而非刻意的摄影棚摆拍。
+
+让画面呈现出色彩斑斓、梦幻、年轻、随性、奢华且具有电影感，同时保持照片级的真实感。
+
+避免：人体结构扭曲、多余的手指、多余的肢体、重复的身体部位、畸形的手部、不自然的面部、塑料感皮肤、过度化妆、僵硬的姿势、扭曲的服装图案、悬浮物体、人工痕迹明显的头发、过度饱和的肤色、面部模糊、细节缺失、文字、水印、Logo。
+
+竖向肖像构图，9:16 纵横比，极致细节，照片级真实，电影质感，鲜艳的热带色彩调色板。
+
+[English]
+Create a vibrant, cinematic, photorealistic image inspired by the provided reference image. Use the reference only for the overall character, mood, composition, and fashion aesthetic — create a fresh original scene.
+
+A beautiful young woman with long, naturally wavy dark-brown hair, warm expressive eyes, glowing natural skin, and a bright genuine smile. She has a relaxed, carefree personality and looks naturally happy. Her hair flows dramatically in the warm ocean breeze.
+
+She wears a loose, flowing {argument name="dress color" default="coral-red/orange"} oversized dress with {argument name="pattern" default="large cream botanical and floral patterns"}, lightweight fabric, wide sleeves, and a relaxed vacation silhouette. The dress moves naturally with the wind, creating elegant flowing shapes.
+
+Place her in a {argument name="setting" default="stunning tropical coastal environment with turquoise ocean water, soft waves, golden sandy beach, lush green tropical plants, distant mountains, palm trees, and colorful flowers"}. Use rich, vibrant colors with a warm cinematic golden-hour atmosphere.
+
+Photography style: ultra-realistic editorial travel photography, cinematic composition, natural skin texture, realistic facial details, subtle film grain, soft depth of field, beautiful bokeh, volumetric sunlight, warm highlights, rich color grading, high dynamic range, realistic fabric texture, natural hair movement.
+
+Composition: full-body portrait, slightly dynamic walking pose, body turned naturally toward the camera, looking directly into the lens with a joyful smile. Capture a candid vacation moment rather than a posed studio portrait.
+
+Make the image feel colorful, dreamy, youthful, spontaneous, luxurious, and cinematic while remaining photorealistic.
+
+Avoid: distorted anatomy, extra fingers, extra limbs, duplicated body parts, malformed hands, unnatural face, plastic skin, excessive makeup, stiff posing, warped clothing patterns, floating objects, artificial-looking hair, oversaturated skin, blurry face, low detail, text, watermark, logo.
+
+Vertical portrait composition, 9:16 aspect ratio, extremely detailed, photorealistic, cinematic, vibrant tropical color palette.
+```
+
+**来源：** [@𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai/status/2092205272240738535) | 2026-08-25
+
+---
+

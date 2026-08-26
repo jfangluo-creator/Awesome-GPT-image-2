@@ -19137,3 +19137,191 @@ Contemporary mixed-media urban painting of {argument name="subject" default="a h
 
 ---
 
+### 🎨 例 6898：金色浮雕剪影艺术
+
+![金色浮雕剪影艺术](../images/%E9%87%91%E8%89%B2%E6%B5%AE%E9%9B%95%E5%89%AA%E5%BD%B1%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+双色调，浅金色与深金色，金漆浮雕剪影艺术，色彩清晰，签名文本：' {argument name="signature" default="owa days🐾"} ',
+
+[English]
+two-tone color,light golden and dark golden, gold lacquerwarel relief silhouette shadow art,clear color,signature text:' {argument name="signature" default="owa days🐾"} ',
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2092246903207694533) | 2026-08-25
+
+---
+
+### 🎨 例 6899：警用机器人与恐龙战斗场景
+
+![警用机器人与恐龙战斗场景](../images/%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E6%81%90%E9%BE%99%E6%88%98%E6%96%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="部隊名" default="警視庁重機対策課ロボット隊"}』 {argument name="シチュエーション" default="研究開発された 恐竜型ロボットとの格闘"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2092240125891870874) | 2026-08-25
+
+---
+
+### 🎨 例 6906：极简主义嘻哈女性插画
+
+![极简主义嘻哈女性插画](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%98%BB%E5%93%88%E5%A5%B3%E6%80%A7%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+精美的 {argument name="subject" default="嘻哈女性"}，佩戴着 {argument name="headwear" default="棒球帽"}，模糊效果，油画笔触，极简主义插画。背景为纯粹的 {argument name="background color" default="宝石红"}。动态的人物角度，带有运动模糊。人物以黑色和红色调为主，身穿黑色服装，与戏剧性的红色光影形成对比，突显出神秘而强大的气场。超现实主义美学，精致的氛围，丰富的深度，视觉上强烈的对比与冲突有机融合，倒影，艺术表现力，以及奢华的高级感。
+
+[English]
+Beautiful {argument name="subject" default="hip-hop woman"} wearing a {argument name="headwear" default="baseball cap"}, blurred effect, painterly brush strokes, minimalist illustration. The background is pure {argument name="background color" default="ruby red"}. Dynamic character angle with motion blur. The character is dominated by black and red tones, wearing black clothing contrasted with dramatic red lighting and shadows, emphasizing a mysterious and powerful presence. Surrealist aesthetics, sophisticated atmosphere, rich depth, visually striking contrast and conflict organically blended together, reflections, artistic expression, and a luxurious high-end feel.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2092200652780785908) | 2026-08-25
+
+---
+
+### 🎨 例 6909：GTA 风格的荷兰风景
+
+![GTA 风格的荷兰风景](../images/GTA%20%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%8D%B7%E5%85%B0%E9%A3%8E%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 GTA 6 游戏风格的图片，地点设为 {argument name="location" default="荷兰"}
+
+[English]
+Create an image of GTA 6 gameplay but in {argument name="location" default="the Netherlands"}
+```
+
+**来源：** [@Alireza Abiri](https://x.com/AlirezaAbiri99/status/2092185181192855742) | 2026-08-25
+
+---
+
+### 🎨 例 6917：写实风格酱油拉面碗
+
+![写实风格酱油拉面碗](../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E9%85%B1%E6%B2%B9%E6%8B%89%E9%9D%A2%E7%A2%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的超写实美食照片，展示一碗热气腾腾的 {argument name="dish" default="酱油拉面"}，放置在温馨拉面店的质朴木桌上。相机靠近碗身，采用略微俯视的正面角度，并使用浅景深效果：前方的拉面配料和碗沿清晰可见，而碗的后部、汤勺以及温暖的木质背景则呈现柔和的虚化效果。使用来自左上方的自然窗光，色调为温暖的棕色和金色，强调汤底的光泽感，带有轻微的蒸汽雾气，呈现出高清晰度的现代智能手机摄影风格。拉面盛放在一个带有深色斑点的陶瓷碗中，碗身呈土黑色至棕色，碗沿带有棕褐色环纹。画面中需包含 7 种清晰可见的配料或餐具元素：左侧垂直放置 1 片深绿色海苔，左前方放置 1 个切半的溏心蛋，蛋黄呈光亮的橙色，前方放置 1 片大而圆的浅色叉烧肉，汤勺附近放置 1 个带有粉色螺旋纹的白色鱼板，左后方拉面上铺有 3 条棕褐色笋干，中心堆放 1 簇切碎的青葱，右后方碗沿横放 1 把浅色陶瓷木柄拉面勺，勺中盛有琥珀色的汤汁。展示细黄面条在清澈的棕色酱油汤底中卷曲，汤面漂浮着细小的油滴。背景仅为纹理质感的木质桌面和柔和模糊的暖色调室内环境；画面中不得出现人物、文字、Logo、额外的餐具或筷子。
+
+[English]
+Create a square, ultra-realistic food photograph of a steaming bowl of {argument name="dish" default="shoyu ramen"} on a rustic wooden table in a cozy ramen shop. The camera is close to the bowl at a slightly elevated front angle, using shallow depth of field: the front ramen toppings and bowl rim are crisp while the rear of the bowl, spoon, and warm wood background fall into soft bokeh. Use natural window light from the upper left, warm brown and golden tones, glossy broth highlights, subtle steam haze, and a high-clarity modern smartphone-photo look. The ramen is served in one dark speckled ceramic bowl with an earthy black-brown glaze and tan rim rings. Include exactly 7 visible topping or serving elements: 1 large sheet of dark green nori standing vertically on the left, 1 halved soft-boiled egg with glossy orange yolk at front left, 1 large round slice of pale chashu pork at the front, 1 small white narutomaki fish cake with a pink spiral near the spoon, 3 tan bamboo shoot strips across the back-left noodles, 1 mound of sliced green scallions in the center, and 1 pale ceramic-and-wood ramen spoon resting across the right rear rim filled with amber broth. Show thin yellow noodles curling through clear brown soy broth with small oil droplets. Background is only the textured wooden tabletop and softly blurred warm interior tones; no people, no text, no logos, no extra utensils, no chopsticks.
+```
+
+**来源：** [@OGIZARU_おぎざる_](https://x.com/ogizaru_tob8000/status/2092162384827969922) | 2026-08-25
+
+---
+
+### 🎨 例 6921：日式剪纸风格旅行插画
+
+![日式剪纸风格旅行插画](../images/%E6%97%A5%E5%BC%8F%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据参考照片创作一张风格化的编辑插画，将真实的沙滩场景转化为精致的手绘剪纸风格旅行艺术作品。画面需呈现两名年轻女性在浅海上方欢快跳跃的场景，采用低角度广角视角。保留原始构图、身体姿态、服装轮廓、跳跃动作、海岸线、远处树木覆盖的岛屿、明亮的蓝天以及飞溅的水花。
+
+采用极简的日式剪纸插画风格，运用简洁的有机形状、分层平涂色彩、细腻的纸张纹理、柔和的阴影以及略带手工质感的边缘。将人物简化为优雅的插画形象，同时保持其姿态可辨：一名女性身穿深炭灰色短袖上衣和灰色百褶裙，另一名身穿黑色长袖上衣和飘逸的白色长裙。她们双臂自然上举，双腿在跳跃中向后弯曲。
+
+用柔和的分层形状取代写实纹理：淡蓝色海洋、奶油色沙滩海岸线、柔和的绿色沿海植被、暖米色高光以及清澈的粉蓝色天空。在她们脚下添加简化的白色水花，并加入细腻的远景岛屿和树木。
+
+最终图像应呈现出高端日式旅行杂志插画或手工纸艺拼贴的质感，风格宁静、怀旧、艺术且充满趣味。保持天空充足的留白，构图平衡，采用柔和的粉彩色调，轮廓清晰，通过分层纸张呈现细腻的深度感，辅以精致的阴影，展现高端编辑设计感。拒绝写实风格，拒绝 3D CGI，拒绝过多的轮廓线，拒绝杂乱，不含任何文字。
+
+垂直 4:5 构图，高分辨率，精致插画，在姿态和取景上忠实于参考图。
+
+[English]
+Create a stylized editorial illustration based on the reference photo, transforming the real beach scene into a sophisticated hand-painted cut-paper travel artwork. Show two young women joyfully jumping above shallow ocean water, captured from a low, wide perspective. Preserve the original composition, body poses, clothing silhouettes, jumping motion, shoreline, distant tree-covered island, bright blue sky, and splashing water.
+
+Use a minimalist Japanese-inspired paper-cut illustration style with clean organic shapes, layered flat colors, subtle paper grain, soft shadows, and slightly imperfect handmade edges. Simplify the people into elegant illustrated figures while keeping their poses recognizable: one woman wearing a dark charcoal short-sleeve top and gray pleated skirt, the other wearing a black long-sleeve top and flowing white skirt. Their arms are raised naturally and their legs are bent backward mid-jump.
+
+Replace realistic textures with soft layered shapes: pale blue ocean, cream sandy shoreline, muted green coastal vegetation, warm beige highlights, and a clear powder-blue sky. Add simplified white water splashes beneath their feet and subtle distant islands and trees.
+
+The final image should feel like a premium Japanese travel magazine illustration / handcrafted paper collage, calm, nostalgic, artistic, and playful. Maintain generous negative space in the sky, balanced composition, soft pastel color palette, clean silhouettes, subtle depth from layered paper, delicate shadows, high-end editorial design, no photorealism, no 3D CGI, no excessive outlines, no clutter, no text.
+
+Vertical 4:5 composition, high resolution, polished illustration, visually faithful to the reference pose and framing.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2092153512977211458) | 2026-08-25
+
+---
+
+### 🎨 例 6937：书法运动网格系统
+
+![书法运动网格系统](../images/%E4%B9%A6%E6%B3%95%E8%BF%90%E5%8A%A8%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对 {argument name="subject" default="奥林匹克运动项目"} 执行此操作：16:9 INPUT ::= {argument name="keyword" default="[主题或词汇]"}    W := derive_word(INPUT)  A := infer_actor_or_symbol(INPUT)  E := infer_defining_action(INPUT)  M := infer_reactive_medium(E, INPUT)    LAYOUT_SOLVER ::    +--------------------------------------------------------------------------------+  |                                                                                |  |       ┌─ 可容纳 A 的字形                                                        |  |       ↓                                                                        |  |    [ 字形 ]   [ 字形 ]   [ 动作字形 ]   [ 字形 ]   [ 字形 ]           |  |        A                           │                                             |  |                                    │ motion_vector(E)                           |  |                                    ▼                                             |  |                         **** 冲击 ****                                        |  |                    ╭─────────┼─────────╮                                        |  |                ≈≈≈≈≈≈≈≈≈ 反应基线 ≈≈≈≈≈≈≈≈                           |  |                                                                                |  +--------------------------------------------------------------------------------+    SEMANTIC_ASSIGNMENT ::    BODY_SLOT :=      字形，其留白/曲线/笔画最能适应 pose(A)    ACTION_SLOT :=      字形，其几何形状自然地表达 E    GROUND_SLOT :=      底部排版区域，转换为 M    FUSION ::    A.body_part       -> 字形笔画  A.gesture         -> 末端或曲线  ACTION_GLYPH      -> 运动轨迹  M.surface         -> 共享词汇基线  collision         -> 墨迹爆发  energy_propagation-> 同心标记或主题等效物    BRUSH_PHYSICS ::    stroke_width(t) ∝ pressure(t)  dryness(t)      ∝ velocity(t)  splatter        ∝ impact_force(E)  ripple_radius   ∝ elapsed_visual_time    RULES ::  - 仅保留足以理解 A 和 E 的字面细节  - 保留巨大的留白空间  - 反应标记成为整个词汇的构图支撑  - 使用不对称和稀疏的笔触瑕疵  - 如果 M 不是液体，则推断适当的反应  - 永远不要预先指定特定的字母、主体、动作或媒介
+
+[English]
+2x2 grid, do this for {argument name="subject" default="Olympics sports"}: 16:9 INPUT ::= {argument name="keyword" default="[TOPIC_OR_WORD]"}    W := derive_word(INPUT)  A := infer_actor_or_symbol(INPUT)  E := infer_defining_action(INPUT)  M := infer_reactive_medium(E, INPUT)    LAYOUT_SOLVER ::    +--------------------------------------------------------------------------------+  |                                                                                |  |       ┌─ glyph capable of holding A                                             |  |       ↓                                                                        |  |    [ GLYPH ]   [ GLYPH ]   [ ACTION_GLYPH ]   [ GLYPH ]   [ GLYPH ]           |  |        A                           │                                             |  |                                    │ motion_vector(E)                           |  |                                    ▼                                             |  |                         **** IMPACT ****                                        |  |                    ╭─────────┼─────────╮                                        |  |                ≈≈≈≈≈≈≈≈≈ reactive baseline ≈≈≈≈≈≈≈≈                           |  |                                                                                |  +--------------------------------------------------------------------------------+    SEMANTIC_ASSIGNMENT ::    BODY_SLOT :=      glyph whose counter/curve/stem best accommodates pose(A)    ACTION_SLOT :=      glyph whose geometry naturally expresses E    GROUND_SLOT :=      bottom typographic zone transformed into M    FUSION ::    A.body_part       -> glyph_stroke  A.gesture         -> terminal_or_curve  ACTION_GLYPH      -> motion_trajectory  M.surface         -> shared_word_baseline  collision         -> ink_burst  energy_propagation-> concentric_marks_or_topic_equivalent    BRUSH_PHYSICS ::    stroke_width(t) ∝ pressure(t)  dryness(t)      ∝ velocity(t)  splatter        ∝ impact_force(E)  ripple_radius   ∝ elapsed_visual_time    RULES ::  - only enough literal detail to understand A and E  - preserve huge white negative space  - reaction marks become compositional support for the entire word  - use asymmetry and sparse brush imperfections  - infer the appropriate reaction if M is not liquid  - never preassign a specific letter, actor, action, or medium
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2092070457771991118) | 2026-08-25
+
+---
+
+### 🎨 例 6938：晨光中调整凉鞋
+
+![晨光中调整凉鞋](../images/%E6%99%A8%E5%85%89%E4%B8%AD%E8%B0%83%E6%95%B4%E5%87%89%E9%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="朝窓で直すサンダル"}
+
+主体：
+画面中央、明るい大窓のそばの段差に座った女性が、うつむいて右足の細いサンダルへ手を伸ばす。淡いベージュのキャミソールと白いラップ風ショートパンツで全身が入る。
+
+人物・表情：
+女性は上体を前へ曲げ、顔を下に向けて足元を見つめる。丸みのある小顔と短い顎、伏せた細長い目、細い眉、細い鼻筋、落ち着いた赤みの唇。黒褐色の顎丈ボブは右側で耳にかかり、軽い薄前髪が額に沿う。メイクはごく薄く自然。
+
+服装・ポーズ：
+細い肩紐と深い丸首の{argument name="服の色" default="ベージュ系"}リブキャミソールトップ、右腰で大きく結んだ白いラップ風ショートパンツ。右脚を曲げて左腿に重ね、右手を足首のストラップへ下ろし、左腕は膝沿い。低いヒールの細いストラップサンダルを履く。
+
+背景・光：
+背景には画面左の白いカーテン越しの大窓、明るい石床、右奥の大きな陶器鉢と細い枝物がある。左からの朝日が肩と脚に柔らかなハイライトを作り、床に長い窓影を落とす。
+
+構図・カメラ：
+2:3の縦位置、やや高めの目線から座る全身を収め、人物にピントを合わせる。曲げた右膝が中央前景で大きく、左脚は左下へ長く伸び、室内背景は穏やかにぼける。
+
+質感・スタイル：
+淡いアイボリーと肌色で整えた自然光の実写写真。布の細い畝、石床、肌を柔らかく清潔に描く。
+
+ネガティブ：
+右足へ手を伸ばす姿勢を崩さない；顔を正面向きにしない
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2092057370641957058) | 2026-08-25
+
+---
+
+### 🎨 例 6940：月光下的银发女巫
+
+![月光下的银发女巫](../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E9%93%B6%E5%8F%91%E5%A5%B3%E5%B7%AB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="髪の色" default="銀髪"}の魔女が{argument name="月光の色" default="紫"}の月光の下で杖を掲げ、神秘的な微笑みを浮かべる。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2092043027883687951) | 2026-08-25
+
+---
+

@@ -18623,3 +18623,129 @@ Recreate the uploaded reference image as a premium editorial city poster, preser
 
 ---
 
+### 🏷️ 例 6883：动漫少女烹饪西梅
+
+![动漫少女烹饪西梅](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E7%83%B9%E9%A5%AA%E8%A5%BF%E6%A2%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖构图动漫插画，主角是 {argument name="character name" default="Ena"}，一位在明亮现代厨房中烹饪西梅的开朗年轻女性。她拥有一头飘逸的 {argument name="hair color" default="蜜金色长发"}，明亮的大眼睛，脸颊微红，带着温柔幸福的微笑。她穿着 5 件清晰可见的服饰：一件米色针织开衫、一件浅蓝色竖条纹衬衫、一条海军蓝及膝裙、粉色家居拖鞋，且未佩戴任何首饰。画面展示她站在带有电磁炉的不锈钢中岛台前，手持木勺，上方是一口盛着光泽深紫色西梅果酱的小银锅；锅底带有微弱的蒸汽和红色的加热圈。在前景中，在碗和灶台周围摆放 9 个清晰可见的散落干果：4 个深紫色西梅、3 个棕色西梅或枣子，以及 2 个红棕色皱缩干果。在台面上放置一个装有混合西梅和棕色干果的透明玻璃碗。厨房应保持整洁、明亮且阳光充足，配有瓷砖墙面、白色橱柜，左侧有一扇大窗户，窗外有柔和的绿植，窗台上摆放 3 盆小型盆栽香草，窗下设有水槽和水龙头，右上角配有不锈钢抽油烟机，开放式搁架上摆放着盘子、碗、马克杯、一个木制项目 (cutting board) 和小罐子。在右侧台面上放置一个小项目 (cutting board) 和一把刀。采用细腻的线条、柔和的赛璐珞阴影、柔和的色彩、写实的厨房透视、温暖的自然晨光以及高精度的动漫渲染。竖构图 9:16，腰部至全身视角，无文字，无水印，无多余角色。
+
+[English]
+Create a polished vertical anime illustration of {argument name="character name" default="Ena"}, a cheerful young woman cooking prunes in a bright modern kitchen. She has long flowing {argument name="hair color" default="honey-blonde hair"}, large vivid blue eyes, soft blush, and a gentle happy smile. She wears exactly 5 visible outfit pieces: a cream knit cardigan, a light blue vertically striped button-up blouse, a navy knee-length skirt, pink house slippers, and no visible jewelry. Show her standing at a stainless-steel kitchen island with an induction cooktop, holding a wooden spoon above a small silver saucepan filled with glossy dark purple prune compote; include subtle steam and a red heating ring under the pot. In the foreground, place exactly 9 visible loose dried fruits around the bowl and cooktop: 4 dark purple prunes, 3 brown dried prunes or dates, and 2 reddish-brown wrinkled dried fruits. Add one clear glass bowl filled with mixed dried prunes and brown dried fruit on the counter. The kitchen should be clean, white, and sunlit, with tiled walls, white cabinetry, a large window on the left, soft greenery outside, exactly 3 small potted herbs on the windowsill, a sink and faucet beneath the window, a stainless range hood on the upper right, and open shelves holding plates, bowls, mugs, a wooden cutting board, and small jars. Include a small cutting board with a knife on the right counter. Use delicate line art, soft cel shading, pastel colors, realistic kitchen perspective, warm natural morning light, and high-detail anime rendering. Vertical 9:16 composition, waist-to-full-body view, no text, no watermark, no extra characters.
+```
+
+**来源：** [@篝火（かがりび）＠AIイラスト](https://x.com/hiyayaxtukog68/status/2092394856564027793) | 2026-08-25
+
+---
+
+### 🏷️ 例 6884：暗黑超现实主义图书馆档案
+
+![暗黑超现实主义图书馆档案](../images/%E6%9A%97%E9%BB%91%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%A1%A3%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在巨大的地下档案库中创作一个原创的心理暗黑超现实主义场景。无尽的黑色密封书籍书架像摩天大楼一样耸立，消失在迷雾中。在中央过道，一个身着骨白色服装的孤独人类身影跪在地上的一本打开的书前。书页上没有任何文字。从空白的书页中升起一个完全由浓重黑烟组成的精致真人大小身影，与跪着的人面对面。烟雾身影没有眼睛或嘴巴；相反，它的胸口有一个小小的深红色锁闭之门。细线将那扇门与跪着的人的手相连，暗示着一个终于被承认的秘密自我。
+
+9:16 垂直构图，高耸的书架营造出狭窄对称的峡谷，高角度的冷银色光束，两个身影位于画面下方中心，上方是巨大的压迫感。黑色纸张、陈旧的石头、漂浮的灰烬、体积雾、微妙的地板反射、优质的写实暗黑概念艺术、精致的编辑构图，强调安静的恐惧和内省，而非恐怖奇观。
+
+调色板：黑曜石黑、石墨色、骨白色、冷银色，在微小的门处有一抹柔和的深红色点缀。
+
+约束条件：完全原创的隐喻；空白的书页绝对没有任何文字；没有可辨认的人脸；没有文字、符号、标志、签名、边框或水印。
+
+避免：可见的字母或符文、肖像特写、分裂的面孔、皮肤上的黑色物质、发光的眼睛、血腥、骷髅、传统的鬼魂、奇幻巫师风格、模仿任何知名艺术家。
+
+[English]
+Create an original psychological dark-surrealist scene in a colossal underground archive. Endless shelves of sealed black books rise like skyscrapers and vanish into fog. In the central aisle, a solitary human figure in bone-white clothing kneels before one open book on the floor. No words are visible. From the blank pages rises a delicate life-size figure made entirely of dense black smoke, standing face-to-face with the kneeling person. The smoke figure has no eyes or mouth; instead, its chest contains a small locked crimson door. Thin threads connect that door to the kneeling person’s hands, suggesting a secret self finally acknowledged.
+
+Vertical 9:16 framing, towering shelves create a narrow symmetrical canyon, high-angle shaft of cold silver light, the two figures positioned small in the lower center, immense oppressive scale above them. Black paper, aged stone, floating ash, volumetric fog, subtle polished-floor reflections, premium photorealistic dark concept art, refined editorial composition, quiet dread and introspection rather than horror spectacle.
+
+Color palette: obsidian black, graphite, bone white, cold silver, a single muted crimson accent at the tiny door.
+
+Constraints: entirely original metaphor; blank book pages with absolutely no writing; no recognizable person; no text, symbols, logos, signatures, borders, or watermark.
+
+Avoid: visible letters or runes, portrait close-up, split face, black substance on skin, glowing eyes, gore, skulls, conventional ghosts, fantasy wizard styling, imitation of any named artist.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2092390329890849163) | 2026-08-25
+
+---
+
+### 🏷️ 例 6885：吉隆坡中环车站的动漫风黎明
+
+![吉隆坡中环车站的动漫风黎明](../images/%E5%90%89%E9%9A%86%E5%9D%A1%E4%B8%AD%E7%8E%AF%E8%BD%A6%E7%AB%99%E7%9A%84%E5%8A%A8%E6%BC%AB%E9%A3%8E%E9%BB%8E%E6%98%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖屏动漫风格的电影感城市景观图，时间设定在日出前的蓝调时刻，从高处俯瞰 {argument name="location" default="Kuala Lumpur Sentral"}。构图为 9:16 纵向画幅，下半部分为多层玻璃钢结构的交通枢纽/车站综合体及高架人行道，上半部分为广阔的深靛蓝色天空。车站外立面需包含 3 个清晰可见的发光标识：白色小写字母且带有蓝色光晕的“nu sentral”，以及蓝色标牌上的“KUALA LUMPUR”和“SENTRAL”。车站后方展示约 10 座高度不一的深色高层建筑，窗户透出零星的暖黄色灯光。天空中，左上方可见一弯细细的月牙，背景布满繁星，并伴有深色的油画质感紫蓝色云带，地平线处透出淡淡的粉色晨光。车站内部散发出暖琥珀色光芒，透过巨大的玻璃幕墙可以看到通勤者的剪影和结构梁。前景增加湿润的反射面，橙色、蓝色和黄色的灯光在深色水面或雨后湿滑的路面上闪烁。使用 {argument name="visual style" default="细腻的日本动漫背景艺术"}，强调丰富的对比度、清晰的建筑线条、忧郁的夜色、发光的窗户、微妙的大气雾感以及宁静忧伤的黎明氛围。画面中不包含近景人物，不以汽车为主要主体，无水印，除指定的 3 个标识外不包含任何额外文字。
+
+[English]
+Create a tall vertical anime-style cinematic cityscape at blue hour just before sunrise, showing {argument name="location" default="Kuala Lumpur Sentral"} from an elevated viewpoint. The composition is a 9:16 portrait frame with the lower half filled by a multi-level glass-and-steel transit mall/station complex and elevated walkways, and the upper half dominated by a vast deep indigo sky. Include exactly 3 prominent readable illuminated signs on the station facade: “nu sentral” in white lowercase letters with a blue glow, “KUALA LUMPUR” on a blue sign panel, and “SENTRAL” on a matching blue sign panel. Behind the station, show about 10 dark high-rise towers of varying heights with many tiny warm yellow lit windows. The sky should contain a small thin crescent moon near the upper center-left and hundreds of tiny stars, with dark painterly purple-blue cloud streaks and faint pink dawn light near the horizon. The station interior should glow with warm amber light, revealing silhouettes of commuters and structural beams through large glass panels. Add wet reflective surfaces in the foreground, with orange, blue, and yellow light reflections shimmering across dark water or rain-slick pavement. Use {argument name="visual style" default="detailed Japanese anime background art"}, rich contrast, crisp architectural linework, moody nocturnal colors, glowing windows, subtle atmospheric haze, and a quiet melancholic dawn mood. No characters in close-up, no cars as the main subject, no watermark, no extra text beyond the 3 specified signs.
+```
+
+**来源：** [@徘徊家出-はいかいいえで-](https://x.com/YesorNo_wander/status/2092371442591736123) | 2026-08-25
+
+---
+
+### 🏷️ 例 6912：复古未来主义丝网印刷风格车辆插画
+
+![复古未来主义丝网印刷风格车辆插画](../images/%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7%E9%A3%8E%E6%A0%BC%E8%BD%A6%E8%BE%86%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古未来主义丝网印刷风格插画，描绘了一款灵感源自 {argument name="brand" default="[品牌]"} 的 {argument name="vehicle" default="[车辆]"} 概念车，正疾驰穿过巨大的流动图形曲线和抽象的高速道路形态。采用动态 3/4 视角，空气动力学车身设计，极具侵略性的姿态和复古赛车美学，风格化的运动轨迹融入环境之中，营造出一种无需真实动态模糊的高速感。构图简约而富有戏剧性，由分层的曲线带和负空间构成。复古现代主义海报美学，平滑的喷绘渐变，清晰的矢量感表面，细腻的印刷颗粒感，柔和的纸张纹理。配色方案仅限于 {argument name="colors" default="[颜色 1]、[颜色 2]、[颜色 3] 和 [颜色 4]"}。优雅的丝网印刷质感，4:5 竖构图。
+
+[English]
+Futurist retro-serigraph illustration of a {argument name="brand" default="[BRAND]"}-inspired {argument name="vehicle" default="[VEHICLE]"} concept speeding through giant flowing graphic curves and abstract high-speed road forms, dynamic 3/4 perspective, aerodynamic bodywork, aggressive stance and retro motorsport aesthetic, stylized motion trails integrated into the environment, sensation of high speed without realistic motion blur. Minimal but dramatic composition made from layered curved bands and negative space. Vintage modernist poster aesthetic, smooth airbrushed gradients, crisp vector-like surfaces, subtle print grain, soft paper texture. Color palette restricted to {argument name="colors" default="[COLOR 1], [COLOR 2], [COLOR 3] and [COLOR 4]"} only. Elegant screenprint finish, vertical composition 4:5
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2092180120576610728) | 2026-08-25
+
+---
+
+### 🏷️ 例 6918：角色性格川柳生成
+
+![角色性格川柳生成](../images/%E8%A7%92%E8%89%B2%E6%80%A7%E6%A0%BC%E5%B7%9D%E6%9F%B3%E7%94%9F%E6%88%90.jpg)
+
+**Prompt:**
+
+```text
+添付されたキャラクターの{argument name="キャラクターの特徴" default="見た目・服装・表情・雰囲気"}から性格を想像し、**「このキャラが読んでそうな、{argument name="川柳の雰囲気" default="くだらなくてちょっと笑える"}川柳」**を1つ考えて、その川柳を使った画像を生成してください。
+
+川柳
+
+* 5・7・5を基本とする
+* キャラクターが実際に考えそうな内容にする
+* シュール、しょうもない、ゆるい、ちょっと残念など、思わずクスッとする内容
+* 難しい言葉や文学的すぎる表現は避ける
+* キャラクターの見た目とのギャップが面白くなる内容も歓迎
+* 川柳そのものも画像生成時に自動で考える
+
+画像構成
+
+* 添付キャラクターのデザイン・顔・髪型・衣装・アクセサリー・配色などの特徴を忠実に維持する
+* 川柳を縦書きで大きく配置
+* キャラクター本人が書いたような、少し個性のある手書き・筆文字風
+* 文字は日本語として正確かつ読みやすくする
+* 川柳が画像の主役としてしっかり目立つレイアウト
+* 画面右下に、添付キャラクター本人が筆でその川柳を書いている姿を配置
+* キャラクターのそばに筆、墨、硯、半紙などの書道道具を自然に配置
+* 書いている本人は妙に真剣な表情にして、川柳のくだらなさとのギャップを出す
+* 元キャラクターの世界観やカラーリングに合わせて全体をデザインする
+* 必要に応じてハート、星、小物など、そのキャラクターらしい装飾を控えめに加える
+
+**「見た目はめちゃくちゃ本気なのに、書いてある川柳だけ異様にくだらない」**というギャップが一番面白く見えるように仕上げてください。
+```
+
+**来源：** [@rui｜∫varts (シュバルツ)](https://x.com/varts_works/status/2092160746180448751) | 2026-08-25
+
+---
+

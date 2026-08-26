@@ -14386,3 +14386,77 @@ Typography should be small, refined, widely spaced, minimal and perfectly aligne
 
 ---
 
+### 🖥️ 例 6891：悬浮微缩世界旅行海报
+
+![悬浮微缩世界旅行海报](../images/%E6%82%AC%E6%B5%AE%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅引人注目的 4:5 竖版概念艺术作品，将 {argument name="location" default="城市 / 国家"} 转化为一个悬浮在深邃极简天空中的微型世界。
+
+将 {argument name="location" default="城市 / 国家"} 的整体特征完美包裹在一个小型球状星球上，其最具辨识度的地标、建筑、文化、景观、街道、美食、交通、自然和日常细节自然地贴合微缩世界的曲率。
+
+让这个球体在物理上显得真实且细节丰富，宛如一个栩栩如生的精致手工透视模型。微小的道路、建筑、车辆、火车、人物、树木和文化元素应自然融合，而非随意堆砌。
+
+添加一个超现实且令人难忘的标志性元素，以体现 {argument name="location" default="城市 / 国家"} 的性格——视觉上出人意料、优雅且极具传播力。
+
+运用电影级光影、大气深度、微缩模型写实感、微妙的超现实主义、清晰的细节、逼真的纹理、精致的构图以及高级的编辑海报美学。
+
+保持背景简洁、深邃且极简，使悬浮世界成为绝对的主角。通过添加一个在外部观察微缩世界的小人影，营造出强烈的比例感。
+
+作品应呈现出优美、神秘、梦幻、电影感、高级感，并具有极高的可缩放性，无数微小的细节值得细细品味。
+
+极简排版：
+
+{argument name="location" default="城市 / 国家"}
+{argument name="tagline" default="简短的电影级标语"}
+
+拒绝平庸的旅行海报布局，拒绝扁平化的拼贴，拒绝通用的地标排列。创造一个新颖、具有病毒式传播潜力、艺术感强且一眼即识的原创视觉概念。
+
+[English]
+Create a striking vertical 4:5 conceptual artwork featuring {argument name="location" default="CITY / COUNTRY"} transformed into a tiny floating world, suspended in a vast deep minimal sky.
+
+The entire identity of {argument name="location" default="CITY / COUNTRY"} is beautifully wrapped around a small spherical planet, with its most recognizable landmarks, architecture, culture, landscapes, streets, food, transportation, nature, and everyday details naturally following the curvature of the miniature world.
+
+Make the sphere feel physically believable and richly detailed, like an intricate handcrafted diorama brought to life. Tiny roads, buildings, vehicles, trains, people, trees, and cultural elements should feel naturally integrated rather than randomly placed.
+
+Add one surreal, memorable signature element that represents the character of {argument name="location" default="CITY / COUNTRY"} — something visually unexpected, elegant, and instantly shareable.
+
+Use cinematic lighting, atmospheric depth, miniature-diorama realism, subtle surrealism, crisp details, realistic textures, sophisticated composition, and premium editorial poster aesthetics.
+
+Keep the background clean, dark, and minimal so the floating world remains the unmistakable hero. Create a strong sense of scale by adding a tiny human figure observing the miniature world from outside.
+
+The artwork should feel beautiful, mysterious, dreamy, cinematic, premium, and highly zoomable, with countless tiny details that reward closer inspection.
+
+Minimal typography:
+
+{argument name="location" default="CITY / COUNTRY"}
+{argument name="tagline" default="SHORT CINEMATIC TAGLINE"}
+
+No ordinary travel-poster layout, no flat collage, no generic landmark arrangement. Create an original visual concept that feels fresh, viral-worthy, artistic, and instantly recognizable.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2092282611473518730) | 2026-08-25
+
+---
+
+### 🖥️ 例 6934：奢华时尚大片背景替换
+
+![奢华时尚大片背景替换](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E8%83%8C%E6%99%AF%E6%9B%BF%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为参考，创作一张照片级逼真的人像。保持男性的面部、发型、胡须、身体比例、服装、姿势和整体外观不变。将现有的湖泊和山脉背景替换为精致的 {argument name="background" default="深绿色与黑色渐变背景"}，呈现细腻的深祖母绿基调、柔和的黑色阴影、电影般的景深以及高端奢华的氛围。在主体周围添加柔和的影棚级轮廓光，并在头发和肩膀边缘加入淡淡的绿色高光。保持主体清晰对焦，同时背景保持平滑的虚化效果与氛围感。高端时尚大片摄影，真实的皮肤纹理，自然光效，戏剧性对比，优雅的男性审美，4K 细节。
+
+[English]
+Create a photorealistic portrait using the uploaded image as the reference. Keep the man’s face, hairstyle, beard, body proportions, clothing, pose, and overall appearance unchanged. Replace the existing lake and mountain background with a {argument name="background style" default="sophisticated deep green and black gradient background"}, featuring subtle dark emerald tones, soft black shadows, cinematic depth, and a premium luxury atmosphere. Add {argument name="rim lighting" default="gentle studio-style rim lighting"} around the subject, with soft green highlights along the edges of his hair and shoulders. Keep the subject sharply focused while the background remains smoothly blurred and atmospheric. High-end fashion editorial photography, realistic skin texture, natural lighting, dramatic contrast, elegant masculine aesthetic, 4K detail.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2092088364958953815) | 2026-08-25
+
+---
+

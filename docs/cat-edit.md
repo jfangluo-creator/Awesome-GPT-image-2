@@ -3899,3 +3899,21 @@ Preserve the original scene, composition, perspective, buildings, streets, objec
 
 ---
 
+### 🔧 例 6896：超高分辨率照片修复
+
+![超高分辨率照片修复](../images/%E8%B6%85%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+对上传的图像进行超高分辨率修复，同时精确保留原图的身份特征、姿势、构图、取景和光影。自然地恢复逼真的面部细节、发丝、皮肤纹理、衣物材质及背景细节，避免生成虚假特征。在保持图像真实感并忠于原图的前提下，去除压缩伪影、模糊、数字噪点及低分辨率带来的柔化感。严格保持原始色彩和光照方向。拒绝 AI 生成感、美颜滤镜、过度锐化及虚假细节。提供专业、逼真的 4K 增强效果，并实现自然的纹理保留。
+
+[English]
+Ultra high-resolution restoration of the uploaded image while preserving the exact identity, pose, framing, composition, and lighting. Recover realistic facial details, hair strands, skin texture, clothing texture, and background detail naturally without hallucinating new features. Remove compression artifacts, blur, digital noise, and low-resolution softness while keeping the image photorealistic and true to the original. Maintain original colors and lighting direction exactly. No AI-generated look, no beauty filter, no over-sharpening, no fake details. Professional realistic 4K enhancement with natural texture preservation.
+```
+
+**来源：** [@gorilla | 고릴라](https://x.com/gorillax1000/status/2092256444171321390) | 2026-08-25
+
+---
+
