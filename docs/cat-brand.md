@@ -18749,3 +18749,63 @@ Futurist retro-serigraph illustration of a {argument name="brand" default="[BRAN
 
 ---
 
+### 🏷️ 例 6943：元气满满的 AI-Tuber 动漫少女
+
+![元气满满的 AI-Tuber 动漫少女](../images/%E5%85%83%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%20AI-Tuber%20%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张背景透明或纯白、构图为半身的精致动漫风格角色插画。主体是一位元气满满的年轻女性 AI-Tuber 偶像，留着 {argument name="hair color" default="深亮紫色"} 的高侧马尾，发丝飘逸且带有光泽感，拥有琥珀金色的双眸、灿烂的露齿笑容、淡淡的腮红，姿态友好且热情。她身体略微朝向观众，位于画布右侧，左臂向左侧伸展，手掌张开，仿佛正在展示某物。她身穿一件青色 T 恤，上面印有醒目的白色文字 {argument name="shirt text" default="AITuber"}，下摆束进高腰浅色牛仔短裤或长裤中，外搭一件亮青色的大廓形蓬松夹克，夹克上有粉色的大圆贴片和宽大的蓝色袖口。添加 3 种可见的配饰：刘海上印有 {argument name="hair clip text" default="AI"} 字样的黄色发夹、单耳上佩戴的多个小金圈耳环，以及束住马尾的深色发圈。采用精致的现代日系动漫渲染风格，线条清晰，色彩鲜艳饱和，使用柔和的赛璐珞阴影，发丝细节丰富，眼睛明亮，肤色干净，呈现出轻快活泼的 VTuber 主视觉质感。保持背景简洁、无杂物，适合进行透明化处理；无需背景场景，无需额外角色，禁止添加水印。
+
+[English]
+Create a clean anime-style character illustration on a transparent or plain white background, waist-up composition. The subject is a cheerful young female AI-tuber idol with {argument name="hair color" default="deep vivid purple"} hair tied in a high side ponytail with loose flowing strands and glossy highlights, golden amber eyes, a bright open smile, light blush, and a friendly welcoming pose. She faces slightly toward the viewer, positioned more to the right side of the canvas, with her left arm extended toward the left and her palm open as if presenting something. She wears a teal T-shirt with large white text reading {argument name="shirt text" default="AITuber"}, tucked into high-waisted pale denim shorts or jeans, plus an oversized puffy jacket in bright cyan with large pink rounded patches and wide blue cuffs. Add exactly 3 visible accessory types: a yellow hair clip on her bangs reading {argument name="hair clip text" default="AI"}, multiple small gold hoop earrings along one ear, and a dark scrunchie holding the ponytail. Use polished modern Japanese anime rendering, crisp line art, vibrant saturated colors, soft cel-shading, detailed hair strands, shiny eyes, clean skin tones, and a light energetic VTuber key visual feel. Keep the background empty, uncluttered, and suitable for transparency; no scenery, no extra characters, no watermark.
+```
+
+**来源：** [@ニケちゃん](https://x.com/tegnike/status/2092926879837618219) | 2026-08-27
+
+---
+
+### 🏷️ 例 6958：动漫剑士少女角色设定图
+
+![动漫剑士少女角色设定图](../images/%E5%8A%A8%E6%BC%AB%E5%89%91%E5%A3%AB%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位街头风少女剑士"} 创建一张全身动漫角色参考图，在同一画面中精确展示 3 个正交视图：左侧为正面，中间为背面，右侧为右侧面。
+
+画布：宽屏 16:9 构图，简洁的角色设定图布局，无边框、无 UI、无标签、无文字。采用电影质感的动漫绘画风格，线条清晰，衣褶细节丰富，带有柔和的赛璐珞阴影，营造出一种略带怀旧感的都市奇幻氛围。
+
+角色：一位身材苗条的少女，皮肤白皙，留着短直的 {argument name="hair color" default="黑色"} 波波头，带有刘海，表情冷静，嘴里叼着一根香烟或细棒棒糖。她身穿一件超大款 {argument name="jacket color" default="蓝色"} 飞行员夹克，袖子上有红米相间的图案，配有红色罗纹袖口和下摆以及星星补丁，内搭米色连帽卫衣，穿着带有图案补丁和侧边条纹的黑色慢跑裤，露出脚踝，脚蹬厚底蓝色运动鞋。在正面和侧面视图中，双手插在口袋里。
+
+配饰与道具：包含 2 把带鞘武士刀，刀柄为黑红配色，配有金色刀镡，斜背在角色身后；在 3 个视图中，刀的位置必须保持一致。总共包含 7 个可爱的毛绒配饰：正面视图中左手挂着 1 个粉色毛绒玩具，背面视图中背包上挂着 2 个毛绒吉祥物，侧面视图中背包上悬挂着 4 个小型毛绒钥匙扣。背包为黑色，带有明显的肩带、拉链头、悬挂链条，背板上有 4 个色彩鲜艳的贴纸式补丁。
+
+布局细节：正面视图中角色姿态放松，面向前方，双腿分开，超大款夹克敞开，露出里面的连帽卫衣。背面视图强调黑色背包、兜帽、夹克袖子图案、刀鞘以及悬挂的毛绒吉祥物。侧面视图强调背包的深度、悬挂的钥匙扣、香烟/棒棒糖的轮廓以及向下延伸的刀鞘。
+
+背景：简洁且具有氛围感的户外背景，而非空白背景：深蓝色的天空点缀着几朵柔和的云彩，地平线附近有低矮的灌木和干枯的植物，左侧前景有一块小石头，右侧有粉色开花灌木，脚下是尘土飞扬的地面。背景应保持低调，以确保 3 个角色视图始终是视觉焦点。
+
+约束条件：确保 3 个视图中的角色设计完全一致，保持比例准确和服装连贯性，避免出现额外角色、额外武士刀、额外毛绒玩具，禁止出现文字、标志和水印。
+
+[English]
+Goal: Create a full-body anime character reference sheet for {argument name="character name" default="a teenage streetwear sword girl"}, showing the same character in exactly 3 orthographic views: front view on the left, back view in the center, and right-side profile view on the right.
+
+Canvas: Wide horizontal 16:9 composition, clean character-sheet layout with no borders, no UI, no labels, and no text. Use a cinematic painted anime style with crisp linework, detailed clothing folds, soft cel shading, and a slightly nostalgic urban-fantasy mood.
+
+Character: A slim teenage girl with pale skin, short straight {argument name="hair color" default="black"} bob hair with bangs, calm expression, and a cigarette or thin lollipop stick held in her mouth. She wears an oversized {argument name="jacket color" default="blue"} bomber jacket with red-and-cream patterned sleeves, red ribbed cuffs and hem, star patches, a cream hooded sweatshirt underneath, black jogger pants with graphic patches and side stripes, cropped ankles, and chunky blue sneakers. Hands are in pockets in the front and side views.
+
+Accessories and props: Include exactly 2 sheathed katana swords with black-and-red handles and gold guards, worn diagonally behind the character; their placement must remain consistent across the 3 views. Include exactly 7 cute plush accessories total: 1 pink plush toy hanging from the character's left hand in the front view, 2 plush mascots attached to the backpack in the back view, and 4 small plush keychains dangling from the backpack in the side view. The backpack is black with visible straps, zipper pulls, dangling chains, and exactly 4 colorful sticker-like patches on the back panel.
+
+Layout details: The front view stands relaxed facing forward, legs apart, oversized jacket open enough to show the hoodie. The back view emphasizes the black backpack, hood, jacket sleeve pattern, sword scabbards, and dangling plush mascots. The side profile emphasizes the backpack depth, hanging keychains, cigarette/lollipop stick silhouette, and the sheathed sword extending downward.
+
+Background: Simple atmospheric outdoor background, not a blank white sheet: deep blue sky with a few soft clouds, low bushes and dry plants near the horizon, a small rock on the left foreground, pink flowering shrubs on the right, dusty ground underfoot. Keep the background subdued so the 3 character views remain the focus.
+
+Constraints: Keep the character design identical across all 3 views, maintain accurate proportions and outfit continuity, avoid extra characters, avoid extra swords, avoid extra plush toys, avoid text, avoid logos, avoid watermark.
+```
+
+**来源：** [@うきよ 🎴投票心からお礼を申し上げます🙇](https://x.com/Ukiyo_il/status/2092809330009752022) | 2026-08-27
+
+---
+

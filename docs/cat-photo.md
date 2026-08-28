@@ -61370,3 +61370,195 @@ A high-fashion cinematic portrait of a young {argument name="ethnicity" default=
 
 ---
 
+### 📷 例 6945：夜间骑马篝火抓拍照片
+
+![夜间骑马篝火抓拍照片](../images/%E5%A4%9C%E9%97%B4%E9%AA%91%E9%A9%AC%E7%AF%9D%E7%81%AB%E6%8A%93%E6%8B%8D%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张原始、自然的竖版 iPhone 夜间抓拍照片，主角为 {argument name="subject" default="一位 35 岁、肤色红润的欧洲男性"}，他正骑在 {argument name="horse color" default="一匹白灰色马"} 上，身处黑暗森林中的小型篝火聚会旁。男子位于画面中心偏右，采用近距离中低角度拍摄，无鞍或使用深色马鞍骑行，双手握着黑色缰绳。他正处于大笑中，露出牙齿，看向画面左侧的朋友，神态轻松且富有魅力。他留着凌乱的棕色头发，留着浅浅的胡茬，皮肤黝黑，身穿一件米白色亚麻衬衫，内搭奶油色针织 T 恤，下身穿蓝色牛仔裤，佩戴深色手表。马头占据右侧前景，截取至口鼻部和颈部，可见耳朵、鬃毛、笼头、缰绳以及皮毛上柔软的灰色斑点。在左侧背景中，准确展示三位围坐在篝火旁的朋友：最左侧是一位身穿浅色衬衫的人正在微笑，中间后方是一位深色头发的人拿着饮料，靠近火堆处是一位身穿深色衬衫的男子正在大笑。在发光的炭火上方加入一个小烤架，火焰升腾，烟雾向上飘散，附近摆放着餐盘或露营食物，左下角前景处有一盏温暖的灯笼在发光。使用 {argument name="lighting" default="深黑色森林阴影下的温暖火光和灯笼光"}，带有细微的动态模糊、高 ISO 噪点、不完美的手机闪光灯/低光曝光、真实的皮肤纹理、抓拍构图、浅景深，避免任何摆拍的影棚感。纵横比为竖版 2:3，超写实，色彩自然，无文字，无水印。
+
+[English]
+Create a raw candid vertical iPhone night photograph of {argument name="subject" default="a 35-year-old European man with a sun-kissed glow"} sitting on a {argument name="horse color" default="white-gray horse"} beside a small campfire gathering in a dark forest. The man is centered slightly right, photographed from close range at a low-to-mid angle, riding bareback or in a dark saddle, holding black reins with both hands. He is caught mid-laugh with teeth visible, looking off-camera to the left toward friends, relaxed and charismatic. He has tousled brown hair, light stubble, tanned skin, and wears an open off-white linen button-up shirt over a cream knit T-shirt, blue jeans, and a dark wristwatch. The horse’s head fills the right foreground, cropped at the muzzle and neck, with visible ears, mane, bridle, reins, and soft gray speckling on its coat. In the left background, show exactly three friends seated low around a campfire: one person in a pale shirt at far left smiling, one dark-haired person behind center holding a drink, and one blond man in a dark shirt laughing near the fire. Include a small grill over glowing coals with flames, smoke drifting upward, plates or camp food nearby, and one warm lantern glowing at the bottom left foreground. Use {argument name="lighting" default="warm firelight and lantern light against deep black forest shadows"}, subtle motion blur, high ISO grain, imperfect phone flash/low-light exposure, realistic skin texture, candid composition, shallow depth of field, and no posed studio look. Aspect ratio vertical 2:3, hyper-realistic, natural colors, no text, no watermark.
+```
+
+**来源：** [@Artificial Studio](https://x.com/ArtificialStudi/status/2092909680750203175) | 2026-08-27
+
+---
+
+### 📷 例 6947：日式咖啡馆记忆手账页面
+
+![日式咖啡馆记忆手账页面](../images/%E6%97%A5%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E8%AE%B0%E5%BF%86%E6%89%8B%E8%B4%A6%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级编辑风格的“记忆手账”页面，将真实的日常生活摄影与同一瞬间的手绘插画结合起来。使用 4:5 的竖构图，通过对角线或垂直线将其分为两个互补的部分：左侧是一张温暖、自然、带有轻微胶片颗粒感的 {argument name="scene" default="日式咖啡馆场景"} 照片，展示木桌上摆放精美的食物或甜点与咖啡，呈现真实的咖啡馆环境细节、柔和的窗光、浅景深以及微妙的怀旧色调；右侧是一个极简主义的 {argument name="art style" default="手绘水彩/彩色铅笔插画"}，用细腻且带有不完美感的墨线、柔和的大地色系、可见的纸张纹理以及手工艺术感重现同样的食物与饮品。右侧大部分区域保留温暖的象牙色纹理纸张，并留出充足的负空间。在插画下方，添加小巧的打字机风格存档文字，内容包含 {argument name="location and date" default="日本东京 / No. 0018 / 咖啡 / 吐司 / 静谧时光 / 2026"}。整体设计应呈现出精心策划的日本旅行日记、咖啡馆记忆档案、现代剪贴簿和复古生活杂志的质感，采用精致的编辑排版、暖奶油色纸张、柔和的青色、棕色、米色及灰调色彩，辅以细腻的颗粒感、不完美的印刷效果、低调的排版、真实的纸张触感、优雅的极简主义，将照片级写实摄影与手工插画无缝融合，细节丰富，视觉叙事连贯，无 Logo，无水印。
+
+[English]
+Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a {argument name="scene" default="Japanese café scene"}, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist {argument name="art style" default="hand-painted watercolor/colored-pencil illustration"} recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the {argument name="location and date" default="Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026"}. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2092872822507151625) | 2026-08-27
+
+---
+
+### 📷 例 6948：黑白宠物工作室肖像
+
+![黑白宠物工作室肖像](../images/%E9%BB%91%E7%99%BD%E5%AE%A0%E7%89%A9%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用附件参考图中的人物，创作一张超写实的 9:16 黑白工作室肖像。保留其准确的面部特征、五官、胡须、比例、表情以及自然的皮肤纹理。人物坐在极简主义的工作室地板上，怀抱着一只 {argument name="pet" default="大型家猫"}。一条腿弯曲向身体靠拢，另一条腿沿地板对角线伸展。一只手臂托住猫咪，另一只手放在抬起的膝盖上，头部微微向手臂一侧倾斜。人物和猫咪均直视镜头。保持姿势自然、放松、亲密且具有编辑风格。穿着 {argument name="top clothing" default="轻薄宽松的棉质 T 恤"} 和 {argument name="bottom clothing" default="深色质感牛仔裤"}。保留可见的纹身、逼真的织物褶皱、接缝和自然皱纹。使用柔和的侧前向工作室灯光，营造平滑的阴影和自然的亮部。背景保持干净、明亮、简洁，呈现无缝背景墙效果。超写实 RAW 摄影，焦点清晰，逼真的皮肤微纹理，细腻的毛发，自然的解剖结构，逼真的织物纹理，丰富的灰度色调，自然的阴影，纪录片式时尚编辑风格，8K 细节。禁止使用 CGI、塑料感皮肤、皮肤平滑处理、美颜滤镜、过度修图、解剖结构扭曲、多余的手指或肢体、添加家具、配饰或背景物体。
+
+[English]
+Create an ultra-realistic black-and-white 9:16 studio portrait using the person from the attached reference image. Preserve their exact facial identity, facial features, beard, mustache, proportions, expression, and natural skin texture. The person is sitting on a minimalist studio floor, holding a {argument name="pet" default="large domestic cat"}. One leg is bent toward the body and the other extends diagonally along the floor. One arm supports the cat while the other rests on the raised knee, with the head slightly tilted toward the arm. The person and cat both look directly into the camera. Keep the pose natural, relaxed, intimate, and slightly editorial. Use a {argument name="top clothing" default="light, loose cotton T-shirt"} and {argument name="bottom clothing" default="dark textured denim jeans"}. Preserve visible tattoos, realistic fabric folds, seams, and natural wrinkles. Use soft frontal-side studio lighting with smooth shadows and natural highlights. Keep the background clean, light, plain, and cyclorama-like. Ultra realistic RAW photography, sharp focus, realistic skin microtexture, detailed fur, natural anatomy, realistic fabric texture, rich grayscale tones, natural shadows, documentary-style fashion editorial, 8K detail. No CGI, plastic skin, skin smoothing, beauty filters, excessive retouching, distorted anatomy, extra fingers or limbs, added furniture, accessories, or background objects.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2092848156002390123) | 2026-08-27
+
+---
+
+### 📷 例 6951：真实的夜间阳台手机抓拍照片
+
+![真实的夜间阳台手机抓拍照片](../images/%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%A4%9C%E9%97%B4%E9%98%B3%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8A%93%E6%8B%8D%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张看起来非常真实的夜间手机照片，拍摄了一位 {argument name="subject" default="年轻东亚女性"} 随意地站在 {argument name="location" default="小型公寓阳台或露台"} 上，由朋友用现代智能手机随手抓拍。她留着 {argument name="hair style" default="中长深棕色头发，随意扎成轻松的半扎发造型"}，几缕发丝散落在脸颊和额头前。她穿着一件简约修身的白色短袖高领上衣和深色休闲裤，单肩背着一个黑色单肩包。她自然地面对镜头，带着自信柔和的微笑，微微歪着头，直视镜头。附近壁灯发出的暖光投射在她脸部和头发的一侧，营造出舒适的金色光晕，而场景的其他部分自然地融入深沉的夜色中。墙边摆放着几株绿植，她身后的深色窗户或阳台开口处隐约可见远处的城市灯光。让这张照片感觉完全是随手抓拍且充满个人色彩：手持手机构图、曝光略有不均、轻微的暗光噪点、自然的自动对焦柔化、真实的阴影、自然的皮肤纹理、细小的碎发、普通的背景瑕疵、柔和的暖色调，没有专业布光，没有影棚设置，没有电影级调色，没有美颜滤镜，没有过度修图。地道的日常手机拍摄画质，私密的夜间氛围，真实的比例，竖构图人像，看起来就像一张真实的手机快照。
+
+[English]
+A genuine-looking nighttime phone photo of a {argument name="subject" default="young East Asian woman"} standing casually on a {argument name="location" default="small apartment balcony or terrace"}, captured spontaneously by a friend on a modern smartphone. She has {argument name="hair style" default="medium-length dark brown hair tied loosely into a relaxed half-up style"}, with wispy strands falling around her cheeks and forehead. She wears a simple fitted white short-sleeve high-neck top and dark casual bottoms, with a black shoulder bag strap visible over one shoulder. She faces the camera naturally with a soft confident smile and a slightly tilted head, looking directly into the lens. Warm light from a nearby wall lamp falls across one side of her face and hair, creating a cozy golden glow, while the rest of the scene fades naturally into deep nighttime shadows. A few green plants sit beside the wall, and a dark window or balcony opening behind her reveals blurry city lights in the distance. Make the photograph feel completely unplanned and personal: handheld smartphone framing, slightly uneven exposure, mild low-light grain, subtle autofocus softness, realistic shadows, natural skin texture, tiny hair flyaways, ordinary background imperfections, gentle warm color cast, no professional lighting, no studio setup, no cinematic grading, no beauty filter, no excessive retouching. Authentic everyday mobile-camera quality, intimate nighttime atmosphere, realistic proportions, vertical portrait photo, highly believable as an actual phone snapshot.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2092830075355857396) | 2026-08-27
+
+---
+
+### 📷 例 6952：电影感黑色电影风格男性肖像
+
+![电影感黑色电影风格男性肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的电影感肖像，主角为一位引人注目的 {argument name="subject" default="20 岁出头的年轻男子"}，灵感源自参考图像中戏剧性的低角度构图、暗黑氛围、强烈的单色美学以及高对比度照明。
+
+他拥有浓密且自然卷曲的乌黑头发，略显湿润并向后梳理，深邃的眼睛极具表现力，眉毛浓密且充满阳刚之气，鼻梁笔挺，颧骨突出，下颌线条轮廓分明，留着修剪整齐的短胡须，每一根胡须都清晰可见。自然的皮肤毛孔和细腻的面部纹理清晰可见。
+
+他微微向后倾斜，头部向上仰起，双眼轻闭，营造出一种冷静、神秘、自信且具有电影感的表情。头发自然地垂落在脸部两侧。他身穿一件奢华的黑色纹理大衣，领子立起，展现出精致的暗黑时尚外观。
+
+使用戏剧性的侧光，照亮他半边脸庞，而另一半则隐没在深邃的阴影中。强烈的明暗对比，头发周围有微妙的轮廓光，深邃的黑色，明亮的银色高光，以及极其细腻的面部轮廓。
+
+背景几乎全黑，经过深度模糊处理，带有微妙的远方城市灯光和柔和的圆形光斑。在他周围添加非常细微的大气雾气/烟雾，以增加深度和电影氛围。
+
+摄影风格：超写实、高端编辑摄影、电影感黑色电影、单色黑白、戏剧性明暗对比、深邃对比度、浅景深、{argument name="lens" default="85mm"} 镜头、f/1.4 光圈、真实的胶片颗粒感、自然的皮肤纹理、锐利的面部细节、专业影棚灯光、照片级真实感、8K 画质。
+
+构图：4:5 竖构图肖像，近景至中景取景，低机位拍摄，主体占据画面大部分空间，电影感留白，精致的暗黑奢华美学。
+
+[English]
+Ultra-realistic cinematic portrait of a strikingly handsome {argument name="subject" default="young man in his early 20s"}, inspired by the reference image’s dramatic low-angle composition, dark atmosphere, intense monochrome aesthetic, and high-contrast lighting.
+
+He has thick, naturally wavy jet-black hair, slightly wet and swept back, expressive deep-set eyes, strong masculine eyebrows, a straight defined nose, prominent cheekbones, a sharp sculpted jawline, and a full but neatly groomed short beard with realistic individual hairs. Natural skin pores and fine facial texture are clearly visible.
+
+He is leaning back slightly with his head tilted upward, eyes gently closed, creating a calm, mysterious, confident and cinematic expression. His hair falls naturally around the sides of his face. He wears a luxurious black textured coat with a raised collar, giving him a sophisticated dark-fashion appearance.
+
+Use dramatic side lighting that illuminates one side of his face while leaving the other in deep shadow. Strong chiaroscuro, subtle rim lighting around the hair, rich blacks, bright silver highlights and extremely detailed facial contours.
+
+The background is almost completely black, heavily blurred, with subtle distant city lights and soft circular bokeh. Add a very subtle atmospheric haze/smoke around him for depth and cinematic mood.
+
+Photography: ultra-realistic, high-end editorial photography, cinematic noir, monochrome black-and-white, dramatic chiaroscuro, deep contrast, shallow depth of field, {argument name="lens" default="85mm"} lens, f/1.4, realistic film grain, natural skin texture, sharp facial details, professional studio lighting, photorealistic, 8K quality.
+
+Composition: vertical 4:5 portrait, close-to-medium framing, low camera angle, subject filling most of the frame, cinematic negative space, sophisticated dark luxury aesthetic.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2092826444355506406) | 2026-08-27
+
+---
+
+### 📷 例 6954：土耳其灯饰集市中的仓鼠
+
+![土耳其灯饰集市中的仓鼠](../images/%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AF%E9%A5%B0%E9%9B%86%E5%B8%82%E4%B8%AD%E7%9A%84%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的电影感奇幻插画，画面中一只小小的金色 {argument name="animal" default="仓鼠"} 站在狭窄夜市集市里的堆叠土耳其地毯上，周围挂满了土耳其马赛克玻璃灯。仓鼠位于左下角前景，毛茸茸的身体带有背光，有着乌黑发亮的眼睛、惊讶张开的小嘴、长长的胡须、粉嫩的小脚，一只爪子向上伸展，试图触碰右侧一盏发光的绿松石蓝色马赛克灯。画面中需精确展示 8 盏醒目的悬挂马赛克灯：右上方被触碰的 1 盏大型绿松石蓝色灯，左上方的 1 盏蓝白相间灯，左上方中心附近的 1 盏暖橙金色灯，左中部的 1 盏红橙色灯，左下方的 1 盏紫蓝色多色灯，左侧背景中 1 盏遥远的小紫色灯，中心背景门口附近 1 盏小琥珀色灯，以及巷子深处 1 盏微小的暖色灯。被触碰的灯具迸发出色彩斑斓的三角形玻璃碎片，并在青色、橙色、黄色、洋红色和蓝色中产生折射，光影散落在仓鼠的皮毛和周围的空气中。场景四周挂满了带有丰富纹理的地毯，底部和右侧堆放着卷起来的地毯，色调以深红、靛蓝、金色和华丽的几何图案为主。背景是夜晚戏剧性的土耳其集市小巷，上方可见深蓝色的天空，配有铁链、织物天篷，暖色灯光与冷色阴影形成鲜明对比。采用富有表现力的绘本动漫风格，注重绘画细节，运用动态低角度构图、浅景深、发光的彩色玻璃质感、复杂的马赛克图案、高对比度轮廓光，营造出魔法般的氛围，画面中无文字或水印。配色方案：{argument name="main palette" default="绿松石色、琥珀色、宝石红、深靛蓝、金色"}。
+
+[English]
+Create a vertical cinematic fantasy illustration of a tiny golden {argument name="animal" default="hamster"} standing on stacked Turkish carpets inside a narrow night bazaar filled with Turkish mosaic glass lamps. The hamster is in the lower left foreground, fluffy and backlit, with glossy black eyes, open amazed mouth, long whiskers, tiny pink feet, and one paw stretched upward to touch a glowing turquoise-blue mosaic lantern on the right. Show exactly 8 prominent hanging mosaic lamps: 1 large turquoise-blue lantern at upper right being touched, 1 blue-and-white lantern at upper left, 1 warm orange-and-gold lantern near top center-left, 1 red-orange lantern at mid left, 1 purple-blue multicolor lantern at lower left, 1 small distant purple lantern in the left background, 1 small amber lantern near the center background doorway, and 1 tiny warm lantern deeper in the alley. The touched lantern bursts with colorful triangular glass shards and reflections in cyan, orange, yellow, magenta, and blue, scattering across the hamster's fur and the surrounding air. Surround the scene with rich patterned rugs hanging on the walls and rolled carpets stacked at the bottom and right side, using deep reds, indigo blues, golds, and ornate geometric motifs. The setting is a dramatic Turkish market alley at night with dark blue sky glimpsed above, chains, fabric canopies, and warm lantern glow contrasting with cool shadows. Use an expressive storybook-anime style with painterly detail, dynamic low-angle composition, shallow depth of field, luminous stained-glass textures, intricate mosaic patterns, high contrast rim lighting, magical atmosphere, and no text or watermark. Color palette: {argument name="main palette" default="turquoise, amber, ruby red, deep indigo, gold"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2092819228093206907) | 2026-08-27
+
+---
+
+### 📷 例 6955：高端美妆杂志特写
+
+![高端美妆杂志特写](../images/%E9%AB%98%E7%AB%AF%E7%BE%8E%E5%A6%86%E6%9D%82%E5%BF%97%E7%89%B9%E5%86%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端写实 3:2 杂志特写，主角为 {argument name="subject" default="成年亚洲女性"}，肤色白皙透亮，带有淡淡雀斑，深褐色杏仁眼，水润珊瑚粉唇，暖色调珊瑚妆容，{argument name="hair style" default="乌黑长发向后梳起，额前和脸颊留有一缕弧形发丝"}。佩戴彩色串珠耳环，身着 {argument name="garment" default="淡黄、薄荷绿、珊瑚色、蓝色与象牙白相间的钩针编织服装"}。一只手轻轻托住脸颊。柔和的高调摄影棚布光，浅灰白色背景，逼真的皮肤、发丝与织物纹理，电影级调色，细腻的胶片颗粒感，超高清美妆摄影。
+
+[English]
+High-end photorealistic 3:2 editorial close-up of a clearly {argument name="subject" default="adult Asian woman"}, fair luminous natural skin, subtle freckles, dark almond-shaped brown eyes, glossy coral-pink lips, warm coral makeup, {argument name="hair style" default="long jet-black hair pulled back with one curved strand across her forehead and cheek"}. Colorful beaded earrings and a {argument name="garment" default="pastel yellow, mint, coral, blue and ivory crochet garment"}. One hand gently cradling her cheek. Soft high-key studio lighting, pale gray-white background, realistic skin, hair and textile texture, cinematic color grading, subtle film grain, ultra-HD beauty photography.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2092819025130848583) | 2026-08-27
+
+---
+
+### 📷 例 6959：超写实女性特写肖像
+
+![超写实女性特写肖像](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E5%A5%B3%E6%80%A7%E7%89%B9%E5%86%99%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具吸引力、超写实的特写肖像，主角为自然状态下的 {argument name="subject" default="美丽的年轻女性"}，旨在营造出让人瞬间“停止滑动”的视觉冲击力。
+
+镜头极度贴近她的面部，捕捉她深棕色眼眸中那令人着迷的温润感，并将其作为不可忽视的视觉焦点。她的双眼必须看起来栩栩如生且极度逼真，呈现出复杂的虹膜纹理、细微的天然血丝、水润的眼线、清晰的眼神光，以及根根分明的睫毛。
+
+她的美是原始、真实且不完美的——脸颊和鼻梁上自然散布着雀斑，展现出真实的毛孔、细微的绒毛、细小的美人痣、自然的皮肤纹理以及细腻的肤色变化。请勿将她的皮肤处理得过于平滑。她的一侧眉毛上方有一道细长的自然愈合疤痕，脸颊处也有一道淡淡的愈合疤痕，为这幅肖像增添了神秘且令人难忘的个性。
+
+她长长的 {argument name="hair color" default="乌黑亮丽的秀发"} 自然地垂落在脸庞周围，几缕发丝轻柔地掠过额头和脸颊。她的眉毛浓密，形状自然，细节刻画入微。柔软、自然的粉色双唇微微放松，营造出一种随性而非刻意摆拍的表情。
+
+病毒式传播的关键：捕捉她看向镜头的那一瞬间，仿佛她刚刚注意到观看者。她的表情平静、神秘且具有情感磁力——在微妙的脆弱感中交织着沉静的自信。观看者应感受到仿佛偶然捕捉到了一个私密且一生难遇的瞬间。
+
+光影采用 {argument name="lighting type" default="柔和的电影感日光"}，从一侧射入，在她的眼睛、颧骨和皮肤上投射出明亮的高光，同时保留真实的阴影。
+
+构图：极端的面部特写，眼睛位于视觉中心附近，面部几乎填满整个画面，采用略微非传统的倾斜拍摄角度，营造亲密的视角、自然的非对称感以及写实的面部比例。
+
+[English]
+Create an irresistibly captivating, ultra-realistic close-up portrait of a naturally {argument name="subject" default="beautiful young woman"} designed to create an instant “STOP SCROLLING” reaction.
+
+The camera is extremely close to her face, capturing the mesmerizing warmth of her deep brown eyes as the undeniable focal point. Her eyes must look alive and intensely realistic, with intricate iris patterns, tiny natural veins, wetness along the waterline, crisp catchlights, and individual eyelashes sharply resolved.
+
+Her beauty is raw, authentic and imperfect—visible freckles scattered naturally across her cheeks and nose, realistic pores, subtle peach fuzz, tiny beauty marks, natural skin texture and delicate variations in tone. Do NOT make her skin artificially flawless. Above one eyebrow is a thin, naturally healed scar, while a subtle healed scar curves along her cheek, giving the portrait a mysterious, unforgettable character.
+
+Her long, {argument name="hair color" default="glossy black hair"} falls naturally around her face, with a few delicate strands crossing her forehead and cheek. Her eyebrows are full, naturally shaped and individually detailed. Soft, naturally pink lips remain slightly relaxed, creating an effortless expression that feels candid rather than posed.
+
+THE VIRAL HOOK: Capture the exact split-second where she looks directly into the camera as if she has noticed the viewer. Her expression is calm, mysterious and emotionally magnetic—subtle vulnerability mixed with quiet confidence. The viewer should feel like they accidentally captured a private, once-in-a-lifetime moment.
+
+Lighting is {argument name="lighting type" default="soft cinematic daylight"} entering from one side, producing luminous highlights across her eyes, cheekbones and skin while maintaining realistic shadows.
+
+Composition: extreme facial close-up, eyes positioned near the visual center, face filling almost the entire frame, slightly unconventional tilted camera angle, intimate perspective, natural asymmetry, realistic facial proportions.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2092804796512346269) | 2026-08-27
+
+---
+

@@ -4364,3 +4364,39 @@ Create a polished anime-style vertical illustration of {argument name="character
 
 ---
 
+### 🏛️ 例 6956：韩式首尔卧室人像
+
+![韩式首尔卧室人像](../images/%E9%9F%A9%E5%BC%8F%E9%A6%96%E5%B0%94%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考面部特征创建一张超写实的韩式人像。保持面部不变，搭配 {argument name="hairstyle" default="优雅的韩式发型"} 和 {argument name="fashion" default="端庄的韩式穿搭，高领且覆盖严实"}。让她坐在 {argument name="background" default="温馨的韩式卧室，旁边放着一只大泰迪熊"} 中，配以柔和的暖光、可爱的韩式装饰，背景为首尔城市景观。不露出腿部，自然比例，写实细节，9:16。
+
+[English]
+Create a photorealistic Korean-style portrait using the reference face. Keep her face unchanged, with {argument name="hairstyle" default="elegant Korean hairstyle"} and {argument name="fashion" default="modest Korean fashion with a high neckline and full coverage"}. Seat her in a {argument name="background" default="cozy Korean bedroom beside a large teddy bear"}, with soft warm lighting, cute Korean decor, and a Seoul city view in the background. No visible legs, natural proportions, realistic details, 9:16.
+```
+
+**来源：** [@liana](https://x.com/Lianaalane/status/2092816715596038361) | 2026-08-27
+
+---
+
+### 🏛️ 例 6960：日本办公室会议照片
+
+![日本办公室会议照片](../images/%E6%97%A5%E6%9C%AC%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的纪录片风格办公室会议照片，场景设在现代化的会议室中。在浅色木质会议桌旁展示 4 位日本商务人士：左侧是一位戴眼镜的中年男性，身穿深色西装，正低头阅读打印文件；中间是一位身穿浅蓝色衬衫的男性，正在发言并配合手势；右侧是一位身穿深色开衫的年轻女性，正托着下巴专注倾听；最右侧前景处是一位背对镜头的模糊男性，身穿深色夹克。中心发言人为 {argument name="main speaker" default="一位 30 多岁到 40 多岁、留着黑色短发的日本男性"}，身穿 {argument name="speaker shirt" default="一件袖口随意卷起的浅蓝色衬衫"}。采用坦率的企业摄影风格，利用自然窗光、柔和色调、浅景深以及真实的皮肤质感。房间配有带垂直百叶窗的高大窗户，窗外是朦胧的城市景观，墙壁为白色，配有黑色网状办公椅。桌上需包含 3 个陶瓷马克杯：左侧男士旁放 1 个黑色马克杯，中心发言人旁放 1 个红褐色马克杯，前景处放 1 个橄榄绿色马克杯；桌上还有 2 台打开的笔记本电脑：发言人前方 1 台银色笔记本，前景处 1 台深色笔记本；此外还有一叠打印文档、左侧男士手中拿着的散页纸张，以及桌前缘平放着 1 部深色智能手机。构图采用 16:9 的宽幅横向视角，从桌面高度拍摄，以中心发言人为焦点，前景的人物和笔记本电脑进行柔焦处理，画面中不应出现任何可见的标志或可辨认的文字。
+
+[English]
+Create a realistic documentary-style office meeting photograph in a modern conference room. Show exactly 4 Japanese businesspeople around a light wood meeting table: 1 middle-aged man on the left in a dark suit and glasses looking down while reading printed papers, 1 man in the center wearing a pale blue button-down shirt speaking and gesturing with one hand, 1 young woman on the right side in a dark cardigan resting her chin on her hand and listening attentively, and 1 out-of-focus man in the extreme right foreground seen from behind in a dark jacket. The central speaker is {argument name="main speaker" default="a Japanese man in his late 30s to early 40s with short black hair"}, wearing {argument name="speaker shirt" default="a light blue button-down shirt with sleeves casually rolled"}. Use a candid corporate photography style, natural window light, muted colors, shallow depth of field, and realistic skin texture. The room has tall windows with vertical blinds and a hazy urban city view outside, white walls, and black mesh office chairs. On the table include exactly 3 ceramic mugs: 1 black mug near the left man, 1 reddish-brown mug near the central speaker, and 1 olive-green mug in the foreground; exactly 2 open laptops: 1 silver laptop in front of the speaker and 1 dark laptop in the foreground; plus a stack of printed documents, loose papers being held by the left man, and 1 dark smartphone lying flat near the front edge. Compose as a wide 16:9 horizontal image from table height, with the center speaker as the focal point, the foreground person and laptop softly blurred, and no visible logos or readable text.
+```
+
+**来源：** [@江田](https://x.com/eija904/status/2092794025682309198) | 2026-08-27
+
+---
+

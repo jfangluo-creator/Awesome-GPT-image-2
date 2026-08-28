@@ -19325,3 +19325,43 @@ Vertical 4:5 composition, high resolution, polished illustration, visually faith
 
 ---
 
+### 🎨 例 6962：暗黑超现实主义：被淹没的歌剧院
+
+![暗黑超现实主义：被淹没的歌剧院](../images/%E6%9A%97%E9%BB%91%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%9A%E8%A2%AB%E6%B7%B9%E6%B2%A1%E7%9A%84%E6%AD%8C%E5%89%A7%E9%99%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+用例：风格化概念
+资产类型：“你的暗黑面”主题的竖屏社交媒体艺术作品
+
+创作一个令人难忘的原创场景，地点位于 {argument name="location" default="巨大的废弃歌剧院"}，地面被浅浅的黑色积水淹没。在空荡荡的舞台上，站着一个 {argument name="subject" default="身穿骨白色服装的孤独身影"}，正面对着观众席。观众席空无一人，但数百个与该身影相同的巨大影子正从座椅间的积水中悄然升起。每个影子的双手都捂着自己的嘴，唯独皇家包厢里有一个巨大的剪影，其嘴部是一个通向深层虚无空间的纯黑入口。真实的表演者面部没有任何细节，神情保持镇定。
+
+9:16 竖构图，视角从观众席后方切入，舞台位于远方中心，通过被淹没的座位营造出层叠的深度感，高耸的皇家包厢位于画面上方三分之一处。冷银色的聚光灯打在娇小的白色表演者身上，其余部分几乎完全处于黑暗中，静默的影子观众下方隐约透出克制的酒红色倒影。腐朽的丝绒、褪色至黑色的湿润镀金表面、薄雾、光束中的微尘，呈现出高级的电影感暗黑超现实主义，具有照片级的质感，优雅且在心理层面令人不安。
+
+调色板：{argument name="colors" default="黑曜石色、炭灰色、暗银色、骨白色、极简酒红色"}。
+
+约束条件：完全原创；仅包含一个真实人类形象，影子形式作为隐喻；无文字、Logo、签名、边框或水印。
+
+避免：面部残缺、覆盖皮肤的黑色物质、发光的眼睛、血腥、尖叫的怪物、戏剧性的喜剧/悲剧面具、繁杂的彩色装饰、模仿任何特定艺术家。
+
+[English]
+Use case: stylized-concept
+Asset type: vertical social-media artwork for the “Your Dark Side” theme
+
+Create a haunting original scene in a {argument name="location" default="gigantic abandoned opera house"} flooded with shallow black water. On the empty stage stands a {argument name="subject" default="lone person dressed in bone white"}, facing the audience. The seats are vacant, but hundreds of tall shadow versions of that same person rise silently from the water between the rows. Every shadow has its hands covering its own mouth except one enormous silhouette in the royal box, whose mouth is a perfectly black doorway opening into a deeper impossible space. The real person has no visible facial detail and remains composed.
+
+Vertical 9:16 composition viewed from the rear of the auditorium, stage centered far away, layered depth through flooded seating, towering royal box near the upper third. Cold silver spotlight on the small white performer, almost total darkness elsewhere, very restrained wine-red reflections beneath the silent shadow audience. Decayed velvet, wet gilded surfaces reduced to black, mist, fine dust in the light beam, premium cinematic dark surrealism, photorealistic textures, elegant and psychologically unsettling.
+
+Color palette: {argument name="colors" default="obsidian, charcoal, tarnished silver, bone white, minimal wine red"}.
+
+Constraints: entirely original; one real human figure only, with shadow forms functioning as metaphor; no text, logos, signatures, borders, or watermark.
+
+Avoid: facial mutilation, black material covering skin, glowing eyes, gore, screaming monsters, theatrical comedy/tragedy masks, busy colorful décor, imitation of any named artist.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2092764067509514595) | 2026-08-27
+
+---
+

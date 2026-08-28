@@ -29564,3 +29564,228 @@ Constraints: Keep all visible text legible and spelled exactly as specified. Pre
 
 ---
 
+### 🎴 例 6944：高级披萨广告海报
+
+![高级披萨广告海报](../images/%E9%AB%98%E7%BA%A7%E6%8A%AB%E8%90%A8%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创意方向
+创作一张高级、代理商级别的 {argument name="brand" default="DOMINO'S"} 广告海报，灵感源自大胆的 QSR / FMCG 社交媒体活动的视觉语言：强烈的图形构图、一眼即懂的视觉隐喻、受控的产品摄影、以品牌饱和色为主调的整体视觉、简洁的留白、真实的食物质感、短小精悍的堆叠排版以及轮播图系统的连贯性。
+请勿复制任何特定的参考构图。
+提取通用原则并构建原创作品。
+海报必须呈现出真实全球披萨广告活动的感觉，由商业食品摄影师进行艺术指导，而非通用的 AI 食品海报。
+
+视觉效果必须在观众阅读文案之前传达出核心理念。
+
+活动基因
+品牌：{argument name="brand" default="DOMINO'S"}
+核心产品：{argument name="product" default="招牌意大利辣香肠 / 芝士披萨"}，采用正宗的 Domino's 包装语言
+活动领域：渴望 + 配送胜利
+概念：盒子即胜利 (THE BOX IS THE WIN)
+个性：饥饿、俏皮、自信、快速、略带调皮
+色彩系统
+- 主色调 {argument name="color" default="红色 (#E31837)"}
+- Domino's 蓝色 (#006491) 仅用于 Logo、包装盒点缀、小型图形标点
+- 白色
+- 柔和的奶油色 / 马苏里拉芝士高光
+- 克制的深红色阴影
+红色必须立即占据画面主导地位。它看起来不应像通用的番茄酱广告。
+
+创意执行
+图形视觉隐喻 + 高级披萨主角 + QSR 社交海报
+使用：
+- 超大号短排版
+- 产品比例
+- 品牌红色的重复
+- 留白
+- 一个梗 / 一个物体关系
+- 受控的蒸汽和芝士光泽
+- 强烈的对齐感
+避免环境纪实风格。除非特定画面需要手部/托盘，否则不要使用街头生活方式的电影剧照风格。
+
+背景
+完全受控的广告领域。
+浓郁饱和的 Domino's 红，带有微妙的色调深度。
+允许：
+- 极度微妙的斑点 / 意大利辣香肠圆点图案，对比度极低
+- 克制的径向衰减
+- 柔和的立体阴影
+禁止：
+- 默认使用随意的餐厅内部场景
+- 脏乱的厨房
+- 城市街道
+- 杂乱的拼贴
+- 额外的品牌
+
+核心产品
+照片级真实的 Domino's 披萨，作为最重要的实体对象。
+保留可识别的 Domino's 包装盒 / Logo 几何形状。不要发明新 Logo。不要重新设计字标。
+展示：
+- 融化的马苏里拉芝士
+- 意大利辣香肠油脂
+- 逼真的饼皮气泡
+- 可见的蒸汽，需克制
+- 包装盒在画面中时，需呈现真实的瓦楞纸披萨盒质感
+- 可信的油光，而非塑料感的 CGI
+产品占据约 50%–65% 的画面宽度，除非创意需要比例对比。
+
+排版系统
+标题：简短，3–6 个词，粗体现代无衬线字体 / 厚重无衬线字体。
+主标题为白色。
+一个钩子词可以是奶油黄色。
+副标题较小、较安静。
+可选底部锁定：以黄色小胶囊形式呈现的“立即下单” (ORDER NOW)。
+可选页脚：热乎。快速。属于你。 (Hot. Fast. Yours.)
+排版是层级，而非装饰。
+不要用文案填满画面。
+
+[English]
+CREATIVE DIRECTION
+Create a premium, agency-level {argument name="brand" default="DOMINO'S"} advertising poster inspired by the visual language of bold QSR / FMCG social campaigns: strong graphic composition, one instantly readable visual metaphor, controlled product photography, saturated brand colour as the entire world, clean negative space, tactile food realism, short stacked typography and carousel-system consistency.
+Do not copy any specific reference composition.
+Extract the common principles and build an original execution.
+The poster must feel like a real global pizza campaign art-directed for Instagram, photographed by a commercial food photographer, not a generic AI food poster.
+
+The visual must communicate the idea before the viewer reads the copy.
+
+CAMPAIGN DNA
+Brand: {argument name="brand" default="DOMINO'S"}
+Hero product: {argument name="product" default="signature pepperoni / cheese pizza"} in authentic Domino's packaging language
+Campaign territory: craving + delivery win
+Concept: THE BOX IS THE WIN
+Personality: hungry, playful, confident, fast, slightly cheeky
+Colour system
+- Dominant {argument name="color" default="red (#E31837)"}
+- Domino's blue (#006491) used only as logo, box accent, small graphic punctuation
+- White
+- Soft cream / mozzarella highlight
+- Restrained dark red shadow
+The red must own the frame immediately. It should not look like generic ketchup advertising.
+
+CREATIVE EXECUTION
+Graphic visual metaphor + premium pizza hero + QSR social poster
+Use:
+- oversized short typography
+- product scale
+- repetition of brand red
+- negative space
+- one gag / one object relationship
+- controlled steam and cheese gloss
+- strong alignment
+Avoid environmental documentary. This is not a street-lifestyle film still unless the specific frame requires hands/tray.
+
+BACKGROUND
+A completely controlled advertising field.
+Rich saturated Domino's red with subtle tonal depth.
+Allowed:
+- extremely subtle blob / pepperoni-dot pattern at very low contrast
+- restrained radial falloff
+- soft dimensional shadowing
+Forbidden:
+- random restaurant interior as default
+- dirty kitchen
+- city street
+- collage clutter
+- extra brands
+
+HERO PRODUCT
+Photoreal Domino's pizza as the most important physical object.
+Preserve recognizable Domino's box / logo geometry. Do not invent a new logo. Do not redesign the wordmark.
+Show:
+- molten mozzarella
+- pepperoni oil
+- realistic crust blistering
+- visible steam, restrained
+- authentic corrugated pizza box when the box is in frame
+- believable grease sheen, not plastic CGI
+Product occupies roughly 50–65% of the frame width unless the idea needs scale contrast.
+
+TYPOGRAPHIC SYSTEM
+Headline: short, 3–6 words, bold contemporary grotesk / heavy sans.
+Primary line in white.
+One hook word may be cream-yellow.
+Secondary line smaller, quieter.
+Optional bottom lockup: ORDER NOW as a small yellow pill.
+Optional footer: Hot. Fast. Yours.
+Typography is hierarchy, not decoration.
+Do not flood the frame with copy.
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2092924708346073379) | 2026-08-27
+
+---
+
+### 🎴 例 6949：东方禅意极简海报
+
+![东方禅意极简海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美明亮型
+主体内容：{argument name="主体" default="一位古风女子站在圆形花窗旁，手中轻持一枝小花"}
+情绪母题：清甜、明亮、春日松弛感
+场景与意象：圆形花窗、荔枝粉花朵、青苹果绿叶片、暖白留白背景、女子侧影
+构图与空间：人物位于画面下方偏右，圆形花窗位于中上部作为主视觉，左侧和上方保留完整标题区
+色彩控制：奶油白作为高明度背景，荔枝粉用于花朵和局部衣饰点睛，青苹果绿用于叶片和窗外少量植物，人物服装用{argument name="服装颜色" default="浅米白或浅粉白"}；避免全图粉绿滤镜化
+光线与质感：明亮自然光，干净平面插画感，边缘清晰，{argument name="质感" default="极轻纸面质感"}
+画幅比例：9:16
+补充要求：整体要清甜，颜色鲜活干净，适合小红书春日封面，不要灰雾和旧纸感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2092834397464777096) | 2026-08-27
+
+---
+
+### 🎴 例 6950：复古现代主义编辑拼贴海报
+
+![复古现代主义编辑拼贴海报](../images/%E5%A4%8D%E5%8F%A4%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直编辑拼贴海报，主体为 {argument name="character" default="[CHARACTER]"} 身着 {argument name="clothing" default="[CLOTHING]"}，全身剪影置于 {argument name="color palette" default="[PALETTE]"} 构成的鲜明分割背景之上。在角色后方放置超大号压缩字体排版，内容为“[TITLE]”，并被角色身体部分遮挡；在边缘附近对齐排版小号编辑微型文本“[MICROTEXT]”。将 [FORM] 作为粗体抽象图形元素融入排版周围，运用半色调网点、粗糙墨迹侵蚀、复印颗粒感、丝网印刷瑕疵以及分层纸张纹理。强烈的非对称构图，高对比度，受控的留白，平涂色块，复古现代主义印刷设计，无奇幻战斗图像，无额外角色，无光泽 3D 渲染，长宽比 4:5。
+
+[English]
+Vertical editorial collage poster featuring {argument name="character" default="[CHARACTER]"} in {argument name="clothing" default="[CLOTHING]"}, full-body cutout positioned across a sharp split background of {argument name="color palette" default="[PALETTE]"}. Place oversized condensed typography reading “[TITLE]” behind the character, partially obscured by the body, with small editorial microtext reading “[MICROTEXT]” aligned near the outer margin. Integrate [FORM] as bold abstract graphic elements around the typography, using halftone dots, rough ink erosion, photocopy grain, screen-print imperfections and layered paper texture. Strong asymmetric composition, high contrast, controlled negative space, flat color fields, vintage modernist print design, no fantasy battle imagery, no extra characters, no glossy 3D rendering, aspect ratio 4:5.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2092832500402057602) | 2026-08-27
+
+---
+
+### 🎴 例 6953：怀旧东亚旅行海报
+
+![怀旧东亚旅行海报](../images/%E6%80%80%E6%97%A7%E4%B8%9C%E4%BA%9A%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的编辑类旅行海报构图，灵感源自怀旧的东亚旅行摄影与极简当代插画。
+
+上半部分：电影感、照片级的 {argument name="location" default="历史小镇的河畔场景"}。传统的木制观光船，船身呈现温暖的蜜橙色，配有小型遮阳棚，漂浮在平静的绿色水面上。一座优雅的古老石拱桥横跨河流，周围环绕着 {argument name="flora" default="枝繁叶茂的参天大树"}。背景中，喀斯特地貌的山峦在薄雾中隐约浮现。包含细微的人物活动和真实的建筑细节。温暖的自然光，略微褪色的胶片色彩，柔和的雾气，柔和的对比度，模拟胶片颗粒感，营造宁静怀旧的氛围。
+
+下半部分：在照片下方，过渡为暖象牙色/米白色背景上的极简手绘插画。将场景简化为细腻的几何形状：弯曲的深色石桥、{argument name="colors" default="柔和的橄榄色、赭石色、米色和铁锈色"} 的抽象树木、微小的简化船只以及水面上的水平倒影。运用稀疏的线条、不完美的笔触纹理以及大量的留白。
+
+整体设计：高端独立旅行杂志美学，低调的日式/韩式编辑海报设计，柔和的大地色调，复古摄影风格，极简图形插画，优雅的构图，充裕的留白，细腻的纸张纹理，安静沉思的意境。排版保持极简且小巧，在角落处添加微小的日期/地点风格文字。无 Logo，无水印，无冗余文字，无高饱和度色彩。
+
+[English]
+Create a refined editorial travel-poster composition inspired by nostalgic East Asian travel photography and minimalist contemporary illustration.
+
+Upper section: A cinematic, photorealistic {argument name="location" default="riverside scene in a historic town"}. Traditional wooden sightseeing boats with warm honey-orange frames and small covered roofs float on calm green water. A graceful old stone arch bridge spans the river, surrounded by {argument name="flora" default="enormous mature trees with dense foliage"}. Misty karst mountains rise softly in the background. Include subtle human activity and authentic architectural details. Warm natural daylight, slightly faded film colors, gentle haze, soft contrast, analog film grain, peaceful and nostalgic atmosphere.
+
+Lower section: Beneath the photograph, transition into a minimalist hand-drawn illustration on a warm ivory/off-white background. Reduce the scene into simple delicate shapes: a curved dark stone bridge, abstract trees in {argument name="colors" default="muted olive, ochre, beige and rust tones"}, tiny simplified boats and horizontal reflections on the water. Use sparse lines, imperfect brush textures and lots of negative space.
+
+Overall design: premium independent travel magazine aesthetic, understated Japanese/Korean editorial poster design, muted earthy palette, soft vintage photography, minimal graphic illustration, elegant composition, generous white space, subtle paper texture, quiet contemplative mood. Keep typography extremely minimal and small, with tiny date/location-style text near the corners. No logos, no watermark, no excessive text, no saturated colors.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2092824754944442763) | 2026-08-27
+
+---
+

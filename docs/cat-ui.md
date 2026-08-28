@@ -14460,3 +14460,63 @@ Create a photorealistic portrait using the uploaded image as the reference. Keep
 
 ---
 
+### 🖥️ 例 6942：奢华阿拉伯时尚三联画
+
+![奢华阿拉伯时尚三联画](../images/%E5%A5%A2%E5%8D%8E%E9%98%BF%E6%8B%89%E4%BC%AF%E6%97%B6%E5%B0%9A%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组奢华的阿拉伯时尚三联画，主角为 {argument name="character description" default="一位年轻的黑人男性模特，深棕色皮肤，短黑发大部分被头巾遮住，五官对称，表情沉稳，身材匀称且写实"}，身着传统海湾服饰。
+
+画布：垂直 2:3 时尚拼贴画，尺寸约为 768x1152，由干净的白色边框分割为 3 个肖像面板：左侧为 1 个占据约一半宽度和全高度的大型全身照面板，右侧为 2 个上下排列的面板。
+
+主体造型：模特身穿质感纯净的 {argument name="robe color" default="白色"} 长袍（Thobe/Kandura），高领且采用暗门襟设计；肩上披着红白格纹的头巾（Keffiyeh/Shemagh），头戴黑色头箍（Agal）；全身照中穿着抛光的黑色正装皮鞋，左手佩戴银色奢华腕表。服装需保持优雅、挺括、端庄且写实，展现细腻的织物褶皱和高级剪裁。
+
+面板细节：包含同一人物的 3 张肖像。面板 1（左侧）：全身站立肖像，正面朝向，双手在身前低位交叠，可见黑色皮鞋，表情沉稳自信。面板 2（右上）：上半身中景特写，一只手正在整理或触碰胸前的衣领，可见腕表，直视镜头。面板 3（右下）：坐姿四分之三侧身肖像，一只手肘支撑在膝盖上，手部靠近下巴呈沉思姿态，另一只手自然放松并露出腕表，直视镜头。
+
+场景与布光：采用受阿拉伯建筑启发的温暖奢华摄影棚内景，背景为平滑的棕色灰泥墙、柔和的拱形壁龛和柔和的米色地板，无杂物。布光采用电影级时尚大片风格：左前方柔和的主光，营造细腻阴影，色调为温暖的棕/金色，背景采用浅景深，皮肤纹理写实，呈现杂志级的高级修图质感，避免过度磨皮。
+
+视觉风格：高端时尚摄影，比例写实，面部自然，高级时尚氛围，主体对焦清晰，背景虚化柔和，对比度均衡，暖色调中性配色，无文字，无 Logo，无水印。
+
+约束条件：拼贴画必须包含且仅包含 3 个面板，且 3 个面板中重复出现同一个人。确保 3 张肖像的面部特征、年龄、肤色、服装、头饰和腕表保持高度一致。避免出现多余人物、额外配饰、太阳镜、胡须变化、夸张的美颜效果、手部畸变或服装不一致的情况。
+
+[English]
+Goal: Create a luxury Arabian fashion editorial triptych featuring {argument name="character description" default="a young Black male model with deep brown skin, short dark hair mostly hidden by the headscarf, symmetrical face, calm expression, and realistic slim-to-average build"} in traditional Gulf attire.
+
+Canvas: Vertical 2:3 fashion collage, approximately 768x1152, divided by clean white borders into exactly 3 portrait panels: 1 large full-body panel on the left occupying about half the width and full height, and 2 stacked panels on the right occupying the other half.
+
+Subject styling: The model wears a pristine {argument name="robe color" default="white"} thobe/kandura with a high collar and concealed placket, a red-and-white checkered keffiyeh/shemagh draped over the shoulders, a black agal on top, polished black dress shoes in the full-body shot, and a silver luxury wristwatch on the left wrist. Keep the clothing elegant, crisp, modest, and realistic, with subtle fabric folds and premium tailoring.
+
+Panel details: Include exactly 3 portraits of the same person. Panel 1, left: full-body standing portrait, front-facing, hands clasped low in front, black shoes visible, calm confident expression. Panel 2, top right: medium close-up from upper torso, one hand adjusting or touching the collar near the chest, wristwatch visible, direct gaze. Panel 3, bottom right: seated three-quarter portrait, one elbow resting on the knee, hand near chin in a thoughtful pose, other hand relaxed with wristwatch visible, direct gaze.
+
+Setting and lighting: Use a warm luxury studio interior inspired by Arabian architecture, with smooth brown plaster walls, soft arched alcoves, muted beige floor, and no clutter. Lighting is cinematic and editorial: soft key light from the front-left, gentle shadows, warm brown/gold tones, shallow depth of field in the background, realistic skin texture, polished magazine-quality retouching without over-smoothing.
+
+Visual style: High-end fashion photography, realistic proportions, natural face, premium editorial mood, sharp focus on the subject, soft background blur, balanced contrast, warm neutral color palette, no text, no logos, no watermark.
+
+Constraints: The collage must contain exactly 3 panels and exactly 1 person repeated consistently across all panels. Maintain the same facial identity, age, skin tone, clothing, headwear, and watch throughout all 3 portraits. Avoid extra people, extra accessories, sunglasses, facial hair changes, exaggerated beauty edits, distorted hands, or inconsistent garments.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2092928083133153342) | 2026-08-27
+
+---
+
+### 🖥️ 例 6946：可爱虎斑猫 LINE 贴纸
+
+![可爱虎斑猫 LINE 贴纸](../images/%E5%8F%AF%E7%88%B1%E8%99%8E%E6%96%91%E7%8C%AB%20LINE%20%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在正方形白色画布上创作一张可爱的 LINE 贴纸风格插画，画面主体是一只胖乎乎的虎斑猫，正开心地坐在一个柔软的米色坐垫上。这只猫拥有 {argument name="fur color" default="暖棕色和奶油色的虎斑毛发"}，头部、身体、四肢和粗壮的卷曲尾巴上有深色的圆形条纹，闭着眼睛微笑，有着细小的胡须、腮红般的脸颊，其中一只前爪抬起，仿佛在踩奶或挥手。采用柔和的可爱数字插画风格，线条为干净的深棕色，带有柔和的赛璐珞阴影，造型圆润，在纯白背景下呈现出简约的透明贴纸感。在角色下方正中央放置一行简短的黑色小字日文标题：{argument name="caption text" default="ふみふみ"}。保持构图简洁并居中，留出充足的空白，不要添加额外的道具、边框、水印或任何其他文字。
+
+[English]
+Create a cute LINE sticker-style illustration on a square white canvas, featuring one chubby tabby cat sitting happily on one soft beige cushion. The cat has {argument name="fur color" default="warm brown and cream tabby fur"}, darker rounded stripes on its head, body, legs, and thick curled tail, closed smiling eyes, tiny whiskers, blush-like cheeks, and one front paw raised as if kneading or waving. Use a soft kawaii digital illustration style with clean dark-brown outlines, gentle cel shading, rounded forms, and a minimal transparent-sticker feel against a plain white background. Place exactly one short caption centered below the character in small black Japanese text: {argument name="caption text" default="ふみふみ"}. Keep the composition simple and centered with generous white space, no extra props, no border, no watermark, and no additional text.
+```
+
+**来源：** [@ヒカミ｜非エンジニアがClaude Codeをぶん回してる](https://x.com/hikami_shikumi/status/2092898136666812647) | 2026-08-27
+
+---
+
