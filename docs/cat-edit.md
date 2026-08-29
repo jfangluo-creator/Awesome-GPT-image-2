@@ -3917,3 +3917,21 @@ Ultra high-resolution restoration of the uploaded image while preserving the exa
 
 ---
 
+### 🔧 例 6978：混合媒介怀旧记忆卡片
+
+![混合媒介怀旧记忆卡片](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%80%80%E6%97%A7%E8%AE%B0%E5%BF%86%E5%8D%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为一张垂直的混合媒介记忆卡片，并严格按照 50/50 的比例进行分割。上半部分保留原始照片不变。在下半部分，使用 {argument name="paper texture" default="带纹理的米白色手工纸"}，并添加与照片色调相符的柔和、不规则色块。将主体对象重新绘制为 {argument name="sketch style" default="简约的深色蜡笔素描"}，线条要松散且不完美，细节要极简。添加一句简短的英文手写短语，并加入细腻的 Risograph 颗粒感。营造出一种宁静、怀旧的莫兰迪风格美学，并留出充足的负空间。请勿添加额外元素，也不要完全照搬参考构图。
+
+[English]
+Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split. Keep the original photo unchanged in the top half. In the bottom half, use {argument name="paper texture" default="textured off-white handmade paper"} and add a muted, irregular color patch matching the photo’s tones. Redraw the main subjects as a {argument name="sketch style" default="simple dark wax-crayon sketch"} with loose, imperfect lines and minimal details. Add a short handwritten English phrase and subtle Risograph grain. Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. Do not add extra elements or copy the reference composition exactly.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2093212900160868430) | 2026-08-28
+
+---
+

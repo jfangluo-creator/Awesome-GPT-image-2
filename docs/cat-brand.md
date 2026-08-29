@@ -18809,3 +18809,39 @@ Constraints: Keep the character design identical across all 3 views, maintain ac
 
 ---
 
+### 🏷️ 例 6976：基于基础设施的城市字体生成
+
+![基于基础设施的城市字体生成](../images/%E5%9F%BA%E4%BA%8E%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E5%9F%8E%E5%B8%82%E5%AD%97%E4%BD%93%E7%94%9F%E6%88%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，针对 4 个旅游城市执行此操作：input = [{argument name="city" default="word_or_place"} + {argument name="system" default="infrastructure_system"} + {argument name="environment" default="environment"} + optional_style] 运行 infrastructural_typography_extraction：text_content := 解析 word_or_place word_identity := 推断文本是城市、品牌、概念、地标、区域、事件还是虚构地点 font_personality := 推断厚重、优雅、粗野主义、未来感、沿海、工业、有机、奢华、俏皮或纪念碑式的字体风格 infrastructure_dna := 推断 infrastructure_system 的视觉语法 network_behavior := 推断流动、循环、分支、堆叠、交叉、隧道、坡道、发光、路由或循环逻辑 letter_mapping := 将基础设施映射到每个字形的笔画、字腹、字腔、对角线、曲线、横杠和末端 material_system := 推断真实的建筑材料 light_system := 推断城市灯光、车流轨迹、标志发光、窗格、反射或环境照明 environment_logic := 推断周围的城市/景观环境 scale_anchors := 推断车辆、行人、树木、建筑物、水道或交通元素 camera := 推断电影级航拍、街景、无人机、移轴或建筑可视化视角 渲染：由推断出的基础设施系统构建的可读纪念碑式文字。约束条件：- 无固定城市 - 无固定道路系统 - 无复制构图 - 无随机的交通混乱 - 基础设施必须在物理上构成字体 - 文字在缩略图尺寸下保持可读
+
+[English]
+2x2 grid, 16:9, do this for 4 tourist cities: input = [{argument name="city" default="word_or_place"} + {argument name="system" default="infrastructure_system"} + {argument name="environment" default="environment"} + optional_style] run infrastructural_typography_extraction: text_content := parse word_or_place word_identity := infer whether text is a city, brand, concept, landmark, district, event, or fictional place font_personality := infer heavy, elegant, brutalist, futuristic, coastal, industrial, organic, luxury, playful, or monumental letter style infrastructure_dna := infer visual grammar of infrastructure_system network_behavior := infer flow, looping, branching, stacking, crossing, tunneling, ramping, glowing, routing, or circulation logic letter_mapping := map infrastructure onto each glyph’s stems, bowls, counters, diagonals, curves, crossbars, and terminals material_system := infer realistic construction materials light_system := infer city lights, traffic trails, signage glow, window grids, reflections, or ambient illumination environment_logic := infer surrounding urban/landscape context scale_anchors := infer vehicles, people, trees, buildings, waterways, or transit elements camera := infer cinematic aerial, street-level, drone, tilt-shift, or architectural visualization view render: a readable monumental word built from the inferred infrastructure system. constraints: - no fixed city - no fixed road system - no copied composition - no random transport spaghetti - infrastructure must physically construct the typography - word remains readable at thumbnail scale
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2093235384494981223) | 2026-08-28
+
+---
+
+### 🏷️ 例 6983：月下幻彩和服舞者
+
+![月下幻彩和服舞者](../images/%E6%9C%88%E4%B8%8B%E5%B9%BB%E5%BD%A9%E5%92%8C%E6%9C%8D%E8%88%9E%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版动漫奇幻插图，描绘 {argument name="character name" default="一位优雅的年轻巫女舞者"} 站在夜晚月光照耀的河水中，水深没过脚踝，她回眸看向观众，带着温柔的微笑和明亮的绿色眼睛。她拥有极长的飘逸 {argument name="hair color" default="粉色"} 秀发，随风飞舞，并装饰着精致的花朵发饰。她身着华丽的 {argument name="kimono colors" default="深红、白、翠绿、紫和金色"} 多层日本和服，上面布满了复杂的金色刺绣花纹、锦缎镶边、半透明袖子、多层腰带，以及围绕双腿戏剧性旋转的飘逸布料。她的双臂高举过头顶，握着巨大的半透明 {argument name="magical veil" default="幻彩羽衣"}，在身体周围形成一个像光环一样的发光圆弧；面纱呈现玻璃质感，带有虹彩，轻盈无重，充满无数彩虹闪光、星状折射和闪烁的丝线。背景是深蓝色的星空河岸，有岩石、树影、薄雾，右上角有一轮明亮的满月，波光粼粼的水面反射着月光和成千上万的闪烁光点。采用动态舞蹈姿势，展现优雅的动作、随风飘动的头发和衣物、电影级逆光效果、水面强烈的镜面高光、随处飘浮的魔法粒子、超精细的布料纹理、浪漫的奇幻氛围、精致的高端动漫主视觉风格，角色焦点清晰，光影色彩分明，无文字，无边框，无水印。
+
+[English]
+Create a highly detailed vertical anime fantasy illustration of {argument name="character name" default="a graceful young shrine maiden dancer"} standing ankle-deep in a moonlit river at night, turning back toward the viewer with a soft smile and bright green eyes. She has very long flowing {argument name="hair color" default="pink"} hair streaming in the wind, decorated with delicate floral hair ornaments. She wears an opulent layered Japanese kimono in {argument name="kimono colors" default="deep red, white, emerald green, purple, and gold"}, covered with intricate embroidered gold floral patterns, brocade trim, translucent sleeves, layered sashes, and flowing fabric that swirls dramatically around her legs. Her arms are raised above her head, holding a huge translucent {argument name="magical veil" default="prismatic feather robe"} that forms a glowing circular arc around her body like a halo; the veil is glassy, iridescent, weightless, and filled with countless rainbow sparkles, star-like refractions, and shimmering thread lines. The setting is a dark blue starry night riverbank with rocks, silhouetted trees, mist, a bright full moon in the upper right, and rippling water reflecting moonlight and thousands of glittering points. Use a dynamic dancing pose, elegant motion, windblown hair and fabric, cinematic backlighting, intense specular highlights on the water, magical particles floating everywhere, ultra-detailed fabric texture, romantic fantasy atmosphere, polished high-end anime key visual style, sharp focus on the character, luminous color grading, no text, no border, no watermark.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2093188103796408523) | 2026-08-28
+
+---
+

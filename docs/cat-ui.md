@@ -14520,3 +14520,21 @@ Create a cute LINE sticker-style illustration on a square white canvas, featurin
 
 ---
 
+### 🖥️ 例 6966：厚涂油画风格转换
+
+![厚涂油画风格转换](../images/%E5%8E%9A%E6%B6%82%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将附件照片中的主体转换为方形微型画，风格为 {argument name="painting style" default="调色刀厚涂油画风格"}。 [风格 — 强调 3D 质感] 使用调色刀涂抹厚重的油画颜料，使其高出表面约 3–5 毫米。每一块颜料都应呈现清晰的刀痕方向，包括可见的凹槽和脊线。假设光线来自左上方。在凸起的颜料上增加明亮的高光，并在凹陷或重叠区域增加明显的阴影，营造出真实油画表面那种强烈的明暗对比。在颜料边缘添加细微的阴影，使每一块色彩看起来都有层次感和深度，而非平面的。保留原照片中主体的轮廓、色彩和构图，但避免写实渲染。使用厚重的颜料块简化形态。保持纹理受控，不要过于细致。通过少量大胆、立体的调色刀笔触，使主体保持可辨识度。 [背景] 使用固定的 {argument name="background color" default="暖象牙白/奶油色"} 水彩纸背景，带有细微、轻微凹凸的纹理。保持背景平整，以与立体的主体形成对比。 [文字] 在底部角落或空白最多的地方添加黑色手写标题。根据主体自动确定标题：食物/饮料 → 菜单名称（例如，“松饼”、“伯爵茶蛋糕”）；产品 → 产品名称或类别；人物 → 简短的描述性短语或类似名字的文本；动物 → 动物名称或物种；风景 → 地名或描述场景的简短词汇。手写字体应看起来自然且不完美，略显不均匀且具有触感，而非整洁的数字字体。文字颜色必须保持为黑色。 [构图] 长宽比：1:1。将主体放置在中心，留出充足的负空间。仅展示主体，不包含任何额外的道具或干扰元素。
+
+[English]
+Transform the subject in the attached photo into a square miniature painting in a {argument name="painting style" default="palette-knife impasto oil-painting style"}. [Style — Emphasize 3D Texture] Use bold, thick impasto paint applied with a palette knife, raised approximately 3–5 mm from the surface. Each paint mass should show clear directional knife marks, including visible grooves and ridges. Assume lighting from the upper left. Add bright highlights to raised paint and distinct shadows to recessed or overlapping areas, creating strong light-and-shadow contrast like a real oil-paint surface. Add subtle shadows along paint edges so each color mass appears layered and built up at different depths, rather than flat. Preserve the subject’s silhouette, colors, and composition from the original photo, but avoid realistic rendering. Simplify the form using thick masses of paint. Keep the texture controlled and not overly detailed. The subject should remain recognizable through a limited number of bold, dimensional palette-knife strokes. [Background] Use a fixed {argument name="background color" default="warm ivory/cream"} watercolor-paper background with a subtle, slightly bumpy texture. Keep the background flat to contrast with the dimensional subject. [Text] Add a black handwritten caption in a corner along the bottom or wherever there is the most empty space. Automatically determine the caption based on the subject: Food/drink → menu name (e.g., “Pancake,” “Earl Grey Cake”) Product → product name or category Person → a short descriptive phrase or name-like text Animal → animal name or species Landscape → place name or a short word describing the scene The handwriting should look naturally imperfect, slightly uneven, and tactile—not like a clean digital font. Text color must remain black. [Composition] Aspect ratio: 1:1 Place the subject in the center with generous negative space. Show only the main subject, with no additional props or distracting elements.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2093285282460377386) | 2026-08-28
+
+---
+

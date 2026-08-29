@@ -29789,3 +29789,113 @@ Overall design: premium independent travel magazine aesthetic, understated Japan
 
 ---
 
+### 🎴 例 6970：原始素描风格图形肖像海报
+
+![原始素描风格图形肖像海报](../images/%E5%8E%9F%E5%A7%8B%E7%B4%A0%E6%8F%8F%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%BD%A2%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+原始素描风格图形肖像海报，主体为 {argument name="subject" default="HUMAN"}，身着 {argument name="clothing" default="CLOTHING"}，半身像且在画面中占比大，紧邻 {argument name="animal" default="ANIMAL"}，背景为极简的 [SCENERY]。采用粗犷且富有表现力的插画风格，带有破碎的黑色墨水轮廓、松散的素描线条、抓痕般的排线、不规则的笔触粗细、不完美的线条边缘、快速的手势标记、简化的解剖结构、扁平的赛璐珞式阴影块，并减少细节。使用克制的 [COLORS] 配色，包含一个主导的暖色区域、一个冷色对比区域、深色墨水阴影以及少量浅色高光点缀。保持面部超大且居中，裁剪至躯干中部，将动物置于下方前景或紧贴主体身侧，并以同样简化的原始线条绘制。将场景简化为仅 2 到 3 个主体背后的粗体剪影形状，不进行详细的环境渲染。添加窄边暖白色海报边框和极轻微的印刷纹理。强烈的态度，图形海报能量，刻意不完美的笔触，原始且素描感的质感，比例 ar 4:5
+
+[English]
+Raw sketchy graphic portrait poster of {argument name="subject" default="HUMAN"} wearing {argument name="clothing" default="CLOTHING"}, half-body and large in frame, accompanied closely by {argument name="animal" default="ANIMAL"}, with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2093279729717780736) | 2026-08-28
+
+---
+
+### 🎴 例 6972：奢华美妆广告海报
+
+![奢华美妆广告海报](../images/%E5%A5%A2%E5%8D%8E%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级真实的高端奢华美妆广告海报，灵感源自超现实微缩比例广告。如果画面中出现人物，请务必仅使用我上传的人脸作为身份参考。请精确保留面部特征，确保人物完全可辨认，包括自然的脸部结构、肤色、眼睛、眉毛、鼻子、嘴唇以及整体身份。
+
+设计一个优雅的电影级场景，以健康、有光泽的秀发作为雕塑般的景观核心。一位留着丝滑深色长发的女性优雅地斜倚在奢华的象牙色平台上，她飘逸的秀发如平滑的黑色丝绸河流般铺展开来。在场景中加入微小的专业美发科学家、造型师和实验室工作人员，他们正用微型放大设备仔细检查每一根发丝，对头发进行抛光，并涂抹微小的滋养精华液，而非使用脚手架。
+
+在前景放置一个大型优雅的玻璃精华液瓶，周围部分环绕着超大的半透明植物叶片、水滴和精致的白花。微小的工人们正在瓶子上攀爬、检查瓶盖，而另一支微型团队则在飘逸的秀发周围忙碌。
+
+使用精致的 {argument name="color palette" default="奶油色、象牙色、香槟色和深浓缩咖啡色"} 色调、大理石表面、柔和的漫射摄影棚灯光、细腻的阴影、逼真的反射以及极其细腻的纹理。
+
+在顶部添加精致的编辑排版：
+
+“{argument name="main title" default="微观护理。
+宏观之美。"}”
+
+下方的小副标题：
+
+“{argument name="subtitle" default="精准滋养，非凡光泽。"}”
+
+在产品瓶身上，使用简洁的字体创作一个原创的高端品牌标识：
+
+“VELORA
+HAIR SCIENCE”
+
+“REPAIR • NOURISH • GLOSS”
+
+整体画面应呈现出奢华美妆杂志广告与超现实微缩工艺相结合的质感——精致、可信、艺术化、高端且视觉冲击力强。确保微型人物在解剖学上真实，并自然地融入环境中，展现出令人信服的比例、阴影、反射以及与头发和产品的互动。
+
+[English]
+Create a photorealistic, high-end luxury beauty campaign poster inspired by surreal miniature-scale advertising, using my uploaded face as the ONLY identity reference if a person is shown. Preserve the face exactly and keep the person fully recognizable, including natural facial structure, skin tone, eyes, eyebrows, nose, lips, and overall identity.\n\nDesign an elegant cinematic scene centered around healthy, glossy hair as a sculptural landscape. A woman with long, silky dark hair is reclining gracefully on a luxurious ivory platform, while her flowing hair spreads across the scene like a smooth black silk river. Instead of scaffolding, introduce tiny professional hair scientists, stylists, and laboratory workers carefully examining individual strands with miniature magnifying equipment, polishing the hair, and applying microscopic drops of nourishing serum.\n\nPlace a large elegant glass serum bottle in the foreground, partially surrounded by oversized translucent botanical leaves, water droplets, and delicate white flowers. Tiny workers should be climbing the bottle, inspecting the cap, while another miniature team operates around the flowing hair.\n\nUse a sophisticated {argument name="color palette" default="cream, ivory, champagne, and deep espresso"} palette, marble surfaces, soft diffused studio lighting, subtle shadows, realistic reflections, and extremely detailed textures.\n\nAt the top, add refined editorial typography:\n\n“{argument name="main title" default="MICRO CARE.\nMACRO BEAUTY."}”\n\nSmall subtitle underneath:\n\n“{argument name="subtitle" default="Precision nourishment for extraordinary shine."}”\n\nOn the product bottle, create an original premium brand identity with clean typography:\n\n“VELORA\nHAIR SCIENCE”\n\n“REPAIR • NOURISH • GLOSS”\n\nThe overall image should feel like a luxury beauty magazine campaign mixed with surreal miniature craftsmanship — sophisticated, believable, artistic, premium, and visually striking. Make the miniature people anatomically realistic and naturally integrated into the environment, with convincing scale, shadows, reflections, and interaction with the hair and product.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2093269986345361550) | 2026-08-28
+
+---
+
+### 🎴 例 6974：高端水果饮品分镜脚本
+
+![高端水果饮品分镜脚本](../images/%E9%AB%98%E7%AB%AF%E6%B0%B4%E6%9E%9C%E9%A5%AE%E5%93%81%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：高端气泡水果饮品商业广告分镜脚本 格式：• 单页高端分镜脚本 • 3:4 竖屏比例 • 奢华饮品产品宣传活动 • 8 个电影级分镜场景 • 产品始终作为核心主角 • 高端广告代理商演示文稿 页眉：• 现代奢华字体 • 信息卡：时长：10 秒 风格：电影级饮品广告 产品：气泡水果饮品 音频：气泡声 + 清爽液体 ASMR • “为何选择此风格”部分 • 银色、柑橘橙色与深蓝色美学 • 极简高端装饰元素 分镜脚本：1. 覆盖着冷凝水的冰镇气泡饮料瓶 2. 瓶盖开启时喷涌而出的气泡 3. 气泡在饮料中穿梭的极致微距镜头 4. 气泡饮料倒入水晶杯中 5. 冰块慢动作落入杯中 6. 新鲜柑橘切片激起戏剧性的水花 7. 冷凝水珠与碳酸气泡的微距特写 8. 最终主角瓶身与玻璃杯，周围环绕着冰冻水花 每个面板：• 场景编号 • 时长标签 • 摄像机方向 • 视觉效果 • 动作描述 • 产品细节 摄像机：高速液体摄影、极致微距、冰冻水花捕捉、慢动作倾倒、戏剧性背光、冷凝水特写、电影级产品主角构图。风格：超写实饮品广告、逼真碳酸效果、细腻水珠、动态液体飞溅、高级玻璃反射、摄影棚灯光、奢华品牌感、商业摄影、8K。
+
+[English]
+TITLE: Premium Sparkling Fruit Drink Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Luxury beverage product campaign • 8 cinematic storyboard scenes • Product remains the central hero • Premium advertising agency presentation HEADER: • Modern luxury typography • Information cards: Duration: 10 Seconds Style: Cinematic Beverage Commercial Product: Sparkling Fruit Drink Audio: Fizz + Refreshing Liquid ASMR • Why This Style Works section • Silver, citrus orange and deep blue aesthetic • Minimal premium decorative accents STORYBOARD: 1. Chilled sparkling drink bottle covered in condensation 2. Bottle cap opening with a burst of carbonation 3. Extreme macro shot of bubbles racing through the drink 4. Sparkling drink pouring into a crystal glass 5. Ice cubes falling into the glass in slow motion 6. Fresh citrus slices creating a dramatic splash 7. Macro shot of condensation and carbonation bubbles 8. Final hero bottle and glass surrounded by frozen splash EVERY PANEL: • Scene number • Duration badge • Camera direction • Visual • Action • Product detail CAMERA: High-speed liquid photography, extreme macro, frozen splash capture, slow-motion pour, dramatic backlighting, condensation close-up, cinematic product hero framing. STYLE: Ultra-realistic beverage advertising, realistic carbonation, detailed water droplets, dynamic liquid splash, premium glass reflections, studio lighting, luxury branding, commercial photography, 8K.
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2093263096408399900) | 2026-08-28
+
+---
+
+### 🎴 例 6987：极简主义眼镜广告
+
+![极简主义眼镜广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%9C%BC%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+生成一张3:4竖版的极简主义{argument name="品牌" default="暴龙眼镜"}产品广告。背景为大面积暖白色，画面留白超过60%。中央偏下悬浮一副{argument name="风格" default="香槟金细框"}暴龙眼镜，镜架投下干净柔和的几何阴影。左侧镜片略微模糊，内部只有一个金色问号；右侧镜片通透明亮，内部出现一条清晰笔直的道路和远处晨光。画面右上角只露出一位成年亚洲女性的红唇、下巴和两根修长手指，她正在轻轻取下眼镜，人物被画布边缘自然裁切。左上角放置小号品牌字：“BOLON 暴龙眼镜”。画面中央使用超大黑色高对比衬线字体，严格分成两行：“{argument name="主标" default="眼光不行，"}”“{argument name="副标" default="镜片来救。"}”底部仅写：“看得清世界，也看得清自己。”整体参考国际高端眼镜品牌极简广告，柔和顶光，产品边缘锐利。禁止复杂背景、人物完整面孔、过多装饰、乱码和廉价促销元素。
+```
+
+**来源：** [@松果先森](https://x.com/songguoxiansen/status/2093178770568171587) | 2026-08-28
+
+---
+
+### 🎴 例 6988：多伦多“微型星球”旅行海报
+
+![多伦多“微型星球”旅行海报](../images/%E5%A4%9A%E4%BC%A6%E5%A4%9A%E2%80%9C%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E2%80%9D%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感、超精细的奇幻写实风格“微型星球”旅行海报，主角是 {argument name="city" default="多伦多"}，它像一座紧凑的岛屿漂浮在深邃的夜空中。以加拿大国家电视塔（CN Tower）为中心最高点，周围环绕着密集的多伦多天际线、带有白色圆顶的罗杰斯中心（Rogers Centre）、滨水运河、蜿蜒的道路、历史悠久的砖砌社区、树木、发光的街灯以及微型写实的建筑。必须包含 7 个显著的地标或细节：1）中心的加拿大国家电视塔，2）左侧的罗杰斯中心，3）旗杆上的加拿大国旗，4）前景中红白相间的有轨电车，5）圣劳伦斯市场（St. Lawrence Market）招牌，6）圆形的多伦多蓝鸟队（Toronto Blue Jays）标志，以及 7）岩石边缘上绘制的巨大“YYZ”字样。在右上角的云层附近添加 5 只飞鸟，水面上有一艘小帆船和一艘小摩托艇，浮岛岩石边缘处有几道飞流直下的瀑布，边缘环绕着秋色树木与常青植被。在右下角前景的岩石露头上放置一名背着背包的孤独旅行者，面向微型星球，以展现比例感与奇幻氛围。采用戏剧性的电影光效，深蓝色冷调阴影与温暖的城市灯光形成对比，天际线后方配以体积云和星空，呈现高细节的微型建筑、写实的纹理、奇幻旅行海报构图、清晰对焦、超广角景深，无边框，无水印。可选的文字元素应自然地融入招牌中，包括 {argument name="airport code text" default="YYZ"}、{argument name="market sign text" default="St. Lawrence Market"} 以及 {argument name="poster mood" default="电影感奇幻写实夜景旅行海报"}。
+
+[English]
+Create a cinematic, ultra-detailed fantasy-realistic miniature “tiny planet” travel poster of {argument name="city" default="Toronto"}, floating like a compact island in a dark atmospheric night sky. Make the CN Tower the tallest central centerpiece, surrounded by a dense Toronto skyline, the Rogers Centre with its white domed roof, waterfront canals, winding roads, historic brick neighborhoods, trees, glowing streetlights, and tiny realistic buildings. Include exactly 7 prominent landmark/details: 1) CN Tower in the center, 2) Rogers Centre on the left, 3) a Canadian flag on a pole, 4) a red-and-white streetcar in the foreground, 5) St. Lawrence Market signage, 6) a circular Toronto Blue Jays logo sign, and 7) large “YYZ” letters painted on a rocky ledge. Add exactly 5 birds flying near the clouds on the upper right, a small sailboat and a small motorboat on the water, several waterfalls spilling off the floating rock edge, and autumn-colored trees with evergreen foliage around the rim. Place one solitary traveler wearing a backpack on a rocky outcrop in the bottom right foreground, facing the tiny planet to create scale and wonder. Use dramatic cinematic lighting, warm city glow against cool deep-blue shadows, volumetric clouds behind the skyline, starry sky, highly detailed miniature architecture, realistic textures, fantasy travel-poster composition, sharp focus, ultra-wide depth, no border, no watermark. Optional text elements should be integrated naturally as signage only, including {argument name="airport code text" default="YYZ"}, {argument name="market sign text" default="St. Lawrence Market"}, and {argument name="poster mood" default="cinematic fantasy-realistic night travel poster"}.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2093177815558701386) | 2026-08-28
+
+---
+

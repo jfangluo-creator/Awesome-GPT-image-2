@@ -19365,3 +19365,89 @@ Avoid: facial mutilation, black material covering skin, glowing eyes, gore, scre
 
 ---
 
+### 🎨 例 6964：人造太阳超级城市
+
+![人造太阳超级城市](../images/%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个宏大的电影级科幻城市景观，概念主题为 {argument name="concept" default="人造太阳与城市"}：从高处露台俯瞰一座巨大的穹顶超级城市，穹顶正上方中心嵌入一颗炽热的人造太阳。太阳是一个白金色的聚变球体，周围环绕着同心机械环、放射状电缆、透明穹顶面板和精致的金色电路，将温暖的光束穿过薄雾投射向下。下方延伸出一座乌托邦式的未来大都市，围绕着绿松石色的湖泊、梯田绿植、桥梁以及穹顶内远处的雪山或云雾缭绕的岩脊而建。前景左下方有两个小的人类剪影站在弧形观景台上，以突显宏大的比例。左右两侧，带有圆形阳台和发光内部楼层的塔状圆柱形玻璃金属摩天大楼构成了视野框架；下半部分包含层叠的高架轨道、流畅的透明管状列车、尖塔、圆形平台和密集的金属基础设施。使用 {argument name="color palette" default="温暖的金色阳光、清凉的青色水体、银色金属、柔和的薄雾"}，超精细概念艺术，绘画感写实风格，错综复杂的建筑，发光的氛围，体积光，反射玻璃，闪烁的高光，史诗般的垂直构图，深邃的景深，令人惊叹与震撼，无文字，无 Logo，无水印。
+
+[English]
+Create a vast cinematic science-fiction cityscape titled by concept as {argument name="concept" default="artificial sun and city"}: a colossal domed megacity seen from a high balcony, with an enormous blazing artificial sun embedded in the ceiling at the top center. The sun is a white-gold fusion-like orb surrounded by concentric mechanical rings, radial cables, transparent dome panels, and delicate golden circuitry, casting warm shafts of light downward through haze. Below it stretches a utopian futuristic metropolis built around turquoise lakes, terraced greenery, bridges, and distant snow-capped mountains or cloudlike rocky ridges enclosed inside the dome. The foreground includes two small human silhouettes standing on a curved observation balcony at the lower left, emphasizing immense scale. On the right and left edges, towering cylindrical glass-and-metal skyscrapers with rounded balconies and glowing interior floors frame the view; in the lower half, include layered elevated transit rails, sleek transparent tube trains, spires, circular platforms, and dense metallic infrastructure. Use {argument name="color palette" default="warm gold sunlight, cool cyan water, silver metal, soft mist"}, ultra-detailed concept art, painterly realism, intricate architecture, luminous atmosphere, volumetric light, reflective glass, shimmering highlights, epic vertical composition, high depth, awe and wonder, no text, no logo, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2093291134709837951) | 2026-08-28
+
+---
+
+### 🎨 例 6965：重型设备机器人维护
+
+![重型设备机器人维护](../images/%E9%87%8D%E5%9E%8B%E8%AE%BE%E5%A4%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%B4%E6%8A%A4.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="組織名" default="警視庁重機対策課ロボット隊"}』 {argument name="状況" default="整備点検"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2093290957429186814) | 2026-08-28
+
+---
+
+### 🎨 例 6981：阳光下的动漫珠宝匠人
+
+![阳光下的动漫珠宝匠人](../images/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%8F%A0%E5%AE%9D%E5%8C%A0%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫风格插画，主角是一位英俊的年轻男性 {argument name="profession" default="珠宝匠人"}，正在阳光明媚的木质工作室工作台前工作。他留着 {argument name="hair color" default="黑色短发，向后梳理"}，拥有温暖的古铜色皮肤、凌厉的眉毛、棕色的眼睛、温柔专注的微笑，以及干净利落的脸庞。他身穿一件干练的白色衬衫，袖口卷起，外罩一件带有双肩带和金属扣的米色围裙。以四分之三侧面视角展示他坐着，身体微微前倾，双手正拿着并检查一枚银戒指。房间明亮通风，柔和的晨光从左侧的大窗户射入，窗外绿植模糊，画面充满温暖的高光、细腻的阴影，营造出宁静浪漫的日常番氛围。工作台上应准确包含 10 件可见的珠宝制作工具：他手中 1 枚银戒指，左前方白色圆架上 2 个直立的金属芯棒状工具，左下前景中 1 个装有深色铅笔或细长工具的杯子，正前方水平放置 1 把钳子，旁边 1 把细金属锉刀，右下角 1 个木制工具托盘，以及托盘内或旁边的 3 把小型金属手工具。背景中，架子上挂着 8 把手工具，搁板上有 3 盆小盆栽，墙上挂着 1 幅植物印刷画，以及 1 张钉在墙上的珠宝设计草图。使用干净的线条、柔和的赛璐珞阴影、绘画感的柔和高光、精细的手部刻画、写实的珠宝工作室道具、浅景深，以及明亮的奶油金调色。避免出现文字、标志、水印、多余人物、手指畸形或戒指重复的情况。
+
+[English]
+Create a polished vertical anime-style illustration of a handsome young adult male {argument name="profession" default="jewelry artisan"} working at a sunlit wooden studio bench. He has {argument name="hair color" default="short swept-back black hair"}, warm tan skin, sharp eyebrows, brown eyes, a gentle focused smile, and an elegant clean-shaven face. He wears a crisp white button-up shirt with rolled sleeves and a beige apron with two shoulder straps and metal buckles. Show him seated in a three-quarter view, leaning forward slightly while holding and inspecting one silver ring between both hands. The room is bright and airy, with soft morning sunlight streaming through a large window on the left, greenery blurred outside, warm highlights, delicate shadows, and a calm romantic slice-of-life mood. The workbench should contain exactly 10 visible jewelry-making items: 1 silver ring in his hands, 2 upright metal mandrel-like tools on a white circular stand at front left, 1 cup holding dark pencils or slim tools in the lower-left foreground, 1 pair of pliers lying horizontally near the front center, 1 slim metal file beside it, 1 wooden tool tray at the bottom right, and 3 small metal hand tools inside or beside the tray. In the background, include exactly 8 hanging hand tools along a rack, 3 small potted plants on a shelf, 1 framed botanical print, and 1 pinned sketch sheet with a jewelry diagram. Use clean linework, soft cel shading, painterly pastel highlights, detailed hands, realistic jewelry-workshop props, shallow depth of field, and luminous cream-and-gold color grading. Avoid text, logos, watermarks, extra characters, distorted fingers, or duplicated rings.
+```
+
+**来源：** [@さゆり|アニメ声クリエイター🎤](https://x.com/LilyLoveSNPY/status/2093199098165993601) | 2026-08-28
+
+---
+
+### 🎨 例 6989：20 世纪 70 年代科幻杂志风格墨水画
+
+![20 世纪 70 年代科幻杂志风格墨水画](../images/20%20%E4%B8%96%E7%BA%AA%2070%20%E5%B9%B4%E4%BB%A3%E7%A7%91%E5%B9%BB%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%E5%A2%A8%E6%B0%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黑白墨水画，富有表现力的特征，{argument name="art style" default="20 世纪 70 年代图形风格美学"}，大胆的高对比度轮廓，锋利清晰的线条，极简主义的线条粗细层级，动画清理风格，高调构图，深色背景。使用 {argument name="shading technique" default="点画/排线/交叉排线"} 作为渐变效果。
+
+[English]
+Black and white ink drawing, expressive features, {argument name="art style" default="1970s graphic style aesthetic"}, bold high-contrast outlines, sharp crisp line-work, minimalist line-weight hierarchy, clean-up animation style, high-key composition, dark background. Use {argument name="shading technique" default="stipple/hatch/crosshatch"} as gradients.
+```
+
+**来源：** [@D](https://x.com/D_the_Designer/status/2093177233636749331) | 2026-08-28
+
+---
+
+### 🎨 例 6991：古埃及神庙中的现代人
+
+![古埃及神庙中的现代人](../images/%E5%8F%A4%E5%9F%83%E5%8F%8A%E7%A5%9E%E5%BA%99%E4%B8%AD%E7%9A%84%E7%8E%B0%E4%BB%A3%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的电影级垂直照片写实场景，画面中 {argument name="character description" default="一名神秘穿越到古埃及的现代中东年轻男子"} 赤脚站在金色的古埃及宏伟神庙庭院中。他位于画面中心偏下方，身着白色亚麻裹裙，脚穿简约凉鞋，佩戴着由绿松石、红色、金色和黑色组成的华丽埃及珠饰领；他赤裸上身，留着短黑发和修剪整齐的胡须，正抬头看向左上方，神情充满敬畏与困惑。他的左手触碰着左侧前景的一根巨大砂岩柱，柱上刻有深邃细致的象形文字、王名圈以及浮雕的埃及人物形象。他身后是一座宏伟的砂岩神庙大门，带有雕刻的门楣细节、石块墙壁、温暖的沙漠薄雾、空气中的尘埃，门廊处可见一棵棕榈树。在大门两侧各添加一个燃烧的火炬盆，伴有橙色火焰和柔和的烟雾。画面中需包含正好六个人物：前景的主角、左侧边缘一个模糊的袍服人物局部、穿过门廊的两个远景袍服人物、右侧火炬附近的一个袍服人物，以及右侧边缘的一个白色袍服人物局部。使用温暖的琥珀色阳光、石板路上的长影、浅景深、戏剧性的历史奇幻写实风格、高细节的砂岩纹理、电影级构图，除主角微妙的现代面部造型外，不包含任何现代物品。在底部中心添加一个极简的白色水印，文字为 {argument name="watermark text" default="KHALED"}。
+
+[English]
+Create a cinematic vertical 9:16 photorealistic scene of {argument name="character description" default="a modern young Middle Eastern man mysteriously transported to Ancient Egypt"} standing barefoot in a grand Ancient Egyptian temple courtyard at golden hour. He is centered slightly low in frame, wearing a white linen wrap skirt, simple sandals, and a wide ornate Egyptian beaded collar in turquoise, red, gold, and black; his chest is bare, he has short dark hair and a trimmed beard, and he looks up to his left with awe and confusion. His left hand touches a massive sandstone pillar on the far left foreground, carved with deep detailed hieroglyphics, cartouches, and a standing Egyptian figure in relief. Behind him is a monumental sandstone temple gate with carved lintel details, block walls, warm desert haze, dust in the air, and a palm tree visible through the doorway. Add two flaming torch braziers near the gate, one on each side, with orange flames and soft smoke. Include exactly six visible human figures: the main man in the foreground, one blurred partial robed figure at the far left edge, two distant robed figures walking through the doorway, one robed figure near the right torch, and one partial white-robed figure at the far right edge. Use warm amber sunlight, long shadows on stone pavement, shallow depth of field, dramatic historical fantasy realism, high-detail sandstone textures, cinematic composition, and no modern objects except the transported man's subtle modern facial styling. Add a small minimalist white watermark at the bottom center reading {argument name="watermark text" default="KHALED"}.
+```
+
+**来源：** [@Arzoo Ai](https://x.com/Arzoo12sh/status/2093165803340488838) | 2026-08-28
+
+---
+

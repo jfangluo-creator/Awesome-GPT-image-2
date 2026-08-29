@@ -8123,3 +8123,64 @@ Create a highly detailed photorealistic miniature-world scene of {argument name=
 
 ---
 
+### 🧸 例 6982：苏州园林剪纸艺术
+
+![苏州园林剪纸艺术](../images/%E8%8B%8F%E5%B7%9E%E5%9B%AD%E6%9E%97%E5%89%AA%E7%BA%B8%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+9:16竖版，{argument name="风格" default="现代东方女性梦境立体剪纸艺术"}，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，layered shadow box，poetic female dreamscape，contemporary oriental art poster。
+
+作品主题为“她在月门深处听见旧园苏醒”。
+
+一位视觉年龄约{argument name="年龄" default="24岁"}的东方成年女性，温柔清醒、安静治愈，带一点旧梦初醒的含蓄感，独自站在层层递进的{argument name="主题" default="苏州园林"}纸雕空间之中。人物柔和鹅蛋脸，清亮杏眼，神情平静而若有所思。黑色长发半披半挽，发尾与花枝纸带自然连接，佩戴浅金小花与叶片发饰。她身穿月白与浅豆青色多层纸艺长裙，裙摆带花窗、池水波纹与枝叶镂空结构，披帛轻薄垂落并带精细镂空边缘。
+
+整个场景必须首先让人一眼看出是高级立体纸雕艺术装置，其次才看出是苏州园林。所有元素都必须由清晰可辨的纸片构成，绝不出现真实石材、木材、瓦片、水体或植物质感。
+
+画面采用圆窗窥梦式构图。前景只保留一部分巨大月门边缘作为柔和框景，不让月门占满画面；同时加入局部漏窗、花枝和竹叶作为轻框景。中景是一段临水回廊、纸雕池水与极小人物，远景透过第二重月门继续看见白墙黛瓦、太湖石、小桥、清池与庭树，形成“门中见门、廊外有水、水后还有园”的深层空间关系。
+
+人物位于中下部偏小位置，站在临水石阶或回廊边缘，背对或三分之二侧背对镜头，身体微微朝向远处第二重月门。人物只作为园林深处的情绪锚点，不能过大，不能变成肖像主体。
+
+园林核心元素包括：层层月门、曲折回廊、纸雕池水、荷叶、荷花、太湖石、花窗、白墙黛瓦、小桥与庭树。所有这些元素都必须明显纸雕化：
+
+白墙由多层暖白厚纸叠合而成，边缘清楚可见纸张厚度与裁切断面
+黛瓦由独立深青灰纸片逐片排列，不像真实瓦片
+太湖石由多层镂空纸板套叠而成，具有明显纸张层次和孔洞边缘
+池水由湖青、浅青、月白多层波纹纸片平铺构成，带清晰层间阴影与裁切弧线
+竹叶、荷叶、花朵、枝条都由独立纸片裁切而成，边缘可见微翘曲、纸张纤维和手工裁切痕迹
+回廊、栏杆、桥体和花窗都有精细纸雕镂空纹样，不出现真实木构或石构质感
+
+整体色彩方案为：粉墙暖白、清透湖青、鲜嫩竹绿、黛青灰为主，少量杏粉与浅金点缀。画面必须明亮、清润、细雅、鲜活，具有苏州园林的精巧与女性审美气质。不同区域颜色明确分离，不使用灰绿色统一滤镜，不米黄、不灰蒙、不压抑。湖水应清透偏青蓝，竹叶与庭树应鲜嫩青绿，白墙保持明亮暖白，花朵用少量杏粉与荷花粉提亮，浅金只用于纸雕边缘和少量高光。
+
+光线采用明亮清晨侧光，从右上方或斜上方照入。粉墙与湖面形成自然反射补光，竹叶、荷花、镂空花窗和披帛边缘轻微透光。纸层之间应有清晰但柔和的层间投影，让观者明显看出前景纸层、中景纸层、远景纸层的叠合关系。整体光感必须清透、润泽、洁净，不要沉闷，不要旧纸泛黄。
+
+强化纸艺细节：清晰纸张纤维、纸片厚度、手工裁切边缘、轻微折痕、边缘翘起感、精细镂空花纹、层叠投影和局部透光效果。整幅画面应像博物馆级高完成度纸雕展览作品，而不是普通园林插画、建筑模型或CG微缩景观。
+
+整体情绪为：旧园苏醒、晨光入门、风过池水、内心重新安静下来。场景要体现苏州园林的精巧、清润、雅致与含蓄，不是恢弘压迫，而是静中有深、深中有润、润中有诗意。
+
+补充要求：强化“门中见门”的层次感与旧园深处的静谧气质；保留这版清透、明亮、鲜润的配色；进一步加强纸艺风格，让所有园林元素都明确可见纸雕结构和纸张材质；不要做成普通园林插画，也不要做成真实建筑模型。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2093194954294354015) | 2026-08-28
+
+---
+
+### 🧸 例 6984：圣托里尼微缩旅行海报
+
+![圣托里尼微缩旅行海报](../images/%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E5%BE%AE%E7%BC%A9%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级电影感旅行海报，展示 {argument name="destination" default="圣托里尼"}，{argument name="country" default="希腊"} 的超精细照片级写实等轴测微缩立体模型。画布比例为 4:5 竖版，采用干净的暖米白色摄影棚背景，顶部留有充足的空白区域以便排版。将场景居中，呈现为一个漂浮的可收藏级岛屿雕塑，包含陡峭的深色火山悬崖、深蓝色的圆形火山口海湾，以及下方柔和的自然阴影。构建微缩模型时，需包含沿悬崖堆叠的密集白色基克拉泽斯式房屋、狭窄的楼梯、蜿蜒的小径、露台、小型庭院、盛开的三角梅、米色石墙以及明亮的钴蓝色点缀。包含恰好 6 座显眼的蓝顶教堂、恰好 3 座传统风车，以及恰好 8 艘可见的船只：4 艘帆船分布在海湾各处，1 艘小型摩托艇在开阔水域，以及 3 艘靠近港口的小船。水面应呈现写实效果，带有细微的涟漪，港口附近为绿松石色浅滩，中心则为深海军蓝色。使用温暖的午后地中海阳光、清晰的阴影、高深度细节、真实的微缩比例，以及精致的奢华旅行广告质感。排版要求：顶部设置一个大型、优雅且高对比度的衬线标题，文字为 {argument name="headline text" default="SANTORINI"}，采用深海军蓝色，并增加字间距；下方是较小的、带有间距的大写文字 {argument name="subheadline text" default="GREECE"}；再下方是一条纤细的金色分割线，中间带有一个小菱形；最后是极小的全大写说明文字 {argument name="caption text" default="AEGEAN ISLAND DIORAMA • 2026"}。保持构图简洁、对称、精致且符合海报标准，画面中不包含人物、标志、水印或任何额外文字。
+
+[English]
+Create a premium cinematic travel poster featuring an ultra-detailed photorealistic isometric miniature diorama of {argument name="destination" default="Santorini"}, {argument name="country" default="Greece"}. The canvas is vertical 4:5 with a clean warm off-white studio background and generous empty space at the top for typography. Center the scene as a floating collectible-scale island sculpture with steep dark volcanic cliffs, a circular caldera bay of deep blue water, and a soft natural shadow underneath. Build the miniature with dense whitewashed Cycladic houses stacked along the cliffs, narrow stairways, winding paths, terraces, small courtyards, flowering bougainvillea, beige stone walls, and bright cobalt-blue accents. Include exactly 6 prominent blue-domed churches, exactly 3 traditional windmills, and exactly 8 visible boats: 4 sailboats spread across the bay, 1 small motorboat in open water, and 3 small boats near the harbor. The water should be realistic with subtle ripples, turquoise shallows near the harbor, and darker navy tones in the center. Use warm late-afternoon Mediterranean sunlight, crisp shadows, high depth of detail, realistic miniature scale, and a polished luxury travel-advertisement finish. Typography: at the top, set a large elegant high-contrast serif title reading {argument name="headline text" default="SANTORINI"} in dark navy with wide letter spacing; beneath it, smaller spaced uppercase text reading {argument name="subheadline text" default="GREECE"}; below that, a thin gold divider line with a small centered diamond; then a tiny uppercase caption reading {argument name="caption text" default="AEGEAN ISLAND DIORAMA • 2026"}. Keep the composition clean, symmetrical, refined, and poster-ready, with no people, no logos, no watermark, and no extra text.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2093187916877197528) | 2026-08-28
+
+---
+
