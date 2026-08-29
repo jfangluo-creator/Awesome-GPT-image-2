@@ -14538,3 +14538,109 @@ Transform the subject in the attached photo into a square miniature painting in 
 
 ---
 
+### 🖥️ 例 6999：Windows 12 官方 UI 概念图
+
+![Windows 12 官方 UI 概念图](../images/Windows%2012%20%E5%AE%98%E6%96%B9%20UI%20%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张 16:9 的官方截图图像，内容为 {argument name="operating system" default="Windows 12"}
+
+[English]
+Genera una imagen 16:9 de una captura de pantalla oficial de {argument name="operating system" default="Windows 12"}
+```
+
+**来源：** [@Nixus](https://x.com/nixus404/status/2093414040412225961) | 2026-08-28
+
+---
+
+### 🖥️ 例 7013：爆款吉祥物短视频网格
+
+![爆款吉祥物短视频网格](../images/%E7%88%86%E6%AC%BE%E5%90%89%E7%A5%A5%E7%89%A9%E7%9F%AD%E8%A7%86%E9%A2%91%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅社交媒体分析拼贴图，展示一个由 6 个竖屏短视频缩略图组成的网格，主角为两个反复出现的 3D 动画吉祥物（一个黄色，一个紫色），场景充满情感且具有电影质感。
+
+画布：超宽横屏截图构图，比例约为 3:1，采用深色应用界面背景，6 个竖长方形的 Reels 缩略图并排排列。呈现出精致的 Instagram/Reels 发现页面风格，具备高质量动画电影光影和戏剧性的叙事缩略图。
+
+布局：画布上精确显示 6 个竖屏视频卡片，卡片之间由细窄的深色间距隔开。每个卡片顶部或底部附近都有一个白色的小眼睛/播放图标，并叠加观看次数。在表现优异的观看次数标签周围添加 2 个明亮的荧光绿矩形高亮框：一个位于左下方的“989K”周围，另一个位于右下方的“1.2M”周围。
+
+主体细节：反复出现的主角是两个圆润、无面部但表情丰富的类人卡通角色：{argument name="yellow character" default="一个发光的金黄色类人吉祥物"} 和 {argument name="purple character" default="一个柔软的淡紫色类人吉祥物"}。它们拥有简单的黑色椭圆形眼睛、圆润的头部、孩童般的身体以及类似皮克斯动画的生动姿态。除偶尔使用的道具外，不穿任何衣服。
+
+从左至右的 6 个缩略图场景：
+1. 夜晚的山脉或湖泊场景，紫色角色在水边或岩石旁惊恐地向前迈步，黄色角色位于画面下方；顶部叠加观看次数“15K”，底部叠加“989K”，底部数字以绿色高亮显示。
+2. 明亮的海滩场景，黄色角色在远处沿着海岸线行走，紫色角色戴着墨镜在条纹毛巾上休息；顶部叠加观看次数“225K”，底部附近叠加“365K”。
+3. 昏暗的卧室场景，紫色角色靠近镜头拿着手机，黄色角色双臂交叉站在身后，表情愤怒；顶部叠加观看次数“18K”，底部附近叠加“26.7K”。
+4. 黑暗的戏剧性场景，紫色角色被沉重的银色锁链缠绕，看起来悲伤且被困；顶部叠加观看次数“148K”，底部附近叠加“557K”。
+5. 温暖励志的客厅场景，阳光从门口射入，黄色角色自信地站在背景中，紫色和黄色角色在前景中坐在笔记本电脑前；包含加粗的白色标题 {argument name="thumbnail caption" default="活在当下，让未来的自己无悔"}，并叠加绿色高亮的观看次数“1.2M”。
+6. 最右侧边缘延续温暖场景的裁剪，显示深色应用边距，底部附近有一个小的部分标签，写着“Perfection”。
+
+视觉风格：高质量 3D 动画、电影级光影、光泽柔软的材质、情感化叙事、爆款励志短视频缩略图美学、紫色与金黄色角色之间的强烈对比、真实的景深效果、戏剧性的轮廓光、精致的社交媒体截图真实感。
+
+约束条件：必须包含 6 个竖屏缩略图，总共 10 个可见的观看次数标签：“15K”、“225K”、“18K”、“148K”、“24K”、“989K”、“365K”、“26.7K”、“557K”和“1.2M”。所有 UI 文字保持白色，顶部和底部使用黑色半透明叠加条，不要添加额外的角色或观看次数。
+
+[English]
+Goal: Create a wide social-media analytics collage showing a grid of viral vertical video thumbnails featuring two recurring 3D animated mascot characters, one yellow and one purple, in emotional cinematic scenes.
+
+Canvas: Extra-wide landscape screenshot composition, approximately 3:1 aspect ratio, dark app-like background with six tall vertical reel thumbnails cropped side by side. Use a polished Instagram/Reels discovery-page feel, with high-quality animated-film lighting and dramatic storytelling thumbnails.
+
+Layout: Show exactly 6 visible vertical video cards across the canvas, separated by thin dark gutters. Each card has a small white eye/play-style icon with a view count overlay near the top or bottom. Add exactly 2 bright neon-green rectangular highlight boxes around high-performing view-count labels: one around “989K” near the lower left, and one around “1.2M” near the lower right.
+
+Subject details: The recurring heroes are two smooth, rounded, faceless-but-expressive humanoid cartoon characters: {argument name="yellow character" default="a glowing golden-yellow humanoid mascot"} and {argument name="purple character" default="a soft lavender-purple humanoid mascot"}. They have simple black oval eyes, rounded heads, childlike bodies, and Pixar-like expressive poses. No clothing except occasional props.
+
+Six thumbnail scenes, left to right:
+1. A nighttime mountain or lake scene where the purple character looks frightened while stepping forward near water or rocks, with the yellow character lower in the frame; overlay view counts “15K” at the top and “989K” at the bottom, with the bottom count highlighted in green.
+2. A bright beach scene with the yellow character walking along the shoreline in the distance while the purple character relaxes on a striped towel wearing dark sunglasses; overlay view counts “225K” at the top and “365K” near the bottom.
+3. A dim bedroom scene where the purple character sits close to camera holding a phone while the yellow character stands behind with arms crossed and an angry expression; overlay view counts “18K” at the top and “26.7K” near the bottom.
+4. A dark dramatic scene where the purple character is wrapped in heavy silver chains, looking sad and trapped; overlay view counts “148K” at the top and “557K” near the bottom.
+5. A warm inspirational living-room scene with sunlight streaming through a doorway, showing the yellow character standing confidently in the background while the purple and yellow characters sit at a laptop in the foreground; include the bold white caption {argument name="thumbnail caption" default="LIVE SO YOUR FUTURE SELF HAS NOTHING TO REGRET"} and overlay view count “1.2M” highlighted in green.
+6. The far-right edge continues the warm scene crop, showing dark app margins and a small partial label near the bottom reading “Perfection.”
+
+Visual style: High-quality 3D animation, cinematic lighting, glossy soft materials, emotional storytelling, viral motivational short-video thumbnail aesthetic, strong contrast between purple and golden-yellow characters, realistic depth of field, dramatic rim lights, polished social media screenshot realism.
+
+Constraints: Include exactly 6 vertical thumbnails, exactly 10 visible view-count labels total: “15K”, “225K”, “18K”, “148K”, “24K”, “989K”, “365K”, “26.7K”, “557K”, and “1.2M”. Keep all UI text white, use black translucent overlay bars at the top and bottom, and do not add extra characters or extra view counts.
+```
+
+**来源：** [@Alex | The AI Ads Guy](https://x.com/qwertyu_alex/status/2093304444293091836) | 2026-08-28
+
+---
+
+### 🖥️ 例 7022：风景转珐琅徽章设计
+
+![风景转珐琅徽章设计](../images/%E9%A3%8E%E6%99%AF%E8%BD%AC%E7%8F%90%E7%90%85%E5%BE%BD%E7%AB%A0%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转换为旅行纪念品珐琅徽章。请将其构图为“场景”，而非单一的孤立物体。
+
+主体层级：照片中具有代表性的风景、地形或地标构成徽章的主体，并占据大部分区域。如果照片中有人物出现，请将其保留在徽章中，作为风景中比例真实的微型简化形象——人物是点缀，风景才是主体。请保留人物与周围环境原始的空间关系和比例。
+
+人物渲染方式：使用与照片中真实服装和发色相符的扁平珐琅色块。脸部为平滑的浅肤色珐琅区域，不绘制任何面部特征——请勿将人物渲染为深色或黑色剪影，也不要将脸部或头部涂黑。肤色应呈现为温暖的浅珐琅色，明显比服装颜色更亮。
+
+风格：轮廓边缘及所有内部线条采用抛光细金边，填充光泽珐琅色，光线柔和均匀，金边仅带有轻微光泽，并带有极细微的投影。徽章外轮廓遵循场景本身的形状，而非简单的矩形。
+
+背景：扁平的 {argument name="background texture" default="深海军蓝粗亚麻"} 纹理。徽章居中，占据画面约 60% 的区域。
+
+避免：黑色剪影人物、涂黑的脸部、深色无特征头部、肖像特写、详细的面部特征、人物占据徽章主导地位、裁剪掉风景、四分之三角度、微距产品摄影、强烈的镜面反光、卡通风格、写实场景、文字、水印。
+
+[English]
+Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
+
+Subject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject.Preserve the original spatial relationship and scale between the figure and the surroundings.
+
+How to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing.Styling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle.
+
+Background: flat {argument name="background texture" default="dark navy coarse linen"} texture. Badge centered, filling about 60% of the frame.Avoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.
+```
+
+**来源：** [@Emma](https://x.com/Emmma__0/status/2093194689222705645) | 2026-08-28
+
+---
+

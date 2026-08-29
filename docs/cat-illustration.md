@@ -19451,3 +19451,169 @@ Create a cinematic vertical 9:16 photorealistic scene of {argument name="charact
 
 ---
 
+### 🎨 例 7000：第二道光之天界战士
+
+![第二道光之天界战士](../images/%E7%AC%AC%E4%BA%8C%E9%81%93%E5%85%89%E4%B9%8B%E5%A4%A9%E7%95%8C%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑史诗科幻奇幻风格的竖构图插画，采用电影级超精细画风。画面展示了 {argument name="character name" default="The Second Light"}，一位孤独的天使般白甲战士站在前景中，位于巨大的圆形天界机器地板上，侧身向右。战士拥有飘逸的长白发，高挑纤细的生物机械躯体覆盖着光亮的白色分段式装甲，装甲间隙处呈现黑色，并带有血红色的点缀，手中握着一把向下倾斜指向右侧的长细剑。战士身后矗立着一个巨大的垂死神明，由苍白的石头、金色电路、破碎的解剖结构和发光的星座组成；其巨大的面孔位于右上角，一只巨大的手臂在左侧向上抬起，躯干中心包含一个明亮的圆形太阳状核心，周围环绕着机械星盘环。在其上方和后方，有三个由金色电路和破碎轨道结构组成的巨大同心光环。在右侧靠近战士长剑的地方，放置九个排成一列的微小披风兜帽见证者以体现比例感。环境是一个破碎的天界巨型建筑：黑色星空、漂浮的碎片、错综复杂的金色电路痕迹、发光的细丝、红色火花以及延伸至深处的圆形雕刻平台。使用黑色、炭灰色、象牙白、白色、青铜色和暖金色调，并带有少许深红色高光。光影效果应具有戏剧性和神圣感，采用背光金色光芒、浓密的微粒辉光、高对比度以及油画般的超写实细节。氛围：末日感、神圣、悲剧、令人敬畏，仿佛天堂在神明被第二道光吞噬后幸存了下来。无文字，无水印，无现代物体，无卡通风格。
+
+[English]
+Create a dark epic science-fantasy vertical illustration in a cinematic ultra-detailed style. The scene shows {argument name="character name" default="The Second Light"}, a lone angelic white-armored warrior standing in the foreground on a vast circular celestial machine floor, facing right in profile. The warrior has long flowing white hair, a tall slim biomechanical body covered in glossy white segmented armor with black gaps and red bloodlike accents, and holds exactly one long thin sword angled downward to the right. Behind the warrior rises exactly one colossal dying godlike humanoid made of pale stone, gold circuitry, fractured anatomy, and luminous constellations; its huge face is on the upper right, one massive arm lifts upward on the left, and its torso contains a bright circular sun-like core surrounded by mechanical astrolabe rings. Above and behind it are exactly three large concentric halo rings made of golden circuitry and broken orbital architecture. On the right side near the warrior’s sword, include exactly nine tiny hooded robed witnesses standing in a line for scale. The environment is a shattered heavenly megastructure: black starry void, floating debris, intricate gold circuit traces, glowing filaments, red sparks, and circular engraved platforms stretching into depth. Use a palette of black, charcoal, ivory, white, bronze, and warm gold with small crimson highlights. Lighting should be dramatic and sacred, with backlit golden radiance, dense particulate glow, high contrast, and painterly hyperreal detail. Mood: apocalyptic, divine, tragic, awe-inspiring, as if heaven has survived after its god was consumed by a second light. No text, no watermark, no modern objects, no cartoon style.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2093382641575919737) | 2026-08-28
+
+---
+
+### 🎨 例 7001：“神明下跪”叙事场景
+
+![“神明下跪”叙事场景](../images/%E2%80%9C%E7%A5%9E%E6%98%8E%E4%B8%8B%E8%B7%AA%E2%80%9D%E5%8F%99%E4%BA%8B%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+Benjamin 放过了那位神明。随后，他看到了神明一直背负的东西。神明下跪了
+
+[English]
+Benjamin spared the god. Then he saw what the god had been carrying. THE GOD KNEELS
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2093376454088327403) | 2026-08-28
+
+---
+
+### 🎨 例 7002：虚空场景的选择
+
+![虚空场景的选择](../images/%E8%99%9A%E7%A9%BA%E5%9C%BA%E6%99%AF%E7%9A%84%E9%80%89%E6%8B%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+再割一刀，神便会陨落。随后他看见了这一刀还会摧毁什么。虚空的选择
+
+[English]
+One more cut could kill the god. Then he saw what else it would kill. CHOICE OF THE VOID
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2093372897977053506) | 2026-08-28
+
+---
+
+### 🎨 例 7007：初次凝视的叙事
+
+![初次凝视的叙事](../images/%E5%88%9D%E6%AC%A1%E5%87%9D%E8%A7%86%E7%9A%84%E5%8F%99%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+它没有动。它只是睁开了双眼。初次凝视
+
+[English]
+It didn’t move. It only opened its eyes. THE FIRST GAZE
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2093347961246015490) | 2026-08-28
+
+---
+
+### 🎨 例 7015：德古拉与美丽的猎物
+
+![德古拉与美丽的猎物](../images/%E5%BE%B7%E5%8F%A4%E6%8B%89%E4%B8%8E%E7%BE%8E%E4%B8%BD%E7%9A%84%E7%8C%8E%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主題" default="吸血鬼ドラキュラ"}と{argument name="対象" default="餌食になる美女"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2093290776944095606) | 2026-08-28
+
+---
+
+### 🎨 例 7016：超现实钢笔画风格
+
+![超现实钢笔画风格](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%92%A2%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+【{argument name="テーマ" default="イラストの内容やテーマをここに"}】
+
+綺麗ではない歪な線、少し震えるようなでもしっかりした線のインクペンで描いたようなイラスト
+線の太さは均一にしない
+デフォルメされていて、単純なシルエット、色の濃いところはペンで塗りつぶす
+
+かなりシュール、chaos、ちょっとぶっ飛んでる、グロいものはなるべく避けて
+Temperatureは1.2
+
+素朴で単純化されたキャラクターデザイン、解剖学を捨てた、記号的な身体、短く簡略化された手足、わざと少し不器用に描いた情報量の少ないシルエット
+色は5色以内でまとめて使いすぎない
+
+参照画像がある場合は、完全にコピーするのではなく、特徴や雰囲気を残しつつ単純な形にデフォルメする。
+```
+
+**来源：** [@tane@AI](https://x.com/gin1910410/status/2093284053592203705) | 2026-08-28
+
+---
+
+### 🎨 例 7021：阳光下的动漫珠宝匠人
+
+![阳光下的动漫珠宝匠人](../images/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%8F%A0%E5%AE%9D%E5%8C%A0%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫风格插画，主角是一位英俊的年轻男性 {argument name="profession" default="珠宝匠人"}，正在阳光明媚的木质工作室工作台前工作。他留着 {argument name="hair color" default="黑色短发，向后梳理"}，拥有温暖的古铜色皮肤、凌厉的眉毛、棕色的眼睛、温柔专注的微笑，以及干净利落的脸庞。他身穿一件干练的白色衬衫，袖口卷起，外罩一件带有双肩带和金属扣的米色围裙。以四分之三侧面视角展示他坐着，身体微微前倾，双手正拿着并检查一枚银戒指。房间明亮通风，柔和的晨光从左侧的大窗户射入，窗外绿植模糊，画面充满温暖的高光、细腻的阴影，营造出宁静浪漫的日常番氛围。工作台上应准确包含 10 件可见的珠宝制作工具：他手中 1 枚银戒指，左前方白色圆架上 2 个直立的金属芯棒状工具，左下前景中 1 个装有深色铅笔或细长工具的杯子，正前方水平放置 1 把钳子，旁边 1 把细金属锉刀，右下角 1 个木制工具托盘，以及托盘内或旁边的 3 把小型金属手工具。背景中，架子上挂着 8 把手工具，搁板上有 3 盆小盆栽，墙上挂着 1 幅植物印刷画，以及 1 张钉在墙上的珠宝设计草图。使用干净的线条、柔和的赛璐珞阴影、绘画感的柔和高光、精细的手部刻画、写实的珠宝工作室道具、浅景深，以及明亮的奶油金调色。避免出现文字、标志、水印、多余人物、手指畸形或戒指重复的情况。
+
+[English]
+Create a polished vertical anime-style illustration of a handsome young male jewelry craftsman in a sunlit workshop, shown from the waist up at a workbench. He has {argument name="hair color" default="black"} short swept-back hair with loose strands, warm brown eyes, sharp eyebrows, a calm gentle smile, and clean masculine facial features. He wears a crisp {argument name="shirt color" default="white"} button-up shirt with rolled sleeves and a beige apron with straps and metal buckles. His posture is slightly leaning forward as he carefully holds and inspects {argument name="object in hands" default="a silver ring"} between both hands, with detailed slender fingers and soft highlights on the metal. The setting is {argument name="workshop type" default="a bright jewelry atelier"} filled with precision tools: exactly 6 visible bench tools in the foreground tray, exactly 4 upright metal tools on the left workstation, exactly 5 blurred tool handles lined near the window, and small containers, a plant, framed botanical art, and a jewelry sketch board in the background. Use warm morning sunlight streaming through a large window on the left, glowing dust-mote atmosphere, soft pastel beige and cream tones, delicate linework, refined cel-shaded rendering, subtle painterly textures, high-detail hands and face, shallow depth of field, and an intimate professional mood. Composition should be portrait 3:4, subject centered slightly right, face in the upper middle, hands and ring as the focal point in the lower center. No text, no speech bubbles, no watermark, no extra characters.
+```
+
+**来源：** [@さゆり|アニメ声クリエイター🎤](https://x.com/LilyLoveSNPY/status/2093199098165993601) | 2026-08-28
+
+---
+
+### 🎨 例 7024：月下幻彩和服舞者
+
+![月下幻彩和服舞者](../images/%E6%9C%88%E4%B8%8B%E5%B9%BB%E5%BD%A9%E5%92%8C%E6%9C%8D%E8%88%9E%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版动漫奇幻插图，描绘 {argument name="character name" default="一位优雅的年轻巫女舞者"} 站在夜晚月光照耀的河水中，水深没过脚踝，她回眸看向观众，带着温柔的微笑和明亮的绿色眼睛。她拥有极长的飘逸 {argument name="hair color" default="粉色"} 秀发，随风飞舞，并装饰着精致的花朵发饰。她身着华丽的 {argument name="kimono colors" default="深红、白、翠绿、紫和金色"} 多层日本和服，上面布满了复杂的金色刺绣花纹、锦缎镶边、半透明袖子、多层腰带，以及围绕双腿戏剧性旋转的飘逸布料。她的双臂高举过头顶，握着巨大的半透明 {argument name="magical veil" default="幻彩羽衣"}，在身体周围形成一个像光环一样的发光圆弧；面纱呈现玻璃质感，带有虹彩，轻盈无重，充满无数彩虹闪光、星状折射和闪烁的丝线。背景是深蓝色的星空河岸，有岩石、树影、薄雾，右上角有一轮明亮的满月，波光粼粼的水面反射着月光和成千上万的闪烁光点。采用动态舞蹈姿势，展现优雅的动作、随风飘动的头发和衣物、电影级逆光效果、水面强烈的镜面高光、随处飘浮的魔法粒子、超精细的布料纹理、浪漫的奇幻氛围、精致的高端动漫主视觉风格，角色焦点清晰，光影色彩分明，无文字，无边框，无水印。
+
+[English]
+Create a highly detailed vertical anime fantasy illustration of a graceful young woman named {argument name="character name" default="a pink-haired shrine maiden princess"} dancing on a shallow moonlit river at night. She has very long flowing {argument name="hair color" default="rose-pink"} hair, soft green eyes, a delicate smile, and a floral hair ornament near one ear. Show her full body in a dynamic turning pose, looking back over her shoulder toward the viewer while holding a single huge translucent iridescent veil above and around her with both raised hands; the veil forms one luminous looping arc like a prism ribbon, filled with rainbow refractions, sparkling star points, and glassy soap-bubble highlights. Dress her in an ornate layered {argument name="kimono colors" default="red, white, emerald green, purple, and gold"} ceremonial kimono with elaborate gold embroidery, floral brocade, wide flowing sleeves, stacked skirt panels, decorative sashes, bracelets, and traditional sandals. The scene contains exactly one full moon in the upper right, a dark star-filled sky, distant trees and rocks, and shimmering water reflecting moonlight and multicolored sparkles around her feet. Use a cinematic vertical composition, backlit moon glow, glittering particles, ultra-fine fabric details, elegant motion in the hair and sleeves, romantic magical realism, polished high-end anime art, luminous colors, sharp focus on the character, and no text or watermark.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2093188103796408523) | 2026-08-28
+
+---
+
+### 🎨 例 7032：古埃及神庙中的现代人
+
+![古埃及神庙中的现代人](../images/%E5%8F%A4%E5%9F%83%E5%8F%8A%E7%A5%9E%E5%BA%99%E4%B8%AD%E7%9A%84%E7%8E%B0%E4%BB%A3%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的电影级垂直照片写实场景，画面中 {argument name="character description" default="一名神秘穿越到古埃及的现代中东年轻男子"} 赤脚站在金色的古埃及宏伟神庙庭院中。他位于画面中心偏下方，身着白色亚麻裹裙，脚穿简约凉鞋，佩戴着由绿松石、红色、金色和黑色组成的华丽埃及珠饰领；他赤裸上身，留着短黑发和修剪整齐的胡须，正抬头看向左上方，神情充满敬畏与困惑。他的左手触碰着左侧前景的一根巨大砂岩柱，柱上刻有深邃细致的象形文字、王名圈以及浮雕的埃及人物形象。他身后是一座宏伟的砂岩神庙大门，带有雕刻的门楣细节、石块墙壁、温暖的沙漠薄雾、空气中的尘埃，门廊处可见一棵棕榈树。在大门两侧各添加一个燃烧的火炬盆，伴有橙色火焰和柔和的烟雾。画面中需包含正好六个人物：前景的主角、左侧边缘一个模糊的袍服人物局部、穿过门廊的两个远景袍服人物、右侧火炬附近的一个袍服人物，以及右侧边缘的一个白色袍服人物局部。使用温暖的琥珀色阳光、石板路上的长影、浅景深、戏剧性的历史奇幻写实风格、高细节的砂岩纹理、电影级构图，除主角微妙的现代面部造型外，不包含任何现代物品。在底部中心添加一个极简的白色水印，文字为 {argument name="watermark text" default="KHALED"}。
+
+[English]
+Create a cinematic vertical 9:16 photorealistic scene of {argument name="character description" default="a modern young Middle Eastern man mysteriously transported to Ancient Egypt"} standing barefoot in a grand Ancient Egyptian temple courtyard at golden hour. He is centered slightly low in frame, wearing a white linen wrap skirt, simple sandals, and a wide ornate Egyptian beaded collar in turquoise, red, gold, and black; his chest is bare, he has short dark hair and a trimmed beard, and he looks up to his left with awe and confusion. His left hand touches a massive sandstone pillar on the far left foreground, carved with deep detailed hieroglyphics, cartouches, and a standing Egyptian figure in relief. Behind him is a monumental sandstone temple gate with carved lintel details, block walls, warm desert haze, dust in the air, and a palm tree visible through the doorway. Add two flaming torch braziers near the gate, one on each side, with orange flames and soft smoke. Include exactly six visible human figures: the main man in the foreground, one blurred partial robed figure at the far left edge, two distant robed figures walking through the doorway, one robed figure near the right torch, and one partial white-robed figure at the far right edge. Use warm amber sunlight, long shadows on stone pavement, shallow depth of field, dramatic historical fantasy realism, high-detail sandstone textures, cinematic composition, and no modern objects except the transported man's subtle modern facial styling. Add a small minimalist white watermark at the bottom center reading {argument name="watermark text" default="KHALED"}.
+```
+
+**来源：** [@Arzoo Ai](https://x.com/Arzoo12sh/status/2093165803340488838) | 2026-08-28
+
+---
+

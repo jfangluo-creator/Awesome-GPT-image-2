@@ -29899,3 +29899,105 @@ Create a cinematic, ultra-detailed fantasy-realistic miniature “tiny planet”
 
 ---
 
+### 🎴 例 7026：多伦多“微型星球”旅行海报
+
+![多伦多“微型星球”旅行海报](../images/%E5%A4%9A%E4%BC%A6%E5%A4%9A%E2%80%9C%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E2%80%9D%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感、超精细的奇幻写实风格“微型星球”旅行海报，主角是 {argument name="city" default="多伦多"}，它像一座紧凑的岛屿漂浮在深邃的夜空中。以加拿大国家电视塔（CN Tower）为中心最高点，周围环绕着密集的多伦多天际线、带有白色圆顶的罗杰斯中心（Rogers Centre）、滨水运河、蜿蜒的道路、历史悠久的砖砌社区、树木、发光的街灯以及微型写实的建筑。必须包含 7 个显著的地标或细节：1）中心的加拿大国家电视塔，2）左侧的罗杰斯中心，3）旗杆上的加拿大国旗，4）前景中红白相间的有轨电车，5）圣劳伦斯市场（St. Lawrence Market）招牌，6）圆形的多伦多蓝鸟队（Toronto Blue Jays）标志，以及 7）岩石边缘上绘制的巨大“YYZ”字样。在右上角的云层附近添加 5 只飞鸟，水面上有一艘小帆船和一艘小摩托艇，浮岛岩石边缘处有几道飞流直下的瀑布，边缘环绕着秋色树木与常青植被。在右下角前景的岩石露头上放置一名背着背包的孤独旅行者，面向微型星球，以展现比例感与奇幻氛围。采用戏剧性的电影光效，深蓝色冷调阴影与温暖的城市灯光形成对比，天际线后方配以体积云和星空，呈现高细节的微型建筑、写实的纹理、奇幻旅行海报构图、清晰对焦、超广角景深，无边框，无水印。可选的文字元素应自然地融入招牌中，包括 {argument name="airport code text" default="YYZ"}、{argument name="market sign text" default="St. Lawrence Market"} 以及 {argument name="poster mood" default="电影感奇幻写实夜景旅行海报"}。
+
+[English]
+Create a cinematic, ultra-detailed fantasy-realistic miniature “tiny planet” travel poster of {argument name="city" default="Toronto"}, floating like a compact island in a dark atmospheric night sky. Make the CN Tower the tallest central centerpiece, surrounded by a dense Toronto skyline, the Rogers Centre with its white domed roof, waterfront canals, winding roads, historic brick neighborhoods, trees, glowing streetlights, and tiny realistic buildings. Include exactly 7 prominent landmark/details: 1) CN Tower in the center, 2) Rogers Centre on the left, 3) a Canadian flag on a pole, 4) a red-and-white streetcar in the foreground, 5) St. Lawrence Market signage, 6) a circular Toronto Blue Jays logo sign, and 7) large “YYZ” letters painted on a rocky ledge. Add exactly 5 birds flying near the clouds on the upper right, a small sailboat and a small motorboat on the water, several waterfalls spilling off the floating rock edge, and autumn-colored trees with evergreen foliage around the rim. Place one solitary traveler wearing a backpack on a rocky outcrop in the bottom right foreground, facing the tiny planet to create scale and wonder. Use dramatic cinematic lighting, warm city glow against cool deep-blue shadows, volumetric clouds behind the skyline, starry sky, highly detailed miniature architecture, realistic textures, fantasy travel-poster composition, sharp focus, ultra-wide depth, no border, no watermark. Optional text elements should be integrated naturally as signage only, including {argument name="airport code text" default="YYZ"}, {argument name="market sign text" default="St. Lawrence Market"}, and {argument name="poster mood" default="cinematic fantasy-realistic night travel poster"}.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2093177815558701386) | 2026-08-28
+
+---
+
+### 🎴 例 7028：动漫波普风格励志谚语海报
+
+![动漫波普风格励志谚语海报](../images/%E5%8A%A8%E6%BC%AB%E6%B3%A2%E6%99%AE%E9%A3%8E%E6%A0%BC%E5%8A%B1%E5%BF%97%E8%B0%9A%E8%AF%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满活力的竖版动漫波普海报，主角为 {argument name="character name" default="一位原创的开朗动漫女孩"}，并配有与插图相符的醒目励志谚语。
+
+画布：竖版海报，2:3 比例，全出血设计，色彩极其丰富，设计风格参考日本波普艺术杂志封面或社交媒体分享图。
+
+主体：画面上半部分仅限 1 位动漫女孩，胸部以上特写，以强烈的透视感向观众倾斜。她拥有 {argument name="hair color" default="短而蓬松的白金色头发，发梢带有蓝色和桃色渐变"}，大而闪烁的蓝色眼睛，张嘴大笑，面带红晕，戴着花朵耳环，身穿可爱的蓝白水手服。她的右臂戏剧性地伸向镜头，食指指向前方，通过透视呈现出夸张的效果。在角色周围添加厚实的白色贴纸状轮廓。
+
+主要文字：在下半部分放置一句巨大的日语谚语，采用超大号的粗体字：{argument name="main proverb text" default="七転び八起き!"}。第一个大号字符设为亮粉色，第二个主要字符设为亮黄色，其余字符主要为白色和青色。使用粗黑色轮廓、白色内部高光、青色和亮粉色投影，以及分层的漫画贴纸效果。文字应呈现出爆炸感、欢快感且易于阅读。
+
+背景：明亮的青色底色，搭配饱和的亮粉色、黄色、白色和绿松石色图形元素。包含 8 种主要的装饰图案：闪电、星星、箭头、闪光钻石、半调网点块、放射状扇形线条、漫画爆发形状和弯曲的动态丝带。海报填充要密集，但需确保角色和主要文字清晰可见。
+
+细小可见文字与图标：在底部添加 3 个小装饰：左下角手写英文短语“Keep going!”，底部中右侧一个简单的圆形笑脸，以及右下角一个带有英文标题“Never give up!”的小粉色条形码。
+
+视觉风格：现代日本动漫插画，明亮的眼睛，清晰的线条，带有霓虹色调的柔和阴影，波普艺术排版，贴纸轮廓，充满活力的构图，庆祝氛围，超清晰，高分辨率。
+
+约束：不要添加额外角色。除谚语外，不要添加其他大号文字。保持构图欢快、醒目且具有励志感，不得包含水印或 Logo。
+
+[English]
+Goal: Create a high-energy vertical anime POP poster featuring {argument name="character name" default="an original cheerful anime girl"} with a bold motivational proverb chosen to match the illustration.
+
+Canvas: Vertical poster, 2:3 aspect ratio, full bleed, extremely colorful, designed like a Japanese pop-art magazine cover or social media share image.
+
+Main subject: Exactly 1 anime girl in the upper half of the composition, close-up from chest up, leaning toward the viewer with strong perspective. She has {argument name="hair color" default="short fluffy platinum-blonde hair with blue and peach gradient tips"}, large sparkling blue eyes, a wide open smile, soft blush, flower earrings, and a cute white-and-blue sailor-style outfit. Her right arm reaches dramatically toward the camera with her index finger pointing outward, oversized by perspective. Add a thick white sticker-like outline around the character.
+
+Main text: Place one huge Japanese proverb across the lower half in oversized chunky lettering: {argument name="main proverb text" default="七転び八起き!"}. Make the first large character hot pink, the second major character bright yellow, and the remaining characters mostly white and cyan. Use thick black outlines, white inner highlights, cyan and hot-pink drop shadows, and a layered comic-sticker effect. The text should feel explosive, cheerful, and readable.
+
+Background: Bright cyan base with saturated hot pink, yellow, white, and turquoise graphic elements. Include exactly 8 main decorative motif types: lightning bolts, stars, arrows, sparkle diamonds, halftone dot patches, radiating fan lines, comic burst shapes, and curved motion ribbons. Fill the poster densely but keep the character and main text clear.
+
+Small visible text and icons: Add exactly 3 small bottom accents: the handwritten English phrase "Keep going!" at bottom left, a simple round smiley face near the bottom center-right, and a small pink barcode with the English caption "Never give up!" at bottom right.
+
+Visual style: Modern Japanese anime illustration, glossy eyes, crisp line art, pastel shading with neon accents, pop-art typography, sticker outlines, energetic composition, celebratory mood, ultra clean, high resolution.
+
+Constraints: Do not add extra characters. Do not add extra large text beyond the proverb. Keep the composition cheerful, bold, and motivational, with no watermark or logo.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2093175997810249906) | 2026-08-28
+
+---
+
+### 🎴 例 7030：两张日式粘土定格动画冒险海报
+
+![两张日式粘土定格动画冒险海报](../images/%E4%B8%A4%E5%BC%A0%E6%97%A5%E5%BC%8F%E7%B2%98%E5%9C%9F%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB%E5%86%92%E9%99%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张垂直合成图，展示同一部虚构粘土动画电影的两款截然不同的日式奇幻冒险电影海报，强调风景信息型海报与动作视觉型海报之间的差异。
+
+画布：高比例 2:3 纵向图像，水平分割为 2 个高度相等的上下堆叠海报面板，中间由一条细深色分隔线隔开。采用手工制作的定格动画粘土、毛毡、织物和微缩模型美学，配合电影级布光、浅景深、温暖的泥土棕色、灰蓝色以及复古胶片颗粒感。
+
+面板 1（上方海报）：一张宽幅风景冒险海报。前景展示 2 个背对观众的手工玩偶儿童：一个留着黑色毛线编织般的脏辫，圆眼睛，穿着棕色探险装，背着背包，卷着蓝色睡垫，脖子上挂着护目镜，身上缠着绳子；另一个留着金色毛线头发，穿着白衬衫、短裤，背着背包，卷着蓝色睡垫。他们眺望着一座巨大的古老废墟石城，城中有一座阶梯金字塔神庙、锯齿状平顶山、方块状悬崖、仙人掌类植物和远处的群山。在远景背景中，包含一张巨大的石怪山脸，岩石上刻着圆眼睛和张开的齿状大嘴。天空中添加 6 朵蓬松的粘土云。左侧放置垂直的日文标语文本 {argument name="upper tagline" default="たぶん、行き先をまちがえた。"}。左下角为粗糙的手工奶油色大标题文本 {argument name="movie title" default="ねねとるちゃんの大冒険!"}。下方标注“2027 ROADSHOW”和“DIRECTED BY エイプリル”。最底部添加一条细黑色的演职员表条，包含小型日文分级和制作信息。
+
+面板 2（下方海报）：同一部电影的动态动作海报。展示同样的 2 个儿童玩偶探险家在坍塌的废墟中向观众奔跑。黑发儿童在左侧，开心地笑着，穿着探险装备，背着背包、蓝色睡垫并戴着护目镜；金发儿童在右侧，张着嘴显得很惊讶，穿着印有小角色涂鸦和日文乱画的白色 T 恤，穿着短裤、背包和靴子。在他们身后，古老的石塔倾斜坍塌，飞溅的石块和尘云营造出动感。左下角前景包含 1 块圆形石球或遗迹。上方中央横跨着巨大的奶油色纹理日文标题文本 {argument name="movie title" default="ねねとるちゃんの大冒険!"}，周围环绕着手绘的爆炸线条。右侧添加垂直的日文标语文本 {argument name="right tagline" default="ふたりなら、だいたいなんとかなる!"}。底部中央放置大号文字“2027 ROADSHOW”，下方标注“DIRECTED BY エイプリル”，以及一条带有小型分级和制作信息的细黑色演职员表条。
+
+排版与风格：使用厚实不规则的剪纸或粘土雕刻字体，灰白色带阴影，符合奇幻日式家庭冒险电影的海报风格。所有角色看起来都像触感真实的手工木偶，有毛线头发、纽扣般的眼睛、缝制的布料衣服、沾满灰尘的靴子和微缩道具。保持构图的电影感、细节感、怀旧感和高预算质感，同时保留明显的手工制作痕迹。
+
+约束条件：图像必须包含 2 个海报面板，2 个主要角色在两个面板中重复出现，上方面板必须有 6 朵云，上方面板必须有 1 张巨大的石怪脸，下方面板必须有 1 块圆形石球/遗迹。不要添加任何标志、水印、二维码或额外的角色。
+
+[English]
+Goal: Create a vertical composite showing two distinct Japanese fantasy adventure movie poster designs for the same fictional claymation film, emphasizing the difference between a scenic information-heavy poster and an action-focused visual poster.
+
+Canvas: Tall 2:3 portrait image, split horizontally into exactly 2 stacked poster panels of equal height, separated by a thin dark divider. Use a handcrafted stop-motion clay, felt, fabric, and miniature diorama aesthetic with cinematic lighting, shallow depth of field, warm earthy browns, dusty blues, and vintage film grain.
+
+Panel 1, upper poster: A wide scenic adventure poster. Show exactly 2 small handmade doll children seen from behind in the foreground on a rocky cliff: one with black yarn dreadlock-like hair, round eyes, brown explorer clothes, backpack, rolled blue sleeping mat, goggles around the neck, and a coiled rope; the other with blond yarn hair, white shirt, shorts, backpack, and rolled blue sleeping mat. They look toward a vast ancient ruined stone city with a central stepped pyramid temple, jagged mesas, blocky cliffs, cactus-like plants, and distant mountains. In the far background, include a gigantic stone monster mountain face with round eyes and a toothy open mouth carved into the rock. Add exactly 6 small puffy clay clouds in the sky. Place vertical Japanese tagline text on the left reading {argument name="upper tagline" default="たぶん、行き先をまちがえた。"}. Large rough handmade cream title text in the lower left reads {argument name="movie title" default="ねねとるちゃんの大冒険!"}. Under it place “2027 ROADSHOW” and “DIRECTED BY エイプリル”. Along the very bottom add a thin black credit strip with small Japanese rating and production credits.
+
+Panel 2, lower poster: A dynamic action poster for the same film. Show the same exactly 2 child doll adventurers running toward the viewer through collapsing ruins. The black-haired child is on the left, smiling widely, wearing explorer gear, backpack, blue sleeping mat, and goggles; the blond child is on the right, surprised with open mouth, wearing a white T-shirt with a small character drawing and Japanese scribble, shorts, backpack, and boots. Behind them, ancient stone towers tilt and crumble, with flying rock blocks and dust clouds creating a sense of motion. Include exactly 1 round stone boulder or relic in the lower left foreground. Large cream textured Japanese title text spans the upper center reading {argument name="movie title" default="ねねとるちゃんの大冒険!"}, with small hand-drawn burst lines around it. Add vertical Japanese tagline text on the right reading {argument name="right tagline" default="ふたりなら、だいたいなんとかなる!"}. At the bottom center place large text “2027 ROADSHOW”, beneath it “DIRECTED BY エイプリル”, and a thin black credit strip with small rating and production credits.
+
+Typography and style: Use chunky irregular paper-cut or carved clay lettering, off-white with shadows, matching a whimsical Japanese family adventure film poster. Make all figures look like tactile handmade puppets with yarn hair, button-like eyes, stitched fabric clothes, dusty boots, and miniature props. Keep the composition cinematic, detailed, nostalgic, and high-budget while still clearly handcrafted.
+
+Constraints: The image must contain exactly 2 poster panels, exactly 2 main characters repeated in both panels, exactly 6 clouds in the upper panel, exactly 1 giant stone monster face in the upper panel, and exactly 1 round boulder/relic in the lower panel. Do not add logos, watermarks, QR codes, or extra characters.
+```
+
+**来源：** [@ゆんゆん。。](https://x.com/manga0365/status/2093171718844281178) | 2026-08-28
+
+---
+

@@ -4400,3 +4400,21 @@ Create a realistic documentary-style office meeting photograph in a modern confe
 
 ---
 
+### 🏛️ 例 7011：照片级写实浴室刷牙肖像
+
+![照片级写实浴室刷牙肖像](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%E6%B5%B4%E5%AE%A4%E5%88%B7%E7%89%99%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实的竖版肖像，画面中是一位年轻的东亚女性，身处夜晚的现代浴室，半身侧面朝右，正在刷牙。她留着 {argument name="hair color" default="深棕色"} 的头发，配有直发薄刘海和两条长编织麻花辫，五官精致，大眼睛，戴着圆框细金属眼镜。她穿着 {argument name="outfit" default="宽松的蓝色格子睡衣衬衫"}，长袖，质感柔软。她的右手拿着一把粉白相间手柄的牙刷，嘴边有蓝色牙膏；表情平静而沉思。浴室背景包含玻璃淋浴间或镜面，右侧是明亮的洗漱台区域，摆放着模糊的小瓶子和洗漱用品，顶部有温暖的灯光，左侧有冷蓝色的矩形反射或窗户，暗示着室外的夜晚。采用浅景深、真实的皮肤纹理、混合了温暖浴室光与冷蓝色环境光的柔和电影级照明、轻微的背景虚化、高细节、自然的比例、3:2 竖构图，无文字，无水印。
+
+[English]
+Create a vertical photorealistic portrait of a young East Asian woman in a modern bathroom at night, shown from the waist up in side profile facing right while brushing her teeth. She has {argument name="hair color" default="dark brown"} hair with straight wispy bangs and exactly two long braided pigtails, delicate facial features, large eyes, and round thin metal eyeglasses. She wears {argument name="outfit" default="loose blue plaid pajama shirt"} with long sleeves and a soft cotton texture. Her right hand holds a toothbrush with a pink-and-white handle and blue toothpaste at her lips; her expression is calm and thoughtful. The bathroom has a glass shower or mirror panels, a bright vanity area on the right with small blurred bottles and toiletries, warm overhead lights, and a cool blue rectangular reflection or window on the left suggesting nighttime outside. Use shallow depth of field, realistic skin texture, soft cinematic lighting mixing warm bathroom light and cool blue ambient light, gentle bokeh, high detail, natural proportions, 3:2 vertical composition, no text, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2093316838944129139) | 2026-08-28
+
+---
+

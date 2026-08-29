@@ -4231,3 +4231,21 @@ Bottom: NARRATOR (VO): Clear, calm, educational male voice.
 
 ---
 
+### 📊 例 7027：高级时装角色概念设计图
+
+![高级时装角色概念设计图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级、现代的 {argument name="style" default="high-fashion"} 角色概念设计图，采用 {argument name="aspect ratio" default="16:9"} 宽屏布局，背景为 {argument name="background" default="纯白色"}。所附参考图像定义了艺术风格 —— 请将其视为严格的风格指南并复刻其精确的
+
+[English]
+Create a premium, modern {argument name="style" default="high-fashion"} CHARACTER CONCEPT ART SHEET in a {argument name="aspect ratio" default="16:9"} widescreen layout on a {argument name="background" default="pure white"} background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2093176771290222929) | 2026-08-28
+
+---
+

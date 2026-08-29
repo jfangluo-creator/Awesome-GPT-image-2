@@ -8184,3 +8184,177 @@ Create a premium cinematic travel poster featuring an ultra-detailed photorealis
 
 ---
 
+### 🧸 例 7008：等轴测微缩建筑景观海报
+
+![等轴测微缩建筑景观海报](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%BE%AE%E7%BC%A9%E5%BB%BA%E7%AD%91%E6%99%AF%E8%A7%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片主体最具识别度的**轮廓、结构、姿态与叙事关系**，重构为一组 **3D miniature architectural landscape** 风格的极简艺术画面：以 **isometric view / cut cube composition / perspective of an underwater continental shelf** 的方式呈现，主体像一个被剖开的微缩立体场景，具有正确的等距视图与清晰空间层级。整体以**微缩灯塔景观**为核心语义，可根据原图主体特征灵活转译，但必须保留一眼可辨的识别性与原始叙事关系。
+
+下半部分不是写实插画，而是将主体压缩为**简洁几何形状、扁平色块、细线条与留白**的抽象化表达；在极简基础上保留适度丰富的结构细节，使画面兼具建筑图解感与艺术海报感。主体应像一件置于白色纹理纸上的微型立体模型，带有 **hand-drawn architectural illustration** 气质：线条精细、层次清楚、细节克制而准确，避免厚重真实渲染。
+
+画面中加入明确的**脚手架逻辑**，参考你提供的图像：脚手架不是随意装饰，而应作为包裹、支撑、搭建或介入主体结构的理性系统，与主体共同形成空间秩序。脚手架可由细密的水平、垂直构件与局部连接节点组成，围绕主体外轮廓、关键转折或立体切面展开，呈现一种“正在被建构、修复、测绘或展示”的感觉；视图必须准确，透视关系清晰，不要画成漂浮拼贴。
+
+构图保持**主体居中、画面平衡、秩序克制**，并通过少量水平线、纵向构图线、环形元素或剖面边界增强空间感。背景使用**白色纹理纸或极浅米白纸面**，干净、安静、无阴影或仅有极弱的结构层次，不要厚重投影。保留大面积留白，让主体像悬浮于展览图录或建筑研究海报的版面中。
+
+配色从上方照片中提取灵感，但需重新处理为**更明艳、清透、治愈且有生命力**的高级色系，而不是直接照搬原始色值。保留原图的色相线索后，适度提亮、提纯、去灰，使颜色更鲜活、更轻盈；可形成清澈蓝、湖水青、嫩绿、明黄、珊瑚橙、桃粉、淡紫等柔和而明快的综合色关系，通过冷暖对比与明度节奏建立精致层次。避免灰脏、暗沉、发旧、莫兰迪化、廉价糖果色和塑料感。
+
+文字可少量介入，加入简洁的英文标题、编号或年份，并与主体、脚手架或留白形成自然的排版关系。文字应精致、现代、克制，像国际设计工作室、建筑海报、艺术展览海报和高端品牌视觉系统中的编辑性标注，不喧宾夺主。
+
+整体风格呈现**高级、现代、雅致、克制、艺术化**的视觉效果，融合微缩立体景观、建筑剖面图、等距视图、脚手架系统与极简海报版式。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果、错误视图和无逻辑的装饰性结构。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2093347851330027909) | 2026-08-28
+
+---
+
+### 🧸 例 7010：1859 年的达尔文与勃拉姆斯
+
+![1859 年的达尔文与勃拉姆斯](../images/1859%20%E5%B9%B4%E7%9A%84%E8%BE%BE%E5%B0%94%E6%96%87%E4%B8%8E%E5%8B%83%E6%8B%89%E5%A7%86%E6%96%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽屏电影级超现实主义插画，对比 {argument name="scientist" default="查尔斯·达尔文"} 和 {argument name="composer" default="约翰内斯·勃拉姆斯"} 在 {argument name="year" default="1859"} 年的场景。采用明亮的柔和色调、珠光 3D 数字绘画风格，结合半透明玻璃丝带、柔和的象牙色光影，以及薄荷绿、水蓝色、桃色、玫瑰色和薰衣草色的渐变；人物面部细节丰富，构图呈现梦幻般的博物馆海报风格。画布为 16:9 横向比例。画面中放置 2 位主要历史人物：左侧为年长的达尔文，秃顶、留着浓密的白胡子，表情沉思，身着奶油色维多利亚风格外套，周围环绕着安静的读者；右侧为年轻的勃拉姆斯，留着波浪状棕金色头发，身穿 19 世纪正式西装，系着领结，侧脸神情严肃，坐在光亮的三角钢琴前。在两人之间，创作一条由钢琴键构成的 S 型戏剧性路径，从前景中央开始向上弯曲，延伸成一棵分叉的进化树，树上带有半透明的叶状形态，将音乐与生物学在视觉上融为一体。左侧包含 9 位安静的读者形象，渲染成半透明的柔和色调雕塑，每人手中拿着或阅读着书本或纸张；将他们分层排列在达尔文周围，暗示他的思想正在被研究。右侧包含 12 位观众形象，以温暖的粉色、橙色和紫色玻璃色调渲染，通过举手、张嘴、指点和喝倒彩的姿势表现出对音乐的负面反应；在右上角人群附近添加细微的弯曲声波标记。在场景周围添加漂浮的虹彩球体和流动的丝带形状，用一个巨大的半透明漩涡框住勃拉姆斯，并在达尔文身后添加另一条扫过的丝带。氛围应形成沉思与接受的对比：左侧平静、学术、冷色调；右侧戏剧化、激烈、混乱。画面中不包含任何文字、标题、标志或水印。
+
+[English]
+Create a wide cinematic surreal illustration comparing {argument name="scientist" default="Charles Darwin"} and {argument name="composer" default="Johannes Brahms"} in the year {argument name="year" default="1859"}. Use a luminous pastel, pearlescent 3D digital-painting style with translucent glass ribbons, soft ivory light, mint, aqua, peach, rose, and lavender gradients, highly detailed faces, and a dreamy museum-poster composition. The canvas is a 16:9 horizontal scene. Place exactly 2 main historical figures: on the left, an elderly Darwin with a bald head, thick white beard, thoughtful expression, and cream Victorian coat, surrounded by calm readers; on the right, a young Brahms with wavy blond-brown hair, formal 19th-century suit, bow tie, and serious profile, seated at a glossy grand piano. Between them, create a dramatic S-shaped pathway made from piano keys that begins in the foreground center and curves upward into a branching evolutionary tree with translucent leaf-like forms, visually merging music and biology. Include exactly 9 quiet reader figures on the left side, rendered like semi-transparent pastel sculptures, each holding or reading a book or paper; arrange them in layered rows around Darwin to imply that his ideas are being studied. Include exactly 12 audience figures on the right side, rendered in warm pink, orange, and violet glassy tones, reacting negatively to the music with raised hands, open mouths, pointing, and booing gestures; add subtle curved sound-wave marks near the upper-right crowd. Add floating iridescent spheres and flowing ribbon shapes around the scene, with a large translucent swirl framing Brahms and another sweeping ribbon behind Darwin. The mood should contrast contemplation and reception: left side calm, scholarly, cool-toned; right side theatrical, heated, chaotic. No written text, no captions, no logos, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2093338346797830291) | 2026-08-28
+
+---
+
+### 🧸 例 7025：圣托里尼微缩旅行海报
+
+![圣托里尼微缩旅行海报](../images/%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E5%BE%AE%E7%BC%A9%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级电影感旅行海报，展示 {argument name="destination" default="圣托里尼"}，{argument name="country" default="希腊"} 的超精细照片级写实等轴测微缩立体模型。画布比例为 4:5 竖版，采用干净的暖米白色摄影棚背景，顶部留有充足的空白区域以便排版。将场景居中，呈现为一个漂浮的可收藏级岛屿雕塑，包含陡峭的深色火山悬崖、深蓝色的圆形火山口海湾，以及下方柔和的自然阴影。构建微缩模型时，需包含沿悬崖堆叠的密集白色基克拉泽斯式房屋、狭窄的楼梯、蜿蜒的小径、露台、小型庭院、盛开的三角梅、米色石墙以及明亮的钴蓝色点缀。包含恰好 6 座显眼的蓝顶教堂、恰好 3 座传统风车，以及恰好 8 艘可见的船只：4 艘帆船分布在海湾各处，1 艘小型摩托艇在开阔水域，以及 3 艘靠近港口的小船。水面应呈现写实效果，带有细微的涟漪，港口附近为绿松石色浅滩，中心则为深海军蓝色。使用温暖的午后地中海阳光、清晰的阴影、高深度细节、真实的微缩比例，以及精致的奢华旅行广告质感。排版要求：顶部设置一个大型、优雅且高对比度的衬线标题，文字为 {argument name="headline text" default="SANTORINI"}，采用深海军蓝色，并增加字间距；下方是较小的、带有间距的大写文字 {argument name="subheadline text" default="GREECE"}；再下方是一条纤细的金色分割线，中间带有一个小菱形；最后是极小的全大写说明文字 {argument name="caption text" default="AEGEAN ISLAND DIORAMA • 2026"}。保持构图简洁、对称、精致且符合海报标准，画面中不包含人物、标志、水印或任何额外文字。
+
+[English]
+Create a premium cinematic travel poster featuring an ultra-detailed photorealistic isometric miniature diorama of {argument name="destination" default="Santorini"}, {argument name="country" default="Greece"}. The canvas is vertical 4:5 with a clean warm off-white studio background and generous empty space at the top for typography. Center the scene as a floating collectible-scale island sculpture with steep dark volcanic cliffs, a circular caldera bay of deep blue water, and a soft natural shadow underneath. Build the miniature with dense whitewashed Cycladic houses stacked along the cliffs, narrow stairways, winding paths, terraces, small courtyards, flowering bougainvillea, beige stone walls, and bright cobalt-blue accents. Include exactly 6 prominent blue-domed churches, exactly 3 traditional windmills, and exactly 8 visible boats: 4 sailboats spread across the bay, 1 small motorboat in open water, and 3 small boats near the harbor. The water should be realistic with subtle ripples, turquoise shallows near the harbor, and darker navy tones in the center. Use warm late-afternoon Mediterranean sunlight, crisp shadows, high depth of detail, realistic miniature scale, and a polished luxury travel-advertisement finish. Typography: at the top, set a large elegant high-contrast serif title reading {argument name="headline text" default="SANTORINI"} in dark navy with wide letter spacing; beneath it, smaller spaced uppercase text reading {argument name="subheadline text" default="GREECE"}; below that, a thin gold divider line with a small centered diamond; then a tiny uppercase caption reading {argument name="caption text" default="AEGEAN ISLAND DIORAMA • 2026"}. Keep the composition clean, symmetrical, refined, and poster-ready, with no people, no logos, no watermark, and no extra text.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2093187916877197528) | 2026-08-28
+
+---
+
+### 🧸 例 7033：电影级 3D 动画自拍场景
+
+![电影级 3D 动画自拍场景](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%203D%20%E5%8A%A8%E7%94%BB%E8%87%AA%E6%8B%8D%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅将上传的女孩参考照片用作身份和面部参考。
+
+创建一个高度精细的电影级 3D 动画自拍场景，前景为同一位 {argument name="subject" default="年轻女性"}，周围环绕着四个可爱的动画家庭角色。
+
+主角女孩：
+保留参考照片中女孩可辨认的面部特征，包括脸型、眼睛、鼻子、嘴唇、雀斑、肤色和自然的比例。她留着长长的赤褐色/红色秀发，垂落在肩部和胸前。她穿着一件简单的黑色长袖上衣。
+
+姿势：
+女孩手臂伸直拿着手机进行近距离自拍。她的脸位于前景中心，带着自然的温柔微笑。她的手臂自然地向镜头延伸，营造出逼真的自拍视角。
+
+四个动画角色：
+在她身后紧凑地放置四个表情生动的 3D 动画角色：
+- 左侧是一个穿着红色衬衫的小男孩，有着大而生动的眼睛和浓密的黑色眉毛。
+- 右侧是一个穿着亮黄色服装的小女孩，有着圆圆的大眼睛和梳成独特螺旋卷的橙色卷发。
+- 左后方是一位成年女性，留着棕色短卷发，穿着粉色上衣，表情惊讶。
+- 右后方是一位成年男性，留着黑色短卷发，有着浓密的眉毛，穿着蓝色衬衫，表情惊讶。
+
+所有四个角色都应具有精致的高端 3D 动画电影质感、生动的表情、平滑的风格化皮肤、细腻的毛发和逼真的比例。
+
+环境：
+场景设定在一个温馨的传统日式房间内，配有绿色榻榻米地板、木质框架、淡绿色墙壁、矮木桌、玻璃柜、左侧的粉色推拉窗帘、墙上的装裱艺术品、一幅小鱼画作以及一个粉色挂钟。
+
+镜头：
+逼真的手持智能手机自拍视角，近景广角构图。主角女孩的脸部和上半身占据前景，同时所有四个动画角色在她身后清晰可见。
+
+光影：
+温暖柔和的室内光线，带有逼真的阴影和细腻的高光。自然的电影级曝光，纹理细节丰富。
+
+风格：
+高端电影级 3D 动画电影美学，高度精细的角色渲染，逼真的材质，细腻的毛发，生动的眼神，柔和的皮肤阴影，可信的光影，整洁的构图，高端动画电影品质。
+
+构图：
+匹配参考场景的整体构图和角色排列：
+女孩位于前景中心，
+红衣男孩在左侧，
+黄衣女孩在右侧，
+成年女性在左后方，
+成年男性在右后方。
+
+重要提示：
+保持女孩的身份与上传的参考照片一致。
+不要改变她的面部特征。
+不要改变她的发色。
+不要添加参考照片的小边框。
+不要创建拼贴画。
+不要添加
+
+[English]
+Use the uploaded reference photo of the girl ONLY as the identity and facial reference.
+
+Create a highly detailed, cinematic 3D animated selfie scene featuring the same {argument name="subject" default="young woman"} in the foreground, surrounded by four cute animated family characters.
+
+MAIN GIRL:
+Preserve the girl's recognizable facial identity from the reference photo, including her face shape, eyes, nose, lips, freckles, skin tone, and natural facial proportions. She has long flowing auburn/red hair extending down over her shoulders and chest. She is wearing a simple black long-sleeve top.
+
+POSE:
+The girl is holding the camera at arm's length, taking a close selfie. Her face is centered in the foreground with a natural gentle smile. Her arm extends toward the camera naturally, creating a realistic selfie perspective.
+
+FOUR ANIMATED CHARACTERS:
+Place four expressive 3D animated characters closely behind her:
+- A young boy on the left wearing a red shirt, with large expressive eyes and thick black eyebrows.
+- A young girl on the right wearing a bright yellow outfit, with large round eyes and curly orange hair styled into distinctive spiral curls.
+- An adult woman behind the girl on the left, with short curly brown hair and a pink top, looking surprised.
+- An adult man behind the girl on the right, with short curly dark hair, thick eyebrows, a blue shirt, and a surprised expression.
+
+All four characters should have a polished high-end 3D animated movie appearance, expressive faces, smooth stylized skin, detailed hair, and believable proportions.
+
+ENVIRONMENT:
+Set the scene inside a cozy traditional Japanese-style room with green tatami flooring, wooden framing, pale green walls, a low wooden table, a glass-front cabinet, pink sliding curtains on the left, framed artwork on the walls, a small fish painting, and a pink wall clock.
+
+CAMERA:
+Realistic handheld smartphone selfie perspective, close wide-angle framing. The main girl's face and upper body dominate the foreground while all four animated characters remain clearly visible behind her.
+
+LIGHTING:
+Warm, soft indoor lighting with realistic shadows and subtle highlights. Natural cinematic exposure with detailed textures.
+
+STYLE:
+Premium cinematic 3D animated film aesthetic, highly polished character rendering, realistic materials, detailed hair, expressive eyes, soft skin shading, believable lighting, clean composition, high-end animated movie quality.
+
+COMPOSITION:
+Match the overall composition and character arrangement of the reference scene:
+girl in the center foreground,
+red-shirt boy on the left,
+yellow-shirt girl on the right,
+adult woman behind left,
+adult man behind right.
+
+IMPORTANT:
+Keep the girl's identity consistent with the uploaded reference photo.
+Do not change her facial features.
+Do not change her hair color.
+Do not add the small reference-photo frame.
+Do not create a collage.
+Do not add
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2093158956520878419) | 2026-08-28
+
+---
+

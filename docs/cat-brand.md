@@ -18845,3 +18845,93 @@ Create a highly detailed vertical anime fantasy illustration of {argument name="
 
 ---
 
+### 🏷️ 例 6997：更紧凑的左移电影剧照剪辑
+
+![更紧凑的左移电影剧照剪辑](../images/%E6%9B%B4%E7%B4%A7%E5%87%91%E7%9A%84%E5%B7%A6%E7%A7%BB%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7%E5%89%AA%E8%BE%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，对同一场景进行细微的编辑调整：保持角色、房间、光影、色彩、服装、表情和电影复古质感不变，但进行轻微的推拉变焦以获得更紧凑的构图，并将画面向 {argument name="camera shift" default="slightly to the left"} 移动。保持 16:9 的宽高比，保留所有可见的场景元素，避免添加任何新物体或改变交互动作。最终效果应看起来像是同一张电影剧照经过了适度的缩放/裁剪调整，具有干净自然的纹理，且不包含任何文字或水印。
+
+[English]
+Using the provided reference image, create a subtle editorial edit of the same scene: keep the characters, room, lighting, colors, clothing, expressions, and cinematic vintage look unchanged, but punch in slightly for a tighter composition and shift the framing {argument name="camera shift" default="slightly to the left"}. Maintain the same 16:9 aspect ratio, preserve all visible set elements, and avoid adding any new objects or changing the interaction. The result should look like the same film still with a modest zoom/crop adjustment, clean natural texture, and no text or watermark.
+```
+
+**来源：** [@Christopher Fryant](https://x.com/cfryant/status/2093479178704445933) | 2026-08-28
+
+---
+
+### 🏷️ 例 7003：对象与水印移除指令
+
+![对象与水印移除指令](../images/%E5%AF%B9%E8%B1%A1%E4%B8%8E%E6%B0%B4%E5%8D%B0%E7%A7%BB%E9%99%A4%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+从这张图片中移除所有 {argument name="removals" default="通用水印、示例文字、预览文本、覆盖层以及干扰性图形"}，同时保留原始照片的质量、细节、纹理、光影、色彩和构图。自然地重建被遮挡的区域，使图像看起来干净、真实且未经修饰。
+
+[English]
+Remove all {argument name="removals" default="generic watermarks, sample text, preview text, overlays, and distracting graphics"} from this image while preserving the original photo quality, details, textures, lighting, colors, and composition. Reconstruct hidden areas naturally so the image looks clean, realistic, and untouched.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2093372762962157623) | 2026-08-28
+
+---
+
+### 🏷️ 例 7004：宇宙星云中的玻璃蘑菇礼服
+
+![宇宙星云中的玻璃蘑菇礼服](../images/%E5%AE%87%E5%AE%99%E6%98%9F%E4%BA%91%E4%B8%AD%E7%9A%84%E7%8E%BB%E7%92%83%E8%98%91%E8%8F%87%E7%A4%BC%E6%9C%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+写实风格的编辑摄影作品，主角为一位 {argument name="subject" default="绝美女性"}，身穿一件 {argument name="outfit" default="由玻璃蘑菇组成的礼服"}，蘑菇簇拥生长——菌盖呈现半透明的琥珀色、洋红色、青色和紫色，内部散发着微光，茎干间生长着苔藓和细小的蕨类植物，一只真实的蝴蝶停在其中一个菌盖上。背景：{argument name="background" default="令人叹为观止的宇宙"} —— 深邃的玫瑰金星云在她身后盘旋，流星划过星空，极光照亮了下方隐约可见的山峰。梦幻般的宇宙光芒与温暖的自然光交织，85mm 镜头，自然与宇宙碰撞的拼贴超现实主义，超写实，皮肤质感真实。
+
+[English]
+Photorealistic editorial photograph of a {argument name="subject" default="gorgeous woman"} in a {argument name="outfit" default="gown of glass mushrooms"} growing in vivid clusters — caps in translucent amber, magenta, teal and violet with glowing spores inside, moss and tiny ferns sprouting between the stems, a real butterfly resting on one cap. Background: {argument name="background" default="a breathtaking cosmos"} — a deep nebula in rose and gold swirling behind her, shooting stars streaking across a starfield, aurora light washing over distant mountain peaks visible below. Dreamy cosmic glow mixed with warm natural light, 85mm, nature-meets-universe collage surrealism, hyperrealistic, photorealistic skin.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2093363240965206481) | 2026-08-28
+
+---
+
+### 🏷️ 例 7012：草地阅读生活方式摄影
+
+![草地阅读生活方式摄影](../images/%E8%8D%89%E5%9C%B0%E9%98%85%E8%AF%BB%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张原创的高端生活方式照片，主角为 {argument name="subject" default="成年女性"}，正安静地 {argument name="activity" default="阅读一本复古书籍"}，身处 {argument name="setting" default="郁郁葱葱的野花草地"} 中。身着白色蕾丝夏日上衣和轻盈的白色长裙，棕色波浪卷发带有金色挑染，佩戴一个巨大的象牙白雪纺蝴蝶结。温暖的午后阳光，自然的阴影，浓郁的绿色调，金色高光，逼真的皮肤和织物纹理，写实的 45 度俯拍构图，竖构图 4:5，35mm 镜头，f/2.8 光圈，细腻的胶片颗粒感。无 CGI，无塑料感皮肤，无扭曲的手部，无 Logo，无文字。
+
+[English]
+Original high-end lifestyle photo of an {argument name="subject" default="adult woman"} peacefully {argument name="activity" default="reading an open vintage book"} in a {argument name="setting" default="lush wildflower meadow"}. White lace summer top, lightweight white skirt, soft wavy brown hair with golden highlights, and a large ivory chiffon bow. Warm late-afternoon sunlight, natural shadows, rich greens, golden highlights, realistic skin and fabric textures, candid 45° top-down composition, vertical 4:5, 35mm, f/2.8, subtle film grain. No CGI, plastic skin, distorted hands, logos, text.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2093310754116313437) | 2026-08-28
+
+---
+
+### 🏷️ 例 7014：人造太阳超级城市
+
+![人造太阳超级城市](../images/%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个宏大的电影级科幻城市景观，概念主题为 {argument name="concept" default="人造太阳与城市"}：从高处露台俯瞰一座巨大的穹顶超级城市，穹顶正上方中心嵌入一颗炽热的人造太阳。太阳是一个白金色的聚变球体，周围环绕着同心机械环、放射状电缆、透明穹顶面板和精致的金色电路，将温暖的光束穿过薄雾投射向下。下方延伸出一座乌托邦式的未来大都市，围绕着绿松石色的湖泊、梯田绿植、桥梁以及穹顶内远处的雪山或云雾缭绕的岩脊而建。前景左下方有两个小的人类剪影站在弧形观景台上，以突显宏大的比例。左右两侧，带有圆形阳台和发光内部楼层的塔状圆柱形玻璃金属摩天大楼构成了视野框架；下半部分包含层叠的高架轨道、流畅的透明管状列车、尖塔、圆形平台和密集的金属基础设施。使用 {argument name="color palette" default="温暖的金色阳光、清凉的青色水体、银色金属、柔和的薄雾"}，超精细概念艺术，绘画感写实风格，错综复杂的建筑，发光的氛围，体积光，反射玻璃，闪烁的高光，史诗般的垂直构图，深邃的景深，令人惊叹与震撼，无文字，无 Logo，无水印。
+
+[English]
+Create a grand vertical sci-fi concept art scene titled {argument name="scene theme" default="artificial sun and city"}: an immense futuristic city inside a colossal transparent dome or megastructure, viewed from a high balcony. At the top center, place a blinding artificial sun embedded in concentric circular engineering rings, radiating warm golden light downward through haze. Below it, show a vast enclosed landscape with turquoise lakes, misty waterfalls, snowy or cloudlike mountain ridges, and layered atmospheric clouds, all surrounded by dense metallic city infrastructure. Frame the composition with two dominant high-rise structures: one cylindrical tower on the left edge and one larger glass-and-steel tower on the right edge with visible stacked balconies and lit interiors. In the foreground, include exactly two small human figures standing on a curved observation deck at the lower left, looking out over the city for scale. Add multiple elevated rail lines and sleek tube-like transit vehicles crossing the lower third, with circular platforms, spires, antennae, bridges, and glowing windows throughout the middle and background. Use {argument name="lighting style" default="golden sunrise illumination"}, luminous volumetric rays, reflective chrome and glass, intricate hard-surface detail, cinematic depth, painterly realism, epic scale, and a serene utopian atmosphere. Color palette: warm gold, amber, silver, teal water, misty blue-gray shadows. No text, no logo, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2093291134709837951) | 2026-08-28
+
+---
+
