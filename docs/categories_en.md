@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (522)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (525)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1037,6 +1037,12 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7013: 爆款吉祥物短视频网格](cat-ui.md#️-例-7013爆款吉祥物短视频网格)
 
 - [Case 7022: 风景转珐琅徽章设计](cat-ui.md#️-例-7022风景转珐琅徽章设计)
+
+- [Case 7048: 展示 GitHub 技能仓库的女性](cat-ui.md#️-例-7048展示-github-技能仓库的女性)
+
+- [Case 7053: Kawaii AI 模型切换机](cat-ui.md#️-例-7053kawaii-ai-模型切换机)
+
+- [Case 7060: 复古旅行日志剪贴簿页面](cat-ui.md#️-例-7060复古旅行日志剪贴簿页面)
 ---
 
 <a id="chart"></a>
@@ -1251,7 +1257,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (925)
+## 🎴 [Posters & Cards](cat-poster.md) (931)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3065,11 +3071,23 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7028: 动漫波普风格励志谚语海报](cat-poster.md#-例-7028动漫波普风格励志谚语海报)
 
 - [Case 7030: 两张日式粘土定格动画冒险海报](cat-poster.md#-例-7030两张日式粘土定格动画冒险海报)
+
+- [Case 7042: 编辑风格响应式排版海报](cat-poster.md#-例-7042编辑风格响应式排版海报)
+
+- [Case 7056: 复古汽车广告海报](cat-poster.md#-例-7056复古汽车广告海报)
+
+- [Case 7058: 民间艺术叙事设计海报](cat-poster.md#-例-7058民间艺术叙事设计海报)
+
+- [Case 7067: 高端鞋履商业海报](cat-poster.md#-例-7067高端鞋履商业海报)
+
+- [Case 7070: 手工线艺可视化地图](cat-poster.md#-例-7070手工线艺可视化地图)
+
+- [Case 7072: 动漫街头时尚肖像海报](cat-poster.md#-例-7072动漫街头时尚肖像海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2601)
+## 📷 [Photography & Realistic](cat-photo.md) (2617)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -8205,11 +8223,43 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7036: 六宫格 AI 珠宝人像对比](cat-photo.md#-例-7036六宫格-ai-珠宝人像对比)
 
 - [Case 7037: 黑白高级时装编辑人像](cat-photo.md#-例-7037黑白高级时装编辑人像)
+
+- [Case 7038: 动漫角色设定图精修](cat-photo.md#-例-7038动漫角色设定图精修)
+
+- [Case 7041: 电影感 Yuna 奇幻肖像](cat-photo.md#-例-7041电影感-yuna-奇幻肖像)
+
+- [Case 7043: 奢华编辑风格影棚肖像](cat-photo.md#-例-7043奢华编辑风格影棚肖像)
+
+- [Case 7044: 奢华非洲生活方式肖像](cat-photo.md#-例-7044奢华非洲生活方式肖像)
+
+- [Case 7046: 明暗对照法概念肖像画](cat-photo.md#-例-7046明暗对照法概念肖像画)
+
+- [Case 7049: 橙色连帽衫铅笔肖像](cat-photo.md#-例-7049橙色连帽衫铅笔肖像)
+
+- [Case 7052: 电影感铜赤褐色肖像](cat-photo.md#-例-7052电影感铜赤褐色肖像)
+
+- [Case 7055: 豪华游艇时尚人像](cat-photo.md#-例-7055豪华游艇时尚人像)
+
+- [Case 7057: 首尔雨夜时尚人像](cat-photo.md#-例-7057首尔雨夜时尚人像)
+
+- [Case 7066: 雨夜赛博朋克城市天台](cat-photo.md#-例-7066雨夜赛博朋克城市天台)
+
+- [Case 7073: 开怀大笑的人物肖像](cat-photo.md#-例-7073开怀大笑的人物肖像)
+
+- [Case 7074: 优雅生活方式草地人像](cat-photo.md#-例-7074优雅生活方式草地人像)
+
+- [Case 7075: 月光雪山下的孤独登山者](cat-photo.md#-例-7075月光雪山下的孤独登山者)
+
+- [Case 7076: 霓虹赛博朋克高山肖像](cat-photo.md#-例-7076霓虹赛博朋克高山肖像)
+
+- [Case 7077: 超写实电影感男性肖像](cat-photo.md#-例-7077超写实电影感男性肖像)
+
+- [Case 7078: 层叠水彩纸艺肖像](cat-photo.md#-例-7078层叠水彩纸艺肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (936)
+## 🎨 [Illustration & Art](cat-illustration.md) (941)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -10067,11 +10117,21 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7024: 月下幻彩和服舞者](cat-illustration.md#-例-7024月下幻彩和服舞者)
 
 - [Case 7032: 古埃及神庙中的现代人](cat-illustration.md#-例-7032古埃及神庙中的现代人)
+
+- [Case 7040: 黑色石板上的玻璃弹珠](cat-illustration.md#-例-7040黑色石板上的玻璃弹珠)
+
+- [Case 7054: 青绿色日式手写歌词卡](cat-illustration.md#-例-7054青绿色日式手写歌词卡)
+
+- [Case 7059: 便利店打斗场景](cat-illustration.md#-例-7059便利店打斗场景)
+
+- [Case 7069: 彩色铅笔兰花素描](cat-illustration.md#-例-7069彩色铅笔兰花素描)
+
+- [Case 7071: 赛博朋克歌手角色设计图](cat-illustration.md#-例-7071赛博朋克歌手角色设计图)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (221)
+## 🧍 [Character Design](cat-character.md) (224)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -10499,11 +10559,17 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 6961: 写实风格陈浩角色参考图设计](cat-character.md#-例-6961写实风格陈浩角色参考图设计)
 
 - [Case 7023: 角色一致性与发型拼图](cat-character.md#-例-7023角色一致性与发型拼图)
+
+- [Case 7047: 动漫丛林步枪动作场景](cat-character.md#-例-7047动漫丛林步枪动作场景)
+
+- [Case 7062: 单色广场上的 Q 版画家](cat-character.md#-例-7062单色广场上的-q-版画家)
+
+- [Case 7079: 奢华旅行专题：湖畔度假胜地](cat-character.md#-例-7079奢华旅行专题湖畔度假胜地)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (327)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (333)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -11145,11 +11211,23 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 7025: 圣托里尼微缩旅行海报](cat-3d.md#-例-7025圣托里尼微缩旅行海报)
 
 - [Case 7033: 电影级 3D 动画自拍场景](cat-3d.md#-例-7033电影级-3d-动画自拍场景)
+
+- [Case 7039: 亲切的 3D 卡通肖像](cat-3d.md#-例-7039亲切的-3d-卡通肖像)
+
+- [Case 7051: 巨型安卓面孔接触](cat-3d.md#-例-7051巨型安卓面孔接触)
+
+- [Case 7063: 手工微缩咖啡馆立体模型](cat-3d.md#-例-7063手工微缩咖啡馆立体模型)
+
+- [Case 7064: 燃烧的日本封建村庄](cat-3d.md#-例-7064燃烧的日本封建村庄)
+
+- [Case 7065: 史前红杉丛林](cat-3d.md#-例-7065史前红杉丛林)
+
+- [Case 7068: 3D 纸艺旅行手账](cat-3d.md#-例-70683d-纸艺旅行手账)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (195)
+## 🏛️ [Architecture & Space](cat-architecture.md) (196)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -11531,6 +11609,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 6960: 日本办公室会议照片](cat-architecture.md#️-例-6960日本办公室会议照片)
 
 - [Case 7011: 照片级写实浴室刷牙肖像](cat-architecture.md#️-例-7011照片级写实浴室刷牙肖像)
+
+- [Case 7061: 东方禅意极简插画](cat-architecture.md#️-例-7061东方禅意极简插画)
 ---
 
 <a id="comic"></a>
@@ -12033,7 +12113,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (781)
+## 🏷️ [Brand & Packaging](cat-brand.md) (782)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -13590,11 +13670,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7012: 草地阅读生活方式摄影](cat-brand.md#️-例-7012草地阅读生活方式摄影)
 
 - [Case 7014: 人造太阳超级城市](cat-brand.md#️-例-7014人造太阳超级城市)
+
+- [Case 7050: 双色半调风格角色海报](cat-brand.md#️-例-7050双色半调风格角色海报)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (147)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (148)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -13887,6 +13969,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 6978: 混合媒介怀旧记忆卡片](cat-edit.md#-例-6978混合媒介怀旧记忆卡片)
 
 - [Case 7005: 照片转专业 3D 图标](cat-edit.md#-例-7005照片转专业-3d-图标)
+
+- [Case 7045: 照片转素描风格杂志排版](cat-edit.md#-例-7045照片转素描风格杂志排版)
 ---
 
 <a id="fun"></a>

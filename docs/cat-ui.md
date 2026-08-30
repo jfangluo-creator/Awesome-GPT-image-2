@@ -14644,3 +14644,93 @@ Background: flat {argument name="background texture" default="dark navy coarse l
 
 ---
 
+### 🖥️ 例 7048：展示 GitHub 技能仓库的女性
+
+![展示 GitHub 技能仓库的女性](../images/%E5%B1%95%E7%A4%BA%20GitHub%20%E6%8A%80%E8%83%BD%E4%BB%93%E5%BA%93%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张照片级逼真的社交媒体宣传图，展示一位年轻女性在明亮的卧室里，向屏幕展示一个大型 GitHub 仓库页面。
+
+画布：水平 4:3 图像，写实相机视角，柔和的日光，浅景深。构图采用分割式：左侧 60% 为一个带有透视角度的大型深色模式 GitHub 网页，右侧 40% 为坐在白色床上的演示者。
+
+主体：一位漂亮的东亚年轻女性，拥有 {argument name="hair color" default="长波浪深棕色头发"}，皮肤白皙，自然妆容，大而有神的眼睛，笑容亲切。她穿着简单的 {argument name="outfit" default="白色无袖修身连衣裙"}。她坐在白色床上，身体向屏幕倾斜，双手指向屏幕：上方的手指向左侧的仓库侧边栏，下方的手斜指向下方的 README 区域。她的姿势应表现出创作者热情介绍资源的状态。
+
+环境：明亮的极简卧室，配有白色床单、浅色墙壁、右侧带有百叶窗的窗户，上方有壁挂式空调，光线为柔和的暖色日光。背景略微模糊，而女性和屏幕保持清晰。
+
+GitHub 页面细节：展示一个深色模式的 GitHub 仓库页面，界面为黑色/深蓝色。仓库所有者为 {argument name="GitHub username" default="sgyno09-source"}，仓库名称为 {argument name="repository name" default="You-know-what-I-mean-everything-you-want-is-right-here。"}。包含一个小的 Public 徽章。顶部导航栏包含 6 个可见项目：Platform、Solutions、Resources、Open Source、Enterprise、Pricing。右上角包含搜索、Sign in 和 Sign up 按钮。
+
+仓库界面：包含 4 个可见的仓库标签，分别标记为 Code、Issues、Pull requests 以及一个未标记的第四个标签/图标区域。在标签下方，显示一个标记为 main 的分支下拉菜单、一个 Go to file 搜索框和一个绿色的 Code 按钮。文件列表包含 6 行：docs 文件夹、skills 文件夹、README.en.md、README.md、README.zh-CN.md 和 SKILL.md。右侧添加小的提交信息和时间戳，顶部显示 47 Commits。
+
+GitHub 页面右侧边栏：包含一个 About 部分，文字为 "No description, website, or topics provided。" 包含 5 个小的侧边栏链接/统计信息：Readme、Activity、1 star、0 watching、0 forks。包含 Report repository，Releases 显示 "No releases published"，Contributors 显示 1 contributor。
+
+README 区域：GitHub 屏幕的下半部分显示 README 预览。大标题文字：{argument name="README title" default="You Know What I Mean — 技能集合"}。下方显示 "Choose your language / 选择语言" 和 6 个小的胶囊按钮：中文说明、English、Skill 使用教程、Skill Usage Tutorial、版权 / 肖像权 / 人物保护提醒、Rights & Likeness Notice。添加一段小的双语警告文本，最后一行描述这是一个不断增长的可复用图像生成和视觉工作流技能集合。
+
+视觉风格：照片级逼真，高分辨率，干净的科技博主美学，真实的屏幕光感，准确的深色 GitHub UI 样式，清晰可读的大号文字，细小的文字可以略有瑕疵，但应看起来像真实的网页截图。避免水印、GitHub 风格界面之外的多余标志、扭曲的手部或多余的手指。
+
+[English]
+Goal: Create a photorealistic social-media promo image showing a young woman presenting a large GitHub repository page on a screen in a bright bedroom.
+
+Canvas: Horizontal 4:3 image, realistic camera perspective, soft daylight, shallow depth of field. The composition is split: the left 60% is occupied by a large dark-mode GitHub webpage angled slightly in perspective, and the right 40% shows the presenter sitting on a white bed.
+
+Main subject: A pretty young East Asian woman with {argument name="hair color" default="long wavy dark brown hair"}, fair skin, natural makeup, large expressive eyes, and a friendly open-mouth smile. She wears a simple {argument name="outfit" default="white sleeveless fitted dress"}. She is seated on white bedding, leaning toward the screen, pointing at it with both hands: her upper hand points leftward toward the repo sidebar, and her lower hand points diagonally toward the lower README area. Her pose should feel like a creator enthusiastically introducing a resource.
+
+Environment: Bright minimal bedroom with white sheets, pale walls, a window with blinds on the right, a wall-mounted air conditioner above, and soft warm daylight. Background is slightly blurred while the woman and screen remain crisp.
+
+GitHub page details: Show a dark-mode GitHub repository page with a black/navy interface. The repository owner is {argument name="GitHub username" default="sgyno09-source"} and the repository name is {argument name="repository name" default="You-know-what-I-mean-everything-you-want-is-right-here."}. Include a small Public badge. The top navigation bar contains exactly 6 visible items: Platform, Solutions, Resources, Open Source, Enterprise, Pricing. Include search, Sign in, and Sign up buttons at top right.
+
+Repository interface: Include exactly 4 visible repository tabs labeled Code, Issues, Pull requests, and an unlabeled fourth tab/icon area. Under the tabs, show a branch dropdown labeled main, a Go to file search field, and a green Code button. The file list contains exactly 6 rows: docs folder, skills folder, README.en.md, README.md, README.zh-CN.md, and SKILL.md. Add small commit messages and timestamps to the right, plus a top line showing 47 Commits.
+
+Right sidebar on the GitHub page: Include an About section with the text "No description, website, or topics provided." Include exactly 5 small sidebar links/stats: Readme, Activity, 1 star, 0 watching, 0 forks. Include Report repository, Releases with "No releases published", and Contributors showing 1 contributor.
+
+README area: The lower half of the GitHub screen shows a README preview. Large heading text: {argument name="README title" default="You Know What I Mean — Skill Collection"}. Below it, show "Choose your language / 选择语言" and exactly 6 small pill buttons: 中文说明, English, Skill 使用教程, Skill Usage Tutorial, 版权 / 肖像权 / 人物保护提醒, Rights & Likeness Notice. Add a paragraph of small bilingual warning text and a final line describing it as a growing collection of reusable image-generation and visual-workflow skills.
+
+Visual style: Photorealistic, high-resolution, clean influencer-tech aesthetic, realistic screen glow, accurate dark GitHub UI styling, crisp readable large text, minor small text may be slightly imperfect but should look like a real webpage screenshot. Avoid watermarks, extra logos beyond the GitHub-style interface, distorted hands, or extra fingers.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2093721839398981992) | 2026-08-29
+
+---
+
+### 🖥️ 例 7053：Kawaii AI 模型切换机
+
+![Kawaii AI 模型切换机](../images/Kawaii%20AI%20%E6%A8%A1%E5%9E%8B%E5%88%87%E6%8D%A2%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张欢快的方形 1:1 kawaii 风格科技插画，展示一台 AI 模型切换机。场景为一个位于暖奶油色背景上的圆角米色控制面板。在面板左上方，放置一个标记为 {argument name="left chip label" default="Codex"} 的青色电路板芯片，带有发光的青色大脑形状电路图标、四个可见的边角螺丝，底部插有一根青色线缆。在面板右上方，放置一个标记为 {argument name="right chip label" default="GLM"} 的橙/金色电路板芯片，带有发光的黄色大脑形状电路图标、四个可见的边角螺丝，底部插有一根黄色线缆。在两个芯片之间，绘制一个从左侧芯片指向右侧芯片的橙色箭头，以表示切换过程。右侧芯片应散发出温暖的光芒和庆祝性的橙色标记。
+
+在底部中心，展示一个物理操纵杆控制台，黄色线缆接入操纵杆插槽；操纵杆向右倾斜，右侧有一个由可爱的白色小机器人握住的橙色球形手柄。机器人拥有光泽的白色圆润身体，黑色面部屏幕上有绿松石色的笑眼和嘴巴，青色耳状侧盘，带有青色小球的天线，深蓝色关节，以及胸前带有简单笑脸机器人图标的青色圆形徽章。包含总共六个圆形控制按钮：左侧一排有两个青色按钮，下方有两个灰色按钮，机器人附近有一个黄色按钮，其下方有一个橙色按钮，最右侧还有一个灰色按钮。在左下角放置一盆绿植，右下角放置一个带有相同白色笑脸机器人图标的青色马克杯，并在马克杯旁放置一个小青色星星挂件。用橙色和青色的五彩纸屑笔触和闪光装饰背景。使用柔和的圆角形状、清晰的轮廓、柔和的阴影、温暖的高光，呈现矢量风格的数字艺术，采用友好的初创公司吉祥物风格，拒绝写实，除了两个芯片标签外不要添加任何额外文字。
+
+[English]
+Create a cheerful square 1:1 kawaii tech illustration showing an AI model switch-over machine. The scene is a rounded beige control panel on a warm cream background. On the upper left of the panel, place a teal circuit-board chip labeled {argument name="left chip label" default="Codex"}, with a glowing cyan brain-shaped circuit icon, four visible corner screws, and a teal cable plugged into its bottom. On the upper right, place an orange/gold circuit-board chip labeled {argument name="right chip label" default="GLM"}, with a glowing yellow brain-shaped circuit icon, four visible corner screws, and a yellow cable plugged into its bottom. Between the chips, draw one orange arrow pointing from the left chip to the right chip to indicate switching. The right chip should emit warm glow rays and celebratory orange marks.
+
+At the bottom center, show a physical lever console with the yellow cable routed into the lever slot; the lever is tilted toward the right and has an orange ball handle held by a cute small white robot on the right side. The robot has a glossy white rounded body, a black face screen with turquoise smiling eyes and mouth, teal ear-like side disks, a tiny antenna with a teal ball, dark blue joints, and a teal circular chest emblem with a simple smiling bot icon. Include exactly six round console buttons: two teal buttons on the left row, two gray buttons below them, one yellow button near the robot, and one orange button below it, plus one gray button further right. Add a potted green plant on the lower left, a teal mug with the same white smiling bot icon on the lower right, and a small teal star charm near the mug. Decorate the background with confetti strokes and sparkles in orange and teal. Use soft rounded shapes, clean outlines, gentle shadows, warm highlights, vector-like digital art, friendly startup mascot style, no photorealism, no extra text beyond the two chip labels.
+```
+
+**来源：** [@まっきー@YouTubeに挑戦中！](https://x.com/macky_movie/status/2093683714756919480) | 2026-08-29
+
+---
+
+### 🖥️ 例 7060：复古旅行日志剪贴簿页面
+
+![复古旅行日志剪贴簿页面](../images/%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E5%89%AA%E8%B4%B4%E7%B0%BF%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级复古旅行日志编辑页面，比例为 4:5，左侧为一张温暖的写实纪录片风格照片，展示了一个宁静的 {argument name="location" default="曼谷街区街道"}，背景中矗立着一座 {argument name="monument" default="宏伟的金色佛像"}，画面包含交错的架空电线、混凝土电线杆、茂盛的热带绿植、风化的墙壁、狭窄的小巷，以及前景中停放的一辆 {argument name="vehicle" default="橙红色小踏板摩托车"}，在柔和的午后阳光下拍摄，带有怀旧的胶片颗粒感和略微褪色的暖色调；右侧为同一场景的极简手绘丝网印刷插画，使用粗犷的墨水轮廓，采用柔和的橄榄绿、赭金、赤陶色、炭灰色和奶油色，呈现出斑驳的墨迹和可见的暖象牙色纸张纹理，周围留有充足的负空间，并配有优雅的小型等宽打字机风格档案文字，内容为“Bangkok, Thailand / No. 035 / temple · alley · everyday / 2026”；精致的日式旅行杂志与复古剪贴簿美学，考究的编辑排版，真实的陈旧纸张质感，细微的印刷瑕疵，地道的模拟胶片感，照片与插画的完美转化，低调的排版设计，电影感且自然，高细节，高级杂志设计，无水印，无 Logo，无多余元素。
+
+[English]
+Create a premium vintage travel-journal editorial page, vertical 4:5, featuring a warm photorealistic documentary photograph of a quiet {argument name="location" default="Bangkok neighborhood street"} with a {argument name="monument" default="monumental golden Buddha statue"} rising behind modest buildings, tangled overhead electrical wires, concrete utility poles, lush tropical greenery, weathered walls, narrow alleyways, and a {argument name="vehicle" default="small orange-red scooter"} parked in the foreground, captured in soft late-afternoon sunlight with nostalgic analog film grain and slightly faded warm tones; beside it, create a minimalist hand-drawn screen-print illustration of the exact same scene using rough ink outlines, muted olive green, ochre gold, terracotta, charcoal and cream colors, distressed imperfect ink and visible warm ivory paper texture, surrounded by generous negative space, with small elegant monospaced typewriter-style archival text reading “Bangkok, Thailand / No. 035 / temple · alley · everyday / 2026”; sophisticated Japanese travel-zine and vintage scrapbook aesthetic, refined editorial composition, tactile aged paper, subtle printing imperfections, authentic analog character, cohesive photo-to-illustration transformation, understated typography, cinematic yet natural, high detail, premium magazine design, no watermark, no logos, no unnecessary elements.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2093602304733925744) | 2026-08-29
+
+---
+

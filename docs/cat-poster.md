@@ -30001,3 +30001,123 @@ Constraints: The image must contain exactly 2 poster panels, exactly 2 main char
 
 ---
 
+### 🎴 例 7042：编辑风格响应式排版海报
+
+![编辑风格响应式排版海报](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%93%8D%E5%BA%94%E5%BC%8F%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+大胆的编辑风格宣传海报，比例 9:16。单词“{argument name="word" default="WORD"}”的超大排版占据画面 60%–70% 的空间，字母由真实的 {argument name="material" default="material"} 构成，具有真实的纹理、接缝和光影效果。当 [SUBJECT/PRODUCT] 与材质接触时，材质会产生逼真的 [BEHAVIOR — 压缩/撕裂/融化等] 反应，形成自然的褶皱、张力或破损。写实的商业摄影风格，采用高对比度的 {argument name="main color" default="main color"} 色调，并搭配 [ACCENT COLOR] 点缀。小型宣传文案：“[BRAND] — [SLOGAN/DETAILS]。” 触感真实，物理表现精准，无塑料感或 CGI 感，简洁的现代编辑设计。
+
+[English]
+Bold editorial campaign poster, 9:16. Oversized typography of the word '{argument name="word" default="WORD"}' fills 60–70% of the frame, letters built from real {argument name="material" default="MATERIAL"} with believable texture, seams, and lighting. The material [BEHAVIOR — compresses/tears/melts/etc.] realistically where [SUBJECT/PRODUCT] makes contact with it, creating natural folds, tension, or damage. Realistic commercial photography, high-contrast {argument name="main color" default="MAIN COLOR"} palette with [ACCENT COLOR] accents. Small campaign text: '[BRAND] — [SLOGAN/DETAILS].' Tactile, physically accurate material behavior, no plastic or CGI look, clean contemporary editorial design.
+```
+
+**来源：** [@Sharon Riley](https://x.com/Just_sharon7/status/2093770721927508056) | 2026-08-29
+
+---
+
+### 🎴 例 7056：复古汽车广告海报
+
+![复古汽车广告海报](../images/%E5%A4%8D%E5%8F%A4%E6%B1%BD%E8%BD%A6%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+架空历史的复古汽车广告，仿佛拍摄并印刷于 {argument name="era" default="[ERA]"}，展示了一款 2026 年极具现代感的 {argument name="car model" default="[CAR]"} 重新演绎，使其提前数十年出现。车辆必须通过其原始比例、车顶线条、车窗轮廓、车身姿态和标志性设计元素保持极高的辨识度，同时以 2026 年精致的曲面处理、先进的 LED 灯光、现代轮毂、平齐细节和精密材料进行重新诠释；既具未来感又真实可信，绝非通用的概念车。画面中包含穿着正宗 {argument name="era" default="[ERA]"} 时期 {argument name="clothing" default="[CLOTHING]"} 的 {argument name="human" default="[HUMAN]"}，并伴有 {argument name="animal" default="[ANIMAL]"}，背景为 {argument name="scenery" default="[SCENERY]"}。使用受控的 {argument name="palette" default="[PALETTE]"} 色调，呈现正宗的时期彩色摄影质感，带有轻微褪色的染料、温暖的模拟对比度、微妙的胶片颗粒、老旧的胶印纹理和克制的镀铬高光。图像上方预留空间，放置一行完美对齐的标题 “{argument name="headline" default="[TITLE]"}”，使用 {argument name="type" default="[TYPE]"} 字体，横跨页面网格并留有宽裕的页边距，下方配有一句简短的时期广告标语。底部 31% 的区域为一个温暖的象牙色编辑面板，通过干净的水平边缘与照片隔开；将该面板垂直分为左右两栏，左侧为粗体标题和简洁的生活方式文案，右侧为四项整齐排列的技术规格。底部创建一个独立的页脚锁定区域，放置正宗的制造商徽标及车型名称，随后是一条横跨页面的细水平线，以及一句小型的时期风格结束语。优雅的架空时间线汽车广告，视觉上令人惊叹，具有高度可信的时期风格，适合收藏的墙面海报构图，比例 ar 4:5。
+
+[English]
+Alternate-history vintage automobile advertisement, as if photographed and printed in {argument name="era" default="[ERA]"}, featuring a radically modern 2026 reinterpretation of {argument name="car model" default="[CAR]"} appearing decades before its time. The vehicle must remain immediately recognizable through its original proportions, roofline, greenhouse, body stance and signature design cues, but reinterpret them with sophisticated 2026 surfacing, advanced LED lighting, contemporary wheels, flush detailing and precision materials; futuristic but believable, never a generic concept car. Feature [HUMAN] wearing authentic period [CLOTHING], accompanied by [ANIMAL], inside [SCENERY]. Use a controlled [PALETTE] palette with authentic period color photography, slightly faded dyes, warm analog contrast, subtle film grain, aged offset-print texture and restrained chrome highlights. Reserve the upper image area for one perfectly aligned headline “{argument name="headline" default="[TITLE]"}” set in [TYPE], straight across the page grid with generous margins, with one small period advertising slogan beneath it. The lower 31% is a large warm-ivory editorial panel separated from the photograph by a clean horizontal edge; divide this panel vertically into two balanced columns, with a bold heading and concise lifestyle copy on the left, and four neatly aligned technical specifications on the right. At the bottom create a separate footer lockup with the authentic manufacturer emblem beside the model name, followed by a thin horizontal rule extending across the page and a small period-style closing slogan. Elegant alternate-timeline automotive advertising, visually surprising, highly believable period styling, collectible wall-poster composition, ar 4:5.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2093665035214283003) | 2026-08-29
+
+---
+
+### 🎴 例 7058：民间艺术叙事设计海报
+
+![民间艺术叙事设计海报](../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E5%8F%99%E4%BA%8B%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为 **Naïve folk-inspired narrative illustration / 稚拙民艺感质感型扁平叙事插画**。不要完整描摹照片，而是主动删减细节，以剪影、原始化形体、少量色块和图符化元素重新讲述原画面，只保留最能维持主体身份与故事关系的视觉线索，让人一眼认出原物，同时具有朴拙、幽默和生活感。主体造型以**简化剪影与大块 primitive forms** 为核心，人物、动物、建筑、植物、器物或交通工具都可适度压缩比例、概括结构和夸张特征，不追求严格透视与解剖。空间采用 flattened perspective，以高低、遮挡、大小和色块关系建立叙事；辅助物件像视觉符号一样有节奏地分布，复杂背景主动删除，让一个核心动作、关系或场景承担主要故事。画面使用**蜡笔、油画棒、粗铅笔与干性材料般的颗粒肌理**。黑色或深色区域不要均匀填满，而应保留擦拭、摩擦、叠涂、断裂和纸张透底的痕迹；轮廓略带手工误差 and 笨拙感，边缘不必绝对整齐。整体保持平面，不使用写实光影、金属材质、复杂体积或光滑数字矢量。配色从上方照片中挑选**最鲜活、最有记忆点、最能代表主体精气神的颜色重新组织**，形成简洁而明快的 limited color palette。整体提高颜色的清洁度与生命力，以暖白纸面、深色剪影为稳定基底，再从原图自然提炼蓝、红、黄、绿、粉、橙等少量 spot-color accents，用于服饰、植物、食物、建筑局部或叙事焦点。颜色鲜明但不过度饱和，通过大面积深浅对比与小面积跳色形成节奏，避免灰脏、暗沉、莫兰迪化、荧光色和廉价糖果感。构图重视**叙事中心、视觉重心、正负形、大小节奏和留白关系**。主体不必居中，可以偏置、局部裁切或与辅助元素形成松散的三角关系；保留足够空白，使粗粝的剪影与彩色小元素具有呼吸感。画面远看结构清楚，近看能看到手工颗粒和略带天真的造型趣味，而不是把所有元素平均铺满。文字少量介入，不预设固定标题、地点、编号或语种，根据照片的主体、动作、生活状态、情绪或文化语境自由提炼少量有意义的文字。使用轻巧、朴素、略带手工印刷偏差与不规则字距的民艺编辑字体，可搭配少量手写字，让文字像画面中的招牌、菜单、便笺或出版物注释一样自然存在。文字可沿主体、桌面、墙面、留白或场景结构错落排布，与图形共同参与叙事，但不要形成规整商业标题栏。整体呈现**稚拙剪影、平面空间、蜡笔颗粒、限制性色彩、民艺符号与编辑叙事**共同构成的视觉气质：亲切、幽默、朴素、聪明、有生活感，同时保持成熟的构图与设计意识。避免儿童卡通、可爱贴纸、写实插画、光滑矢量、复杂透视、精细五官、过度细节、3D渲染、电商插画感和模板化效果。我们将布局改为左右布局，side-by-side，比例7:6。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2093627864973295787) | 2026-08-29
+
+---
+
+### 🎴 例 7067：高端鞋履商业海报
+
+![高端鞋履商业海报](../images/%E9%AB%98%E7%AB%AF%E9%9E%8B%E5%B1%A5%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的高端商业广告海报，灵感源自参考图像中简洁的时尚广告美学，但以 {argument name="subject" default="一位 20 出头的帅气年轻男子"} 作为模特。前景中突出展示一款 {argument name="product" default="超大号白色人体工学洞洞鞋"}，以略微倾斜的姿态戏剧性地呈现，展现其造型、透气孔、纹理鞋底、后跟带及优质材质。鞋子后方和侧面站着一位极其帅气的年轻男子，留着浓密自然的黑色波浪卷发，拥有深邃迷人的棕色眼睛、浓密的眉毛、笔挺的雕塑感鼻梁、突出的颧骨、棱角分明的男性下颌线、轮廓自然的双唇以及整洁的短胡须。他身穿极简主义的全白超大款卫衣和宽松白色长裤，搭配同款白色洞洞鞋。他的姿态自信、放松且时尚，身体微微后倾，一只手随意插在口袋里，营造出高端时尚大片的格调。背景：{argument name="background" default="柔和的淡天蓝色摄影棚背景"}，背景中垂直延伸着巨大的粗体白色抽象排版/形状，营造出现代极简主义的图形设计感。在鞋子和模特下方添加光亮的反射地面，呈现细腻的倒影。灯光：柔和的高调摄影棚灯光，明亮的漫射照明，细腻的阴影，真实的皮肤纹理，优质产品摄影，柔和的轮廓光，鞋面上清晰的高光。构图：4:5 竖版广告海报，超大号鞋子位于左下/中心前景，帅气的男模特位于其右后方，强烈的深度和比例对比，视觉平衡居中，奢华鞋履广告美学。在顶部添加精致小字：“DESIGNED WITH AI”。在底部添加精炼的广告文案：“MADE FOR COMFORT, BUILT FOR CONFIDENCE.”（为舒适而生，为自信打造。）“Because every step should feel better.”（因为每一步都应感觉更好。）照片级真实感，电影级商业摄影，超细节，真实的材质，真实的解剖结构，精致的时尚广告，高端品牌美学，清晰对焦，8K 画质，无水印，无扭曲的手部，无多余肢体，无重复鞋子。
+
+[English]
+Create an ultra-realistic, high-end commercial advertising poster inspired by the reference image’s clean fashion campaign aesthetic, but featuring a {argument name="model" default="handsome young man in his early 20s"} as the model. A {argument name="product" default="large oversized white ergonomic clog shoe"} dominates the foreground, positioned dramatically at a slight angle to showcase its shape, ventilation holes, textured sole, heel strap, and premium material. Behind and beside the shoe stands a strikingly handsome young man with thick naturally wavy jet-black hair, expressive deep-brown eyes, strong eyebrows, straight sculpted nose, prominent cheekbones, sharp masculine jawline, naturally defined lips, and a neat short beard. He wears a {argument name="clothing" default="minimalist all-white oversized sweatshirt and relaxed white trousers, paired with matching white clogs"}. His pose is confident, relaxed and stylish, slightly leaning backward with one hand casually in his pocket, creating a premium fashion-editorial attitude. Background: soft pastel sky-blue studio backdrop with enormous bold white abstract typography/shapes extending vertically across the background, creating a modern minimalist graphic design. Add a glossy reflective floor with subtle reflections beneath the shoe and model. Lighting: soft high-key studio lighting, bright diffused illumination, subtle shadows, realistic skin texture, premium product photography, gentle rim lighting, clean highlights on the shoe. Composition: vertical 4:5 advertising poster, oversized shoe in the lower-left/center foreground, handsome male model positioned behind it on the right, strong depth and scale contrast, centered visual balance, luxury footwear campaign aesthetic. Add small elegant text at the top: “DESIGNED WITH AI” Add refined advertising copy at the bottom: “MADE FOR COMFORT, BUILT FOR CONFIDENCE.” “Because every step should feel better.” Photorealistic, cinematic commercial photography, ultra-detailed, realistic materials, realistic anatomy, sophisticated fashion campaign, premium branding aesthetic, sharp focus, 8K quality, no watermark, no distorted hands, no extra limbs, no duplicate shoes.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2093555114556723418) | 2026-08-29
+
+---
+
+### 🎴 例 7070：手工线艺可视化地图
+
+![手工线艺可视化地图](../images/%E6%89%8B%E5%B7%A5%E7%BA%BF%E8%89%BA%E5%8F%AF%E8%A7%86%E5%8C%96%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+☺️🥸🤠
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="比例" default="3:4竖版"}构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影 and 原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，将其转译成一张真实可触摸的 **{argument name="风格" default="Physical String-based Systems Map / Tangible Node-link Visualization"}**。不要直接描绘原物，而是把主体拆解为少量具有意义的节点与关系：关键轮廓、结构转折、动作方向、空间位置或环境线索成为图钉式 Nodes，彼此之间使用真实线绳作为 Edges / Links，使原照片的视觉关系重新以实体网络显形，并仍能隐约辨认出原主体的身份与结构。
+
+构图以一个明确的**核心节点或核心关系**作为视觉枢纽，其余节点围绕主体结构自然展开。线绳不是随机缠绕，而应根据原图的方向、比例、远近、连接与叙事逻辑建立关系；部分节点形成放射、聚合、三角、多边形与跨区域连接，使大量简单关系自然产生 **emergent geometry**。整体既复杂又有秩序，中心关系较密，外围逐渐疏松，保留充足负空间，避免把整个版面铺满。
+
+材质必须具有真实实体装置感：使用细小图钉、针脚、棉线或细绳、纸质标签、手写痕迹 and 真实纸板表面，保留轻微线绳松紧差异、节点高度、交叉遮挡、针脚阴影与手工误差。整体像一件经过艺术指导的研究墙、系统设计实验或信息艺术装置，而不是电脑绘制的网络图，也不要出现赛博UI、数字发光线或廉价侦探板效果。
+
+线绳以**鲜明但克制的{argument name="线条色" default="朱红、珊瑚红或暖红色"}**作为主要关系色，在大量自然白、暖白、浅灰或与上方照片综合色温协调的极浅背景中形成视觉张力；图钉、纸签与少量标记可从上方照片提取局部特征色进行低面积呼应。整体颜色干净、现代、有生命力，避免暗褐、脏旧、血红恐怖感 and 过度复古做旧。
+
+文字作为系统中的**Hand-lettered Annotation** 自由介入，不预设固定标题、地点、年份或菜单式信息。根据照片中的主体、动作、位置、情绪、关系或隐喻，自由生成少量关键词、短句、箭头、圈注或微型说明，并直接写在节点附近、线绳交汇处或留白区域。字体使用**细小、松弛、略带研究笔记感与书写偏差的手写注释字体**，让文字像观察过程中自然留下的思考痕迹，同时保持高级编辑设计的克制与可读性。
+
+整体呈现**实体节点、红色线绳、关系映射、涌现几何、手写注释与大量留白**共同构成的高级实验视觉。无论主体是人物、动物、植物、建筑、器物、交通工具、自然景观或复杂场景，都应把“它是什么”进一步转译为“它的各部分如何发生关系”，形成具有研究感、艺术感、系统性与手工温度的实体信息可视化。避免随机红线、无意义节点、满版混乱、恐怖犯罪板、数字网络UI、卡通图钉、模板化思维导图 and 普通流程图。
+
+😌🥲😘
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2093543076367389130) | 2026-08-29
+
+---
+
+### 🎴 例 7072：动漫街头时尚肖像海报
+
+![动漫街头时尚肖像海报](../images/%E5%8A%A8%E6%BC%AB%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以动漫为灵感的街头时尚海报，主角是一位 {argument name="character" default="帅气的年轻男性"}，以自信的三分之二侧身姿势站立，构图为胸部以上至全身。他留着中等长度、凌乱的脏金色层次感短发，面部轮廓硬朗，肤色白皙温暖，眼神狭长而自信，眉毛浓密，下颌线清晰，表情冷静且略显严肃。他身穿一件 {argument name="outfit" default="现代超大廓形黑色战术街头夹克"}，配有高领折叠设计，细节包括细腻的布料褶皱、接缝、口袋和搭扣。双肩背着一个时尚的芥末黄/橙色背包，配有加厚肩带、金属搭扣和精致的缝线。袖口上方添加一个小巧的黑黄矩形贴标。
+干净利落的日式动漫 / 现代漫画插画风格，半写实的人物解剖结构，高度精细的头发细节，富有表现力的面部，清晰的黑色线条，平滑的赛璐珞阴影，微妙的高光，精致的时尚插画美学。
+背景为 {argument name="background style" default="简约的暖金黄色/橙色纯色背景"}，带有微妙的纸张/海报纹理。人物身后有巨大的粗体黑色排版文字“PROMPT”，上方配有较小的英文大写文字“ANIME STREET FASHION PORTRAIT”。强烈的时尚杂志编辑构图，排版部分被人物遮挡，戏剧性的居中构图，高对比度，高端海报设计。
+温暖的金色光影，边缘清晰，专业商业插画，高度精细，焦点锐利，竖版海报，2:3 纵横比，无水印，无多余人物。
+
+[English]
+Anime-inspired street fashion poster featuring a {argument name="character description" default="handsome young male character"} standing in a confident three-quarter pose, chest-up to full torso composition. He has {argument name="hair style" default="medium-length tousled dirty-blond hair"} with layered strands, sharp masculine facial features, fair warm skin, narrow confident eyes, strong eyebrows, defined jawline, and a calm slightly serious expression. He wears a modern oversized black tactical streetwear jacket with a high folded collar, subtle fabric folds, seams, pockets and buckles. A stylish {argument name="accessory" default="mustard-yellow/orange backpack"} is worn over both shoulders, with thick straps, metal buckles and detailed stitching. Add a small black-and-yellow rectangular patch on the upper sleeve. Clean polished Japanese anime / modern manga illustration, semi-realistic character anatomy, highly detailed hair, expressive face, crisp black linework, smooth cel shading, subtle highlights, sophisticated fashion illustration aesthetic. Background is a simple warm golden-yellow/orange solid backdrop with a subtle paper/poster texture. Large bold black typography behind the character reading “PROMPT”, with smaller uppercase text above reading “ANIME STREET FASHION PORTRAIT”. Strong editorial fashion-magazine composition, typography partially hidden behind the character, dramatic centered framing, high contrast, premium poster design. Warm golden lighting, clean edges, professional commercial illustration, highly detailed, sharp focus, vertical poster, 2:3 aspect ratio, no watermark, no extra people.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2093538143245046050) | 2026-08-29
+
+---
+

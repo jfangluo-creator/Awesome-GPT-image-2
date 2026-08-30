@@ -8358,3 +8358,135 @@ Do not add
 
 ---
 
+### 🧸 例 7039：亲切的 3D 卡通肖像
+
+![亲切的 3D 卡通肖像](../images/%E4%BA%B2%E5%88%87%E7%9A%84%203D%20%E5%8D%A1%E9%80%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的特写肖像，主角是一位开朗的 {argument name="subject" default="年轻男性"}，采用精致的半写实 3D 卡通风格，类似于高质量动画电影角色。他拥有 {argument name="hair color and style" default="短深棕色头发，两侧渐变，顶部整齐梳理"}，肤色为温暖的浅至中等色调，深棕色的大眼睛充满表现力且带有光泽，眉毛浓密，修剪整齐的胡须连接着圆润的山羊胡，露出洁白牙齿的宽大友好笑容。他身体略微朝向观众，头部微倾，画面主体从胸部到头顶占据大部分空间。他身穿一件 {argument name="shirt" default="带有蓝灰色格纹的白色衬衫"}，内搭一件纯白色圆领衫。使用温暖的室内光线、柔和的面部阴影、平滑的皮肤质感以及浅景深效果。背景：温馨的餐厅或咖啡馆墙面，带有红棕色长方形砖块和深色灰泥，背景下方还有深色木质卡座靠背，经过柔化模糊处理。构图应呈现出友好社交媒体头像的感觉，画面中无文字、无水印、无额外人物，且不包含任何配饰。
+
+[English]
+Create a close-up square portrait of a cheerful {argument name="subject" default="young adult man"} in a polished semi-realistic 3D cartoon style, similar to a high-quality animated film character. He has {argument name="hair color and style" default="short dark brown hair with faded sides and a neatly swept top"}, warm light-to-medium skin, large expressive brown eyes with glossy catchlights, thick brows, a trimmed mustache connected to a rounded goatee, and a broad friendly smile showing bright white teeth. He is angled slightly toward the viewer with his head tilted, filling most of the frame from chest to top of head. Dress him in a {argument name="shirt" default="white button-up plaid shirt with blue and gray grid lines"} layered over a plain white crew-neck undershirt. Use warm indoor lighting, soft facial shading, smooth skin texture, and shallow depth of field. Background: a cozy restaurant or café wall with reddish-brown rectangular bricks and dark mortar, plus a dark wooden booth backrest across the lower background, softly blurred. Composition should feel like a friendly social media profile picture, with no text, no watermark, no extra people, and no accessories.
+```
+
+**来源：** [@Darryl Burma](https://x.com/darrylburma/status/2093840073603072070) | 2026-08-29
+
+---
+
+### 🧸 例 7051：巨型安卓面孔接触
+
+![巨型安卓面孔接触](../images/%E5%B7%A8%E5%9E%8B%E5%AE%89%E5%8D%93%E9%9D%A2%E5%AD%94%E6%8E%A5%E8%A7%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个垂直的电影级科幻场景，以氛围而非可见文字为主题：一位孤独的探险家与一张半埋在苍白异星海岸线上的巨大古老合成面孔进行首次接触。画布为 9:16 纵向比例，超精细写实概念艺术，低机位视角靠近潮湿地面。左侧，一个巨大的白色瓷质人形头部占据了画面主体，被顶部和左侧边缘裁剪；其开裂的陶瓷皮肤上布满了细微的裂纹和接缝，眼眶、脸颊缝隙、嘴部和破碎的外壳内露出深色的生物机械电缆、肋骨和机械结构。面孔宁静而宏伟，拥有逼真的鼻子、嘴唇和空洞的机械眼，宛如一尊损毁的安卓神祇。右侧前景展示唯一的一个人类角色：{argument name="character" default="一名身穿深色风化生存服、背着小包的孤独男性探险家"}，主要从背后拍摄，上半身被边缘裁剪，正踏过浅浅的反光水面走向巨型面孔；一只靴子溅起水花，产生可见的水滴和涟漪。环境是一个超凡脱俗的灰白色海岸，有着光亮的水面、被侵蚀的有机机械脊、散落的碎片以及远处穿过薄雾耸立的尖锐大教堂式尖塔。光线为柔和的阴天日光，伴有明亮的漫射天空、苍白的云层、微妙的薄雾以及水面上的粼粼波光。使用去饱和的调色板：{argument name="color palette" default="象牙白、灰烬灰、柔和蓝灰色和黑色"}。强调接触瞬间的规模感、敬畏感、静谧感与蜕变感。风格：{argument name="visual style" default="高端电影级科幻写实主义、复杂的生物机械建筑、70mm 电影剧照、戏剧性构图、体积感大气"}。无文字，无标志，无水印，无额外人物，无载具。
+
+[English]
+Create a vertical cinematic science-fiction scene titled by mood rather than visible text: a lone explorer makes first contact with an enormous ancient synthetic face half-buried in a pale alien shoreline. The canvas is tall 9:16, ultra-detailed photorealistic concept art, low camera angle near the wet ground. On the left, a colossal white porcelain-like humanoid head dominates the frame, cropped by the top and left edges; its cracked ceramic skin is veined with fine fractures and seams, with exposed dark biomechanical cables, ribs, and machinery visible inside the eye sockets, cheek gaps, mouth, and broken shell. The face is serene and monumental, with realistic nose, lips, and hollow mechanical eyes, like a ruined android deity. On the right foreground, show exactly one human figure: {argument name="character" default="a lone male explorer in a dark weathered survival suit with straps and a small pack"}, seen mostly from behind and cropped at the upper body edge, stepping through shallow reflective water toward the giant face; one boot splashes, creating visible droplets and ripples. The environment is an otherworldly white-gray coast with glossy water, eroded organic-mechanical ridges, scattered debris, and distant sharp cathedral-like spires rising through mist. Lighting is soft overcast daylight with bright diffused sky, pale clouds, subtle haze, and shimmering reflections on the water. Use a desaturated palette of {argument name="color palette" default="ivory white, ash gray, muted blue-gray, and black"}. Emphasize scale, awe, silence, and transformation at the moment of contact. Style: {argument name="visual style" default="high-end cinematic sci-fi realism, intricate biomechanical architecture, 70mm film still, dramatic composition, volumetric atmosphere"}. No text, no logo, no watermark, no extra people, no vehicles.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2093697795031187772) | 2026-08-29
+
+---
+
+### 🧸 例 7063：手工微缩咖啡馆立体模型
+
+![手工微缩咖啡馆立体模型](../images/%E6%89%8B%E5%B7%A5%E5%BE%AE%E7%BC%A9%E5%92%96%E5%95%A1%E9%A6%86%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个迷人的极简主义 3D 微缩 {argument name="subject" default="咖啡馆"} 场景，灵感源自温馨的手工纸艺与粘土美学。将一家设计精美的小型咖啡店放置在带有纹理的米白色大背景纸的下方中央，周围留出充足的留白空间。
+
+咖啡馆应呈现出手工微缩模型的质感：一个奶油色的小店面，配有温暖的木质柜台、微型浓缩咖啡机、咖啡杯、糕点、咖啡豆、小菜单“项目”、悬挂招牌、盆栽、凳子以及精致的咖啡馆装饰。加入几位正在享用咖啡的微型顾客和柜台后的咖啡师，整体风格保持可爱、精致且整洁。
+
+使用柔和的象牙白、米色、暖棕色、柔和的鼠尾草绿以及微妙的赤陶色作为点缀，呈现逼真的柔和阴影和自然光效。在咖啡馆周围添加微小的手绘黑色涂鸦——如小爱心、蒸汽线、星星、咖啡豆、箭头和简单的装饰符号——营造出一种现代剪贴簿的趣味感。
+
+整体构图应体现出高级、温馨、奇趣、手工制作以及 Instagram/Pinterest 的审美风格，具备触感丰富的纹理纸背景、微缩立体模型外观、细腻的 3D 细节、充足的负空间以及宁静舒适的咖啡馆氛围。4:5 竖构图，高度细节化，简洁优雅，呈现照片级的微缩工艺风格。
+
+[English]
+Create a {argument name="subject" default="charming minimalist 3D miniature coffee shop scene"} inspired by a {argument name="style" default="cozy handmade paper-and-clay aesthetic"}. Place a tiny, beautifully designed coffee store in the lower-center of a large textured off-white paper background, leaving plenty of clean empty space around it.
+
+The coffee shop should look like a handcrafted miniature café: a small cream-colored storefront with a warm wooden counter, tiny espresso machine, coffee cups, pastries, coffee beans, little menu board, hanging sign, potted plants, stools, and subtle café decorations. Add a few tiny customers enjoying coffee and a barista behind the counter, keeping everything cute, delicate, and uncluttered.
+
+Use {argument name="color palette" default="soft ivory, beige, warm brown, muted sage green, and subtle terracotta accents"}, with realistic soft shadows and gentle natural lighting. Add tiny hand-drawn black doodles around the café—small hearts, steam lines, stars, coffee beans, arrows, and simple decorative marks—to create a playful contemporary scrapbook feeling.
+
+The overall composition should feel premium, cozy, whimsical, handcrafted, and Instagram/Pinterest aesthetic, with a tactile textured-paper background, miniature diorama appearance, soft 3D details, lots of negative space, and a peaceful cozy coffee-shop mood. Vertical 4:5 composition, highly detailed, clean, elegant, photorealistic miniature craft style.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2093593447198588970) | 2026-08-29
+
+---
+
+### 🧸 例 7064：燃烧的日本封建村庄
+
+![燃烧的日本封建村庄](../images/%E7%87%83%E7%83%A7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%B0%81%E5%BB%BA%E6%9D%91%E5%BA%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实电影级 3D CGI 广角镜头，场景为夜晚的 {argument name="setting" default="传统的日本封建村庄"}，整个村庄被灾难性的烈火吞噬。镜头沿一条阴暗潮湿的村道向下俯瞰，中景处是一座巨大的木门，前景中心站着一个孤独的小型人类剪影，正面对着这场毁灭。在门后，展示燃烧的木屋、瞭望塔以及山坡上多层宝塔式的城堡建筑，所有建筑都被狂暴的橙色火焰所覆盖。包含 4 个显著的建筑焦点：一座中央木门、远山上巨大的燃烧多层城堡、最右侧高耸的燃烧木塔，以及中右侧一座较小的燃烧塔。天空充斥着高耸的浓黑烟柱、红橙色的火光，无数漂浮的余烬、火花以及如雪般飘落的灰烬。使用戏剧性的高对比度照明、深邃的黑色、熔岩般的橙色高光、光泽的雨后地面反射、焦黑的木材剪影，营造出末日般的武士时代氛围。街道两侧点缀着传统的灯笼和木质店面，部分呈剪影状，边缘正在燃烧。风格：超细节、照片级真实感、黑暗奇幻历史史诗、体积烟雾、逼真的火焰模拟、电影级构图、16:9 宽屏，无文字，无水印。
+
+[English]
+Create a hyper-realistic cinematic 3D CGI wide shot of a {argument name="setting" default="traditional Japanese feudal village"} at night, completely engulfed in a catastrophic inferno. The camera looks down a dark wet village street toward a large wooden gate in the midground, with one lone small human silhouette standing in the center foreground facing the destruction. Beyond the gate, show burning wooden houses, watchtowers, and multiple tiered pagoda-style castle buildings on the hillside, all consumed by raging orange flames. Include exactly 4 prominent architectural focal points: a central wooden gate, a large burning multi-tier castle on the distant hill, a tall burning wooden tower on the far right, and a smaller burning tower near the center-right. Fill the sky with towering columns of thick black smoke, red-orange fire glow, countless floating embers, sparks, and ash falling like snow. Use dramatic high contrast lighting, deep blacks, molten orange highlights, glossy rain-wet ground reflections, charred timber silhouettes, and an apocalyptic samurai-era atmosphere. Add traditional lanterns and wooden storefronts along both sides of the street, partially silhouetted and burning at the edges. Style: ultra-detailed, photorealistic, dark fantasy historical epic, volumetric smoke, realistic fire simulation, cinematic composition, 16:9 widescreen, no text, no watermark.
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2093564487622435009) | 2026-08-29
+
+---
+
+### 🧸 例 7065：史前红杉丛林
+
+![史前红杉丛林](../images/%E5%8F%B2%E5%89%8D%E7%BA%A2%E6%9D%89%E4%B8%9B%E6%9E%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实的 3D CGI 电影感广角镜头，展示一片茂密、潮湿的 {argument name="prehistoric jungle type" default="史前红杉丛林"} 正午景象，画面中无人也无动物。构图为 16:9 的森林地面横向视角，画面极近处由两棵巨大的古老红杉树干框定，左右各一，树皮纹理深邃、潮湿、长满苔藓并覆盖着爬行藤蔓。中景和背景中充斥着许多高耸的垂直树干，逐渐隐入蓝色的大气薄雾中，茂密的藤蔓从树冠垂下，地面覆盖着郁郁葱葱的史前蕨类植物。画面需包含恰好两棵占据主导地位的前景树干、大量较小的背景树干，以及茂密的蕨类叶片、苔藓、树根、落枝和潮湿的深色土壤。阳光穿过高处的绿色树冠，形成强烈的体积感“耶稣光”，向下倾斜穿过潮湿的雾气，照亮了漂浮的水汽和斑驳的亮面叶片。使用 {argument name="lighting mood" default="冷绿色调薄雾与温暖的正午阳光"}，深邃的阴影，高动态范围，逼真的叶片次表面散射效果，潮湿树皮的镜面高光，以及电影级自然历史纪录片的质感。相机：低机位森林地面视角，广角镜头，深远的环境景深，柔和的大气透视，超精细纹理，照片级渲染，无文字，无水印，无建筑物，无现代物体。
+
+[English]
+Create a hyper-realistic 3D CGI cinematic wide shot of a dense, humid {argument name="prehistoric jungle type" default="prehistoric redwood jungle"} at midday, with no animals or people visible. The composition is a 16:9 landscape view from the forest floor, framed by two enormous ancient redwood trunks in the extreme foreground, one on the left and one on the right, their bark deeply ridged, damp, mossy, and covered with creeping vines. Fill the midground and background with many towering vertical tree trunks fading into bluish atmospheric haze, thick hanging vines descending from the canopy, and lush prehistoric ferns covering the ground. Include exactly two dominant foreground tree trunks, numerous smaller background trunks, and dense layers of fern fronds, moss, roots, fallen branches, and wet dark soil. Sunlight breaks through the high green canopy as strong volumetric god rays angled downward through humid mist, illuminating floating moisture and patches of glossy foliage. Use {argument name="lighting mood" default="cool green-blue mist with warm midday sunbeams"}, deep shadows, high dynamic range, realistic subsurface leaf translucency, wet bark specular highlights, and a cinematic natural-history documentary look. Camera: low eye-level forest-floor perspective, wide-angle lens, deep environment depth with soft atmospheric perspective, ultra-detailed textures, photorealistic rendering, no text, no watermark, no buildings, no modern objects.
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2093564482387603667) | 2026-08-29
+
+---
+
+### 🧸 例 7068：3D 纸艺旅行手账
+
+![3D 纸艺旅行手账](../images/3D%20%E7%BA%B8%E8%89%BA%E6%97%85%E8%A1%8C%E6%89%8B%E8%B4%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高细节照片，展示了一只真实的手在户外拿着一本打开的复古皮革剪贴簿，背景是处于黄金时刻、虚化的 {argument name="landmark" default="吉萨金字塔"}。
+
+在打开的书页中，一个精致的多层 3D 纸艺场景跃然而出：一个可爱的风格化 2D 剪纸女孩，留着长长的波浪形 {argument name="hair color" default="棕色"} 头发，穿着黑色长袖蕾丝中长裙和棕色靴子，正拿着相机沿着凸起的纸质路径向前走。
+
+书页内环绕着她的是狮身人面像、沙漠金字塔、棕榈树和沙丘的 3D 分层纸艺剪影。
+
+在打开书的左页上，摆放着复古旅行纪念品，包括一张“开罗 - 埃及”复古标签、一张票根、手写笔记、一个小黄铜指南针和压花。温暖的金色阳光在纸张纹理上投下柔和的阴影。
+
+[English]
+A high-detail photo of a real hand holding an open vintage leather-bound scrapbook outdoors in front of the blurry {argument name="landmark" default="Pyramids of Giza"} during golden hour.
+
+Inside the open book, an intricate, multi-layered 3D paper craft art scene pops out: a cute stylized 2D paper-cut girl with long wavy brown hair wearing a {argument name="dress" default="long-sleeved black lace midi dress"} and brown boots, walking forward along a raised paper-layered path while holding a camera.
+
+Surrounding her inside the book are {argument name="paper cutouts" default="3D layered paper cutouts of the Sphinx, desert pyramids, palm trees, and sand dunes"}.
+
+On the left page of the open book are retro travel ephemera including a "CAIRO - EGYPT" vintage label, a ticket stub, handwritten notes, a small brass compass, and pressed leaves. Warm golden sunlight casts soft shadows across the paper textures.
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2093553296166240475) | 2026-08-29
+
+---
+

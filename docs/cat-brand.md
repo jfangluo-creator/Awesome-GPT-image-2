@@ -18935,3 +18935,21 @@ Create a grand vertical sci-fi concept art scene titled {argument name="scene th
 
 ---
 
+### 🏷️ 例 7050：双色半调风格角色海报
+
+![双色半调风格角色海报](../images/%E5%8F%8C%E8%89%B2%E5%8D%8A%E8%B0%83%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高对比度的双色海报，主角为 {argument name="character" default="[在此处标注你的角色]"}，画面仅由纯黑色和鲜艳的电光绿构成，不含其他颜色或灰色调。整张图像由粗糙的半调网点构成——呈现出清晰可见、密度不一的印刷网点。
+
+[English]
+A high-contrast two-tone poster of {argument name="character" default="[tag your character here]"} rendered entirely in pure black and vivid electric green with no other colors and no grey tones. The entire image is built from a coarse halftone dot screen — visible printed dots of varying density
+```
+
+**来源：** [@RafaSimon](https://x.com/rafalors/status/2093704697895129516) | 2026-08-29
+
+---
+

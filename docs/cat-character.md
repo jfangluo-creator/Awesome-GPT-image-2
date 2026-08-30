@@ -8690,3 +8690,77 @@ Use the provided reference image as the strict identity reference. Create a sing
 
 ---
 
+### 🧍 例 7047：动漫丛林步枪动作场景
+
+![动漫丛林步枪动作场景](../images/%E5%8A%A8%E6%BC%AB%E4%B8%9B%E6%9E%97%E6%AD%A5%E6%9E%AA%E5%8A%A8%E4%BD%9C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为角色基础，将站立的角色设定图转化为一张动态的电影级动作插画。保持角色标志性的面部特征、长紫色高马尾、棕褐色军用衬衫、迷彩裤、背带、腰带装备以及战斗靴风格的一致性，但将其姿势改为极具攻击性的战斗中姿态。
+
+场景：将她置于茂密的热带丛林战场中，背景包含深绿色植被、棕榈叶、斑驳的阳光以及戏剧性的浅景深效果。
+
+动作：画面中仅展示 1 名角色，手持 1 把黑色突击步枪横在身前，瞄准画面右侧并正在射击。在步枪枪口处添加 1 个明亮的橙黄色大号枪口火焰，并在武器附近添加 1 个清晰可见的弹壳抛壳效果。赋予她自信且强烈的表情，仿佛正在享受这场交火。
+
+构图：横向宽银幕动作画幅，取景范围从腰部到大腿上部，角色位于画面左侧偏中位置，步枪呈对角线指向右侧，展现强烈的动感与张力。
+
+风格：高质量动漫插画，具备电影级光影、高对比度、来自枪口火焰的辉光效果、逼真的武器细节、动态的头发飘动、戏剧性的丛林氛围以及精致的游戏主视觉渲染效果。
+
+可选自定义：使用 {argument name="character name" default="Mitsuki Hayase"} 作为角色身份灵感，将环境设置为 {argument name="battlefield setting" default="茂密的热带丛林"}，使用 {argument name="weapon type" default="黑色突击步枪"}，将动作设定为 {argument name="combat action" default="射击并伴有巨大的枪口火焰"}，并保持氛围为 {argument name="mood" default="电影级 20 世纪 80 年代动作片质感"}。
+
+[English]
+Using REFERENCE_0 as the character base, transform the standing character sheet into a single dynamic cinematic action illustration. Keep the character’s recognizable face, long purple high ponytail, tan military shirt, camouflage pants, suspenders, belt gear, and combat-boots style consistent, but change her pose to an aggressive mid-combat stance.
+
+Scene: Place her in a dense tropical jungle battlefield with dark green foliage, palm leaves, dappled sunlight, and a dramatic shallow-depth-of-field background.
+
+Action: Show exactly 1 character holding exactly 1 black assault rifle across her body, aiming toward the right side of the frame and actively firing. Add exactly 1 large bright orange-yellow muzzle flash at the rifle barrel and exactly 1 visible ejected shell casing near the weapon. Give her an intense confident expression, as if enjoying the firefight.
+
+Composition: Horizontal widescreen action frame, waist-up to upper-thigh crop, character positioned left-of-center, rifle leading diagonally to the right, strong motion and tension.
+
+Style: High-quality anime illustration with cinematic lighting, high contrast, glowing firelight from the muzzle flash, realistic weapon detailing, dynamic hair movement, dramatic jungle atmosphere, and polished game-key-visual rendering.
+
+Optional customization: Use {argument name="character name" default="Mitsuki Hayase"} as the character identity inspiration, set the environment to {argument name="battlefield setting" default="dense tropical jungle"}, use {argument name="weapon type" default="black assault rifle"}, make the action {argument name="combat action" default="firing with a huge muzzle flash"}, and keep the mood {argument name="mood" default="cinematic 1980s action-movie intensity"}.
+```
+
+**来源：** [@ゴードン・シャムウェイ＠AIスロップおじさん](https://x.com/Author_COTD/status/2093725804505206905) | 2026-08-29
+
+---
+
+### 🧍 例 7062：单色广场上的 Q 版画家
+
+![单色广场上的 Q 版画家](../images/%E5%8D%95%E8%89%B2%E5%B9%BF%E5%9C%BA%E4%B8%8A%E7%9A%84%20Q%20%E7%89%88%E7%94%BB%E5%AE%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感动漫插画，描绘一位小巧的 Q 版街头画家奔跑在欧式城市广场上，将鲜艳的颜料挥洒在原本单色的场景中。角色位于画面中偏左位置，全身像，具有夸张可爱的比例，肤色白皙，留着短款 {argument name="hair color" default="白色"} 头发，有着大大的黑色椭圆形眼睛和淡淡的愉悦微笑。他们穿着白色连帽外套、白色帽子或兜帽、短裤，一条长长的 {argument name="scarf color" default="亮蓝色"} 围巾随风向右飘动，搭配蓝色靴子和一个小背包。角色右手提着一个金属颜料桶，桶内可见红色和绿色颜料，倾斜的姿态仿佛在奔跑时摆动。画面中需呈现四条主要的颜料轨迹：右侧环绕角色的一道鲜艳红色弧线、脚下向右延伸的蓝色溅射路径、前景左侧横扫而过的橙黄色轨迹，以及桶后靠近地面的一道绿色条纹；在这些轨迹周围添加少量红色、蓝色、绿色和黄色的散落液滴。背景是模糊的灰度历史广场，铺着石板路，右侧有一座古老华丽的欧洲建筑，左侧有一个基座上的雕像，远处有尖塔、树木和柔和的阴天日光。采用浅景深、低机位视角、动态对角线构图，背景带有运动模糊，角色线条清晰细腻，颜料呈现光泽质感，黑白建筑与饱和颜料色彩形成强烈对比。无文字，无水印，无额外角色。
+
+[English]
+Create a cinematic anime illustration of a small chibi street painter running through a European-style city plaza, splashing bright paint across an otherwise monochrome scene. The character is centered slightly left, full body, with oversized cute proportions, pale skin, short {argument name="hair color" default="white"} hair, large black oval eyes, and a cheerful subtle smile. They wear a white hooded jacket, a white cap or hood, shorts, a long flowing {argument name="scarf color" default="bright blue"} scarf whipping dramatically to the right, matching blue boots, and a small backpack. In the character’s right hand is one metal paint bucket with visible red and green paint inside, tilted as if swinging while running. Show exactly four main paint trails: a large vivid red arc curling around the character on the right, a blue splash path under the feet and trailing to the right, a yellow-orange sweep across the foreground left, and a green streak behind the bucket near the ground; add small scattered droplets in red, blue, green, and yellow around these trails. The background is a blurred grayscale historic square with stone paving, an old ornate European building on the right, a statue on a pedestal on the left, distant spires, trees, and soft overcast daylight. Use shallow depth of field, low ground-level perspective, dynamic diagonal composition, motion blur in the background, crisp detailed anime linework on the character, glossy liquid paint highlights, high contrast between the black-and-white architecture and saturated paint colors. No text, no watermark, no extra characters.
+```
+
+**来源：** [@楽園](https://x.com/dave392750/status/2093596173101920396) | 2026-08-29
+
+---
+
+### 🧍 例 7079：奢华旅行专题：湖畔度假胜地
+
+![奢华旅行专题：湖畔度假胜地](../images/%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E4%B8%93%E9%A2%98%EF%BC%9A%E6%B9%96%E7%95%94%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高级奢华旅行专题艺术作品，灵感源自所有四张上传的参考图，采用 3:4 竖构图。创作一个单一且连贯的目的地场景，而非四个独立面板或拼贴画。将所有四张参考图的视觉元素无缝融合为一个令人惊叹的奢华湖泊与海洋度假胜地，实现自然过渡、层次深度与和谐构图。视觉概念：结合四张参考图中最强烈的元素：环绕宁静清澈湖泊的壮丽阿尔卑斯山脉；迷人的欧洲湖畔村庄，配有优雅的别墅和温暖的夜灯；豪华的水岸露台，配有精致的户外座椅；俯瞰湖泊的木质阳台，装饰着鲜花和发光的灯笼；优雅的咖啡桌，放着一杯热咖啡/茶和一本打开的书；茂盛的开花植物、粉色花朵和精致的绿植；一个自然融入周围水域的豪华热带无边泳池；棕榈树和广阔地平线上壮观的温暖日落；山脉、建筑、灯笼和日落光影在水面上的柔和倒影；舒适的奢华度假氛围，配有精致的家具和微妙的装饰细节。阿尔卑斯湖泊应自然过渡到优雅的欧洲湖畔建筑，而前景应逐渐演变为奢华的度假露台和无边泳池体验。热带棕榈树和海洋般的日落氛围应微妙地融入远景，避免地理上的不真实感。构图：创造一个单一连续的电影感旅行环境，没有可见的分隔线。使用：前景：配有优雅沙发/椅子、咖啡桌、打开的书、陶瓷杯、鲜花和发光灯笼的豪华露台；中景：宁静的倒影湖泊、优雅的船只和湖畔建筑；背景：隐入温暖日落云层的雄伟山脉；微妙的热带元素（如棕榈树和无边泳池）自然融入豪华露台。营造强烈的前景、中景和背景深度。场景应感觉像是一个独家的奢华目的地，阿尔卑斯山的宁静、意大利湖畔的优雅和热带度假的奢华在此自然交汇。不要让地标或环境看起来像是随机拼凑的。生活方式：仅包含一位优雅的女性，自然地融入场景，多以背影或有品位的侧/后视角呈现，在豪华露台上拿着热饮放松。她身穿优雅飘逸的象牙白/奶油色服装，留着自然长发。她的存在应保持微妙，作为风景的陪衬。氛围：黄金时刻的日落过渡到傍晚。温暖的发光灯笼、柔和的桃色和粉色云朵、水面上柔和的倒影、微妙的环境度假灯光和宁静的山区氛围。基调应为：奢华 + 宁静 + 浪漫 + 梦幻 + 精致 + 独家 + 放松。艺术指导：高端商业奢华旅行广告，精致的专题摄影，高端度假杂志美学，优雅的生活方式品牌塑造，精致的构图，写实的建筑，自然的景观融合，优美的深度，考究的细节，奢华的酒店氛围。超写实摄影质量，自然纹理，逼真的水面反射，写实光影，微妙的景深，高级调色，高度考究的构图，视觉平衡且适合社交媒体发布。色彩搭配：柔和的天空蓝、朦胧的山脉蓝、温暖的象牙白、奶油色、优雅的米色、柔和的绿色、柔和的绿松石色、日落桃色、腮红粉和温暖的金色琥珀色。保持色彩精致和谐，避免过度饱和。排版：在上方留出优雅的负空间，用于精致的专题排版。添加：Lakeside Escapes Where Mountains Meet Paradise（湖畔度假：山脉与天堂的邂逅）。使用精致的奢华杂志排版，简洁的间距和极简文字。排版必须清晰、优雅且易于阅读。最终效果：最终图像应感觉像是一个单一的高端国际奢华旅行广告，将宁静的阿尔卑斯湖泊、优雅的欧洲湖畔生活方式、舒适的豪华露台和热带无边泳池日落融为一个难忘的目的地。它必须看起来是有意为之、昂贵、优雅且经过专业艺术指导，而不是四张图片的简单叠加。负面提示：无四面板布局。无分屏。无独立图像区域。无明显的拼贴感。无硬性分隔线。无重复风景。无随机地标放置。无扭曲的山脉。无扭曲的建筑。无不真实的水体。无过多人物。无过大的女性形象。无主导角色。无杂乱。无过多的装饰。无过度饱和的色彩。无刺眼的人造光。无卡通风格。无水彩画。无绘画笔触。无廉价的旅游海报感。无过多文字。无扭曲的排版。无重复物体。无不真实的热带-阿尔卑斯组合。无混乱的构图。
+
+[English]
+Premium sophisticated luxury travel editorial artwork inspired by all four uploaded reference images, 3:4 vertical format. Create one single cohesive destination scene, not four separate panels and not a collage. Seamlessly blend the visual elements of all four references into one breathtaking luxury lakeside-and-ocean escape, with natural transitions, layered depth and a harmonious composition. VISUAL CONCEPT Combine the strongest elements from all four reference images: dramatic Alpine mountains surrounding a peaceful crystal-clear lake charming lakeside European village with elegant villas and warm evening lights luxurious waterfront terrace with sophisticated outdoor seating wooden balcony overlooking the lake, decorated with flowers and glowing lanterns elegant coffee table with a warm cup of coffee/tea and an open book lush flowering plants, pink blossoms and refined greenery a luxurious tropical infinity pool blending naturally into the surrounding water palm trees and a spectacular warm sunset over an expansive horizon soft reflections of mountains, architecture, lanterns and sunset light on the water cozy luxury-resort atmosphere with sophisticated furniture and subtle decorative details The Alpine lake should naturally transition toward the elegant European lakeside architecture, while the foreground gradually evolves into a luxurious resort terrace and infinity-pool experience. The tropical palm trees and ocean-like sunset atmosphere should blend subtly into the distant landscape without looking geographically unrealistic. COMPOSITION Create a single continuous cinematic travel environment with no visible dividing lines. Use: foreground: luxurious terrace with elegant sofa/chairs, coffee table, open book, ceramic cup, flowers and glowing lanterns middle ground: calm reflective lake, elegant boats and lakeside architecture background: majestic mountains fading into warm sunset clouds subtle tropical elements such as palm trees and an infinity pool integrated naturally into the luxury terrace Create strong foreground, middle-ground and background depth. The scene should feel like one exclusive luxury destination where Alpine serenity, Italian lakeside elegance and tropical resort luxury meet together naturally. Do not make the landmarks or environments look randomly pasted together. LIFESTYLE Include only one elegant woman, naturally integrated into the scene, seen mostly from behind or in a tasteful side/back view, relaxing on the luxury terrace while holding a warm cup. She wears an elegant flowing ivory/cream outfit with long natural hair. Her presence should remain subtle and secondary to the scenery. ATMOSPHERE Golden-hour sunset transitioning into early evening. Warm glowing lanterns, soft peach and pink clouds, gentle reflections on the water, subtle ambient resort lighting and peaceful mountain atmosphere. The mood should be: luxurious + peaceful + romantic + dreamy + sophisticated + exclusive + relaxing ART DIRECTION Premium commercial luxury travel campaign, sophisticated editorial photography, high-end resort magazine aesthetic, elegant lifestyle branding, refined composition, realistic architecture, natural environmental integration, beautiful depth, polished details, luxurious hospitality atmosphere. Ultra-realistic photographic quality, natural textures, realistic water reflections, realistic lighting, subtle depth of field, premium color grading, highly refined composition, visually balanced and social-media ready. COLOR PALETTE Soft sky blue, misty mountain blue, warm ivory, cream, elegant beige, muted green, soft turquoise, sunset peach, blush pink and warm golden amber. Keep the colors sophisticated and harmonious rather than overly saturated. TYPOGRAPHY Leave elegant negative space in the upper portion for refined editorial typography. Add: Lakeside Escapes Where Mountains Meet Paradise Use sophisticated luxury-magazine typography, clean spacing and minimal text. Typography must be crisp, elegant and perfectly readable. FINAL LOOK The final image should feel like a single premium international luxury travel advertisement, combining the peaceful Alpine lake, elegant European lakeside lifestyle, cozy luxury terrace and tropical infinity-pool sunset into one unforgettable destination. It must look intentional, expensive, elegant and professionally art-directed — not like four images merged together. NEGATIVE PROMPT No four-panel layout. No split screen. No separate image sections. No obvious collage. No hard dividing lines. No duplicated scenery. No random landmark placement. No distorted mountains. No distorted architecture. No unrealistic water. No excessive people. No oversized woman. No dominant character. No clutter. No excessive decorations. No oversaturated colors. No harsh artificial lighting. No cartoon style. No watercolor. No painterly brushwork. No cheap tourist-poster appearance. No excessive text. No distorted typography. No duplicated objects. No unrealistic tropical-Alpine combination. No messy composition.
+```
+
+**来源：** [@KrishnaG](https://x.com/KrishnaBio1/status/2093495012637962491) | 2026-08-29
+
+---
+

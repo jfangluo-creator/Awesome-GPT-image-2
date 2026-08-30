@@ -19617,3 +19617,139 @@ Create a cinematic vertical 9:16 photorealistic scene of {argument name="charact
 
 ---
 
+### 🎨 例 7040：黑色石板上的玻璃弹珠
+
+![黑色石板上的玻璃弹珠](../images/%E9%BB%91%E8%89%B2%E7%9F%B3%E6%9D%BF%E4%B8%8A%E7%9A%84%E7%8E%BB%E7%92%83%E5%BC%B9%E7%8F%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="color" default="绿色"} 的玻璃弹珠，放置在 {argument name="surface" default="湿润的黑色石板"} 上
+
+[English]
+a {argument name="object" default="green glass marble"} on {argument name="surface" default="wet black slate"}
+```
+
+**来源：** [@Perspective AI](https://x.com/Perspective_AI_/status/2093836107402146255) | 2026-08-29
+
+---
+
+### 🎨 例 7054：青绿色日式手写歌词卡
+
+![青绿色日式手写歌词卡](../images/%E9%9D%92%E7%BB%BF%E8%89%B2%E6%97%A5%E5%BC%8F%E6%89%8B%E5%86%99%E6%AD%8C%E8%AF%8D%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张正方形歌词卡图像，呈现出在青绿色背景上扫描的手写日文歌词页效果。
+画布：1:1 正方形，平铺青绿色背景，中心设有一个水平矩形，占据约 88% 的宽度和 76% 的高度。
+布局：在矩形内绘制 23 列狭窄的垂直书写栏，并以细青绿色分割线隔开。使用粗深灰色圆角外边框，并带有微妙的内阴影。各列应呈现为传统的垂直日文手写体，从上到下密集填充卡片，间距不均，具有自然的手写韵律。
+文本内容：使用 {argument name="song title" default="灰呼吸"} 作为最左侧列的加粗垂直标题。其余列填充 {argument name="lyrics text" default="あ、うぁ、ぐるん、吸って吐く、点互、無理をしないで、その他、冷めたかし教きくなる"}，渲染为手写日文歌词风格，而非排版文本。在短语之间添加许多小型装饰性涂鸦：循环螺旋、小爱心、圆圈标记、点和随意的乱涂。
+视觉风格：极简平面设计，青绿色单色调，深炭色墨水，略显不完美的手绘线条，简洁而具有手工感的歌词卡美学。使用交替的淡青绿色填充列，使网格可见但保持微妙。
+约束：无角色，无风景，无英文文本，无逼真的纸张纹理，无水印。保持所有文本垂直且手写，呈现出日文歌词页那种密集的信息卡片外观。
+
+[English]
+Goal: Create a square lyric-card image resembling a scanned handwritten Japanese song sheet on a teal background.
+Canvas: 1:1 square, flat turquoise background with a centered horizontal rectangle occupying about 88% width and 76% height.
+Layout: Inside the rectangle, draw exactly 23 narrow vertical writing columns separated by thin teal divider lines. Use a thick dark gray rounded outer border with a subtle inner shadow. The columns should read as traditional vertical Japanese handwriting, densely filling the card from top to bottom, with uneven spacing and a human handwritten rhythm.
+Text content: Use {argument name="song title" default="灰呼吸"} as the bold vertical title in the far-left column. Fill the remaining columns with {argument name="lyrics text" default="あ、うぁ、ぐるん、吸って吐く、点互、無理をしないで、その他、冷めたかし教きくなる"}, rendered as handwritten Japanese lyric-like text rather than typeset text. Add many small decorative doodles between phrases: looped spirals, tiny hearts, circled marks, dots, and loose scribbles.
+Visual style: Minimal flat graphic design, teal monochrome palette, dark charcoal ink, slightly imperfect hand-drawn lines, clean but handmade lyric-card aesthetic. Use alternating pale teal column fills so the grid is visible but subtle.
+Constraints: No characters, no scenery, no English text, no realistic paper texture, no watermark. Keep all text vertical and handwritten, with the dense information-card look of a Japanese lyrics sheet.
+```
+
+**来源：** [@どーなつひつじ](https://x.com/donut_sheep/status/2093681338650145130) | 2026-08-29
+
+---
+
+### 🎨 例 7059：便利店打斗场景
+
+![便利店打斗场景](../images/%E4%BE%BF%E5%88%A9%E5%BA%97%E6%89%93%E6%96%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级、逼真的动作静态图，场景设定在夜晚灯火通明的便利店内部。画面展示了 {argument name="main character" default="一位皮肤黝黑、留着长黑发并扎着高马尾的运动型年轻女性"}，穿着 {argument name="hero outfit" default="红色短款背心和黑色长裤"}，定格在打斗瞬间：她单手撑在玻璃展示柜上，身体侧向跃过收银台，一条腿伸展出强有力的飞踢。画面中需包含四个人物：1) 位于中左侧的女英雄，神情专注且激烈；2) 最左侧的一名蒙面劫匪，戴着黑色滑雪面罩，身穿深灰色连帽衫，双手举起向后退缩；3) 前景中右侧的第二名蒙面劫匪，背对镜头，戴着黑色滑雪面罩，身穿黑色连帽衫，正面对着女英雄；4) 右侧一名衣着邋遢的男性旁观者，穿着 {argument name="bystander outfit" default="橄榄绿 T 恤和米色工装裤"}，站在零食货架旁，手里拿着一瓶饮料，神情焦虑地注视着。便利店内部应包括一个装满彩色小包装商品的玻璃收银台、左侧的收银机、收银台后方的滑动玻璃门和深色窗户、天花板的荧光灯反射、砖红色瓷砖地面，以及右侧和后墙上摆满明亮薯片袋和零食的多个货架。使用 16:9 宽银幕电影画幅、平视视角、动态定格、逼真的解剖结构、硬核现代犯罪惊悚片氛围、自然荧光灯与夜间反射混合的照明、浅景深、细腻的纹理，呈现出高预算电影剧照的质感。避免出现文字叠加、标志、标题、水印、多余角色、血腥内容或卡通风格。
+
+[English]
+Create a cinematic, realistic action still set inside a brightly lit convenience store at night. The scene shows {argument name="main character" default="an athletic young woman with tan skin and long dark hair in a high ponytail"} wearing {argument name="hero outfit" default="a red cropped tank top and black pants"}, frozen mid-fight as she vaults sideways over the checkout counter with one hand planted on the glass display case and one leg extended in a powerful flying kick. Count exactly four visible people: 1) the woman hero at center-left, focused and intense; 2) a masked robber on the far left in a black ski mask and dark gray hoodie, recoiling with both hands raised; 3) a second masked robber in the foreground center-right, seen from behind in a black ski mask and dark hoodie, facing the woman; 4) a scruffy male bystander on the right wearing {argument name="bystander outfit" default="an olive green T-shirt and beige cargo pants"}, standing near snack shelves and holding a bottled drink while watching anxiously. The store interior should include a glass checkout counter filled with colorful small packaged goods, a cash register on the left, sliding glass entrance doors and dark windows behind the counter, fluorescent ceiling reflections, brick-red tile flooring, and multiple racks of bright chip bags and snacks on the right and back wall. Use a wide 16:9 movie frame, eye-level perspective, dynamic frozen motion, realistic anatomy, gritty modern crime-thriller mood, natural fluorescent store lighting mixed with night reflections, shallow cinematic depth of field, detailed textures, and a high-budget film still look. Avoid text overlays, logos, captions, watermarks, extra characters, gore, or cartoon styling.
+```
+
+**来源：** [@Spectro](https://x.com/Spectromachina/status/2093604118560440353) | 2026-08-29
+
+---
+
+### 🎨 例 7069：彩色铅笔兰花素描
+
+![彩色铅笔兰花素描](../images/%E5%BD%A9%E8%89%B2%E9%93%85%E7%AC%94%E5%85%B0%E8%8A%B1%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅表现主义风格的随性彩色铅笔素描，通过铅笔在不同部位的力度变化，呈现出色彩深浅不一的效果，描绘了一朵盛开的 {argument name="flower" default="白兰花"}，背景为 {argument name="background color" default="黑色"}
+
+[English]
+An expressionistic casual colored pencil sketch, with various intensity of color throughout as if the pencil was pressed harder or softer in certain places, of a {argument name="subject" default="blooming white orchid"} on a {argument name="background" default="black background"}
+```
+
+**来源：** [@Smiles4Wizards](https://x.com/Smiles4Wizards/status/2093544034358747222) | 2026-08-29
+
+---
+
+### 🎨 例 7071：赛博朋克歌手角色设计图
+
+![赛博朋克歌手角色设计图](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%AD%8C%E6%89%8B%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位未来感女性歌手"} 创建一份暗黑动漫风格的赛博朋克角色设计图，以一位带有发光电光蓝音乐特效、引人注目的偶像/歌手为核心，以黑色背景呈现高细节概念艺术。
+
+画布：宽屏 16:9 角色设计图，黑色纸张纹理背景，用细灰色分割线区分不同研究区域，配有白色手写标注，高对比度照明，青蓝色光效点缀。
+
+主体：一位年轻动漫风格的女性歌手，拥有 {argument name="hair color" default="带有鲜艳青蓝色挑染的黑发"}，长而凌乱的高马尾，湿润/碎发层次刘海，苍白皮肤，锐利的蓝色眼睛，表情冷酷且强烈。她戴着覆盖单眼的透明护目镜式耳机、发光的蓝色星星发夹、耳罩式科技耳机、黑色露指手套、黑色颈圈、白色短款上衣、带有绑带和拉链金属件的超大号亮面黑白街头风夹克、宽松黑色工装裤、腰带链条和厚底运动鞋。她手持一支未来感麦克风靠近嘴边，明亮的青色声波丝带和棱角分明的波形形状围绕着她的身体盘旋。
+
+布局：在左中位置放置一张大型中央全彩英雄插画，展示歌手大腿以上部位，身体微向左侧，正对着发光的麦克风演唱。周围环绕 3 个带标签的研究区域：
+
+1. 三视图与表情：在左上方，包含 3 个迷你全身三视图，分别标注为正面、背面和侧面。下方包含 3 个与上述正面、背面和侧面轮廓相匹配的白色剪影研究。左下角包含 4 个表情肖像面板：中性严肃脸、张嘴演唱、向下冷视以及对着麦克风演唱的特写。
+
+2. 姿势研究：在右上方，包含 4 个动态全身/动作姿势绘图：“UNLEASH”（释放）——歌手从麦克风中喷射出锯齿状蓝色波形；“LEAP”（跳跃）——她在空中旋转表演；“LOW SHOT”（低角度镜头）——蹲下并将发光的麦克风向前指向；“COOL DOWN”（冷静）——站姿放松，双手插兜，夹克随意披挂。
+
+3. 细节研究：在右下方，包含 5 个特写细节面板，分别标注为：“VISOR HEADSET & FACE”（护目镜耳机与面部）、“GLOWING STAR HAIRPIN”（发光星星发夹）、“JACKET TRIM & HARDWARE”（夹克饰边与金属件）、“GLOVE & SILVER RINGS”（手套与银戒指）以及“GLOWING MIC & WAVEFORM”（发光麦克风与波形）。
+
+视觉风格：粗砺的半写实动漫概念艺术，油画笔触纹理，清脆的墨水感高光，戏剧性的轮廓光，亮面黑色织物，发光的青色电光特效，素描本制作图纸展示，手绘白色字体。在声波、耳机灯光、发丝挑染、麦克风网罩和星星发夹中统一使用 {argument name="glow color" default="电光青蓝色"} 作为强调色。
+
+文本内容：使用可见的白色手写英文标签，内容如下：“1. TURNAROUND & FACES”、“MINI TURNAROUND”、“SILHOUETTE STUDY”、“EXPRESSION STUDY”、“2. POSE STUDY”、“UNLEASH”、“LEAP”、“LOW SHOT”、“COOL DOWN”、“3. DETAIL STUDY”、“VISOR HEADSET & FACE”、“GLOWING STAR HAIRPIN”、“JACKET TRIM & HARDWARE”、“GLOVE & SILVER RINGS”以及“GLOWING MIC & WAVEFORM”。
+
+约束：保持黑色背景，避免干净的白色模型图风格，不要添加额外的角色、Logo、水印或无关道具。严格保持 3 个迷你三视图、3 个剪影、4 个表情肖像、4 个姿势研究绘图和 5 个细节面板。
+
+[English]
+Goal: Create a dark anime cyberpunk character design sheet for {argument name="character name" default="a futuristic female vocalist"}, centered on a striking idol/singer with glowing electric-blue music effects, rendered as high-detail concept art on a black background.
+
+Canvas: Wide horizontal 16:9 character sheet, black paper texture background, thin gray divider lines separating studies, white handwritten annotation labels, high contrast lighting, cyan-blue glow accents.
+
+Main subject: A young anime-style female vocalist with {argument name="hair color" default="black hair with vivid cyan-blue streaks"}, long messy high ponytail, wet/shaggy layered bangs, pale skin, sharp blue eyes, and a cool intense expression. She wears a transparent visor headset over one eye, a glowing blue star hairpin, over-ear tech headphones, black fingerless gloves, a black choker, a white cropped top, an oversized glossy black-and-white streetwear jacket with straps and zipper hardware, loose black cargo pants, belt chains, and chunky sneakers. She holds a futuristic microphone near her mouth, with bright cyan soundwave ribbons and angular waveform shapes spiraling around her body.
+
+Layout: Place one large central full-color hero illustration occupying the middle-left and center, showing the singer from thighs up, facing slightly left, singing into the glowing microphone. Surround her with exactly 3 labeled study sections:
+
+1. Turnaround & Faces: In the upper-left, include exactly 3 mini turnaround full-body poses labeled as front view, back view, and side view. Beneath them include exactly 3 white silhouette studies matching the same front, back, and side profile. Along the bottom-left, include exactly 4 expression portrait panels: neutral serious face, singing with mouth open, downward cool gaze, and close-up singing into the microphone.
+
+2. Pose Study: In the upper-right, include exactly 4 dynamic full-body/action pose drawings: “UNLEASH” with the singer blasting a jagged blue waveform from the microphone, “LEAP” with her airborne and twisting while performing, “LOW SHOT” crouched and pointing the glowing microphone forward, and “COOL DOWN” standing relaxed with hands in pockets and jacket hanging loose.
+
+3. Detail Study: Along the lower-right, include exactly 5 close-up detail panels labeled: “VISOR HEADSET & FACE,” “GLOWING STAR HAIRPIN,” “JACKET TRIM & HARDWARE,” “GLOVE & SILVER RINGS,” and “GLOWING MIC & WAVEFORM.”
+
+Visual style: Gritty semi-realistic anime concept art, painterly brush texture, crisp ink-like highlights, dramatic rim lighting, glossy black fabrics, luminous cyan electric effects, sketchbook production-sheet presentation, hand-drawn white lettering. Use the accent color {argument name="glow color" default="electric cyan blue"} throughout the soundwaves, headset lights, hair streaks, microphone grille, and star hairpin.
+
+Text content: Use handwritten white English labels exactly as visible: “1. TURNAROUND & FACES,” “MINI TURNAROUND,” “SILHOUETTE STUDY,” “EXPRESSION STUDY,” “2. POSE STUDY,” “UNLEASH,” “LEAP,” “LOW SHOT,” “COOL DOWN,” “3. DETAIL STUDY,” “VISOR HEADSET & FACE,” “GLOWING STAR HAIRPIN,” “JACKET TRIM & HARDWARE,” “GLOVE & SILVER RINGS,” and “GLOWING MIC & WAVEFORM.”
+
+Constraints: Keep the background black, avoid a clean white model-sheet look, do not add extra characters, logos, watermarks, or unrelated props. Maintain exactly 3 mini turnaround poses, 3 silhouettes, 4 expression portraits, 4 pose-study drawings, and 5 detail panels.
+```
+
+**来源：** [@Haruta](https://x.com/HarutaGenAI/status/2093542729729077744) | 2026-08-29
+
+---
+
