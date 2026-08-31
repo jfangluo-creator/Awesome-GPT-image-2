@@ -19753,3 +19753,125 @@ Constraints: Keep the background black, avoid a clean white model-sheet look, do
 
 ---
 
+### 🎨 例 7083：水彩动漫和服吸烟者
+
+![水彩动漫和服吸烟者](../images/%E6%B0%B4%E5%BD%A9%E5%8A%A8%E6%BC%AB%E5%92%8C%E6%9C%8D%E5%90%B8%E7%83%9F%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的竖版水彩动漫插画，描绘一位宁静的中性化年轻人，身处传统的日式房间内，坐在日落时分敞开的窗边木地板上。角色拥有 {argument name="hair color" default="柔和的蓝灰色"} 凌乱的齐肩发，留着一根长而松散的侧边辫子，皮肤白皙，五官精致优雅，双眼半闭，侧脸朝向左侧。他们身穿宽松的白色和服，外罩一件深靛蓝色羽织，衣褶飘逸，姿态放松地坐着，单膝抬起，衣物堆叠在周围。他们的右手水平握着一根细长的烟管（kiseru 风格）靠近嘴边，一缕淡淡的烟雾以优美的 S 形向上飘散。在右下角的前景中，包含一个圆形的香炉，其中放置一个绿色的螺旋蚊香，蚊香上有一个微小的橙色火星，升起第二缕半透明的卷曲烟雾。背景主要是留白的暖米白色纸张，右侧边缘有简单的深色木质窗框，窗外隐约可见远处的湖水和橙色的落日。采用轻盈的墨线勾勒，淡蓝灰色的渲染，微妙的米色阴影，可见类似铅笔的素描线条，运用大量的留白，营造出淡淡的忧郁氛围，且不含任何文字或水印。
+
+[English]
+Create a delicate vertical watercolor anime illustration of a serene androgynous young person in a traditional Japanese room, seated on the wooden floor beside an open window at sunset. The character has {argument name="hair color" default="soft blue-gray"} messy shoulder-length hair with a long loose side braid, pale skin, fine elegant features, and half-closed eyes, shown in side profile facing left. They wear a loose white kimono under a dark indigo haori robe with flowing folds, sitting relaxed with one knee raised and fabric pooled around them. Their right hand holds a long, thin kiseru-style smoking pipe horizontally near their mouth, with a faint ribbon of smoke drifting upward in a graceful S curve. In the foreground near the lower right, include exactly one round incense holder containing exactly one green spiral mosquito coil with exactly one tiny orange ember, sending up a second translucent curling smoke ribbon. The background is mostly blank warm off-white paper, with a simple dark wooden window frame on the right edge and a small glimpse of distant water and an orange setting sun outside. Use airy ink linework, pale blue-gray washes, subtle beige shadows, visible pencil-like sketch lines, lots of negative space, soft melancholy atmosphere, and no text or watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2094204439737545168) | 2026-08-30
+
+---
+
+### 🎨 例 7090：舒适睡衣床铺插画
+
+![舒适睡衣床铺插画](../images/%E8%88%92%E9%80%82%E7%9D%A1%E8%A1%A3%E5%BA%8A%E9%93%BA%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="ふわふわベッド"}で{argument name="服装" default="パジャマ"}で、もたれてるかんじ
+```
+
+**来源：** [@アーティ🌙🧚🍪☕](https://x.com/art_tea01/status/2094088705342689714) | 2026-08-30
+
+---
+
+### 🎨 例 7096：迷幻金牛座曼陀罗
+
+![迷幻金牛座曼陀罗](../images/%E8%BF%B7%E5%B9%BB%E9%87%91%E7%89%9B%E5%BA%A7%E6%9B%BC%E9%99%80%E7%BD%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个方形、完美居中的迷幻神圣几何曼陀罗，背景为黑色星空。构图呈放射状对称，具有 8 个主要的尖头莲花瓣臂和万花筒般的晶体结构，像霓虹彩色玻璃一样发光。在正中心，放置一个填充有微小金星的黑色圆形奖章，并绘制一个精致的金色星座轮廓，内容为 {argument name="zodiac animal" default="金牛座公牛"}。在其周围，构建一个由许多半透明三角形和多边形切面组成的锐利几何曼陀罗，切面内部带有明亮的细轮廓和类似箭头的微小标记。使用 {argument name="primary palette" default="电紫、钴蓝、翡翠绿、黄、橙和红"} 的鲜艳彩虹渐变，以镜像带排列，使每个象限精确重复。在几何环周围环绕 8 个巨大的深紫色莲花瓣，其中包含洋红色、橙色、绿色和蓝色的漩涡星系，以及分支状的闪电丝和星尘。向外延伸至深邃的黑色宇宙背景，带有重复的棱角碎片、锯齿状晶体形状和从中心辐射出的彩色彗星状碎片。整体氛围神秘、占星、分形且充满活力，具有清晰的发光边缘、密集的微观细节、闪烁的粒子，高对比度，且无文字、边框、水印或人物。
+
+[English]
+Create a square, perfectly centered psychedelic sacred-geometry mandala on a black starfield background. The composition is radially symmetrical with 8 major pointed lotus-petal arms and a kaleidoscopic crystalline structure, glowing like neon stained glass. In the exact center, place a black circular medallion filled with tiny gold stars and draw a delicate golden constellation outline of {argument name="zodiac animal" default="Taurus bull"}. Around it, build a sharp geometric mandala made of many translucent triangular and polygonal facets, with bright thin outlines and small arrow-like markings inside the facets. Use a vivid rainbow progression of {argument name="primary palette" default="electric violet, cobalt blue, emerald green, yellow, orange, and red"}, arranged in mirrored bands so every quadrant repeats precisely. Surround the geometric ring with 8 large dark purple lotus petals containing swirling galaxy spirals in magenta, orange, green, and blue, plus branching lightning-like filaments and star dust. Extend outward into a deep black cosmic background with repeated angular shards, zigzag crystal shapes, and colorful comet-like splinters radiating from the center. The overall mood is mystical, astrological, fractal, and high-energy, with crisp luminous edges, dense micro-detail, glittering particles, high contrast, and no text, border, watermark, or human figures.
+```
+
+**来源：** [@Michael P. Frank 💻🔜♻️](https://x.com/MikePFrank/status/2094070694610968980) | 2026-08-30
+
+---
+
+### 🎨 例 7102：德式香肠早餐盘
+
+![德式香肠早餐盘](../images/%E5%BE%B7%E5%BC%8F%E9%A6%99%E8%82%A0%E6%97%A9%E9%A4%90%E7%9B%98.jpg)
+
+**Prompt:**
+
+```text
+{argument name="メイン" default="小さいヴルスト"}に少量の{argument name="付け合わせ" default="ザワークラウト"}、{argument name="パン" default="小さなライ麦パン"}
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2094042631005429843) | 2026-08-30
+
+---
+
+### 🎨 例 7106：MPD 机器人逮捕热气球逃犯
+
+![MPD 机器人逮捕热气球逃犯](../images/MPD%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%80%AE%E6%8D%95%E7%83%AD%E6%B0%94%E7%90%83%E9%80%83%E7%8A%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级写实风格的夜景，画面内容为东京警视厅重型机械机器人部队逮捕乘坐热气球逃跑的罪犯。一个约 25 米高的巨大黑白相间人形警用机甲，矗立在潮湿的工业区空地上，背景是漆黑的夜空，其左手正抓着一个热气球的吊篮。热气球位于画面左上方，棕褐色的气囊被画面边缘部分裁切，可见多根悬吊绳、明亮的燃烧器火焰，以及吊篮内清晰可见的 4 名佩戴头盔的嫌疑人/警员。巨型机器人拥有厚重的分段式装甲、外露的液压关节、机械手指，双肩配有红色警用警示灯，胸部、肩部和腿部印有清晰的标识：包含日文警用文字及“MPD”；主要标识请使用 {argument name="police marking" default="警视厅 MPD"}。其右手自然下垂于大腿旁，左臂水平伸出以固定吊篮。机器人的头部是一个矩形的传感器/摄像头炮塔，由多个圆形镜头组成，而非人脸。在前景中，展示一名背对镜头的警员，身穿白色头盔和印有“MPD”字样的深色背心，正在观察行动。在机器人脚下，潮湿的地面上分布着 9 名佩戴头盔或安全装备的人员，中景/右侧背景处有 3 辆闪烁着红蓝警灯的警车，左侧有一台起重机或高空作业车正向上照射强力探照灯。在机器人身后添加多道高耸的探照灯光束、雨后沥青路面的反光、应急锥筒、远处的城市/机场灯光以及雾气和戏剧性的朦胧感。视觉风格：超精细、写实、高对比度电影新闻照片、低角度透视、4:5 竖构图、锐利的机械细节、逼真的比例、戏剧性光影，拒绝动漫风格，拒绝插画感。场景可自定义，包括 {argument name="location" default="东京工业滨水区"}，机器人部队名称 {argument name="unit name" default="重型机械对策机器人部队"}，逃跑载具 {argument name="escape vehicle" default="热气球"}，以及时间/天气氛围 {argument name="atmosphere" default="伴有探照灯和应急灯的雨夜"}。
+
+[English]
+Create a cinematic photorealistic night scene of the Tokyo Metropolitan Police Department heavy machinery robot unit arresting criminals escaping in a hot air balloon. A colossal white-and-black humanoid police mecha, about 25 meters tall, stands in a wet industrial lot under a black sky, holding the wicker basket of a hot air balloon in its left hand. The hot air balloon occupies the upper left of the frame with a tan fabric envelope partly cropped by the image edge, many suspension ropes, a bright burner flame, and exactly 4 helmeted suspects/officers visible inside the basket. The giant robot has bulky segmented armor, exposed hydraulic joints, mechanical fingers, red police warning lights on both shoulders, and readable markings on its chest, shoulders, and leg: Japanese police text plus “MPD”; use {argument name="police marking" default="警視庁 MPD"} as the main markings. Its right hand hangs open near its thigh, while its left arm extends horizontally to secure the basket. The robot’s head is a rectangular sensor/camera turret with multiple circular lenses instead of a face. In the foreground, show one police officer seen from behind wearing a white helmet and dark vest labeled “MPD,” watching the operation. Around the robot’s feet, include exactly 9 smaller human figures in helmets or safety gear spread across the wet pavement, exactly 3 police vehicles with flashing red and blue lights in the midground/right background, and exactly 1 crane or aerial work truck on the left shining a strong spotlight upward. Add multiple tall searchlight beams behind the robot, reflections on rain-slick asphalt, emergency cones, distant city/airport lights, mist and dramatic haze. Visual style: ultra-detailed, realistic, high-contrast cinematic news photo, low-angle perspective, 4:5 vertical composition, sharp mechanical detail, believable scale, dramatic lighting, no anime styling, no illustration look. Customize the scene as {argument name="location" default="Tokyo industrial waterfront"}, the robot unit name as {argument name="unit name" default="Heavy Machinery Countermeasure Robot Unit"}, the escaping vehicle as {argument name="escape vehicle" default="hot air balloon"}, and the time/weather mood as {argument name="atmosphere" default="rainy night with searchlights and emergency lights"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2094035068423696703) | 2026-08-30
+
+---
+
+### 🎨 例 7135：暗黑超现实主义“影之王座”提示词
+
+![暗黑超现实主义“影之王座”提示词](../images/%E6%9A%97%E9%BB%91%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E2%80%9C%E5%BD%B1%E4%B9%8B%E7%8E%8B%E5%BA%A7%E2%80%9D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用场景：风格化概念
+资产类型：“你的暗黑面”主题的垂直社交媒体艺术作品
+
+创作一个完全原创的电影级暗黑超现实主义场景，置于一个由 {argument name="material" default="光亮黑曜石"} 雕刻而成的无尽王座大厅内。一个穿着长款骨白色礼服的孤独人形背影站在高不可攀的空王座脚下，一动不动。他们的影子违背光照方向，爬上王座台阶，并以一个高贵的无角人形剪影坐在王座上，头戴由细长黑色手指组成的王冠。实体人物在其他任何地方都没有投下正常的影子。
+
+垂直 {argument name="aspect ratio" default="9:16"} 构图，宏伟的对称性，极低的摄像机视角，大教堂规模的建筑，强烈的中心消失点，充裕的黑暗，清晰易辨的剪影。一束狭窄的冷银色光束投射在白色人物身上，而王座下方透出克制的深红色微光。湿润的抛光石材、漂浮的尘埃、淡淡的薄雾、微妙的反射，高级写实概念艺术，侧重心理层面的不安而非血腥，极其精致的电影级光影。
+
+调色板：黑曜石黑、骨白色、冷银色、极简深红色。
+
+约束条件：完全原创的角色和环境；无任何可辨认的人物；无文字、排版、Logo、签名、边框或水印。
+
+避免：特写肖像、分裂脸、受损皮肤、脸上的黑色液体、发光的红眼、血腥、带有传统角或翅膀的恶魔、奇幻盔甲、拥挤的场景、模仿任何知名艺术家。
+
+[English]
+Use case: stylized-concept
+Asset type: vertical social-media artwork for the “Your Dark Side” theme
+
+Create a completely original cinematic dark-surrealist scene inside an endless throne hall carved from {argument name="material" default="glossy obsidian"}. A solitary human figure in a long bone-white ceremonial coat stands at the foot of an impossibly tall empty throne. The person is small, seen from behind, perfectly still. Their shadow climbs the throne steps against the direction of the light and sits upon the throne as a regal hornless humanoid silhouette, wearing a crown made from long black fingers. The physical figure casts no normal shadow anywhere else.
+
+Vertical {argument name="aspect ratio" default="9:16"} composition, monumental symmetry, very low camera angle, cathedral-scale architecture, strong central vanishing point, generous darkness, clean readable silhouettes. A narrow cold silver beam falls on the white figure while a restrained deep-crimson glow leaks from beneath the throne. Wet polished stone, drifting dust, faint mist, subtle reflections, premium photorealistic concept art, psychologically disturbing rather than graphic, extremely refined cinematic lighting.
+
+Color palette: obsidian black, bone white, cold silver, minimal deep crimson.
+
+Constraints: entirely original character and environment; no recognizable person; no text, typography, logos, signatures, borders, or watermark.
+
+Avoid: close-up portrait, split face, damaged skin, black liquid on a face, glowing red eye, gore, demons with conventional horns or wings, fantasy armor, crowded scene, imitation of any named artist.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2093851216770118038) | 2026-08-30
+
+---
+

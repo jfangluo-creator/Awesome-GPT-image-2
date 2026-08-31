@@ -18953,3 +18953,165 @@ A high-contrast two-tone poster of {argument name="character" default="[tag your
 
 ---
 
+### 🏷️ 例 7082：动漫风格弗利萨角色艺术提示词
+
+![动漫风格弗利萨角色艺术提示词](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%BC%97%E5%88%A9%E8%90%A8%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+动漫风格数字插画，主角为 {argument name="character" default="炫酷的人形外星战士"}，拥有光滑的苍白银白色皮肤，头部、肩膀、前臂和上躯干覆盖着有光泽的紫色生物装甲。角色有着锐利的窄眼、自信而邪恶的冷笑、棱角分明的面部特征以及精瘦而强壮的体格。画面呈现腰部以上的动态四分之三正面姿势，一只手臂向观众伸出，手指张开，仿佛正在投射能量。一道 {argument name="energy color" default="明亮的洋红色-紫色"} 能量刃或光束从手中斜向射出，周围环绕着发光的紫色光环、电火花和耀眼的高光。戏剧性的赛璐珞阴影、清晰的墨线、明亮的反光、高对比度光影、强烈的紫色光芒，背景为 {argument name="background" default="充满活力的绿色天空"}，点缀着零散的云朵，充满激烈的战斗氛围，精致的现代动漫关键视觉图，高度细节，焦点清晰
+
+[English]
+Anime-style digital illustration of a {argument name="character" default="sleek humanoid alien warrior"} with smooth pale silver-white skin and glossy violet bio-armor plates covering the crown of the head, shoulders, forearms, and upper torso. The character has sharp narrow eyes, a confident sinister smirk, pointed facial features, and a lean but muscular physique. Shown from the waist up in a dynamic three-quarter frontal pose, one arm extended toward the viewer with fingers spread as if projecting energy. A {argument name="energy color" default="brilliant magenta-purple"} energy blade or beam shoots diagonally from the hand, surrounded by glowing violet aura, electric sparks, and radiant highlights. Dramatic cel shading, crisp ink lines, luminous reflections, high-contrast lighting, intense purple glow, {argument name="background" default="vibrant green sky"} with scattered clouds in the background, energetic battle atmosphere, polished modern anime key art, highly detailed, sharp focus
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2094208265609748608) | 2026-08-30
+
+---
+
+### 🏷️ 例 7092：火星殖民地危机项目
+
+![火星殖民地危机项目](../images/%E7%81%AB%E6%98%9F%E6%AE%96%E6%B0%91%E5%9C%B0%E5%8D%B1%E6%9C%BA%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影级科幻项目联系表，展示火星殖民地在红色沙尘暴中陷入紧急状态的紧张氛围，采用高预算电影剧照风格及变形宽银幕构图。
+
+画布：一张 16:9 的横向图像，分为 8 个矩形宽银幕面板，以 2 列 4 行的整齐网格排列。面板间使用细白线分隔，不含标题、Logo，除微小的附属标识外，不出现任何文字。
+
+场景与氛围：{argument name="setting" default="火星上一座被穹顶覆盖的人类殖民地，正处于猛烈的红色沙尘暴中"}。整张表应呈现出阴暗、戏剧化且具有电影感的氛围，包含浓重的红橙色调、应急照明、体积感沙尘、玻璃反射以及写实的制作设计。
+
+面板数量与布局：包含 8 个不同的画面：
+1. 左上：广角外景，展示荒凉火星地表上由透明穹顶保护的未来城市或研究基地，远处的塔楼在巨大的红色风暴云中隐约闪烁。
+2. 右上：一只人类大手按在或出现在布满灰尘的半透明表面后的特写剪影，画面近乎抽象，周围环绕着旋转的红色沙尘。
+3. 第二行左：沿圆柱形金属隧道或气闸走廊的对称视角，带有圆形肋条、红色应急灯，远处有身着宇航服的小型人影。
+4. 第二行右：{argument name="main character" default="一名惊恐的宇航员"}头盔面罩内的特写，面部被红色警报灯和明亮的头灯光晕照亮，背景中有模糊的身影在奔跑。
+5. 第三行左：室内生物穹顶或温室走廊，树木和茂密的植被笼罩在橙色的应急雾霾中，前景有栏杆，右侧边缘有一扇门。
+6. 第三行右：两名身着厚重宇航服的宇航员在黑暗的工业走廊中向前方人群奔跑，红色警报灯和动态模糊强调了紧迫感。
+7. 左下：从弯曲的玻璃或透明穹顶天花板下方的低角度仰拍，配有红色警报灯，飞溅的碎片、划痕、裂纹以及风暴颗粒不断撞击表面。
+8. 右下：从上方或透过玻璃拍摄的一只人类大手平按在布满灰尘的透明面板上的特写，伴有微弱的裂纹、冷凝水以及周围闪烁的红色反射光。
+
+视觉风格：写实电影剧照、硬核科幻、逼真的宇航员与建筑、特写镜头中的浅景深、强对比度、烟雾缭绕的氛围、变形镜头光晕、细腻的胶片颗粒、深邃的黑色，以及饱和的铁锈红调，点缀着白色的头灯高光。
+
+约束条件：保持 8 面板网格，不使用漫画气泡，不添加说明标签，不增加额外帧，拒绝卡通风格。确保每个面板都像是关于 {argument name="story event" default="威胁火星殖民地的泄露或危机"} 的同一部悬疑电影序列中的不同镜头。
+
+[English]
+Goal: Create a cinematic sci-fi storyboard contact sheet showing a tense emergency inside a Mars colony during a red dust storm, in the style of high-budget film stills with anamorphic widescreen framing.
+
+Canvas: A single 16:9 horizontal image divided into exactly 8 rectangular widescreen panels arranged in a clean 2-column by 4-row grid. Use thin white dividers between panels and no captions, no logos, no visible text except tiny incidental signage.
+
+Setting and mood: {argument name="setting" default="a domed human colony on Mars during a violent red dust storm"}. The entire sheet should feel dark, dramatic, and cinematic, with heavy red-orange atmosphere, emergency lighting, volumetric dust, glass reflections, and realistic production design.
+
+Panel count and layout: Include exactly 8 distinct frames:
+1. Top-left: Wide exterior establishing shot of a futuristic city or research base protected by a transparent dome on a barren Martian landscape, distant towers glowing through a massive red storm cloud.
+2. Top-right: Close-up silhouette of a large human hand pressing against or emerging behind a dusty translucent surface, almost abstract, surrounded by swirling red dust.
+3. Second row left: Symmetrical view down a cylindrical metal tunnel or airlock corridor with circular ribs, red emergency lights, and small suited figures far in the distance.
+4. Second row right: Close-up of {argument name="main character" default="a frightened astronaut"} inside a helmet visor, face lit by red alarms and a bright headlamp flare, with a blurred figure running in the background.
+5. Third row left: Interior biodome or greenhouse walkway with trees and dense vegetation under orange emergency haze, railings in the foreground, a doorway at the right edge.
+6. Third row right: Two astronauts in bulky suits running down a dark industrial corridor toward a group ahead, red alarm lights and motion blur emphasizing urgency.
+7. Bottom-left: Low-angle view under a curved glass or transparent dome ceiling with red warning lights, flying debris, scratches, cracks, and storm particles battering the surface.
+8. Bottom-right: Close-up from above or through glass of a dark human hand pressed flat against a dusty transparent panel, with faint cracks, condensation, and glowing red reflections around it.
+
+Visual style: Photorealistic cinematic stills, gritty hard sci-fi, realistic astronauts and architecture, shallow depth of field in close-ups, strong contrast, smoky atmosphere, anamorphic lens flares, subtle film grain, deep blacks, saturated rust-red palette with occasional white headlamp highlights.
+
+Constraints: Maintain exact 8-panel grid, no comic speech bubbles, no explanatory labels, no extra frames, no cartoon style. Make every panel feel like a different shot from the same suspenseful film sequence about {argument name="story event" default="a breach or crisis threatening the Mars colony"}.
+```
+
+**来源：** [@Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne/status/2094087476830752970) | 2026-08-30
+
+---
+
+### 🏷️ 例 7099：蓝色牛仔自行车素描
+
+![蓝色牛仔自行车素描](../images/%E8%93%9D%E8%89%B2%E7%89%9B%E4%BB%94%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精细的铅笔素描插画，并带有局部蓝色点缀，描绘 {argument name="character name" default="一位英俊的年轻人"} 骑着复古自行车欢快前行的场景。以正面四分之三视角展示其腰部以上部位，双手紧握弯曲的镀铬车把，笑容灿烂，露出牙齿，眼神明亮且富有表现力，视线略微偏向观众左侧。他留着凌乱的短黑发，在风中自然飘动，并留着修剪整齐的胡须。让他穿着一件长袖扣领 {argument name="shirt color and fabric" default="亮蓝色牛仔"} 衬衫，袖口卷起，带有明显的缝线、两个胸前翻盖口袋、敞开的领口以及逼真的布料褶皱；除蓝色衬衫外，其余部分保持单色石墨素描风格。画面中需包含一辆复古自行车，配有弯曲车把、刹车杆、前大灯、中心立管、部分前挡泥板和可见的手柄，并以精准的机械线条呈现。在背景地平线上放置一个柔和、精细勾勒的 {argument name="city skyline" default="带有世界贸易中心一号大楼的纽约城市天际线"}，身后有多个纤细的高层建筑和宁静的水岸。使用干净的白纸背景，采用逼真的手绘石墨阴影、交叉排线、细腻的轮廓线、高面部细节、清晰的发丝、自然的比例，营造出一种轻盈的时尚编辑素描感。无文字、无水印、无边框、无照片级彩色背景；强调欢快的动感、被风吹乱的头发，以及鲜艳的牛仔蓝与灰度铅笔素描之间的对比。
+
+[English]
+Create a detailed pencil sketch illustration with selective blue color accent of {argument name="character name" default="a handsome young man"} joyfully riding a vintage bicycle. Show him from the waist up in a front-facing three-quarter view, hands firmly gripping the curved chrome handlebars, smiling broadly with visible teeth and bright expressive eyes, looking slightly off to the viewer’s left. He has tousled short dark hair blowing naturally in the wind and a neatly trimmed beard. Dress him in a long-sleeve button-down {argument name="shirt color and fabric" default="bright blue denim"} shirt with rolled cuffs, visible stitching, two chest flap pockets, open collar, and realistic fabric folds; keep the rest of the drawing mostly monochrome graphite except for the blue shirt. Include exactly one vintage bicycle with a curved handlebar, brake levers, front headlamp, central stem, partial front fender, and visible hand grips, rendered with precise mechanical linework. Place a soft, finely sketched {argument name="city skyline" default="New York City skyline with One World Trade Center"} in the background across the horizon, with multiple thin high-rise buildings and a calm waterfront behind him. Use a clean white paper background, realistic hand-drawn graphite shading, crosshatching, delicate contour lines, high facial detail, crisp hair strands, natural proportions, and an airy editorial fashion-sketch feel. No text, no watermark, no border, no photorealistic color background; emphasize the joyful motion, windblown hair, and the contrast between the vivid denim blue and grayscale pencil drawing.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2094064095481967090) | 2026-08-30
+
+---
+
+### 🏷️ 例 7103：动漫少女烹饪培根煎蛋
+
+![动漫少女烹饪培根煎蛋](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E7%83%B9%E9%A5%AA%E5%9F%B9%E6%A0%B9%E7%85%8E%E8%9B%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直构图、写实动漫风格的厨房场景，展示 {argument name="character name" default="一位年轻日本女性"} 正在制作早餐。她侧身站在炉灶前，神情专注且平静地注视着正在煎制的食物。平底锅中清晰可见 4 个食物元素：2 个蛋黄明亮的太阳蛋，以及 2 簇切碎的培根。她留着 {argument name="hair color" default="黑色"} 的头发，带有长刘海和两条粗麻花辫，戴着精致的圆形细框眼镜，皮肤白皙，表情柔和自然。她的着装由 2 件主单品组成：一件胸前带有淡雅字母印花的浅蓝色宽松 T 恤，以及一条高腰浅色毛边牛仔短裤。她一手握着锅柄，另一手使用金属夹。场景设定在温馨的家庭厨房，沐浴在柔和的晨光中；炉灶下有蓝色燃气火焰，前景可见黑色炉灶旋钮，左侧有搁板和罐子，台面附近摆放着一盆小绿植，背景是明亮的窗户，窗外绿意朦胧。采用浅景深、写实光影、柔和阳光、轻微的蒸汽与烹饪烟雾、细腻的皮肤与织物纹理、电影级构图、2:3 垂直比例、高分辨率精美插画，无文字覆盖，无水印。
+
+[English]
+Create a vertical, photorealistic anime-style kitchen scene showing {argument name="character name" default="a young Japanese woman"} cooking breakfast. She stands in profile at a stovetop, looking down calmly and concentrating while frying exactly 4 visible food elements in a black frying pan: 2 sunny-side-up eggs with bright yellow yolks and 2 clusters of chopped bacon pieces. She has {argument name="hair color" default="black"} hair with long bangs and two thick braided pigtails, delicate round wire-frame glasses, fair skin, and a soft natural expression. Her outfit is exactly 2 main pieces: an oversized pale blue T-shirt with subtle faint lettering on the chest, and high-waisted light denim cutoff shorts with frayed hems. She holds the pan handle with one hand and uses metal tongs with the other. The setting is a cozy home kitchen in gentle morning light, with a blue gas flame under the pan, black stove knobs in the foreground, shelves and jars on the left, a small green potted plant near the counter, and a bright window with blurred greenery in the background. Use shallow depth of field, realistic lighting, soft sunbeams, slight steam and cooking haze, detailed skin and fabric texture, cinematic composition, vertical 2:3 aspect ratio, high-resolution polished illustration, no text overlay, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2094042143065329825) | 2026-08-30
+
+---
+
+### 🏷️ 例 7107：龙虎对峙
+
+![龙虎对峙](../images/%E9%BE%99%E8%99%8E%E5%AF%B9%E5%B3%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个史诗般的电影级奇幻场景，视觉概念为：{argument name="scene concept" default="一条龙和一只老虎互相怒视"}。画面左侧是一条巨大的东方龙，盘旋在雾气缭绕的山谷中，其蛇形躯体覆盖着深色枪灰色鳞片，长有青铜金色角和脊刺，飘逸的黑灰色鬃毛和胡须，锋利的獠牙，巨大的利爪向前伸展。右侧前景中，一只巨大的孟加拉虎背对画面并略微侧身，蹲伏在崎岖的黑色岩石峭壁上，橙色皮毛带有醒目的黑色条纹，脸颊毛色雪白，张开大口咆哮，直视着前方的龙。构图应强调两只生物之间的紧张对峙：左侧 1 条龙，右侧 1 只虎。场景设定在戏剧性的高山峡谷中，充满低垂的翻滚云雾、黑暗的嶙峋峭壁、远处的山峰，以及乌云密布、破云而出的光线。采用超精细的写实奇幻风格，高对比度，体积雾，电影级光影，鳞片、皮毛、利爪、岩石和云层的纹理清晰，宏大的尺度感，不祥的氛围，动态视角，4:5 竖构图。调色板：炭灰色、烟银色、柔和的青铜色、深橙色、黑色和冷色调的云层高光。无文字，无水印，无额外动物，无人类。
+
+[English]
+Create an epic cinematic fantasy scene titled visually by its concept: {argument name="scene concept" default="a dragon and a tiger glaring at each other"}. A colossal Eastern dragon dominates the left side of the frame, coiling through a misty mountain valley, its serpentine body covered in dark gunmetal scales, bronze-gold horns and spines, long flowing black-gray mane, whiskers, sharp fangs, and huge clawed talons extended forward. On the right foreground, a massive Bengal tiger is seen from behind and slightly side-on, crouched on a jagged black rock ledge, orange fur with bold black stripes, white cheek fur, mouth open in a roar as it stares directly at the dragon. The composition should emphasize a tense face-off between exactly two creatures: 1 dragon on the left and 1 tiger on the right. Set the scene in a dramatic high mountain gorge filled with low rolling fog, dark craggy cliffs, distant peaks, and a stormy overcast sky with broken light shining through heavy clouds. Use hyper-detailed photorealistic fantasy realism, high contrast, volumetric mist, cinematic lighting, sharp textures on scales, fur, claws, rocks, and clouds, grand sense of scale, ominous atmosphere, dynamic perspective, vertical 4:5 composition. Color palette: charcoal gray, smoky silver, muted bronze, deep orange, black, and cold cloudy highlights. No text, no watermark, no extra animals, no humans.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2094034843051151791) | 2026-08-30
+
+---
+
+### 🏷️ 例 7110：Two A.M. Coastline 专辑封面
+
+![Two A.M. Coastline 专辑封面](../images/Two%20A.M.%20Coastline%20%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感十足的竖版专辑封面海报，主题为深夜沿海驾驶，标题为 {argument name="headline text" default="Two A.M."}。场景设定在夜晚月光照耀下的加州海岸线，视角位于俯瞰海洋的蜿蜒悬崖公路上。前景中，放置一辆光泽感十足的深蓝黑色复古美式肌肉车，采用后侧方视角，停在或缓慢行驶在潮湿且具有反光的沥青路面上，红色尾灯闪烁，镀铬细节映衬着蓝色月光；车牌显示为“TWO A.M.”。道路沿海岸蜿蜒而下，带有双黄线、护栏、微弱的琥珀色路灯以及近期雨水留下的倒影。在右侧，添加 3 个堆叠的路标：一个加州 1 号公路标志牌、一个长方形的“PACIFIC COAST HIGHWAY”路牌，以及一个小型的“2:00 AM”路牌。中景展示了沿岸散落着城市灯光的滨海小镇、深色的山脉剪影，以及左侧高大的棕榈树。海洋占据了右侧，翻滚的波浪映照着银色的月光，背景是深海军蓝色的星空，点缀着稀疏的云朵和一轮巨大的满月。在天空上方添加醒目的排版设计：暖米色的手写笔刷体标题“Two A.M.”，下方有一条细长的蓝色水平线，接着是间距宽阔的霓虹蓝大写文字 {argument name="subtitle text" default="COASTLINE"}，最下方是一行小字标语 {argument name="tagline text" default="LATE-NIGHT DRIVE. ENDLESS HORIZONS."}。采用忧郁的合成器浪潮（synthwave-noir）写实风格，高对比度，深蓝色调，月光高光，细腻的胶片颗粒感，清晰的细节，戏剧性的氛围，画面中无人，且不含任何额外的标志或水印。
+
+[English]
+Create a cinematic vertical album-cover poster for a late-night coastal drive titled {argument name="headline text" default="Two A.M."}. The scene is a moonlit California coastline at night, viewed from a winding cliffside highway above the ocean. In the foreground, place a glossy dark blue-black vintage American muscle car, rear three-quarter view, parked or slowly rolling on wet reflective asphalt with red taillights glowing and chrome details catching blue moonlight; its license plate reads “TWO A.M.”. The road curves down along the coast with double yellow lines, guardrails, small amber streetlights, and reflections from recent rain. To the right, add exactly 3 stacked roadside signs: a California Route 1 shield, a rectangular “PACIFIC COAST HIGHWAY” sign, and a small “2:00 AM” sign. The midground shows a coastal town with scattered city lights along the shore, dark mountain silhouettes, and tall palm trees on the left. The ocean fills the right side with rolling waves and bright silver moon reflections, under a deep navy starry sky with scattered clouds and a large full moon. Add large typography across the upper sky: handwritten brush-script headline “Two A.M.” in warm off-white, a thin blue horizontal line beneath it, then spaced neon-blue uppercase text {argument name="subtitle text" default="COASTLINE"}, and a small tagline below reading {argument name="tagline text" default="LATE-NIGHT DRIVE. ENDLESS HORIZONS."}. Use moody synthwave-noir realism, high contrast, deep blues, moonlit highlights, subtle film grain, crisp detail, dramatic atmosphere, no people, no extra logos or watermarks.
+```
+
+**来源：** [@エル💙way](https://x.com/ellewayAI/status/2094028860686028946) | 2026-08-30
+
+---
+
+### 🏷️ 例 7120：编辑风旅行日志分屏布局
+
+![编辑风旅行日志分屏布局](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E5%88%86%E5%B1%8F%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受所提供参考照片启发的连贯编辑风旅行日志图像：将 {argument name="subject" default="真实的咖啡馆瞬间"} 与同一场景的极简手绘插图配对，并以 {argument name="layout" default="精致的分屏布局"} 排列。左侧展示一张温暖的纪实风格照片，画面为咖啡师的手握着一杯透明的冰咖啡，旁边是一台专业咖啡机，可见冰块、浓郁的琥珀棕色咖啡、逼真的倒影、不锈钢设备以及细腻的咖啡馆细节；右侧以 {argument name="sketch style" default="纹理暖象牙色纸张上的写意复古水墨速写"} 风格重现相同的构图，保留玻璃杯、手、咖啡机、透视关系及关键细节，同时使用不完美的黑色线条，并点缀克制的土赭色和柔和的蓝色。采用地道的独立咖啡馆旅行杂志美学，保留自然瑕疵、柔和颗粒感、略微褪色的胶片摄影感、触感纸张纹理、编辑风排版、充足的留白、小巧低调的地点/日期/说明文字、平衡的非对称构图、怀旧的 2020 年代旅行日记氛围、高级艺术指导，实现写实摄影与手工插画的无缝对比，采用柔和的土色调、柔和的自然光、细腻的胶片颗粒、高细节度、4:5 竖构图，无 Logo，无水印。
+
+[English]
+Create a cohesive editorial travel-journal image inspired by the provided reference photos: a {argument name="subject" default="real-world coffee shop moment"} paired with a {argument name="style" default="minimalist hand-drawn illustration"} of the exact same scene, arranged as a sophisticated split-page layout. On the left, show a warm documentary-style photograph of a barista’s hand holding a clear glass of iced coffee beside a professional coffee machine, with visible ice cubes, rich amber-brown coffee, realistic reflections, stainless-steel equipment, and subtle café details; on the right, recreate the same composition as a loose vintage ink-and-watercolor sketch on {argument name="paper" default="textured warm ivory paper"}, preserving the glass, hand, coffee machine, perspective, and key details while using imperfect black linework with restrained earthy ochre and muted blue accents. Use an authentic independent café travel-zine aesthetic, natural imperfections, soft grain, slightly faded analog photography, tactile paper texture, editorial typography, generous negative space, small understated location/date/caption text, balanced asymmetrical composition, nostalgic 2020s travel diary mood, premium art-direction, realistic photography seamlessly contrasted with handmade illustration, muted earthy color palette, soft natural lighting, subtle film grain, high detail, vertical 4:5 composition, no logos, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2093931420079321245) | 2026-08-30
+
+---
+

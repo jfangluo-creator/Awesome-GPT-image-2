@@ -4441,3 +4441,91 @@ Create a vertical photorealistic portrait of a young East Asian woman in a moder
 
 ---
 
+### 🏛️ 例 7086：暗黑森林中的生物发光巨型蘑菇
+
+![暗黑森林中的生物发光巨型蘑菇](../images/%E6%9A%97%E9%BB%91%E6%A3%AE%E6%9E%97%E4%B8%AD%E7%9A%84%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E5%B7%A8%E5%9E%8B%E8%98%91%E8%8F%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的图片，展示了暗黑森林夜晚中的 {argument name="subject" default="一间房屋大小的巨型蘑菇"}，其菌盖呈深蓝色，带有生物发光的菌褶，菌柄上悬挂着微小的灯笼，萤火虫在周围盘旋，底部有一扇小门，通向一条小径。黑暗中的蓝色光芒，85mm 镜头，森林发光超现实主义，超写实，{argument name="aspect ratio" default="2:3"} 宽高比。
+
+[English]
+Photorealistic image of a {argument name="subject" default="giant mushroom the size of a house"} in a dark forest at night, its cap deep blue with bioluminescent glowing gills, tiny lanterns hanging from its stem, fireflies swirling around, a small door in the base with a tiny path leading to it. Blue glow in the darkness, 85mm, forest-glow surrealism, hyperrealistic, {argument name="aspect ratio" default="2:3"} aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094144805500596596) | 2026-08-30
+
+---
+
+### 🏛️ 例 7089：灰调之日场景
+
+![灰调之日场景](../images/%E7%81%B0%E8%B0%83%E4%B9%8B%E6%97%A5%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="color" default="灰色的"} 日子
+漫步在 {argument name="color" default="灰色的"} 人行道上
+经过 {argument name="color" default="灰色的"} 房屋
+一窝 {argument name="color" default="灰色的"} 小猫
+以及一位有着 {argument name="color" default="灰色"} 头发的男子
+
+[English]
+a {argument name="color" default="gray"} day
+strolling down {argument name="color" default="gray"} sidewalks
+past {argument name="color" default="gray"} houses
+a litter of {argument name="color" default="gray"} kittens
+and a man with {argument name="color" default="gray"} hair
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2094106468404662757) | 2026-08-30
+
+---
+
+### 🏛️ 例 7118：厚涂法建筑艺术画
+
+![厚涂法建筑艺术画](../images/%E5%8E%9A%E6%B6%82%E6%B3%95%E5%BB%BA%E7%AD%91%E8%89%BA%E6%9C%AF%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的建筑艺术画，主体为 {argument name="landmark" default="[结构 / 地标]"}，呈现为在纹理档案纸上创作的极具触感的三维立体厚涂油画。
+
+将 [结构 / 地标] 作为绝对的视觉中心，采用略微仰视的正面视角，使其建筑外观显得宏伟、壮观、优雅且具有雕塑感。在保留建筑标志性特征、比例、轮廓、窗户、立柱、拱门、屋顶线条、装饰、材质及独特细节的同时，将整个场景重新诠释为手工绘制的当代油画。
+
+使用极厚的调色刀厚涂技法，呈现可见的凸起笔触、分层颜料、破碎边缘、刮擦纹理、脊状突起以及富有表现力的重叠痕迹。建筑应看起来几乎完全由颜料雕塑而成，色调采用浓郁的奶油色、暖石色、柔灰色、柔和蓝、灰绿色、淡炭色以及精致的古金色点缀。
+
+在建筑后方，创作一片由厚重纹理笔触构成的简约大气天空，色调为柔和的粉蓝色、象牙白、淡灰色和暖白色。背景应保持低调、优雅且具有绘画感，以确保建筑形态占据主导地位。
+
+在底部添加微妙的环境细节——几辆自行车、优雅的复古路灯、植物、台阶、人行道、远处微小的人物或其他特定地点的细小元素——但保持其从属地位，呈微缩且写意的状态。
+
+艺术作品应如同放置在暖白色手工纸背景上的实体画板。为画板赋予不规则的、自然撕裂且粗糙的边缘，并带有微妙的立体阴影，暗示这是一件厚重的原作被物理放置在纹理档案纸上。
+
+在艺术作品底部，以优美精致的斜体排版加入地标名称：
+
+“[结构 / 地标]”
+
+使用精致的高对比度编辑衬线字体，优雅流畅的斜体，带有复古欧洲书籍封面的风格，采用微妙的古金色或柔和的炭色墨水，完美居中并与艺术作品融为一体。排版应感觉像是印刷或绘制在纹理表面上，而非数字叠加。字体应保持精致、有品位且清晰易读，且不应喧宾夺主。
+
+如果合适，在下方添加一行较小的、低调的斜体副标题：
+
+“{argument name="location" default="[城市，国家]"}”
+
+采用宽裕的间距、精致的排版以及博物馆级的艺术印刷构图。
+
+光线应柔和自然，强调厚涂纹理并产生颜料层之间的细微阴影。呈现优雅的欧洲艺术画册美学、博物馆级建筑绘画、精致的复古旅行艺术感、触感手工表面、克制的奢华色调、绘画写实主义、高度细节化、氛围感强、永恒经典，避免照片写实感。
+
+竖构图，居中建筑，留白充裕。
+
+[English]
+Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK], presented as a highly tactile, three-dimensional impasto oil painting on textured archival paper. Make [STRUCTURE / LANDMARK] the unmistakable central focal point, shown from a slightly low, frontal perspective so its architecture feels grand, monumental, elegant, and sculptural. Preserve the recognizable architectural features, proportions, silhouette, windows, columns, arches, roofline, ornamentation, materials, and distinctive details of the structure, but reinterpret the entire scene as a handcrafted contemporary oil painting. Use extremely thick palette-knife impasto with visible raised strokes, layered paint, broken edges, scraped textures, ridges, and expressive overlapping marks. The architecture should appear almost sculpted entirely from paint, with heavy cream, warm stone, soft gray, muted blue, dusty green, subtle charcoal, and delicate antique-gold accents. Behind the structure, create a simplified atmospheric sky made entirely from thick textured brushstrokes in soft powder blue, ivory, pale gray, and warm white. Keep the background understated, elegant, and painterly so the architectural form remains dominant. Add subtle environmental details at the bottom — a few bicycles, elegant vintage street lamps, plants, steps, pavement, tiny distant figures, or other small location-specific details — but keep them secondary, miniature, and painterly. The artwork should sit like a physical painted panel mounted on a warm off-white handmade paper background. Give the painted panel an irregular, naturally torn and rough painted edge, with subtle dimensional shadows around it, suggesting that a thick original artwork has been physically placed onto textured archival paper. At the bottom of the artwork, incorporate the name of the landmark in beautiful refined italic typography: “[STRUCTURE / LANDMARK]” Use sophisticated high-contrast editorial serif lettering, elegant flowing italics, slightly vintage European book-cover styling, subtle antique-gold or muted charcoal ink, perfectly centered and carefully integrated into the artwork. The typography should feel printed/painted onto the textured surface rather than digitally overlaid. Keep the lettering delicate, tasteful, and legible without competing with the architecture. If appropriate, add a smaller understated italic subtitle beneath it: “[CITY, COUNTRY]” Use generous spacing, refined typography, and a museum-quality art-print composition. Lighting should be soft and natural, emphasizing the raised impasto texture and creating tiny shadows between layers of paint. Elegant European art-book aesthetic, museum-quality architectural painting, sophisticated vintage travel-art feeling, tactile handmade surface, restrained luxury color palette, painterly realism, highly detailed, atmospheric, timeless, no photorealistic appearance. Vertical composition, centered architecture, generous off-white negative space around the artwork, premium editorial art print, collectible gallery poster, 8k detail. --ar 4:5 --style raw
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2093948869000495565) | 2026-08-30
+
+---
+

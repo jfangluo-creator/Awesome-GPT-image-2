@@ -30121,3 +30121,316 @@ Anime-inspired street fashion poster featuring a {argument name="character descr
 
 ---
 
+### 🎴 例 7081：哥特式书法小丑海报
+
+![哥特式书法小丑海报](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E4%B9%A6%E6%B3%95%E5%B0%8F%E4%B8%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅排版奇幻海报，以超大号装饰性伪日式书法为特色，中间穿插一个哥特风格的玩偶小丑女孩，从中心字符间探出头来。
+
+画布：16:9 横向构图，柔和的暖米色背景，无边框，居中文字几乎横跨整个宽度，留有宽裕的边距。
+
+布局：从左至右排列 5 组主要的黑色书法字群：最左侧是一个非常大且复杂的字，带有长竖笔画和下方的扫尾曲线；左中是一个较细的字；中央是一个最高的字，用于框住隐藏的角色；右侧中心是一个小的孤立标点状字符；最右侧是一个非常大的字，带有高耸的弯曲刀锋状笔画。这些字应类似于优雅的日文/中文，但具有装饰性，不一定需要可读。将角色部分隐藏在中央字符后，从头部到裙摆下部可见，仿佛正从狭窄的缝隙中窥视。
+
+主体细节：隐藏的角色为 {argument name="character description" default="一个苍白的哥特小丑玩偶女孩，有着白发、红眼，戴着深色华丽的帽子，装饰着机械饰品，身穿红黑相间的服装"}。仅露出面部，小巧且略带羞涩或诡异，正视前方。头部上方有密集的黑银色蒸汽朋克装饰、悬挂的吊坠、珠子、电线和微小的圆形零件。身体大部分被排版遮挡，仅在下方露出一点红色的裙摆或外套。
+
+排版风格：以 {argument name="main ink color" default="深黑色"} 渲染字符，带有象牙白负空间镂空、细如发丝的垂直和水平线条、厚重且戏剧性的衬线、长长的镰刀状曲线以及几何形状的新艺术运动/哥特式花纹。在细长的垂直镶嵌、小圆圈、新月形尖端和珠饰中加入 {argument name="accent color" default="柔和的深红色"} 细节。在字母中融入许多精致的悬挂吊坠和连接线。
+
+装饰元素计数：总共包含 5 组主要字群、1 个隐藏角色和 1 个小的孤立标点状字符。在字体和悬挂饰品上分布约 18 个可见的红色圆形装饰，混合填充红点和红环珠子。添加大量细小的黑色珠链，但需使其附着在字符上，而非随意漂浮。
+
+视觉风格：{argument name="art style" default="高细节暗黑奇幻漫画排版，新艺术运动书法，蒸汽朋克装饰，平面海报设计"}。字母采用干净锐利的矢量风格边缘，并结合精细的漫画墨线来表现角色。调色板限制在米色、黑色、灰白色、灰色和深红色。高对比度，优雅，神秘，略带阴森感。
+
+约束：无英文单词，无可读的拉丁文字，无 Logo，无水印，无边框。保持背景简洁且呈哑光质感。保持平面 2D 插画风格，而非写实或 3D 渲染。
+
+[English]
+Goal: Create a wide typographic fantasy poster featuring oversized ornamental pseudo-Japanese calligraphy with a small gothic doll-like clown girl peeking out from between the central characters.
+
+Canvas: Horizontal 16:9 composition, muted warm beige background, no border, centered text spanning almost the full width with generous margins.
+
+Layout: Use exactly 5 main black calligraphic glyph groups arranged left to right: 1 very large complex glyph on the far left with long vertical strokes and sweeping lower curve, 1 slimmer mid-left glyph, 1 tallest central glyph framing the hidden character, 1 small isolated punctuation-like glyph to the right of center, and 1 very large glyph on the far right with a tall curved blade-like stroke. The glyphs should resemble elegant Japanese/Chinese characters but be decorative and not necessarily readable. Place the character partially concealed behind the central glyph, visible from head to lower dress, as if peeking through a narrow gap.
+
+Subject details: The hidden character is {argument name="character description" default="a pale gothic clown doll girl with white hair, red eyes, a dark ornate hat, mechanical trinkets, and a red-and-black outfit"}. Only one face is visible, small and slightly shy or eerie, looking forward. The upper head has dense black-and-silver steampunk ornaments, dangling charms, beads, wires, and tiny circular parts. The body is mostly hidden by typography, with a narrow glimpse of red skirt or coat below.
+
+Typography style: Render the glyphs in {argument name="main ink color" default="deep black"} with ivory negative-space cutouts, razor-thin vertical and horizontal hairlines, thick dramatic serifs, long scythe-like curves, and geometric Art Nouveau/Gothic flourishes. Add {argument name="accent color" default="muted crimson red"} details in thin vertical inlays, small circles, crescent tips, and bead accents. Include many delicate hanging pendants and connector lines integrated into the letters.
+
+Counted decorative elements: Include 5 main glyph groups total, 1 hidden character, and 1 small isolated punctuation-like glyph. Add approximately 18 visible red circular accents distributed across the lettering and dangling ornaments, mixing filled red dots and red-ringed beads. Add numerous fine black bead chains, but keep them attached to the glyphs rather than floating randomly.
+
+Visual style: {argument name="art style" default="high-detail dark fantasy manga typography, Art Nouveau calligraphy, steampunk ornamentation, flat poster design"}. Use clean sharp vector-like edges for the letters combined with finely inked manga detail for the character. Palette limited to beige, black, off-white, gray, and crimson red. High contrast, elegant, mysterious, slightly macabre.
+
+Constraints: No English words, no readable Latin text, no logo, no watermark, no frame. Keep the background plain and matte. Preserve the flat 2D illustrated look rather than photorealism or 3D rendering.
+```
+
+**来源：** [@Nagi](https://x.com/Nagi_storymusic/status/2094211485098815640) | 2026-08-30
+
+---
+
+### 🎴 例 7087：美国航空天际线海报
+
+![美国航空天际线海报](../images/%E7%BE%8E%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%A4%A9%E9%99%85%E7%BA%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度逼真的电影感竖版海报，展现“美国”主题，9:16 比例。
+
+画面上半部分是一架 {argument name="subject" default="大型联合航空宽体客机"} 低空飞过，采用极具冲击力的左前方四分之三视角，起落架放下，引擎、机翼及机身细节真实，清晰可辨的联合航空涂装。
+
+飞机后方是壮观的黄金时刻 {argument name="location" default="洛杉矶天际线"}，密集的棕榈树、繁忙的美国城市街道、车流、汽车、商业建筑和市中心摩天大楼。包含标志性的洛杉矶氛围，带有清晰可见的“WELCOME TO LA / LOS ANGELES”路边指示牌、In-N-Out Burger 路边招牌、加油站标识以及美国城市细节。
+
+天空宏大且富有戏剧性，布满数百朵充满质感的金橙色云彩，被强烈的日落光芒照亮，暖阳穿透云层，电影级体积光，丰富的对比度，真实的空气深度。
+
+在前景中心，添加巨大的、极具冲击力的手绘涂鸦/笔触排版，文字内容为：
+“{argument name="text" default="AMERICA"}”
+字体应巨大、醒目、粗犷、带有做旧感且充满活力，以白色为主，融入美国国旗风格的红蓝配色，星星和条纹自然地嵌入字母中，文字后方带有黑色阴影/深度，周围延伸出动态的红色笔触。
+
+排版应占据构图中心，且不能完全遮挡飞机或城市。
+
+高度逼真的摄影效果，电影级调色，超精细建筑，真实的车辆，真实的棕榈树，戏剧性的日落。
+
+[English]
+Create a highly detailed photorealistic cinematic vertical poster representing AMERICA, 9:16 aspect ratio.
+
+A {argument name="subject" default="massive United Airlines wide-body passenger aircraft"} flying low across the upper half of the frame, viewed from a dramatic low front-left three-quarter angle, landing gear extended, realistic engines, wings and aircraft details, clearly recognizable United Airlines-style livery.
+
+Behind the airplane is a spectacular golden-hour {argument name="location" default="Los Angeles skyline"}, dense palm trees, busy American city streets, traffic, cars, commercial buildings and downtown skyscrapers. Include recognizable Los Angeles atmosphere with a visible “WELCOME TO LA / LOS ANGELES” roadside sign, an In-N-Out Burger roadside sign, gas station signage and American urban details.
+
+The sky is enormous and dramatic, filled with hundreds of textured golden-orange clouds illuminated by a powerful sunset, warm sunlight breaking through the clouds, cinematic volumetric lighting, rich contrast, realistic atmospheric depth.
+
+In the center foreground, add enormous aggressive hand-painted graffiti/brush-stroke typography reading exactly:
+“{argument name="text" default="AMERICA"}”
+The lettering should be huge, bold, rough, distressed and energetic, painted in white with strong American flag-inspired red and blue sections, stars and stripes integrated naturally into the letters, black shadow/depth behind the text and dynamic red brush strokes extending around it.
+
+The typography should dominate the middle of the composition without completely hiding the airplane or city.
+
+Highly realistic photography, cinematic color grading, ultra-detailed architecture, realistic vehicles, realistic palm trees, dramatic sunset
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2094118656141906064) | 2026-08-30
+
+---
+
+### 🎴 例 7093：月下潮汐海报
+
+![月下潮汐海报](../images/%E6%9C%88%E4%B8%8B%E6%BD%AE%E6%B1%90%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="主题" default="月下观潮"}
+主标题：{argument name="主标题" default="观潮"}
+比例：9:16
+
+夜色江岸，一位{argument name="人物描述" default="成年东方女性"}站在潮水边，巨大冷月映照江面。真实手机抓拍质感，克制与陌生感；自然五官、真实皮肤
+
+现代东方编辑海报，大面积留白，简洁、疏朗、有呼吸感。
+
+巨大“观潮”贯穿画面，使用与主题匹配的东方书法字体，舒展、有力量、富有潮水般的流动感。文字与人物前后穿插。
+
+墨黑、深青、月白，少量朱砂红。
+```
+
+**来源：** [@DeepBlue零](https://x.com/DeepBlueZer0/status/2094081083096862899) | 2026-08-30
+
+---
+
+### 🎴 例 7095：个性化 Rider-Waite 塔罗牌
+
+![个性化 Rider-Waite 塔罗牌](../images/%E4%B8%AA%E6%80%A7%E5%8C%96%20Rider-Waite%20%E5%A1%94%E7%BD%97%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+根据你对我的了解，以{argument name="风格" default="经典的 Rider-Waite 风格"}创作一张塔罗牌。把我画成{argument name="表现形式" default="手绘人物"}，使用大胆但不完美、带有些微晃动与变化的黑色墨线，平涂色彩且不加阴影。在人物周围叠加巧妙的塔罗视觉元素。加上纸张纹理与印刷质感。
+```
+
+**来源：** [@DeepBlue零](https://x.com/DeepBlueZer0/status/2094070747182633414) | 2026-08-30
+
+---
+
+### 🎴 例 7113：澳门复古地图海报
+
+![澳门复古地图海报](../images/%E6%BE%B3%E9%97%A8%E5%A4%8D%E5%8F%A4%E5%9C%B0%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的复古线条艺术旅游海报，背景为温暖的陈旧羊皮纸，画面中心为 {argument name="region" default="中国澳门"} 的精细手绘轮廓地图。使用纤细的棕褐色墨水线条，搭配微妙的水彩渲染，并留出大量米色空白空间。在地图内，放置 6 个精确的插画地标元素：顶部附近一座华丽的巴洛克式教堂立面，旁边点缀着小型红绿树木；中部一座高耸的澳门塔，从平静的水面升起，背景为低矮的绿色丘陵；左中下方一个青花瓷茶杯；右中下方一条蜿蜒的黑白葡式碎石路图案；底部一朵粉色莲花及一片绿叶；以及从地图右侧延伸出的一座狭长桥梁。在地图主体轮廓周围添加几个微小的离岛形状。保持构图优雅、极简，呈现博物馆海报质感，具备精细的建筑细节、淡淡的斑点，且仅在插画内部使用柔和的哑光色彩。在底部中心，添加中文标题 {argument name="main title" default="中国澳门"}，采用字间距较宽的黑色衬线字体，下方添加较小的副标题 {argument name="subtitle" default="内部的小世界"}。画面中不包含人物，无现代图形效果，无边框，无水印。
+
+[English]
+Create a refined vintage line-art travel poster on warm aged parchment paper, centered on a delicate hand-drawn outline map of {argument name="region" default="Macau, China"}. Use thin sepia ink lines with subtle watercolor washes and lots of empty beige space. Inside the map, place exactly 6 illustrated landmark elements: 1 ornate Baroque church facade near the top with small green and red trees beside it, 1 tall Macau Tower in the middle rising from calm water with low green hills behind it, 1 blue-and-white porcelain teacup in the lower middle-left, 1 flowing black-and-white Portuguese wave mosaic pavement pattern curving across the lower middle-right, 1 pink lotus flower with a green lotus leaf near the bottom, and 1 long narrow bridge extending from the right side of the map. Add a few tiny detached island shapes around the main map outline. Keep the composition elegant, minimal, museum-poster-like, with fine architectural detail, faint speckles, and soft muted colors only inside the illustrations. At the bottom center, add the Chinese title {argument name="main title" default="中国澳门"} in widely spaced black serif-style characters, and beneath it the smaller subtitle {argument name="subtitle" default="内部的小世界"}. No people, no modern graphic effects, no border, no watermark.
+```
+
+**来源：** [@雪瑜](https://x.com/xueyu1125/status/2094015423775994116) | 2026-08-30
+
+---
+
+### 🎴 例 7116：未来主义杂志编辑海报
+
+![未来主义杂志编辑海报](../images/%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E6%9D%82%E5%BF%97%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+概念性未来主义编辑海报设计，主体为 {argument name="subject" default="一位女性"} 的大型侧面肖像，身着 {argument name="clothing" default="时髦的现代时装"}，干净的摄影棚灯光，白色背景搭配醒目的 [COLOR1] 图形形状，精致的 [COLOR2] 电路状线条图，以及微妙的 [COLOR3] 界面装饰。顶部显著位置放置大号大写标题 “{argument name="title" default="NEO FUTURE"}”，下方有一小段简短的编辑文本 “[TEXT]”，现代实验性排版，不对称杂志布局，锐利的高对比度构图，高级平面设计美学，4:5 纵横比。
+
+[English]
+Conceptual futuristic editorial poster design featuring {argument name="subject" default="a woman"} in a large side-profile portrait, wearing {argument name="clothing" default="sleek contemporary fashion styling"}, clean studio lighting, white background with bold [COLOR1] graphic shapes, fine [COLOR2] circuit-like line diagrams, and subtle [COLOR3] interface accents. Large uppercase title “{argument name="title" default="NEO FUTURE"}” placed prominently at the top, a short block of small editorial text reading "[TEXT]", modern experimental typography, asymmetrical magazine layout, sharp high-contrast composition, premium graphic design aesthetic, 4:5 aspect ratio.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2093967364379324896) | 2026-08-30
+
+---
+
+### 🎴 例 7117：复古风情旅行海报
+
+![复古风情旅行海报](../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E6%83%85%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="location" default="location"} 创建一张高级复古旅行海报。
+
+视觉风格
+
+创作一幅怀旧的欧洲中世纪风格旅行海报插画，呈现手绘石版画或丝网印刷的质感。使用暖色调的米色纸张、柔和且自然褪色的颜料、细腻的纸张纹理、可见的笔触、轻微的油墨瑕疵以及微微风化的边缘。艺术作品应具有收藏价值，显得精致、真实且富有质感，而非数字渲染的产物。
+
+构图
+
+采用竖向布局。在顶部，用大号手绘几何字体书写 {argument name="location" default="location"}。每个字母应使用略有不同的复古哑光色，字符间距宽敞、优雅，并带有微妙的印刷瑕疵。
+
+在标题下方，创建一个占据海报大部分区域的大型圆角矩形插画场景。围绕 {argument name="location" default="location"} 的标志性特征构建连贯的全景构图，展现 3–5 个真实的地标或建筑元素。
+
+在适当的情况下，包含：
+
+该城市最具辨识度的地标
+
+具有当地特色的建筑
+
+独特的景观、滨水区、河流、广场、山脉或天际线
+
+地道的当地交通工具
+
+区域植被及氛围细节
+
+必要时加入背景中的小人物
+
+确保所有地标在地理和建筑上均合理。请勿虚构地标或将无关城市的建筑组合在一起。
+
+前景
+
+根据 {argument name="location" default="location"} 的特色，创作一个引人入胜的露台、阳台、咖啡桌或石砌观景点。添加 2–4 个具有文化代表性的当地细节，如传统陶器、区域美食或糕点、咖啡或茶、纺织品、花卉、装饰瓷砖或典型的建筑材料。这些元素应作为主景的衬托。
+
+氛围与色调
+
+使用温暖的黄金时刻光影、柔和的蓝天、米色云朵以及轻柔的大气雾气。采用精致的色调，包括赤陶色、赭石色、哑光蓝、橄榄绿、米色和大地棕，并根据 {argument name="location" default="location"} 进行自然调整。在适当位置添加鸟类、植被、船只、街道活动和建筑阴影等细微细节。
+
+海报文字
+
+在右下角的米色区域，添加一句专为 {argument name="location" default="location"} 撰写的简短诗意意大利语标语。格式为 5–7 行简短的大写字母。文案应优雅、诗意、永恒且具有旅行感，而非广告宣传语。
+
+准确性与最终效果
+
+海报必须能让熟悉该城市的人一眼认出 {argument name="location" default="location"}。优先考虑真实的地标、建筑、景观、美食、材料、色彩和文化细节。当存在独特的当地替代方案时，请避免使用通用的旅游图像。
+
+最终成品应类似于黄金时代旅游插画中保存完好的复古旅行海报：具有绘画感、触感、轻微瑕疵、温暖、电影质感、精致，且适合作为高端旅行艺术收藏品。
+
+[English]
+Create a premium vintage travel poster for {argument name="location" default="Paris"}.
+
+Visual Style
+
+Create a nostalgic mid-century European travel-poster illustration with a hand-painted lithograph/screen-print aesthetic. Use warm cream paper, muted naturally faded pigments, subtle paper grain, visible brush texture, gentle ink imperfections, and softly weathered edges. The artwork should feel collectible, sophisticated, tactile, and authentic rather than digitally rendered.
+
+Composition
+
+Use a tall portrait layout. At the top, place {argument name="location" default="Paris"} in large uppercase, hand-drawn geometric lettering. Give each letter a slightly different muted vintage color, with spacious, elegant, and subtly imperfect printed character.
+
+Below the title, create one large rounded-rectangle illustrated scene occupying most of the poster. Build a cohesive panoramic composition around the recognizable identity of {argument name="location" default="Paris"}, featuring 3–5 genuine local landmarks or architectural elements.
+
+Include, where appropriate:
+
+the city’s most recognizable landmark
+
+characteristic local architecture
+
+a distinctive landscape, waterfront, river, square, mountain, or skyline
+
+authentic local transportation
+
+regional vegetation and atmospheric details
+
+small background figures when useful
+
+Keep all landmarks geographically and architecturally plausible. Do not invent landmarks or combine buildings from unrelated cities.
+
+Foreground
+
+Create an inviting terrace, balcony, café table, or stone viewpoint inspired by {argument name="location" default="Paris"}. Add 2–4 culturally appropriate local details such as traditional pottery, regional food or pastry, coffee or tea, textiles, flowers, decorative tiles, or characteristic architectural materials. Keep these elements secondary to the main scenery.
+
+Atmosphere & Palette
+
+Use warm golden-hour lighting, a soft blue sky, cream-colored clouds, and gentle atmospheric haze. Use a refined palette of terracotta, ochre, muted blue, olive green, cream, and earthy brown, naturally adapted to {argument name="location" default="Paris"}. Add subtle details such as birds, foliage, boats, street activity, and architectural shadows where appropriate.
+
+Poster Text
+
+In the lower-right cream area, add a short poetic Italian slogan specifically written for {argument name="location" default="Paris"}. Format it as 5–7 short uppercase lines. The wording should feel elegant, poetic, timeless, and travel-oriented—not like advertising copy.
+
+Accuracy & Final Look
+
+The poster must immediately communicate {argument name="location" default="Paris"} to someone familiar with the city. Prioritize authentic landmarks, architecture, landscapes, cuisine, materials, colors, and cultural details. Avoid generic tourist imagery when a distinctive local alternative exists.
+
+The finished artwork should resemble a beautifully preserved vintage travel poster from the golden age of illustrated tourism: painterly, tactile, slightly imperfect, warm, cinematic, sophisticated, and suitable for a premium travel-art collection.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2093949295900897283) | 2026-08-30
+
+---
+
+### 🎴 例 7123：奢华超现实护发广告
+
+![奢华超现实护发广告](../images/%E5%A5%A2%E5%8D%8E%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%8A%A4%E5%8F%91%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用我上传的面部照片作为主模特唯一的身份参考，创作一张高端超现实奢华护发广告海报。请准确保留我的面部特征、面部结构、肤色、眼睛、眉毛、鼻子、嘴唇及自然特征，确保我完全可被识别。将原始品牌名称 “OLLIN PROFESSIONAL” 替换为虚构的高端品牌名称 “{argument name="brand name" default="LUMERA PROFESSIONAL"}”。保持与参考图完全一致的姿势、身体位置、手部摆放、构图、拍摄角度及动态视角：模特身体前倾，一只手戏剧性地放在超大号发膜罐上，另一只手臂向外伸展。保留前景中超大号的淡蓝色化妆品罐，标签文字为 “{argument name="product" default="LUMERA PROFESSIONAL — CERAMIDE REPAIR — RECONSTRUCTING HAIR MASK — ULTIMATE CARE"}”。营造一种未来主义的编辑美学风格，背景采用 {argument name="color scheme" default="光泽浅蓝色与暖橙色"} 的几何建筑、反光瓷砖地面、柔和的漫射影棚灯光、细腻的高光、优雅的阴影、体积光效果，呈现高端商业摄影质感。为模特设计奢华蓬松的波浪卷发，搭配未来感蓝橙配色服装的精致时尚造型，同时保持姿势不变。使产品包装清晰、逼真、高端且具有专业的品牌感。照片级真实的面部与皮肤质感，逼真的手部与人体结构，电影级景深，超高细节，精致的美妆广告效果，高端杂志广告大片品质，4:5 竖构图。
+
+[English]
+Create a premium surreal luxury hair-care advertising poster using my uploaded face as the ONLY identity reference for the main model. Preserve my facial identity, facial structure, skin tone, eyes, eyebrows, nose, lips, and natural features accurately and keep me fully recognizable. Replace the original brand name “OLLIN PROFESSIONAL” with a fictional premium brand name “{argument name="brand name" default="LUMERA PROFESSIONAL"}”. Keep the exact same pose, body position, hand placement, composition, camera angle, and dynamic perspective as the reference: the model leaning forward with one hand resting dramatically on the oversized hair-mask jar while the other arm extends outward. Keep the oversized pastel blue cosmetic jar in the foreground, with the label reading “{argument name="product" default="LUMERA PROFESSIONAL — CERAMIDE REPAIR — RECONSTRUCTING HAIR MASK — ULTIMATE CARE"}.” Create a futuristic editorial beauty campaign aesthetic with {argument name="color scheme" default="glossy light-blue and warm orange"} geometric architecture, reflective tiled floor, soft diffused studio lighting, subtle highlights, elegant shadows, volumetric glow, and high-end commercial photography. Give the model luxurious voluminous wavy hair, sophisticated fashion styling in a futuristic blue-and-orange outfit, while keeping the pose unchanged. Make the product packaging crisp, realistic, premium, and professionally branded. Photorealistic face and skin, realistic hands and anatomy, cinematic depth of field, ultra-detailed, polished beauty advertising, premium magazine campaign quality, vertical 4:5 composition.
+```
+
+**来源：** [@Aniya Intelligence](https://x.com/aniyaintel/status/2093918253919957468) | 2026-08-30
+
+---
+
+### 🎴 例 7125：东方禅意镜面池
+
+![东方禅意镜面池](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E9%95%9C%E9%9D%A2%E6%B1%A0.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美明艳型
+主体内容：一位女子站在镜面水池边，低头看水中花影
+情绪母题：精致、柔美、静中有亮色
+场景与意象：{argument name="水池颜色" default="孔雀蓝"}镜面水池、{argument name="花影颜色" default="玫瑰粉"}花影、白色石阶、女子、少量金色发饰
+构图与空间：人物位于画面下方偏左，水面占据中部形成清晰色块，上方保留浅色标题空间
+色彩控制：暖白作为背景和石阶基底，孔雀蓝只用于水面，玫瑰粉用于花影和局部点睛，浅金只用于很小的饰件高光；避免全图蓝粉滤镜化
+光线与质感：明亮柔光，水面清晰反光，干净高颜值海报质感
+画幅比例：9:16 
+补充要求：画面要精致、通透、色彩漂亮，适合女性向封面，不要雾化压灰
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2093915188286365930) | 2026-08-30
+
+---
+

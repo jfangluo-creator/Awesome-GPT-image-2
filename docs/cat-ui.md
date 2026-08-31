@@ -14734,3 +14734,146 @@ Create a premium vintage travel-journal editorial page, vertical 4:5, featuring 
 
 ---
 
+### 🖥️ 例 7080：AI 绘图前的思考横幅
+
+![AI 绘图前的思考横幅](../images/AI%20%E7%BB%98%E5%9B%BE%E5%89%8D%E7%9A%84%E6%80%9D%E8%80%83%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于 AI 图像生成与精准文本渲染的电影质感横幅，用于网站或社交媒体，营造出充满氛围感的摄影棚效果，并配有清晰的葡萄牙语排版。
+
+画布：宽幅 2:1 横幅，尺寸约为 1200×600 像素。深色、柔焦摄影背景，具有强烈的景深效果。左侧留白用于放置文字，右侧用于展示视觉隐喻。
+
+背景与主体：一个昏暗的艺术家工作室，采用冷灰蓝色调灯光，左侧远处有一扇模糊的窗户，背景为混凝土墙面，地面上有柔和的阴影，右侧放置着一个画架，上面是一块空白的白色画布。在右上方，展示一个精致的机械绘图臂或机械画笔支架伸向画布，笔尖挂着一滴深蓝色颜料。画布应为亮白色且大部分留白，略微倾斜，带有细微的阴影。采用写实的灯光、浅景深以及高端的科技编辑美学。
+
+布局：将所有主要文字放置在左侧，覆盖在深色半透明渐变层上以确保可读性。在标题上方水平对齐放置 3 个小型圆角标签：“IA”、“MUSE IMAGE” 和 “NOVIDADE”。在标签下方放置两行醒目的大号标题：“A IA aprendeu a pensar” 为第一行，“antes de desenhar” 为第二行。仅突出显示 “pensar” 一词，在其后方添加一个鲜艳的紫色矩形标签，文字为白色。在标题下方，添加一行较小的斜体副标题：“O texto deixou de ser o calcanhar de Aquiles. Falta todo o resto.” 在右下角添加一个小型的网站 URL：“www.macareno.net”。
+
+文本内容：使用 {argument name="headline text" default="A IA aprendeu a pensar antes de desenhar"}，其中 {argument name="highlighted word" default="pensar"} 一词以紫色突出显示。使用 {argument name="subtitle text" default="O texto deixou de ser o calcanhar de Aquiles. Falta todo o resto."}。使用 {argument name="tag labels" default="IA, MUSE IMAGE, NOVIDADE"}。使用 {argument name="website URL" default="www.macareno.net"}。
+
+视觉风格：极简、精致、电影感、写实，白色排版与深色背景形成高对比度，具有现代科技新闻落地页的质感。字体应为简洁的无衬线字体；标题使用超粗体，副标题使用细斜体，标签使用大写字母并带有字间距。保持文字清晰且拼写准确。
+
+约束：包含 3 个药丸状标签、1 个突出显示的单词、1 行副标题、1 个 URL、1 个画架画布、1 个机械绘图臂、1 支画笔以及 1 滴可见的颜料。请勿添加额外的徽标、人物、图标或其他文字。
+
+[English]
+Goal: Create a cinematic horizontal website/social banner about AI image generation and accurate text rendering, with a moody studio atmosphere and clear Portuguese typography.
+
+Canvas: Wide 2:1 banner, approximately 1200×600 px. Dark, soft-focus photographic background with strong depth of field. Leave the left half for text and the right half for the visual metaphor.
+
+Background and subject: A dim artist studio with cool gray-blue lighting, a blurred window on the far left, concrete wall, soft shadows on the floor, and an easel on the right holding a blank white canvas. In the upper center-right, show a delicate mechanical drawing arm or robotic brush holder reaching toward the canvas, holding a thin brush that has a single dark blue paint droplet at its tip. The canvas should be bright white and mostly empty, slightly angled, with a subtle shadow. Use realistic lighting, shallow depth of field, and a premium editorial tech aesthetic.
+
+Layout: Place all main text on the left side over a dark translucent gradient overlay for legibility. Use exactly 3 small rounded pill tags above the headline, aligned horizontally: “IA”, “MUSE IMAGE”, and “NOVIDADE”. Below them, place a large bold headline in two lines: “A IA aprendeu a pensar” on the first line and “antes de desenhar” on the second line. Highlight only the word “pensar” with a vivid purple rectangular label behind the word, white text on purple. Under the headline, add one smaller italic subtitle: “O texto deixou de ser o calcanhar de Aquiles. Falta todo o resto.” Add a small website URL in the bottom-right corner: “www.macareno.net”.
+
+Text content: Use {argument name="headline text" default="A IA aprendeu a pensar antes de desenhar"}, with the word {argument name="highlighted word" default="pensar"} highlighted in purple. Use {argument name="subtitle text" default="O texto deixou de ser o calcanhar de Aquiles. Falta todo o resto."}. Use {argument name="tag labels" default="IA, MUSE IMAGE, NOVIDADE"}. Use {argument name="website URL" default="www.macareno.net"}.
+
+Visual style: Minimal, polished, cinematic, realistic, high contrast between white typography and dark background, with a modern tech-news landing-page feel. Typography should be clean sans serif; headline extra bold, subtitle light italic, tags uppercase with letter spacing. Keep text sharp and perfectly spelled.
+
+Constraints: Include exactly 3 pill tags, exactly 1 highlighted word, exactly 1 subtitle line, exactly 1 URL, exactly 1 easel canvas, exactly 1 robotic drawing arm, exactly 1 brush, and exactly 1 visible paint droplet. Do not add extra logos, people, icons, or additional text.
+```
+
+**来源：** [@john@macareno.net](https://x.com/MacarenoNet/status/2094212135148466584) | 2026-08-30
+
+---
+
+### 🖥️ 例 7084：燃烧城市中的巨型怪兽
+
+![燃烧城市中的巨型怪兽](../images/%E7%87%83%E7%83%A7%E5%9F%8E%E5%B8%82%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%9E%8B%E6%80%AA%E5%85%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级、照片写实的黑暗奇幻战争场景，背景为一座被摧毁的城市，画面中一只巨大的蜘蛛状怪兽正笼罩在燃烧的废墟之上。该生物拥有巨大的怪诞骷髅状面孔、凸出的光亮圆眼、布满尖锐针状牙齿的宽大掠食性咧嘴、焦黑的有机盔甲、细长的昆虫腿，以及向后飘散的狂野触须状毛发或刺。将其置于画面左上方及中心位置，高耸于倒塌的工业建筑和瓦砾之上。环境为一个末日城市战场，画面中清晰可见三个主要的人类尺度军事元素：右下角前景中一辆炮口对准毁灭现场的坦克，底部中心附近三名佩戴头盔、手持重武器的士兵，以及散落在前景中的残骸路障。在中景处加入强烈的橙色火焰与爆炸，浓厚的黑烟云层填满天空，伴有发光的余烬、潮湿的反射泥地、扭曲的钢梁、破碎的混凝土、破损的窗格，以及两侧烧焦的建筑结构。采用戏剧性的低角度构图，宽幅 4:3 横向画幅，冷灰色烟雾与炽热橙色火焰形成高对比度，呈现写实纹理、粗粝细节、体积烟雾、电影级布光及锐利对焦，无文字，无水印。
+
+[English]
+Create a cinematic photorealistic dark-fantasy war scene in a destroyed city, showing a colossal spider-like monster looming over burning ruins. The creature has a huge grotesque skull-like face, bulging glossy round eyes, a wide predatory grin filled with many sharp needle teeth, black charred organic armor, long spindly insect legs, and wild tendril-like hair or quills streaming backward. Place it in the upper left and center of the frame, towering over collapsed industrial buildings and rubble. The environment is an apocalyptic urban battlefield with exactly three main human-scale military elements visible: a tank in the lower right foreground aiming its cannon toward the destruction, three small soldiers crouched near the bottom center with helmets and heavy weapons, and scattered wreckage barriers across the foreground. Add intense orange fire and explosions in the middle distance, thick black smoke clouds filling the sky, glowing embers, wet reflective mud, twisted steel beams, shattered concrete, broken window grids, and burned-out structures on both sides. Use dramatic low-angle composition, wide 4:3 landscape framing, high contrast between cold gray smoke and hot orange flames, realistic textures, gritty detail, volumetric smoke, cinematic lighting, sharp focus, no text, no watermark.
+```
+
+**来源：** [@Roboelliotto](https://x.com/Roboelliotto/status/2094198043608498270) | 2026-08-30
+
+---
+
+### 🖥️ 例 7085：将草图精修为日系动漫风格
+
+![将草图精修为日系动漫风格](../images/%E5%B0%86%E8%8D%89%E5%9B%BE%E7%B2%BE%E4%BF%AE%E4%B8%BA%E6%97%A5%E7%B3%BB%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为草图和构图参考，将其精修成一张高质量、具有艺术感和创作者风格的日系动漫插画。保持主体不变，即短青色头发、眼镜、俏皮表情、短款上衣轮廓以及双手比出的手枪姿势，但需优化人体结构、手部细节、衣褶、面部和线条，使其成为完成度极高的插画而非草稿。
+
+风格与渲染：采用清晰且富有表现力的动漫线条、绘画感赛璐珞阴影、高对比度、细腻的织物纹理，并加入鲜艳的青色与粉色点缀。保留部分草图的笔触感和图形笔刷纹理，同时确保角色形象完整且具有吸引力。
+
+构图调整：将姿势调整为更具动态感的低角度四分之三侧视图，使角色向观众倾斜。将简单的柔和背景替换为密集的抽象室内/画廊空间，由弯曲的悬挂面板、纸张、草图标记、电缆以及青色和亮粉色的色块组成。
+
+文字叠加：在右上角添加 1 个圆角白色标签，包含日语文本 {argument name="top right label" default="スタイルなし(stylize 800)"}。请勿保留参考图中的原始标签。
+
+约束条件：不要添加额外角色。避免照片级真实感。保持图像为正方形。最终效果应看起来像是对草稿的精修版本，而非完全不相关的角色。
+
+[English]
+Using REFERENCE_0 as the rough sketch and composition guide, clean it up into a polished, high-quality Japanese animation-style illustration with an artistic, creator-driven look. Keep the same main subject, the short turquoise hair, glasses, playful expression, cropped top silhouette, and both hands making finger-gun gestures, but refine the anatomy, hands, clothing folds, face, and linework into a finished illustration rather than a sketch.
+
+Style and rendering: Use crisp expressive anime line art, painterly cel shading, high contrast, detailed fabric texture, and vivid cyan-pink accents. Preserve some rough sketch energy through visible scribbly marks and graphic brush textures, but make the character fully resolved and attractive.
+
+Composition changes: Reframe the pose into a more dynamic low-angle, three-quarter view with the character leaning toward the viewer. Replace the simple pastel background with a dense abstract interior/gallery-like space made of curved hanging panels, paper sheets, sketch marks, cables, and blocks of cyan and hot pink paint.
+
+Text overlay: Add exactly 1 rounded white label near the top right containing the Japanese text {argument name="top right label" default="スタイルなし(stylize 800)"}. Do not keep the original label from the reference.
+
+Constraints: Do not add extra characters. Avoid photorealism. Keep the image square. Make the final result look like a refined edit of the rough draft, not a completely unrelated character.
+```
+
+**来源：** [@Int.Lab](https://x.com/IntLab0000/status/2094148923900477641) | 2026-08-30
+
+---
+
+### 🖥️ 例 7134：Telegram Bot Constellation Ox 截图
+
+![Telegram Bot Constellation Ox 截图](../images/Telegram%20Bot%20Constellation%20Ox%20%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的 Telegram 聊天垂直手机截图，展示机器人成功生成图像的过程。
+
+画布：高比例手机截图，9:16 纵横比，约 576×1024 像素，深色模式。背景使用带有淡淡线条艺术图标的黑色 Telegram 涂鸦壁纸。屏幕应看起来像 iPhone，顶部带有状态栏。
+
+布局：在最顶部，显示 iOS 状态栏，左侧时间为“6:50”，中间有一个蓝色的圆角“TELEGRAM”标注，右侧为蜂窝网络/Wi-Fi/电池图标。下方显示 Telegram 聊天标题栏，左侧有一个圆形返回按钮，中间是一个圆角深色标题框，显示“{argument name="bot name" default="Arcturus Alpha"}”，下方带有小字“bot”，右侧是一个显示发光公牛徽标的小圆形头像。
+
+可见聊天元素：包含 3 个消息区域：1 个上方较大的深紫色发送风格气泡，1 个带有图像及说明文字的图像消息卡片，以及 1 个在输入栏后方部分可见的下方文本消息。
+
+文本内容：上方消息气泡应准确显示：“four, coming up — same minimal test as last time so we're changing exactly one variable:]]
+
+Remark: Attempt four — same test, now with the missing await in place...”，气泡右下角带有时间戳“6:48 PM”。图像说明文字应准确显示：“{argument name="caption text" default="gpt-image-2 smoke test — the constellation ox, back in business."}”，右下角带有时间戳“6:49 PM”。下方被遮挡的消息应以以下内容开头：“[[Private: 🤍 Arcturus> 🎉 It worked! That missing await was the culprit — image generated, file”，并在输入区域后方隐约可见，大部分被遮挡。
+
+聊天中的生成图像：在图像卡片中，创建一个方形的宇宙艺术作品，主体为由发光的金色星座线条和星点组成的 {argument name="constellation animal" default="ox"}。动物应为侧视图的公牛/牛，牛角，头部略微低垂，一条前腿抬起，身体由相互连接的星星勾勒而成。使用深蓝黑色的星系背景，点缀着繁星，并在动物肩部/胸部附近有一个明亮的金色星爆。
+
+底部控件：在底部，显示 Telegram 消息输入框覆盖层。包含 5 个可见控件：一个蓝色的圆角“Menu”按钮（带有汉堡图标）、一个圆形回形针附件按钮、一个圆角文本字段占位符“Message”、字段内/附近的一个小圆形图标，以及右侧的一个圆形麦克风按钮。同时在输入框上方右下角附近包含一个小的浮动向下箭头滚动按钮。
+
+视觉风格：照片级逼真的应用截图，清晰的白色 UI 文字，半透明深色气泡，圆角，自然的 Telegram 深色主题间距。保持截图底部略微裁剪，如同在聊天过程中截取的一样。无水印，无额外消息，无其他图像。
+
+[English]
+Goal: Create a realistic vertical smartphone screenshot of a Telegram chat showing an AI bot successfully generating an image, with the generated image embedded in the conversation.
+
+Canvas: Tall mobile screenshot, 9:16 aspect ratio, approximately 576 × 1024 pixels. Dark mode Telegram interface with black doodle-pattern wallpaper. The screenshot should look like it was captured on an iPhone.
+
+Top status and header: At the very top show the iOS status bar with time “6:50” on the left, a blue “TELEGRAM” pill centered near the top, and cellular/Wi‑Fi/battery icons on the right. Below it, show the Telegram chat header with a circular back button on the left, the chat title “{argument name="chat name" default="Arcturus Alpha"}” in white, the subtitle “bot” underneath, and a small circular avatar on the right showing a golden bull or constellation-like emblem on a dark blue background.
+
+Conversation layout: Use exactly 3 visible chat messages:
+1. A large dark purple rounded text bubble at the top, partially cropped at the very top, containing white text: “four, coming up — same minimal test as last time so we're changing exactly one variable:]]” then a blank line, then “Remark: Attempt four — same test, now with the missing await in place...” with timestamp “6:48 PM” in small gray text at the lower right of the bubble.
+2. A media message beneath it with a rounded rectangular image preview and a caption bubble below. The image preview shows a luminous golden constellation ox/bull drawn with thin glowing lines and star points, standing in profile against a deep navy starfield with faint Milky Way texture. The bull has long curved horns, a lowered head, one front leg raised, and connected constellation nodes across its body. Below the image, include the caption text: “{argument name="caption text" default="gpt-image-2 smoke test — the constellation ox, back in business."}” with timestamp “6:49 PM” at the lower right. The message bubble is dark purple with rounded corners.
+3. A bottom incoming message bubble partially covered by the input bar, containing: “[[Private: 🤍 Arcturus> 🎉 It worked! That missing await was the culprit — image generated, file” with the rest cut off by the bottom UI. Make “worked!” bold-looking if possible.
+
+Bottom UI: Show Telegram’s message composer overlay at the bottom. Include a blue rounded “Menu” button on the left with a hamburger icon, a paperclip attachment icon, a dark rounded input field labeled “Message”, a small circular icon inside the field near the right, and a microphone button on the far right. Add a floating circular down-arrow button near the lower right of the conversation, just above the input area.
+
+Visual style: Photorealistic app screenshot, crisp Telegram dark mode UI, white text, muted gray timestamps, dark translucent purple message bubbles, high contrast. Wallpaper should include faint doodles such as rockets, planets, stars, pizza, animals, and other Telegram-style line icons.
+
+Constraints: Keep all visible text exactly as specified. Use exactly one generated image preview inside the chat. The constellation ox image should be square-ish and occupy the center-left width of the chat. Do not add extra messages, reactions, usernames, watermarks, or unrelated UI panels.
+```
+
+**来源：** [@Michael P. Frank 💻🔜♻️](https://x.com/MikePFrank/status/2093854601669751177) | 2026-08-30
+
+---
+

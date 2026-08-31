@@ -3981,3 +3981,17 @@ Create a nostalgic editorial photo-to-sketch artbook page based on the reference
 
 ---
 
+### 🔧 例 7124：手绘涂鸦日记风格叠加层
+
+![手绘涂鸦日记风格叠加层](../images/%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E6%97%A5%E8%AE%B0%E9%A3%8E%E6%A0%BC%E5%8F%A0%E5%8A%A0%E5%B1%82.jpg)
+
+**Prompt:**
+
+```text
+在圖片上方加上一層手繪疊加。最終成品要時髦、放鬆、毫不費力地隨性。繪製規則：用細細的手繪線條，像是用{argument name="畫筆顏色" default="白色"}筆畫上去。保持單筆勾勒風格：粗糙、略帶不均。沿著物件外緣加上描邊。可用箭頭或虛線引導視線。文字規則：使用手寫字。保持簡短，像輕鬆的{argument name="文字內容" default="內心獨白"}。語氣：像日記、簡短、以情緒為主。旁白要正面又甜甜的。裝飾：適度加入{argument name="裝飾物" default="蒸氣、閃光、愛心、小小表情臉"}。不要太滿；留一些「留白」。
+```
+
+**来源：** [@DeepBlue零](https://x.com/DeepBlueZer0/status/2093917411439436252) | 2026-08-30
+
+---
+

@@ -8490,3 +8490,57 @@ On the left page of the open book are retro travel ephemera including a "CAIRO -
 
 ---
 
+### 🧸 例 7091：3D 脚凳网格对比
+
+![3D 脚凳网格对比](../images/3D%20%E8%84%9A%E5%87%B3%E7%BD%91%E6%A0%BC%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张逼真的建筑可视化效果图，对比室内展厅场景中两个 3D 生成的奥斯曼脚凳。画布：宽屏 16:9 渲染，摄像机位于低视平线并略微向下俯视。场景：两个巴塞罗那风格的小脚凳并排放在深炭灰色瓷砖地板上，背景是一面高大的光面石墙，墙面带有棕色、米色、铁锈色和金色的玛瑙/大理石纹理；最右侧边缘可见一条狭窄的绿色玻璃或窗户，外侧可见浅色室外地砖。主体：精确 2 个脚凳：左侧脚凳为 HD 版本，尺寸略小且高度较低，配有白色簇绒方形坐垫（分为 4x4 网格），边缘圆润柔软，下方有浅灰色皮带，以及反光的抛光金属 X 型支腿；右侧脚凳为 Smart Mesh 版本，尺寸略大且外观更简洁，配有较厚的平滑白色坐垫、平行的白色底带以及灰色抛光 X 型金属支腿。添加细黑色的 3D 视口引导线或线框轴线，穿过并环绕两个脚凳，包括垂直和水平对齐线，如同在 3D 建模对比视口中显示一样。材质：带有细微接缝和柔和高光的白色皮革坐垫、带有反射的镀铬支腿、带有淡淡勾缝线的深色哑光地砖、带有纹理的光面石墙。光照：柔和的室内摄影棚灯光，中等阴影，呈现逼真但略带 CGI 渲染的质感。构图：左侧脚凳约占画面三分之一，右侧脚凳约占三分之二，两者均略微倾斜朝向前方，前方留有足够的地面空间，大理石墙面填满背景。无人物，无标签，无 UI 面板，无水印。
+
+[English]
+Create a realistic architectural visualization comparing two 3D-generated ottoman stools in an interior showroom scene. Canvas: wide landscape 16:9 render, camera at low eye level looking slightly downward. Scene: two small Barcelona-style footstools placed side by side on a dark charcoal tiled floor, in front of a tall glossy stone wall with dramatic brown, cream, rust, and gold onyx/marble veining; a narrow strip of green-tinted glass or window appears at the far right edge, with pale exterior floor tiles visible beyond. Subjects: exactly 2 footstools: left stool is the HD version, slightly smaller and lower, with a white tufted square cushion divided into a 4-by-4 grid, rounded soft edges, light gray leather straps underneath, and reflective polished metal X-shaped legs; right stool is the Smart Mesh version, slightly larger and cleaner, with a thicker smooth white cushion, parallel white underside straps, and gray polished X-shaped metal legs. Add thin black 3D viewport guide lines or wireframe axis lines crossing through and around both stools, including vertical and horizontal alignment lines, as if shown in a 3D modeling comparison viewport. Materials: white leather cushions with subtle seams and soft highlights, chrome legs with reflections, dark matte floor tiles with faint grout lines, glossy veined stone wall. Lighting: soft indoor studio lighting, moderate shadows, realistic but slightly CGI-rendered look. Composition: left stool around one-third of the frame, right stool around two-thirds, both facing forward at a slight angle, enough floor visible in front, marble wall filling the background. No people, no labels, no UI panels, no watermark.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2094087618858549647) | 2026-08-30
+
+---
+
+### 🧸 例 7097：霓虹玻璃能量球
+
+![霓虹玻璃能量球](../images/%E9%9C%93%E8%99%B9%E7%8E%BB%E7%92%83%E8%83%BD%E9%87%8F%E7%90%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张居中的高端 3D 渲染图，背景为纯白色的摄影棚，主体为一个半透明玻璃球。该球体是一个由厚实光亮的水晶制成的完美光滑球体，内部呈深烟色，并悬浮着层叠、流动的丝带状波纹。内部丝带呈优雅的 S 型水平弯曲：上半部分为电青色和深蓝色，中间为熔岩金和橙色，下半部分为热洋红色和紫色。添加明亮的霓虹光条、微小的星状闪光以及沿曲线分布的焦散折射，仿佛发光的能量被困在玻璃内部。使用 {argument name="orb material" default="transparent glossy crystal glass"}、{argument name="main color palette" default="electric blue, cyan, gold, orange, magenta, violet"} 以及 {argument name="background color" default="pure white"}。在球体左上方和右上方添加大面积柔和的白色高光，边缘带有清晰的发光轮廓，内部有微妙的反射，下方有蓝色、紫色和粉色的柔和模糊彩色阴影。构图应简洁且具有产品拍摄感，球体占据方形画面的大部分空间，无文字、无标志、无额外物体，超精细、抛光、未来感、发光、照片级真实感，Octane 渲染风格。
+
+[English]
+Create a centered, high-end 3D render of a single translucent glass orb on a pure white studio background. The orb is a perfectly smooth sphere made of thick glossy crystal, with a dark smoky interior and layered, flowing ribbon-like waves suspended inside it. The internal ribbons curve horizontally in elegant S-shaped bands: electric cyan and deep blue across the upper half, molten gold and orange through the middle, hot magenta and violet through the lower half. Add bright neon light streaks, tiny star-like glints, and caustic refractions following the curves, as if glowing energy is trapped inside the glass. Use {argument name="orb material" default="transparent glossy crystal glass"}, {argument name="main color palette" default="electric blue, cyan, gold, orange, magenta, violet"}, and {argument name="background color" default="pure white"}. Include large soft white specular highlights near the upper left and upper right of the sphere, a crisp luminous rim around the edge, subtle internal reflections, and a soft blurred colored shadow underneath in blue, purple, and pink. The composition should be minimal and product-shot-like, with the sphere occupying most of the square frame, no text, no logos, no extra objects, ultra-detailed, polished, futuristic, luminous, photorealistic, octane-render style.
+```
+
+**来源：** [@RobIW](https://x.com/RobIW_dev/status/2094067843092373872) | 2026-08-30
+
+---
+
+### 🧸 例 7108：动漫手办掉进杯面
+
+![动漫手办掉进杯面](../images/%E5%8A%A8%E6%BC%AB%E6%89%8B%E5%8A%9E%E6%8E%89%E8%BF%9B%E6%9D%AF%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个温馨客厅里的写实桌面特写场景：桌子中央放着一个白色的方便面杯，杯身正面印有红色的 {argument name="cup logo text" default="CUP NOODLE"} 标志性文字和细小的日文。打开的铝箔盖被掀开并皱缩在杯沿周围，露出一个刚掉进杯子里的动漫女学生手办，仿佛她刚才正按着盖子一样。画面中仅包含 1 个面杯、1 个掀开的铝箔盖和 1 个手办。手办是一个可爱的日系动漫女孩，留着棕色短波波头，有着棕色大眼睛，嘴巴微张露出惊讶的表情，呈现出惊慌失措的坠落姿态：一只手臂向上举起，手掌张开；另一只手臂向侧面伸展；一条腿向上踢起，露出鞋底；另一条腿部分没入杯中。她穿着黑色校服西装外套、白衬衫、红领带、格子裙、深色袜子和棕色乐福鞋。面杯在前景中显得较大，手办则像收藏玩具一样小巧，半没入打开的包装中。采用浅景深、柔和的自然窗光、逼真的塑料和纸张质感，营造出一种略带幽默的意外瞬间；背景虚化，左侧为深绿色沙发，右侧为木质搁架。采用略微俯视的正面角度拍摄，具有逼真的镜头模糊效果，色调为温暖的室内光，除杯身包装外不包含任何额外文字。
+
+[English]
+Create a photorealistic close-up tabletop scene in a cozy living room: a white instant noodle cup with the red logo text {argument name="cup logo text" default="CUP NOODLE"} and small Japanese lettering on the front sits centered on a warm wooden table. The opened foil lid is peeled back and crumpled around the rim, revealing a small anime schoolgirl figurine that has just fallen into the cup as if she had been holding the lid down a moment ago. Use exactly 1 noodle cup, 1 peeled foil lid, and 1 figurine. The figurine is a cute Japanese-style anime girl with short brown bobbed hair, large brown eyes, an open surprised mouth, and a startled falling pose: one arm raised upward with an open hand, the other arm stretched sideways, one leg kicked up with the shoe sole visible, the other leg partly hidden inside the cup. She wears a black school blazer, white shirt, red bow tie, plaid skirt, dark socks, and brown loafers. Make the cup large in the foreground and the figurine small like a collectible toy, half-submerged among the opened packaging. Use shallow depth of field, soft natural window light, realistic plastic and paper textures, a slightly humorous accidental moment, and a blurred background with a dark green sofa on the left and a wooden shelf on the right. Shoot from a slightly high front angle with realistic lens blur, warm indoor colors, and no extra text beyond the cup packaging.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2094034754832331253) | 2026-08-30
+
+---
+

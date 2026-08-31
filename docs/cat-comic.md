@@ -9443,3 +9443,39 @@ Create a vertical whimsical storybook illustration in a soft pastel watercolor s
 
 ---
 
+### 🎬 例 7122：日式 Q 版绘本插画
+
+![日式 Q 版绘本插画](../images/%E6%97%A5%E5%BC%8F%20Q%20%E7%89%88%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅可爱的日式 Q 版手绘插画，内容为 {argument name="interaction" default="两个角色在甜蜜、俏皮的瞬间互动"}。采用柔和的传统彩色铅笔和蜡笔绘画风格，保留明显的素描笔触、略显粗糙的不完美轮廓、柔和的粉彩色调，并营造出手工儿童绘本的质感。角色应拥有大头、小身体、简单的椭圆形黑眼睛、微小的笑嘴、红润的脸颊以及天真无邪的表情。为角色设计自然、可爱的姿势与互动，服装和发型需符合所要求的场景。保持构图简洁，以纯白背景呈现，留出充足的负空间。在角色周围适当添加手绘装饰元素，如爱心、闪光或动作线条。柔和的粉彩配色、细腻的纸张纹理、精致的线条、略带瑕疵的填色、温馨治愈的氛围、全身构图、居中角色，高品质插画。
+
+[English]
+Create a cute hand-drawn Japanese chibi illustration of {argument name="scene" default="two characters interacting in a sweet, playful moment"}. Use a soft traditional colored-pencil and crayon drawing style, with visible sketchy pencil strokes, slightly rough imperfect outlines, gentle pastel coloring, and a handmade children’s storybook feel. Characters should have oversized heads, tiny bodies, simple oval black eyes, tiny smiling mouths, rosy cheeks, and expressive innocent faces. Give them natural, adorable poses and interactions, with clothing and hairstyles matching the requested scene. Keep the composition clean and minimal on a plain white background, with plenty of negative space. Add small hand-drawn decorative elements such as hearts, sparkles, or motion lines around the characters where appropriate. Soft pastel palette, subtle paper texture, delicate linework, slightly imperfect coloring, cozy wholesome romantic atmosphere, full-body composition, centered characters, high-quality illustration.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2093929087010246754) | 2026-08-30
+
+---
+
+### 🎬 例 7127：科幻漫画分镜插画
+
+![科幻漫画分镜插画](../images/%E7%A7%91%E5%B9%BB%E6%BC%AB%E7%94%BB%E5%88%86%E9%95%9C%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+图像 1 — 漫画：《最后的信号》创作一幅原创电影级科幻漫画插画，16:9 横屏，超高分辨率，设计为专业的独立漫画分镜。场景：一位虚构的年轻女性太空工程师在夜晚站在废弃的轨道研究站内。她身后巨大的裂纹观测窗外，一颗巨大的蓝色行星占据了背景。她发现了一个散发着金色微粒的神秘悬浮全息球体。视觉风格：高端现代图像小说，半写实角色，高度细节化的环境，戏剧性的电影构图，真实的材质，大气深度，体积光，细腻的胶片颗粒感，丰富的阴影，发光的各种全息特效，精致的漫画墨线与阴影处理。全息球体照亮了她的脸庞，而空间站的其他部分则处于黑暗中。微小的灰尘和碎片在她周围失重漂浮，营造出一种宁静而神秘的氛围。添加一个简洁的漫画对话气泡，内容仅包含：“还有人在那里。” 无真实人物，无名人肖像，无参考图像，完全原创的角色与艺术作品。无 Logo，无水印，无版权角色。保持构图简洁且视觉冲击力强。图像 2 — 漫画：《答案》创作一幅原创电影级科幻漫画插画，16:9 横屏，超高分辨率，设计为专业图像小说的第二个戏剧性独立分镜。场景：同一位虚构的女性太空工程师站在废弃轨道站巨大的观测窗前。神秘的全息球体突然打开，变成了一个灿烂的宇宙传送门。在传送门内，成千上万的微小金光汇聚成一座漂浮在群星间的遥远未来城市形状。当金色能量温柔地环绕她时，她的表情从恐惧转为惊叹。原本黑暗的空间站现在被传送门照亮，金属地板、玻璃和机械上呈现出逼真的反射效果。视觉风格：高端现代图像小说，半写实电影级角色，极其细节化的科幻环境，戏剧性的透视，真实的灯光，体积照明，大气深度，精致的漫画线条与阴影，强烈的蓝金能量特效。添加一个简洁的漫画对话气泡，内容仅包含：“我们从未孤单。” 无真实人物，无名人肖像，无参考图像，完全原创的角色与艺术作品。无 Logo，无水印，无版权角色。保持精致专业的漫画审美。
+
+[English]
+IMAGE 1 — Comic: “The Last Signal” Create an original cinematic sci-fi comic illustration, 16:9 landscape, ultra-high resolution, designed as a professional standalone comic panel. Scene: A young fictional female space engineer stands inside an abandoned orbital research station at night. Through the enormous cracked observation window behind her, a gigantic blue planet fills the background. She discovers a mysterious floating holographic sphere emitting golden particles. Visual style: premium modern graphic novel, semi-realistic characters, highly detailed environment, dramatic cinematic composition, realistic materials, atmospheric depth, volumetric light, subtle film grain, rich shadows, glowing holographic effects, sophisticated comic-book ink and shading. The holographic sphere illuminates her face while the rest of the station remains dark. Small pieces of dust and debris float weightlessly around her, creating a sense of silence and mystery. Add one clean comic speech bubble containing exactly: “Someone is still out there.” No real people, no celebrity likeness, no reference image, completely original characters and artwork. No logos, no watermarks, no copyrighted characters. Keep the composition clean and visually striking. IMAGE 2 — Comic: “The Answer” Create an original cinematic sci-fi comic illustration, 16:9 landscape, ultra-high resolution, designed as the dramatic second standalone panel of a professional graphic novel. Scene: The same fictional female space engineer stands before the enormous observation window of the abandoned orbital station. The mysterious holographic sphere has suddenly opened into a brilliant cosmic portal. Inside the portal, thousands of tiny golden lights form the shape of a distant futuristic city floating among the stars. Her expression changes from fear to wonder as golden energy gently surrounds her. The previously dark station is now illuminated by the portal, with realistic reflections across metallic floors, glass, and machinery. Visual style: premium modern graphic novel, semi-realistic cinematic characters, extremely detailed sci-fi environment, dramatic perspective, realistic lighting, volumetric illumination, atmospheric depth, sophisticated comic-book linework and shading, powerful blue-and-gold energy effects. Add one clean comic speech bubble containing exactly: “We were never alone.” No real people, no celebrity likeness, no reference image, completely original characters and artwork. No logos, no watermarks, no copyrighted characters. Maintain a polished professional comic-book aesthetic.
+```
+
+**来源：** [@Blitzer](https://x.com/tanzeel617919/status/2093907659003228550) | 2026-08-30
+
+---
+
