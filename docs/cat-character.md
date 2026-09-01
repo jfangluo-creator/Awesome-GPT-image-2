@@ -8832,3 +8832,93 @@ Constraints: No extra characters, no background objects, no text labels, no logo
 
 ---
 
+### 🧍 例 7175：专业电影级角色设定表
+
+![专业电影级角色设定表](../images/%E4%B8%93%E4%B8%9A%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+参考图 1 = 模特身份参考；参考图 2 = 角色设定表 / 布局参考。基于参考图 2 创建一个结构严谨的专业电影级角色开发设定表，但将原有的女性完全替换为参考图 1 中的女性模特。最高优先级 — 身份锁定：将参考图 1 作为模特身份的严格参考。保留她准确可辨的脸部特征、面部比例、眼睛、眉毛、鼻子、嘴唇、下颌线、颧骨、肤色、皮肤纹理、发色、发质以及整体自然外观。请勿重新设计、美化、老化、男性化或改变她的面容。每一张肖像和全身图板都必须清晰地描绘出参考图 1 中的同一位女性。完全匹配参考设定表：重现参考图 2 中相同的整体角色设定表构图、网格结构、图板排列、视觉层级、取景、间距、标签、摄像机角度、摄影棚展示效果以及专业概念艺术美学。创建一个大型专业角色设定表，包含：1. 三视图 — 模特造型：模特的四个全身视图：正面、左侧面、3/4 正面、背面。使用参考设定表中展示的同一套优雅白色缎面时尚服装：精致的无袖缎面上衣搭配阔腿缎面长裤，简洁的奢华风格，白色尖头高跟鞋，极简配饰。2. 三视图 — 学者造型：四个全身视图：正面、侧面、3/4 侧面、背面。让她穿上参考设定表中相同的黑色修身学术/高领服装、黑色阔腿长裤、细腰带、优雅的黑色鞋履以及深色皮革笔记本/文件夹。3. 姿势展示 — 学者造型：展示同一模特的多个全身姿势：自然站立、行走、阅读笔记本、手持打开的书本、书写、站在教室黑板旁、看向讲座/教室环境。在每个图板中保持她的身体比例和身份一致。4. 表情设定表：创建同一模特的多个头部和肩部特写肖像，展示：中性冷淡、愉悦、浅笑、专注阅读、集中注意力、沉稳的走秀凝视、放松的抓拍、强烈的眼神交流。表情应自然变化，同时保持面部身份完全一致。5. 身份过渡：展示模特在以下造型间的视觉过渡：优雅的白色时尚/模特外观、学术黑色学者外观、带有书本/笔记本的学者外观。同一张脸，同一位女性，同一个可辨识的身份。6. 光影参考：创建同一模特在以下环境下的多个全身/肖像示例：柔和的阴天日光、摄影棚灯光、强烈的正午阳光、冷色调荧光走廊灯光、电影级教室灯光。7. 细节标注：包含逼真的特写图板，用于展示：蓝色眼睛细节、带有微妙渐变的自然嘴唇、带有独特蓝色挑染的金色发丝、修剪整齐的指甲、精致的金色首饰、黑色罗纹面料、白色缎面面料、棕色皮革笔记本、手写公式/笔记本页面、手持并在笔记本上书写的双手、白色尖头鞋履。8. 剪影 / 体态研究：包含小型全身剪影研究，从多个角度和姿势展示同一模特。保持完全一致的身体比例。9. 发型构造：展示多个后部/侧面发型参考，包含详细的金色发丝构造和标志性的蓝色挑染。保留参考图 1 中的发型特征。视觉风格：高端专业电影角色圣经 / AAA 游戏角色开发设定表 / 时尚编辑角色项目。照片级真实感、高级电影摄影、真实的皮肤纹理、物理上准确的面料、细致的发丝、自然的解剖结构、精致的中性灰摄影棚背景、柔和可控的灯光、微妙的阴影、简洁的专业呈现。摄像机：用于特写的真实 50mm–85mm 人像摄影，50mm 全身摄影。质量：超精细、照片级真实感、8K、极度清晰、真实的皮肤毛孔、真实的眼睛、真实的面料纹理、高级编辑质感。一致性规则：参考图 1 中的同一位女性必须出现在每一个图板中。禁止图板间换脸，禁止更换不同女性，禁止随机的面部改变，除非明确作为构造变体展示，否则禁止改变发型。在整个设定表中保持一致的面部结构、身体比例、发色、蓝色挑染、肤色和整体身份。长宽比：16:9 横向角色设定表项目。负面提示词：不同的人、不一致的脸、改变的身份、扭曲的解剖结构、多余的手指、缺失的手指、重复的肢体、畸形的手、不对称的眼睛、塑料感皮肤、卡通、插画、动漫、低分辨率、模糊的脸、过度的妆容、不同的发色、不同的身体比例、扭曲的服装、重复的图板、杂乱的构图、难以辨认的标签、水印、Logo。
+
+[English]
+REFERENCE IMAGE 1 = MODEL IDENTITY REFERENCE REFERENCE IMAGE 2 = CHARACTER SHEET / LAYOUT REFERENCE Create an exactly structured professional cinematic character development sheet based on Reference Image 2, but completely replace the original woman with the female model from Reference Image 1. HIGHEST PRIORITY — IDENTITY LOCK Use Reference Image 1 as the strict identity reference for the model. Preserve her exact recognizable facial identity, facial proportions, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, skin texture, hair color, hair texture, and overall natural appearance. Do not redesign, beautify, age, masculinize, or alter her face. Every portrait and full-body panel must clearly depict the same woman from Reference Image 1. MATCH REFERENCE SHEET EXACTLY Recreate the same overall character-sheet composition, grid structure, panel arrangement, visual hierarchy, framing, spacing, labels, camera angles, studio presentation and professional concept-art aesthetic seen in Reference Image 2. Create a large professional character sheet containing: 1. TURNAROUND — MODEL LOOK Four full-body views of the model: front view left profile 3/4 front view back view Use the same elegant white satin fashion outfit shown in the reference sheet: sophisticated sleeveless satin top with wide-leg satin trousers, clean luxury styling, white pointed heels, minimal accessories. 2. TURNAROUND — SCHOLAR LOOK Four full-body views: front side 3/4 back Dress her in the same fitted black academic/turtleneck outfit from the reference sheet, black wide-leg trousers, slim belt, elegant black footwear and dark leather notebook/folder. 3. POSE LINEUP — SCHOLAR LOOK Multiple full-body poses showing the same model: standing naturally walking reading a notebook holding an open book writing standing beside a classroom chalkboard looking toward a lecture/classroom environment Keep her body proportions and identity consistent in every panel. 4. EXPRESSION SHEET Create multiple close-up head-and-shoulder portraits of the same model showing: neutral deadpan amusement faint smile focused reading concentrated expression composed runway gaze relaxed candid intense eye contact Expressions should change naturally while the face identity remains identical. 5. IDENTITY TRANSITION Show the model transitioning visually between: elegant white fashion/model appearance academic black scholar appearance scholar appearance with book/notebook Same face, same woman, same recognizable identity. 6. LIGHTING REFERENCES Create several full-body/portrait examples of the same model under: soft overcast daylight studio lighting harsh midday sunlight cool fluorescent hallway lighting cinematic classroom lighting 7. DETAIL CALLOUTS Include realistic close-up panels for: blue eye detail natural lips with subtle gradient individual blonde hair strands with distinctive blue streaks manicured nails delicate gold jewelry black ribbed fabric white satin fabric brown leather notebook handwritten equations/notebook pages hands holding and writing in a notebook white pointed footwear 8. SILHOUETTE / POSTURE STUDY Include small full-body silhouette studies showing the same model from multiple angles and poses. Maintain identical body proportions. 9. HAIR CONSTRUCTION Show multiple rear/side hairstyle references with detailed blonde hair construction and the characteristic blue hair streaks. Preserve the hairstyle identity from Reference Image 1. VISUAL STYLE High-end professional film character bible / AAA game character development sheet / fashion editorial character board. Photorealistic, premium cinematic photography, realistic skin texture, physically accurate fabric, detailed hair strands, natural anatomy, sophisticated neutral grey studio background, soft controlled lighting, subtle shadows, clean professional presentation. Camera: realistic 50mm–85mm portrait photography for close-ups, 50mm full-body photography. Quality: ultra-detailed, photorealistic, 8K, extremely sharp, realistic skin pores, realistic eyes, realistic fabric texture, premium editorial finish. CONSISTENCY RULE The same exact woman from Reference Image 1 must appear in every single panel. No face swapping between panels, no different woman, no random facial changes, no hairstyle changes unless specifically shown as a construction variation. Maintain consistent facial structure, body proportions, hair color, blue streaks, skin tone and overall identity throughout the entire sheet. Aspect ratio: 16:9 landscape character-sheet board. Negative prompt: different person, inconsistent face, altered identity, distorted anatomy, extra fingers, missing fingers, duplicate limbs, deformed hands, asymmetrical eyes, plastic skin, cartoon, illustration, anime, low resolution, blurry face, excessive makeup, different hair color, different body proportions, warped clothing, duplicated panels, messy composition, illegible labels, watermark, logo.
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2094329049879351362) | 2026-08-31
+
+---
+
+### 🧍 例 7180：优雅抽象丝带插画提示词
+
+![优雅抽象丝带插画提示词](../images/%E4%BC%98%E9%9B%85%E6%8A%BD%E8%B1%A1%E4%B8%9D%E5%B8%A6%E6%8F%92%E7%94%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+优雅的抽象插画，
+
+{argument name="reference image" default="[此处上传参考图]"}
+
+由单一流动的丝带状形态构成，连续的曲线暗示着动感与体积感，细腻的立体阴影，克制的
+
+ {argument name="color selection" default="[此处选择颜色]"}
+
+色调，优雅的留白，高端品牌艺术美学，精致的简约感，居中构图。"
+{argument name="aspect ratio" default="9:16"}
+
+[English]
+Elegant abstract illustration of
+
+{argument name="reference image" default="[الصورة المرفقة]"}
+
+constructed from a single flowing ribbon-like form, continuous curves suggesting movement and volume, subtle dimensional shading, restrained
+
+ {argument name="color palette" default="[أختيار اللون هنا]"}
+
+palette, graceful negative space, premium brand-art aesthetic, sophisticated simplicity, centered composition.”
+{argument name="aspect ratio" default="9:16"}
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094309076540985504) | 2026-08-31
+
+---
+
+### 🧍 例 7198：旅行出发日记画册
+
+![旅行出发日记画册](../images/%E6%97%85%E8%A1%8C%E5%87%BA%E5%8F%91%E6%97%A5%E8%AE%B0%E7%94%BB%E5%86%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于参考图，创作一个怀旧风格的当代旅行日记画册页面。请保留参考图中完全一致的人物、面部特征、发型、姿势、表情、服装、行李、比例、拍摄角度、构图以及情感氛围。{argument name="layout" default="将页面垂直分为两个无缝连接的部分"}。上半部分为超写实电影质感的机场照片：{argument name="subject" default="同一个人安静地站在现代机场航站楼内"}，身旁放着一个登机箱，柔和的自然窗光，抛光地面上的细微倒影，真实的皮肤质感，自然的色彩，浅景深，细腻的胶片颗粒感，自然随意的肢体语言，以及安静的出发前氛围。下半部分将完全相同的场景、人物、行李和构图转化为 {argument name="style" default="松散的黑白手绘墨水插画"}，呈现于暖色调的米白色纹理纸张上。在保持相同姿势和视角的同时，使用富有表现力的不完美线条、粗犷的排线、极简的阴影、微妙的建筑细节、小型指向箭头、行李轮廓、航站楼标识形状以及手工速写本的瑕疵感。在插画周围添加富有品味的编辑排版：小型的编号日记条目、手写风格的标题、微小的纪实笔记、微妙的时间戳、登机口风格的标注以及极简的旅行日记注释。保留充足的奶油色留白，呈现略显不完美的墨水印刷效果、低调的复古排版、精致的日式极简平面设计，情感温暖且具有电影感，展现高端当代摄影日记的美学，照片与绘画之间过渡自然，高度细节化，自然的人体解剖结构，真实的比例，无水印，无 Logo。
+
+[English]
+a nostalgic contemporary travel-journal artbook page based on the reference image. Preserve the exact same person, facial identity, facial features, hairstyle, pose, expression, clothing, luggage, proportions, camera angle, composition, and emotional atmosphere from the reference image. Divide the page vertically into two seamlessly connected sections. The {argument name="top section style" default="upper section is an ultra-realistic cinematic airport photograph"}: the same person standing quietly in a modern airport terminal with a carry-on suitcase beside them, soft natural window light, subtle reflections on polished floors, realistic skin texture, authentic colors, shallow depth of field, delicate film grain, natural candid body language, and a quiet pre-departure atmosphere. The {argument name="bottom section style" default="lower section transforms the exact same scene, person, luggage, and composition into a loose black-and-white hand-drawn ink illustration"} on warm off-white textured paper. Preserve the same pose and perspective while using expressive imperfect lines, rough cross-hatching, minimal shading, subtle architectural details, small directional arrows, luggage outlines, terminal signage shapes, and handmade sketchbook imperfections. Add tasteful {argument name="graphic details" default="editorial typography around the illustration"}: a small numbered diary entry, handwritten-style caption, tiny documentary notes, subtle timestamp, gate-style notation, and minimal travel-journal annotations. Keep generous cream-colored negative space, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist Japanese-inspired graphic design, emotionally warm and cinematic, premium contemporary photography journal aesthetic, cohesive transition between photograph and drawing, highly detailed, natural human anatomy, authentic proportions, no watermark, no logos.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2094267684968140993) | 2026-08-31
+
+---
+
+### 🧍 例 7205：夜间抓拍动态人像
+
+![夜间抓拍动态人像](../images/%E5%A4%9C%E9%97%B4%E6%8A%93%E6%8B%8D%E5%8A%A8%E6%80%81%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请严格保留上传参考图中女孩的身份和外貌。她必须与 {argument name="subject" default="女孩"} 完全一致：以最高保真度保留她的面部特征、面部比例、自然肤色、眼睛颜色、头发颜色、发质、脸型及其他可辨识特征。请勿进行美化、理想化、显老、减龄或改变其身份。请勿使用参考图中的服装。强调浅色眼妆，上眼睑画干净的猫眼眼线，双眼轮廓微妙清晰。唇部用比口红深约一个色号的唇线笔勾勒，涂抹 {argument name="lipstick color" default="干枯玫瑰色哑光口红"}，呈现自然、真实的肤感。晒黑的皮肤带有真实的色差和暖意。创作一张超写实的 9:16 夜间抓拍照片，看起来像地道的手机快照，而非摆拍的时尚大片。自然的皮肤纹理，可见毛孔、细纹、眼周细微的毛细血管、细小的瑕疵以及真实的色调变化。无美颜滤镜，无人工磨皮，无 CGI，无塑料感皮肤。女孩从 {argument name="setting" default="行驶中的夜间车窗"} 探出头，头微微后仰，享受这一刻。她带着微妙而真诚的微笑，双眼紧闭，脸庞向上迎着夜风。一只手自然地举过头顶，手指放松并微微弯曲。照片是在运动中拍摄的。她的脸部有微妙的自然动态涂抹感，而头发在风中凌乱飞舞，带有明显的动态模糊，传达出瞬间的速度感与随性。动态模糊必须看起来符合物理规律，而非人工扭曲。她穿着一件简单的黑色细肩带上衣，抬起的手腕上戴着几条精致的细手链。不要使用参考图中的任何服装元素。极近距离构图，女孩占据画面大部分空间。相机位置略微偏向侧面并低于她的脸部，营造出亲密的抓拍视角。在保持自然动态模糊的同时，确保她的面部特征清晰可辨。背景是真实的夜间城市街道，有模糊的建筑、明亮的窗户、路灯和过往车辆。由于车辆在行驶，背景呈现出柔和的涂抹感，带有微妙的拉长光轨和真实的定向动态模糊。温暖的路灯光自然地洒在她的脸庞、被风吹乱的头发和肩膀上，与冷色调的城市环境光交织在一起。柔和的对比度，低饱和的夜间色彩，真实的曝光，不完美的亮部，自然的阴影和地道的数字噪点。捕捉老款 iPhone 夜间摄影的感觉：略带噪点、颗粒感、不完美、随性且未经修饰，具有随机拍摄于行驶车内的照片特质。相机美学：地道的便携式相机/手机快照，具备 Canon G7 X 的光学特性和 Fujifilm GFX 100 风格的细节，约 100mm 等效视角。
+
+[English]
+Strictly preserve the girl’s identity and appearance from the uploaded reference image. She must be unmistakably the same {argument name="subject" default="girl"}: preserve her facial features, facial proportions, natural skin tone, eye color, hair color, hair texture, face shape, and other recognizable characteristics with maximum fidelity. Do not beautify, idealize, age, de-age, or alter her identity. Do not use the outfit from the reference image. Emphasized light eye makeup, clean cat-eye eyeliner on the upper lids, subtly defined eyes. Lips outlined with a lip liner approximately one shade darker than the lipstick, with {argument name="lipstick color" default="dusty-rose matte lipstick"} in a natural, skin-like tone. Tanned skin with realistic variation and warmth. Create an ultra-realistic spontaneous 9:16 night photograph that looks like an authentic phone snapshot rather than a staged fashion shoot. Natural skin texture with visible pores, fine lines, subtle capillaries around the eyes, tiny imperfections and realistic tonal variation. No beauty filter, no artificial skin smoothing, no CGI, no plastic-looking skin. The girl is leaning out of the {argument name="setting" default="window of a moving car at night"}, throwing her head slightly back and savoring the moment. She has a subtle genuine smile, her eyes are closed, and her face is turned upward toward the night air. One hand is raised naturally above her head, fingers relaxed and slightly bent. The photograph is captured during movement. Her face has subtle natural motion smear, while her hair flies chaotically in different directions and is noticeably motion-blurred, conveying the speed and spontaneity of the moment. The motion blur must look physically natural, not like an artificial distortion. She is wearing a simple thin-strap black top and several delicate thin bracelets on the raised wrist. No outfit elements from the reference image. Very close framing, with the girl filling most of the frame. Camera positioned slightly to the side and below her face, creating an intimate candid perspective. Keep her facial identity sharp enough to remain recognizable despite the natural motion blur. Behind her is a real nighttime city street with blurred buildings, illuminated windows, streetlights and passing cars. Because the car is moving, the background is softly smeared with subtle elongated light trails and realistic directional motion blur. Warm street-lamp illumination naturally falls across her face, windblown hair and shoulders, mixed with cooler ambient city light. Soft contrast, muted nighttime colors, realistic exposure, imperfect highlights, natural shadows and authentic digital noise. Capture the feeling of an old iPhone night photograph: slightly noisy, grainy, imperfect, spontaneous and unpolished, with the character of a random photograph taken during a moving car ride. Camera aesthetic: authentic compact-camera/phone snapshot with the optical character of a Canon G7 X and Fujifilm GFX 100-style detail, approximately 100mm-equivalent perspective
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2094254537750225315) | 2026-08-31
+
+---
+

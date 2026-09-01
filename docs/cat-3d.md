@@ -8544,3 +8544,81 @@ Create a photorealistic close-up tabletop scene in a cozy living room: a white i
 
 ---
 
+### 🧸 例 7182：微缩 3D 咖啡馆
+
+![微缩 3D 咖啡馆](../images/%E5%BE%AE%E7%BC%A9%203D%20%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个迷人的极简主义 3D 微缩 {argument name="subject" default="咖啡馆"} 场景，灵感源自温馨的手工纸艺和黏土美学。将一家设计精美的小型咖啡店放置在质感十足的米白色纸张背景的下方中央，周围留出充足的留白空间。
+
+咖啡馆应看起来像一家手工制作的微缩咖啡店：一个奶油色的小店面，配有温暖的木质柜台、微型浓缩咖啡机、咖啡杯、糕点、咖啡豆、小菜单项目、悬挂招牌、盆栽、凳子和精致的咖啡馆装饰。添加几位正在享用咖啡的微型顾客和柜台后的咖啡师，保持整体可爱、精致且整洁。
+
+使用 {argument name="color palette" default="柔和象牙白、米色、暖棕色、柔和鼠尾草绿以及微妙的赤陶色点缀"}，并配以逼真的柔和阴影和自然的柔光。在咖啡馆周围添加 {argument name="doodle type" default="微小的手绘黑色涂鸦"}——如小爱心、蒸汽线条、星星、咖啡豆、箭头和简单的装饰符号——以营造出一种现代感十足的趣味剪贴簿氛围。
+
+[English]
+Create a charming minimalist 3D miniature {argument name="scene" default="coffee shop scene"} inspired by a cozy handmade paper-and-clay aesthetic. Place a tiny, beautifully designed {argument name="store type" default="coffee store"} in the lower-center of a large {argument name="background" default="textured off-white paper"} background, leaving plenty of clean empty space around it.
+
+The coffee shop should look like a handcrafted miniature café: a small cream-colored storefront with a warm wooden counter, tiny espresso machine, coffee cups, pastries, coffee beans, little menu board, hanging sign, potted plants, stools, and subtle café decorations. Add a few tiny customers enjoying coffee and a barista behind the counter, keeping everything cute, delicate, and uncluttered.
+
+Use soft ivory, beige, warm brown, muted sage green, and subtle terracotta accents, with realistic soft shadows and gentle natural lighting. Add tiny hand-drawn black doodles around the café—small hearts, steam lines, stars, coffee beans, arrows, and simple decorative marks—to create a playful contemporary scrapbook feeling.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094308523404582916) | 2026-08-31
+
+---
+
+### 🧸 例 7190：3D 纸卷艺术婚礼装饰
+
+![3D 纸卷艺术婚礼装饰](../images/3D%20%E7%BA%B8%E5%8D%B7%E8%89%BA%E6%9C%AF%E5%A9%9A%E7%A4%BC%E8%A3%85%E9%A5%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一件高细节的 3D 纸卷艺术作品，描绘了坐在敞篷 {argument name="car style" default="复古粉色汽车"} 中的浪漫新郎和新娘，完全由卷曲的纸条在纯白色背景上制作而成。
+
+新郎留着黑发，穿着 {argument name="groom outfit" default="深紫色纸卷西装外套"}、白衬衫和紫色领结。新娘留着精致的棕色发型，戴着飘逸的白色头纱，身穿复杂的白色纸卷婚纱；他们甜蜜而浪漫地依偎在一起。
+
+复古汽车的车身上装饰着巨大的层叠粉色纸卷玫瑰，并配有深紫色卷纸轮胎。
+
+场景顶部是一个巨大的心形拱门，由 {argument name="flowers" default="紫色、薰衣草色和粉色的纸卷花朵"} 组成，配有绿色纸叶和几只在附近盘旋的小紫蝶。底部区域装饰着层叠的薰衣草色纸花、粉色星状花朵以及优雅的白色纸质花丝卷草纹。
+
+来自上方的柔和摄影棚灯光在每一层凸起的纸张下方营造出微妙而逼真的投影，突显了触感丰富的立体工艺品质 --ar 1:1
+
+[English]
+A high-detail 3D paper quilling art piece featuring a romantic bride and groom sitting in an open-top {argument name="car style" default="vintage pastel pink car"}, crafted entirely from rolled and coiled paper strips on a clean white background.
+
+The groom has black hair and is wearing a {argument name="groom outfit" default="dark purple paper-quilled suit jacket"}, white shirt, and a purple bow tie. The bride has styled brown hair with a flowing white veil and wears an intricate white quilled wedding gown; they lean toward each other in a sweet, romantic pose.
+
+The vintage car is decorated with large, layered quilled pink roses along its body, with deep purple coiled paper tires.
+
+Framing the top of the scene is a large heart-shaped arch made of {argument name="flowers" default="purple, lavender, and pink quilled flowers"} with green paper leaves and small purple butterflies hovering nearby. The bottom area features cascading lavender paper blossoms, pink starburst flowers, and elegant white paper filigree scrollwork.
+
+Soft studio lighting from above creates subtle, realistic drop shadows under each raised paper layer, emphasizing the tactile, three-dimensional craft quality --ar 1:1
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2094288035730825652) | 2026-08-31
+
+---
+
+### 🧸 例 7191：风格化 3D 角色海报
+
+![风格化 3D 角色海报](../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%203D%20%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+优质风格化 3D 角色海报，主角为 {argument name="character" default="一名赛博朋克探险家"}，全身照，居中正面站姿，大头设计，紧凑的玩具般比例，表情生动的简化面部，身穿 {argument name="outfit" default="带有实用绑带的机能风服装"}，佩戴超大深色环绕式护目镜、厚实的通讯耳机、分层技术绑带、实用口袋、微型硬件和精细鞋履。为角色配备 [GEAR]，自然融入服装且不显杂乱。使用受控的 [COLORS] 色调，包含一种主导的饱和背景色、互补的服装色调、深石墨色硬件和少量明亮的点缀。背景为 [COLOR]，带有柔和的地面阴影和微妙的大气渐变。极具质感的材质：编织面料、磨损尼龙、哑光聚合物、拉丝金属、橡胶、半透明护目镜玻璃和细小的手绘细节；精致的高端 3D 收藏品渲染，柔和的电影级摄影棚灯光，清晰的轮廓，迷人而自信的姿态。在左上角添加醒目紧凑的图形标题 “{argument name="title" default="FUTURE UNIT"}”，下方配有几行微小的技术微缩文字，使排版从属于角色。竖版优质角色主视觉图，构图简洁，色彩块面感强，精致的游戏电影级质感，4:5 比例
+
+[English]
+Premium stylized 3D character poster featuring {argument name="character" default="a cyberpunk explorer"}, full body, centered front-facing stance, oversized head and compact toy-like proportions, expressive simplified face, wearing {argument name="outfit" default="techwear with utility straps"} with an oversized dark wraparound visor, chunky communications headset, layered technical straps, utility pockets, miniature hardware and detailed footwear. Equip the character with [GEAR], integrated naturally into the outfit without clutter. Use a controlled [COLORS] palette with one dominant saturated background color, complementary clothing tones, dark graphite hardware and small bright accents. Set against [COLOR] background, with a soft floor shadow and subtle atmospheric gradient. Highly tactile materials: woven fabric, worn nylon, matte polymer, brushed metal, rubber, translucent visor glass and small painted details; polished high-end 3D collectible rendering, soft cinematic studio lighting, crisp silhouette, charming but confident attitude. Add a bold compact graphic title “{argument name="title" default="FUTURE UNIT"}” in the upper-left corner with a few tiny technical microtext lines beneath it, keeping the typography secondary to the character. Vertical premium character key art, clean composition, strong color blocking, sophisticated game-cinematic finish, 4:5 ar
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2094287364529254779) | 2026-08-31
+
+---
+

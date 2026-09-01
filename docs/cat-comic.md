@@ -9479,3 +9479,102 @@ IMAGE 1 — Comic: “The Last Signal” Create an original cinematic sci-fi com
 
 ---
 
+### 🎬 例 7153：电影预制作分镜项目
+
+![电影预制作分镜项目](../images/%E7%94%B5%E5%BD%B1%E9%A2%84%E5%88%B6%E4%BD%9C%E5%88%86%E9%95%9C%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个单一的 9:16 垂直预制作开发项目，结合了 {argument name="elements" default="角色参考表 + 电影分镜"}，用于 [subject]
+
+[English]
+Create a single vertical 9:16 pre-production development board combining {argument name="elements" default="CHARACTER SHEETS + CINEMATIC STORYBOARD"} for [subject]
+```
+
+**来源：** [@Abhishek](https://x.com/HeyAbhishek/status/2094425208430215333) | 2026-08-31
+
+---
+
+### 🎬 例 7192：浮冰上的卡通北极熊
+
+![浮冰上的卡通北极熊](../images/%E6%B5%AE%E5%86%B0%E4%B8%8A%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8C%97%E6%9E%81%E7%86%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅方形的儿童绘本风格插画，画面主体为 {argument name="animal" default="一只北极熊"} 站在北冰洋的一块巨大浮冰上。动物呈侧面朝左，占据画面大部分空间，拥有圆润结实的身体、自然的短颈、可见的四肢、小巧圆润的耳朵、细小的尾巴、乳白色的皮毛，并带有粗黑的卡通轮廓线；表情严肃坚定，配有圆眼睛、黑鼻子和平直的嘴巴。采用稚拙的手绘丙烯或油画棒风格，笔触清晰，边缘略显不平，轮廓线条粗犷，色彩明亮平涂。背景为鲜艳的青蓝色天空，下方是深蓝色的海洋地平线；天空中恰好有 2 朵简单的白色块状云，分别位于左上方和右上方。在主浮冰周围的水面上，包含恰好 6 块较小的浮冰：左侧 3 块，右侧 3 块。主浮冰应巨大且呈锯齿状，顶部为白色，侧面有浅蓝色阴影，占据画面底部三分之一。构图保持俏皮且具有图形感，如同手工制作的儿童绘本页面，无文字、无水印、无照片写实感，且不包含其他动物。
+
+[English]
+Create a simple hand-painted cartoon illustration of a {argument name="animal" default="polar bear"} standing in profile on a large floating ice floe in the Arctic Ocean. The bear should face left with a stern, slightly angry expression, round ears, black nose, small black eyes with thick outlined brows, a short natural neck, sturdy legs, and a rounded white body, drawn with bold black outlines and creamy off-white brush-textured fur. Use a childlike acrylic or gouache painting style with visible brush strokes, flat graphic shapes, and slightly imperfect edges. The scene contains exactly 1 bear, exactly 1 large foreground ice floe under the bear, exactly 6 smaller floating ice chunks in the surrounding water, and exactly 2 white blocky clouds in the sky. Set the background as a bright cyan-blue sky above a dark blue ocean with a straight horizon line, high saturation, simple composition, no text, no watermark, no realism, and a cheerful handmade picture-book look.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2094284015528476835) | 2026-08-31
+
+---
+
+### 🎬 例 7206：赛博朋克城市跑酷 MV
+
+![赛博朋克城市跑酷 MV](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%9F%8E%E5%B8%82%E8%B7%91%E9%85%B7%20MV.jpg)
+
+**Prompt:**
+
+```text
+ネオン輝く近未来都市の屋上を高速で走り、ジャンプ→壁走り→着地スライドをつなぐ、追従カメラとスピード感のあるシネマティックMV
+─────────────────
+動画生成：fal ai (MiniMax H3 Max)
+画像生成(衣装)：ChatGPT img2
+絵コンテ：GPT-5.6 Sol
+✴︎────────────────✴︎
+```
+
+**来源：** [@みゆー|AI×おじぎねこサロンアンバサダー/Miricanvas公式サポーター](https://x.com/gaogao_1192/status/2094241662201671695) | 2026-08-31
+
+---
+
+### 🎬 例 7208：工业工厂故事板
+
+![工业工厂故事板](../images/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E5%8E%82%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部关于参观传统机械工厂并与工匠建立信任的写实企业工业短片，创作一个电影感 4 格故事板。
+
+画布：水平 16:9 图像，分为 2×2 网格的 4 个相等面板，由干净的白色间隙隔开。写实风格，电影剧照质感，低饱和度工业色调，浅景深，自然窗光，高对比度，细腻的灰尘和金属纹理，无标题或文字。
+
+场景：一家充满手动车床、铣床、工具架的旧式日本金属加工工厂，地面上有金属屑，配有大型网格窗，磨损的混凝土地面，昏暗的车间氛围，冷灰色和钢色调。
+
+角色：使用 {argument name="main character" default="一位年轻的日本商务女性"}，身穿海军蓝西装和白色衬衫，头发整齐地束在脑后，举止冷静专业。包含 {argument name="craftsman" default="一位年长的日本机械师"}，身穿灰色工作夹克和深色帽子，面容饱经风霜，表情温和。
+
+面板布局和镜头列表：共 4 个面板。面板 1（左上）：金属车床操作的特写镜头，旋转的圆柱形工件正被刀具切削，明亮的卷曲金属屑飞溅，戴手套的工人手部靠近机器，戏剧性的侧光，旋转金属上有强烈的动态模糊。面板 2（右上）：沿工厂过道的广角镜头，年轻的商务女性在成排的旧工业机器间自信地走向镜头，年长的机械师在背景中工作，具有电影感的景深和强烈的透视线。面板 3（左下）：年轻商务女性面向镜头的肖像特写，表情严肃而深思，工厂背景虚化，柔和的窗光照在脸上，专业且充满人文气息。面板 4（右下）：商务女性与年长机械师在车间内握手的中景镜头，两人都温和地微笑着，背景是机器和窗户，传达出达成共识和相互尊重的温暖感。
+
+视觉风格：写实纪录片摄影，35mm 胶片质感，细腻的纹理，自然的肤色，工业氛围，海军蓝、灰色、黑色和暖色高光的柔和调色板。确保同一位女性和同一位年长机械师在各面板中保持一致。
+
+约束条件：无对话气泡，无字幕，无 Logo，无水印，无额外面板，无奇幻元素，无卡通风格。
+
+[English]
+Goal: Create a cinematic 4-panel storyboard for a serious business documentary scene set inside an old Japanese metalworking factory, showing craftsmanship, inspection, and trust-building between management and workers.
+
+Canvas: 16:9 horizontal image divided into exactly 4 equal panels in a 2x2 grid, separated by clean thick white borders. No captions, no speech bubbles, no logos, no text overlays.
+
+Visual style: Photorealistic live-action film stills, muted industrial color grading, high dynamic range, natural window light mixed with dim fluorescent factory lighting, shallow depth of field where appropriate, gritty realism, detailed metal textures, dust and oil on machinery, cinematic contrast.
+
+Panel count and layout: Use exactly 4 storyboard panels:
+1. Top-left panel: Extreme close-up of a metal lathe in operation. A spinning cylindrical metal workpiece is being cut by a tool bit, with bright curled metal shavings flying outward. Include a worker’s gloved hand and forearm near the machine for scale. Background softly blurred with factory windows and machinery.
+2. Top-right panel: Wide shot down the central aisle of the factory. A young Japanese businesswoman in a navy suit and white blouse walks confidently toward the camera, centered in the aisle. An older male factory worker stands with his back turned at a machine in the midground. Old lathes, workbenches, piles of metal shavings, and large windows line both sides.
+3. Bottom-left panel: Tight portrait close-up of the same young Japanese businesswoman, facing the camera directly with a calm, determined, serious expression. She has black hair neatly tied back, minimal makeup, and wears a navy blazer over a white collared shirt. The factory interior behind her is dark and blurred.
+4. Bottom-right panel: Medium two-shot of the young Japanese businesswoman smiling and shaking hands with an elderly Japanese factory worker wearing a gray work jacket and dark cap. They stand among old industrial machines in the same workshop, with warm daylight from large windows behind them, conveying agreement and mutual respect.
+
+Subject details: The main character is {argument name="main character" default="a young Japanese businesswoman"}, wearing {argument name="business outfit" default="a navy suit and white blouse"}. The factory worker is {argument name="factory worker" default="an elderly Japanese craftsman in a gray work jacket and dark cap"}. The setting is {argument name="factory setting" default="an old metalworking factory filled with lathes and industrial machines"}. The mood is {argument name="story mood" default="serious, respectful, cinematic, documentary-like"}.
+
+Constraints: Maintain consistent character identity across all panels, use realistic anatomy and proportions, keep the white grid borders crisp, avoid illustration or anime style, avoid extra panels, avoid text, avoid futuristic or clean high-tech factory elements.
+```
+
+**来源：** [@タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm/status/2094232444090327199) | 2026-08-31
+
+---
+

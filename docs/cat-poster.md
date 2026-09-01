@@ -30434,3 +30434,348 @@ Create a premium surreal luxury hair-care advertising poster using my uploaded f
 
 ---
 
+### 🎴 例 7138：双重曝光女性电影海报
+
+![双重曝光女性电影海报](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E5%A5%B3%E6%80%A7%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直电影风格的双重曝光电影海报，主角为 {argument name="character name" default="一位美丽的年轻女性"}。构图包含同一位女性的两个形象：上方背景是一个充满画面的巨大面部特写，前景中心是一个正走向观众的全身形象。她拥有 {argument name="hair color" default="带有鲜艳紫色挑染的黑发"}，中分发型，细腻年轻的皮肤，以及直视前方的锐利榛褐色双眼。前景中的全身女性右手自信地指向观众，左手插在裤兜里，身穿五件清晰可见的服装：一件敞开的黑白格纹衬衫、一件纯白 T 恤、宽松的米白色工装裤、带有红色点缀的黑色运动鞋，并化着精致的自然妆容。在大面部周围，使用富有表现力的黑色墨迹飞溅、笔触、烟雾状水彩纹理和撕裂的油漆边缘，营造出戏剧性的图形光环。底部三分之一处渐变为带有雾气的深色常青森林剪影，增添惊悚氛围。使用柔和的米白色纹理纸张作为背景，结合高对比度的黑色油漆效果、写实的肖像渲染、忧郁的电影光影、清晰的面部细节和醒目的海报设计。在底部居中添加一行大号白色衬线大写字母标题，内容为 {argument name="movie title" default="电影标题"}。在标题区域右上方添加一个小型四角星形图标。保持海报简洁，不要包含额外的徽标、演职员表、水印或其他文字。
+
+[English]
+Create a vertical cinematic double-exposure movie poster featuring {argument name="character name" default="a beautiful young woman"}. The composition contains exactly two depictions of the same woman: one giant close-up face filling the upper background, and one full-body figure centered in the foreground walking toward the viewer. She has {argument name="hair color" default="black hair with vivid purple highlights"}, a center part, smooth youthful skin, and intense sharp hazel-brown eyes looking directly forward. The foreground full-body woman points one finger confidently toward the viewer with her right hand while her left hand rests in her pants pocket, wearing exactly five visible outfit pieces: an open black-and-white plaid overshirt, a plain white T-shirt, loose off-white cargo pants, black sneakers with red accents, and subtle natural makeup. Behind and around the large face, use expressive black ink splatters, brush strokes, smoky watercolor textures, and torn-paint edges to create a dramatic graphic halo. The bottom third fades into a dark misty evergreen forest silhouette with fog, adding thriller atmosphere. Use a muted off-white textured paper background, high-contrast black paint effects, realistic portrait rendering, moody cinematic lighting, crisp facial details, and a bold poster design. Add one centered title line at the bottom in large white serif capital letters reading {argument name="movie title" default="TITLE OF THE MOVIE"}. Include exactly one small four-point sparkle/star icon near the lower right above the title area. Keep the poster clean with no extra logos, credits, watermarks, or additional text.
+```
+
+**来源：** [@Mason AiX](https://x.com/MasonA7040/status/2094512801838768238) | 2026-08-31
+
+---
+
+### 🎴 例 7155：几何治愈系艺术海报
+
+![几何治愈系艺术海报](../images/%E5%87%A0%E4%BD%95%E6%B2%BB%E6%84%88%E7%B3%BB%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。 下半部分提取照片主体最具识别度的**主体、轮廓、结构、姿态与叙事关系**，只保留最值得记忆的核心形象与轮廓，重构为**几何化、扁平化**的艺术表达。不要采用写实插画，也不要复制原图细节，而是用简洁的几何形状、扁平色块、清晰轮廓、细线条与留白，将复杂信息压缩为少量关键视觉元素；必须保留原物最核心的识别特征，使人能够一眼认出它来自上方同一画面。 下半部分的构图应更专业，重视**版面秩序、视觉重心、主次层级、正负形关系、留白节奏与图文平衡**。主体可保持居中或略作偏移，但整体必须平衡、克制、安静，避免复杂堆积。背景使用米白色或与原图智能匹配的极浅色底，保留大面积留白，让主体像被提炼后的记忆标本安放在干净、理性的版面中。 配色从上方照片中提取最明亮、最鲜活、最有生命力的颜色重新整理，转化为更清透、柔和、治愈的**神文主义治愈系**配色气质。整体提高明度与色彩纯净度，以轻盈、干净、温暖的综合色关系建立氛围，色块鲜明但不刺眼，具有柔和、清新、安静又有生命力的视觉感受。避免灰脏、暗沉、发旧、厚重、荧光色和廉价糖果感。 文字可少量介入，加入简洁的标题、编号或微型注释，并与主体和留白形成自然的排版关系。文字整体应克制、精致、具有编辑感，像国际设计工作室、建筑海报、艺术展览海报或高端品牌视觉系统中的小型标注，不喧宾夺主，而是帮助建立更高级的图文秩序。 整体风格参考国际设计工作室、建筑海报、艺术展览海报及高端品牌视觉系统，呈现**高级、现代、雅致、克制、几何化、扁平化且治愈感强**的视觉效果。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果 and 无意义装饰。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094414873837146267) | 2026-08-31
+
+---
+
+### 🎴 例 7156：手绘涂鸦九宫格海报
+
+![手绘涂鸦九宫格海报](../images/%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E4%B9%9D%E5%AE%AB%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。下半部分提取照片中最具识别性的**主体、局部元素、动作线索、物件细节与叙事关系**，重构为一套 **3×3 模块化图标网格 + 手绘稚拙涂鸦插画 + 蜡笔/彩铅颗粒质感 + 手写文字** 的视觉系统。不要完整描摹原图，也不要做写实插画，而是将复杂信息压缩为 9 个最值得被记住的视觉单元：可以是主体本身、局部特征、随身物件、植物、食物、交通方式、姿态、情绪符号或场景中的小记忆点。每个单元都应来自上方同一画面的语义延伸，使人一眼感到它们属于同一张照片的“记忆清单”。构图采用**隐性的 3×3 松散网格**。九宫格只作为底层秩序，不必画得过于工整；每个图标的位置、大小、角度和落点都可轻微偏移，形成既有秩序又不机械的 **loose grid / organic grid** 感。顶部可加入一个简短手写标题，并配少量轻松的小波浪线、星点或符号；底部可加入一句极小的手写 caption，使整体像一页私人手帐、视觉日记或 collection sheet。留白必须充足，版面要松弛、可爱、克制而不凌乱。画风采用**Naïve Hand-drawn Doodle Illustration**：形体简洁、略带稚拙感，轮廓轻微抖动、粗细不均、不完全闭合，保留有意识的不完美。填色不要铺得太满，允许看到纸纹、白色颗粒和边缘毛糙感。可混合黑色细线轮廓、彩铅/蜡笔填色和少量局部色块，不依赖真实光影塑造，而以 flat color / spot color 的方式建立图形关系。网格辅助线若出现，应极淡，像铅笔轻轻打出的底稿，而不是电脑绘制的规则表格。配色采用**低饱和复古糖果色系**，整体以温暖米白粗纹纸为底，色彩保持柔和、轻快、亲切而高级。可从原图中提炼并转译为鼠尾草绿、薄荷绿、蜡笔蓝、钴蓝、奶油黄、灰粉、草莓粉、珊瑚橘红等综合色关系：通常以蓝绿为主色，黄粉作为物体填色，橘红仅用于极少量强调。整体控制为大面积米白背景、适量蓝绿主色、小面积黄粉辅助色与极少量橘红点睛，使画面丰富却不杂乱。加入一层少量**手绘批注式红色注释元素**，如圈圈、箭头、爱心、星芒、小叉号、波浪线或强调记号，使作品从普通图标页转化为更有编辑感和私人感的视觉日记。但这些注释必须少而准，只作为二次点睛，不可喧宾夺主。文字不限制固定内容与语种，应根据照片的主题、情绪、地点、动作或生活感，自由生成少量真正有意义的字词。标题与说明文字使用**轻小、松弛、略带书写停顿与字距漂移的手写字体**，让文字像自然写在纸上的随手记录，而不是商业排版标题。整体文字保持少量、细小、留白充足，与图标和注释形成自然的图文混排关系。整体呈现一种**稚拙、松弛、复古、治愈、轻快、亲切又有编辑设计感**的视觉气质，像一本被认真收藏的私人手帐、幸福清单或生活观察页。避免整洁矢量感、真实光影、复杂纹理、厚重阴影、过度工整的UI图标感、商业模板感和儿童卡通化。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094409213183410255) | 2026-08-31
+
+---
+
+### 🎴 例 7171：日式极简都市时尚大片
+
+![日式极简都市时尚大片](../images/%E6%97%A5%E5%BC%8F%E6%9E%81%E7%AE%80%E9%83%BD%E5%B8%82%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受两张参考图启发的高端时尚编辑风格大片，主角为一名 {argument name="model type" default="年轻东亚模特"}，在现代都市建筑环境中自然行走。捕捉其全身行走的抓拍姿态，单腿迈步，姿势放松，神情冷静且从容。服装风格为当代极简街头风：超大廓形的浅色系或深海军蓝上衣，内搭干净的白色衬衫，搭配宽松的及膝短裤或阔腿裤，穿着白色中筒袜、时髦的深色运动鞋，并背着一个紧凑的斜挎机能包；或者搭配渔夫帽和结构感十足的青色托特包作为第二种色彩点缀。采用强烈的图形构图，背景中包含大型 {argument name="background element" default="建筑金属百叶窗"} 或工业风立面，强调水平线条、强烈的阳光、柔和的阴影以及浅景深效果。加入超现实的时尚编辑处理手法，使模特行走的巨大单色剪影出现在主体身后，像巨大的阴影或海报剪纸一样自然地融入建筑中。使用精致的都市色调，包括灰烬色、橄榄色、板岩色、骨白色、海军蓝、靛蓝、青色以及微妙的暖色点缀。日式极简街头时尚，当代艺术指导，干净的留白，电影级日光，逼真的皮肤与织物纹理，高端杂志摄影，平衡的构图，细腻的胶片颗粒感，高对比度，超写实，照片级真实感，35mm 时尚摄影，8K 细节。若需添加排版，请保持极简的编辑风格，使用小巧、干净的无衬线字体融入建筑背景中。
+
+[English]
+Create a high-end editorial fashion campaign image inspired by the two reference images, featuring a {argument name="model type" default="young East Asian model"} walking naturally through a modern urban architectural environment. Capture a candid full-body walking pose with one leg extended mid-stride, relaxed posture, and a calm, effortless expression. Style the outfit as contemporary minimalist streetwear: an oversized neutral or deep navy top layered over a clean white inner shirt, relaxed knee-length shorts or wide trousers, white crew socks, sleek dark sneakers, and a compact crossbody utility bag; alternatively incorporate a bucket hat and a structured teal tote for a second color accent. Use strong graphic composition with a large {argument name="background element" default="architectural metal shutter"} or industrial façade in the background, horizontal lines, hard sunlight, soft shadows, and shallow depth of field. Add a surreal fashion-editorial treatment where a large monochrome silhouette of the walking model appears behind the subject, integrated naturally into the architecture like a giant shadow/poster cutout. Use a sophisticated urban palette of ash, olive, slate, bone, navy, indigo, teal and subtle warm accents. Minimalist Japanese-inspired street fashion, contemporary art direction, clean negative space, cinematic daylight, realistic skin and fabric texture, premium magazine photography, balanced composition, subtle film grain, high contrast, ultra-realistic, photorealistic, 35mm fashion photography, 8K detail. Keep the typography extremely minimal and editorial, if any, with small clean sans-serif text integrated into the architectural background.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2094350723815264738) | 2026-08-31
+
+---
+
+### 🎴 例 7172：厚涂微缩风格编辑艺术海报
+
+![厚涂微缩风格编辑艺术海报](../images/%E5%8E%9A%E6%B6%82%E5%BE%AE%E7%BC%A9%E9%A3%8E%E6%A0%BC%E7%BC%96%E8%BE%91%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端编辑艺术海报，采用严格的 3:4 竖构图，水平平分为两个 50% 的部分，中间采用无缝拼接或极细的分割线。
+
+上方 — {argument name="reference content" default="原始照片"}
+
+精确保留照片内容：身份、面部、服装、比例、姿势、表情以及主体间的关系必须保持不变。仅应用温暖的艺术电影级调色，具备柔和的对比度、提升的阴影、温暖的高光、自然生动的色彩以及细腻的颗粒感。如有需要可自然延伸背景，但不得扭曲主体。鼓励保留充足的环境空间。
+
+下方 — {argument name="painting style" default="厚涂微缩世界"}
+
+将同一场景重构为充满诗意的微缩模型，使用纯白纹理纸上的极厚油画颜料（Impasto）绘制。保持主体可辨识，但将其处理为微小的手办状，保留其姿势、服装颜色及关键特征。
+
+绘画部分应占据下半部分的 60%–75%，周围留出充足的白色负空间。使用有机、不规则、羽化边缘的笔触，切勿使用矩形边框。
+
+根据需要加入雕塑感的调色刀云彩、反光水面或自然小径、小花、草地、植被、岩石、飞鸟、远景及氛围光。环境可以变得更加田园诗意和梦幻。
+
+使颜料厚重、具有触感、立体感，呈现可见的画笔和调色刀痕迹、颜料脊、拖拽纹理、微小阴影以及细腻的半透明釉层。保持纸张纹理清晰可见。
+
+排版
+
+仅在留白处放置优雅的排版：一个 {argument name="title style" default="大型手写书法标题"}、一个简短的诗意副标题以及一个小型参考编号。使用精致的橄榄绿、暖灰或柔和的蓝灰色调。保持排版低调内敛。
+
+色彩与氛围
+
+使用受照片启发的生动自然色彩：天蓝、湖蓝、绿色、暖黄、珊瑚色、樱桃红、桃色、奶油色和暖白色。整体感觉应阳光、清新、温暖、愉悦、放松且梦幻。
+
+避免：暗淡或浑浊的色彩、棕褐色、深棕色滤镜、荧光色调、扁平数字艺术、平滑的喷枪效果、塑料感 3D 渲染、硬边框、通用字体、覆盖在主体上的文字以及扭曲的人物。
+
+[English]
+Create a high-end editorial art poster in strict 3:4 vertical format, divided horizontally into two equal 50% halves, with either a seamless join or a very thin divider.
+
+TOP — {argument name="reference content" default="ORIGINAL PHOTO"}
+
+Preserve the photograph exactly: identity, faces, clothing, proportions, poses, expressions, and subject relationships must remain unchanged. Apply only a warm fine-art film grade with soft contrast, lifted shadows, warm highlights, natural vivid color, and subtle grain. Extend the background naturally if needed, without distorting subjects. Generous environmental space is encouraged.
+
+BOTTOM — {argument name="painting style" default="IMPASTO MINIATURE WORLD"}
+
+Reimagine the same scene as a poetic miniature diorama made from extremely thick impasto oil paint on pure white textured paper. Keep subjects recognizable but make them tiny, figurine-like, preserving their poses, clothing colors, and key features.
+
+The painted world should occupy 60–75% of the lower half, surrounded by generous white negative space. Use organic, irregular, feathered paint edges, never a rectangular frame.
+
+Include sculptural palette-knife clouds, reflective water or a natural path, small flowers, grass, foliage, rocks, birds, distant scenery, and atmospheric light where appropriate. The environment may become slightly more idyllic and dreamlike.
+
+Make the paint thick, tactile, raised, and three-dimensional, with visible brush and palette-knife marks, paint ridges, drag textures, tiny shadows, and subtle translucent glazes. Keep the paper grain clearly visible.
+
+TYPOGRAPHY
+
+Place elegant typography only in the white space: a {argument name="title style" default="large handwritten calligraphy title"}, a short poetic subtitle, and a small reference number. Use refined olive green, warm gray, or soft blue-gray tones. Keep typography understated.
+
+COLOR & MOOD
+
+Use vivid, natural colors inspired by the photograph: sky blue, lake blue, green, warm yellow, coral, cherry red, peach, cream, and warm white. The overall feeling should be sunny, fresh, warm, joyful, relaxed, and dreamlike.
+
+Avoid: muted or muddy colors, sepia, dark-brown filters, fluorescent tones, flat digital art, smooth airbrush effects, plastic 3D rendering, hard borders, generic fonts, text over subjects, and distorted figures.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2094347150251655199) | 2026-08-31
+
+---
+
+### 🎴 例 7179：超现实主义 Nike 广告海报
+
+![超现实主义 Nike 广告海报](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%20Nike%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款为 {argument name="brand" default="Nike"} 设计的高定超现实主义广告海报。场景为极简主义单色冷灰色摄影棚，配有半反射地面。一只巨大的白色 {argument name="product" default="Nike 运动鞋"} 对角放置，悬浮于地面上方。一名身着 {argument name="outfit" default="全白运动机能风套装"} 的男性模特正向后倚靠在漂浮的鞋子上进行拉伸，一条腿伸展，脚穿标准款 Nike 运动鞋。
+
+背景中，巨大的粗体“NIKE”无衬线压缩字体被鞋子和模特部分遮挡。
+
+底部居中标语：“{argument name="tagline" default="为律动而生，成就每一个版本的你。"}”
+
+柔和的定向照明，细腻的阴影，高端运动服饰编辑审美。
+长宽比：3:4
+
+[English]
+A high-fashion surrealist advertising poster for {argument name="brand" default="Nike"}. A minimalist monochrome cool grey studio with a semi-reflective floor. A giant white {argument name="product" default="Nike sneaker"} is positioned diagonally, suspended slightly above the ground. A male model in an {argument name="outfit" default="all-white athletic techwear outfit"} leans back against the floating shoe mid-stretch, one leg extended, wearing standard Nike sneakers.
+
+In the background, massive bold “NIKE” typography in condensed sans-serif is partially obscured by the shoe and model.
+
+Bottom center tagline: “{argument name="tagline" default="Engineered for motion. Built for every version of you."}"
+
+Soft directional lighting, subtle shadows, premium sportswear editorial aesthetic.
+Aspect ratio: 3:4
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094309678042034374) | 2026-08-31
+
+---
+
+### 🎴 例 7183：Ivory Bloom 高端时尚海报
+
+![Ivory Bloom 高端时尚海报](../images/Ivory%20Bloom%20%E9%AB%98%E7%AB%AF%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戛纳电影节水准的奢华时尚广告海报，品牌为“{argument name="brand name" default="IVORY BLOOM"}”。采用 100% 实拍超写实编辑摄影风格。保持构图的精确逻辑：竖版海报，一位成年女性模特位于画面中央，进行柔和的特写肖像拍摄，头部微倾并转向一侧，表情平静且具有疏离的编辑感，身着 {argument name="outfit" default="高领象牙白礼服"}，头部一侧配有一朵 {argument name="floral element" default="巨大的白色牡丹"} 作为关键的视觉平衡点。整张图片以干净的暖奶油色为背景，无任何环境杂物。最终图像需呈现出可收藏的高级时尚杂志封面质感：诗意、贵族气息、柔和、电影感且令人难忘。
+
+风格锁定：超写实奢华时尚肖像摄影、柔和复古编辑写实风格、高端定制美妆广告、干净的艺术摄影棚背景、无插画、无 CGI 感、无塑料感皮肤、无过度修饰的美颜滤镜效果。
+
+[English]
+Create a Cannes-level luxury fashion advertising poster for an original couture house named "{argument name="brand name" default="IVORY BLOOM"}". Use 100% live-action ultra-realistic editorial photography. Preserve the exact structural logic of the composition: a tall vertical poster, one adult female model in a soft close-up portrait placed centrally, her head slightly tilted and turned with a calm distant editorial expression, wearing a {argument name="outfit" default="high-neck ivory dress"}, and a {argument name="floral element" default="single oversized white peony"} blooming beside one side of her head as the key visual counterbalance. Set the entire image against a clean warm butter-cream background with no environmental clutter. The final image must feel like a collectible high-fashion magazine cover: poetic, aristocratic, soft, cinematic, and unforgettable.
+
+Style lock: ultra-real luxury fashion portrait photography, soft vintage editorial realism, prestige couture beauty campaign, clean studio-art background, no illustration, no CGI look, no plastic skin, no over-retouched beauty-filter effect.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094308377212117039) | 2026-08-31
+
+---
+
+### 🎴 例 7184：概念性编辑海报设计框架
+
+![概念性编辑海报设计框架](../images/%E6%A6%82%E5%BF%B5%E6%80%A7%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1%E6%A1%86%E6%9E%B6.jpg)
+
+**Prompt:**
+
+```text
+生成一张具有成熟 Editorial Design 与展览视觉质感的左右构图海报。
+
+不要简单把画面切成左右两栏，而是让左右两个视觉区域表达同一个主题的不同状态，并让“中间边界”成为变化真正发生的位置。
+
+左右区域采用不等比例布局，根据主体重量使用 40:60、45:55、55:45 等关系，不要机械 50:50。左侧负责建立起点或原始状态，右侧负责展示变化后的结果，例如：
+正面作品 → 背后的结构与制作路径；
+设计草图 → 建成后的真实空间；
+声源主体 → 向外扩散的振动与声场；
+真实实体 → 纸面上的拓印、痕迹或图像。
+
+最重要的是中轴转译。不要用明显竖线分隔，而要选择一个核心元素穿过左右区域，并在跨越中轴时连续发生变化.
+
+例如：花瓣逐渐化成针脚和丝线；建筑线稿逐渐变成真实墙面；器物震动逐渐扩散成声纹；石刻浮雕逐渐压平成为黑墨拓印。
+
+这种变化必须连续、自然，让观众一眼理解左右两边存在因果、过程或转译关系，而不是两张无关图片拼在一起。
+
+Typography 也参与左右关系，但所有文字必须属于作品本身。使用真正的作品标题、副标题、短句和展览信息，不出现“左右构图”“设计案例”“视觉研究”等模板占位文字。
+
+图像较重的一侧减少信息，较空的一侧可以承担更多标题与文字，通过字体大小、密度和位置完成视觉配重。
+
+色彩控制在 2–4 个主要色系。左右可以有明显明暗、冷暖或材质差异，但至少保留一种颜色、纹理或视觉元素跨越中轴，保证整张作品统一。
+
+最终阅读顺序：第一眼看到左右两种明显不同的视觉状态；第二眼发现中轴处正在发生连接和变化；第三眼理解“左边为什么会变成右边”；最后再阅读标题与作品信息。
+
+整体要求：两个视觉域各有作用，中间有明确转译过程，左右不平均但视觉平衡，既有内容逻辑，也有成熟作品感。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094308079949291633) | 2026-08-31
+
+---
+
+### 🎴 例 7186：多层设计海报转换
+
+![多层设计海报转换](../images/%E5%A4%9A%E5%B1%82%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+请在当前层将上传照片中的同一场景制作成高级设计海报，不多图拼接，每张照片单独输出。
+这里的“不多图拼接”是指：不要把不同上传照片混在同一张成品里；每一张上传照片都必须单独生成一张完整的四层风格海报。
+
+【整体画幅与四层结构】
+整体采用3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确占整体画面高度的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。四层之间无缝衔接，不设置分隔线，不留白色缝隙，不使用边框。
+
+由于每层实际约为3:1的极扁横幅，主体需要在每层内部进行横向适配：保持主体主要位置与视觉重心稳定，优先横向展开，避免主体被纵向拉伸、压扁、贴边或裁掉关键部位。可在左右延展与原图一致的天空、墙面、地面、水面、纸张或环境留白，但不得使用模糊复制背景填充。
+
+【四层共同一致性】
+四层必须来自同一张上传照片、同一个瞬间。严格保持主体身份、主体数量、人物或动物面貌、姿态、动作方向、视线、发型、服装核心特征、建筑结构、地标身份、主要物体关系、观察角度、透视方向、左右位置、前后层级及叙事关系一致。
+风格层允许根据各自媒介删除次要背景、减少纹理、改变材质和细节密度，但不能把主体替换成另一个人物、另一座建筑、另一辆车、另一只动物或另一个场景。
+
+【第一层｜原始摄影】
+第一层忠实保留上传照片的真实摄影质感。保留主体身份、数量、构图关系、姿态、动作、真实材质、自然光影、综合色温和场景氛围。只允许进行克制的高级摄影级调色、曝光与对比微调以及极轻微的细腻颗粒优化。
+为适配当前约3:1横幅，可进行自然裁切或延展与原场景一致的环境边缘，但不得拉伸、扭曲、镜像、复制主体、移动关键物体、改变建筑结构或重新设计人物。
+第一层不添加额外文字、品牌标志、边框、水印或装饰元素。
+
+【第2层｜七十年代动画感黑白墨线画｜当前层适配规则】
+本层只占整张3:4四拼海报高度的25%，实际为约3:1的极扁横向区域。以下风格说明全部在“当前层内部”执行。
+任何源提示词中出现的独立海报、整张画面、竖版比例、单独输出等表述，均不得改变四拼总结构；当前层约3:1扁横幅比例为最高优先级。
+不得在当前层内部再次生成原图对照区、第二张照片、上下分屏或额外多宫格。源提示词中若存在重新构图要求，只允许对背景信息、材质、留白和次要元素做提炼，不得改变主体身份、数量、关键姿态、动作方向、观察视角、主要透视、左右位置及核心空间关系。
+文字若为该源风格的重要组成部分则保留，但必须缩减到当前层能够清楚阅读的最低必要数量；若源提示词明确要求无文字，则保持无文字。
+
+【源风格完整转译说明】
+创作一幅{argument name="主体" default="[主体]"}的黑白…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2094300088155980268) | 2026-08-31
+
+---
+
+### 🎴 例 7188：旅行实地笔记收藏海报
+
+![旅行实地笔记收藏海报](../images/%E6%97%85%E8%A1%8C%E5%AE%9E%E5%9C%B0%E7%AC%94%E8%AE%B0%E6%94%B6%E8%97%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为每张上传的照片分别创建一张 {argument name="aspect ratio" default="4:3 横向"} 海报，每张输出对应一张照片，禁止拼贴。{argument name="layout" default="左侧 58%"}：忠实保留原始照片，包括主体特征、建筑、地形、人物、植物、构图、光影、纹理和自然色彩。仅进行细微的编辑级调色和添加精细的胶片颗粒。禁止变形、重绘、替换或位移。右侧 42%：温暖的米白色旧纸张，带有细微纤维、纹理、哑光质感、轻微磨损和充足的留白。无可见分割线。分析照片并创建一个小型多色橡皮图章，仅使用最具辨识度的地点元素——如建筑、山脉、道路、海岸线、树木、天际线等。去除人群、车辆、重复细节和杂物。将图章放置在右侧中下部，高度仅占该区域的 30%–38%。使用 2–4 种受照片启发的柔和专色油墨。使每一层看起来都像是真实手工盖印的，带有雕刻纹理、不均匀的压力、干墨、纸张透色、边缘破损、颗粒感油墨以及 1–2 毫米的细微错位。避免使用平滑的矢量图形或完整的风景插画。添加小型打字机风格的实地笔记文字：地点 {argument name="name language" default="英文"} 名称。编号。3 个简短的英文关键词。公历年份。日期：[请在此处输入日期]。保持排版克制、准确且略带不完美感。风格：安静、有质感、写实，由建筑师/旅行作家创作的旅行实地笔记。避免：明显的分割线、圆形印章、邮票齿孔、火漆印、贴纸拼贴、旅游模板、Logo、卡通/3D 风格、光泽渐变、过度饱和、文字过多、杂乱无章，或对原始照片进行任何修改。
+
+[English]
+Create a separate {argument name="aspect ratio" default="4:3 landscape poster"} for each uploaded photo, one photo per output, no collage.
+
+Left 58%: Preserve the original photo faithfully,subject identity, architecture, terrain, people, plants, composition, lighting, shadows, textures, and natural colors. Only subtle editorial color grading and fine film grain. No distortion, redrawing, replacement, or shifting.
+
+Right 42%: Warm off-white aged paper with subtle fibers, grain, matte texture, light wear, and generous blank whitespace. No visible dividing line.
+
+Analyze the photo and create a small multi-color rubber stamp using only the most recognizable location elements—architecture, mountains, roads, shoreline, trees, skyline, etc. Remove crowds, vehicles, repetitive details, and clutter. Place the stamp in the lower-middle of the right side, using only {argument name="stamp height" default="30–38%"} of its height.
+
+Use 2–4 muted spot inks inspired by the photo. Make each layer look genuinely hand-stamped with carved texture, uneven pressure, dry ink, paper show-through, fractured edges, granular ink, and subtle 1–2 mm misregistration. Avoid smooth vector graphics or full landscape illustrations.
+
+Add small typewriter-style field-note text:
+
+{argument name="location" default="Location English name"}
+
+No. Number
+
+3 short English keywords
+
+Gregorian year
+
+Date: {argument name="date" default="[Enter date here]"}
+
+Keep typography restrained, accurate, and slightly imperfect.
+
+Style: quiet, tactile, realistic, collectible travel field notes by an architect/travel writer.
+
+Avoid: obvious divider lines, circular seals, postage perforations, wax seals, sticker collages, tourist templates, logos, cartoon/3D styles, glossy gradients, oversaturation, excessive text, clutter, or altering the original photo.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2094291717503795452) | 2026-08-31
+
+---
+
+### 🎴 例 7196：明亮新中式壁纸
+
+![明亮新中式壁纸](../images/%E6%98%8E%E4%BA%AE%E6%96%B0%E4%B8%AD%E5%BC%8F%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：明亮新中式型
+主体内容：{argument name="主体" default="一位古风女子站在白墙竹影旁，手扶一扇半开的木门"}
+情绪母题：清醒、温暖、轻松东方感
+场景与意象：白墙、青竹影、橘子橙圆形日光、木门、女子
+构图与空间：人物位于下方偏右，白墙占据大面积背景，橘色圆形日光位于上方偏左，形成标题区和主视觉平衡
+色彩控制：{argument name="背景色" default="暖白墙面"}作为高明度基底，青竹绿用于竹影和少量植物，{argument name="点缀色" default="橘子橙"}只用于圆形日光和局部暖色反光，木门用浅原木色；避免整图橙绿过满
+光线与质感：明亮午后日光，清晰投影，干净平面海报感
+画幅比例：9:16 
+补充要求：整体要明快温暖，有小红书新中式封面感，不要厚重古风和灰调水墨
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2094268600379212237) | 2026-08-31
+
+---
+
+### 🎴 例 7197：个性化故事书传记海报
+
+![个性化故事书传记海报](../images/%E4%B8%AA%E6%80%A7%E5%8C%96%E6%95%85%E4%BA%8B%E4%B9%A6%E4%BC%A0%E8%AE%B0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张迷人且细节丰富、充满奇思妙想的故事书风格肖像，主角为 {argument name="person" default="一位女性"}，设计成一张精致的收藏级插画艺术海报。让主体成为绝对的视觉中心，以自然、温暖且富有表现力的姿态呈现，捕捉其个性和魅力。在将其转化为精美的手绘插画风格时，保留其可辨认的面部特征、发型、整体外貌和独特标志。在人物周围构建一个神奇的微缩世界，代表他们的个性、生活方式、热情、梦想和心爱之物。在他们周围构建一个微小的插画环境，包含有意义的物品和细节，例如：{argument name="hobby" default="摄影"}、[最喜欢的食物]、{argument name="pet" default="一只白猫"}、[最喜欢的花]、[旅行目的地]、[最喜欢的物品]、[职业/热情]、[音乐/书籍/艺术兴趣] 以及 [个人符号]。将这些物品转化为微小而迷人的故事书元素——微型咖啡馆、书籍、花卉、植物、自行车、相机、手提包、旅行纪念品、小桌子、手写便条、微型房屋、装饰品以及其他讲述个人故事的细节。使用精致且带有不完美感的黑色墨水轮廓，结合柔和的水彩晕染。艺术作品应具有随性的手绘线条、微妙的铅笔痕迹、柔和的水彩渗色、可见的笔触纹理、细微的瑕疵以及真实的纹理档案纸质感。使用梦幻般的柔和色调，包括暖象牙色、粉蓝色、灰桃色、腮红粉、柔鼠尾草绿、奶油黄和柔和的珊瑚色，并点缀少量精心挑选的鲜艳色彩。增加美丽的景深：前景中柔焦的花卉和微缩物品，中景中清晰突出的主体，以及充满微小个人细节的梦幻插画背景。在人物周围加入漂浮或巧妙融合的小巧奇幻元素——蝴蝶、鸟类、花朵、手写标签、小星星、明信片、小爱心或与他们个性相关的微缩物品。光线应柔和、明亮、温暖且自然，营造出一种温和的怀旧氛围。最终图像应呈现出神奇的插画传记感——既像复古旅行海报，又像儿童故事书，还带有奢华编辑肖像的质感。手绘水彩与墨水，精致的黑色素描线条，真实的纸张纹理，柔和的色彩，奇幻的微缩世界，情感叙事，优雅、怀旧、精致、高度细节化、手工制作的美学。竖向 9:16 构图
+
+[English]
+Create a charming, highly detailed whimsical storybook portrait of {argument name="person" default="a woman"}, designed as a sophisticated collectible illustrated art poster. Make the subject the unmistakable central focal point, portrayed in a natural, warm, expressive pose that captures their personality and charm. Preserve their recognizable facial features, hairstyle, overall appearance, and distinctive characteristics while translating them into a beautiful hand-painted illustrated style. Surround the person with a magical miniature world representing their personality, lifestyle, passions, dreams, and favorite things. Build a tiny illustrated environment around them containing meaningful objects and details such as: {argument name="hobby" default="photography"}, [FAVORITE FOOD], {argument name="pet" default="a white cat"}, [FAVORITE FLOWER], [TRAVEL DESTINATION], [FAVORITE OBJECT], [CAREER / PASSION], [MUSIC / BOOK / ART INTEREST], and [PERSONAL SYMBOL]. Turn these objects into tiny charming storybook elements — miniature cafés, books, flowers, plants, bicycles, cameras, handbags, travel souvenirs, little tables, handwritten notes, tiny houses, decorative objects, and other details that tell the person's story. Use delicate imperfect black ink outlines combined with soft watercolor washes. The artwork should have loose hand-drawn linework, subtle pencil marks, gentle watercolor bleeding, visible brush texture, tiny imperfections, and authentic textured archival paper grain. Use a dreamy pastel palette of warm ivory, powder blue, dusty peach, blush pink, soft sage green, buttery yellow, and muted coral, with a few carefully chosen vibrant accents. Add beautiful depth: softly blurred flowers and miniature objects in the foreground, the person sharply emphasized in the middle, and a dreamy illustrated background filled with tiny personal details. Include small whimsical elements floating or subtly integrated around the person — butterflies, birds, flowers, handwritten labels, tiny stars, postcards, little hearts, or miniature objects connected to their personality. Lighting should be soft, luminous, warm, and natural, creating a gentle nostalgic atmosphere. The final image should feel like a magical illustrated biography — part vintage travel poster, part children's storybook, part luxury editorial portrait. Hand-painted watercolor and ink, delicate black sketch lines, tactile paper texture, pastel colors, whimsical miniature world, emotional storytelling, elegant, nostalgic, sophisticated, highly detailed, handcrafted aesthetic. Vertical 9:16 composition
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2094268337878626803) | 2026-08-31
+
+---
+

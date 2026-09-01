@@ -3995,3 +3995,275 @@ Create a nostalgic editorial photo-to-sketch artbook page based on the reference
 
 ---
 
+### 🔧 例 7161：复古编辑风格身份转换
+
+![复古编辑风格身份转换](../images/%E5%A4%8D%E5%8F%A4%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E8%BA%AB%E4%BB%BD%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的照片作为该人物的唯一身份参考。
+
+将参考照片中的人物转换为高度精细、具有高级感的风格化插画肖像，并与目标艺术作品的视觉风格保持一致。
+
+重要提示 — 身份：
+请保留上传参考照片中人物可辨识的面部特征：
+脸型、眼睛、眉毛、鼻子、嘴唇、肤色、面部比例以及整体相似度。
+最终结果必须清晰地呈现出上传参考照片中的人物形象。
+
+艺术风格：
+创作一幅精致的复古编辑风格插画，呈现出复杂的手绘雕刻 / 漫画 / 蚀刻美学。
+
+使用：
+- 极其精细的黑色墨水线条
+- 精细的交叉排线和点画
+- 雕刻插画纹理
+- 精心分层的彩色墨水阴影
+- {argument name="hair color" default="浓郁的铜色/红色"} 发色调
+- 华丽的装饰细节
+- 优雅的复古海报艺术风格
+- 高度精细的面部渲染
+- 艺术化但可辨识的面部特征
+
+肖像：
+创作一幅以人物胸部/肩部以上为主的居中特写肖像。
+
+赋予角色自信、冷静且精致的表情。
+
+添加 {argument name="eyewear" default="超大圆形太阳镜"}，配以华丽的金色镜框和鲜艳的洋红色/粉色镜片，以匹配参考艺术作品的独特外观。
+
+头发应通过精美的线条和装饰性的雕刻曲线进行描绘，同时仍需基于上传参考人物的发型和外观。
+
+服装：
+为角色穿上 {argument name="clothing style" default="精致华丽的复古服装"}，采用浓郁的蓝绿色、深洋红色、蓝色和金色的装饰性刺绣，以及复杂的植物花卉图案、金银丝细工和珠宝般的装饰细节。
+
+背景：
+使用深黑色/深炭灰色的装饰性锦缎背景，填充以微妙的黑色、灰色和柔和金色调的复杂漩涡花卉及装饰图案。
+
+构图：
+对称的居中肖像。
+头部和肩部占据画面主体。
+强烈的图形海报构图。
+高度精细的艺术作品贯穿整张图像。
+不要添加小的参考照片插图。
+
+文字：
+在背景上方添加人物的全名，使用非常醒目的粗体大写字母，部分置于头部后方。
+
+姓名必须自动基于所提供的人物/参考资料。
+如果无法确定人物姓名，请保持姓名区域空白，不要编造姓名。
+
+请勿添加无关的文字、Logo、水印或随机文本。
+
+最终效果：
+最终图像应看起来像一张专业设计的奢华复古插画海报 — 而非照片，也不是简单的卡通画。
+
+它应将上传参考照片中可辨识的面部特征与所提供示例的精确视觉语言相结合：
+华丽的复古雕刻、多彩的墨水插画、戏剧性的超大太阳镜、精致的服装，以及
+
+[English]
+Use the uploaded photo as the ONLY identity reference for the person.
+
+Transform the person in the reference photo into a highly detailed, premium stylized illustrated portrait matching the visual style of the target artwork.
+
+IMPORTANT — IDENTITY:
+Preserve the person’s recognizable facial identity from the uploaded reference photo:
+face shape, eyes, eyebrows, nose, lips, skin tone, facial proportions, and overall likeness.
+The result must clearly resemble the person in the uploaded reference.
+
+ART STYLE:
+Create a sophisticated vintage editorial illustration with an intricate hand-drawn engraved / comic-book / etching aesthetic.
+
+Use:
+- extremely detailed black ink linework
+- fine cross-hatching and stippling
+- engraved illustration textures
+- carefully layered colored-ink shading
+- {argument name="hair color" default="rich copper/red"} tones in the hair
+- ornate decorative details
+- elegant vintage poster artwork
+- highly detailed facial rendering
+- artistic but recognizable facial features
+
+PORTRAIT:
+Create a centered close-up portrait of the person from approximately the chest/shoulders upward.
+
+Give the character a confident, calm, sophisticated expression.
+
+Add {argument name="eyewear" default="oversized round sunglasses"} with ornate gold frames and vivid magenta/pink lenses, matching the reference artwork’s distinctive look.
+
+Hair should be beautifully illustrated with detailed flowing strands and decorative engraved curves, while still being based on the hairstyle and appearance of the uploaded reference person.
+
+CLOTHING:
+Dress the character in an {argument name="clothing style" default="elaborate ornate vintage garment"} with rich teal, deep magenta, blue and gold decorative embroidery, intricate floral motifs, filigree patterns, and jewel-like ornamental details.
+
+BACKGROUND:
+Use a dark black/dark charcoal decorative damask background filled with intricate swirling floral and ornamental patterns in subtle black, gray and muted gold tones.
+
+COMPOSITION:
+Symmetrical centered portrait.
+Head and shoulders dominate the frame.
+Strong graphic poster composition.
+Highly detailed artwork extending throughout the entire image.
+No small reference-photo inset.
+
+TEXT:
+Add the person’s full name in very large bold uppercase typography across the upper background, partially positioned behind the head.
+
+The name must be automatically based on the person/reference provided.
+If the person’s name cannot be determined, leave the name area clean rather than inventing a name.
+
+Do NOT add unrelated words, logos, watermarks, or random text.
+
+FINAL LOOK:
+The final image should look like a professionally designed luxury vintage illustrated poster — NOT a photograph and NOT a simple cartoon.
+
+It should combine recognizable facial identity from the uploaded reference photo with the exact overall visual language of the provided example:
+ornate vintage engraving, colorful ink illustration, dramatic oversized sunglasses, elaborate clothing, d
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2094380460021539085) | 2026-08-31
+
+---
+
+### 🔧 例 7168：复古混合媒介记忆卡
+
+![复古混合媒介记忆卡](../images/%E5%A4%8D%E5%8F%A4%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%AE%B0%E5%BF%86%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+把上传的照片转成一张竖版 4:5 混合媒介记忆卡，上下严格 50/50 对分。上半部分：原照片完全不动，主体、构图、光线、色彩和细节全部保留，只加一层细微的胶片颗粒。下半部分：{argument name="材质" default="暖白色手工纸"}，能看到明显纤维，上面有一块从照片取色的柔和不规则色斑。只把主体重画成{argument name="绘图风格" default="极简深色蜡笔速写"}，线条松散、不追求完美，带一点 Risograph 印刷颗粒感。再写一句{argument name="文字" default="简短的手写英文短句"}，贴合照片的情绪。风格：安静、怀旧、莫兰迪色调、有触感、优雅、留白充足。避免：多余元素、杂乱、边框、贴纸、logo、光泽效果、卡通或矢量风，以及任何对原照片的改动。
+```
+
+**来源：** [@暖暖爱AI](https://x.com/nuannuan_share/status/2094355023073513501) | 2026-08-31
+
+---
+
+### 🔧 例 7193：混合媒介记忆卡片转换
+
+![混合媒介记忆卡片转换](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%AE%B0%E5%BF%86%E5%8D%A1%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为垂直 4:5 的混合媒介记忆卡片，严格采用 50/50 分割布局。上方：完整保留原始照片，保持原有的主体、构图、光影、色彩和细节，仅添加细微的胶片颗粒感。下方：使用带有可见纤维纹理的暖白色手工纸，并根据照片色调添加柔和且不规则的色块。仅将主体重新绘制为极简的深色蜡笔素描，线条松散且不完美，并带有细微的孔版印刷（Risograph）颗粒感。添加 {argument name="handwritten phrase" default="一句简短的手写英文短语"} 以契合整体氛围。风格：静谧、怀旧、莫兰迪色系、质感丰富、优雅且留白充裕。避免：添加额外元素、杂乱的背景、边框、贴纸、Logo、光泽效果、卡通/矢量风格，或对原始照片进行任何修改。
+
+[English]
+Transform the uploaded photo into a vertical {argument name="layout" default="4:5 mixed-media memory card"} with a strict 50/50 split.
+
+Top: Keep the original photo completely unchanged,same subject, composition, lighting, colors, and details. Only subtle film grain.
+
+Bottom: {argument name="paper style" default="Warm off-white handmade paper"} with visible fibers and a muted irregular color patch inspired by the photo. Redraw only the main subject as a {argument name="drawing style" default="minimal dark wax-crayon sketch"}, using loose imperfect lines and subtle Risograph grain. Add one short handwritten English phrase matching the mood.
+
+Style: quiet, nostalgic, Morandi-inspired, tactile, elegant, generous negative space.
+
+Avoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.
+```
+
+**来源：** [@Aniya Intelligence](https://x.com/aniyaintel/status/2094281550246662574) | 2026-08-31
+
+---
+
+### 🔧 例 7207：单色铅笔与炭笔素描
+
+![单色铅笔与炭笔素描](../images/%E5%8D%95%E8%89%B2%E9%93%85%E7%AC%94%E4%B8%8E%E7%82%AD%E7%AC%94%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的照片作为此人身份的唯一参考。
+
+将此人转换为 {argument name="artistic style" default="高端黑白艺术肖像"}：舒适地坐着，{argument name="action" default="阅读一本打开的书"}，同时一手拿着 {argument name="object" default="小咖啡杯"}。
+
+保留身份：
+忠实于上传的参考照片，保持此人可辨认的面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、皮肤特征、发型、发质以及整体相貌。
+
+姿势：
+人物以放松、优雅的姿势坐着，自然地低头看着打开的书进行阅读。一只手轻轻拿着陶瓷咖啡杯，另一只手放在书上或支撑着打开的书。姿势应显得自然、安静且不刻意。
+
+服装：
+在适当的情况下保留参考照片中的服装，呈现真实的织物纹理和自然的褶皱。保持整体外观精致且低调。
+
+艺术风格：
+将整个场景转换为详细的单色铅笔和炭笔素描，并结合写实的编辑肖像摄影风格。使用极细的石墨铅笔线条、精致的交叉排线、逼真的炭笔阴影、细腻的纸张纹理、微妙的墨水笔触、手绘边缘以及柔和的色调过渡。
+
+烟雾效果：
+用优美流动的炭笔烟雾、石墨粉尘、细微的素描颗粒和墨线环绕人物。烟雾应自然地从头发、肩膀、手臂、衣服、书本和下半身周围浮现，并平滑地融入白色背景中。
+
+咖啡杯：
+人物手中必须清晰可见一个陶瓷咖啡杯，并用逼真的铅笔和炭笔阴影进行完整渲染。
+
+书本：
+打开的书必须清晰可见且细节丰富，具有逼真的页面和微妙的手写纹理。不要在页面上添加可读的文字或标志。
+
+背景：
+干净的白色或暖白色纹理纸背景。极简主义构图，人物从周围的烟雾素描艺术中浮现。
+
+颜色：
+严格使用黑白和柔和的单色灰色。无任何色彩。
+
+光影：
+柔和的电影感肖像光影转换为单色调，具有细腻的面部高光和自然的阴影。
+
+质量：
+超精细、解剖结构正确、高度精细的发丝、逼真的手部和手指、细节丰富的服装、逼真的陶瓷杯和书本，专业画廊级的铅笔和炭笔素描。
+
+构图：
+居中肖像，完整展示人物、咖啡杯和书本。头部、头发、手、杯子、书本和身体均在画面内。在烟雾艺术边缘周围留出充足的干净留白。
+
+重要提示：
+上传的图像仅供身份参考。请保留人物的身份和相貌。请勿更换人脸。
+
+[English]
+Use the uploaded photo as the sole identity reference for this person.
+
+Transform this person into a high-end black-and-white artistic portrait: {argument name="pose" default="comfortably seated, reading an open book while holding a small coffee cup in one hand"}.
+
+PRESERVE IDENTITY:
+Maintain this person's recognizable facial structure, eyes, eyebrows, nose, lips, jawline, skin features, hairstyle, hair texture, and overall likeness faithfully to the uploaded reference photo.
+
+POSE:
+The person is seated in a relaxed, elegant posture, looking down naturally at an open book while reading. One hand gently holds a ceramic coffee cup, while the other hand rests on or supports the open book. The pose should feel organic, quiet, and unposed.
+
+CLOTHING:
+Preserve the outfit from the reference photo where appropriate, with authentic fabric texture and natural folds. Keep the overall look refined and understated.
+
+ARTISTIC STYLE:
+Transform the entire scene into a {argument name="style" default="detailed monochromatic pencil and charcoal sketch combined with realistic editorial portrait photography"}. Use extremely fine graphite pencil lines, delicate cross-hatching, realistic charcoal shading, fine paper texture, subtle ink strokes, hand-drawn edges, and soft tonal transitions.
+
+SMOKE EFFECT:
+Surround the person with beautifully flowing charcoal smoke, graphite dust, fine sketch particles, and ink lines. The smoke should emerge naturally around the hair, shoulders, arms, clothing, book, and lower body, fading smoothly into the white background.
+
+COFFEE CUP:
+A ceramic coffee cup must be clearly visible in the person's hand, fully rendered with realistic pencil and charcoal shading.
+
+BOOK:
+The open book must be clearly visible and detailed, with realistic pages and a subtle handwritten texture. Do not add readable text or logos to the pages.
+
+BACKGROUND:
+{argument name="background" default="Clean white or warm off-white textured paper background"}. Minimalist composition with the person emerging from the surrounding smoky sketch art.
+
+COLOR:
+Strictly black and white and soft monochromatic grays. No colors.
+
+LIGHTING:
+Soft cinematic portrait lighting converted into monochrome tones, with detailed facial highlights and natural shadows.
+
+QUALITY:
+Ultra-detailed, anatomically correct body structure, highly detailed hair strands, realistic hands and fingers, detailed clothing, realistic ceramic cup and book, professional gallery-grade pencil and charcoal sketch.
+
+COMPOSITION:
+Centered portrait, fully showing the person, coffee cup, and book. Head, hair, hands, cup, book, and body all within the frame. Leave ample clean white space around the smoky art edges.
+
+IMPORTANT:
+The uploaded image is for identity reference only. Preserve the person's identity and likeness. Do not swap faces.
+```
+
+**来源：** [@john jacket](https://x.com/jacket82488/status/2094240454162440553) | 2026-08-31
+
+---
+

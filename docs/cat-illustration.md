@@ -19875,3 +19875,107 @@ Avoid: close-up portrait, split face, damaged skin, black liquid on a face, glow
 
 ---
 
+### 🎨 例 7142：超现实景观与空灵河流场景
+
+![超现实景观与空灵河流场景](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%99%AF%E8%A7%82%E4%B8%8E%E7%A9%BA%E7%81%B5%E6%B2%B3%E6%B5%81%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅超现实、空灵的数字绘画，描绘了一处被蜿蜒灵动的树枝所环绕的宁静景观。中心是一片静谧的湖泊，倒映着坐落在草岸上的古朴小屋，周围环绕着郁郁葱葱的绿色植被和 {argument name="flowers" default="柔粉色花树"}。一艘 {argument name="vessel" default="白色小帆船"} 在平静的水面上轻轻滑行。构图由一根深色、舒展的树枝独特地勾勒，枝头点缀着精致的淡粉色花朵和鲜艳的绿叶，并逐渐消融为充满活力的、发光的红金色粒子星云。背景将朦胧的柔焦山脉与光芒四射的太阳光晕融合在一起，营造出戏剧性的镜头光斑和空灵的光束。氛围梦幻、魔幻且宁静，空气中悬浮着闪烁的水滴。色调从深沉的泥土色和神秘的阴影过渡到金色、深红色和清新春绿的温暖明亮高光。高度详细的艺术奇幻插画，平滑的渐变，发光的照明效果，复杂的纹理，童话般的意境，电影级的构图，优雅的美学。
+
+一幅超现实、梦幻般的景观，描绘了一条流经雾气缭绕森林的宁静河流，从郁郁葱葱的陆地草甸无缝过渡到空灵的水下视角。上半部分描绘了雾气弥漫的晨间林地，鲜艳的火红色叶树与深色的枯瘦松树以及柔和的金黄色草岸形成鲜明对比。精致的粉色野花点缀在景观中，引导视线向中心聚焦。前景融合进液态、玻璃般的流体表面，泛起苔藓橄榄色和深翡翠色的半透明涟漪。无数大小不一、晶莹剔透的圆形水滴漂浮在这个水环境中，折射出柔和的光线。构图被一条流动的液体曲线分割，勾勒出宁静的河流，营造出一个魔幻的混合自然场景。氛围安静、沉思且神秘，沐浴在柔和、漫射的光芒中。艺术风格融合了超写实纹理与奇幻元素，以平滑的过渡、微妙的渐变以及琥珀色、森林绿、火红色和柔和雾灰色组成的宁静和谐色调为特征。
+
+[English]
+A surreal, ethereal digital painting depicting a peaceful landscape framed by a swirling, dynamic tree branch. A serene lake occupies the center, reflecting a quaint house nestled on a grassy shore, surrounded by lush green and {argument name="flowers" default="soft pink flowering trees"}. A {argument name="vessel" default="small white sailboat"} glides gently on the calm water. The composition is uniquely framed by a dark, sweeping tree branch adorned with delicate pale pink blossoms and vibrant green leaves, which dissolves into a vibrant, glowing red and golden particle nebula. The background blends misty, soft-focus mountains with a radiant sunburst that creates dramatic lens flares and ethereal light beams. The atmosphere is dreamlike, magical, and tranquil, with sparkling water droplets suspended in the air. The color palette transitions from deep earthy tones and mysterious shadows to warm, brilliant highlights of gold, crimson, and fresh spring green. Highly detailed, artistic fantasy illustration, smooth gradients, luminous lighting effects, intricate textures, fairy-tale mood, cinematic composition, elegant aesthetic.
+
+A surreal, dreamlike landscape featuring a serene river flowing through a mist-covered forest, seamlessly transitioning from a lush, terrestrial meadow into an ethereal underwater perspective. The upper portion depicts a misty morning woodland with vibrant, fiery red-leafed trees standing in contrast against dark, skeletal pines and soft, golden-yellow grassy banks. Delicate pink wildflowers dot the landscape, leading the eye toward the center. The foreground merges into a liquid, glass-like fluid surface, rippling with dark, translucent waves of mossy olive and deep emerald hues. Numerous perfectly round, glistening water droplets of varying sizes float within this aqueous environment, refracting soft light. The composition is split by a flowing, liquid curve that frames the tranquil river, creating a magical, hybrid nature scene. The atmosphere is quiet, contemplative, and mystical, bathed in a soft, diffused glow. The artistic style blends hyper-realistic textures with fantasy, characterized by smooth transitions, subtle gradients, and a serene, harmonious color palette of amber, forest green, fiery red, and muted, foggy grays.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2094483613085581472) | 2026-08-31
+
+---
+
+### 🎨 例 7163：现代奇幻角色场景
+
+![现代奇幻角色场景](../images/%E7%8E%B0%E4%BB%A3%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位现代 {argument name="character" default="Astarion"} 潜伏在 {argument name="location" default="肉铺"} 附近。店主正将一袋 {argument name="item" default="猪血"} 递给画外的一位顾客。Astarion 看起来惊慌失措。
+
+[English]
+a modern day {argument name="character" default="Astarion"} lurking near a {argument name="location" default="butcher's stall"}. The shop keeper is handing a bag of {argument name="item" default="pig's blood"} to a customer off-screen. Astarion is looking panicked.
+```
+
+**来源：** [@Captcha-Cat](https://x.com/CaptchaC47/status/2094370629768434050) | 2026-08-31
+
+---
+
+### 🎨 例 7166：动漫女巫施展火焰咒语
+
+![动漫女巫施展火焰咒语](../images/%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%B7%AB%E6%96%BD%E5%B1%95%E7%81%AB%E7%84%B0%E5%92%92%E8%AF%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的动漫奇幻插画，描绘一位年轻女巫法师在日落时分施展强大火系咒语的场景。主体为一位中性化的年轻成年人，拥有 {argument name="hair color" default="长款波浪形深红至橙色渐变发型"}、琥珀色双眼、冷静严肃的表情以及精致的动漫面部特征，采用大腿以上的戏剧性四分之三侧视图。身穿 {argument name="outfit" default="宽檐黑色女巫帽和飘逸的黑色长袍"}；长袍和头发向左飘动，仿佛受到魔法风力的吹拂。双手向前伸展，在两手之间构筑一颗巨大的炽热咒语球：中心为 1 颗由浓郁金橙色火焰构成的火球，周围有 2 只清晰可见的手，多条红橙色火焰带向右下方螺旋散开，伴有细细的蓝紫色魔法环绕火球旋转。添加发光的余烬、火花、镜头光晕，以及咒语在面部、手指、头发和袖口上产生的强烈暖色轮廓光。背景为 {argument name="setting" default="带有断柱、拱门、破裂铺路石的古老石质废墟，远处有一座类似星盘的圆形结构"}。天空为 {argument name="sky mood" default="戏剧性的橙紫色日落天空，点缀着深色云层"}，以史诗般的金色光芒为场景进行逆光渲染。采用高细节的现代动漫艺术风格、绘画质感渲染、锐利的线条、动态构图、体积光、高对比度、丰富的暖色调、微妙的景深，无文字，无水印，方形 1:1 纵横比。
+
+[English]
+Create a cinematic anime fantasy illustration of a young witch mage casting a powerful fire spell at sunset. The subject is a single androgynous young adult with {argument name="hair color" default="long wavy crimson-to-orange gradient hair"}, amber eyes, a calm serious expression, and delicate anime facial features, shown from the thighs up in a dramatic three-quarter view. They wear {argument name="outfit" default="a wide-brimmed black witch hat and flowing black robe"}; the robe and hair stream leftward as if pushed by magical wind. Both hands are extended forward, framing one large blazing spell orb between them: exactly 1 central fireball made of dense golden-orange flames, exactly 2 visible hands around it, and multiple red-orange flame ribbons spiraling outward to the lower right, with thin blue-violet magical rings orbiting the fire. Add glowing embers, sparks, lens flares, and intense warm rim light from the spell on the face, fingers, hair, and sleeves. The setting is {argument name="setting" default="ancient stone ruins with broken columns, arches, cracked paving stones, and a circular astrolabe-like structure in the distance"}. The sky is {argument name="sky mood" default="a dramatic orange-purple sunset sky with scattered dark clouds"}, backlighting the scene with epic golden light. Use highly detailed modern anime art, painterly rendering, sharp linework, dynamic composition, volumetric lighting, high contrast, rich warm colors, subtle depth of field, no text, no watermark, square 1:1 aspect ratio.
+```
+
+**来源：** [@プレイヤー](https://x.com/xDrI15678/status/2094369917323886708) | 2026-08-31
+
+---
+
+### 🎨 例 7174：佛教壁画构图双联画
+
+![佛教壁画构图双联画](../images/%E4%BD%9B%E6%95%99%E5%A3%81%E7%94%BB%E6%9E%84%E5%9B%BE%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅宽幅横向双联画，对比两种佛教壁画构图策略，采用陈旧的敦煌/中国寺庙壁画风格，展示扁平重复的人物墙与层次分明的神圣集会场景之间的差异。
+
+画布：超宽全景图像，比例约为 2:1，垂直平分为两个相等的面板，无现代边框。两个面板均绘制在风化的棕褐色灰泥上，带有褪色的矿物颜料、裂纹、铜绿和古朴的手绘质感。
+
+左侧面板：描绘一幅扁平的正面壁画，填满 48 尊几乎完全相同的坐姿佛像，排列成 6 行 8 列的严格网格。每尊佛像都有圆形的青绿色光环、深蓝色头发、平静的面容、橙红色长袍，呈冥想坐姿。保持佛像的大小和间距一致，使面板在视觉上显得拥挤且具有墙面感。顶部添加装饰性的悬挂华盖织物，底部边缘添加狭窄的花卉边框。背景应较浅，几乎没有空间深度。
+
+右侧面板：描绘一幅具有清晰层级、深度和呼吸感的净土/佛教宫廷集会。在华丽的圆形背光和悬挂华盖下方，放置 1 尊居中的大佛，作为第一视觉焦点。在中央佛像两侧各放置 1 尊站立的菩萨，佩戴珠宝冠，身着绿金相间的服饰，带有光环。添加 14 尊位于前景和中景的僧侣，呈坐姿或跪姿，身着橙褐色长袍，排列成弧形，引导视线投向中央佛像。在他们身后，左右两侧包含两组较小的远景信众群体，有意缩小比例和细节以营造深度。包含层叠的山峦、云层、左右边缘的寺庙亭台、莲花、岩石以及向背景延伸的柔和雾气小径。
+
+视觉风格：中国古代佛教壁画，灵感源自敦煌净土变相图、《朝元图》式的层级化人群构图，以及宋元寺庙壁画美学。使用柔和的矿物色调：赭石色、赭红色、朱砂红、孔雀绿、青蓝色、褪色的金色、象牙白和烟灰色。线条应细腻但带有岁月感，采用手绘轮廓、扁平透视、装饰性对称，并在右侧面板中体现微妙的大气深度。
+
+构图意图：左侧必须感觉重复、密集且空间扁平；右侧必须感觉有序、庄重且深邃，具有层级感、前中后景分离，并在主尊周围留有刻意的留白。
+
+文字：无标题，无标签，无水印，无现代排版。
+
+可定制主题：中央人物可以是 {argument name="central deity" default="佛陀"}；壁画传统可以是 {argument name="mural tradition" default="敦煌净土佛教壁画"}；左侧网格数量必须保持为 {argument name="left panel figure count" default="48"}；右侧主要集会应保持 {argument name="foreground monk count" default="14"}；使用以 {argument name="primary color palette" default="赭石色、朱砂红、孔雀绿、青蓝色、褪色的金色"} 为主的古风调色板。
+
+[English]
+Goal: Create a wide horizontal diptych comparing two Buddhist mural composition strategies in an aged Dunhuang / Chinese temple fresco style, showing the difference between a flat repetitive figure wall and a layered sacred assembly scene.
+
+Canvas: Extra-wide panoramic image, about 2:1 aspect ratio, split vertically into two equal panels with no modern border, both panels painted on weathered tan plaster with faded mineral pigments, cracks, patina, and antique hand-painted texture.
+
+Left panel: Depict a flat frontal mural filled with exactly 48 nearly identical seated Buddha figures arranged in a strict grid of 6 rows and 8 columns. Each Buddha has a round green-blue halo, dark blue hair, calm face, orange-red robe, and seated meditation pose. Keep the figures similar in size and spacing so the panel feels visually crowded and wall-like. Add decorative hanging canopy fabric at the top and a narrow floral border along the bottom. The background should be shallow, with almost no spatial depth.
+
+Right panel: Depict a layered Pure Land / Buddhist court assembly with clear hierarchy, depth, and breathing space. Place exactly 1 large central Buddha seated on a lotus pedestal beneath an ornate circular mandorla and hanging canopy, making this the first visual focus. Flank the central Buddha with exactly 2 standing bodhisattvas, one on each side, wearing jeweled crowns, green and gold garments, and halos. Add exactly 14 larger foreground and midground monks seated or kneeling in orange-brown robes, arranged in curved rows that lead the eye toward the central Buddha. Behind them, include two distant crowd groups of many smaller worshippers on the left and right, intentionally reduced in scale and detail to create depth. Include layered mountains, cloud banks, temple pavilions at the far left and far right edges, lotus flowers, rocks, and soft misty pathways receding into the background.
+
+Visual style: Ancient Chinese Buddhist mural, inspired by Dunhuang Pure Land paintings, Chaoyuan Tu-style hierarchical crowd composition, and Song/Yuan temple fresco aesthetics. Use muted mineral colors: ochre, sienna, cinnabar red, malachite green, teal blue, faded gold, ivory, and smoky gray. Lines should be delicate but aged, with hand-brushed outlines, flattened perspective, decorative symmetry, and subtle atmospheric depth on the right panel.
+
+Composition intent: The left side must feel repetitive, dense, and spatially flat; the right side must feel organized, ceremonial, and deep, with hierarchy, foreground-middle-background separation, and intentional empty space around the central deity.
+
+Text: No captions, no labels, no watermark, no modern typography.
+
+Customizable subject: The central figure may be {argument name="central deity" default="Buddha"}; the mural tradition may be {argument name="mural tradition" default="Dunhuang Pure Land Buddhist fresco"}; the left grid count must remain {argument name="left panel figure count" default="48"}; the right main assembly should keep {argument name="foreground monk count" default="14"}; use an antique palette dominated by {argument name="primary color palette" default="ochre, cinnabar red, malachite green, teal blue, faded gold"}.
+```
+
+**来源：** [@楊哥 | Yang Onchain](https://x.com/YangOnchain/status/2094330483131781553) | 2026-08-31
+
+---
+

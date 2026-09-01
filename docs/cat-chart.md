@@ -4249,3 +4249,84 @@ Create a premium, modern {argument name="style" default="high-fashion"} CHARACTE
 
 ---
 
+### 📊 例 7204：高级时装角色概念图
+
+![高级时装角色概念图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="character name" default="Maeve"}：创建一个优质、现代的 {argument name="subject" default="高级时装角色概念艺术图"}，采用 {argument name="aspect ratio" default="16:9"} 宽屏布局，背景为纯白色。所附参考图像定义了艺术风格 —— 请将其视为严格的风格指南，并精准还原其渲染效果。
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a {argument name="layout" default="16:9 widescreen"} layout on a {argument name="background" default="pure white"} background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2094259323459584473) | 2026-08-31
+
+---
+
+### 📊 例 7211：Kurumi Kazama 早晨日历
+
+![Kurumi Kazama 早晨日历](../images/Kurumi%20Kazama%20%E6%97%A9%E6%99%A8%E6%97%A5%E5%8E%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮可爱的动漫早晨日历插画，主角为 {argument name="character name" default="Kurumi Kazama"}，场景设定在阳光明媚的教室，以庆祝“蔬菜日”和“作业日”以及多彩风车手工制作为主题。
+
+画布：横向 16:9 构图，精致的 gpt-image-2 动漫风格，柔和的粉彩色调，清晰的线条，高细节，愉悦的夏日清晨光影。
+
+布局：将画面分为三个主要区域。左侧三分之一：一个木框公告项目，上方有醒目的日语姓名标题。中心：主角位于项目前方，展示腰部以上。右侧三分之一：一扇巨大的阳光窗户，顶部有一个对话气泡，气泡下方有一个圆形的嵌入式白日梦场景。右下角：一张放有花瓶的小圆桌和印刷的制作信息文本。
+
+主角细节：一位可爱的金发动漫少女，小学年龄感，蓝色闪烁的眼睛，淡淡的腮红，温柔地微笑，一只拳头举起，姿势欢快。她扎着高侧马尾，发梢带有粉色调，并配有装饰性发饰：蓝色花朵丝带、小挂饰、流苏和一个白色小兔子挂件。服装：色彩鲜艳的花卉浴衣上衣，带有粉色、黄色、青色、白色和红色的花朵图案；青色斜领；深海军蓝色的袴式裙；带有红色点缀的深色腰带；腰间系着一个白色小兔子挂件。
+
+文字与排版：在左上角，书写醒目的粗体日语文字「風間 くるみ」，下方附带较小的罗马拼音名：“Kurumi Kazama”，并用蓝色小花、闪光和绿植装饰。在项目上，日期显示为「2026年 8月 31日（月曜日）」。使用友好的圆体日语字体，带有粗深色笔画和多彩的方框区域。
+
+公告项目内容：包含 4 个可见的项目区域：1) 日期标题「2026年 8月 31日（月曜日）」；2) 蔬菜日区域，标注「今日は」和「野菜の日」，并附带小字「やさいを食べて元気になろう」；3) 作业日区域，标注「宿題の日」，并附带小字「楽しくまなんで成長しよう」；4) 主题条，标注「テーマ: カラフル風車づくり」，并配有风车图标。
+
+项目插图计数：包含 6 个项目图标/物品：蔬菜日区域有 4 个微笑的蔬菜，分别为番茄、青椒、卷心菜/生菜和胡萝卜；作业日区域有 2 个学习用品，分别为标有“NOTE”的蓝色笔记本和一支绿色铅笔。
+
+对话气泡：在右上角放置一个巨大的白色圆形对话气泡，内含日语文字：「おはよう〜。今日の朝ごはんは、何の野菜が入ってるのかな？」
+
+右侧嵌入场景：一个云朵形状的圆形嵌入框，背景为蓝天和草地。展示同一个女孩的 Q 版形象，闭眼微笑，手持一个多彩风车，旁边是一只戴着绿色头巾的快乐柴犬，柴犬附近也有一个多彩风车。此嵌入框内包含 3 个主体/物品：Q 版女孩、狗，以及女孩手持的风车和狗附近可见的另一个风车。
+
+右侧桌子细节：右下角有一张木制小圆桌，上面放着一个插有蓝花绿叶的白色花瓶。在桌子附近添加小字制作信息：“2026/08/31”、“@riddi0908”以及“made by GPT Image 2”。
+
+背景：温暖的室内，奶油色墙壁，阳光明媚的窗户，窗外可见蓝天和绿植，柔和的阴影，舒适的早晨氛围。在对话气泡和窗户周围添加小装饰性闪光。
+
+约束：保持画面健康、可爱、清晰且易读。严格按照指定位置保留所有日语文字。不要添加额外的日历区域、额外角色或无关物体。避免照片写实、阴暗色调或杂乱的排版。
+
+[English]
+Goal: Create a bright kawaii anime morning announcement illustration for {argument name="character name" default="Kurumi Kazama"}, combining a character portrait with a classroom-style daily board about special days.
+
+Canvas: Horizontal 16:9 image, warm sunlit room with a large window on the right showing blue sky and greenery. Soft pastel palette, clean polished anime style, cheerful school-poster composition.
+
+Layout: Place the main character large in the center-right foreground, a wooden framed information board on the left, a rounded speech bubble at the upper right, and a cloud-shaped mini scene behind the character near the window. Add a small round table at bottom right with a vase. Include subtle decorative flowers, sparkles, and stickers.
+
+Main character: A cute blonde anime girl with big sparkling blue eyes, light blush, gentle smile, and side ponytail fading slightly peach-pink at the ends. She wears a colorful summer yukata-style outfit with floral patterns, turquoise diagonal collar, pink sleeves, and dark navy hakama-style skirt. Her right hand is raised in a small encouraging fist. Hair accessories include exactly 4 visible items: a patterned rectangular ornament, a teal ribbon, a gold ring charm, and a small white bunny charm with dangling purple tassels. Add a matching small bunny charm on her waist bow.
+
+Top title text: Large blue Japanese name text 「風間 くるみ」 with white outline, and below it the romanized name “Kurumi Kazama” in blue. Decorate the title with exactly 5 small motifs: two blue flowers, two pink sparkle diamonds, and one small green leafy flower sprig.
+
+Left information board: A standing wooden easel board with the date line “{argument name="date text" default="2026年 8月31日（月曜日）"}”. The board contains exactly 3 stacked content panels:
+1. Top green-outlined panel with a red ribbon label “今日は”, large text 「野菜の日」, small text 「やさいを食べて元気になろう」, and exactly 4 cute vegetable mascots: tomato, green pepper, cabbage, and carrot.
+2. Middle blue-outlined panel with large text 「宿題の日」, small text 「楽しくまなんで成長しよう」, and exactly 2 school-item mascots: a smiling blue notebook labeled “NOTE” and a smiling green pencil.
+3. Bottom yellow-outlined panel with a colorful pinwheel icon and text 「テーマ: カラフル風車づくり」.
+
+Speech bubble: Rounded white speech bubble at upper right with Japanese text: “{argument name="speech bubble text" default="おはよう〜。今日の朝ごはんは、何の野菜が入ってるのかな？"}”.
+
+Mini scene bubble: Behind the main character on the right, create a soft cloud-shaped vignette showing a chibi version of the girl outdoors with a smiling dog. It contains exactly 2 characters: the chibi girl holding one colorful pinwheel and a tan Shiba-like dog wearing a green bandana, with another colorful pinwheel beside the dog. Add sunny grass, sky, and playful motion marks.
+
+Right table detail: A small round wooden table with a slim vase holding exactly 3 blue flowers and green leaves. Add small date/credit text near it: “2026/08/31”, “@riddi0908”, and “made by GPT Image 2”.
+
+Visual style: High-quality modern Japanese anime illustration, crisp lines, glossy eyes, pastel gradients, soft sunlight, charming educational poster feel, sticker-like icons, cozy classroom atmosphere.
+
+Constraints: Keep all text legible and positioned like a designed poster. Use exactly the counted elements listed above. Avoid extra panels, extra mascots, extra characters, watermarks, or photorealism.
+```
+
+**来源：** [@まゆひらa](https://x.com/riddi0908/status/2094221128117940574) | 2026-08-31
+
+---
+

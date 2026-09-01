@@ -19115,3 +19115,139 @@ Create a cohesive editorial travel-journal image inspired by the provided refere
 
 ---
 
+### 🏷️ 例 7141：赛博朋克犬耳女剑客
+
+![赛博朋克犬耳女剑客](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%8A%AC%E8%80%B3%E5%A5%B3%E5%89%91%E5%AE%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级动漫主视觉图，画面中心为 {argument name="character name" default="一位年轻的犬耳女剑客"}，她正站在混乱的霓虹赛博朋克战场中央。她留着一头飘逸的 {argument name="hair color" default="浅金色"} 长发，发丝戏剧性地向左飘动，前额扎着两条粗辫子，有着下垂的动物耳朵、疲惫的青蓝色双眼，表情空洞冷漠，脸上带有细小的伤口和血迹。她身穿一件深色修身军装夹克，内搭一件染血的白衬衫，配有黑色战术绑带和腰带，穿着深色长裤，整体轮廓饱满且带有战斗磨损感。画面中必须清晰呈现两把剑：一把武士刀斜挎在背上，刀柄上系着红色流苏；另一把剑或武器收在鞘中，通过链条悬挂在身体左侧低处。背景为抽象的废墟未来城市或数字虚空，充斥着强烈的动态模糊、故障伪影、色差效果、水平扫描线碎片、黑色碎片剪影，以及爆炸般的红、洋红、紫、蓝、青和橙色光束。在她头后放置一个明亮的白色圆形光环，右侧有垂直的蓝色结构，左侧则是温暖的红色混乱景象。采用深色高对比度调色，强调戏剧性的轮廓光，运用绘画风格的动漫渲染，刻画锐利的面部细节，展现动态发丝、电影级景深、充满活力的构图以及悲剧性的末日氛围。画面中无任何可读文字，无水印，采用 3:2 宽屏比例。
+
+[English]
+Create a cinematic anime key visual of {argument name="character name" default="a young dog-eared swordswoman"} standing in the center of a chaotic neon cyberpunk battlefield. She has long flowing {argument name="hair color" default="pale blonde"} hair blown dramatically to the left, two thick braids at the front, floppy animal ears, tired aqua-blue eyes, a blank emotionless expression, and small cuts and blood smears on her face. Dress her in a dark fitted military-style jacket over a white shirt stained with blood, black tactical straps and belts, dark trousers, and a battle-worn silhouette. Show exactly two swords: one katana strapped diagonally across her back with a red tassel on the hilt, and one sheathed sword or weapon hanging low at her left side on a chain. The background is an abstract ruined futuristic city or digital void filled with intense motion blur, glitch artifacts, chromatic aberration, horizontal scanline fragments, black debris silhouettes, and explosive red, magenta, violet, blue, cyan, and orange light streaks. Place a bright white circular light behind her head like a halo, with vertical blue structures on the right and warm red chaos on the left. Use a dark high-contrast palette, dramatic rim lighting, painterly anime rendering, sharp facial detail, dynamic hair strands, cinematic depth of field, energetic composition, and a tragic apocalyptic mood. No readable text, no watermark, wide 3:2 aspect ratio.
+```
+
+**来源：** [@Meipuru](https://x.com/miyasangsuifeng/status/2094499348151513565) | 2026-08-31
+
+---
+
+### 🏷️ 例 7154：Z 世代动漫角色设计图
+
+![Z 世代动漫角色设计图](../images/Z%20%E4%B8%96%E4%BB%A3%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位 Z 世代应用工坊女孩"} 创建一份动漫角色设计图，展示一位实用且时尚的年轻女性，作为视频场景的可复用视觉素材。
+
+画布：宽幅横向角色设计图，3:2 长宽比，浅暖灰色背景，带有细微的纸张纹理，肖像区与全身转向区之间有清晰的垂直分割线。
+
+布局：使用 3 个角色形象：左侧为 1 个占据画布约 40% 的大型半身肖像，中右侧为 1 个全身正视图，最右侧为 1 个全身背视图。确保三者的面部、发型、服装、比例和配饰保持一致。
+
+角色细节：二十出头的年轻女性，拥有温暖的棕褐色皮肤、明亮且富有表现力的棕色眼睛、柔和自信的微笑、苗条的运动型身材、精致的鼻子、自然的眉毛以及小巧的圆环耳环。她留着 {argument name="hair color" default="凌乱的栗棕色"} 头发，扎成高马尾，系着红色发圈，脸颊两侧有散落的发丝，发型层次丰富且充满活力。
+
+服装：休闲都市创意工作者风格，包含 6 件核心单品：1 件米色大廓形卫衣，领口、袖口和袖子处有暗红色条纹；1 条黑色宽松慢跑裤，配有抽绳腰带和束口裤脚；1 双磨损的灰白色运动鞋，带有红棕色点缀；1 条黑色挂绳，挂着一个小巧的矩形设备或工牌；1 对银色小圆环耳环；1 个红色发圈。
+
+包袋及可见物品：在全身视图中，单肩背着 1 个大型灰白色帆布托特包。包内装有 7 件清晰可见的物品：1 个橙色交通锥、1 本蓝色笔记本或平板电脑、1 个深色矩形设备、1 条卷起的橙色织物或围巾、1 块芥末黄布料、1 块青色布料以及 1 件红色的捆绑物品。在正视图中，托特包挂在身侧；在背视图中，托特包靠在背部/臀部，内容物依然可见。
+
+视觉风格：精细的手绘动漫概念艺术，干净的墨线轮廓，富有表现力的线条，柔和的赛璐珞阴影，柔和的大地色系，轻微的素描质感，织物褶皱处有细微的排线，自然的角色设计图光影，无夸张阴影。姿态保持放松且亲和，正视图中的全身人物站姿自然，背视图清晰展示服装和马尾细节。
+
+约束条件：无文字标签，无水印，除列出的服装和包内物品外不添加额外道具，无其他角色，保持准确的转向一致性，背景保持简洁且不突兀。
+
+[English]
+Goal: Create an anime character design sheet for {argument name="character name" default="a Gen Z app-workshop girl"}, showing a practical, stylish young woman as a reusable visual asset for video scenes.
+
+Canvas: Wide horizontal character sheet, 3:2 aspect ratio, light warm gray background, subtle paper texture, clean vertical divider between the portrait area and the full-body turnaround area.
+
+Layout: Use exactly 3 character depictions: 1 large bust portrait on the left taking about 40% of the canvas, 1 full-body front view in the center-right, and 1 full-body back view on the far right. Keep all three consistent in face, hair, outfit, proportions, and accessories.
+
+Character details: Young woman in her early twenties with warm tan skin, large expressive brown eyes, soft confident smile, slim athletic build, delicate nose, natural brows, and small hoop earrings. She has {argument name="hair color" default="messy chestnut brown"} hair tied in a high ponytail with a red scrunchie, loose strands and flyaways framing the face, voluminous layered texture, and energetic movement.
+
+Outfit: Casual urban creative-worker clothing with exactly 6 main outfit pieces: 1 oversized cream sweatshirt with muted red collar, cuffs, and sleeve stripes; 1 pair of loose black jogger pants with drawstring waist and gathered ankles; 1 pair of worn off-white sneakers with red-brown accents; 1 black lanyard necklace holding a small rectangular device or badge; 1 pair of small silver hoop earrings; 1 red hair scrunchie.
+
+Bag and visible contents: Include exactly 1 large off-white canvas tote bag carried over one shoulder in the full-body views. The tote is stuffed with exactly 7 visible items: 1 orange traffic cone, 1 blue notebook or tablet, 1 dark rectangular device, 1 rolled orange fabric or scarf, 1 mustard yellow cloth, 1 teal cloth, and 1 reddish bundled item. In the front view, the tote hangs at her side; in the back view, the tote rests against her back/hip with the contents still visible.
+
+Visual style: Detailed hand-drawn anime concept art, clean ink outlines, expressive linework, soft cel shading, muted earthy colors, slight sketch texture, subtle hatching on fabric folds, natural character-sheet lighting, no dramatic shadows. Make the pose relaxed and approachable, with the front full-body figure standing casually and the back view showing the same outfit and ponytail clearly.
+
+Constraints: No text labels, no watermark, no extra props beyond the listed outfit and bag contents, no additional characters, maintain accurate turnaround consistency, keep the background plain and unobtrusive.
+```
+
+**来源：** [@Guillaume Aubry](https://x.com/g_aubry17/status/2094420362419146871) | 2026-08-31
+
+---
+
+### 🏷️ 例 7157：动漫风格德式传统服饰村庄肖像
+
+![动漫风格德式传统服饰村庄肖像](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%BE%B7%E5%BC%8F%E4%BC%A0%E7%BB%9F%E6%9C%8D%E9%A5%B0%E6%9D%91%E5%BA%84%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格肖像插画，描绘一位身处宁静欧洲乡村的年轻女性，采用略微前侧方的视角。她站在阳光洒满的石板小巷中央，身旁是古朴的灰泥木构房屋，正带着温柔平静的微笑注视着观众。她留着长长的 {argument name="hair color" default="栗棕色"} 头发，配有松散的刘海和肩侧的粗麻花辫，拥有明亮的 {argument name="eye color" default="蓝色"} 双眸，并戴着细圆框眼镜。为她穿上传统的阿尔卑斯风格德式连衣裙（dirndl）：白色泡泡袖衬衫，配有褶皱方领，深绿色修身紧身胸衣，带有精致的刺绣纹理，酒红色交叉系带穿过金属孔眼，以及在腰间系着蝴蝶结的森林绿围裙裙摆。她的左手在画面左下角提着一个带金属把手的木桶；右臂自然垂在身侧。背景应包含五个主要的视觉元素：左侧一堵带有百叶窗的旧屋墙壁，她身后的一扇阴影中的门口，墙边的一盆绿植，向远处延伸的狭窄鹅卵石小路，以及右侧地平线上模糊的教堂尖顶。使用温暖的上午阳光，头发和肩部带有柔和的轮廓光，浅景深效果，细致的布料褶皱，自然的皮肤阴影，高质量动漫渲染，写实的乡村氛围，3:4 竖构图，无文字，无水印。
+
+[English]
+Create a polished anime-style portrait illustration of a young woman in a quiet European countryside village, viewed from a slightly front-diagonal angle. She stands centered in a sunlit stone lane beside rustic plaster-and-timber houses, looking gently at the viewer with a soft, calm smile. She has long {argument name="hair color" default="chestnut brown"} hair with loose bangs and a thick side braid over one shoulder, bright {argument name="eye color" default="blue"} eyes, and thin round wire-frame glasses. Dress her in a traditional alpine dirndl: a white puff-sleeve blouse with a ruffled square neckline, a dark green fitted bodice with subtle embroidered texture, burgundy crisscross lacing through metal eyelets, and a full forest-green apron skirt tied with a bow at the waist. Her left hand holds a wooden bucket with a metal handle at the lower left edge of the frame; her right arm rests naturally at her side. The background should show exactly five main environmental elements: one old house wall with a shuttered window on the left, one shaded doorway behind her, one leafy potted plant near the wall, one narrow cobblestone path receding into the distance, and one blurred church steeple on the right horizon. Use warm late-morning sunlight, soft rim light on the hair and shoulders, gentle depth of field, detailed fabric folds, natural skin shading, high-quality anime rendering, realistic village atmosphere, vertical 3:4 composition, no text, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2094405480190038459) | 2026-08-31
+
+---
+
+### 🏷️ 例 7164：奢华电子产品海报设计
+
+![奢华电子产品海报设计](../images/%E5%A5%A2%E5%8D%8E%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为原创紧凑型相机品牌“LUXAR”创作一张高端旗舰商业海报，主打型号为“VISTA M”。采用超写实微距野生动物与产品摄影风格，呈现印刷级的奢华电子产品广告质感。品牌核心超级符号必须是一只动物的侧面轮廓，其眼睛被完美融合的相机镜头所取代，将自适应视觉转化为物理产品隐喻。核心构图：保持垂直海报的三区结构逻辑。上方 70%：一只面向左侧的变色龙极端微距侧脸，紧凑裁剪，吻部从左中进入，身体延伸至右边缘。眼部区域被一只写实的正面相机镜头取代，无缝嵌入爬行动物解剖结构中。左上方：醒目的品牌标题块，包含红色标识、一行简短的白色标语，以及四个框定标题区域的白色直角括号。下方 25%：三台正面朝向的紧凑型相机，在浅色反射面上水平排列。底部 18%：黑色技术信息栏，右侧居中位置为大号型号名称，左右两侧为较小的功能文本。端口逻辑：将此视觉系统转化为 LUXAR 明确的品牌超级符号。永久标识必须由四个固定代码构建：微距动物轮廓、取代眼睛的相机镜头、底部三色产品阵列以及稳固广告的黑色技术规格栏。图像应具备极高的辨识度、可重复性和可扩展性，适用于整个系列广告，让不同动物体现不同的成像技术。轨道逻辑：在海报中构建一个强大的闭合视觉循环。视线应从左上角的标题块移动到镜头眼，顺着变色龙的吻部和下颚线，扫向底部的三台产品相机，锁定它们对齐的镜头中心，穿过黑色规格栏，并通过动物的颈部轮廓和背景虚化回到嵌入的镜头。镜头高光、面部轮廓、相机阵列间距和排版块必须共同强化一条连续的循环路径。英雄隐喻：变色龙必须体现自适应光学、响应式对焦和视觉精度。镜头与眼睛的融合必须在机械上合理，在生物学上自然融合，无血腥、畸变或恐怖感。隐喻应直观、简洁且具商业感。动物细节：渲染变色龙时需表现出致密的微观纹理、绿松石色虹彩鳞片破裂感、较暗的脊部纹理、写实的皮肤干燥感、细小凸起、自然的下颚锯齿以及可信的颅骨体积。眼窝解剖结构必须平滑过渡到镜头外壳。生物应显得静止、警觉且真实。镜头细节：嵌入的镜头必须高度写实，具备同心圆玻璃元件、黑色金属镜筒、细微的雕刻技术标记、紫绿色镀膜反射、可见的光圈深度以及清晰的圆形几何形状。镜头比例应与变色龙头部自然协调，同时保持高端光学设备的清晰辨识度。光照：来自左上方的柔和定向微距光，中等柔和质量，在鳞片纹理、镜头边缘和面部轮廓上保持受控的高光分离。右前方提供低强度的辅助补光，以保留阴影侧细节。下方的产品相机应采用更干净的影棚式正面光，具备清晰的高光带和克制的桌面反射。对比度应为中强，中调清晰，无死黑。色彩系统：主色调为柔和的橄榄米色背景，变色龙皮肤为绿色至绿松石色，镜头核心为黑色，左上角有红色品牌点缀，底部三款产品机身颜色分别为：深钴蓝、缎面黑和暗金属绯红。底部规格栏为黑色，配白色和红色文字点缀。调色板必须呈现自然科技感、克制且以产品为导向。产品展示：在底部条带上展示三台正面朝向的紧凑型相机，等距排列，型号相同，镜头尺寸一致，机身颜色分别为蓝色、黑色和勃艮第红。相机必须具备机械加工边缘、哑光金属外壳、写实的镜头玻璃、极简的品牌标识和高端紧凑的比例。在每台相机下方添加微妙的镜像反射。排版与布局：左上标题块：LUXAR See Beyond Focus，标题区域周围使用白色直角括号。底部黑色栏：大号型号名称：VISTA M，左侧功能堆叠：Touchscreen OLED, Creative Filters, 4K Motion Capture, Interchangeable Lens Ready, 24 MP Sensor, ISO 100-12800，右侧段落：关于自适应成像、紧凑工程和快速视觉响应的简短原创文案。所有文字必须仅为原创英文。材质与纹理：爬行动物鳞片、镜头外壳、玻璃反射、产品相机边缘和排版需具备极高清晰度。保留写实的爬行动物皮肤粗糙感、鳞片边缘的细微灰尘、哑光喷漆机身、光亮镜头玻璃以及清晰的印刷栏对比度。一切必须符合真实的光学和光照物理定律。景深：上方动物区域采用极浅的微距景深，镜头眼和最近的面部鳞片处于绝对清晰状态，背景枝叶平滑虚化。下方产品行必须保持影棚产品风格的完全清晰。图像质量与物理规则：高分辨率商业清晰度，英雄镜头无模糊，解剖结构无破损，无多余肢体，无扭曲的爬行动物面部，无悬浮相机，无杂乱反射，无黑斑，文字清晰可读，无随机道具，无复制真实品牌标记，无水印。负面提示词：真实 Canon 标志，复制的标语，复制的型号名称，卡通爬行动物，恐怖变异，血腥，下颚破损，鳞片变形，镜头扭曲，文字不可读，低细节机身，低分辨率微距，浑浊阴影，死黑条带，杂乱布局，随机多余产品，塑料感皮肤，插画风格，水印。
+
+[English]
+Create a premium flagship commercial poster for an original compact camera brand named "LUXAR", featuring a hero model called "VISTA M". Use ultra-realistic macro wildlife-product photography with a print-ready luxury electronics advertising finish. The core brand super-symbol must be a living animal profile whose eye is replaced by a perfectly integrated camera lens, turning adaptive vision into a physical product metaphor. Core composition: preserve the exact structural logic of a vertical poster with three zones. Upper 70%: an extreme macro side-profile of a chameleon facing left, tightly cropped so the snout enters from left-center and the body extends toward the right edge. The eye area is replaced by a realistic front-facing camera lens, embedded seamlessly into the reptile anatomy. Upper-left: a bold brand title block with a red logotype, one short white tagline, and four white corner brackets framing the title zone. Lower 25%: three front-facing compact cameras aligned horizontally on a pale reflective surface. Bottom 18%: a black technical information band with the model name large at center-right and smaller feature text at left and right. Port logic: turn this exact visual system into the unmistakable brand super-symbol of LUXAR. The permanent identity must be built from four fixed codes: a macro animal profile, a camera lens replacing the eye, a three-color product lineup at the bottom, and a black technical spec band grounding the ad. The image should feel instantly ownable, repeatable, and scalable across a full campaign series where different animals embody different imaging technologies. Orbit logic: build a strong closed visual loop across the poster. The eye should move from the upper-left title block into the lens-eye, follow the chameleon snout and jawline, sweep down into the three product cameras, lock onto their aligned lens centers, travel across the black spec band, and rise back toward the embedded lens through the animal’s neck contour and background blur. The lens highlight, facial profile, camera lineup spacing, and typography blocks must all reinforce one continuous circulation path. Hero metaphor: the chameleon must embody adaptive optics, responsive focus, and visual precision. The lens-eye integration must feel mechanically plausible and biologically fused without gore, distortion, or horror. The metaphor should read instantly, cleanly, and commercially. Animal detail: render the chameleon with dense micro-scale texture, green-turquoise-iridescent scale breakup, darker ridge segmentation, realistic skin dryness, tiny bumps, natural jaw serration, and believable cranial volume. The eye socket anatomy must transition cleanly into the lens housing. The creature should feel still, alert, and physically real. Lens detail: the embedded lens must be highly realistic, with concentric glass elements, black metal barrel, subtle engraved technical markings, purple-green coating reflections, visible aperture depth, and crisp circular geometry. The lens should be proportioned naturally to the chameleon head while remaining immediately legible as premium optics. Lighting: soft directional macro lighting from upper-left front, medium-soft quality, with controlled highlight separation across scale texture, lens rim, and facial contours. Secondary fill from front-right at lower intensity to preserve shadow-side detail. Product cameras below should receive cleaner studio-style frontal lighting with crisp highlight bands and restrained tabletop reflections. Contrast should be moderate-strong, with readable midtones and no crushed blacks. Color system: dominant muted olive-beige background, green-to-turquoise chameleon skin, black lens core, red brand accent in the upper-left, and three product body colors below: deep cobalt blue, satin black, and dark metallic crimson. Bottom spec band black with white and red text accents. The palette must feel natural-tech, restrained, and product-led. Product showcase: display three front-facing compact cameras on the lower strip, evenly spaced, same model, identical lens size, with body colors blue, black, and burgundy-red. Cameras must have machined edges, matte-metal shells, realistic lens glass, minimal branding, and premium compact proportions. Add subtle mirrored reflections directly below each camera. Typography and layout: top-left title block: LUXAR See Beyond Focus Use white corner brackets around this title zone. Bottom black band: large model name: VISTA M left feature stack: Touchscreen OLED Creative Filters 4K Motion Capture Interchangeable Lens Ready 24 MP Sensor ISO 100-12800 right paragraph: a short original line about adaptive imaging, compact engineering, and fast visual response. All wording must be original English only. Materials and texture: extreme sharpness on reptile scales, lens housing, glass reflections, product camera edges, and typography. Preserve realistic reptile skin roughness, subtle dusting on scale edges, matte painted camera bodies, glossy lens glass, and clean print-band contrast. Everything must obey real optical and lighting physics. Depth of field: very shallow macro depth of field in the upper animal zone, with the lens-eye and nearest facial scales critically sharp while background branches dissolve smoothly. Lower product row must remain fully sharp in clean studio-product style. Image quality and physical rules: high-resolution commercial clarity, no muddy blur on the hero lens, no broken anatomy, no extra limbs, no warped reptile face, no floating cameras, no messy reflections, no black blotches, no unreadable text, no random props, no copied real brand marks, no watermark. Negative prompt: real Canon logo, copied slogan, copied model name, cartoon reptile, horror mutation, gore, broken jaw, deformed scales, warped lens, unreadable text, low-detail camera body, low-resolution macro, muddy shadows, dead black banding, messy layout, random extra products, plastic-looking skin, illustration style, watermark.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2094370271818027242) | 2026-08-31
+
+---
+
+### 🏷️ 例 7187：水下跳水项目入口
+
+![水下跳水项目入口](../images/%E6%B0%B4%E4%B8%8B%E8%B7%B3%E6%B0%B4%E9%A1%B9%E7%9B%AE%E5%85%A5%E5%8F%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超现实的电影感水下场景，展示 {argument name="main structure" default="世界上最高的跳水项目"} 矗立在海底，宛如一座废弃的粗野主义混凝土塔。画面为竖构图、广角、写实风格，摄像机透过蓝绿色的海水略微仰视波光粼粼的水面。在左侧，放置一座高大的、布满藻类的混凝土跳水塔，塔身有四个清晰可见的突出平台：顶部是一个最高的长跳板，中间是一个带栏杆的小平台，下方是一个倾斜的跳水平台，底部是一个宽阔的侧平台，旁边有一架向下的梯子。在最高跳板的最顶端，站着一名身穿泳衣的微小潜水员剪影，正准备跳下，以此强调比例感和眩晕感。海底平坦、沙质，散布着小石块和沉积物。在前景中，在海底切出一个巨大的方形开口，如同一个不可能存在的入口或水池，内部散发出 {argument name="portal light color" default="温暖的金黄色"} 光芒，暗示着海床之下存在一个更深邃的世界。在塔的右侧中层水域散布 20 条小鱼，外加一些远处模糊的暗点，但要保持细微感。使用朦胧的体积感水下光效、悬浮颗粒、柔和的青蓝色调、陈旧的混凝土纹理、苔藓、藤壶、柔和的焦散光，营造出梦幻而神秘的氛围。无文字，除那名潜水员外无其他人，无现代标识，无额外结构，无水印。
+
+[English]
+Create a vertical cinematic underwater surreal photograph of {argument name="subject" default="an abandoned concrete high diving tower"} standing on the ocean floor, seen from a low wide angle in murky blue-green water. The tower is tall, weathered, algae-stained, and monolithic, leaning slightly in perspective, with exactly 5 visible protruding structures: 1 long top diving board with a lone human diver standing at its very end, 1 small upper side platform, 1 middle platform with a thin railing, 1 lower platform, and 1 wide base-level platform with a ladder descending beside it. The diver is tiny compared with the structure, wearing swim trunks or a minimal diving suit, posed upright and contemplative as if about to dive. In the foreground, cut into the sandy seabed, place a large square shaft or portal glowing with warm golden-yellow light, as though it leads to another deeper ocean or impossible depth below; the square opening should have rough vertical concrete or rock walls and bright luminous water inside. Include exactly 24 small fish silhouettes scattered across the mid-right water column in loose groups, plus a few tiny dark particles and bubbles suspended throughout. The water surface is visible far above as a pale rippled ceiling with diffused sunlight, while the background fades into deep teal haze. Use {argument name="mood" default="eerie, dreamlike, quiet, monumental"} atmosphere, realistic underwater photography, soft volumetric light rays, suspended sediment, muted colors, high detail, no text, no logo, no watermark. Emphasize the impossible concept: the highest diving board in the world located at the bottom of the ocean, with even more depth glowing beneath it.
+```
+
+**来源：** [@CLAUDIA.AI](https://x.com/aiwithclaudia/status/2094294780779909354) | 2026-08-31
+
+---
+
+### 🏷️ 例 7199：动漫风格冬季高压线肖像
+
+![动漫风格冬季高压线肖像](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%86%AC%E5%AD%A3%E9%AB%98%E5%8E%8B%E7%BA%BF%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感动漫风格插画，画面中 {argument name="character name" default="一位年轻女性"} 站在深蓝色冬季天空下的开阔雪地中。画面采用腰部以上的三分之二近景构图，人物位于画面右侧，面带柔和微笑，看向她抬起的手。她留着 {argument name="hair color" default="凌乱的深棕色短发"}，随风飘动，拥有一双灵动的大型灰蓝色眼睛和精致的五官，温暖的阳光照亮了她的脸庞和发丝。她穿着一件厚实的 {argument name="jacket color" default="钴蓝色"} 冬季工装夹克，细节包括明显的接缝、拉链头、口袋和金属按扣，内搭奶油色罗纹高领毛衣。她的左手向画面左侧伸出，食指指向前方，一道明亮的白色像素化锯齿状箭头或电线仿佛触碰到了她的指尖，形成一个类似上升图表的折线形状。背景展现广阔的雪原，点缀着低矮的雪丘、电线塔，多条黑色电线在天空中对角线延伸，营造出强烈的透视感。采用清晰细腻的动漫渲染风格，高对比度阳光，微妙的阴影，随风飘动的发丝，饱和的蓝色与白色调，干净的线条，以及 3:2 的宽屏构图。避免出现文字、Logo、水印、额外角色或其他图形元素。
+
+[English]
+Create a cinematic anime-style single-panel illustration of {argument name="character name" default="a young woman"} in a snowy open landscape under a vivid deep-blue winter sky. She is shown from the waist up on the right side of a horizontal 3:2 canvas, smiling softly and looking toward her raised hand as she points with her index finger. She has {argument name="hair color" default="short tousled dark brown hair"} blown by the wind, large gray-blue eyes, delicate facial shading, and a calm confident expression. She wears exactly 2 visible outfit layers: a chunky cream ribbed turtleneck sweater and a cobalt-blue insulated work jacket with stitched seams, metal snaps, a high collar, and small red zipper pulls. Her fingertip touches the corner of a glowing, pixelated white zigzag arrow/line chart floating in the air on the left; the chart has exactly 1 continuous jagged line ending in an upward arrow, like a retro 8-bit financial growth graph. The background shows a bright snowfield with low snow-covered hills, exactly 2 visible steel power pylons in the distance on the left, and multiple black overhead power cables running diagonally across the sky from upper left to upper right, creating strong perspective lines. Use crisp cel-shaded anime rendering with detailed hair strands, realistic winter light, high contrast shadows, fine fabric texture, clean linework, and a slightly wide-angle composition. No text, no watermark, no extra characters.
+```
+
+**来源：** [@Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)](https://x.com/teortaxesTex/status/2094265994940211358) | 2026-08-31
+
+---
+

@@ -14877,3 +14877,135 @@ Constraints: Keep all visible text exactly as specified. Use exactly one generat
 
 ---
 
+### 🖥️ 例 7137：暗黑奇幻素描渲染
+
+![暗黑奇幻素描渲染](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E7%B4%A0%E6%8F%8F%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的草图作为姿势和构图的精确参考，将其转化为精致的暗黑奇幻动作插画。保留草图中的前倾冲刺/突刺姿势、骷髅状头部、巨大的肩甲轮廓、弯曲的双腿、紧握的双臂以及扫过的对角线运动线条。将人物完整渲染为 {argument name="character type" default="an undead armored knight"}，身着破损的黑钢板甲，拥有狰狞的骷髅面孔、发光的紫罗兰色双眼以及凶狠的张嘴表情。将草图中松散的运动笔触转化为剧烈的 {argument name="energy color" default="purple"} 暗影火焰流和魔法光环，环绕在身体周围，并像破烂的斗篷一样向后上方拖曳。添加草图中未呈现的荒凉战场环境：龟裂的尘土大地、碎片、远处的锯齿状暗色尖塔、暴风雨般的深褐色天空，以及使角色向观众冲来的强烈透视感。风格：高细节写实概念艺术、绘画感笔触、戏剧性光影、强对比度、金属划痕质感、动态摄像机角度、电影级运动模糊、黑暗之魂 / 暗黑奇幻氛围。保持图像为竖构图，强调并聚焦于冲锋的角色。避免使用干净的卡通线条、现代物体、文字、标志或额外角色。
+
+[English]
+Using the provided rough sketch as the exact pose and composition guide, turn it into a polished dark fantasy action illustration. Preserve the hunched forward sprinting/lunging pose, the skull-like head, the large shoulder armor silhouette, the bent legs, clenched arms, and the sweeping diagonal motion lines from the sketch. Fully render the figure as {argument name="character type" default="an undead armored knight"} in battered blackened steel plate armor with a menacing skull face, glowing violet eyes, and a vicious open-mouthed expression. Transform the sketch’s loose motion strokes into violent streams of {argument name="energy color" default="purple"} shadow-flame and magical aura wrapping around the body and trailing upward behind him like a torn cloak. Add a desolate battlefield environment not present in the sketch: cracked dusty ground, debris, jagged dark spires in the distance, stormy sepia-gray sky, and strong perspective that makes the character rush toward the viewer. Style: high-detail gritty concept art, painterly brushwork, dramatic lighting, heavy contrast, scratched metal texture, dynamic camera angle, cinematic motion blur, dark souls / dark fantasy mood. Keep the image vertical, intense, and centered on the charging figure. Avoid clean cartoon lines, modern objects, text, logos, or extra characters.
+```
+
+**来源：** [@おおひろ](https://x.com/oohiro35/status/2094536936396632360) | 2026-08-31
+
+---
+
+### 🖥️ 例 7140：垂直作品集展示条
+
+![垂直作品集展示条](../images/%E5%9E%82%E7%9B%B4%E4%BD%9C%E5%93%81%E9%9B%86%E5%B1%95%E7%A4%BA%E6%9D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个高而窄的黑色作品集案例研究预览条，展示三个垂直堆叠的 AI 生成样机缩略图，每个缩略图上方均有一个白色小标签。
+
+画布：超高垂直画布，尺寸约为 207 × 975 像素，背景为纯正的近黑色，并留有充足的黑色边距。采用极简的编辑/作品集风格，类似于网站的项目缩略图栏。
+
+布局：从上到下精确堆叠 3 个项目条目，略微偏左对齐，并保持一致的左边距。每个条目在矩形图片缩略图上方都有一个白色小文字标签。条目之间使用较大的垂直间距。缩略图宽度相近，但高度略有不同；所有图片均为纵向。
+
+项目条目：1) 标签：“{argument name="first project label" default="1inch-01"}”。缩略图：一张充满氛围感的产品风格照片，展示了一个米色小纸盒或立方体放置在强光照射下的深色沥青路面上，投下长而硬的阴影。左上角可见木质结构或托盘边缘。从上方斜角俯视，盒盖上有精致的线条艺术图形和小字。2) 标签：“{argument name="second project label" default="mrNick-01"}”。缩略图：一张干净的摄影棚渲染图，展示了一个半透明的电光蓝人像/人体模型，身穿超大号 T 恤和裤子，背景为浅灰色。人像左手拿着一个白色购物袋。T 恤右侧有垂直的白色品牌文字“mrNick”。3) 标签：“{argument name="third project label" default="GLAZURE_GLASS-01"}”。缩略图：一张以亮粉色为主调的糖果色产品海报。一个光泽感十足的粉红色甜甜圈状糖霜环放置在粉色产品盒上，上面撒满了彩色糖针。更多糖针散落在表面。盒子/海报底部附近有醒目的白色西里尔风格粗体字。
+
+排版：标签为小型、简洁的无衬线字体，白色或浅灰色，位于每个缩略图上方并左对齐。保留完全可见的标签。不包含额外的说明文字、导航、图标、边框或界面元素。
+
+视觉风格：高对比度黑色画廊背景，精致的网站样机质感，清晰逼真的缩略图，整洁的间距，高端的设计案例展示。
+
+约束：包含且仅包含 3 个带标签的缩略图；不得添加额外的项目、按钮、浏览器边框、水印或装饰性元素。
+
+[English]
+Goal: Create a tall, narrow black portfolio case-study preview strip showing three vertically stacked AI-generated mockup thumbnails, each with a small white label above it.
+
+Canvas: Very tall vertical canvas, approximately 207 × 975 px, with a solid near-black background and generous black margins. Minimal editorial/portfolio styling, like a website column of project thumbnails.
+
+Layout: Stack exactly 3 project entries from top to bottom, aligned slightly left of center with consistent left margin. Each entry has one small white text label above a rectangular image thumbnail. Use large vertical gaps between entries. The thumbnail widths are similar, but their heights vary slightly; all images are portrait-oriented.
+
+Project entries: 1) Label: “{argument name="first project label" default="1inch-01"}”. Thumbnail: a moody product-style photo of a small beige cardboard cube or box sitting on dark asphalt in strong sunlight, casting a long hard shadow. A wooden structure or pallet edge appears along the upper left side. The box top has delicate printed line-art graphics and small text, viewed from above at an angle. 2) Label: “{argument name="second project label" default="mrNick-01"}”. Thumbnail: a clean studio render of a translucent electric-blue human figure/mannequin wearing an oversized T-shirt and pants, standing against a light gray background. The figure holds a white shopping bag in the left hand. The shirt has vertical white branding text reading “mrNick” along the right side. 3) Label: “{argument name="third project label" default="GLAZURE_GLASS-01"}”. Thumbnail: a bright candy-colored product poster dominated by hot pink. A glossy pink-red donut-shaped glaze ring sits on a pink product box, covered with colorful sprinkles. More sprinkles scatter across the surface. Large bold white Cyrillic-style lettering appears near the bottom of the box/poster.
+
+Typography: Labels are small, plain sans-serif, white or light gray, left-aligned above each thumbnail. Preserve the exact visible labels. No additional captions, navigation, icons, borders, or interface elements.
+
+Visual style: High-contrast black gallery background, polished website mockup feel, sharp realistic thumbnails, clean spacing, premium design case-study presentation.
+
+Constraints: Include exactly 3 labeled thumbnails; do not add extra projects, buttons, browser chrome, watermark, or decorative elements.
+```
+
+**来源：** [@Pivnev](https://x.com/weeki513/status/2094502227578699956) | 2026-08-31
+
+---
+
+### 🖥️ 例 7150：东京警用机器人展览
+
+![东京警用机器人展览](../images/%E4%B8%9C%E4%BA%AC%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E8%A7%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖版活动照片，展现黄金时刻东京警视厅（Tokyo Metropolitan Police）的公共车辆展览。主体是一个约三层楼高、处于坐姿的巨型人形警用机器人，由白色和哑光黑色装甲机械板构成，带有外露的活塞、螺栓、关节、线缆、液压臂、超大尺寸的脚部，以及一个带有 4 个大型圆形摄像头镜头的矩形传感器头部。在双肩上安装红色应急警示灯条，并在 3 块深色装甲板上清晰显示 {argument name="agency text" default="警視庁 MPD"} 的标识：左肩、右肩和胸部。机器人坐落在户外停车场展览区的中心，位于蓝色警戒线后方，高耸于观众之上。周围包含 4 辆警用展示车辆：左前方有一辆带有红色车顶灯的黑白巡逻轿车，左中景有一辆白色警用巴士或指挥车，机器人后方有一辆小型白色应急警车，右中景有一辆带有东京警视厅风格字样的黑色警用拖车或卡车。添加 3 个清晰可见的公共安全展示物品：最左侧有一面带有日语警用文字的高大蓝色竖旗，右前方有一个展示机器人图解和 MPD 标题的独立白色信息项目，右侧拖车上有一个深色矩形标志。展览周围环绕着人群，包括至少 10 名排在前方蓝色警戒线旁的儿童，其中一些人在挥手或向上指，还有家长和摄影师，所有人比例真实，以突显机器人的巨大体型。背景：现代东京城市天际线、中层办公楼、带有午后阳光的树木、带有少量云朵的湛蓝天空。采用电影级纪录片写实风格，高细节，从略微抬高的正面视角拍摄，具有自然的镜头透视感，温暖的日落高光，深邃的机械质感，真实的阴影，细微的人群动态，非动漫风格，非插画，无水印。整体氛围：敬畏感、公共演示、先进的警用机器人技术。可选自定义：将活动地点设置为 {argument name="event location" default="东京户外警用车辆展览"}，机器人配色方案设置为 {argument name="robot color scheme" default="白色和哑光黑色"}，时间设置为 {argument name="time of day" default="黄金时刻"}，人群类型设置为 {argument name="crowd type" default="带孩子的家庭"}。
+
+[English]
+Create a photorealistic vertical event photograph of a futuristic Tokyo Metropolitan Police public vehicle exhibition at golden hour. The main subject is exactly 1 enormous seated humanoid police robot, about three stories tall, built from white and matte-black armored mechanical plates with exposed pistons, bolts, joints, cables, hydraulic arms, oversized feet, and a rectangular sensor head with 4 large circular camera lenses. Put red emergency light bars on both shoulders, and display the visible markings {argument name="agency text" default="警視庁 MPD"} on exactly 3 dark armor panels: left shoulder, right shoulder, and chest. The robot is seated in the center of an outdoor parking-lot exhibition area behind blue rope barriers, towering over spectators. Include exactly 4 police display vehicles around it: 1 black-and-white patrol sedan in the left foreground with a red roof light, 1 white police bus or command van on the left midground, 1 small white emergency police vehicle behind the robot, and 1 black police trailer or truck on the right midground with Tokyo Metropolitan Police Department-style lettering. Add exactly 3 readable public-safety display items: 1 tall blue vertical flag on the far left with Japanese police text, 1 freestanding white information board on the right foreground showing the robot diagram and MPD heading, and 1 dark rectangular sign on the right trailer. Surround the display with a family crowd, including at least 10 children lined along the blue barrier in the foreground, some waving or pointing upward, plus parents and photographers, all at realistic scale to emphasize the robot’s size. Background: modern Tokyo city skyline, mid-rise office towers, trees with late-afternoon sunlight, open blue sky with a few small clouds. Use cinematic documentary realism, high detail, natural lens perspective from slightly elevated front view, warm sunset highlights, deep mechanical texture, realistic shadows, subtle crowd motion, no anime style, no illustration, no watermark. Overall mood: awe, public demonstration, advanced police robotics. Optional customization: set the event location to {argument name="event location" default="Tokyo outdoor police vehicle exhibition"}, the robot color scheme to {argument name="robot color scheme" default="white and matte black"}, the time of day to {argument name="time of day" default="golden hour"}, and the crowd type to {argument name="crowd type" default="families with children"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2094433119097229449) | 2026-08-31
+
+---
+
+### 🖥️ 例 7151：美杜莎大战珀耳修斯
+
+![美杜莎大战珀耳修斯](../images/%E7%BE%8E%E6%9D%9C%E8%8E%8E%E5%A4%A7%E6%88%98%E7%8F%80%E8%80%B3%E4%BF%AE%E6%96%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个超细节的电影级奇幻战斗场景，展示 {argument name="mythic monster" default="美杜莎"} 在古老的石峡谷遗迹中攻击 {argument name="hero" default="珀耳修斯"}。怪物占据画面左侧：一个恐怖的苍白石肤戈耳工，皮肤如裂开的大理石，双眼闪烁黄光，张开的嘴露出尖牙，利爪向前伸展，下半身是覆盖着黑绿色鳞片的蛇身，身穿深青铜色鳞片链甲。她的头发由 14 条巨大的活蛇组成，每条蛇都呈亮黑绿色，张着嘴、露出毒牙和分叉的舌头，向不同方向扭动。英雄位于右侧前景，以低姿态防御姿势背对镜头，肌肉发达且历经战斗，留着深色卷发，身穿皮革与金属材质的希腊盔甲，披着破损的深色斗篷，佩戴护胫，手中圆形的雕花青铜盾牌挡在自己与戈耳工之间，一把银剑从右上角抬起。采用动态的低角度特写构图，运用极端的透视效果，使盾牌和英雄的腿部在前景显得巨大，戈耳工向镜头扑来，地面尘土和碎石飞溅，碎片在空中飘浮，背景是高耸破碎的古老石柱和悬崖峭壁。光线应为强烈的自然日光，带有戏剧性的轮廓光、烟雾缭绕、高对比度、逼真的纹理、碎片的动态模糊以及大片级的暗黑奇幻视觉效果。画面需具备写实感、史诗感、暴力美学、紧张氛围，且细节丰富，如同高预算神话动作电影的剧照。无文字，无水印，无现代物品。
+
+[English]
+Create an ultra-detailed cinematic fantasy battle scene showing {argument name="mythic monster" default="Medusa"} attacking {argument name="hero" default="Perseus"} in an ancient ruined stone canyon. The monster dominates the left side of the frame: a terrifying pale stone-skinned gorgon with cracked marble-like skin, glowing yellow eyes, an open screaming mouth with sharp teeth, clawed hands reaching forward, a serpentine lower body covered in green-black scales, and a dark bronze scale-and-chain bodice. Her hair is made of exactly 14 large living snakes, each glossy black-green with open jaws, fangs, and forked tongues, writhing outward in different directions. The hero is in the right foreground, seen mostly from behind in a low crouching defensive pose, muscular and battle-worn, with curly dark hair, leather-and-metal Greek armor, a dark torn cloak, greaves, a round engraved bronze shield held between him and the gorgon, and a raised silver sword entering from the upper right. Use a dynamic low-angle close-up composition with extreme perspective, the shield and hero’s leg large in the foreground, the gorgon lunging toward camera, dust and small rocks exploding from the ground, debris flying through the air, and towering broken ancient columns and cliff walls in the background. Lighting should be harsh natural daylight with dramatic rim light, smoky haze, high contrast, realistic textures, motion blur on debris, and blockbuster dark-fantasy visual effects. Make it photorealistic, epic, violent, tense, and highly detailed, like a high-budget mythological action film still. No text, no watermark, no modern objects.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2094432982736253402) | 2026-08-31
+
+---
+
+### 🖥️ 例 7170：微观雨滴世界
+
+![微观雨滴世界](../images/%E5%BE%AE%E8%A7%82%E9%9B%A8%E6%BB%B4%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一个广阔且不为人知的游戏世界，它仅存在于 {argument name="interaction" default="两滴雨滴碰撞"} 的瞬间，时间定格在 {argument name="time of day" default="黎明"}。碰撞的瞬间被冻结。在融合的液滴内部：一座液态玻璃大教堂，悬浮着被困住的花粉花园，微观的苔藓孢子森林像绿色星云般展开，细长的金色阳光脉络被弯曲成不可思议的几何形状。微小的气泡变成了行星。一片被困住的蚋虫翅膀变成了彩色玻璃窗。柔和的体积光从上方穿透水面。超微距，超写实且具有绘画感，边缘景深较浅，中心极其锐利，{argument name="color palette" default="湿润玉石、香槟金和珍珠白的配色方案"}。没有人像，没有文字，没有水印。电影级静帧，8K 细节，前所未见的原创构图。电影级静帧，3:2，具有绘画光影的写实风格。基础 GUI 布局。
+
+[English]
+Generate a game vast unseen world existing only in the pause between {argument name="interaction" default="two raindrops colliding"} in mid-air at {argument name="time of day" default="dawn"}. The instant of impact is frozen. Inside the fused droplet: a cathedral of liquid glass, hanging gardens of trapped pollen, microscopic forests of moss spores unfurling like green nebulae, and thin golden veins of sunlight bent into impossible geometry. Tiny air-bubbles become planets. A single trapped gnat’s wing becomes a stained-glass window. Soft volumetric god-rays pierce the water from above. Ultra-macro, hyper-real yet painterly, shallow depth of field at the edges, center razor-sharp, {argument name="color palette" default="color palette of wet jade, champagne gold, and pearl white"}. No humans, no text, no watermark. Cinematic still, 8K detail, original composition never seen before. cinematic still, 3:2, photoreal with painterly light. a basic GUI layout.
+```
+
+**来源：** [@mini singh AI world](https://x.com/KaminiKamini222/status/2094351954801799308) | 2026-08-31
+
+---
+
+### 🖥️ 例 7176：蓝色背景奢华影棚人像
+
+![蓝色背景奢华影棚人像](../images/%E8%93%9D%E8%89%B2%E8%83%8C%E6%99%AF%E5%A5%A2%E5%8D%8E%E5%BD%B1%E6%A3%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的奢华影棚人像，主体为 {argument name="subject" default="年轻女性，保留其可辨认的外貌、面部比例、深棕色头发、橄榄绿色眼睛、自然雀斑、肤色"}，并以高保真度保留其外貌特征。她独自站在 {argument name="background" default="无缝深钴蓝色影棚背景"} 前。她深棕色的头发梳成一个随性而精致的低发髻。她迷人的橄榄绿色眼睛直视镜头，表情冷静而自信。保留她自然的雀斑、真实的毛孔和细腻的皮肤纹理。为她搭配 {argument name="clothing" default="优雅、极简的晚装造型：一件精致的黑色缎面或丝绸衬衫，领口简洁，剪裁考究，佩戴精致的珍珠金饰"}。整体造型应呈现出奢华与永恒感。使用极简的影棚布光——仅使用一盏精心控制的柔光主灯，重点照亮她的面部。亲密的半身时尚人像，居中构图，静奢风杂志美学，照片级相机渲染，自然的皮肤瑕疵，清晰的发丝，真实的眼睛，高端专业影棚摄影，戏剧性而低调的氛围，8K 细节。
+
+[English]
+Create an ultra-realistic luxury studio portrait of the same {argument name="subject" default="young woman, preserving her recognizable appearance, facial proportions, deep brunette hair, olive-green eyes, natural freckles, skin tone"}, preserving her appearance with high fidelity. She stands alone against a {argument name="background" default="seamless deep cobalt-blue studio backdrop"}. Her dark brunette hair is styled in an effortlessly polished low updo. Her mesmerizing olive-green eyes look directly into the camera with a calm, confident expression. Keep her natural freckles, realistic pores, and subtle skin texture visible. Dress her in an {argument name="clothing" default="elegant, minimalist evening look: a sophisticated black satin or silk blouse with a clean neckline, understated tailoring, and refined pearl-and-gold jewellery"}. The styling should feel luxurious and timeless. Use very minimal studio lighting — one carefully controlled soft key light focused primarily on her face. Intimate waist-up fashion portrait, centered composition, quiet luxury editorial aesthetic, photorealistic camera rendering, natural skin imperfections, individual hair strands, realistic eyes, high-end professional studio photography, dramatic yet understated atmosphere, 8K detail.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2094313136115646902) | 2026-08-31
+
+---
+
