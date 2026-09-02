@@ -8922,3 +8922,143 @@ Strictly preserve the girl’s identity and appearance from the uploaded referen
 
 ---
 
+### 🧍 例 7222：Donato Pizzaiolo 角色设定集
+
+![Donato Pizzaiolo 角色设定集](../images/Donato%20Pizzaiolo%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="DONATO"}（一位那不勒斯披萨师傅）创作一份超写实、高定编辑风格的角色设定集，呈现出高端时尚大片与电影角色参考的效果。
+
+画布：宽屏 16:9 白色摄影棚布局，干净的杂志风格，清晰的抠图摄影，柔和的阴影，高分辨率编辑光效。
+
+布局：左侧顶部放置巨大的粗体黑色压缩无衬线字体，内容为 "{argument name="main title" default="DONATO"}"。正下方添加较小的粗体黑色大写副标题 "{argument name="subtitle" default="THE PIZZAIOLO / NAPLES"}"。在标题区域下方，展示一张厨师抛掷披萨面团的大型动作肖像，光影呈现温暖的赤陶色调，空气中带有面粉尘埃。中心位置展示全身转面图，包含同一男性的 3 个站立视角：正面、侧面和背面。沿右侧边缘垂直堆叠 4 个长方形特写细节面板：1 个深褐色眼睛与沾满面粉脸部的特写，1 个海军蓝细条纹围裙系带与黄铜环细节的特写，1 个面粉覆盖的手在大理石上按压面团的特写，以及 1 个磨损的黑色皮革厨师鞋特写。
+
+角色细节：30 多岁到 40 岁出头的英俊地中海男性，橄榄色皮肤，深棕色波浪卷发向后梳，留有浅胡茬，鼻梁高挺，身材匀称健硕，表情严肃专注。他身穿白色衬衫，袖子卷至前臂，腰间系着深海军炭灰色细条纹围裙，穿着黑色修身长裤和磨损的深色皮鞋。在所有视角中保持相同的面部特征和身体结构。
+
+色彩系统：在左下方/中心区域附近包含 4 个圆形色卡，每个色卡配有小型黑色标签和十六进制代码：Terracotta Ember #C85A32，Flour Dust White #F7F4EE，Fresh Basil #2E5A36，Hearth Charcoal #1F1E20。
+
+文字内容：在底部中心添加粗体大写黑色标语："{argument name="tagline" default="90 SECONDS AT 900 DEGREES."}"。保持所有排版清晰、具有编辑感，并留有充足的留白。
+
+视觉风格：超写实摄影与奢华时尚参考表设计相结合，干净的白色背景，高端烹饪品牌感，戏剧性但受控的灯光，细腻的颗粒感，无插画风格，无卡通效果。
+
+约束条件：使用 1 张大型动作肖像，3 个全身转面图，4 个右侧特写面板，以及 4 个色卡。不要添加额外的角色、道具、Logo、水印或其他文字。
+
+[English]
+Goal: Create a hyper-realistic, high-fashion editorial character bible sheet for {argument name="character name" default="DONATO"}, a Neapolitan pizzaiolo, presented like a premium fashion campaign and film character reference.
+
+Canvas: Wide horizontal 16:9 white studio layout, clean magazine look, crisp cutout photography, soft shadows, high-resolution editorial lighting.
+
+Layout: On the left, place massive bold black condensed sans-serif typography reading "{argument name="main title" default="DONATO"}" at the top. Directly below it, add the subtitle "{argument name="subtitle" default="THE PIZZAIOLO / NAPLES"}" in smaller bold black uppercase. Beneath the title area, show a large action portrait of the chef tossing stretched pizza dough, lit with a warm terracotta glow and flour dust in the air. In the center, display a full-body turnaround lineup with exactly 3 standing views of the same man: front view, side profile view, and back view. Along the right edge, stack exactly 4 rectangular close-up detail panels vertically: 1 close-up of intense brown eyes and flour-dusted face, 1 close-up of navy pinstripe apron tie and brass ring detail, 1 close-up of floury hand pressing dough on marble, and 1 close-up of worn black leather chef shoes.
+
+Character details: Handsome Mediterranean man in his late 30s to early 40s, olive skin, wavy dark brown hair swept back, light stubble, strong nose, athletic average build, serious focused expression. He wears a white button-up shirt with sleeves rolled to the forearms, a dark navy charcoal pinstripe apron tied at the waist, black tailored trousers, and worn dark leather shoes. Keep the same facial features and body structure across all views.
+
+Color system: Include exactly 4 circular color swatches near the lower-left/center area, each with small black labels and hex codes: Terracotta Ember #C85A32, Flour Dust White #F7F4EE, Fresh Basil #2E5A36, Hearth Charcoal #1F1E20.
+
+Text content: Add the bottom-center tagline in bold uppercase black: "{argument name="tagline" default="90 SECONDS AT 900 DEGREES."}". Keep all typography sharp, editorial, and aligned with generous white space.
+
+Visual style: Hyper-realistic studio photography mixed with luxury fashion reference sheet design, clean white background, premium culinary branding, dramatic but controlled lighting, subtle grain, no illustration style, no cartoon effects.
+
+Constraints: Use exactly 1 large action portrait, exactly 3 full-body turnaround figures, exactly 4 right-side close-up panels, and exactly 4 color swatches. Do not add extra characters, props, logos, watermarks, or additional text.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2094827029908631794) | 2026-09-01
+
+---
+
+### 🧍 例 7242：可颂吉卜力风格参考图
+
+![可颂吉卜力风格参考图](../images/%E5%8F%AF%E9%A2%82%E5%90%89%E5%8D%9C%E5%8A%9B%E9%A3%8E%E6%A0%BC%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="food subject" default="可颂"} 创建一张详尽的复古插画风格视觉参考图，采用温暖的手绘 {argument name="art style" default="吉卜力工作室风格"}，如同旧食谱中的糕点制作指南。
+
+画布：宽幅 16:9 横向构图，背景为温暖的奶油色羊皮纸，带有细棕色圆角边框、柔和的深褐色墨水轮廓、轻柔的水彩阴影以及舒适的烘焙店光影。使用米白色背景，带有细微的纸张纹理。
+
+标题：左上角为醒目的手写体大标题“{argument name="headline text" default="CROISSANT"}”。下方为较小的全大写副标题：“VISUAL REFERENCE SHEET – STUDIO GHIBLI STYLE”，两侧饰有小型叶片装饰。
+
+布局：将图表分为 5 个主要区域：左上角 1 个大型配料面板，左下角 1 个工具面板，左下边缘 1 条色板，右上角 1 个大型成品可颂展示面板，右下角 1 个包含 5 个编号步骤的制作流程面板。
+
+配料面板：标注为“INGREDIENTS”。展示 6 个从左至右排列的配料插图，每个插图配有醒目的大写标签和简短说明：1) 生面团球，光滑且呈浅色，撒有面粉；2) 压平的黄油，呈浅黄色且冰凉；3) 擀开的面团，薄而均匀的矩形片；4) 面团三角形，卷制前；5) 生可颂，未烘烤且呈浅色柔软状；6) 烤好的可颂，金黄酥脆，表面有焦糖化色泽。
+
+工具面板：标注为“TOOLS”。展示 5 个从左至右排列的工具：1) 木制擀面杖，标注用于均匀擀开面团；2) 木柄糕点刀，标注锋利刀刃用于整齐切割；3) 铺有烘焙纸的金属烤盘；4) 木柄糕点刷，标注用于涂抹蛋液；5) 带有发光火苗的砖砌烤箱，标注高温烘焙。
+
+成品可颂面板：标注为“FINISHED CROISSANT”。展示一个放在白色椭圆形盘子上的大型成品可颂，角度从左下向右上略微倾斜。可颂尺寸较大，色泽金黄油亮，呈新月形，可见清晰的层叠纹理、深色的焦糖化脊线、酥脆的裂纹、烘烤焦斑，盘子上带有柔和的阴影。
+
+制作流程面板：标注为“MAKING PROCESS”。包含 5 张从左至右垂直排列的编号卡片，每张卡片上方有一个深色圆形数字徽章，下方配有插图和文字：1) “BEAT BUTTER FLAT”展示羊皮纸上的黄油块，说明黄油需在纸间拍打至平整均匀的方形；2) “WRAP AND SEAL”展示包裹黄油的面团，说明将黄油置于擀开面团中心并严密封口；3) “FOLD AND ROLL”展示折叠后的层叠面团，说明通过多次折叠和擀开来构建层次；4) “CUT AND SHAPE”展示长条三角形面团和生可颂，说明切成三角形并从底部向尖端卷起；5) “EGG WASH AND BAKE”展示烤盘上的多个可颂，说明刷上蛋液并烘烤至金黄酥脆。
+
+色板：标注为“COLOR PALETTE”。展示 7 个带有名称和十六进制代码的圆形色块：1) 面团奶油色 #F5ECD7，2) 黄油黄 #F5C518，3) 烘焙金 #D4A55A，4) 焦糖壳色 #8B5E3C，5) 酥脆内层 #FAF3E0，6) 羊皮纸白 #F9F6F0，7) 焦褐色 #3D1F0A。
+
+排版与风格：标签使用粗体压缩手绘大写字母，说明文字使用整洁的小型手写体，采用深巧克力棕色墨水，圆角奶油色标签页，保持统一的复古烘焙参考图设计。所有插图应保持迷人、清晰且易读，带有柔和的绘画感阴影和温暖的琥珀色高光。
+
+约束：不包含人物，不追求照片级真实感，不包含现代 UI 元素，无水印，除上述 5 个主要区域外不添加额外部分。确保所有可见的英文文本清晰且拼写正确。
+
+[English]
+Goal: Create a detailed vintage illustrated visual reference sheet for {argument name="food subject" default="Croissant"} in a warm hand-drawn {argument name="art style" default="Studio Ghibli style"}, like a pastry-making guide from an old cookbook.
+
+Canvas: Wide horizontal 16:9 composition on warm cream parchment paper, with thin brown rounded panel borders, muted sepia ink outlines, soft watercolor shading, and cozy bakery lighting. Use an off-white background with subtle paper texture.
+
+Header: Large bold hand-lettered title at the top left reading “{argument name="headline text" default="CROISSANT"}”. Beneath it, smaller uppercase subtitle: “VISUAL REFERENCE SHEET – STUDIO GHIBLI STYLE”, flanked by small decorative leaf sprigs.
+
+Layout: Divide the sheet into 5 main areas: 1 large ingredients panel on the upper left, 1 tools panel on the lower left, 1 color palette strip along the bottom left, 1 large finished croissant showcase panel on the upper right, and 1 making process panel with 5 numbered steps on the lower right.
+
+Ingredients panel: Label the panel “INGREDIENTS”. Show exactly 6 ingredient illustrations arranged left to right, each with a bold uppercase label and a short note: 1) raw dough ball, smooth and pale, dusted with flour; 2) flat beaten butter, pale yellow and cold; 3) rolled out dough, thin and even rectangular sheet; 4) dough triangle, before rolling; 5) raw crescent, unbaked and pale soft; 6) baked croissant, golden and flaky with caramelized surface.
+
+Tools panel: Label the panel “TOOLS”. Show exactly 5 tools arranged left to right: 1) wooden rolling pin, captioned for rolling dough evenly; 2) pastry knife with wooden handle, captioned sharp blade for clean cuts; 3) metal baking tray lined with parchment paper; 4) pastry brush with wooden handle, captioned for egg wash application; 5) brick oven with glowing fire, captioned high heat for baking.
+
+Finished croissant panel: Label it “FINISHED CROISSANT”. Show one large finished croissant on a white oval plate, angled slightly from lower left to upper right. The croissant is oversized, glossy, golden brown, crescent-shaped, with many visible laminated layers, darker caramelized ridges, flaky cracks, toasted spots, and a soft shadow on the plate.
+
+Making process panel: Label it “MAKING PROCESS”. Include exactly 5 vertical numbered cards from left to right, each with a dark circular number badge and a small illustration above text: 1) “BEAT BUTTER FLAT” showing a square block of butter on parchment, note that butter is beaten between sheets until flat and even in a square; 2) “WRAP AND SEAL” showing dough folded around butter, note to place butter in the center of rolled dough and seal edges tightly; 3) “FOLD AND ROLL” showing a folded laminated dough stack, note to fold dough and roll out and repeat several times to build layers; 4) “CUT AND SHAPE” showing long dough triangles and a raw crescent, note to cut into triangles and roll up from base to tip; 5) “EGG WASH AND BAKE” showing several croissants on a baking tray, note to brush with egg wash and bake until golden and flaky.
+
+Color palette strip: Label it “COLOR PALETTE”. Show exactly 7 circular color swatches with names and hex codes: 1) Dough Cream #F5ECD7, 2) Butter Yellow #F5C518, 3) Baked Gold #D4A55A, 4) Caramel Crust #8B5E3C, 5) Flaky Interior #FAF3E0, 6) Parchment White #F9F6F0, 7) Char Brown #3D1F0A.
+
+Typography and style: Use bold condensed hand-drawn uppercase lettering for labels, smaller neat handwritten captions, dark chocolate-brown ink, rounded cream label tabs, and consistent old-fashioned bakery reference-sheet design. Keep all illustrations charming, clean, and readable, with soft painterly shadows and warm amber highlights.
+
+Constraints: Include no people, no photorealism, no modern UI elements, no watermark, and no extra sections beyond the described 5 main areas. Keep all visible English text legible and spelled correctly.
+```
+
+**来源：** [@𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_/status/2094717576232186064) | 2026-09-01
+
+---
+
+### 🧍 例 7243：动漫版维纳斯雕像
+
+![动漫版维纳斯雕像](../images/%E5%8A%A8%E6%BC%AB%E7%89%88%E7%BB%B4%E7%BA%B3%E6%96%AF%E9%9B%95%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图作为动漫角色设定渲染风格，创作一张全新的全身概念图，将主体转化为古典大理石博物馆雕像。制作 1 个灵感源自无臂维纳斯的雕像，头部替换为优雅的动漫女性，{argument name="character name" default="Karin"}，留着长卷发，并配有大型蝴蝶状发饰。将整个形象渲染为带有细微裂纹、污渍、雕刻接缝和雕塑阴影的苍白陈旧大理石，臀部和腿部包裹着垂褶布料。将雕像垂直放置在 1 个带有 2 层明显圆形底座的圆台上，背景为简洁的暖米色摄影棚/博物馆背景。保持构图简洁、垂直且具有角色参考图的特点，不要包含任何标签、注释、额外角色或武器。
+
+[English]
+Using the provided reference images as the anime character-sheet rendering style, create a new full-body concept image that transforms the subject into a classical marble museum statue. Make exactly 1 armless Venus de Milo–inspired statue with the head replaced by an elegant anime woman, {argument name="character name" default="Karin"}, with long curled ringlet hair and a large butterfly-like hair ornament. Render the entire figure as pale aged marble with subtle cracks, stains, carved seams, and sculptural shading, including a draped cloth wrap around the hips and legs. Place the statue upright on exactly 1 round pedestal with 2 visible circular tiers, centered against a plain warm beige studio/museum background. Keep the composition clean, vertical, and character-reference-like, with no labels, no notes, no extra characters, and no weapons.
+```
+
+**来源：** [@Street Fighter: Yakuza Wars](https://x.com/SFYakuzaWars/status/2094706983634915749) | 2026-09-01
+
+---
+
+### 🧍 例 7250：高级时装角色概念艺术
+
+![高级时装角色概念艺术](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质、现代的高级时装角色概念艺术设计图，采用 16:9 宽屏布局，背景为纯白色。所附参考图像定义了艺术风格 —— 请将其视为严格的风格准则，并精准复刻其渲染效果。
+
+[English]
+Create a premium, modern high-fashion {argument name="subject" default="CHARACTER CONCEPT ART SHEET"} in a {argument name="aspect ratio" default="16:9"} widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2094670009935052827) | 2026-09-01
+
+---
+

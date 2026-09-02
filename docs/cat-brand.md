@@ -19251,3 +19251,131 @@ Create a cinematic anime-style single-panel illustration of {argument name="char
 
 ---
 
+### 🏷️ 例 7227：奢华护肤品广告
+
+![奢华护肤品广告](../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的奢华商业产品广告，用于高端护肤品牌 {argument name="brand name" default="AUREVIA"}，展示其“{argument name="product name" default="VELVET HYDRATE Body Lotion"}”。将一个精致的 250 ml 高椭圆形泵头瓶置于构图中心，以轻微的对角线角度放置，呈现出动态的杂志大片质感。使用 {argument name="bottle color" default="哑光鼠尾草绿"} 瓶身，表面具有平滑的亲肤触感，并配备拉丝香槟金泵头。标签设计采用优雅的拱形植物图案，灵感源自流动的叶片和细腻的等高线。采用鼠尾草绿、香槟金、暖象牙白和柔和陶土色的高级配色方案。避免复制参考图中矩形标签或橙紫色调的风格。正面标签应清晰准确地显示：AUREVIA, VELVET HYDRATE, Nourishing Body Lotion, Aloe Vera + Shea Butter, Soften • Nourish • Hydrate, 250 ml。在瓶身周围布置精心排列的新鲜芦荟切片、象牙色小花、乳木果、桉树叶及精致的植物元素。添加透明水珠和瓶后优雅的水花溅射，以传达清新与水润感。不要使用橙色调表面，将产品放置在具有细腻天然纹理的浅奶油色洞石平台上。在产品后方引入艺术感的弧形鼠尾草绿背景，营造出层次感和独特的高端布景设计。使用从左上方斜射入的柔和金色日光，在背景上投射出优雅的植物阴影。添加逼真的反射、瓶身上的细小凝露、金色泵头上的微妙高光以及产品下方的柔和阴影。构图应显得精致、清新、自然、现代且昂贵——类似于国际高端护肤品广告。摄影风格：奢华美妆广告、专业产品摄影、微距级材质细节、逼真的液体和水物理效果、清晰的排版、照片级真实的植物纹理、浅景深、高级摄影棚灯光、8K 细节。长宽比：4:5 竖构图。
+
+[English]
+Create an ultra-realistic luxury commercial product advertisement for a premium skincare brand called {argument name="brand name" default="AUREVIA"}, featuring its “{argument name="product name" default="VELVET HYDRATE Body Lotion"}.” Place a sophisticated 250 ml tall oval pump bottle prominently in the center of the composition, positioned at a slight diagonal angle for a dynamic editorial look. Use a {argument name="bottle color" default="matte sage-green"} bottle with a smooth soft-touch finish and a brushed champagne-gold pump. Design the label with an elegant arched botanical pattern inspired by flowing leaves and subtle topographic lines. Use a sophisticated palette of sage green, champagne gold, warm ivory, and muted terracotta. Avoid copying the rectangular label or orange-and-purple styling of the reference. The front label should clearly and correctly display: AUREVIA, VELVET HYDRATE, Nourishing Body Lotion, Aloe Vera + Shea Butter, Soften • Nourish • Hydrate, 250 ml. Surround the bottle with beautifully arranged fresh aloe vera slices, small ivory flowers, shea nuts, eucalyptus leaves, and delicate botanical elements. Add transparent water droplets and a graceful splash of water sweeping behind the bottle to communicate freshness and hydration. Instead of an orange-toned surface, place the product on a light cream travertine stone platform with subtle natural texture. Introduce an artistic curved sage-green backdrop behind the product, creating layered depth and a distinctive premium set design. Use soft golden daylight entering diagonally from the upper left, creating elegant botanical shadows across the background. Add realistic reflections, tiny condensation droplets on the bottle, subtle highlights on the gold pump, and soft shadows beneath the product. Composition should feel sophisticated, fresh, botanical, modern, and expensive—similar to a high-end international skincare campaign. Photography: luxury beauty advertising, professional product photography, macro-level material detail, realistic liquid and water physics, crisp typography, photorealistic botanical textures, shallow depth of field, premium studio lighting, 8K detail. Aspect ratio: 4:5 portrait.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2094798041026797878) | 2026-09-01
+
+---
+
+### 🏷️ 例 7241：优雅石墨男性肖像
+
+![优雅石墨男性肖像](../images/%E4%BC%98%E9%9B%85%E7%9F%B3%E5%A2%A8%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富、优雅的石墨铅笔肖像，主体为 {argument name="subject" default="一位英俊的年轻男子"}，采用精致的四分之三侧身姿势，露出双肩，头部微微转向观者，眼神平静且直视前方。他拥有轮廓分明的男性面部特征、深邃且富有表现力的双眼、自然浓密的眉毛、笔挺的鼻梁、紧闭的双唇，以及修剪整齐的浓密胡须。他的 {argument name="hair style" default="浓密深色的波浪卷发，发量充盈且随意地垂在额前"} 通过细腻的铅笔笔触和飘逸的发丝呈现。为他穿上 {argument name="clothing" default="一件干练的浅色开领衬衫"}，领口和上胸部采用柔和的素描手法。采用单色石墨绘画风格，背景为暖色调的灰白色纹理纸，线条细腻逼真，运用柔和的交叉排线、微妙的晕染阴影和流畅的色调渐变，重点刻画眼睛、胡须和头发的细节，而衬衫和背景则处理得更为轻盈淡雅。构图为垂直半身近景肖像，主体略微偏左居中，背景为柔和的空白纸面，无文字、无边框、无水印，呈现出永恒的手绘艺术美感。
+
+[English]
+Create a highly detailed, elegant graphite pencil portrait of {argument name="subject" default="a handsome young man"} in a refined three-quarter profile pose, shoulders visible, head turned slightly toward the viewer with direct calm eye contact. He has well-defined masculine facial features, expressive deep-set eyes, naturally thick eyebrows, a straight strong nose, full closed lips, and a neatly trimmed full beard and mustache. His {argument name="hair style" default="thick dark wavy hair, voluminous and swept loosely across the forehead"} is rendered with many individual pencil strokes and flyaway strands. Dress him in {argument name="clothing" default="a crisp light-colored open-collar button-up shirt"}, with the collar and upper chest softly sketched. Use a monochrome graphite drawing style on warm off-white textured paper, with realistic fine linework, soft cross-hatching, subtle smudged shading, smooth tonal gradients, and strong detail in the eyes, beard, and hair while the shirt and background fade more lightly. Composition should be a vertical close-up bust portrait, centered slightly to the left, with a soft blank paper background, no text, no border, no watermark, and a timeless hand-drawn fine-art aesthetic.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2094720155486159345) | 2026-09-01
+
+---
+
+### 🏷️ 例 7245：Medium 与 High 文本伪影对比
+
+![Medium 与 High 文本伪影对比](../images/Medium%20%E4%B8%8E%20High%20%E6%96%87%E6%9C%AC%E4%BC%AA%E5%BD%B1%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张宽幅裁剪的对比图，在纯白色背景上并排展示两个图像生成质量的结果。画布为超宽水平条状，长宽比约为 5:1，裁剪紧凑，仅显示每个结果的顶部。在第一个裁剪图上方的左侧放置粗体黑色大写标签“MEDIUM”；在第二个裁剪图上方的中心附近放置粗体黑色大写标签“HIGH”。两个对比面板均显示相同的健身课程风格磁贴布局：顶部为展示健身器材和深色运动器械的摄影带，下方为深青色矩形标题栏，其中包含醒目的白色粗体日文文本 {argument name="main tile text" default="有酸素"}。使用粗白色边框和锐利的白色对角分割线，使布局呈现出动态的倾斜拼贴感。准确计数 2 个主要的可见青色标题磁贴，每个面板中各有一个完整的“有酸素”文本，外加右侧边缘 2 个仅显示第一个字符或片段的部分可见青色磁贴 {argument name="partial tile text" default="ス"}。底部可见一条细细的白色分割线和另一行青色磁贴的顶部边缘，已被裁剪。强调正在对比的伪影：在纯青色背景上的白色日文字符周围，包含细微的亮度与饱和度不均斑块、淡淡的光晕和斑驳的纹理，其中“HIGH”面板稍显清晰，但仍可见不均匀性。保持构图为技术截图/对比裁剪，而非精美的海报。使用清晰的无衬线字体，高对比度，无额外说明文字，无水印。
+
+[English]
+Create a wide cropped comparison graphic showing two side-by-side image-generation quality results on a plain white background. The canvas is an ultra-wide horizontal strip, about 5:1 aspect ratio, cropped tightly so only the top portion of each result is visible. At the top left above the first crop place the bold black uppercase label “MEDIUM”; near the upper center above the second crop place the bold black uppercase label “HIGH”. Each of the 2 comparison panels shows the same fitness-class style tiled layout: a photographic band at the top with gym equipment and dark exercise machines, underneath a deep teal rectangular title bar with large bold white Japanese text {argument name="main tile text" default="有酸素"}. Use thick white borders and sharp diagonal white dividers between tiles, giving the layout a dynamic slanted collage look. Count exactly 2 main visible teal title tiles with the full text “有酸素”, one in each panel, plus exactly 2 partially visible neighboring teal tiles at the right edge showing only the first character or fragment {argument name="partial tile text" default="ス"}. A thin lower white divider and the top edge of another teal row are barely visible along the bottom, cropped off. Emphasize the artifact being compared: around the white Japanese letters on the solid teal backgrounds, include subtle uneven brightness and saturation patches, faint haloing, and mottled texture, with the “HIGH” panel slightly cleaner but still showing visible nonuniformity. Keep the composition as a technical screenshot/comparison crop, not a polished poster. Use crisp sans-serif typography, high contrast, no extra captions, no watermark.
+```
+
+**来源：** [@桒谷 一成 | inovie㍿](https://x.com/gakutarou_pmf/status/2094704635185709224) | 2026-09-01
+
+---
+
+### 🏷️ 例 7248：北极熊吉祥物变体设计图
+
+![北极熊吉祥物变体设计图](../images/%E5%8C%97%E6%9E%81%E7%86%8A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%98%E4%BD%93%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个角色设计探索图，展示 16 种可爱的白色北极熊吉祥物变体，全部通过文本生成。
+
+画布：正方形白色画布，排列为整齐的 4x4 网格，带有淡淡的浅灰色单元格边界和宽裕的边距。每个单元格包含一个全身或半身熊，背景为白色，像贴纸或角色概念缩略图一样居中。
+
+主体细节：该角色是一个简单的直立北极熊吉祥物，拥有圆润结实的身体、短腿、小圆耳、下垂的手臂、又大又圆的惊讶眼睛以及一个大的椭圆形口鼻部。使用 {argument name="fur color" default="温暖的灰白色北极熊毛发"}，粗细不均的黑色手绘轮廓，少量稀疏的米色毛发标记，以及天真的儿童绘本涂鸦风格。大多数熊有棕褐色或桃色的口鼻部，带有黑色椭圆形鼻子；有些有粉红色的脸颊圆圈和粉红色的内耳。这只熊应该给人一种古怪、迷人、略显笨拙且原创的感觉，而不是精致的感觉。
+
+布局与数量：包含 16 个独立的熊绘图，每个网格单元一个。可见的变体应包括：
+1. 全身熊，带有粉红色内耳、巨大的圆眼睛、高大的桃色口鼻部、黑色鼻子和小嘴线。
+2. 全身熊，带有微小的圆耳朵、腮红脸颊、棕褐色口鼻部、张开的黑色椭圆形嘴；在下半身添加一个小覆盖菜单，精确显示三行堆叠文字：“Vary Subtle”、“Vary Strong”、“Animate”。
+3. 全身熊，带有非常大的侧向鲑鱼粉色口鼻部（指向左侧）和小巧的下垂手臂。
+4. 全身熊，带有粉红色内耳和长长的垂直棕褐色口鼻部，中心为黑色开口。
+5. 较矮的全身熊，带有圆肚子、小侧尾、棕褐色口鼻部和灰黑色嘴部斑块。
+6. 高瘦的熊，带有腮红脸颊、长长的棕褐色口鼻部、左下方的深灰色鼻子，以及许多垂直的毛发刻痕。
+7. 紧凑的熊，带有圆圆的腮红脸颊、粗短的腿、米色侧影口鼻部和指向右侧的黑色鼻子。
+8. 圆头熊，带有粉红色内耳、棕褐色口鼻部和黑色张开的笑嘴。
+9. 简洁的全身熊，毛发标记极少，小耳朵，超大眼睛，浅色口鼻部和指向左侧的大黑鼻子。
+10. 全身熊，带有粉红色脸颊、圆形口鼻部、大黑鼻子、宽直的躯干和小尾巴。
+11. 苗条的熊，带有下垂的手臂、腮红脸颊、小的水平椭圆形口鼻部和卷曲的耳朵。
+12. 较宽的梨形熊，带有小眼睛、小口鼻部和指向右侧的黑色鼻子。
+13. 从底部边缘升起的半身熊，带有粉红色内耳、高大的棕褐色口鼻部、黑色鼻子和小嘴。
+14. 半身熊，带有粉红色脸颊、三角形棕褐色口鼻部和黑色鼻子。
+15. 半身熊，带有一只可见的大耳朵、垂直毛发刻痕、棕褐色口鼻部和向左偏移的黑色鼻子。
+16. 半身熊，带有卷曲的耳朵、粉红色脸颊、棕褐色口鼻部和向右偏移的黑色鼻子。
+
+视觉风格：松散的矢量风格墨水插画，粗而颤动的黑色轮廓线，平铺的灰白色填充，微妙的米色阴影，极简的纹理，异想天开的吉祥物概念艺术。熊的轮廓和面部比例应有所变化，同时清晰地属于同一个角色家族。使用 {argument name="character mood" default="可爱、古怪、睁大眼睛且温和"}。
+
+约束：保持背景为纯白色，避免写实渲染，避免除极淡的单元格分隔线以外的阴影，无水印，除了单元格 2 中的三个覆盖标签外，不添加额外文字。保持 4x4 网格和 16 个熊变体。
+
+[English]
+Goal: Create a character design variation sheet for a cute white polar bear mascot, showing exactly 16 discrete bear designs arranged in a clean 4-by-4 grid.
+
+Canvas: Square image on a plain white background, like a screenshot of an image-generation variation gallery. Use faint tile divisions between the 16 panels, with soft off-white spacing and no decorative border.
+
+Layout: Four rows and four columns, each tile containing one full-body or cropped white bear character centered in its panel. Keep the bears similar but not identical, varying the body silhouette, snout shape, ear placement, cheek marks, posture, and line wobble. Include a small translucent interface overlay on the second bear in the first row with three stacked labels: “Vary Subtle”, “Vary Strong”, and “Animate”.
+
+Subject details: The character is a hand-drawn, childlike {argument name="character type" default="white polar bear mascot"} with a simple upright stance, round staring eyes, small rounded ears with pink inner ears, a tan or peach muzzle, black nose, tiny paws, and occasional pink cheeks. The body should be slightly tubby and rectangular-to-pear-shaped, with short arms hanging down and small feet. Use black uneven marker-like outlines, simple flat coloring, and sparse pale beige fur strokes on some bears.
+
+Count and visible variations: Show exactly 16 bears total. Row 1: 1) tall rectangular bear with pink inner ears and long peach muzzle, 2) similar bear with blush cheeks and UI overlay across the legs, 3) shaggy narrow bear with oversized sideways salmon muzzle, 4) clean rounded bear with tall vertical tan muzzle. Row 2: 5) stocky bear with tiny side tail and gray-black nose patch, 6) taller bear with blush cheeks and drooping black nose, 7) smaller furry bear with round red cheeks and horizontal snout, 8) rounded bear with open smiling black mouth inside tan muzzle. Row 3: 9) simplified smooth bear with large side-pointing black nose, 10) upright bear with red cheeks and dark oval nose, 11) slim bear with tiny muzzle and blush cheeks, 12) pear-shaped bear with side-facing snout and one arm visible. Row 4: 13) cropped upper body bear with long oval muzzle, 14) cropped upper body bear with pointed tan muzzle and red cheeks, 15) cropped upper body bear with tilted oval muzzle and light fur marks, 16) cropped upper body bear with curled ears, red cheeks, and small dark nose.
+
+Visual style: Cute naive doodle illustration, loose black ink contour lines, minimal shading, warm off-white fur, soft pink accents, playful imperfect proportions, whimsical mascot exploration sheet. The art should feel like an iterative concept sheet moving toward a charming polar bear character.
+
+Constraints: Do not add scenery, props, logos, or extra characters. Keep the background white and the grid clean. Preserve the exact 16-panel count and the three overlay labels on the first-row second panel. Avoid realistic fur, 3D rendering, or polished vector smoothness.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2094675130136043740) | 2026-09-01
+
+---
+
+### 🏷️ 例 7270：九重葛下的南亚男子
+
+![九重葛下的南亚男子](../images/%E4%B9%9D%E9%87%8D%E8%91%9B%E4%B8%8B%E7%9A%84%E5%8D%97%E4%BA%9A%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实、高细节的电影感户外肖像，主角为一位 {argument name="ethnicity and gender" default="英俊的南亚男子"}，他正悠闲地坐在茂密的粉色九重葛花冠下的草地上。他留着整齐的黑色偏分短发，拥有温暖的棕色皮肤、修剪整齐的络腮胡和八字胡，皮肤纹理自然，面带平静温柔的微笑，直视镜头。他身穿一件挺括的白色传统沙尔瓦卡米兹（shalwar kameez）或库尔塔睡衣（kurta pajama），长袖立领设计，脚穿棕色皮凉鞋，左手腕佩戴一块深棕色表带的银色腕表。姿势：盘腿坐在草坪上，一侧膝盖微微抬起，左前臂随意地搁在抬起的膝盖上，手自然下垂，右手在草地附近放松。周围散落着粉色的花瓣，头顶和右侧有繁茂的花枝，营造出浪漫的花园隧道效果。采用柔和的黄金时刻阳光、自然逆光、穿过叶片的斑驳光影、浅景深、奶油般的绿色虚化背景、真实的织物褶皱、清晰的面部细节以及垂直全身构图。整体氛围宁静、优雅且具有电影感，画面中无文字、无水印、无其他人物，且避免人工摄影棚的质感。
+
+[English]
+Create a photorealistic high-detail cinematic outdoor portrait of a {argument name="ethnicity and gender" default="handsome South Asian man"} sitting relaxed on green grass beneath a dense canopy of vivid pink bougainvillea flowers. He has short neatly parted black hair, warm medium-brown skin, a trimmed full beard and mustache, natural skin texture, and a calm gentle smile while looking directly at the camera. Dress him in a crisp white traditional shalwar kameez/kurta pajama with long sleeves and a band collar, wearing brown leather sandals and a silver wristwatch with a dark brown strap on his left wrist. Pose: seated cross-legged on the lawn, one knee raised slightly, left forearm resting casually on the raised knee with the hand hanging down, right hand relaxed near the grass. Surround him with fallen pink petals on the grass and abundant flowering branches overhead and to the right, creating a romantic garden tunnel effect. Use soft golden-hour sunlight, natural backlighting, dappled highlights through leaves, shallow depth of field, creamy green bokeh background, realistic fabric folds, sharp facial detail, and a vertical full-body composition. Keep the mood serene, elegant, and cinematic, with no text, no watermark, no extra people, and no artificial studio look.
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2094596834497093920) | 2026-09-01
+
+---
+

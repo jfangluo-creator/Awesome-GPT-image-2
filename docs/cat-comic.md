@@ -9578,3 +9578,75 @@ Constraints: Maintain consistent character identity across all panels, use reali
 
 ---
 
+### 🎬 例 7258：漫画破壁故事板系列
+
+![漫画破壁故事板系列](../images/%E6%BC%AB%E7%94%BB%E7%A0%B4%E5%A3%81%E6%95%85%E4%BA%8B%E6%9D%BF%E7%B3%BB%E5%88%97.jpg)
+
+**Prompt:**
+
+```text
+【指示書】STORYBOARD_PANEL_1_INTRO\n\n【前提条件】\n対象キャラクターの「全身の参照画像」を読み込ませること。\n\n【目的】\n物語の導入シーン。巨大な漫画本の中に、参照画像の人物が2Dの漫画キャラクターとして閉じ込められている状況を生成する。（※このカットでは、まだ実写3Dの人物は外に存在しない）\n\n【基本設定と画質】\n・画質: Ultra-realistic 8K.\n・アスペクト比: 1:1（スクエア固定）\n・背景: 美しく整頓された寝室。木目の床。自然光。\n\n【シーンと構図の完全指定】\n・漫画本の配置: 巨大な漫画本が見開き状態で、画面奥から手前へ斜めに立てかけられている（V4と同一の背景・構造）。\n・アクションと状況: 本の前に実写の人物はいない。焦点は「本の中のページ」に当てられている。\n・破壊表現: まだ紙面は破れていない。完全な状態のページ。\n\n【漫画世界側の描写とセリフ指定】\n・漫画の仕様: スクリーントーンと太いインク線、コマ割りを持つ日本式モノクロ漫画。\n・漫画内の人物: 参照画像と同一人物（2D線画）。自分が漫画の中にいることに気づき、周囲を見渡して困惑している表情。\n・吹き出しのテキスト（以下の日本語をコマ内に配置）:\n 1. 「ここは… どこ？」\n 2. 「出られない…！」\n\n【出力における絶対条件】\n・実写の人物を登場させず、3Dの部屋と2Dの漫画本という空間を描写すること。\n\n-----\n\n【指示書】STORYBOARD_PANEL_2_STRUGGLE\n\n【前提条件】\n対象キャラクターの「全身の参照画像」を読み込ませること。\n\n【目的】\n漫画の中にいる人物が現実世界に気づき、コマの枠や紙面を内側から強く押して破ろうとしている、ブレイクアウト直前のシーンを生成する。\n\n【基本設定と画質】\n・画質: Ultra-realistic 8K, photorealistic.\n・アスペクト比: 1:1（スクエア固定）\n・背景: 美しく整頓された寝室。木目の床。自然光。\n\n【シーンと構図の完全指定】\n・漫画本の配置: 巨大な漫画本が見開き状態で、斜めに立てかけられている（V4と同一の背景・構造）。\n・アクションと状況: 漫画の中の人物（2D）が、紙面の裏側から外の世界に向かって両手を強く押し当てている。\n・破壊・立体表現: 人物が押している部分の紙面が、わずかに外側（3D空間側）に向かって盛り上がり、紙が少し破れ始めている。モノクロの世界から、押している手や体の一部だけがほんの少しフルカラー（実写）に変化し始めている予兆を描く。\n\n【漫画世界側の描写とセリフ指定】\n・漫画の仕様: スクリーントーンと太いインク線、コマ割りを持つ日本式モノクロ漫画。\n・漫画内の人物: 参照画像と同一人物。外に出ようと必死な表情。\n・吹き出しのテキスト（以下の日本語をコマ内に配置）:\n 1. 「外の世界…！？」\n 2. 「開いて…！」\n\n【出力における絶対条件】\n・「2Dから3Dへ次元の壁を押し破ろうとしている」境界の緊張感を描くこと。\n\n-----\n\n【指示書】STORYBOARD_PANEL__V3_PERFECT_BALANCE\n\n【前提条件】\n本プロンプトの実行時には、必ず対象キャラクターの「全身の参照画像」を読み込ませること。\n\n【目的】\n実写側の人体プロポーションの完全維持と、巨大な漫画本の構造（コマ割り・見開き）を両立させたシーンを生成する。\n\n【キャラクターのプロポーション維持（最重要）】\n・体型指定: 参照画像の人物が持つ「高頭身」「長い脚」「細身でスタイリッシュな骨格」を、実写側と漫画側の両方で完全に再現すること。\n・パース崩れの禁止: 実写の人物が本から足を踏み出す際、遠近法による脚の極端な短縮、胴長化、関節の不自然な曲がり、体型の崩れを厳格に禁止する。\n\n【基本設定と画質】\n・画質: Ultra-realistic 8K, photorealistic.\n・アスペクト比: 1:1（スクエア固定）\n・背景: 美しく整頓された寝室。木目の床。自然光。\n\n【シーンと構図の完全指定】\n・漫画本の配置: 巨大な漫画本が「見開き状態」で、画面奥から手前へ斜めに立てかけられている構図。単なる1枚の分厚いボードにならないよう、本のページとしての構造を保つこと。\n・アクションとポーズ: 実写の人物が、ページの枠内から画面の手前（左下方向）に向かって力強く足を踏み出している。視線は足元へ。片手は破れた紙の縁に添える。\n・破壊表現: 人物が踏み出した部分のページ「だけ」が破れており、本全体の構造は崩壊していないこと。\n\n【漫画世界側の描写とセリフ指定（レイアウト構造の維持）】\n・漫画の仕様: 必ず「複数の四角いコマ割り（パネル枠線）」を持つ、本格的な日本式のモノクロ漫画レイアウトにすること。1枚絵のポスターにならないこと。\n・漫画内の人物: 参照画像と同一人物（2D線画）。困惑して立ち尽くしているポーズ。\n・吹き出しのテキスト（以下の日本語をコマ内に配置）:\n 1. 「あれ…？」\n 2. 「私… どうしてこんなところ…!?」\n 3. 「ここは… マンガの中…？」\n 4. 「どうやって出たらいいの…？」\n\n【出力における絶対条件】\n・「見開きの本とコマ割り」の構造を維持しつつ、「手前への踏み出しとプロポーション」を崩さないこと。\n・実写のフルカラーと漫画のモノクロ2Dの強烈なコントラストを描くこと。\n\n-----\n\n【指示書】MANGA_BREAKOUT_FINALE_PUNCHLINE\n\n【前提条件】\n対象キャラクターの「全身の参照画像」を読み込ませること。\n\n【目的】\n本から抜け出した実写の人物と、本の中にいる漫画の人物が対面し、互いに指をさし合って驚くユーモラスな「オチ」のシーンを生成する。V4で確立したプロポーションと本の構造を維持する。\n\n【基本設定と画質】\n・画質: Ultra-realistic 8K, photorealistic.\n・アスペクト比: 1:1（スクエア固定）\n・背景: 美しく整頓された寝室。木目の床。自然光。\n\n【シーンと構図の完全指定】\n・漫画本の配置: 巨大な漫画本が「見開き状態」で斜めに立てかけられている（V4と同じ背景構造）。\n・アクションとポーズ: \n 実写の人物は本から完全に抜け出し、振り返って漫画のページと対面している。\n 実写の人物と漫画内の人物が、互いに顔を見合わせ、目を丸くして驚きながら「互いに指をさし合っている」
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2094632873458602046) | 2026-09-01
+
+---
+
+### 🎬 例 7264：仓库动作电影分镜拼贴
+
+![仓库动作电影分镜拼贴](../images/%E4%BB%93%E5%BA%93%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%88%86%E9%95%9C%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个写实电影级动作序列分镜拼贴，展示 {argument name="character name" default="一位英俊的南亚男性动作英雄"} 在黑暗仓库中的战斗，呈现出好莱坞顶级惊悚片的静态画面效果。
+
+画布：垂直海报风格拼贴，比例约为 4:5，由细白色间隙分割为 7 个画面。采用高对比度 IMAX 风格摄影，超写实皮肤纹理，浅景深，粗粝阴影，冷灰色工业照明，微妙的雾霾、火花、灰尘以及湿润质感的黑色织物高光。
+
+主体细节：主角在每个画面中均为同一人：30 岁出头，运动型身材，中等肤色，深邃的棕色眼睛，浓密的深色眉毛，凌乱的黑发垂在额前，留着短而浓密的黑色胡须，下颌线分明，表情严肃且专注。他穿着连贯的电影动作服装：修身黑色圆领衫、黑色皮夹克或战术夹克、黑色长裤、黑色腰带。请勿在不同画面间改变他的面部、发型、服装、身体比例或身份。
+
+场景：夜晚的大型昏暗工业仓库，配有混凝土底面、金属梁、堆叠的桶、板条箱、脚手架、猫道、荧光灯条、烟雾缭绕的氛围以及模糊的背景光斑。环境应具有危险感、电影感且符合物理真实。
+
+布局与画面数量：使用精确的 7 个可见画面：
+1. 顶部宽幅画面：英雄站在中心，神情紧张，被 3 名身穿深色夹克的敌对男子包围，两名攻击者靠近镜头左右两侧，一名攻击者在他身后；英雄看起来已做好战斗准备。
+2. 第二个宽幅画面：英雄面部的特写镜头，双眼直视前方，湿润的发丝垂在额头，背景呈现戏剧性的柔和模糊效果。
+3. 第三行左侧倾斜画面：英雄挥拳或肘击一名攻击者的动作镜头，水花、灰尘和火花飞溅；带有强烈的动态模糊。
+4. 第三行右侧倾斜画面：更宽的战斗编排镜头，英雄面对 3 名攻击者，双臂防御性伸展，所有人都穿着深色衣服，背景可见仓库深处。
+5. 第四个宽幅画面：英雄跪在混凝土底面上的一名被击败的攻击者上方，一只手抓住对手，背景中其他倒地者处于模糊状态。
+6. 左下画面：英雄走向镜头，正在整理或抓紧黑色夹克前襟，身后躺着被击败的敌人，头顶的仓库灯光形成一条戏剧性的走廊。
+7. 右下画面：英雄面部的紧凑特写肖像，眼神犀利，双眼明亮，胡须细节清晰，可见黑色夹克领口，背景为电影级光斑效果。
+
+视觉风格：写实真人电影剧照，AAA 级大片动作质量，粗粝写实感，戏剧性的低调照明，前景细节锐利，变形镜头感，电影级调色，以黑色、炭灰色、钢灰色为主，辅以温暖的实用光点。仅在动作画面中使用真实的动态模糊。
+
+限制条件：无文字，无标题，无 Logo，无漫画绘画风格，无夸张的奇幻特效，无额外画面，无面部不一致，无重复或改变英雄身份，无明亮日光，无色彩鲜艳的服装。
+
+[English]
+Goal: Create a premium cinematic action storyboard collage for a short Hollywood-style fight sequence starring {argument name="character name" default="a rugged dark-haired South Asian male action hero"}.
+
+Canvas: Vertical 3:4 poster-like collage, approximately 900 x 1200 px, divided by thin white borders into exactly 7 cinematic panels. Use a dark, gritty, photorealistic IMAX blockbuster look with high contrast, shallow depth of field, smoky warehouse atmosphere, wet-black wardrobe highlights, dramatic overhead industrial lighting, and realistic motion blur.
+
+Setting: A large abandoned industrial warehouse at night with concrete floors, steel beams, metal shelving, barrels, crates, ladders, haze, dust, sparks, and harsh rectangular lights in the background. The overall color grade is charcoal black, steel gray, muted brown, and cool white highlights.
+
+Main character: The same male hero appears consistently in every panel: early-to-mid 30s, athletic build, medium tan skin, intense brown eyes, thick dark eyebrows, black slightly messy medium-length hair falling over the forehead, short full beard and mustache, sharp jawline, serious expression. He wears a fitted black tactical T-shirt, black leather or tactical jacket, black pants, and black belt throughout. Do not change his face, hair, age, or wardrobe between panels.
+
+Panel layout and exact content count: Include exactly 7 panels total:
+1. Top wide panel: The hero stands in the center of a tense standoff, facing three male attackers in dark jackets. One attacker is seen from behind on the far left foreground, one stands behind the hero on the left, and one faces him on the right foreground. The hero looks focused and ready to fight.
+2. Second wide panel: Extreme close-up portrait of the hero's face, filling most of the frame, intense direct eye contact, damp hair strands over forehead, blurred dark background.
+3. Third row left angled panel: The hero throws a powerful punch or elbow strike at an attacker, with sparks, dust, motion blur, and the attacker recoiling.
+4. Third row right angled panel: The hero is surrounded by three attackers in a dynamic fighting stance, arms extended, ready to counter multiple incoming strikes.
+5. Fourth wide panel: The hero kneels over a defeated attacker on the warehouse floor, one hand pinning him down, while other unconscious bodies lie in the background.
+6. Bottom left panel: The hero walks forward confidently down the warehouse aisle, adjusting or gripping his black jacket with both hands, defeated men lying on the floor behind him.
+7. Bottom right panel: Tight dramatic close-up of the hero's face, cropped on one side, intense eyes and serious expression, dark blurred background.
+
+Action details: Show exactly 3 main attackers in the confrontation and group-fight panels, all adult men in dark clothing. Across the later panels, show multiple defeated bodies on the floor but keep them secondary and slightly blurred. The mood should suggest a fast, brutal 15-second compressed fight montage rather than a static portrait.
+
+Visual style: Photorealistic live-action film stills, AAA action movie production value, ultra-realistic skin texture, cinematic lighting, high dynamic range, anamorphic depth of field, subtle film grain, no comic or illustration style. Use crisp facial details in close-ups and controlled motion blur in fight panels.
+
+Text and constraints: No captions, no logos, no watermark, no UI elements. Keep the collage borders clean and white. Maintain the same hero identity and outfit in all 7 panels. The atmosphere should feel explosive, aggressive, and continuously moving.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2094624321687998519) | 2026-09-01
+
+---
+

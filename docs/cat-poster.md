@@ -30779,3 +30779,312 @@ Create a charming, highly detailed whimsical storybook portrait of {argument nam
 
 ---
 
+### 🎴 例 7212：复古 1960 年代海滨时尚摄影
+
+![复古 1960 年代海滨时尚摄影](../images/%E5%A4%8D%E5%8F%A4%201960%20%E5%B9%B4%E4%BB%A3%E6%B5%B7%E6%BB%A8%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黄金时刻的海滨木栈道。一位美丽的女性身着 {argument name="outfit" default="1960 年代连衣裙"}，戴着一顶由 {argument name="hat material" default="旧明信片"} 制成的宽檐帽 —— 上面可见细小的印刷文字：“BEST WISHES FROM THE COAST”、“POST CARD — 1962”、“SEA BREEZE & SAND” —— 几张明信片在风中飘动。{argument name="setting" default="木栈道"}、条纹海滩小屋、海鸥以及金色的光影。复古、愉悦，2:3 宽高比。
+
+[English]
+A seaside boardwalk at golden hour. A beautiful woman in a {argument name="outfit" default="1960s dress"} and a wide-brimmed hat made of {argument name="hat material" default="old postcards"} — the tiny printed text visible: "BEST WISHES FROM THE COAST", "POST CARD — 1962", "SEA BREEZE & SAND" — a few postcards flapping in the wind. The {argument name="setting" default="boardwalk"}, the striped beach huts, the gulls, the golden light. Retro, joyful, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094883050223960460) | 2026-09-01
+
+---
+
+### 🎴 例 7215：动漫教室学生睡觉场景
+
+![动漫教室学生睡觉场景](../images/%E5%8A%A8%E6%BC%AB%E6%95%99%E5%AE%A4%E5%AD%A6%E7%94%9F%E7%9D%A1%E8%A7%89%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 的宽幅动漫风格教室插画，温暖的午后阳光从左侧高大的窗户射入，画面中包含木制课桌、书包、写有模糊数学公式的绿色黑板、墙上海报、讲台以及右侧的门。教室中需准确呈现 5 位主要角色：1) 一位留着深棕色长发、身穿海军蓝校服式夹克的严厉年轻女教师，站在讲台后愤怒地指责并投掷粉笔；2) 一位坐在左侧课桌旁、戴着黑色军装风贝雷帽和橙黑夹克的开朗金发女孩，正闭眼大笑；3) 一位留着紫色短发、戴着淡紫色贝雷帽和同色系服装的 Q 版小女孩，站在课桌旁的小凳子上，正轻轻戳着或试图叫醒某人；4) 一位趴在右前方课桌上熟睡的金发女学生，头发凌乱，戴着发夹，身穿海军蓝西装外套、格子裙和黑色靴子，看起来精疲力竭；5) 一位坐在右侧课桌旁、扎着马尾辫的深色头发女学生，正一脸惊恐地冒着冷汗看着熟睡的女孩。在熟睡的金发女孩上方添加一个巨大的漫画式思维气泡，气泡内展示 7 个微型角色在舞台上的场景：同一位金发女孩在温暖的聚光灯下自豪地站在中心，旁边是一位微笑的成年男性教师或主持人，一位秃顶的老年男子正在鼓掌，周围还有四名较小的学生在鼓掌或观看。使用富有表现力的漫画脸、干净的线条、柔和的赛璐珞阴影、细致的教室道具、飞舞粉笔周围的动态线条，营造幽默的校园喜剧氛围。角色自定义：睡觉的女孩为 {argument name="sleeping character" default="一位戴着发夹的金发女学生"}，老师为 {argument name="teacher character" default="一位严厉的长发棕色头发老师"}，小助手为 {argument name="small helper character" default="一位身穿淡紫色衣服的 Q 版紫发小女孩"}，左侧学生为 {argument name="left student character" default="一位戴着黑色贝雷帽和橙色夹克的开朗金发女孩"}，场景为 {argument name="classroom setting" default="日式日落教室"}。避免照片级真实感，避免在列出的 12 个可见人物之外添加额外角色，且除模糊的黑板公式外，不要添加任何可读文字。
+
+[English]
+Create a wide 16:9 anime-style classroom illustration with warm afternoon sunlight streaming through tall windows on the left, wooden desks, school bags, a green chalkboard with faint math equations, wall posters, a teacher's podium, and a door on the right. Show exactly 5 main characters in the classroom: 1) a strict young female teacher with long dark brown hair in a navy school-uniform-like jacket standing behind the podium, angrily pointing and throwing a piece of chalk; 2) a cheerful short blonde girl at the left desk wearing a black military-style beret and orange-black jacket, laughing with eyes closed; 3) a tiny purple-haired chibi girl in a lavender beret and outfit standing on a small stool beside a desk, gently poking or trying to wake someone; 4) a blonde schoolgirl asleep face-down at the front-right desk, messy hair, hair clips, navy blazer, plaid skirt, black boots, looking exhausted; 5) a dark-haired ponytail schoolgirl at the right desk in a navy uniform, startled with a sweat drop while watching the sleeping girl. Add a large comic thought bubble above the sleeping blonde girl showing exactly 7 miniature characters on a stage scene: the same blonde girl standing proudly in the center under warm spotlight, one smiling adult male teacher or host beside her, one elderly bald man clapping, and four smaller students around them applauding or watching. Use expressive manga faces, clean line art, soft cel shading, detailed classroom props, dynamic motion lines around the flying chalk, and a humorous school-comedy mood. Character customization: the sleeping girl is {argument name="sleeping character" default="a blonde schoolgirl with hair clips"}, the teacher is {argument name="teacher character" default="a strict long-haired brunette teacher"}, the small helper is {argument name="small helper character" default="a tiny purple-haired chibi girl in lavender"}, the left student is {argument name="left student character" default="a cheerful blonde girl in a black beret and orange jacket"}, and the setting is {argument name="classroom setting" default="a Japanese-style classroom at sunset"}. Avoid photorealism, avoid extra characters outside the listed 12 visible figures, and do not add readable text beyond faint chalkboard equations.
+```
+
+**来源：** [@まるるん＠NIKKE好き](https://x.com/TachMaru/status/2094861919199130032) | 2026-09-01
+
+---
+
+### 🎴 例 7233：地形国家测绘艺术印刷品
+
+![地形国家测绘艺术印刷品](../images/%E5%9C%B0%E5%BD%A2%E5%9B%BD%E5%AE%B6%E6%B5%8B%E7%BB%98%E8%89%BA%E6%9C%AF%E5%8D%B0%E5%88%B7%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 竖版当代国家艺术印刷品，灵感源自瑞士平面设计、地形图、现代编辑海报以及高端户外测绘。
+
+核心概念：通过地形、坐标和地理标识来呈现 {argument name="country" default="[国家]"}，而非地标或旅游景观。
+
+背景：干净的暖白色 / 极浅象牙色纸张，带有细腻的触感纹理。
+
+地图构图：使用 2–3 个局部裁剪的高细节黑灰色地形等高线图，代表 {argument name="country_name" default="[国家名称]"} 的重要地理区域。进行非对称排列，并留出充裕的留白。
+
+在最重要的地理位置上放置一个大型半透明圆形装饰。该圆圈应呈现出现代测绘位置标记的质感，而非普通的地图大头针。
+
+排版：
+在画面中心，放置一个巨大的粗体压缩无衬线标题：
+
+{argument name="country_title" default="[国家]"}
+
+排版应部分覆盖等高线图，营造出引人注目的编辑构图。
+
+在海报周围添加小型的技术性地理信息：
+
+[纬度]° [经度]°
+位置：[城市 / 区域]
+海拔：[海拔] 米
+首版：[年份]
+
+在角落处加入一个微小的极简主义地球仪 / 指南针 / 地理坐标符号。
+
+添加一个非常小的次要排版元素：
+
+[国家] / 地形研究 / No. 01
+
+调色板：以黑色、白色和柔和的灰色为主，搭配一种醒目的 {argument name="accent color" default="柔和的强调色"} —— 深红色、焦橙色、森林绿、钴蓝色或赭石色。强调色仅用于圆形地理标记。
+
+设计语言：
+瑞士国际主义平面设计风格 × 当代测绘 × 复古地形测量 × 极简主义编辑设计 × 奢华户外杂志。
+
+重要提示：等高线必须密集、有机、符合地理逻辑且细节精美。它们应成为艺术品的主要视觉纹理。
+
+无国旗 • 无旅游地标 • 无插画 • 无照片 • 无装饰边框 • 无冗余文字 • 无渐变 • 无杂乱。
+
+氛围：知性 • 地理感 • 现代 • 冒险 • 建筑感 • 收藏级 • 高端。
+
+最终呈现：将印刷品展示为一张干净的画廊/产品照片，钉在或悬挂在简洁的建筑墙面上，配以柔和的定向照明和细腻的自然阴影。
+
+[English]
+Create a sophisticated 4:5 vertical contemporary country art print inspired by Swiss graphic design, topographic maps, modern editorial posters, and premium outdoor cartography.
+
+MAIN CONCEPT: Represent {argument name="country" default="[COUNTRY]"} through its topography, coordinates, and geographic identity rather than landmarks or tourist imagery.
+
+BACKGROUND: Clean warm-white / very light ivory paper with subtle tactile grain.
+
+MAP COMPOSITION: Use 2–3 cropped sections of highly detailed black-and-gray topographic contour maps representing important geographic regions of {argument name="country_name" default="[COUNTRY]"}. Arrange them asymmetrically with generous white space.
+
+Place one large translucent circular accent over the most significant geographic location. The circle should feel like a modern cartographic location marker rather than a normal map pin.
+
+TYPOGRAPHY:
+Across the center, place an enormous bold condensed sans-serif title:
+
+{argument name="country_title" default="[COUNTRY]"}
+
+The typography should partially overlap the contour maps, creating a striking editorial composition.
+
+Add small technical geographic information around the poster:
+
+[LATITUDE]° [LONGITUDE]°
+LOCATION: [CITY / REGION]
+ELEVATION: [ELEVATION] M
+FIRST EDITION: [YEAR]
+
+Include a tiny minimalist globe / compass / geographic coordinate symbol in one corner.
+
+Add a very small secondary typographic element:
+
+[COUNTRY] / TOPOGRAPHIC STUDY / No. 01
+
+COLOR PALETTE: Mostly black, white, and soft gray with one bold {argument name="accent color" default="muted accent color"} — deep red, burnt orange, forest green, cobalt blue, or ochre. Use the accent only for the circular geographic markers.
+
+DESIGN LANGUAGE:
+Swiss International Typographic Style × contemporary cartography × vintage topographic survey × minimalist editorial design × luxury outdoor magazine.
+
+IMPORTANT: The contour lines must be dense, organic, geographically believable, and beautifully detailed. They should become the main visual texture of the artwork.
+
+No flags • no tourist landmarks • no illustrations • no photographs • no decorative borders • no excessive text • no gradients • no clutter.
+
+MOOD: intelligent • geographic • modern • adventurous • architectural • collectible • premium.
+
+FINAL PRESENTATION: Show the print as a clean gallery/product photograph, either pinned or hanging against a simple architectural wall, with soft directional lighting and a subtle natural shadow.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2094770339373048257) | 2026-09-01
+
+---
+
+### 🎴 例 7247：可持续护肤系列 RENEW 海报
+
+![可持续护肤系列 RENEW 海报](../images/%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%8A%A4%E8%82%A4%E7%B3%BB%E5%88%97%20RENEW%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="KINARA"} 创建一张竖版编辑风格护肤品牌海报，营造宁静的可持续美学氛围和高端植物健康美感。
+
+画布：高长比例海报，2:3 画幅，暖米白色背景。在所有内容后方放置巨大的淡鼠尾草绿压缩大写字母，拼写为 {argument name="background word" default="RENEW"}，由画布边缘裁切，几乎跨越整个高度。
+
+布局：排列 6 个半透明的有机玻璃状拼贴框，具有柔和的圆润不规则边缘、细腻的阴影、折射效果和磨砂亚克力外观。采用平衡的杂志排版网格，包含一个较大的中央肖像和五个较小的环绕特征图像。
+
+特征框，总计 6 个：
+1. 左上：带有品牌名称的米金色玻璃滴管精华液瓶，置于柔软的乳白色织物上，配有小白雏菊；下方标题：“PRODUCT · FORMULA”。
+2. 右上：装有植物浸液的透明烧杯，内含绿叶、雏菊和滴管；背景为芦荟叶；标题：“PROCESS · CRAFTED”。
+3. 中央：最大的框，一位化着自然妆容、闭着眼睛的年轻女性正在将精华液涂抹在脸颊上，身着柔和的乳白色服装，表情平静如 SPA；标题：“PEOPLE · DAILY RITUAL”。
+4. 中右：麻布上的植物成分，包括芦荟凝胶、芦荟叶、干花和棕色豆荚；标题：“MATERIALS · BOTANICALS”。
+5. 左下：温室或阳光充足的植物苗圃，摆放着盆栽草本植物和绿植；标题：“ENVIRONMENT · SOURCED”。
+6. 下中：水润肌肤的微距特写，带有水珠和光泽感精华液滴；标题：“CLOSE-UP · HYDRATION”。
+7. 右下：柔软的白色织物、光滑的石头或护肤品表面、小桉树枝和透明凝胶滴；标题：“ESSENCE · BALANCE”。
+
+视觉风格：高端纯净美容广告，照片级真实感拼贴，柔和的自然日光，鼠尾草绿、乳白、米色、蜂蜜金和植物绿的调色板。使用浅景深、真实的皮肤纹理、柔和的高光、极少的噪点、清晰易读的排版和精致的间距。
+
+文本内容：每个框下方均有细字间距的无衬线小写大写标题。底部居中页脚行：“{argument name="footer text" default="KINARA · SUSTAINABLE SKINCARE · RENEW YOUR NATURAL GLOW"}”。保持所有排版优雅、低调且对齐。
+
+约束：除列出的 7 个视觉面板外，不得有额外边框，无杂乱，无强烈对比，无卡通风格，无水印，无拼写错误的可见英文字符。保留通风、极简的编辑构图，以及部分隐藏在玻璃框后的大型背景文字。
+
+[English]
+Goal: Create a vertical editorial skincare brand poster for {argument name="brand name" default="KINARA"}, with a serene sustainable-beauty mood and premium botanical wellness aesthetic.
+
+Canvas: Tall portrait poster, 2:3 aspect ratio, warm off-white background. Place huge pale sage-green condensed uppercase typography reading {argument name="background word" default="RENEW"} behind all content, cropped by the canvas edges and spanning nearly the full height.
+
+Layout: Arrange exactly 6 translucent organic glass-like collage frames with soft rounded irregular edges, subtle shadows, refraction, and a frosted acrylic look. Use a balanced magazine-layout grid with one larger central portrait and five smaller surrounding feature images.
+
+Feature frames, exactly 6 total:
+1. Top left: a beige-gold glass dropper serum bottle labeled with the brand name, standing on soft cream fabric with small white daisies; caption underneath: “PRODUCT · FORMULA”.
+2. Top right: a clear beaker of botanical infusion with green leaves, daisies, and a pipette dripping liquid; aloe leaf in the background; caption: “PROCESS · CRAFTED”.
+3. Center: largest frame, a young woman with natural makeup and closed eyes applying serum to her cheek, soft cream clothing, calm spa expression; caption: “PEOPLE · DAILY RITUAL”.
+4. Middle right: botanical ingredients on burlap, including aloe gel, aloe leaf, dried flowers, and brown seed pods; caption: “MATERIALS · BOTANICALS”.
+5. Bottom left: greenhouse or sunlit plant nursery with potted herbs and greenery; caption: “ENVIRONMENT · SOURCED”.
+6. Bottom center: macro close-up of dewy hydrated skin with water droplets and a glossy serum drop; caption: “CLOSE-UP · HYDRATION”.
+7. Bottom right: soft white fabric, smooth stone or skincare surface, small eucalyptus sprig, and a clear gel droplet; caption: “ESSENCE · BALANCE”.
+
+Visual style: High-end clean beauty advertising, photorealistic collage, soft natural daylight, muted sage, cream, beige, honey-gold, and botanical green palette. Use shallow depth of field, realistic skin texture, gentle highlights, minimal noise, crisp readable typography, and refined spacing.
+
+Text content: Small uppercase captions under each frame in thin letter-spaced sans-serif. Footer line centered at the bottom: “{argument name="footer text" default="KINARA · SUSTAINABLE SKINCARE · RENEW YOUR NATURAL GLOW"}”. Keep all typography elegant, understated, and aligned.
+
+Constraints: No extra frames beyond the 7 listed visual panels, no clutter, no harsh contrast, no cartoon style, no watermark, no misspelled visible English text. Preserve the airy minimal editorial composition and the large background word partially hidden behind the glass frames.
+```
+
+**来源：** [@Zach](https://x.com/zach_sndr/status/2094691362624983254) | 2026-09-01
+
+---
+
+### 🎴 例 7251：花卉禅意美学海报
+
+![花卉禅意美学海报](../images/%E8%8A%B1%E5%8D%89%E7%A6%85%E6%84%8F%E7%BE%8E%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题方向" default="东方禅意极简封面海报"}
+风格分支：女性审美爆款型
+主体内容：{argument name="主体内容" default="一位女子坐在低矮白石台边，身旁散落少量花瓣"}
+情绪母题：温柔、明媚、轻情绪
+场景与意象：奶油黄背景、覆盆子红花瓣、白石台、女子、少量浅绿枝叶
+构图与空间：人物位于画面下方三分之一处，上方保留完整单色标题区，花瓣形成少量视觉节奏
+色彩控制：{argument name="色彩控制" default="奶油黄作为明亮背景基底，覆盆子红只用于花瓣和局部点睛，浅绿用于少量枝叶，人物服装用珍珠白或浅杏色；避免全图发红或发黄"}
+光线与质感：高明度柔光，干净清晰，轻微纸感，不做旧纸颗粒
+画幅比例：9:16 
+补充要求：画面要甜美但不腻，标题区干净，颜色鲜活，适合小红书情绪封面
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2094667804251476312) | 2026-09-01
+
+---
+
+### 🎴 例 7257：全球统一旅行海报
+
+![全球统一旅行海报](../images/%E5%85%A8%E7%90%83%E7%BB%9F%E4%B8%80%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端精致的冬日与海岸风格旅行海报系列，将菲诺港、波西塔诺、雷克雅未克（冰岛）和冰川国家公园（蒙大拿州）融合在同一个统一的构图中，采用 3:4 竖构图。创作一幅原创且奢华的旅行艺术作品，将四个目的地的视觉特征无缝融合为一个美丽的连贯艺术品。四张参考图应激发场景、建筑、排版、氛围、色彩和高端明信片美学的灵感，但最终效果必须呈现为一个全新的艺术构图，而非四张独立图片的拼凑。目的地特征：菲诺港 🇮🇹 — 意大利里维埃拉，优雅的沿海村庄，坐落于弯曲的地中海港口，色彩斑斓的意大利建筑，绿意盎然山丘上的豪华别墅，美丽的游艇和小船，平静的绿松石色海水，柏树，温暖的夜灯和高端浪漫的氛围。波西塔诺 🇮🇹 — 阿马尔菲海岸，戏剧性的地中海悬崖小镇，层层叠叠的彩色房屋向海面倾泻而下，优雅的别墅，赤陶屋顶，茂密的植被，陡峭的海岸悬崖，绿松石色的海水，小船和温暖阳光下的意大利海岸氛围。雷克雅未克 🇮🇸 — 冰岛，被壮丽山脉环绕的冰雪覆盖的北欧沿海城市，优雅的斯堪的纳维亚建筑，海滨港口，小船，冰蓝色的海洋，积雪的街道，现代建筑，微妙的温暖窗灯和宁静的冬日氛围。冰川国家公园 🇺🇸 — 蒙大拿州，雄伟的积雪落基山脉，清澈见底的绿松石色湖泊，茂密的常绿松树林，宁静的山区荒野，迷人的木屋，石桥，蜿蜒的景观公路和经典的复古旅行探险氛围。构图：创造一段无缝的视觉旅程，而不是四个独立的部分，也不是简单的拼贴画。让菲诺港和波西塔诺郁郁葱葱的地中海山丘自然过渡到雷克雅未克寒冷的北欧氛围，并逐渐引向冰川国家公园雄伟的积雪荒野。使用层叠的山脉、大气透视、弯曲的海岸线和自然过渡，有机地融合这些环境。前景可以展示优雅的地中海海滨细节，中景逐渐变得寒冷且覆盖积雪，背景则引向壮观的高山和宁静的绿松石色湖泊。采用高视角的电影感透视，结合高端 3D 微缩建筑模型效果，使整个景观感觉像是一个精心制作的奢华旅行模型。包含色彩缤纷的沿海建筑、豪华别墅、船只、游艇、北欧雪景建筑、松树林、木屋、教堂、桥梁、山峰、绿松石色海水和微妙的窗户亮光作为辅助元素。保持构图平衡、精致且空间感十足。每个目的地都应通过其建筑、景观和氛围保持可辨识度，同时感觉像是一个相互连接的世界。排版：使用优雅的高端编辑级排版，并留出充裕的负空间。NORTHERN & MEDITERRANEAN ESCAPES PORTOFINO 🇮🇹 • POSITANO 🇮🇹 • REYKJAVIK 🇮🇸 • GLACIER 🇺🇸 “Four Destinations, One Extraordinary Journey.” 排版应精炼、极简、精致、宽敞且具有杂志风格。主标题使用经典的顶级衬线字体，搭配微妙的副标题和精致的装饰线条。文字必须拼写完美、清晰、锐利，并专业地融入艺术作品中。艺术指导：高端国际旅行广告，奢华编辑级旅行海报，精致的 3D 微缩模型，优雅的建筑模型美学，高端复古与现代结合的明信片设计，逼真的微缩建筑，细腻的景观，电影般的氛围深度，精致的建筑细节，逼真的水面反射，微妙的自然纹理，高端精品旅行杂志美学。结合意大利里维埃拉的浪漫优雅、阿马尔菲海岸的悬崖美景、冰岛宁静的北欧特色以及蒙大拿州狂野的高山壮丽。最终作品应看起来像是在独家精品酒店或高端旅行杂志中展示的奢华收藏级旅行海报。色彩系统：柔和的象牙白、温暖的奶油色、地中海绿松石色、柔和的海蓝色、冰冷的北欧蓝、雪白色、高山灰、柔和的鼠尾草绿、柔和的赤陶色、温暖的砂岩色、优雅的炭灰色和微妙的金色窗灯。保持色彩略微去饱和，精致且和谐。创造从温暖的地中海色调到凉爽的北欧冬日色调的自然视觉过渡，避免生硬的色彩分割。氛围：优雅、奢华、宁静、充满冒险感、梦幻、电影感且精致。这是一段将地中海浪漫、海岸优雅、北欧冬日宁静和狂野山地探险融为一体的难忘高端旅行体验。图像应具有抱负感、永恒感和魔力，同时保持逼真的建筑和环境细节。负面提示词：无分屏。无四张独立海报。无简单拼贴。目的地之间无硬分割线。无重复的地标。无扭曲的建筑。无变形的建筑物。无过度拥挤的构图。无过多的文字。无错误的国旗。无随机的地标放置。无主导场景的不切实际的地理环境。无刺眼的饱和色彩。无卡通风格。无水彩画。无绘画笔触。无模糊的建筑。无扭曲的船只。无重复的船只或建筑物。无视觉杂乱。无复制的参考布局。无标志或不需要的品牌标识。无不必要的人物主导构图。
+
+[English]
+Premium sophisticated editorial winter-and-coastal travel-poster collection featuring Portofino, Positano, Reykjavik, Iceland and Glacier National Park, Montana in one unified composition, 3:4 vertical format. Create an original, luxurious travel-art composition that seamlessly blends the visual identity of all four destinations into one beautiful connected artwork. The four reference images should inspire the scenery, architecture, typography, atmosphere, colors and premium postcard aesthetic, but the final result must feel like a completely new artistic composition, not four separate images placed together. DESTINATION IDENTITY Portofino 🇮🇹 — Italian Riviera Elegant coastal village built along a curved Mediterranean harbor, colorful Italian buildings, luxury villas on lush green hills, beautiful yachts and small boats, calm turquoise-blue water, cypress trees, warm evening lights and an upscale romantic atmosphere. Positano 🇮🇹 — Amalfi Coast Dramatic Mediterranean cliffside town with layers of colorful houses cascading toward the sea, elegant villas, terracotta rooftops, lush greenery, steep coastal cliffs, turquoise water, small boats and a warm sunlit Italian coastal atmosphere. Reykjavik 🇮🇸 — Iceland Snow-covered Nordic coastal city surrounded by dramatic mountains, elegant Scandinavian architecture, waterfront harbor, small boats, icy blue sea, snowy streets, modern buildings, subtle warm window lights and a peaceful winter atmosphere. Glacier National Park 🇺🇸 — Montana Majestic snow-covered Rocky Mountains, crystal-clear turquoise lake, dense evergreen pine forests, peaceful mountain wilderness, charming wooden cabin, stone bridge, winding scenic road and a classic vintage travel-adventure atmosphere. COMPOSITION Create one seamless visual journey, not four separate sections and not a simple collage. Allow the lush Mediterranean hills of Portofino and Positano to naturally transition into the colder Nordic atmosphere of Reykjavik, gradually leading toward the majestic snow-covered wilderness of Glacier National Park. Blend the environments organically using layered mountains, atmospheric perspective, curved coastlines and natural transitions. The foreground can feature elegant Mediterranean waterfront details, while the middle distance gradually becomes colder and snow-covered, leading toward dramatic alpine mountains and a peaceful turquoise lake in the background. Use an elevated cinematic perspective combined with a premium 3D miniature architectural diorama effect, making the entire landscape feel like a beautifully crafted luxury travel model. Include colorful coastal buildings, luxury villas, boats, yachts, snowy Nordic architecture, pine forests, wooden cabins, churches, bridges, mountain peaks, turquoise water and subtle glowing windows as supporting elements. Keep the composition balanced, sophisticated and spacious. Every destination should remain recognizable through its architecture, landscape and atmosphere, while still feeling like one connected world. TYPOGRAPHY Use elegant luxury editorial typography with generous negative space. NORTHERN & MEDITERRANEAN ESCAPES PORTOFINO 🇮🇹 • POSITANO 🇮🇹 • REYKJAVIK 🇮🇸 • GLACIER 🇺🇸 “Four Destinations, One Extraordinary Journey.” Typography should be refined, minimal, sophisticated, spacious and magazine-inspired. Use classic high-end serif typography for the main title with subtle secondary lettering and delicate decorative lines. Text must be perfectly spelled, clean, sharp and professionally integrated into the artwork. ART DIRECTION Premium international travel campaign, luxury editorial travel poster, sophisticated 3D miniature diorama, elegant architectural model aesthetic, premium vintage-meets-modern postcard design, realistic miniature buildings, detailed landscapes, cinematic atmospheric depth, refined architectural details, realistic water reflections, subtle natural textures, high-end boutique travel magazine aesthetic. Combine the romantic elegance of the Italian Riviera, the dramatic cliffside beauty of the Amalfi Coast, the peaceful Nordic character of Iceland, and the wild alpine grandeur of Montana. The final artwork should look like a luxury collector's travel poster displayed in an exclusive boutique hotel or premium travel magazine. COLOR SYSTEM Soft ivory, warm cream, Mediterranean turquoise, muted sea blue, icy Nordic blue, snowy white, alpine gray, soft sage green, muted terracotta, warm sandstone, elegant charcoal and subtle golden window lights. Keep the colors slightly desaturated, sophisticated and harmonious. Create a natural visual transition from warm Mediterranean tones into cool Nordic winter tones without harsh color separation. MOOD Elegant, luxurious, peaceful, adventurous, dreamy, cinematic and sophisticated. A visual journey that combines Mediterranean romance, coastal elegance, Nordic winter serenity and wild mountain adventure into one unforgettable premium travel experience. The image should feel aspirational, timeless and magical while maintaining realistic architectural and environmental details. NEGATIVE PROMPT No split screen. No four separate posters. No simple collage. No hard dividing lines between destinations. No duplicated landmarks. No distorted architecture. No warped buildings. No overcrowded composition. No excessive text. No incorrect flags. No random landmark placement. No unrealistic geography dominating the scene. No harsh saturated colors. No cartoon style. No watercolor. No painterly brushwork. No blurry architecture. No distorted boats. No duplicated boats or buildings. No visual clutter. No copied reference layout. No logos or unwanted branding. No unnecessary people dominating the composition.
+```
+
+**来源：** [@KrishnaG](https://x.com/KrishnaBio1/status/2094651875262103721) | 2026-09-01
+
+---
+
+### 🎴 例 7267：Rebus 风格视觉诗歌海报
+
+![Rebus 风格视觉诗歌海报](../images/Rebus%20%E9%A3%8E%E6%A0%BC%E8%A7%86%E8%A7%89%E8%AF%97%E6%AD%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="构图比例" default="3:4竖版"}构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分不要完整复刻照片，也不要把照片简单缩小后重新画一遍，而是从原图中提取最有记忆点的主体、动作、局部轮廓、物件、植物、建筑片段、颜色关系与象征性细节，重新提炼为若干经过统一风格转换的视觉元素，并与文字共同组成一段图像替词式视觉句子（Rebus-style visual sentence）。这些图像不是装饰插图，而必须真正替代句子中的单词；一旦某个词被图像替代，文字中不得再次重复写出这个词。整句话必须依靠“文字 + 图像”共同才能被完整读懂。
+
+先根据照片本身的情绪、动作、关系、地点、记忆或隐喻，自由生成一句简短、有想象力、带有轻微诗意或编辑感的句子，再从句子中挑选若干最适合视觉化的名词、动作词、意象词或情绪词，用对应的图像元素直接替换。例如花、窗、鸟、树、杯子、海、风、灯、路、等待、经过、归来、清晨等，都可以由来自原图的视觉元素承担。图像必须占据单词原本的位置，形成真正连续的“文字 → 图像词 → 文字 → 图像词 → 文字”阅读逻辑，而不是完整句子旁边点缀几张小画。
+
+每个被替代的“视觉单词”都放置在一个独立的小型色块背景之中，像从原照片记忆里裁下的一小段画面。每个色块都可以拥有不同的尺寸、长宽比例与裁切方式，可为近方形、横向窄条、竖向长块或小型不规则裁切块；色块之间不需要统一大小，但必须有清晰的节奏和主次变化。色块中的图像不是原照片截图，而是经过统一语言重新绘制后的艺术化片段，只保留最有识别性的轮廓、动作、结构和神韵，允许局部被裁切、只露出一部分，或自然超出色块边缘，使其更像一个具有含义的视觉词，而不是普通小插图。
+
+这些视觉元素整体采用统一的{argument name="排版风格" default="现代手绘编辑插画"}语言进行转换：以简化轮廓、概括形体、少量平面色块和轻微手工感来重构原图元素，避免过度写实、复杂体积、照片感纹理和机械复制。图像应保留原物的灵魂与识别性，但不追求完整描绘，而是更像被提炼后的视觉记忆。风格可以轻盈、聪明、略带设计感和艺术出版物气质，让所有图像词统一而协调。
+
+每个视觉词背后的色块背景都应来自同一套{argument name="配色逻辑" default="“小清新、明快、令人眼睛愉快”的柔和配色"}逻辑，但每个色块颜色可以不同。配色从上方照片中提取最明亮、最鲜活、最有生命力的颜色重新调制，而不是平均取色。整体提高明度与色彩纯净度，形成更柔和、更轻盈、更有亲和力的综合色关系，可自然表现为牛奶蓝、湖水青、薄荷绿、嫩芽绿、奶油黄、蜜桃粉、樱花粉、杏子橙、薰衣草紫等轻快柔和的明亮色相。色块之间可以有轻微跳跃，但整体必须统一、舒适、通透、干净，给人轻松、愉快、治愈、带一点少女感和 ins 气质的观感。避免灰脏、暗沉、发旧、厚重莫兰迪化、荧光色、廉价糖果感和过强对比。
+
+构图以“句子的阅读路径”为核心进行组织，下半部分整体应像一页可以被阅读的视觉诗。文字与图像词可以分为 2–4 行自由展开，不要求绝对整齐，但必须具有清晰、优雅而自然的阅读节奏。图像词的大小应根据语义重要程度而变化：有些接近普通单词大小，有些可适度放大成为视觉停顿点。文字、图像词和色块之间要通过高低错落、疏密变化、轻微错位、留白间距和基线节奏形成不对称但稳定的编辑排版关系。不要变成贴纸墙、卡片列表、规则宫格或杂乱拼贴。
+
+下半部分保留大量合理留白，让空白本身成为呼吸、节奏和高级感的重要组成部分。背景使用近白色、米白色或与原图综合色温智能协调的极浅浅色底，整体干净、安静、通透。所有图像词、文字和色块都应悬浮在充足留白之中，使版面像艺术杂志、独立出版物、视觉诗页或实验性图文作品，而不是商业海报模板。
+
+文字不限制语种，可根据原图气质自由选择中文、英文、双语或其他更适合画面语境的语言，但整体应简洁、自然、有想象力。字体不要使用普通商业标题样式，而应采用轻盈、清爽、细致、具有现代编辑感和轻微人文气息的细体文字，字距自然舒展，留白充足，排版克制而灵动。可允许轻微错位、换行和节奏变化，使文字与图像词平等共处，共同组成画面，而不是一方压过另一方。
+
+整体视觉效果应呈现为：上半部分是真实图像，下半部分是一句由“文字 + 图像词 + 彩色色块”共同构成的视觉句子。它应像从原照片中提炼出的情绪短诗、记忆碎片和视觉隐喻，被重新组织成一页轻盈、聪明、清新、治愈、现代、富有设计感的艺术作品。重点不是说明照片里有什么，而是把原照片最动人的内容转译成一种可以被阅读、也可以被观看的图文语言。
+
+避免：直接使用原图裁切作为视觉词、把图像仅仅当作文字旁边的装饰插图、完整句子不删词却再配图、贴纸墙感、卡片宫格感、商业模板感、信息流排版、电商感、儿童拼贴感、杂乱无序、颜色脏灰、廉价糖果色、过度写实、复杂背景、机械字体和无留白的拥挤版面。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094616515056419231) | 2026-09-01
+
+---
+
+### 🎴 例 7269：复古圣托里尼旅行海报插画
+
+![复古圣托里尼旅行海报插画](../images/%E5%A4%8D%E5%8F%A4%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张明亮、优雅的复古旅行海报，地点为 {argument name="location" default="希腊圣托里尼"}，采用 4:5 竖构图。前景是一座坐落在阳光明媚悬崖上的宁静白色基克拉泽斯风格教堂，配有深蓝色圆顶，周围环绕着干净的弧形楼梯、蓝色陶瓷花盆和精致的地中海细节。远方，平静的绿松石色海面一直延伸至地平线，一艘白色小帆船在水面上滑行。在淡粉蓝色的天空下，远处的山峦在薄雾中若隐若现。
+
+构图自然地由优雅的 {argument name="flower branch type" default="淡粉色花枝"} 从左上角和右下角延伸入画，几片花瓣在空中轻轻飘落。使用暖奶油色、柔和蓝、柔和珊瑚粉和微妙的赤陶色调。柔和的晨光、细腻的阴影、轻微的大气薄雾、平滑的水面反射、宽敞的构图以及充足的视觉留白。
+
+风格：精致的中世纪旅行海报插画、考究的手绘印刷质感、清晰而细腻的细节、微妙的纸张纹理、优雅的色彩和谐、浪漫的地中海氛围、明亮通透的采光、高级的编辑构图、永恒的收藏级海报美学。
+
+在底部添加品味高雅的排版：
+
+“{argument name="typography title" default="SANTORINI"}”
+“GREECE”
+
+保持排版极简、完美居中、优雅且高度易读。
+
+[English]
+Create a bright, elegant vintage travel poster of {argument name="location" default="Santorini, Greece"} in vertical 4:5 format. A peaceful whitewashed Cycladic chapel with a deep blue dome sits on a sunlit cliff in the foreground, surrounded by clean curved stairways, a blue ceramic planter and delicate Mediterranean details. Beyond it, a calm turquoise-blue sea stretches toward the horizon with one small white sailboat gliding across the water. Soft hazy mountains appear in the far distance under a pale powder-blue sky.
+
+Frame the composition naturally with graceful {argument name="flower branch type" default="pale pink flowering branches"} entering from the upper-left and lower-right corners, with a few petals drifting gently through the air. Use warm cream, soft blue, muted coral-pink and subtle terracotta tones. Gentle morning sunlight, delicate shadows, light atmospheric haze, smooth water reflections, spacious composition and plenty of visual breathing room.
+
+Style: refined mid-century travel poster illustration, sophisticated hand-painted print texture, crisp but delicate detailing, subtle paper grain, elegant color harmony, romantic Mediterranean atmosphere, bright airy lighting, premium editorial composition, timeless collectible poster aesthetic.
+
+Add tasteful typography at the bottom:
+
+“{argument name="typography title" default="SANTORINI"}”
+“GREECE”
+
+Keep the typography minimal, perfectly centered, elegant and highly legible.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2094602713439072511) | 2026-09-01
+
+---
+

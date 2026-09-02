@@ -4529,3 +4529,35 @@ Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK]
 
 ---
 
+### 🏛️ 例 7224：编辑风格宠物婚礼邀请函
+
+![编辑风格宠物婚礼邀请函](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%AE%A0%E7%89%A9%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD.jpg)
+
+**Prompt:**
+
+```text
+设计一张 9:16 竖版、用于手机社交分享的宠物主题婚礼邀请函。它服务于收到邀请的亲友，采用 text-light 信息密度，阅读顺序是：先识别主题，再确认邀请语境，最后接收温柔邀约。核心内容概念是：把“狗狗的婚礼”命名为一场值得认真到场的陪伴仪式。\n\n核心视觉语言必须是“真实物象穿越几何情绪窗口”：在大面积暖白与浅灰米色留白中设置一条窄长、低饱和、具有垂直感的几何色块，位于画面中部，作为视觉锚点与空间容器。窗口采用雾玫瑰、浅杏、暖灰的柔和渐变，边界清晰但不封闭主体。两只真实的小型伴侣犬（一只奶油/浅杏色，另一只保留自然毛色）分别从窗口的不同高度相向探出，彼此视线在标题附近汇聚；头部、前爪以及小型低饱和婚礼花环或丝带局部越过窗口边界，伸入留白，形成一个明确的单一瞬间：真实生命穿越仪式门框、即将相遇并被见证。不要表现奔跑、跳跃或复杂婚礼场景。\n\n狗狗必须是高端 editorial 宠物摄影质感：真实蓬松毛发、自然姿态、湿润鼻头、清晰眼睛反光、花环纤维可见；略低于犬只视线的近距离三分之四视角，中近景，柔和晨间窗光或薄云漫射光，低对比、极薄软阴影，哑光高级印刷表面与细腻自然摄影纹理。保留大面积连续安静留白；只加入近乎透明的花环弧线、毛发轮廓线或柔和仪式轨迹，不加入无关纹样、图标或伪图表。\n\n文字必须准确、完整、可读，逐字使用以下内容，不增不减，不出现任何其他可见文字：\n1. “狗狗的婚礼”——用户提供，唯一主标题，最强识别；位于两只狗狗视线汇聚的中部空隙，可采用窄长竖向编排，但不能遮挡脸部或关键动作。\n2. “邀请函”——用户提供，顶部或标题邻近的小型 kicker，退后于主标题。\n3. “婚礼”——用户提供，与“邀请函”组成克制的微型语境标签。\n4. “愿每一份喜欢，都来见证这一场相遇。”——原创非事实情绪邀约短句，放在主体破框后的留白区，成为一至两行短 deck。\n5. “带着祝福，赴一场关于陪伴的仪式。”——原创非事实收束文案，放在下部安静留白区，低调结束阅读。\n\n文字编排采用现代宋体骨架加轻微手工修饰：字面窄长，笔画纤细但清楚，横竖对比明确，转折圆润，收笔干净，带一点婚礼纸品与美学杂志的手工温度；字距舒展，标题停留，标签退后，邀约句与收束句拥有不同尺度、密度和留白关系。以灰褐色文字和明度对比保证手机屏幕可读，不使用卡通圆体、厚重金色婚庆字、过度书法化。中文字符必须正确呈现“狗狗的婚礼”“邀请函”“婚礼”，不得乱码、缺笔、错字、繁简混用。\n\n画面采用偏轴双主体相向聚焦：顶部保留安静入口，中部形成主体—窗口—标题的视觉密度核心，破框方向保留连续留白承载第一条邀约，下部再次放松并承载收束句。标题是视觉中轴但不悬浮在无关空白上；淡线从狗狗相遇关系自然牵引至标题与文案，使图像、文字、几何窗口和留白成为一个视觉句。移动端缩略图首先读到“狗狗的婚礼”和两只狗狗相向靠近的姿态，放大后读到其余文字。\n\n色彩以暖白、浅灰米色为底，窗口为低饱和雾玫瑰—浅杏—暖灰渐变，极少量哑光香槟或玫瑰金只作为仪式感提示，避免闪耀。整体要有东方留白、现代秩序、自然生命力、轻奢品质感和克制编辑完成度。严禁正红、亮粉、紫色、荧光色、彩虹渐变、蓝紫冷光、纯黑大色块、糖果色、金属镜面高光、儿童派对装饰、气球、爱心贴纸、爪印字、戒指、教堂、蛋糕、礼炮、卡通、3D、插画化狗狗、普通 stock photo 感、复杂婚礼模板、机械上下分栏、孤立标题、厚重阴影、脏纸做旧、撕裂、廉价闪粉、水印、UI、二维码、虚构姓名、日期、时间、地点、主办方、联系方式、RSVP、流程信息、9:16 可见规格标记和任何额外伪文字。\n\nTHEORY_LOGIC = SET[信息编排与内容概念::视觉层级理论::格式塔接近与连续原则::认知负荷理论::移动端信息设计] || SYNTHESIS[以信息编排为主轴：把“狗狗的婚礼”作为身份标题，以“邀请函／婚礼”承担语境识别，以少量温柔邀约文案承担情绪承诺；以视觉层级和格式塔分组建立先命名、再理解、后感受的阅读顺序；以认知负荷理论控制文字数量与对比，明确省略所有未知日期、地点、姓名、联系方式和 RSVP，使真实图像与文字各司其职而不互相争夺注意力。]\nMETAPHOR_LOGIC = REQUIRED::狗狗的婚礼::两只真实生命共同进入一场被郑重见证的陪伴仪式::温暖、浪漫、带有克制的俏皮::庄重的人类婚礼仪式与狗狗自然、不完美的生命姿态之间的张力::仪式门框中的真实狗狗::让狗狗从日常玩耍的状态越入被邀请、被见证的婚礼语境::文字负责命名仪式并发出温柔邀约，图像负责呈现真实生命的亲密与轻微越界，共同把“婚礼”读成一场值得认真到场的陪伴庆典。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094815231575036406) | 2026-09-01
+
+---
+
+### 🏛️ 例 7263：建筑博物馆标本卡
+
+![建筑博物馆标本卡](../images/%E5%BB%BA%E7%AD%91%E5%8D%9A%E7%89%A9%E9%A6%86%E6%A0%87%E6%9C%AC%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为主要参考。创建一个精致的 4:3 横向 {argument name="style" default="受博物馆档案、建筑测绘和复古科学文献启发的建筑标本卡"}。保持 {argument name="location" default="原始地点"} 的可辨识度，但将呈现方式转化为精选的建筑研究，而非普通的旅游海报。* 将主要地标放置为大型单色建筑剪影或细节精致的墨线图。* 添加一个较小的原始色彩摄影片段，展示该地点的一个独特细节。* 在建筑后方包含一张简化的地形等高线图。* 添加微小的编号参考点、测量标记、箭头、高程线和建筑注释符号。* 使用带有细微纹理和瑕疵的陈旧奶油色纸张背景。* 色调：{argument name="palette" default="黑色、暖米色、柔和橄榄色，以及从地标中提取的一种克制强调色"}。* 排版应小巧、优雅且具有档案感：地点名称、国家、年份、No. 019 以及 3 个描述性关键词。* 创造类似于丝网印刷、绘图墨水、铅笔痕迹和旧纸张的细微瑕疵。* 保持充足的留白和精致的博物馆目录美学。重要提示：避免明信片布局、圆形邮戳、旅游图形、过多的文字、卡通风格、光泽效果、3D 渲染和过于繁琐的插图。整体氛围：建筑档案 × 博物馆标本 × 旧测绘文档 × 当代编辑设计。
+
+[English]
+Use the uploaded photo as the primary reference. Create a sophisticated 4:3 landscape {argument name="style" default="architectural specimen card inspired by museum archives, architectural surveys, and vintage scientific documentation"}. Keep the {argument name="location" default="original location"} recognizable, but transform the presentation into a curated architectural study rather than a normal travel poster. * Place the main landmark as a large monochrome architectural cutout or finely detailed ink drawing. * Add a smaller original-color photographic fragment showing one distinctive detail of the location. * Include a simplified topographic contour map behind the architecture. * Add tiny numbered reference points, measurement marks, arrows, elevation lines, and architectural annotation symbols. * Use an aged cream paper background with subtle grain and imperfections. * Palette: {argument name="palette" default="black, warm beige, muted olive, and one restrained accent color extracted from the landmark"}. * Typography should be small, elegant, and archival: location name, country, year, No. 019, and 3 descriptive keywords. * Create subtle imperfections resembling screen printing, drafting ink, pencil marks, and old paper. * Keep generous negative space and a sophisticated museum-catalog aesthetic. Important: Avoid postcard layouts, circular stamps, tourist graphics, excessive text, cartoon styling, glossy effects, 3D rendering, and overly detailed illustrations. Overall mood: architectural archive × museum specimen × old survey document × contemporary editorial design.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2094626691234816034) | 2026-09-01
+
+---
+

@@ -8622,3 +8622,39 @@ Premium stylized 3D character poster featuring {argument name="character" defaul
 
 ---
 
+### 🧸 例 7225：并排 3D 角色半身像预览
+
+![并排 3D 角色半身像预览](../images/%E5%B9%B6%E6%8E%92%203D%20%E8%A7%92%E8%89%B2%E5%8D%8A%E8%BA%AB%E5%83%8F%E9%A2%84%E8%A7%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为角色基础，将其转换为适合头部与身体拼接测试的简洁 3D 模型预览。将角色调整为基本正面的上半身半身像姿态，简化轮廓，并使头部与颈部的连接清晰可见，同时保留参考图中令人不安的玩偶般面孔、角状侧刺、包裹式织物服装、悬垂的绳索以及磨损的织物纹理。将生成的角色渲染图放置 2 个完全相同的副本，左右并排，比例和姿势保持一致以便对比。使用纯色 {argument name="background color" default="深炭灰色"} 背景，采用柔和的摄影棚灯光，呈现出略带渲染感或摄影测量风格的效果，而非精修插画。裁剪为宽屏横向画幅，仅展示头部、肩部和上躯干。避免添加文字、Logo、道具或额外角色。
+
+[English]
+Using REFERENCE_0 as the character base, convert the subject into a clean 3D-model preview suitable for head-and-body joining tests. Repose the character to a mostly front-facing upper-body bust, simplify the silhouette, and make the head/neck connection clearly visible while preserving the unsettling doll-like face, horn-like side spikes, wrapped textile outfit, dangling cords, and worn fabric textures from the reference. Place exactly 2 identical copies of the resulting character render side by side, one on the left and one on the right, with matching scale and pose for comparison. Use a plain {argument name="background color" default="dark charcoal gray"} background, soft studio lighting, and a slightly rendered/photogrammetry look rather than a polished illustration. Crop to a wide landscape frame showing the head, shoulders, and upper torso only. Avoid adding text, logos, props, or extra characters.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2094814128347197754) | 2026-09-01
+
+---
+
+### 🧸 例 7230：雪花石膏微缩城市雕塑
+
+![雪花石膏微缩城市雕塑](../images/%E9%9B%AA%E8%8A%B1%E7%9F%B3%E8%86%8F%E5%BE%AE%E7%BC%A9%E5%9F%8E%E5%B8%82%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的奇幻建筑产品摄影图，展现一座雕刻在单条连续弧形 {argument name="stone material" default="半透明白色雪花石膏大理石"} 带中的完整微缩城市。该石带呈大型开口贝壳或环形石带状，直立于深青色摄影棚背景上。城市如同从石材中生长出的奢华巴洛克式地中海微型王国：拥有平滑的白色露台、拱形长廊、微型阶梯、桥梁、柱廊、阳台、透出暖光的窗户，以及如同金缮工艺般贯穿石材的精致金脉纹理。包含 5 个核心地标元素：左上方一座带有黄铜浑天仪屋顶的大型圆形天文台宫殿、右上方一座高耸的灯塔式塔楼、右侧中部露台上一座带有黄铜星盘的小型圆塔、下方中心附近一座小型圆顶凉亭，以及左下方一条长长的拱形渡槽/长廊。在城市中融入绿松石色水景：包括 3 个可见水池和 3 处在露台间流淌的瀑布。在露台各处点缀微型柏树、小花园、开花灌木、苔藓和花盆，但建筑应保持视觉主体地位。天文仪器、精细接缝和精致装饰线条使用 {argument name="metal accent" default="纤细抛光黄铜"}。灯光采用电影级博物馆风格，窗户透出温暖的金色光芒，雕塑后方辅以冷青色环境光；背景为带有柔和雾气的平滑深 {argument name="background color" default="深青色"} 渐变色。渲染为一张超精细的收藏级建筑雕塑微距摄影，采用略微俯视的四分之三视角，呈现清晰华丽的细节、半透明石材的次表面散射光、水池上湿润的抛光倒影，具备浅景深效果，画面中无人、无文字、无水印。
+
+[English]
+Create a highly detailed fantasy architectural product shot of an entire miniature city carved inside one continuous curved ribbon of {argument name="stone material" default="translucent white alabaster marble"}, shaped like a large open shell or looping stone band standing upright on a dark teal studio surface. The city should look like a luxurious Baroque Mediterranean micro-kingdom grown from the same stone: smooth white terraces, arched arcades, tiny stairways, bridges, colonnades, balconies, glowing warm windows, and delicate gold-vein inlays running through the stone like kintsugi. Include exactly 5 main landmark elements: 1 large circular domed observatory palace on the upper left with a brass armillary ring on its roof, 1 tall lighthouse-like tower on the upper right, 1 smaller round tower with a brass astrolabe on the center-right terrace, 1 small domed pavilion near the lower center, and 1 long arched aqueduct/gallery along the lower left. Add turquoise water features integrated through the city: 3 visible pools and 3 cascading waterfalls flowing between terraces. Add miniature cypress trees, tiny gardens, flowering shrubs, moss, and planters throughout the terraces, but keep the architecture dominant. Use {argument name="metal accent" default="thin polished brass"} for the astronomical instruments, fine seams, and delicate decorative lines. Lighting should be cinematic and museum-like, with warm golden light glowing from the windows and cool teal ambient light behind the sculpture; the background is a smooth dark {argument name="background color" default="deep teal"} gradient with soft haze. Render as an ultra-detailed macro photograph of a collectible architectural sculpture, three-quarter view from slightly above, crisp ornate details, translucent stone subsurface glow, polished wet reflections on the pools, shallow depth of field, no people, no text, no watermark.
+```
+
+**来源：** [@HiAPI](https://x.com/hiapi_ai/status/2094783564248449456) | 2026-09-01
+
+---
+

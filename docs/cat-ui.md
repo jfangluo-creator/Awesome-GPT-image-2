@@ -15009,3 +15009,57 @@ Create an ultra-realistic luxury studio portrait of the same {argument name="sub
 
 ---
 
+### 🖥️ 例 7219：复古理发店室内场景
+
+![复古理发店室内场景](../images/%E5%A4%8D%E5%8F%A4%E7%90%86%E5%8F%91%E5%BA%97%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级逼真的复古 {argument name="location" default="理发店"}。墙上挂着七块小巧的边框标牌，每块标牌上都写着整齐的漆绘文字：“禁止戴帽”、“聊天需额外付费”、“周二安静”、“狗需系绳”、“上午 10 点前使用镜子”、“周四禁止小睡”、“鸣笛需付 2 便士”。一位穿着条纹围裙的 {argument name="character" default="女性理发师"} 正在椅子上为一只 {argument name="animal" default="贵宾犬"} 修剪毛发，空气中飘浮着碎发，窗外闪烁着红白相间的理发店旋转灯，温暖的钨丝灯光，2:3 的宽高比。
+
+[English]
+A photorealistic vintage {argument name="location" default="barbershop"}. Seven small framed signs hang on the wall, each with neat painted text: "NO HATS", "TALKING PAID EXTRA", "TUESDAYS ARE QUIET", "DOGS ON A LEASH", "MIRRORS BEFORE 10 AM", "NO NAPPING ON THURSDAYS", "BEEPS COST 2 PENNIES". A {argument name="character" default="woman barber"} in a striped apron trims a {argument name="animal" default="poodle's"} fur on a chair, clippings in the air, a red-and-white pole glowing outside the window, warm tungsten light, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094838454446067940) | 2026-09-01
+
+---
+
+### 🖥️ 例 7246：Pastel Pixel 海岸重构
+
+![Pastel Pixel 海岸重构](../images/Pastel%20Pixel%20%E6%B5%B7%E5%B2%B8%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为风格和布局指南，创建一个并排的重构示例，包含 2 个垂直面板：左侧面板为明亮的写实海滨照片，右侧面板为该照片的像素艺术重新演绎。将灯塔主体替换为阳光明媚的海岸路边场景：前景为绿松石色的海洋，远处为蓝色的雪山，天空湛蓝且漂浮着大朵柔和的云彩，路边立着一根橙色的杆子，上面装有 2 个圆形凸面交通镜以及一个小型垂直警示牌。在像素艺术面板中，用柔和治愈的马卡龙色调重建同样的海岸场景，采用粗犷的低分辨率色块，简化山脉、海洋、云朵、路沿以及相同的镜子/标志构图。添加轻盈的装饰性像素 UI 元素：小点阵网格、微小的方形颗粒、闪光标记，并在右上角附近添加 3 个小爱心图标。在像素面板的左下角附近包含一段简短的英文标题，内容为 {argument name="caption text" default="WIND FROM THE SEA CARRIES LIGHT."}。保持整体氛围轻盈、宁静、怀旧且简洁，并带有温暖的奶油色高光和淡蓝色调。使用宽幅横向画布，在写实风格面板和像素重构面板之间进行等分。可选自定义设置：将场景氛围设为 {argument name="location mood" default="sunny Japanese coastal road"}，标志文字设为 {argument name="sign text" default="注意"}，海水颜色设为 {argument name="sea color" default="turquoise blue"}，像素调色板设为 {argument name="pixel palette" default="pastel blue, peach, cream, and lavender"}。
+
+[English]
+Using the provided reference image as the style and layout guide, create a new side-by-side reconstruction sample with exactly 2 vertical panels: the left panel is a bright realistic seaside photo, and the right panel is a pixel-art reinterpretation of that photo. Replace the lighthouse subject with a sunny coastal roadside scene: turquoise sea in the foreground, distant blue snow-capped mountains, a blue sky with large soft clouds, and an orange roadside pole holding exactly 2 round convex traffic mirrors plus a small vertical warning sign. In the pixel-art panel, rebuild the same coastal scene in a soft healing pastel palette with chunky low-resolution blocks, simplified mountains, sea, clouds, road edge, and the same mirror pole/sign composition. Add light decorative pixel UI accents: small dotted grids, tiny square particles, sparkle marks, and exactly 3 small heart icons near the upper-right. Include a small English caption near the lower-left of the pixel panel reading {argument name="caption text" default="WIND FROM THE SEA CARRIES LIGHT."}. Keep the overall feeling airy, calm, nostalgic, and clean, with warm cream highlights and pale blue tones. Use a wide horizontal canvas, split evenly between the realistic source-like panel and the pixel reconstruction panel. Optional customization: set the location mood to {argument name="location mood" default="sunny Japanese coastal road"}, the sign text to {argument name="sign text" default="注意"}, the sea color to {argument name="sea color" default="turquoise blue"}, and the pixel palette to {argument name="pixel palette" default="pastel blue, peach, cream, and lavender"}.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094701775270170941) | 2026-09-01
+
+---
+
+### 🖥️ 例 7262：另类摇滚美学摄影
+
+![另类摇滚美学摄影](../images/%E5%8F%A6%E7%B1%BB%E6%91%87%E6%BB%9A%E7%BE%8E%E5%AD%A6%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一组时尚的另类摇滚美学摄影，拍摄对象为一位坐在室内地板上的年轻女性，手持 {argument name="guitar" default="红色电吉他"}，姿态自然且富有戏剧性，头部后仰，舌头俏皮地伸向吉他琴颈，展现出前卫俏皮的态度，{argument name="hair style" default="带有细微彩色挑染的黑发"}，身着 {argument name="outfit" default="超大廓形奢华街头服饰"} 和印花设计师长裤，手指佩戴大量戒指和珠宝，采用影棚闪光灯拍摄，机顶直闪，高对比度照明，焦点清晰，皮肤纹理真实，浅景深，现代编辑音乐摄影，背景简洁，时尚与摇滚氛围，35mm 镜头质感，超高细节。
+
+[English]
+A stylish alternative rock aesthetic photoshoot of a young woman sitting on the floor indoors holding a {argument name="guitar" default="red electric guitar"}, dramatic candid pose with her head tilted back and tongue playfully out toward the guitar neck, edgy playful attitude, {argument name="hair style" default="black hair with subtle colored streaks"}, wearing {argument name="outfit" default="oversized luxury streetwear"} and patterned designer pants, lots of rings and jewelry on her fingers, studio flash photography, direct on-camera flash, high contrast lighting, sharp focus, realistic skin texture, shallow depth of field, modern editorial music photography, clean background, fashion + rock vibe, 35mm lens look, ultra high detail.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2094628107798126679) | 2026-09-01
+
+---
+

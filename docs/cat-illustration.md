@@ -19979,3 +19979,209 @@ Customizable subject: The central figure may be {argument name="central deity" d
 
 ---
 
+### 🎨 例 7218：20 世纪 70 年代写实风格广播演播室
+
+![20 世纪 70 年代写实风格广播演播室](../images/20%20%E4%B8%96%E7%BA%AA%2070%20%E5%B9%B4%E4%BB%A3%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%B9%BF%E6%92%AD%E6%BC%94%E6%92%AD%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个写实风格的 20 世纪 70 年代广播演播室。窗户上的手绘标牌写着“{argument name="station name" default="K-FROG — THE FROG STATION"}”，演播室旁边的项目列出了“6:00 DAWN CHORUS / 9:00 FROG FACTS / 12:00 LUNCH JAZZ / 15:00 FROG & FRIENDS / 21:00 LULLABIES”。一位戴着羽毛帽和耳机的女主持人坐在大麦克风前，红色的“ON AIR”灯亮着，桌上放着一个写有“{argument name="mug text" default="CALM SEAS ONLY"}”的马克杯，{argument name="lighting" default="warm studio light"}，2:3 宽高比。
+
+[English]
+A photorealistic 1970s radio studio. A painted sign on the window reads "{argument name="station name" default="K-FROG — THE FROG STATION"}", and a schedule board beside the booth lists "6:00 DAWN CHORUS / 9:00 FROG FACTS / 12:00 LUNCH JAZZ / 15:00 FROG & FRIENDS / 21:00 LULLABIES". A woman host with a feathered hat and headphones sits at a big microphone, a red "ON AIR" lamp glowing, a mug reading "{argument name="mug text" default="CALM SEAS ONLY"}", {argument name="lighting" default="warm studio light"}, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094841096522080496) | 2026-09-01
+
+---
+
+### 🎨 例 7220：1920 年代复古商店招牌
+
+![1920 年代复古商店招牌](../images/1920%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E5%95%86%E5%BA%97%E6%8B%9B%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个照片级真实的街角，时间设定在 {argument name="year" default="1928"} 年。木质门面上挂着一块巨大的手绘商店招牌，上面用流畅的字体写着：“{argument name="main text" default="THE ORIGINAL BUBBLY ORANGE SODA"}”、“{argument name="tagline" default="COLD, CRISP, ALMOND-KISSED"}”、“BOTTLED BY HENRY & SONS, 1928”，并绘有橙子切片和泡沫飞溅的图案。招牌下方，一个木箱里装着贴有“BUBBLY ORANGE”小纸标签的玻璃瓶，墙边靠着一辆自行车，木箱上放着一顶纸制遮阳帽。晨光，鹅卵石路面，淡淡的薄雾，2:3 纵横比。
+
+[English]
+A photorealistic street corner in {argument name="year" default="1928"}. A large hand-painted shop sign on a wooden facade reads, in flowing painted letters: "{argument name="main text" default="THE ORIGINAL BUBBLY ORANGE SODA"}", "{argument name="tagline" default="COLD, CRISP, ALMOND-KISSED"}", "BOTTLED BY HENRY & SONS, 1928", with a painted orange slice and a splash of foam. Below the sign, a wooden crate holds glass bottles with small paper labels reading "BUBBLY ORANGE", a bicycle leans against the wall, and a paper sun hat sits on the crate. Morning light, cobblestones, a faint mist, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094833028379902255) | 2026-09-01
+
+---
+
+### 🎨 例 7221：复古餐厅与猫咪收银员
+
+![复古餐厅与猫咪收银员](../images/%E5%A4%8D%E5%8F%A4%E9%A4%90%E5%8E%85%E4%B8%8E%E7%8C%AB%E5%92%AA%E6%94%B6%E9%93%B6%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="setting" default="照片级逼真的复古餐厅"}，明亮而欢快。柜台后的菜单项目列出了醒目的粗体文字："{argument name="menu items" default="前菜 — 春卷 3.5 / 凉拌卷心菜 2.5"}"，"主菜 — 塔可周二 7 / 炸鱼 8.5 / 墨西哥卷饼 6"，"奶昔 — 香草 3 / 草莓 3.2"，"甜点 — 派 4 / 甜甜圈 1.5"，外加一个黄色方框写着 "今日特惠：可颂三明治 4.75"。一只 {argument name="animal character" default="穿着白衬衫和红领结的小猫"} 站在收银台后的柜台上，一只爪子按在派上。铬合金高脚凳、霓虹灯、透过玻璃洒入的晨光，2:3 纵横比。
+
+[English]
+A {argument name="setting" default="photorealistic retro diner"}, bright and cheerful. The menu board behind the counter lists in bold lettering: "{argument name="menu items" default="STARTERS — SPRING ROLLS 3.5 / COLESLAW 2.5"}", "MAINS — TACO TUESDAY 7 / FISH FRY 8.5 / BURRITO 6", "SHAKES — VANILLA 3 / STRAWBERRY 3.2", "DESSERTS — PIE 4 / DONUT 1.5", plus a yellow box "TODAY'S SPECIAL: CROISSANT SANDWICH 4.75". A {argument name="animal character" default="small cat in a white shirt and red bow tie"} stands on the counter behind the register, one paw on a pie. Chrome stools, neon, morning sun through the glass, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2094832117754585501) | 2026-09-01
+
+---
+
+### 🎨 例 7228：李清照文学主题 Slides
+
+![李清照文学主题 Slides](../images/%E6%9D%8E%E6%B8%85%E7%85%A7%E6%96%87%E5%AD%A6%E4%B8%BB%E9%A2%98%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个关于 {argument name="topic" default="李清照对当代女性的启示"} 的优雅中国文学演示封面 Slides，将宋代诗意氛围与现代编辑设计相结合。
+
+画布：16:9 横向 Slides，干净的米白色背景，右侧三分之一处为淡鼠尾草绿垂直面板。运用大量留白、精致的页边距、柔和的纸张纹理、淡淡的水墨渍以及横跨中间的微妙灰色植物阴影。
+
+布局：左侧三分之二为文本区域；右侧三分之一为静物摄影区域。将大标题置于左上方，排版为两行深森林绿色的中文字体：第一行“李清照对当代”，第二行“女性的启示”。在标题下方添加一条纤细的柔和红色水平装饰线。下方放置较小的黑色中文衬线字体副标题：{argument name="subtitle text" default="从文学人生，看见女性如何表达自我、选择人生、抵抗困境。"}
+
+中左侧功能行：包含 3 张水平排列的小图标卡片，由两条细垂直分隔线隔开。卡片 1 带有柔和的玫瑰色圆形图标，内含白色叶子符号，标签为“以文学\n确立自我”。卡片 2 带有温暖的米色圆形图标，内含白色天平符号，标签为“在时代与命运之间\n保持判断”。卡片 3 带有低饱和度的青色圆形图标，内含白色人物剪影，标签为“不被单一\n身份定义”。
+
+左下角关键词行：包含 3 个由竖线分隔的关键词，并带有小深绿色引导标记：“表达自我 | 保持独立 | 承受变化”。
+
+右侧静物细节：展示一张斜放在书桌上的古代中国信件或手稿纸，纸上可见灰墨书写的垂直中文书法。一支黑棕色毛笔斜放在纸上，笔尖指向右下方。添加 2 枝盛开的梅花：一枝横跨右上角，带有几朵淡粉白色的花朵和花蕾；另一枝较小的从左中向右延伸，投下柔和的阴影。右侧面板背景为淡鼠尾草绿；纸张为暖象牙色，边缘略微卷曲，带有柔和的折痕。
+
+视觉风格：高雅、文学、博物馆图录式的极简主义；宁静的宋代美学；来自左上方的自然光；柔和的阴影；象牙色、森林绿、鼠尾草绿、玫瑰色、米色和墨灰色的柔和色调；高分辨率编辑构图，写实静物摄影与简洁图形排版相结合。
+
+约束：保持所有可见文本为中文，与指定内容完全一致，不得添加额外说明或水印。严格保留 3 张图标卡片和 3 个底部关键词。避免杂乱、鲜艳色彩、卡通风格或现代科技 UI 效果。
+
+[English]
+Goal: Create an elegant Chinese literary presentation cover slide about {argument name="topic" default="李清照对当代女性的启示"}, blending Song dynasty poetic atmosphere with modern editorial design.
+
+Canvas: 16:9 horizontal slide, clean off-white background with a pale sage-green vertical panel occupying the right third. Use lots of negative space, refined margins, soft paper texture, faint ink-wash stains, and subtle gray botanical shadows across the middle.
+
+Layout: Left two-thirds is the text area; right third is a still-life photograph area. Place the large headline in the upper-left, arranged as two lines of dark forest-green Chinese serif type: line 1 “李清照对当代”, line 2 “女性的启示”. Under the headline add a thin muted red horizontal accent line. Below it place the subtitle in smaller black Chinese serif text: {argument name="subtitle text" default="从文学人生，看见女性如何表达自我、选择人生、抵抗困境。"}
+
+Middle-left feature row: include exactly 3 small icon cards in a horizontal row, separated by two thin vertical divider lines. Card 1 has a muted rose circular icon with a white leaf symbol and the label “以文学\n确立自我”. Card 2 has a warm beige circular icon with a white balance-scale symbol and the label “在时代与命运之间\n保持判断”. Card 3 has a desaturated teal circular icon with a white user silhouette and the label “不被单一\n身份定义”.
+
+Bottom-left keyword row: include exactly 3 keywords separated by vertical bars, with a small dark green leading mark: “表达自我 | 保持独立 | 承受变化”.
+
+Right still-life details: show an open antique Chinese letter or manuscript paper lying diagonally on a desk, with visible vertical handwritten Chinese calligraphy in gray ink. A black-and-brown calligraphy brush rests diagonally over the paper, pointing toward the lower-right. Add exactly 2 blooming plum blossom branches: one branch crosses the upper-right corner with several pale white-pink blossoms and buds, and one smaller branch extends from the center-left toward the right, casting soft shadows. The right panel background should be pale sage green; the paper is warm ivory with slightly curled edges and soft folds.
+
+Visual style: tasteful, literary, museum-catalog minimalism; calm Song dynasty aesthetics; natural daylight from upper left; soft shadows; muted palette of ivory, forest green, sage, rose, beige, and ink gray; high-resolution editorial composition, realistic still-life photo blended with clean graphic typography.
+
+Constraints: Keep all visible text in Chinese exactly as specified, with no extra captions or watermark. Maintain the 3 icon cards and 3 bottom keywords exactly. Avoid clutter, bright colors, cartoon styling, or modern tech UI effects.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2094793543634276422) | 2026-09-01
+
+---
+
+### 🎨 例 7238：红宝石色嘻哈插画
+
+![红宝石色嘻哈插画](../images/%E7%BA%A2%E5%AE%9D%E7%9F%B3%E8%89%B2%E5%98%BB%E5%93%88%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+美丽的 {argument name="subject" default="嘻哈女性"} 戴着棒球帽，模糊效果，绘画笔触，极简主义插画。背景为 {argument name="background color" default="纯红宝石色"}。充满动感的角色角度，带有运动模糊。角色以黑色和红色调为主，黑色服装与戏剧性的红色光影形成对比，突显出神秘而强大的气场。超现实主义美学，精致的氛围，丰富的深度，视觉上引人注目的对比与冲突有机融合，倒影，艺术表现力，以及奢华的高端质感。
+
+[English]
+Beautiful {argument name="subject" default="hip-hop woman"} wearing a baseball cap, blurred effect, painterly brush strokes, minimalist illustration. The background is {argument name="background color" default="pure ruby red"}. Dynamic character angle with motion blur. The character is dominated by black and red tones, wearing black clothing contrasted with dramatic red lighting and shadows, emphasizing a mysterious and powerful presence. Surrealist aesthetics, sophisticated atmosphere, rich depth, visually striking contrast and conflict organically blended together, reflections, artistic expression, and a luxurious high-end feel.
+```
+
+**来源：** [@Zara Quinn](https://x.com/Zara__Ai/status/2094738312770781268) | 2026-09-01
+
+---
+
+### 🎨 例 7244：Y2K 风格日本美妆照片拼贴
+
+![Y2K 风格日本美妆照片拼贴](../images/Y2K%20%E9%A3%8E%E6%A0%BC%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%A6%86%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实、高清晰度的 9:16 垂直 {argument name="aesthetic" default="Y2K 风格"} 照片拼贴，三个面板中均保持同一位 {argument name="subject" default="美丽的成年女性"}。可爱、迷人的日本美女，留着长而蓬松的丝滑深色头发，拥有自然透亮的肌肤、柔和的狐系眼妆、长睫毛、粉嫩的唇彩以及精致的女性化特征。
+
+顶部面板 - 极近距离自拍，直视镜头，一只眼睛睁开，另一只眼睛俏皮地眨眼，柔顺的发丝修饰着脸庞。
+
+中间面板 - 迷人的回眸姿势，身体背对镜头，同时回头看向镜头，长而蓬松的头发自然飘动，柔和地遮住部分脸颊。
+
+底部面板 - 极近距离的亲密特写，长发自然遮住一只眼睛，微微嘟嘴，表情梦幻且自信。
+
+浅色中性背景，还原 2000 年代初期的 Y2K 数码相机美学，iPhone 直闪摄影，明亮的闪光灯高光，轻微的自然曝光过度，柔和的阴影，复古数码颗粒感，细微的动态模糊，随性且不完美的构图。
+
+无文字，无水印，无畸变，无扭曲的面部，无不对称的眼睛，无重复特征，无面部差异，无模糊的面部细节。
+
+[English]
+Create an ultra-realistic, high-definition vertical 9:16 {argument name="aesthetic" default="Y2K-inspired"} photo collage featuring the same {argument name="subject" default="beautiful adult woman"} consistently in all three panels. Cute, glamorous Japanese beauty with long, voluminous silky dark hair, natural glowing skin, soft fox-eye makeup, long lashes, glossy pink lips, and delicate feminine features.
+
+TOP PANEL- extreme close-up selfie, looking directly into the camera with one eye open and the other eye playfully winking, soft strands of hair framing her face.
+
+MIDDLE PANEL- glamorous over-the-shoulder pose, body turned away while she looks back at the camera, long voluminous hair flowing naturally and softly crossing part of her face.
+
+BOTTOM PANEL- intimate close-up very near the lens, long hair naturally covering one eye, subtle cute pout, dreamy confident expression.
+
+Pale neutral background, authentic early-2000s Y2K digital camera aesthetic, iPhone direct flash photography, bright flash highlights, slight natural overexposure, soft shadows, vintage digital grain, subtle motion softness, candid imperfect framing.
+
+No text, no watermark, no distortion, no warped face, no asymmetrical eyes, no duplicate features, no face variation, no blurry facial details.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2094706661005103239) | 2026-09-01
+
+---
+
+### 🎨 例 7253：Q 版皇家马族双胞胎王子
+
+![Q 版皇家马族双胞胎王子](../images/Q%20%E7%89%88%E7%9A%87%E5%AE%B6%E9%A9%AC%E6%97%8F%E5%8F%8C%E8%83%9E%E8%83%8E%E7%8E%8B%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和、高细节的 Q 版动漫插画，描绘 {argument name="character count" default="两位"} 皇家马族拟人化双胞胎儿童并排站在明亮的宫殿王座厅中。画面中正好有两位角色：左侧的双胞胎拥有蓬松的短 {argument name="left twin hair color" default="银白色"} 头发、白皙的皮肤、下垂的淡紫色眼睛、平静且略带睡意的表情、一只白色的马耳和蓬松的白尾巴，身穿迷你白金配色王子制服，配有蓝色装饰、勋章、肩章、毛领披风、珠宝饰带细节、手套和深色靴子；右侧的双胞胎拥有长 {argument name="right twin hair color" default="深海军黑色"} 头发，低扎并带有松散卷发、白皙的皮肤、明亮的绿色大眼睛、温柔的微笑表情、一只白色的马耳和长长的深色尾巴，身穿配套的白金配色皇家制服，配有红色装饰、勋章、肩章、毛领披风、黑色靴子和精致的珍珠链。每位双胞胎都戴着一顶超大且华丽的皇冠，总共正好两顶：金色框架配红色天鹅绒中心、珍珠花环、小型宝石饰顶和明亮的闪光高光。将他们放置在一张巨大的毛绒红色王座前，王座带有金色雕刻扶手和饰边，高大的宫殿窗户洒入白光，两侧悬挂着带有微妙马族徽章的蓝色皇家旗帜，铺设红色地毯，地面为光泽的灰白棋盘格。采用梦幻的扭蛋游戏角色风格，大头小身，精致的睫毛，柔和的腮红，柔和的灯光，闪烁的魔法粒子，镜头光晕闪光和精致的奇幻皇室细节。构图应为中远景正面视角，对称且可爱，王座居中位于他们身后，两位角色从皇冠到靴子均完整可见。无文字，无水印，无额外角色。
+
+[English]
+Create a soft, high-detail chibi anime illustration of {argument name="character count" default="two"} royal horse-anthro twin children standing side by side in a bright palace throne room. The image shows exactly two characters: the left twin has fluffy short {argument name="left twin hair color" default="silvery white"} hair, pale skin, droopy lavender eyes, a calm slightly sleepy expression, a white horse ear and fluffy white tail, and wears a miniature white-and-gold prince uniform with blue accents, medals, epaulettes, a fur-trimmed cape, jeweled sash details, gloves, and dark boots; the right twin has long {argument name="right twin hair color" default="dark navy black"} hair tied low with loose curls, pale skin, large green eyes, a gentle smiling expression, a white horse ear and long dark tail, and wears a matching white-and-gold royal uniform with red accents, medals, epaulettes, fur-trimmed cape, black boots, and delicate pearl chains. Each twin wears one oversized ornate crown, for exactly two crowns total: gold frames with red velvet centers, pearl garlands, small jewel finials, and bright sparkle highlights. Place them in front of a large plush red throne with gold carved arms and trim, tall palace windows pouring in white light, blue royal banners with subtle horse emblems on both sides, a red carpet, and a glossy gray-and-white checkerboard floor. Use a dreamy gacha-game character style, oversized heads and tiny bodies, delicate eyelashes, soft blush, pastel lighting, shimmering magical particles, lens-flare sparkles, and polished fantasy royalty details. Composition should be a medium-wide frontal view, symmetrical and cute, with the throne centered behind them and both characters fully visible from crown to boots. No text, no watermark, no extra characters.
+```
+
+**来源：** [@眩](https://x.com/mabushi_____/status/2094663410172785041) | 2026-09-01
+
+---
+
+### 🎨 例 7256：极简主义编辑轮廓插画
+
+![极简主义编辑轮廓插画](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E8%BD%AE%E5%BB%93%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+优雅的编辑插画，主体为 {argument name="subject" default="[SUBJECT]"}，结合了细腻的轮廓线条与一到两种 {argument name="color style" default="醒目的纯色色块"}，部分区域刻意留白，在细节与留白之间达到精致的平衡，纯白色背景，呈现出现代艺术杂志的美学风格。
+
+[English]
+Elegant editorial illustration of a {argument name="subject" default="[SUBJECT]"}, combining delicate contour drawing with one or two bold solid-color shapes, selective areas intentionally unfinished, refined balance of detail and emptiness, plain white background, contemporary art-magazine aesthetic.
+```
+
+**来源：** [@Aniya Intelligence](https://x.com/aniyaintel/status/2094651888771944616) | 2026-09-01
+
+---
+
+### 🎨 例 7271：宏伟银河星云探索
+
+![宏伟银河星云探索](../images/%E5%AE%8F%E4%BC%9F%E9%93%B6%E6%B2%B3%E6%98%9F%E4%BA%91%E6%8E%A2%E7%B4%A2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="theme" default="宇宙探検"}：{argument name="elements" default="星雲と惑星"}、{argument name="subject" default="巨大宇宙船"}が光る壮大な銀河風景。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2094583518735028500) | 2026-09-01
+
+---
+
