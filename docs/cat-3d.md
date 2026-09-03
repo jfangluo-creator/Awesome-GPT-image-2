@@ -8658,3 +8658,80 @@ Create a highly detailed fantasy architectural product shot of an entire miniatu
 
 ---
 
+### 🧸 例 7275：古庙 3D 立体透视模型
+
+![古庙 3D 立体透视模型](../images/%E5%8F%A4%E5%BA%99%203D%20%E7%AB%8B%E4%BD%93%E9%80%8F%E8%A7%86%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为建筑参考，将雕刻场景转化为写实的手工 3D 微缩透视模型 / 比例模型。保留原有的古庙、梯田山坡、石挡土墙、阶梯、树木和微小的人像，但将所有元素从平面插画转换为具有深度、阴影和触感细节的实体模型材质。以高角度的 45 度等轴侧视图呈现，背景为简洁明亮的摄影棚背景。在整个地形下方添加一个抛光的深色木质展示底座，并在前缘中心处固定 1 个黄铜铭牌，铭牌文字为 {argument name="plaque text" default="The Temple of Artemis"}。使地形看起来像博物馆级的建筑模型：雕刻的石块、岩石悬崖纹理、微型灌木和柏树、风化的象牙色庙宇立柱，以及细腻的自然色彩。在保持参考图整体布局的同时，使其呈现出实体收藏模型的质感，而非绘画作品。
+
+[English]
+Using REFERENCE_0 as the architectural source, transform the engraved scene into a realistic handcrafted 3D miniature diorama / scale model. Keep the same ancient temple, terraced hillside, stone retaining walls, stairways, trees, and tiny human figures, but convert everything from flat illustration into physical model materials with depth, shadows, and tactile detail. Present it from an elevated three-quarter isometric view on a clean light studio background. Add a polished dark wooden display plinth underneath the whole terrain and attach exactly 1 brass nameplate centered on the front edge reading {argument name="plaque text" default="The Temple of Artemis"}. Make the terrain look like a museum-quality architectural maquette: carved stone blocks, rocky cliff texture, miniature shrubs and cypress trees, weathered ivory temple columns, and subtle natural colors. Preserve the overall layout from the reference while making it feel like a tangible collectible model, not a drawing or painting.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2095269728986218691) | 2026-09-02
+
+---
+
+### 🧸 例 7326：微缩版“生病日”立体模型
+
+![微缩版“生病日”立体模型](../images/%E5%BE%AE%E7%BC%A9%E7%89%88%E2%80%9C%E7%94%9F%E7%97%85%E6%97%A5%E2%80%9D%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在黄金时刻的木质桌面上，创作一个超现实、超写实的微缩电影感“生病日”场景。一位微小的年轻女性，{argument name="character name" default="一位疲惫的年轻女性"}，坐在一个印有“POWER CAPS”字样的超大号红橙色药盒上，身上裹着柔软的灰色毯子，内搭米色衬衫和格子睡裤，脚穿白色运动鞋。她看起来精疲力竭，略显发烧，一只手拿着小勺子，另一只手拿着一个小碗或药杯，低头凝视，神情安静而病弱。在她周围放置比例远大于她的巨型日常康复用品：左侧垂直立着 1 个超大号电子体温计，显示“38.5 °C”及一个悲伤表情图标；她上方贴着 1 张写有“Get Well Soon”及红色爱心图案的黄色便签；后方放置 1 个印有“Take Care”字样及微笑太阳插画的米色大陶瓷马克杯；右侧放置 1 个装满气泡的透明玻璃水杯；右前方放置 1 个印有“Panadol Advance”字样的蓝色药盒；右下方放置 1 个琥珀色药瓶，白色标签上写着“Rest Hydrate Feel Better”及一颗红色爱心；前方放置 1 个装有 10 片白色药片的铝箔包装；桌面上散落 1 粒白色胶囊；场景周围散落 5 张揉皱的白色纸巾。利用透过窗户的温暖背光，窗外是柔和的树木虚化效果，采用浅景深，呈现纸张、塑料、陶瓷、玻璃、铝箔、木纹和织物的真实质感。使其看起来像是一个用微距镜头拍摄的微型电影立体模型，既温馨又带有一丝忧郁，具备真实的阴影、反射和比例对比，除指定的标签外，不包含任何额外的物体或文字。使用 {argument name="mood" default="温暖、关怀、疲惫、电影感"} 的光效以及 {argument name="camera angle" default="略微低角度的前方微距视角"} 的构图。
+
+[English]
+Create a surreal, ultra-realistic miniature cinematic sick-day scene on a wooden tabletop at golden hour. A tiny young woman, {argument name="character name" default="a tired young woman"}, sits on top of an oversized red-and-orange medicine box labeled “POWER CAPS,” wrapped in a soft gray blanket over a cream shirt and plaid pajama pants, wearing white sneakers. She looks exhausted and slightly feverish, holding a small spoon in one hand and a small bowl or cup of medicine in the other, gazing downward with a quiet unwell expression. Surround her with giant everyday recovery objects scaled much larger than her: exactly 1 oversized digital thermometer leaning vertically on the left showing “38.5 °C” with a sad face icon, exactly 1 yellow sticky note above her reading “Get Well Soon” with a red heart, exactly 1 large cream ceramic mug in the back reading “Take Care” with a smiling sun illustration, exactly 1 clear glass of water on the right filled with sparkling bubbles, exactly 1 blue medicine box labeled “Panadol Advance” in the right foreground, exactly 1 amber pill bottle on the lower right with a white label reading “Rest Hydrate Feel Better” and a red heart, exactly 1 blister pack in the front holding 10 white tablets, exactly 1 loose white capsule on the tabletop, and exactly 5 crumpled white tissues scattered around the scene. Use warm backlit sunlight streaming through a window, soft bokeh trees outside, shallow depth of field, realistic textures on paper, plastic, ceramic, glass, foil, wood grain, and fabric. Make it feel like a tiny cinematic diorama photographed with a macro lens, cozy but melancholic, with realistic shadows, reflections, scale contrast, and no extra objects or text beyond the specified labels. Use {argument name="mood" default="warm, caring, tired, cinematic"} lighting and a {argument name="camera angle" default="slightly low front macro angle"} composition.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2094991591383646526) | 2026-09-02
+
+---
+
+### 🧸 例 7335：从芝士汉堡到迷你咖啡馆的 Storyboard
+
+![从芝士汉堡到迷你咖啡馆的 Storyboard](../images/%E4%BB%8E%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1%E5%88%B0%E8%BF%B7%E4%BD%A0%E5%92%96%E5%95%A1%E9%A6%86%E7%9A%84%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个高度精细的超写实微型食物变形 Storyboard，展示芝士汉堡变身为微型快餐店立体模型的过程。
+
+画布：白色背景上的方形拼贴画，排列为 5 个垂直面板，带有细黑色边框：顶部一行 3 个面板，底部一行居中 2 个较大的面板。每个面板均在同一个明亮、柔和光线的房间内拍摄，置于光亮的白色桌面上，背景为模糊的阳光窗户，具有逼真的倒影、浅景深和温暖的自然日光。
+
+面板顺序及计数元素：
+1. 面板 1：一个逼真的多汁 {argument name="food item" default="芝士汉堡"} 放在光亮的白色桌面上。它有金黄色的芝麻面包、爽脆的绿生菜、番茄、融化的黄色芝士和煎至褐色的牛肉饼。一只手指从右侧轻轻按压汉堡，暗示神奇变形的开始。
+2. 面板 2：汉堡在基本保持完整的同时开始变形。在汉堡内部增加可见的机械和建筑细节：番茄层沿线有 3 个微小的白色齿轮，顶部面包上有细微的面板接缝，层与层之间隐约可见微型结构细节。
+3. 面板 3：汉堡打开，变成嵌入面包内部的微型快餐店。顶部面包像遮阳篷一样裂开并抬起，生菜和芝士卷在底部周围，番茄片和肉饼碎片从侧面突出，内部露出微小的柜台、菜单项目、暖色灯光、厨房设备以及写有 {argument name="restaurant sign" default="EIBGEES Cafée"} 的小型店面招牌。
+4. 面板 4：变形完成：一个独立的微型快餐店立体模型放置在桌面上。它有 1 个写有 {argument name="restaurant sign" default="EIBGEES Cafée"} 的大型屋顶招牌，屋顶上有 2 个黄色拱门标志，1 个前台服务柜台，柜台上放有 1 个薯条盒，可见 2 位微型顾客，柜台后有 1 位微型员工。包含温暖的室内照明、菜单项目、烤架、货架和微小的食物道具。
+5. 面板 5：从略微不同的角度拍摄的最终视图，几乎与上一张相同，展示了完成后的微型咖啡馆，并包含相同的计数元素：1 个大型屋顶招牌、2 个黄色拱门标志、1 个服务柜台、1 个薯条盒、2 位微型顾客和 1 位员工，所有细节清晰且超写实。
+
+视觉风格：电影级超写实微距摄影，微缩比例，逼真的材质，桌面上的光亮倒影，柔和的背景虚化，明亮舒适的房间，高细节，温暖的咖啡馆灯光，玩具般的微型建筑但物理上可信。使用神奇的变形感，而非卡通风格。
+
+约束：保持所有 5 个面板的光线、桌面和背景一致。不要添加额外的面板。不要在可见的餐厅招牌之外添加任何标题。使用带有黑色面板轮廓的简洁拼贴布局，且不要添加水印。
+
+[English]
+Goal: Create a highly detailed photorealistic miniature food transformation storyboard showing a cheeseburger turning into a tiny fast-food café diorama on a glossy tabletop.
+
+Canvas: Square collage layout with exactly 5 vertical 9:16 panels separated by thin black borders: 3 panels across the top row and 2 panels centered on the bottom row. Use a bright softly lit room with a blurred window in the background, white glossy tabletop, realistic reflections, shallow depth of field, warm daylight, cinematic miniature photography.
+
+Panel sequence: Panel 1 shows a realistic juicy cheeseburger on the tabletop, with a golden sesame-seed bun, crispy green lettuce, tomato, melted cheese, thick beef patty, and bottom bun; a human finger touches/pushes the burger from the right side to initiate the transformation. Panel 2 shows the burger beginning to transform, still mostly intact, with small mechanical gears and circular parts appearing between the tomato and cheese layers, suggesting hidden machinery inside. Panel 3 shows the burger partially opened and converted into a miniature restaurant interior, with bun fragments forming the outer shell, lettuce, cheese, tomato slices, and patty pieces still visible around the edges, and a tiny illuminated café counter inside. Panel 4 shows the completed miniature fast-food café diorama standing where the burger was, with a compact counter, kitchen equipment, menu boards, warm lights, condiment area, fries container, burgers on the counter, and exactly 3 tiny human figures: one customer at the front left, one worker behind the counter, and one customer standing at the right. Panel 5 shows a similar final completed café from a slightly refined angle, again with the same compact burger-shop structure, warm interior lights, menu boards, counter food, and exactly 3 tiny human figures.
+
+Signage and text: Add fast-food branding signs inspired by burger restaurants, including a roof sign reading {argument name="café sign text" default="FIBGEES Cafée"} and small golden arch-like logo signs on the roof. Include small menu boards with unreadable tiny food-item text, not crisp paragraphs.
+
+Subject details: The final miniature café should have wood-slat fascia, cream and brown walls, a stainless-steel kitchen area, small griddle, shelves, a drink cup, fries, burgers, glowing string lights or under-counter lights, and realistic scale-model construction. Maintain a sense that the café emerged from the original cheeseburger.
+
+Visual style: Photorealistic macro miniature scene, whimsical transformation, high detail, realistic materials, soft shadows, glossy reflections, warm inviting lighting, shallow depth of field, clean white tabletop, bright window-lit room. Avoid cartoon style, avoid extra panels, avoid extra figures, avoid large readable text beyond the main signage.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2094957018457215218) | 2026-09-02
+
+---
+

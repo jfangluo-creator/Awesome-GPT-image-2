@@ -19379,3 +19379,309 @@ Create a photorealistic high-detail cinematic outdoor portrait of a {argument na
 
 ---
 
+### 🏷️ 例 7280：油画风格海岸神圣光束插画
+
+![油画风格海岸神圣光束插画](../images/%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%B5%B7%E5%B2%B8%E7%A5%9E%E5%9C%A3%E5%85%89%E6%9D%9F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅充满活力的竖构图数字插画，采用丰富的表现主义风格，笔触光亮且富有质感，令人联想到层层叠加的油画。深邃饱和的蓝色天空占据了上半部分，厚重且轮廓分明的积云呈现出钴蓝、天蓝、蔚蓝和白色，边缘闪烁着金色的光晕。一轮光芒四射的太阳从云层缝隙中喷薄而出，投射出宽阔明亮的金色神圣光束，穿过云隙直抵海面。七只翼尖呈黑色的白色海鸥在不同高度和距离的天空中优雅滑翔。下方，一片生动的深蓝色海洋延伸至地平线，海面闪烁着长长的金色与白色光影路径，成千上万个细小的闪光点和涟漪在柔和的波浪上跳动，向观者涌来。右侧的一处绿色岩石半岛上，矗立着一座迷人的老渔夫小屋，墙面斑驳，带有锈迹和褪色的漆面，配有明亮的蓝色瓦片屋顶、一个小砖烟囱和一扇深色的窗户。小屋基座的岩石周围生长着绿色灌木和草丛。色调以生动的钴蓝、宝蓝和蔚蓝为主，辅以清脆的白色和温暖的金色阳光点缀。构图采用竖向沉浸式设计，阳光路径和光影反射引导视线从发光的云层向下，穿过海鸥，最终落在岩石上的小屋。整体氛围宁静、治愈且如梦似幻，捕捉到了阳光穿透云层照亮海面的魔幻金色瞬间。一幅充满活力的竖构图数字插画，采用丰富的表现主义风格，笔触光亮且富有质感，令人联想到层层叠加的油画。深邃饱和的蓝色天空占据了上半部分，厚重且轮廓分明的积云呈现出钴蓝、天蓝和白色，边缘闪烁着金色的光晕，夕阳向地平线沉去，在云层间投射出宽阔明亮的神圣光束。几只翼尖呈黑色的白色海鸥在不同高度优雅滑翔。下方，一片生动的深蓝色海洋广阔延伸，海面闪烁着金色与白色的光影路径，在柔和的波浪上跳动。中景处，一艘宏伟的古老高桅帆船挂着多面奶油白色的帆，温暖的木质索具在海平线上漂浮，帆面在低垂的阳光下闪烁着金光。前景中，在水边的岩石露头上，一对情侣作为深色优雅的剪影矗立在发光的海面背景前，两人紧紧相依，其中一人轻轻拥抱着对方，凝视着远去的帆船。色调以生动的钴蓝和宝蓝为主，辅以清脆的白色和温暖的金色琥珀色夕阳点缀。构图采用竖向沉浸式设计，帆船被前景中剪影般的情侣与上方光芒四射的天空所环绕。整体氛围浪漫、充满冒险感且如梦似幻，捕捉到了海上魔幻的金色告别或重逢时刻。一幅充满活力的竖构图数字插画，采用丰富的表现主义风格，笔触光亮且富有质感，令人联想到层层叠加的油画。深邃饱和的蓝色天空占据了上半部分，厚重且轮廓分明的积云呈现出钴蓝、天蓝和白色，边缘闪烁着金色的光晕，一轮光芒四射的太阳从云层缝隙中喷薄而出，投射出宽阔明亮的神圣光束直抵海面。几只翼尖呈黑色的白色海鸥在不同高度的天空中优雅滑翔。下方，一片生动的深蓝色海洋延伸至地平线，海面闪烁着金色与白色的光影路径，在柔和的波浪上跳动。右侧的一处绿色岩石半岛上，矗立着一座迷人的老渔夫小屋，墙面斑驳，带有锈迹和褪色的蓝色瓦片屋顶，配有一个小砖烟囱和温暖的窗户。在这个浪漫的场景中，一对情侣在小屋附近的岩石水边紧紧相依，他们身着轻便的夏装，拥抱着凝视着阳光照耀的海面，在广阔的发光景观中，他们的身影显得格外渺小。色调以生动的钴蓝和宝蓝为主，辅以清脆的白色和温暖的金色阳光点缀。构图采用竖向沉浸式设计，阳光路径引导视线从发光的云层向下，落到小屋旁的情侣身上。整体氛围浪漫、宁静且如梦似幻，捕捉到了海边爱与安宁的魔幻金色瞬间。
+
+[English]
+A vibrant, painterly digital illustration in portrait orientation, in a rich expressive style with glossy, textured brushwork reminiscent of layered oil painting. A dramatic sky of deep saturated blues fills the upper half — heavy sculpted cumulus clouds in cobalt, azure, cerulean and white with golden-lit swirling edges. A radiant sun bursts through a break in the clouds near the top, casting wide, luminous golden god rays that fan down through the cloud gap toward the sea. Seven white seagulls with black-tipped wings glide gracefully across the sky at different heights and distances. Below, a vivid deep-blue ocean stretches to the horizon, its surface sparkling with a long shimmering path of golden and white light reflections — thousands of small sparkling dots and ripples dancing across the gentle waves toward the viewer. On a small rocky green peninsula on the right stands a charming old fisherman's cottage with weathered white walls, patches of rust and faded paint, a bright blue tiled roof, a small brick chimney and a dark window. Green shrubs and grasses grow around the rocks at its base. The palette is dominated by vivid cobalt, royal and cerulean blues, crisp whites, and warm golden-yellow sunlight accents. The composition is vertical and immersive, with the sunbeam path and light reflections leading the eye from the glowing clouds down through the seagulls to the cottage on the rocks. The overall atmosphere is serene, uplifting and dreamlike, capturing a magical golden moment of light breaking through over the sea. A vibrant, painterly digital illustration in portrait orientation, in a rich expressive style with glossy, textured brushwork reminiscent of layered oil painting. A dramatic sky of deep saturated blues fills the upper half — heavy sculpted cumulus clouds in cobalt, azure and white with golden-lit edges, and a setting sun sinking toward the horizon, casting wide luminous god rays across the clouds. Several white seagulls with black-tipped wings glide gracefully at different heights. Below, a vivid deep-blue ocean stretches wide, its surface sparkling with a shimmering path of golden and white reflections dancing across the gentle waves. In the mid-ground, a majestic old tall ship with multiple cream-white sails and warm wooden rigging drifts along the horizon, its sails glowing gold in the low sunlight. In the foreground, on a rocky outcrop at the water's edge, a couple stands as dark, elegant silhouettes against the glowing sea — a man and a woman close together, one gently embracing the other, gazing out at the passing ship. The palette is dominated by vivid cobalt and royal blues, crisp whites, and warm golden-amber sunset accents. The composition is vertical and immersive, with the ship framed between the silhouetted couple in the foreground and the radiant sky above. The overall atmosphere is romantic, adventurous and dreamlike, capturing a magical golden farewell or reunion at sea. A vibrant, painterly digital illustration in portrait orientation, in a rich expressive style with glossy, textured brushwork reminiscent of layered oil painting. A dramatic sky of deep saturated blues fills the upper half — heavy sculpted cumulus clouds in cobalt, azure and white with golden-lit edges, and a radiant sun bursting through a break in the clouds, casting wide luminous god rays down toward the sea. Several white seagulls with black-tipped wings glide gracefully across the sky at different heights. Below, a vivid deep-blue ocean stretches to the horizon, its surface sparkling with a shimmering path of golden and white light reflections dancing across the gentle waves. On a small rocky green peninsula on the right stands a charming old fisherman's cottage with weathered white walls, patches of rust and faded blue roof tiles, a small brick chimney and warm windows. In the romantic scene, a couple stands close together at the water's edge on the rocks near the cottage — a man and a woman in light summer clothes, embracing and gazing at the sunlit sea, their figures small against the vast glowing landscape. The palette is dominated by vivid cobalt and royal blues, crisp whites, and warm golden-yellow sunlight accents. The composition is vertical and immersive, with the sunbeam path leading the eye from the glowing clouds down to the couple by the cottage. The overall atmosphere is romantic, serene and dreamlike, capturing a magical golden moment of love and tranquility by the sea.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2095183451104145506) | 2026-09-02
+
+---
+
+### 🏷️ 例 7307：机械龙摩托车
+
+![机械龙摩托车](../images/%E6%9C%BA%E6%A2%B0%E9%BE%99%E6%91%A9%E6%89%98%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级的 9:16 竖屏概念艺术渲染图，主体为 {argument name="vehicle concept" default="一辆可骑乘的机械龙摩托车"}，场景设定在夜晚阴暗的工业车库中，采用从左侧拍摄的极致特写四分之三前视图。该机器应保留龙头的轮廓，同时具备真实摩托车的功能：下颚下方集成一个巨大的前轮胎，可见刹车盘、前叉悬挂、车轴硬件和机械框架组件。龙头由无数重叠的光泽黑色和枪灰色装甲板、锋利的分层鳞片、棱角分明的脸颊板、金属獠牙和多个向后弯曲的角构成；顶部轮廓需包含 5 个明显的角/尖刺：两个高大的中央弯角、两个向后的侧角以及一个较短的前额尖刺。在可见的一侧添加一只发出强烈光芒的 {argument name="eye color" default="红色"} 眼睛，装甲下方设有红色照明通风口，前轮周围环绕着圆形红色 LED 灯环。使用 {argument name="metal finish" default="黑铬和深钛金属，带有铜金色高光"}，呈现锐利的镜面反射和细微划痕。背景为阴影笼罩的赛博朋克车间，伴有淡淡的烟雾、红色装饰灯、模糊的管道和结构梁，以及倒映着红色光影的湿润混凝土路面。氛围：极具侵略性、写实、可骑乘、高性能，既有龙的特征又具备工程设计感。灯光应采用戏剧性的低调照明，机器内部散发红光，环境提供微妙的冷色轮廓光。超精细硬表面设计，照片级 3D 渲染质量，浅景深，无骑手，无文字，无标志，无水印。
+
+[English]
+Create a cinematic vertical 9:16 concept-art render of {argument name="vehicle concept" default="a rideable mechanical dragon motorcycle"} in a dark industrial garage at night, shown in an extreme close-up three-quarter front view from the left. The machine should preserve a dragon's head silhouette while functioning like a real motorcycle: one enormous front tire integrated beneath the jaw, visible brake disc, fork suspension, axle hardware, and mechanical frame components. The dragon head is built from countless overlapping glossy black and gunmetal armor plates, razor-sharp layered scales, angular cheek plates, metallic fangs, and multiple swept-back horns; include exactly 5 prominent horns/spikes on the top silhouette: two tall central curved horns, two long rearward side horns, and one shorter forward brow spike. Add a single intense glowing {argument name="eye color" default="red"} eye on the visible side, red illuminated vents under the armor, and a circular red LED ring around the front wheel. Use {argument name="metal finish" default="black chrome and dark titanium with copper-gold highlights"}, with sharp specular reflections and small scratches. The background is a shadowy cyberpunk workshop with faint smoke, red accent lights, blurred pipes and structural beams, and a wet reflective concrete floor catching red reflections. Mood: aggressive, realistic, rideable, high-performance, dragon-like but engineered. Lighting should be dramatic low-key with red glow from inside the machine and subtle cool rim light from the environment. Ultra-detailed hard-surface design, photorealistic 3D render quality, shallow depth of field, no rider, no text, no logo, no watermark.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2095058355828228356) | 2026-09-02
+
+---
+
+### 🏷️ 例 7311：连续系列人物街拍
+
+![连续系列人物街拍](../images/%E8%BF%9E%E7%BB%AD%E7%B3%BB%E5%88%97%E4%BA%BA%E7%89%A9%E8%A1%97%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+绝对系列锁定：
+保持完全相同的女性和身份，相同的城市街道，相同巨大的凌乱花束 {argument name="flower type" default="真黄花"}，相同的 {argument name="outfit" default="深色服装"}，相同的长散发，相同的 {argument name="vintage tint" default="浓郁的金黄色复古色调"}，相同的强烈动态模糊，相同的柔和感以及相同的旧式 RAW 35mm 胶片质感。
+
+不要重新设计任何内容。
+
+仅更改：姿势 + 摄像机角度。
+
+姿势 — 全新：
+捕捉她快速移动后突然停下的瞬间。
+
+她的身体转向强烈的四分之三侧面角度。
+
+由于突然停下，她的躯干略微向后倾斜。
+
+一条腿稳稳地向前迈出，另一条腿则略微向后伸展，脚后跟自然地从路面上抬起。
+
+她用双臂将巨大的花束低低地抱在单侧髋部和腹部，而不是直接抱在胸前。
+
+由于花束确实很重，她的肩膀略显不平，身体一侧因重量自然下垂。
+
+她的头越过肩膀向后转，看向身后的某处。
+
+她没有直视镜头。
+
+表情 — 非常微妙：
+只有一丝自发的浅笑。
+
+双唇闭合，一侧嘴角比另一侧略微上扬。
+
+脸颊放松。
+
+没有牙齿。
+没有大笑。
+没有露齿大笑。
+没有完美的对称。
+没有 AI 感的表情。
+
+头发：
+当身体已经停下时，她长长的散发因惯性继续向前飘动。
+
+大片凌乱的发丝扫过她的一侧脸颊和肩膀。
+
+强烈的自然动态模糊。
+
+没有完美的波浪卷。
+没有逐根渲染的发丝。
+
+花束 — 真实 / 不完美：
+巨大而沉重的真鲜切黄花花束。
+
+不均匀的花簇、不同的大小、弯曲的茎秆、折损的叶片、受损和挤压的部分，以及朝向各异、不规则的花朵。
+
+花束被她双臂抱住的地方略微受压。
+
+松散的透明花店包装纸起皱、折叠且不完美。
+
+没有克隆的花朵。
+没有重复的花朵图案。
+没有完美的花束形状。
+没有塑料质感。
+没有植物学上的 AI 完美感。
+
+摄像机 — 新角度：
+摄像机位于她侧后方约髋部高度，距离仅 2–3 米。
+
+摄影师略微处于她移动方向的后方。
+
+强烈的对角线构图。
+
+街道在她身后延伸，而附近的路面和经过的城市元素在画面中划过。
+
+构图略微倾斜且不完美，就像一张真正的偶然抓拍。
+
+动态模糊 — 强烈：
+慢快门手持 35mm 照片，约 1/20–1/30 秒。
+
+她的身体轮廓尚可辨认，但头发、花束边缘、拖在后面的腿以及整个背景都有强烈的定向动态模糊。
+
+她的脸部也带有柔和的模糊感，焦点略有偏差。
+
+没有凝固的锐利细节。
+
+色彩：
+整个画面覆盖着浓郁温暖的金黄色复古色调。
+
+奶油黄的高光、蜂蜜般的金色阳光、温暖的米色皮肤、赭石色的路面、柔和的棕绿色阴影和泛黄的白色。
+
+没有中性白。
+没有冷色调。
+
+旧式 35mm 柔和感：
+
+[English]
+ABSOLUTE SERIES LOCK:
+Keep EXACTLY the SAME woman and identity, SAME city street, SAME enormous messy bouquet of {argument name="flower type" default="real yellow flowers"}, SAME {argument name="outfit" default="dark outfit"}, SAME long loose hair, SAME {argument name="vintage tint" default="strong golden-yellow vintage tint"}, SAME heavy motion blur, SAME softness and SAME old RAW 35mm character.
+
+DO NOT redesign anything.
+
+ONLY CHANGE: POSE + CAMERA ANGLE.
+
+POSE — COMPLETELY NEW:
+She is captured in the exact moment of SUDDENLY STOPPING after moving quickly.
+
+Her body is turned in a strong THREE-QUARTER SIDE angle.
+
+Her torso leans slightly BACKWARD from the sudden stop.
+
+One leg is planted firmly forward while the other remains stretched slightly behind her, heel lifted naturally from the pavement.
+
+She holds the huge bouquet LOW against ONE HIP and stomach with BOTH arms instead of directly against her chest.
+
+Because the bouquet is genuinely heavy, her shoulders are slightly uneven and one side of her body drops naturally under its weight.
+
+Her head turns BACK over her shoulder toward something behind her.
+
+She is NOT looking directly into the camera.
+
+EXPRESSION — VERY SUBTLE:
+Only a tiny spontaneous smile.
+
+Lips CLOSED with one corner lifted slightly more than the other.
+
+Relaxed cheeks.
+
+NO teeth.
+NO laughing.
+NO wide smile.
+NO perfect symmetry.
+NO AI expression.
+
+HAIR:
+Her long loose hair continues moving FORWARD from inertia while her body has already stopped.
+
+Large messy sections sweep across one side of her face and shoulder.
+
+Strong natural motion blur.
+
+NO perfect waves.
+NO individually rendered strands.
+
+BOUQUET — REAL / IMPERFECT:
+Enormous heavy bouquet of REAL freshly cut yellow flowers.
+
+Uneven clusters, different sizes, crooked stems, bent leaves, damaged and crushed sections, irregular gaps and flowers facing random directions.
+
+The bouquet is slightly compressed where her arms hold it.
+
+Loose transparent florist wrapping is wrinkled, folded and imperfect.
+
+NO cloned flowers.
+NO repeated flower patterns.
+NO perfect bouquet shape.
+NO plastic texture.
+NO botanical AI perfection.
+
+CAMERA — NEW ANGLE:
+Camera positioned from her SIDE-BACK at approximately HIP HEIGHT, only 2–3 meters away.
+
+The photographer is slightly behind her movement direction.
+
+Strong diagonal composition.
+
+The street recedes behind her while nearby pavement and passing urban elements streak across the frame.
+
+Framing is slightly crooked and imperfect, like a genuine accidental snapshot.
+
+MOTION BLUR — STRONG:
+Slow-shutter handheld 35mm photograph, approximately 1/20–1/30 sec.
+
+Her body is somewhat readable, but hair, bouquet edges, trailing leg and entire background have strong directional movement blur.
+
+Her FACE is also softly blurred and slightly missed in focus.
+
+NO frozen sharp details.
+
+COLOR:
+STRONG warm GOLDEN-YELLOW vintage cast over the entire frame.
+
+Creamy yellow highlights, honey-gold sunlight, warm beige skin, ochre pavement, muted brown-green shadows and yellowed whites.
+
+NO neutral whites.
+NO cold tones.
+
+OLD 35MM SOFTNESS:
+```
+
+**来源：** [@Mahira](https://x.com/MahiraEhan/status/2095038039714369735) | 2026-09-02
+
+---
+
+### 🏷️ 例 7312：复古室内设计编辑风格海报
+
+![复古室内设计编辑风格海报](../images/%E5%A4%8D%E5%8F%A4%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据参考图像，创作一张精致的编辑风格旅行档案海报。将摄影中的复古室内场景转化为手绘丝网印刷插画，同时保留精确的构图和可识别的物体：带有天线的复古 CRT 电视、深色木质控制台、复古音响设备、小型雕塑摆件、墙面装饰画、自行车细节、植物以及温暖怀旧的室内氛围。采用不完美的墨水轮廓、细腻的纸张纹理、柔和的土灰色、橄榄色、棕色和奶油色调，极简的平涂色彩，略带磨损的印刷质感，以及地道的手工杂志美学。将插画居中放置在陈旧的米白色纸张上，留出充裕的负空间。在底部添加优雅的极简排版，文字为“OBJECTS & ECHOES”，下方配以较小的文字“BOGOR, INDONESIA”和“2026”。静谧、怀旧、艺术感、博物馆目录美学、平衡的构图、自然的瑕疵、高级编辑设计、高细节，4:5 竖版海报。根据参考照片创作一张精致的编辑旅行杂志海报。将舒适的现代工作空间转化为细腻的手绘插画，同时保留构图和可识别的细节：木质书桌、笔记本电脑、大显示器、键盘、鼠标、智能手机、台灯、木条墙、吊挂植物、搁板、带框图形海报以及温暖的环境光。使用精细的黑色墨水轮廓，搭配克制的柔和蓝、棕、奶油和浅灰色调，微妙的水彩填充，不完美的丝网印刷质感，复古纸张纹理以及手工插画的瑕疵。将插画保持相对较小并居中放置在温暖的米白色纹理纸背景中，图形创造出大量优雅的负空间。在下方添加简洁的编辑风格排版，文字为“A SMALL SANCTUARY”，随后是“BOGOR, INDONESIA, 2026”和“VOL. 03, ISSUE 01”。极简、宁静、怀旧、当代日式/印尼艺术杂志美学、高级旅行日志排版、低调而富有诗意、高度细节化，4:5 竖版构图。
+
+[English]
+Create a refined editorial-style travel archive poster inspired by the reference image. Transform the photographed vintage interior into a hand-drawn, screen-printed illustration while preserving the exact composition and recognizable objects: a retro CRT television with antenna, dark wooden console, vintage audio equipment, small sculptural figurines, framed wall art, bicycle detail, plants, and warm nostalgic interior atmosphere. Use imperfect ink outlines, subtle paper grain, muted earthy gray, olive, brown and cream tones, minimal flat coloring, slightly distressed print texture, and an authentic handmade zine aesthetic. Place the illustration centered on an aged off-white paper sheet with generous negative space. Add elegant minimalist typography at the bottom reading “OBJECTS & ECHOES”, with smaller text “BOGOR, INDONESIA” and “2026”. Quiet, nostalgic, artistic, museum-catalog aesthetic, balanced composition, natural imperfections, premium editorial design, high detail, 4:5 vertical poster. Create a sophisticated editorial travel-zine poster based on the reference photograph. Convert the cozy modern workspace into a delicate hand-drawn illustration while preserving the composition and recognizable details: wooden desk, laptop, large monitor, keyboard, mouse, smartphone, desk lamp, wooden slat wall, hanging plant, shelves, framed graphic posters, and warm ambient lighting. Use fine black ink outlines with restrained muted blue, brown, cream, and soft gray accents, subtle watercolor-like fills, imperfect screen-print texture, vintage paper grain, and handmade illustration imperfections. Keep the illustration relatively small and centered within a large warm off-white textured paper background, creating lots of elegant negative space. Add clean editorial typography beneath it reading “A SMALL SANCTUARY”, followed by “BOGOR, INDONESIA, 2026” and “VOL. 03, ISSUE 01”. Minimal, calm, nostalgic, contemporary Japanese/Indonesian art-zine aesthetic, premium travel journal layout, understated and poetic, highly detailed, 4:5 vertical composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2095035263915618629) | 2026-09-02
+
+---
+
+### 🏷️ 例 7320：肮脏的生存恐怖 FPS 遭遇战
+
+![肮脏的生存恐怖 FPS 遭遇战](../images/%E8%82%AE%E8%84%8F%E7%9A%84%E7%94%9F%E5%AD%98%E6%81%90%E6%80%96%20FPS%20%E9%81%AD%E9%81%87%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张粗粝的第一人称生存恐怖游戏截图，场景设定在废弃的工业庭院中，呈现出电影级 FPS 的视觉效果。画面右下角前景为玩家持有一把黑色半自动手枪，正瞄准中心处一个极近距离的怪诞人形敌人。该生物佝偻、湿润且腐烂，长着一个肿块状的寄生虫头部，覆盖着油腻的棕黑色有机物质，垂挂着触须，胸部露出筋腱组织，身穿一件深色破烂外套。环境为肮脏的废弃砖混工厂巷道，地面铺设着潮湿的鹅卵石，布满水坑、锈迹、血迹、散落的碎片，画面中伴有大雨或水流划过的痕迹。画面右上角包含 1 个由细长支架支撑的大型生锈圆柱形金属罐或筒仓，左侧砖墙上有 1 个大型拱形工业窗，背景巷道中隐约可见 1 辆深色汽车，罐体区域周围有 3 根显眼的垂直金属柱。采用 16:9 宽画幅、低机位、强烈的广角镜头畸变、高对比度、动态模糊、脏污玻璃伪影、重度漫射、色差涂抹以及过度处理的超写实游戏渲染纹理。添加极简半透明 HUD：左下角显示“HEALTH”标签及数字“32”；右下角显示小型弹药指示器，包含“AMMO”标签及数字“18”和“123”。整体氛围：压抑、潮湿、锈迹斑斑、病态、混乱，如同 {argument name="game style" default="一款现代第一人称生存恐怖射击游戏"}；使场景呈现出与 {argument name="enemy type" default="怪诞寄生僵尸"} 在 {argument name="location" default="废弃工业庭院"} 中进行激烈近距离遭遇战的紧张感。使用 {argument name="lighting" default="寒冷昏暗的阴天光线及强烈的湿润反光"} 以及 {argument name="image treatment" default="极度漫射、污垢、雨痕和类似 GPT 生成图像的伪影效果"}。
+
+[English]
+Create a gritty first-person survival-horror video game screenshot in a ruined industrial courtyard, as if captured from a cinematic FPS. The viewer holds a black semi-automatic pistol in the lower right foreground, aimed at one grotesque humanoid enemy standing extremely close in the center. The creature is hunched, wet, and decayed, with a lumpy parasite-like head covered in slick brown-black organic matter, dangling tendrils, exposed sinewy chest tissue, and a dark torn coat. The environment is a grimy abandoned brick-and-concrete factory alley with wet cobblestone paving, puddles, rust stains, blood smears, scattered debris, and heavy rain or water streaking across the image. Include exactly 1 large rusted cylindrical metal tank or silo elevated on thin legs in the upper right, exactly 1 large arched industrial window on the left brick wall, exactly 1 dark car partly visible in the background alley, and exactly 3 prominent vertical metal posts around the tank area. Use a wide 16:9 frame, low camera height, aggressive wide-angle lens distortion, high contrast, motion blur, dirty glass artifacts, heavy diffusion, chromatic smearing, and overprocessed photorealistic game-render texture. Add a minimal translucent HUD: in the bottom left show the label “HEALTH” above the number “32”; in the bottom right show a small ammo indicator with “AMMO” and the numbers “18” and “123”. Overall mood: oppressive, damp, rusted, diseased, chaotic, like {argument name="game style" default="a modern first-person survival horror shooter"}; make the scene feel like an intense close-quarters encounter with {argument name="enemy type" default="a grotesque parasite zombie"} in {argument name="location" default="an abandoned industrial courtyard"}. Use {argument name="lighting" default="cold dim overcast light with harsh wet reflections"} and {argument name="image treatment" default="extreme diffusion, grime, rain streaks, and GPT-image-like artifacting"}.
+```
+
+**来源：** [@Linus Mixson](https://x.com/LinusMixson/status/2095000042394525795) | 2026-09-02
+
+---
+
+### 🏷️ 例 7324：Macro Sprite 飞溅广告
+
+![Macro Sprite 飞溅广告](../images/Macro%20Sprite%20%E9%A3%9E%E6%BA%85%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实竖版微距饮料广告，用于 {argument name="brand logo text" default="Sprite"}。画面中心略偏上方展示一个透明塑料杯，杯中装满气泡柠檬青柠汽水、碎冰和清晰可见的柑橘切片。杯身覆盖着密集的冷凝水珠和细小气泡，正面印有醒目的绿色 {argument name="brand logo text" default="Sprite"} 字标，上方配有一个黄色的小柠檬叶徽标。捕捉冲击瞬间：透明汽水从杯子两侧剧烈喷溅而出，周围悬浮着水滴和冰块碎片。画面中需包含 5 个清晰可见的柑橘类元素：左下角前景处有一个模糊的大柠檬轮切片，右侧背景处有一个圆形的青柠半切，杯子前下方内部有一个弯曲的青柠角，杯子右上角内侧压着一片柠檬轮切片，杯子左下角内侧可见一片淡色的柠檬青柠月牙形切片。包含许多不规则冰块，其中几块突出于杯缘之上，底部前景处散落着几块锋利的透明冰块。使用从深黑到深绿的摄影棚背景，饮料后方带有翡翠色光晕，采用高速闪光照明、清晰的镜面高光、浅景深、湿润的反光表面、极近距离视角、商业汽水摄影风格，呈现超精细的冷凝水珠、起泡效果和清爽冰凉的氛围。画面中不包含人物、吸管，除 logo 外无额外文字，无水印。
+
+[English]
+Create a hyper-realistic vertical macro beverage advertisement for {argument name="brand logo text" default="Sprite"}. Show one clear plastic cup centered slightly above the midpoint, filled with sparkling lemon-lime soda, crushed ice, and visible citrus slices. The cup is covered in dense condensation beads and tiny bubbles, with the green {argument name="brand logo text" default="Sprite"} wordmark printed large across the front and a small yellow lemon-leaf emblem above it. Capture the moment of impact: dramatic frozen splashes of clear soda erupting outward from both sides of the cup, with suspended droplets and ice fragments around it. Include exactly 5 visible citrus pieces: 1 large blurred lemon wheel in the lower-left foreground, 1 round lime half in the right background, 1 curved lime wedge inside the lower front of the cup, 1 lemon wheel slice pressed against the upper-right inside of the cup, and 1 pale lemon-lime crescent visible along the lower-left inside of the cup. Include many irregular ice cubes, with several protruding above the rim and a few sharp transparent chunks scattered at the bottom foreground. Use a dark black-to-deep-green studio background with emerald glow behind the drink, high-speed flash lighting, crisp specular highlights, shallow depth of field, wet reflective surface, extreme close-up perspective, commercial soda photography, ultra-detailed condensation, effervescent bubbles, refreshing cold atmosphere. No people, no straw, no extra text beyond the logo, no watermark.
+```
+
+**来源：** [@CaiKa AI](https://x.com/Caika_app/status/2094992558145573088) | 2026-09-02
+
+---
+
+### 🏷️ 例 7337：长焦月亮与鸟居摄影
+
+![长焦月亮与鸟居摄影](../images/%E9%95%BF%E7%84%A6%E6%9C%88%E4%BA%AE%E4%B8%8E%E9%B8%9F%E5%B1%85%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极致长焦视角，1200mm 压缩感，一轮巨大的满月在矗立于 {argument name="setting" default="浅海中"} 的 {argument name="subject" default="朱红色鸟居"} 后方冉冉升起。月盘占据了画面的大部分，苍白金色的表面上环形山清晰可见，将鸟居衬托得极其渺小。鸟居在月光下呈现出深色的剪影，基座上附着着海藻，柔和的涟漪映照着月光。一只 {argument name="wildlife" default="苍鹭"} 静静地伫立在画面左侧三分之一处的水中。深靛色的天空，柔和的海岸薄雾模糊了月亮的下边缘。构图均匀地分布在整个画面宽度上。宁静、宏伟，长焦夜景摄影，全图细节锐利。
+
+[English]
+Extreme telephoto view, 1200mm compression, an enormous full moon rising directly behind a weathered vermilion torii gate standing in shallow sea water. The moon disc fills most of the frame, craters crisp across its pale gold surface, dwarfing the gate completely. The torii reads as a small dark silhouette against it, seaweed clinging to its base, gentle ripples catching the moonlight. A single heron stands still in the water at the left third. Deep indigo sky, soft coastal haze softening the lower edge of the moon. Composition spread evenly across the full width. Tranquil, monumental, long lens night photography, sharp detail throughout.
+```
+
+**来源：** [@Borderless 🌐](https://x.com/BorderleSint/status/2094952694880309759) | 2026-09-02
+
+---
+

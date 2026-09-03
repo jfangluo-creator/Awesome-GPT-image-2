@@ -20185,3 +20185,154 @@ Elegant editorial illustration of a {argument name="subject" default="[SUBJECT]"
 
 ---
 
+### 🎨 例 7276：城市人行横道上的斑马
+
+![城市人行横道上的斑马](../images/%E5%9F%8E%E5%B8%82%E4%BA%BA%E8%A1%8C%E6%A8%AA%E9%81%93%E4%B8%8A%E7%9A%84%E6%96%91%E9%A9%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个充满趣味的细节场景。一只真实的 {argument name="subject" default="斑马"} 站在真实的 {argument name="location" default="人行横道"} 上，在红灯前等待，一名行人也在等待 —— 一个写着 "CROSS ONLY AT THE LINES"（仅限在标线处通过）的标志 —— 城市街道，混乱感，趣味性，{argument name="aspect ratio" default="2:3"} 宽高比。
+
+[English]
+A funny, detailed scene. A real {argument name="subject" default="zebra"} standing at a real {argument name="location" default="crosswalk"}, waiting at the red light, a pedestrian waiting — a sign "CROSS ONLY AT THE LINES" — the city street, the confusion, the playfulness, {argument name="aspect ratio" default="2:3"} aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2095227969413235088) | 2026-09-02
+
+---
+
+### 🎨 例 7278：新月形轨道巨型结构
+
+![新月形轨道巨型结构](../images/%E6%96%B0%E6%9C%88%E5%BD%A2%E8%BD%A8%E9%81%93%E5%B7%A8%E5%9E%8B%E7%BB%93%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级的硬科幻太空场景，展示一个位于 {argument name="planet" default="Earth"} 上方的巨大新月形轨道巨型结构。该结构是一个深色的金属质感未完成环，形状如同巨大的弧线或破碎的新月，具有复杂的层叠面板、外露桁架、脚手架、天线、对接脊和细长的机械肋条。其中心是一个发出温暖琥珀色光芒的小型球形枢纽，通过三条长长的铰接式支撑臂与新月相连，枢纽附近还漂浮着一个独立的小型弧形模块。该巨型结构应呈现出宏大、工业化且处于部分施工状态的质感，框架上点缀着细微的橙色运行灯，黑色的炮铜表面带有冷白色的高光。下方，地球明亮的弧形地平线占据了图像的下三分之一，覆盖着苍白的云层和大气霾，而上方三分之二则是深邃的黑色太空，点缀着稀疏的微小恒星。采用 4:5 竖构图，广角轨道视角，极具震撼的比例感，逼真的光影，高对比度，写实渲染，电影概念艺术细节，无文字，无水印，无可见的宇航员或航天器。
+
+[English]
+Create a cinematic hard-science-fiction space scene showing an enormous crescent-shaped orbital megastructure above {argument name="planet" default="Earth"}. The structure is a dark metallic incomplete ring, shaped like a giant curved arc or broken crescent, with intricate layered panels, exposed trusses, scaffolding, antennae, docking spines, and thin mechanical ribs. At its center is a small glowing spherical hub with warm amber light, connected to the crescent by exactly three long articulated support arms, plus one separate small curved module floating near the hub. The megastructure should feel massive, industrial, and partially under construction, with subtle orange running lights along the frame and cold white highlights on black gunmetal surfaces. Below, the bright curved horizon of Earth fills the lower third of the image, covered in pale clouds and atmospheric haze, while the upper two thirds are deep black space with sparse tiny stars. Use a vertical 4:5 composition, wide-angle orbital perspective, dramatic scale, realistic lighting, high contrast, photorealistic rendering, cinematic concept art detail, no text, no watermark, no visible astronauts or spacecraft.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2095203076684816517) | 2026-09-02
+
+---
+
+### 🎨 例 7289：黑帮小狗沙漠大劫案
+
+![黑帮小狗沙漠大劫案](../images/%E9%BB%91%E5%B8%AE%E5%B0%8F%E7%8B%97%E6%B2%99%E6%BC%A0%E5%A4%A7%E5%8A%AB%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅电影级、照片写实风格的广角场景，背景是黄昏时分广袤偏远的美国沙漠。摄像机位置较低，贴近地面，俯瞰着一片巨大的红褐色岩石沙漠平原。前景中，两只可爱的拉布拉多幼犬像一对调皮的黑帮组合一样坐在一起。一只小狗有着油亮的黑色皮毛，另一只则是奶油金色。它们都戴着黑色小墨镜，脖子上挂着粗大的金属链，呈现出一种幽默的黑帮风格。它们紧挨着坐在一起，低头看着摊在中间的一张陈旧且风化的羊皮地图。地图顶部清晰地写着“下一个鸡肉目标”（NEXT CHICKEN TARGET），上面画着粗糙的手绘鸡图案、箭头、标记和简易计划。小狗周围和前景中自然散落着逼真的鸡毛，暗示它们已经吃过鸡了。鸡毛看起来是自然掉落和散乱的，而非刻意摆放：大小不一、方向各异，有些半埋在尘土中，有些靠近小狗，有些则被风吹散。画面中没有血迹、暴力或鸡的残骸。在中景和远景中保留几只活鸡，自然地分布在沙漠中，总共可见约四只鸡。中景处矗立着一座风化的木制牧场小屋，旁边有一个带有乡村风格门廊的高大传统金属风车。小屋后方是地平线上延伸的纪念碑谷风格的砂岩平顶山和孤峰。太阳位于左侧地平线附近，产生强烈的暖橙色和琥珀色逆光，投下长长的阴影，小狗轮廓上闪烁着光晕，营造出大气深度。天空宏大而富有戏剧性，层叠的云层被落日照亮，从地平线附近的灿烂金橙色过渡到高空的深焦橙色和棕色调。沙漠土壤具有极其自然的摄影质感：小石子、砾石、干草丛、细微的足迹、不平整的泥土、灰尘和细小的表面细节。构图：垂直肖像构图，电影级低角度视角，小狗占据前景下方中心位置，地图就在它们面前，巨大的开阔沙漠向后延伸，牧场小屋位于中景右上方，旁边是风车，鸡自然分布在景观中，平顶山位于地平线上，落日在最左侧。具有强烈的前景到背景深度和真实的比例感。风格：超写实电影摄影，逼真的小狗解剖结构和皮毛，清晰可见的毛发纹理，物理精确的墨镜和金属链，自然的羽毛质感，真实的尘土飞扬的地面，体积感落日光影，大气透视，微妙的电影感对比度，HDR 般的动态范围，浅至中度的景深，高度精细的纹理，自然的瑕疵。
+
+[English]
+A cinematic, photorealistic wide-angle scene in a vast remote American desert at golden-hour sunset. The camera is positioned low near the ground, looking across an enormous reddish-brown, rocky desert plain. In the foreground, two adorable young Labrador/retriever puppies sit together as a small mischievous gangster duo. One puppy has glossy black fur and the other has golden-cream fur. Both wear small black sunglasses and chunky metallic chain necklaces, giving them a humorous gangster aesthetic. They are sitting close together and looking down at an old, weathered parchment map spread on the ground between them. The map visibly reads “NEXT CHICKEN TARGET” at the top and contains a crude hand-drawn chicken symbol, arrows, markings and a rough plan. Scattered naturally around the puppies and across the foreground are realistic chicken feathers, suggesting that the puppies have already eaten a chicken. The feathers should look naturally dropped and disturbed rather than deliberately arranged: different sizes, orientations, some partially buried in the dusty soil, with a few clustered closer to the puppies and others dispersed by the wind. No blood, gore, or chicken remains. Keep several chickens alive in the middle and far background, naturally spaced across the desert, with only about four visible chickens. In the middle distance stands an old weathered wooden ranch house with a rustic porch and a tall traditional metal windmill beside it. Far behind the house are dramatic Monument Valley-style sandstone mesas and buttes stretching across the horizon. The sun is very low near the left horizon, producing intense warm orange and amber backlighting, long shadows, glowing rim light around the puppies, and atmospheric depth. The sky is enormous and dramatic, filled with layered textured clouds illuminated by the setting sun, transitioning from brilliant golden orange near the horizon to darker burnt-orange and brown tones higher in the sky. The desert soil should have extremely natural photographic texture: small rocks, pebbles, dry grass tufts, subtle footprints, uneven dirt, dust and tiny surface details. Composition: vertical portrait composition, cinematic low-angle perspective, puppies occupying the lower-center foreground, map directly in front of them, huge open desert extending behind them, ranch house in the upper-right middle ground, windmill beside it, chickens distributed naturally across the landscape, mesas on the horizon, sunset on the far left. Strong foreground-to-background depth and realistic scale. Style: ultra-photorealistic cinematic photography, realistic puppy anatomy and fur, individually visible fur strands, physically accurate sunglasses and metal chains, natural feather textures, realistic dusty ground, volumetric sunset light, atmospheric perspective, subtle filmic contrast, HDR-like dynamic range, shallow-to-moderate depth of field, highly detailed textures, natural imperfections,
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2095125542249128061) | 2026-09-02
+
+---
+
+### 🎨 例 7290：警用机器人修剪神社树木
+
+![警用机器人修剪神社树木](../images/%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%AE%E5%89%AA%E7%A5%9E%E7%A4%BE%E6%A0%91%E6%9C%A8.jpg)
+
+**Prompt:**
+
+```text
+警視庁重機対策課ロボット隊 {argument name="作業内容" default="神社の大木の剪定の手伝い"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2095124941712793650) | 2026-09-02
+
+---
+
+### 🎨 例 7291：青铜塔洛斯港口防御
+
+![青铜塔洛斯港口防御](../images/%E9%9D%92%E9%93%9C%E5%A1%94%E6%B4%9B%E6%96%AF%E6%B8%AF%E5%8F%A3%E9%98%B2%E5%BE%A1.jpg)
+
+**Prompt:**
+
+```text
+港に入ろうとする敵船を排除する{argument name="守護者" default="青銅のタロス"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2095124436114608260) | 2026-09-02
+
+---
+
+### 🎨 例 7302：GPT Image 2.5 霓虹玻璃横幅
+
+![GPT Image 2.5 霓虹玻璃横幅](../images/GPT%20Image%202.5%20%E9%9C%93%E8%99%B9%E7%8E%BB%E7%92%83%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个纯黑色背景的时尚电影质感科技公告横幅，采用 16:9 宽屏比例。画面中央放置一个长横向圆角矩形玻璃面板，边缘带有柔和光晕，填充为半透明的烟熏深色，并具有细腻的深度感。面板从左到右包含 3 个核心元素：1) 一个类似 OpenAI 标志的奶油白色交织结徽标，带有柔和光照；2) 一条哑光暖灰色的细垂直分割线；3) 大号高级无衬线标题文本，显示为“{argument name="product title" default="GPT Image 2.5"}”，其中“GPT”为亮白色，“Image 2.5”为暖金属金色。使用精致的光泽高光、轻微的斜角处理、逼真的光晕效果，以及微妙的双色轮廓光：左上边缘为暖琥珀色光晕，右下边缘为冷蓝白色光晕。保持构图极简、居中、高对比度、优雅、具有未来感且呈现照片级真实感，无需额外图标、无附加文本、无水印，且画面整洁。
+
+[English]
+Create a sleek cinematic tech announcement banner on a pure black background, wide 16:9 aspect ratio. Center a long horizontal rounded-rectangle glass panel with softly glowing edges, transparent smoky dark fill, and subtle depth. The panel contains exactly 3 main elements from left to right: 1) a cream-white interlaced knot emblem resembling the OpenAI logo, softly illuminated; 2) a thin vertical divider line in muted warm gray; 3) large premium sans-serif title text reading “{argument name="product title" default="GPT Image 2.5"}”, with “GPT” in bright white and “Image 2.5” in warm metallic gold. Use refined glossy highlights, slight beveling, realistic bloom, and a subtle dual-color rim light: warm amber glow on the left/top edge and cool blue-white glow on the right/bottom edge. Keep the composition minimalist, centered, high contrast, elegant, futuristic, and photorealistic, with no extra icons, no additional text, no watermark, and no clutter.
+```
+
+**来源：** [@わるちく](https://x.com/waruchiku_ai/status/2095075704912359695) | 2026-09-02
+
+---
+
+### 🎨 例 7304：月球外星婴儿与卫星
+
+![月球外星婴儿与卫星](../images/%E6%9C%88%E7%90%83%E5%A4%96%E6%98%9F%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%8D%AB%E6%98%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个高度逼真的电影级科幻场景，背景为夜晚的月球表面。在前景中，展示 {argument name="alien characters" default="两个可爱的小外星婴儿"} 站在 {argument name="lunar terrain" default="崎岖多石的月球地貌"} 上。它们拥有苍白的灰绿色皮肤、巨大且富有光泽的黑色杏仁状眼睛、超大的头部、小巧的鼻子和嘴巴，以及逼真细腻的皮肤纹理。前面的外星婴儿自信地站立并仰望太空，举起一只手，用两根手指比出一个清晰的 V 字型胜利/和平手势。它穿着一件略带灰尘、细节丰富的灰白色微型宇航服，带有圆形的头盔领口、逼真的布料褶皱、接缝、靴子以及胸前的一个小型外星徽章。第二个外星婴儿位于第一个婴儿的正后方，身体部分被遮挡。它带着害羞而好奇的表情仰望上方，同时轻轻抓着前面外星人的手臂/身体。确保第二个外星人清晰可见，但明显位于第一个外星人身后。在它们上方的天空中，放置一个 {argument name="space object" default="大型且细节丰富的精密人造卫星/太空望远镜"}，使其戏剧性地悬浮在太空中。它应具有长圆柱形的金属机身、复杂的机械组件、天线、一个大型抛物面通信碟，以及两侧水平延伸出的两个巨大的矩形蓝色太阳能电池板阵列。卫星应以自然的透视角度倾斜，并放置在两个外星人的正上方，仿佛它们正在注视着它。确保卫星高度精细、具有照片级真实感且在物理上可信。背景应为深邃的黑色星空，布满成千上万颗清晰的恒星，并带有淡淡的银河光带。在左侧远处加入一个逼真的微小地球，在黑暗的太空中呈现出蓝色和白色。月球表面应极其精细：灰色月壤、细小的尘埃、陨石坑、岩石、石块、山脊、山脉以及逼真的阴影。使用戏剧性的低角度月光照明，营造出长长的阴影，赋予场景电影般的三维立体感。构图：纵向，4:5 比例。将两个外星婴儿放置在左下方的前景中，卫星占据构图的上半部分，地球则位于左侧较小的位置。在卫星和恒星周围留出足够的留白。外星人的视线和举起的手应清晰地指向卫星。风格：超写实、电影级科幻、极其精细、逼真的材质与纹理、物理精确的照明、体积深度、清晰对焦、高动态范围、逼真的月球环境、专业电影概念艺术、8K 细节、自然比例、戏剧性构图。重要提示：确保卫星的朝向、太阳能电池板、通信碟以及外星人的仰望视线在视觉上保持一致，使外星人正在注视卫星的意图显而易见。禁止出现多余角色、畸形的解剖结构、多余的手指、重复的肢体、模糊的面部或卡通风格。
+
+[English]
+Create a highly realistic cinematic sci-fi scene on the surface of the Moon at night. In the foreground, show {argument name="alien characters" default="two adorable small alien babies"} standing on a {argument name="lunar terrain" default="rugged, rocky lunar landscape"}. They have pale gray-green skin, enormous glossy black almond-shaped eyes, oversized heads, tiny noses and mouths, and realistic subtle skin texture. The front alien baby stands confidently and looks upward toward space, raising one hand and making a clear V-shaped victory/peace sign with two fingers. It wears a slightly dusty, detailed white-gray miniature astronaut suit with a round helmet collar, realistic fabric folds, seams, boots, and a small alien emblem on the chest. The second alien baby is positioned directly behind the first, partially hidden behind its body. It looks upward with a shy, curious expression while gently holding onto the front alien's arm/body. Make sure the second alien is clearly visible but noticeably behind the first. Above them in the sky, place a {argument name="space object" default="large detailed artificial satellite/space telescope"}, dramatically floating in space. It should have a long cylindrical metallic body, intricate mechanical components, antennas, a large parabolic communication dish, and two enormous rectangular blue solar-panel arrays extending horizontally on opposite sides. The satellite should be angled naturally in perspective and positioned directly above the aliens, as if they are looking at it. Make the satellite highly detailed, photorealistic, and physically believable. The background should be an enormous deep-black star-filled sky, with thousands of sharp stars and a subtle glowing Milky Way band. Include a small realistic Earth visible in the distance on the left side, appearing blue and white against the darkness of space. The Moon's surface should be extremely detailed: gray regolith, fine dust, craters, rocks, stones, ridges, mountains, and realistic shadows. Use dramatic low-angle lunar lighting that creates long shadows and gives the scene a cinematic three-dimensional appearance. Composition: portrait orientation, 4:5 aspect ratio. Place the two alien babies in the lower center-left foreground, the satellite dominating the upper half of the composition, and Earth small on the left side. Leave enough negative space around the satellite and stars. The aliens' gaze and raised hand should clearly point toward the satellite. Style: ultra-photorealistic, cinematic science fiction, extremely detailed, realistic materials and textures, physically accurate lighting, volumetric depth, sharp focus, high dynamic range, realistic lunar environment, professional movie concept art, 8K detail, natural proportions, dramatic composition. Important: Make the satellite's orientation, solar panels, dish, and the aliens' upward gaze visually consistent so it is obvious that the aliens are looking at the satellite. No extra characters, no distorted anatomy, no extra fingers, no duplicate limbs, no blurry faces, no cartoon
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2095070297657692223) | 2026-09-02
+
+---
+
+### 🎨 例 7322：天真卡通熊角色
+
+![天真卡通熊角色](../images/%E5%A4%A9%E7%9C%9F%E5%8D%A1%E9%80%9A%E7%86%8A%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简单的全身卡通插画，描绘一个站在纯色灰白色背景上的熊角色。熊位于画面中心，正面朝向，采用俏皮的天真涂鸦风格绘制，具有非常粗且不均匀的黑色轮廓、圆润的形状和极简的细节。身体大部分为 {argument name="fur color" default="暖白色"}，高大且呈梨形，配有短而圆的腿、下垂的手臂和带有三个小凸起的手掌。面部有两个巨大的圆形惊恐眼睛，瞳孔极小，圆耳朵内侧带有粉色圆圈，以及一个长长的垂直泪滴状吻部，颜色为 {argument name="snout color" default="柔和桃橙色"}。在吻部下方添加一个椭圆形的黑色鼻子，下方有一条极小的垂直线，使熊呈现出一种呆滞且惊讶的表情。在腹部散布 14 个淡淡的米色短横线作为细微的毛发斑点。保持构图简洁、扁平、手绘感、童趣且略带不完美，不要包含任何文字、阴影、背景或额外角色。
+
+[English]
+Create a simple full-body cartoon illustration of a cute standing bear character on a plain off-white background. The bear is centered and facing forward, with a tall rounded body, white or very pale cream fur, thick uneven black hand-drawn outlines, and a deliberately naive children’s doodle style. Give it two round ears with pink inner circles, a slightly bumpy head outline, large wide-open circular eyes with tiny black pupils looking blankly ahead, and a large vertical pear-shaped orange snout outlined in black with a black oval nose and a short drip-like line beneath it. The body should have two long hanging arms along the sides, small three-bump paws, short legs, and simple toe marks. Add exactly 11 faint beige short dash marks scattered on the belly as subtle fur texture. Keep the composition minimal, flat, playful, slightly awkward, and imperfect, with no shadows, no text, no props, and no background details.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2094994668081865171) | 2026-09-02
+
+---
+
+### 🎨 例 7332：萨珊王朝贵族女性历史形象
+
+![萨珊王朝贵族女性历史形象](../images/%E8%90%A8%E7%8F%8A%E7%8E%8B%E6%9C%9D%E8%B4%B5%E6%97%8F%E5%A5%B3%E6%80%A7%E5%8E%86%E5%8F%B2%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+{argument name="時代" default="3世紀後半"}　{argument name="舞台" default="ササン朝ペルシア"}
+夜の宮廷接見の間に立つ女性貴族
+```
+
+**来源：** [@たんぐすけん | シニアの知見をAIで加速！](https://x.com/Tungskenichi/status/2094985471717986656) | 2026-09-02
+
+---
+

@@ -4561,3 +4561,84 @@ Use the uploaded photo as the primary reference. Create a sophisticated 4:3 land
 
 ---
 
+### 🏛️ 例 7277：巨型天环下的少女
+
+![巨型天环下的少女](../images/%E5%B7%A8%E5%9E%8B%E5%A4%A9%E7%8E%AF%E4%B8%8B%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的垂直城市场景，采用写实的动漫风格：一名 {argument name="character description" default="留着黑色短波波头的年轻女子"} 独自站在现代城市广场的左下角前景中，背影略带侧面，抬头仰望。她身穿 {argument name="outfit" default="全黑修身大衣或西装裙、黑色连裤袜和黑色踝靴"}，在宏伟的建筑衬托下显得身形娇小而沉静。场景设定为 {argument name="city setting" default="干净的日本商务区广场，配有玻璃混凝土办公楼、瓷砖路面、护栏、高架人行道、路灯和安静的街道"}。城市上方是晴朗的蓝色天空，点缀着零星白云，但一道巨大的深色环形阴影如同一座掠过头顶的巨型环状结构物的底部或投影，横跨天空与建筑；环体部分可见，呈现出模糊的层叠带状和隐约的结构肋条，从左上角向中心延伸并逐渐淡出至右上角，形成一种类似日食的诡异弧线。巨大的阴影投射在建筑立面和路面上，突显出宏大的尺度感。采用低角度广角街拍构图，强透视效果，写实光影，清晰的建筑细节，细腻的大气薄雾，阳光下的云层与深色弧线形成强烈对比，营造出一种静谧的敬畏感与科幻神秘感。无文字，无水印，无多余字符。
+
+[English]
+Create a cinematic vertical urban scene in a realistic anime-inspired style: a lone {argument name="character description" default="young woman with a short black bob haircut"} stands in the lower left foreground of a modern city plaza, seen from behind and slightly to the side, looking upward. She wears {argument name="outfit" default="an all-black fitted coat or blazer dress, black tights, and black ankle boots"}, with a calm, small silhouette against large architecture. The setting is {argument name="city setting" default="a clean Japanese business district plaza with glass-and-concrete office buildings, tiled pavement, railings, elevated walkways, streetlights, and a quiet road"}. Above the city is a bright blue daytime sky with scattered white clouds, but a colossal dark circular shadow arcs across the sky and buildings like the underside or shadow of an enormous ring-shaped megastructure passing overhead; the ring is partly visible as blurred layered bands and faint structural ribs, creating an ominous eclipse-like curve from the upper left across the center and fading toward the upper right. The huge shadow also falls across the building facades and pavement, emphasizing the massive scale. Use a low wide-angle street-level composition, strong perspective, realistic lighting, crisp architectural detail, subtle atmospheric haze, high contrast between sunlit clouds and the dark arc, and a sense of quiet awe and science-fiction mystery. No text, no watermark, no extra characters.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2095211197289341299) | 2026-09-02
+
+---
+
+### 🏛️ 例 7279：赛博朋克巨型建筑骑士
+
+![赛博朋克巨型建筑骑士](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%B7%A8%E5%9E%8B%E5%BB%BA%E7%AD%91%E9%AA%91%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个黑暗电影风格的科幻概念艺术场景，采用 4:5 竖构图。视角位于低处且居中，向上仰望一座巨大的哥特式机械巨型建筑：1 座巨大的圆柱形中央塔楼从前景延伸至远方，由堆叠的工业环、装甲平台、管道、肋架、通风口和黑色金属板构成，中心透出明亮的垂直熔岩橙色能量核心。周围环绕着 2 面高耸的侧墙，布满密集的未来城市机械，点缀着微小的琥珀色窗灯和层叠的机械细节，形成深邃的教堂式竖井。在顶部，展示 1 个巨大的圆形开口，露出星空和 1 颗隐约可见的苍白新月行星或月球，形成一圈冷白色的光晕。在前景的格栅金属平台上，放置 2 个主要前景主体：1 位孤独的女性赛博朋克骑士，背影视角，身穿带有红色装饰和背部徽章的黑色紧身战术服，留着深色短发，直立并凝视着塔楼；以及 1 辆停在她左侧、极具侵略性的未来主义黑色摩托车，车身低矮，配有锋利的空气动力学装甲、红色发光条和橙色引擎灯。在前景处添加 1 个齐腰高的栏杆，配有小型工业灯，地面为潮湿的反射金属材质，伴有轻微的雾气、漂浮的微粒、火花和大气霾。运用强烈的尺度对比、对称构图、超精细的硬表面设计，采用深枪灰色调，辅以温暖的琥珀橙色灯光和冷色调的月光轮廓光，高对比度，体积光，逼真的电影级渲染，营造史诗般的反乌托邦赛博朋克氛围。自定义主要人物为 {argument name="character description" default="一位留着深色短发的孤独女性赛博朋克骑士"}，载具为 {argument name="vehicle type" default="一辆极具侵略性的未来主义黑色摩托车"}，中央建筑为 {argument name="tower type" default="一座带有橙色发光能量核心的巨大圆柱形工业塔楼"}，场景氛围为 {argument name="atmosphere" default="黑暗、多雾、电影感、反乌托邦"}，天体为 {argument name="sky object" default="圆形开口后方的一颗苍白新月行星"}。画面中不得包含可读文字、标志、日光或卡通风格。
+
+[English]
+Create a dark cinematic science-fiction concept art scene in a vertical 4:5 frame. The viewpoint is low and centered, looking upward inside a colossal gothic-mechanical megastructure: 1 immense cylindrical central tower rises from the foreground into the distance, built from stacked industrial rings, armored platforms, pipes, ribs, vents, and black metal panels, with a bright vertical molten-orange energy core glowing through its center. Surround it with 2 towering side walls of dense futuristic city machinery, filled with tiny amber window lights and layered mechanical detail, forming a deep cathedral-like shaft. At the top, show 1 huge circular open aperture revealing a starry night sky and 1 pale crescent planet or moon partially visible behind the rim, creating a halo of cold white light. In the foreground on a grated metal platform, place exactly 2 main foreground subjects: 1 lone female cyberpunk rider, seen from behind, wearing a fitted black tactical outfit with red accents and a decorative emblem on the back, short dark hair, standing upright and gazing at the tower; and 1 aggressive futuristic black motorcycle parked to her left, low-slung with sharp aerodynamic armor, red glowing strips, and orange engine lights. Add 1 waist-high railing across the foreground with small industrial lamps, wet reflective metal flooring, subtle fog, drifting particles, sparks, and atmospheric haze. Use a dramatic scale contrast, symmetrical composition, ultra-detailed hard-surface design, dark gunmetal palette with warm amber-orange lighting and cold moon rim light, high contrast, volumetric lighting, realistic cinematic rendering, epic dystopian cyberpunk mood. Customize the main figure as {argument name="character description" default="a lone female cyberpunk rider with short dark hair"}, the vehicle as {argument name="vehicle type" default="an aggressive futuristic black motorcycle"}, the central structure as {argument name="tower type" default="a colossal cylindrical industrial tower with a glowing orange energy core"}, the setting mood as {argument name="atmosphere" default="dark, foggy, cinematic, dystopian"}, and the celestial object as {argument name="sky object" default="a pale crescent planet behind a circular aperture"}. No readable text, no logos, no daylight, no cartoon style.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2095193641002434837) | 2026-09-02
+
+---
+
+### 🏛️ 例 7313：中式美学巨型建筑
+
+![中式美学巨型建筑](../images/%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E5%B7%A8%E5%9E%8B%E5%BB%BA%E7%AD%91.jpg)
+
+**Prompt:**
+
+```text
+🇨🇳🧱⬆️⬆️⬆️🏯〰️🟨🌲〰️👤🔴
+🏔️☁️🌊🏞️🪷🏮🌫️❄️🌧️🌙🌅
+🎲1️⃣场景随机｜{argument name="随机场景" default="🏔️山巅"}｜☁️云海｜🌊江岸｜🪷莲池｜🏯古城｜🧱巨构内部｜🏜️荒原
+🎲2️⃣天气随机｜{argument name="随机天气" default="🌅夕阳"}｜🌫️晨雾｜🌧️雨后｜❄️薄雪｜🌙月夜｜☁️云隙光
+🎲3️⃣元素随机｜{argument name="随机元素" default="🛶孤舟"}｜🏮灯笼｜🪨巨石｜🍂落叶｜🪷荷花｜🐦飞鸟｜💧雨滴
+🎲4️⃣人物随机｜🧍独立｜🚶缓行｜🧘静坐｜👀远眺
+📐⬆️🎬📷｜低角度｜超大尺度｜真实材质｜自然光影｜超写实电影质感｜8K
+🌌🔵⬜⬜⬜｜深邃青蓝天空｜大量留白｜暖金 × 冷青｜庄严｜空灵｜清雅｜宋画意境
+✒️ ● DeepBlue
+```
+
+**来源：** [@DeepBlue零](https://x.com/DeepBlueZer0/status/2095030556828274867) | 2026-09-02
+
+---
+
+### 🏛️ 例 7321：东方禅意极简插画
+
+![东方禅意极简插画](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题方向" default="东方禅意极简插画"}
+风格分支：{argument name="风格分支" default="女性审美清透型"}
+主体内容：一位古风女子从白墙花影下经过，姿态轻盈
+情绪母题：明净、春夏感、轻盈流动
+场景与意象：白墙、晴空蓝门洞、芍药粉花影、女子、少量叶片
+构图与空间：门洞作为中部视觉框景，人物位于下方偏中，白墙和蓝色门洞周围保留大面积留白
+色彩控制：纯净暖白作为墙面基底，晴空蓝用于门洞和局部天空，芍药粉用于花影点睛，叶片用清亮绿色；避免背景整体变粉或变蓝
+光线与质感：清透日光，边缘清晰，画面低灰度，现代东方插画封面质感
+画幅比例：9:16 
+补充要求：整体要清透、明亮、少女感但不幼态，适合高颜值封面，不要灰滤镜，留白处有少量题词
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2094997464428560857) | 2026-09-02
+
+---
+

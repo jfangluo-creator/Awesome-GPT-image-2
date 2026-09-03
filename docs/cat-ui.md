@@ -15063,3 +15063,81 @@ A stylish alternative rock aesthetic photoshoot of a young woman sitting on the 
 
 ---
 
+### 🖥️ 例 7281：超现实墨海之梦
+
+![超现实墨海之梦](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A2%A8%E6%B5%B7%E4%B9%8B%E6%A2%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超现实的夜景。一片浩瀚的 {argument name="liquid" default="黑墨"} 之海，平静如镜，一位女性仰面漂浮在中央——她身上的 {argument name="clothing" default="白色连衣裙"} 如 {argument name="plant style" default="睡莲叶"} 般铺散开来——墨面上浮现出一个金色的单词“DREAM”，字母在远处泛起涟漪。头顶是月亮与繁星，一只白色纸船正向她缓缓漂去。静谧、宏大，2:3 纵横比。
+
+[English]
+A surreal night scene. A vast sea of {argument name="liquid" default="black ink"}, perfectly still, and a woman floating on her back in the center — her {argument name="clothing" default="white dress"} spreading like a {argument name="plant style" default="lily pad"} — the surface of the ink spelling a single word in gold, "DREAM", the letters rippling in the distance. The moon above, the stars, a single white paper boat drifting toward her. Quiet, monumental, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2095181820417491370) | 2026-09-02
+
+---
+
+### 🖥️ 例 7282：宏伟的金色 Omega 之雾
+
+![宏伟的金色 Omega 之雾](../images/%E5%AE%8F%E4%BC%9F%E7%9A%84%E9%87%91%E8%89%B2%20Omega%20%E4%B9%8B%E9%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黎明时分的田野。一个大教堂般大小的巨大金色希腊字母 Ω 矗立在雾中——表面刻有细小的线条：“THE FIRST AND THE LAST”——前景中是一位提着灯笼的女子，她的呼吸清晰可见，金属上映照着金色的光芒。宏伟、静谧，2:3 纵横比。
+
+[English]
+A field at dawn. A colossal golden Greek letter Ω, the size of a cathedral, standing in the mist — the surface with small engraved lines: "THE FIRST AND THE LAST" — a small woman with a lantern in the foreground, her breath visible, the golden light on the metal. Monumental, quiet, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2095179522341581307) | 2026-09-02
+
+---
+
+### 🖥️ 例 7315：小熊角色编辑截图
+
+![小熊角色编辑截图](../images/%E5%B0%8F%E7%86%8A%E8%A7%92%E8%89%B2%E7%BC%96%E8%BE%91%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的类似截图的构图，展示一个简单小熊角色的 AI 图像编辑变体，上方为较小的原始/参考结果，下方为较大的编辑后结果。
+
+画布：宽横向画布，约 1200×960 像素，极浅的灰白色背景，留有大量空白。极简界面风格，类似于聊天/图像生成工作区。
+
+布局：在画布上放置 2 张小熊插画卡片。卡片 1 较小，位于右上象限，带有圆角白色图像区域。卡片 2 大得多，位于左下/中心位置，同样位于圆角白色图像区域内。在它们之间，即顶部小熊的下方，放置 1 个包含日语指令文本的淡蓝色圆角聊天气泡。在底部的大图像卡片上，包含 2 个半透明灰色 UI 控件：左下角有一个标有「編集」的圆角胶囊按钮，右下角有一个带有简单上传/分享箭头图标的圆形图标按钮。
+
+文本内容：单个聊天气泡必须准确显示：{argument name="edit instruction text" default="頬の横から首にかけてのあたりを、もっと細くしてください。"}
+
+主体细节：主体是同一个可爱的、手绘的、直立小熊角色的 2 个版本。角色拥有米白色皮毛、粗黑的草图轮廓、带有内耳标记的圆耳朵、带有黑色瞳孔的宽大圆形眼睛、一个大的黑色椭圆形鼻子、一个小而平直的横向嘴巴、脸颊两侧有粉色圆形腮红、下垂的短手臂、粗短的腿以及小脚趾线条。顶部的小熊较小且略显苗条，身体更垂直。底部的小熊较大且位于卡片中心，头部和身体更圆润，颈部/脸颊区域变窄，姿势简单对称，表情略显茫然。
+
+视觉风格：极简涂鸦吉祥物插画，粗黑墨水轮廓，微妙的纸张或画布纹理，柔和的米白色填充，淡粉色脸颊圆圈，除极淡的卡片/UI 柔和阴影外无其他阴影。整体图像应看起来像休闲的 GPT 图像编辑界面截图，而非精致的海报。
+
+约束：使用 2 个小熊插画，1 个日语聊天气泡，以及 2 个 UI 覆盖控件。保持背景大部分留白，保留非对称布局，避免添加额外角色、额外文本、水印或装饰元素。
+
+[English]
+Goal: Create a clean screenshot-style composition showing an AI image-editing conversation about refining a simple mascot bear drawing.
+
+Canvas: Wide horizontal canvas, about 1200×960 px, with a very pale gray-white background and lots of empty space. The layout should feel like a cropped social-media or image-generation interface screenshot, not a polished poster.
+
+Layout: Include exactly 2 white rounded image cards containing the same minimalist bear character: 1 smaller card in the upper-right area and 1 larger card in the lower-left/center area. Place exactly 1 light-blue rounded chat bubble beneath the small upper-right card, horizontally centered under it. Add exactly 2 semi-transparent circular interface buttons over the bottom of the large card: 1 gray button at bottom-left labeled in Japanese and 1 small gray share/upload icon button at bottom-right.
+
+Text content: The single chat bubble should read {argument name="edit instruction" default="頬の横から首にかけてのあたりを、もっと細くしてください。"}. The bottom-left overlay button should read 「編集」. Do not add any other text.
+
+Subject details: The bear is a cute, simple, hand-drawn white bear mascot with a slightly awkward neutral expression. It stands upright facing forward with a thick black sketchy outline, rounded ears, small inner-ear marks, wide circular eyes with black pupils, a large black oval nose, a tiny straight mouth, pink circular blush cheeks, short arms hanging down, stubby legs, and small toe lines. The fur should be off-white with subtle paper-like texture and light gray shading along the right side. The larger lower bear should have a narrower neck and upper torso from cheek level down toward the shoulders, while still looking a little chunky and handmade. The smaller upper-right bear should appear as a prior version, slightly more compact and with a narrower body.
+
+Visual style: Minimal Japanese UI screenshot aesthetic, soft rounded corners, flat light-gray background, simple black marker line art, warm off-white paper texture inside the bear cards, no strong shadows except very subtle card separation. Keep the image sparse and asymmetrical, with the upper card far to the right and the larger card lower and more central-left.
+
+Constraints: Use exactly 2 bear drawings, exactly 1 chat bubble, and exactly 2 overlay buttons. Preserve the Japanese text exactly where specified. Avoid extra icons, watermarks, browser chrome, usernames, timestamps, or decorative elements.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2095013203889770910) | 2026-09-02
+
+---
+

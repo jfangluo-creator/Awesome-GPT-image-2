@@ -4267,3 +4267,21 @@ The uploaded image is for identity reference only. Preserve the person's identit
 
 ---
 
+### 🔧 例 7301：编辑风照片转手绘艺术画册页面
+
+![编辑风照片转手绘艺术画册页面](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E7%85%A7%E7%89%87%E8%BD%AC%E6%89%8B%E7%BB%98%E8%89%BA%E6%9C%AF%E7%94%BB%E5%86%8C%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于参考图像，创作一个怀旧的编辑风照片转手绘艺术画册页面。保留原照片中的主体、姿势、面部表情、服装、构图和情感氛围。将页面垂直分割为两个相连的部分：上半部分为电影感、超写实的照片，采用 {argument name="lighting" default="柔和自然光"}、细腻的胶片颗粒感、浅景深、真实的色彩以及亲密自然的抓拍感；下半部分将相同的场景和人物转换为 {argument name="drawing style" default="随性的黑白手绘墨水插画"}，绘制在 {argument name="paper texture" default="暖米色纹理纸张"} 上，线条生动且不拘小节，带有粗犷的排线、极简的阴影，呈现出手工速写本的美感。在插画周围添加雅致的编辑风排版，包括一个小巧的编号标题、简短的诗意手写体说明，以及细小的纪录片风格注释，营造出高级现代摄影杂志或日式视觉日记的氛围。保留充足的奶油色留白，呈现细腻的纸张纹理、略显不完美的墨水印刷效果、低调的复古布局、精致的极简平面设计，情感温暖且具有电影感，照片与绘画之间的过渡自然和谐，高细节，比例自然，符合人体解剖学，无水印，无 Logo。
+
+[English]
+Create a nostalgic editorial photo-to-sketch artbook page based on the reference image. Preserve the same subjects, pose, facial expressions, clothing, composition, and emotional atmosphere from the original photograph. Divide the page vertically into two connected sections: the upper section is a cinematic, ultra-realistic photograph with {argument name="lighting" default="soft natural lighting"}, subtle film grain, shallow depth of field, authentic colors, and an intimate candid feeling; the lower section transforms the exact same scene and characters into a {argument name="drawing style" default="loose black-and-white hand-drawn ink illustration"} on {argument name="paper texture" default="warm off-white textured paper"}, with expressive imperfect lines, rough cross-hatching, minimal shading, and a handmade sketchbook aesthetic. Add tasteful editorial typography around the illustration, including a small numbered title, short poetic handwritten-style caption, and tiny documentary-style notes, creating the feeling of a premium contemporary photography journal or Japanese-inspired visual diary. Keep generous cream-colored negative space, subtle paper texture, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist graphic design, emotionally warm and cinematic, cohesive transition between photograph and drawing, high detail, natural proportions, authentic human anatomy, no watermark, no logos.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2095078006138261760) | 2026-09-02
+
+---
+

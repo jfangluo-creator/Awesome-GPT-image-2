@@ -31088,3 +31088,355 @@ Keep the typography minimal, perfectly centered, elegant and highly legible.
 
 ---
 
+### 🎴 例 7274：奢华腕表产品广告模板
+
+![奢华腕表产品广告模板](../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "type": "产品广告",
+  "objective": "{argument name="objective" default="为奢华腕表创建电商广告"}",
+  "inputs": {
+    "subject": "{argument name="subject" default="黑金机械腕表"}",
+    "scene": "{argument name="scene" default="黑色石质底座"}",
+    "style": "奢华产品摄影",
+    "palette": "黑色、金色、深灰色"
+  },
+  "quality_constraints": {
+    "aspect_ratio": "4:5",
+    "composition": "居中放置，顶部留有文案空间" 
+  },
+  "output_requirements": {
+    "usage": "电商广告",
+    "focus": "表盘与金属质感"
+  }
+}
+
+[English]
+{
+  "type": "Product Advertising",
+  "objective": "{argument name="目的" default="高級腕時計のEC広告を作る"}",
+  "inputs": {
+    "subject": "{argument name="主体" default="黒と金の機械式腕時計"}",
+    "scene": "{argument name="シーン" default="黒い石の台座"}",
+    "style": "高級商品写真",
+    "palette": "黒、金、深いグレー"
+  },
+  "quality_constraints": {
+    "aspect_ratio": "4:5",
+    "composition": "中央配置、上部にコピー用余白"
+  },
+  "output_requirements": {
+    "usage": "EC広告",
+    "focus": "時計の文字盤と金属の質感"
+  }
+}
+```
+
+**来源：** [@くまごろう](https://x.com/k_koga555/status/2095283893595500639) | 2026-09-02
+
+---
+
+### 🎴 例 7285：奢华烈酒品牌海报设计
+
+![奢华烈酒品牌海报设计](../images/%E5%A5%A2%E5%8D%8E%E7%83%88%E9%85%92%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戛纳级别的旗舰产品广告海报，品牌名为 EMBER CREST，采用统一的核心海报骨架：左侧偏中心位置放置一个高挑的高级酒瓶作为绝对视觉焦点，右侧为大面积简洁的排版区域，底部前景为精心设计的流体材质交互区。将视觉语言重构为 Transit x Port 风格：更简洁、更可控、更高级、更系统化，减少视觉杂乱，强化品牌模板规范，并以更具建筑美感的方式表达动态与材质。核心构图：保持明亮的象牙白至暖白色摄影棚背景，留出充足的负空间。酒瓶直立，正面朝向，位于左侧偏中心位置，统领整个构图。右侧保持高度规范的编辑排版区域，具有优雅的垂直间距和奢华的广告层级。底部前景包含一个由层叠琥珀漆、金属铜痕迹和克制的液体扩散形成的精致材质平台，在物理和视觉上稳固产品。严格保留原始的“左侧产品 / 右侧排版 / 底部材质”结构，但将其提升为更高级、更深思熟虑的全球化广告布局。产品设计：设计一款原创的收藏级威士忌风格酒瓶，具有精致的矩形轮廓、圆润的瓶肩、厚重的玻璃底座、发光的琥珀色液体，以及深牛血色或余烬红色的标签，带有细腻的烫金细节。酒瓶必须看起来昂贵、有触感、真实且具有摄影质感，具备精确的玻璃厚度、折射高光、优雅的内部光泽、逼真的瓶盖材质、微妙的浮雕和高级制造细节。酒瓶始终是核心主体。Transit 视觉逻辑：用更受控、旗舰级的材质动态系统取代高表现力的油漆丝带能量。摒弃混乱的挥洒，使用雕塑感的琥珀色蒸汽轨迹、半透明树脂般的扫掠、细薄的铜金属弧线以及温暖的液态玻璃流线，以更安静但更精致的轨道环绕酒瓶。动态必须感觉是有意为之、克制且奢华的，仿佛酒瓶通过高级的材质动态散发出蒸馏出的热量、香气和工艺。保持氛围整洁，避免杂乱，减少不必要的喷溅感。Port 视觉逻辑：将海报转化为可复用的奢华品牌主模板。结构应类似于世界级产品线的标准化广告模板：左侧为产品焦点，右侧为官方品牌区块，配有受控的注释区、微文案、徽章标记以及排列完美的细微技术描述。排版必须优雅、高级且具有国际出版水准，主标题使用精致的衬线体，辅助文案使用克制的无衬线体或小型编辑衬线体。拒绝粗糙的粗体字、杂乱的文字或复制的措辞。品牌与排版：请勿使用任何真实品牌名称或复制的源文本。仅使用原创的英文排版。主标题：EMBER CREST。副标题：RESERVE No. 01。辅助文案可包括：Distilled Atmosphere（蒸馏氛围）、Limited Signature Batch（限量签名批次）、Crafted for Slow Fire（慢火精酿），以及诸如 Barrel Tone / Copper Finish / Amber Depth 之类的小型技术标注系统。如果合适，可在标题上方添加一个极简的徽章式符号。排版应比普通商业海报更小、更优雅、更奢华，并具有精确的间距和编辑自信。底部材质区域：在酒瓶下方及周围构建一个干净、艺术指导下的材质基底，使用琥珀树脂、薄漆膜、淡淡的金属铜流痕和微妙的反射液体池。交互感必须高级且物理连贯，绝不杂乱。包含逼真的湿边张力、薄半透明渐变、反射粘度以及细腻的表面涟漪，仿佛产品置身于一个由蒸馏精华和熔融设计语言构成的受控场域中。底部区域应在视觉上与环绕酒瓶的弧线相连，形成一个完整且优雅的动态闭环。光影：使用极其精致的摄影棚灯光，配合柔和的正面照明、温暖的酒瓶内部光泽、清晰的边缘高光以及细腻的阴影过渡。酒瓶应感觉从内部发光，而周围的材质弧线捕捉到柔和的金铜色反射。整体光影结构必须感觉昂贵、丝滑、可控且物理真实。避免平淡的布光、浑浊的对比度和死黑区域。材质真实感：追求玻璃、液体、浮雕标签纸、金属箔、半透明树脂动态、铜痕迹和反射湿润表面的极致真实感。每种材质都必须具有清晰的物理属性。保持酒瓶边缘、瓶盖、标签、玻璃高光和关键前景反射的极高清晰度，同时让周围的动态元素感觉更柔和、更具氛围感。最终效果应看起来像是精英产品摄影与大师级材质装置艺术的融合。色彩方向：使用克制的高级色调：琥珀金、深余烬红、牛血色、暖铜色、浅象牙白、柔和香槟高光以及受控的阴影中性色。保持画面温暖、高贵、优雅，且具有无可置疑的高端感。背景必须保持整洁，以确保产品在视觉上占据主导地位。氛围：旗舰、精致、收藏级、编辑感、建筑美学、克制、奢华、雕塑感、氛围感、高级、全球获奖水准。渲染风格：超写实奢华产品海报、旗舰广告主视觉、高级摄影与克制材质雕塑的融合、Transit 极简氛围、Port 品牌模板规范、优雅编辑排版、大师级玻璃真实感、精致的铜琥珀动态系统、8k、世界级广告图像质量。负面提示词：真实品牌名称、复制的原始文本、激进混乱的油漆喷溅、肮脏背景、沉重的黑色块、廉价 CGI、塑料感酒瓶、杂乱排版、超大字体、随机多余道具、低细节液体、浑浊的白色、死黑色、杂乱的注释、人物角色。
+
+[English]
+Create a Cannes-level flagship product advertising poster for an original luxury spirit brand named EMBER CREST, using the same core poster skeleton: one tall premium bottle placed slightly left of center as the absolute visual hero, a large clean typography field on the right, and a designed fluid-material interaction field on the lower foreground. Rebuild the visual language into a Transit x Port direction: cleaner, more controlled, more premium, more systemized, with reduced visual noise, stronger brand-template discipline, and a more architectural expression of motion and material. Core composition: Keep a bright ivory-to-warm-white studio background with abundant negative space. The bottle stands upright, front-facing, slightly left of center, commanding the composition. The right side remains a highly disciplined editorial typography zone with elegant vertical spacing and luxury campaign hierarchy. The bottom foreground contains a refined material platform formed by layered amber lacquer, metallic copper traces, and restrained liquid diffusion, anchoring the product physically and visually. Preserve the original left-product / right-type / bottom-material structure exactly, but elevate it into a more premium and deliberate global campaign layout. Product design: Design an original collectible whisky-style bottle with a refined rectangular silhouette, softly rounded shoulders, a heavy glass base, luminous amber liquid, and a deep oxblood or ember-red label with subtle gold foil detailing. The bottle must feel expensive, tactile, real, and photographically believable, with precise glass thickness, refracted highlights, elegant internal glow, realistic cap material, subtle embossing, and premium manufacturing detail. The bottle remains the dominant subject at all times. Transit visual logic: Replace the highly expressive paint-ribbon energy with a more controlled and flagship-grade material motion system. Instead of chaotic flourish, use sculpted amber vapor trails, translucent resin-like sweeps, thin copper-metallic arcs, and warm liquid-glass flow lines that wrap around the bottle in a quieter but more sophisticated orbit. The movement must feel intentional, restrained, and luxurious, as if the bottle radiates distilled heat, aroma, and craft through premium materialized motion. Keep the atmosphere clean, avoid clutter, and reduce unnecessary splash aggression. Port visual logic: Turn the poster into a reusable luxury brand master layout. The structure should feel like a standardized campaign template for a world-class product line: product hero on the left, official brand block on the right, controlled annotation zones, micro-copy, crest mark, and subtle technical descriptors arranged with perfect spacing. Typography must feel elegant, premium, and internationally published, using refined serif for the main title and a restrained sans-serif or small editorial serif for supporting copy. No crude bold fonts, no messy text, no copied wording. Branding and typography: Do not use any real brand names or copied source text. Use original English-only typography. Main title: EMBER CREST. Secondary line: RESERVE No. 01. Supporting copy can include: Distilled Atmosphere, Limited Signature Batch, Crafted for Slow Fire, and a small technical notation system such as Barrel Tone / Copper Finish / Amber Depth. Add a minimal crest-like symbol above the title if appropriate. Typography should be smaller, more elegant, and more luxurious than typical commercial posters, with precise spacing and editorial confidence. Lower material field: Construct a clean, art-directed material base beneath and around the bottle using amber resin, thin lacquer membranes, faint metallic copper runoff, and subtle reflective fluid pooling. The interaction must feel premium and physically coherent, never messy. Include realistic wet-edge tension, thin translucent gradients, reflective viscosity, and delicate surface ripples, as if the product sits in a controlled field of distilled essence and molten design language. The lower area should connect visually with the arcs surrounding the bottle, forming a complete and elegant motion loop. Lighting: Use extremely refined studio lighting with soft frontal illumination, warm internal bottle glow, crisp edge highlights, and delicate shadow transitions. The bottle should feel luminous from within, while the surrounding material arcs catch soft gold and copper reflections. The overall light structure must feel expensive, silky, controlled, and physically believable. Avoid flat lighting, muddy contrast, and dead black areas. Material realism: Push exceptional realism in glass, liquid, embossed label stock, metallic foil, translucent resin motion, copper traces, and reflective wet surfaces. Every material must have clear physical identity. Preserve extreme sharpness on the bottle edges, cap, label, glass highlights, and key foreground reflections, while allowing the surrounding motion elements to feel softer and more atmospheric. The result should look like elite product photography fused with master-level material installation art. Color direction: Use a restrained premium palette: amber gold, deep ember red, oxblood, warm copper, pale ivory, soft champagne highlights, and controlled shadow neutrals. Keep the image warm, noble, elegant, and unmistakably high-end. The background must stay clean so the product remains visually dominant. Mood: flagship, refined, collectible, editorial, architectural, restrained, luxurious, sculptural, atmospheric, premium, globally award-worthy Rendering style: ultra-realistic luxury product poster, flagship campaign key visual, premium studio photography fused with restrained material sculpture, Transit minimal atmosphere, Port brand-template discipline, elegant editorial typography, master-level glass realism, sophisticated copper-amber motion system, 8k, world-class advertising image quality Negative prompt: real brand names, copied original text, aggressive chaotic paint splash, dirty background, heavy black blocks, cheap CGI, plastic-looking bottle, messy layout, oversized typography, random extra props, low-detail liquid, muddy whites, dead blacks, cluttered annotations, human characters
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2095137326443950312) | 2026-09-02
+
+---
+
+### 🎴 例 7286：伏特加酒瓶叙事拼贴画
+
+![伏特加酒瓶叙事拼贴画](../images/%E4%BC%8F%E7%89%B9%E5%8A%A0%E9%85%92%E7%93%B6%E5%8F%99%E4%BA%8B%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戛纳级别的旗舰广告海报，用于名为 AURELIA RESERVE 的原创进口伏特加品牌。设计需遵循严格的“Orbit x Port”视觉逻辑：将一个标志性的磨砂伏特加酒瓶置于正中央作为绝对主角，周围环绕着高端叙事拼贴画，形成围绕产品的受控圆形视觉闭环，同时保留可复用的主模板结构，以适配全球系列营销活动。最终图像需融合超写实产品摄影、文化叙事、编辑排版设计及收藏级印刷质感。酒瓶必须始终保持视觉主导地位。
+
+核心海报结构：
+采用高纵向布局，背景为带有细腻高级纸张纹理的暖象牙色。保持高度规范的主构图：前景中央放置一个大酒瓶，左上方为醒目的编辑标题块，右上方为精致的 Logo 和品质印章块，底部为高端营销标语及行动号召区。围绕酒瓶，将所有辅助元素以雕塑般的放射状构图排列，向内弯曲并在视觉上回归产品，形成强有力的 Orbit 闭环。结构需呈现出丰富而克制、奢华而易读、戏剧化而系统化的质感。
+
+产品主角：
+为 AURELIA RESERVE 设计一款原创超高端伏特加酒瓶。酒瓶高挑、优雅且具收藏价值，采用磨砂银白色玻璃，配有深色雕刻瓶颈、金属瓶盖细节、浮雕玻璃装饰、精致的中央纹章，以及印有 AURELIA RESERVE 和 VODKA 字样的奢华衬线标签系统。增加真实的玻璃厚度、柔和的内部漫反射、细腻的冷凝雾气、微浮雕、精致的烫金工艺及精准的反射效果。酒瓶必须看起来真实、昂贵且具备全球市场吸引力。
+
+Orbit 叙事拼贴：
+围绕酒瓶构建高端文化生活方式蒙太奇，但需排列每个元素，使其形成回流至中心的循环动线。包括酒瓶后方虚构的遗产风格圆顶与塔楼、一侧宏伟的古典文化建筑、另一侧现代天际线、复古黑色豪华轿跑车、盛有冰块和柑橘的晶莹鸡尾酒杯、动态雕塑感水花、铁锈红与琥珀色调的装饰花卉、扇形图案、远处的飞机，以及融入拼贴画中的几位优雅编辑风格人物。调整所有元素的方位和角度，使其动势、轮廓走向、高光及隐含的视线微妙地向酒瓶弯曲，强化主角产品作为引力中心的地位。
+
+Port 主模板逻辑：
+图像必须呈现为一套标准化的旗舰品牌海报系统，可扩展为系列作品。保持布局架构简洁且可重复：中央主角酒瓶、左侧戏剧化标题、右侧官方品牌块、圆形品质印章、底部营销标语以及带有隐蔽品牌信息的页脚。排版和辅助图形需具备模块化、高端且一致的质感，如同国际主营销活动工具包的一部分。
+
+排版系统：
+仅使用原创英文文案。左上方标题建议：
+TASTE
+THE
+GRANDEUR
+OF
+THE NIGHT
+使用高对比度衬线字体，搭配优雅的字间距，采用牛血红和哑光金点缀，辅以小型装饰分隔线。右上角放置极简纹章 Logo 和圆形高端印章，文字如 RESERVE QUALITY MARK 1908 或 ESTATE CRAFT EDITION。底部区域添加优雅的标语，如 EVERY POUR DEFINES THE MOMENT，随后跟上一句更有力的标语，如 MAKE IT REMARKABLE。添加带有品牌标识、法律风格微缩文字及虚构网址的精致页脚。排版必须美观、高端且具编辑感，切忌粗糙、厚重或平庸。
+
+人物描绘：
+若包含人物，其地位必须次于酒瓶，仅作为叙事点缀。保持人体结构自然、优雅且可信。对于任何写实女性形象，需保留成熟自然的身体逻辑、真实的皮肤纹理、正确的肢体比例、干净的肩颈线条、准确的手部形态及清晰的五指。严禁解剖结构扭曲、手指粘连、肢体残缺或塑料感皮肤。
+
+光影与写实度：
+使用高端商业照明，确保酒瓶正面清晰易读，具备柔和的轮廓高光、细腻的顶部反射，以及贯穿整个拼贴画的连贯阴影逻辑。酒瓶在暖色调环境中应显得清冷、通透且轮廓锐利。水花需具备物理真实感和高速抓拍的锐度，水晶玻璃需呈现准确的切面折射，汽车需带有真实的金属反射，建筑需具备触感和细节。每个元素都必须属于同一个高端营销世界。
+
+色彩导向：
+使用丰富但受控的色调：象牙白、羊皮纸米色、磨砂银、牛血红、铜金色、哑光琥珀色、炭黑色、铁锈花色及柔和的石灰色。保持酒瓶比周围拼贴画更冷、更亮，以确保其主导地位。使用红金色点缀来统一海报并支持 Orbit 循环路径。
+
+图形整合：
+所有辅助物体必须感觉像是围绕酒瓶精心雕琢而成，而非随意粘贴。保持轮廓清晰、重叠优雅、间距精准且易读性强。最终作品应呈现出获奖级奢华酒类海报的质感，兼具情感丰富度与系统级的品牌纪律。
+
+氛围：
+奢华、庆典、世俗、编辑感、收藏级、精致、电影感、文化底蕴、高冲击力、全球高端、优雅戏剧化
+
+渲染风格：
+超写实旗舰酒类海报、中央主角酒瓶、Orbit 叙事拼贴、Port 营销主模板布局、奢华编辑排版、磨砂玻璃质感、电影级文化蒙太奇、高级纸张纹理、世界级广告设计、8k、大师级商业渲染
+
+负面提示词：
+真实品牌名称、抄袭的外国标语、丑陋的粗体字体、廉价的拼贴感、杂乱的构图、产品主导地位弱、塑料感酒瓶、扭曲的手部、多余的手指、手指粘连、肢体残缺、浑浊的颜色、死黑色块、低细节水花、平淡的灯光、随机道具、低分辨率印刷效果
+
+[English]
+Create a Cannes-level flagship advertising poster for an original imported vodka brand named AURELIA RESERVE, designed with a strict Orbit x Port visual logic: one monumental frosted vodka bottle placed in the exact center as the absolute hero, surrounded by a premium narrative collage that forms a controlled circular visual loop around the product, while preserving a reusable master-template structure for a global campaign series. The final image must feel like a fusion of ultra-real product photography, cultural storytelling, editorial layout design, and collectible print sophistication. The bottle must remain visually dominant at all times.
+
+Core poster structure:
+Use a tall vertical layout on a warm ivory textured background with subtle premium paper grain. Keep a highly disciplined master composition: a large centered bottle in the foreground, a bold editorial headline block in the upper left, a refined logo and quality seal block in the upper right, and a premium campaign statement plus call-to-action zone at the bottom. Around the bottle, arrange all supporting elements in a sculpted radial composition that curves inward and visually returns to the product, creating a strong Orbit loop. The structure must feel abundant yet controlled, luxurious yet readable, dramatic yet systemized.
+
+Product hero:
+Design an original ultra-premium vodka bottle for AURELIA RESERVE. The bottle is tall, elegant, and collectible, with frosted silver-white glass, a deep sculpted dark neck, metallic cap detailing, embossed glass ornament, a refined central crest, and a luxurious serif label system featuring AURELIA RESERVE and VODKA. Add believable glass thickness, soft internal diffusion, subtle cold condensation haze, micro embossing, delicate foil touches, and precise reflections. The bottle must feel physically real, expensive, and globally marketable.
+
+Orbit narrative collage:
+Build a premium cultural-lifestyle montage around the bottle, but arrange every element so it contributes to a circular flow back toward the center. Include fictional heritage-inspired domes and towers rising behind the bottle, a grand classical cultural building on one side, a modern skyline on the other, a vintage black luxury coupe, a crystal cocktail tumbler with ice and citrus, a dynamic sculptural water splash, ornamental flowers in rust-red and amber tones, a fan motif, a distant aircraft, and a few elegant editorial characters integrated into the collage. Position and angle all elements so their motion, silhouette direction, highlights, and implied gaze subtly curve toward the bottle, reinforcing the hero product as the gravitational center.
+
+Port master-template logic:
+The image must feel like a standardized flagship brand poster system that can be extended into a series. Keep the layout architecture clean and repeatable: central hero bottle, left-side dramatic headline, right-side official brand block, circular quality seal, lower campaign line, and a footer with discreet brand information. Typography and supporting graphics must feel modular, premium, and consistent, as if this is part of an international master campaign toolkit.
+
+Typography system:
+Use fully original English-only copy. Upper-left headline suggestion:
+TASTE
+THE
+GRANDEUR
+OF
+THE NIGHT
+Set it in a refined high-contrast serif with elegant spacing, using oxblood red and muted gold accents, with small ornamental dividers. In the upper right, place a minimal crest logo and a circular premium seal using wording such as RESERVE QUALITY MARK 1908 or ESTATE CRAFT EDITION. In the lower section, add an elegant statement such as EVERY POUR DEFINES THE MOMENT, followed by a stronger line such as MAKE IT REMARKABLE. Add a tasteful footer with the brand mark, legal-style micro text, and a fictional website. Typography must be beautiful, premium, and editorial, never crude, heavy, or generic.
+
+Human depiction:
+If human figures are included, they must remain secondary to the bottle and function as narrative accents only. Keep anatomy natural, elegant, and believable. For any realistic female figure, preserve mature natural body logic, realistic skin texture, correct limb proportion, clean shoulders and neck, accurate hands, and five clearly formed fingers. No distorted anatomy, no fused fingers, no broken limbs, no artificial plastic skin.
+
+Lighting and realism:
+Use premium commercial lighting with crisp frontal readability on the bottle, gentle contour highlights, subtle top reflections, and coherent shadow logic throughout the collage. The bottle should feel cool, luminous, and sharply defined against the warmer surrounding environment. The water splash must be physically believable and high-speed sharp, the crystal glass must show accurate cut-glass refraction, the car must carry realistic metallic reflections, and the architecture must feel tactile and detailed. Every element must belong to the same premium campaign world.
+
+Color direction:
+Use a rich but controlled palette of ivory, parchment beige, frosted silver, oxblood red, copper gold, muted amber, charcoal black, floral rust, and soft stone neutrals. Keep the bottle cooler and brighter than the surrounding collage so it remains dominant. Use red-gold accents to unify the poster and support the Orbit circulation path.
+
+Graphic integration:
+All supporting objects must feel intentionally sculpted around the bottle, not pasted randomly. Maintain clean silhouettes, elegant overlaps, precise spacing, and strong readability. The final artwork should feel like an award-winning luxury liquor poster with both emotional abundance and system-level brand discipline.
+
+Mood:
+luxurious, celebratory, worldly, editorial, collectible, refined, cinematic, culturally rich, high-impact, globally premium, elegantly dramatic
+
+Rendering style:
+ultra-realistic flagship liquor poster, centered hero bottle, Orbit narrative collage, Port campaign master-template layout, luxury editorial typography, frosted glass realism, cinematic cultural montage, premium paper texture, world-class advertising design, 8k, master-level commercial rendering
+
+Negative prompt:
+real brand names, copied foreign slogan, ugly bold fonts, cheap collage look, cluttered composition, weak product dominance, plastic-looking bottle, distorted hands, extra fingers, fused fingers, broken anatomy, muddy colors, dead black patches, low-detail splash, flat lighting, random props, low-resolution print finish
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2095136943889895926) | 2026-09-02
+
+---
+
+### 🎴 例 7288：教师节中秋主题海报
+
+![教师节中秋主题海报](../images/%E6%95%99%E5%B8%88%E8%8A%82%E4%B8%AD%E7%A7%8B%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+设计一张用于微信聊天窗口与手机转发的中秋节教师祝福竖版海报，面向被尊敬的老师，观看时间短但需要完整读懂，信息密度 text-light 到 standard 之间。核心视觉语言是“真实物象穿越几何情绪窗口”：以真实写实的满月、桂花枝与少量桂花为主体，表现“月光与祝福穿过窗口，来到老师身边”的单一视觉事件。  画面中设置一个窄长、低饱和的浅香槟金几何色块，作为视觉锚点和空间容器，色块像一扇被月光照亮的安静情绪窗口，保持清晰受控的边界与轻微半透明感。满月位于窗口内部，桂花枝从窗口的一端自然穿出，枝叶、花朵与一小片月光越界并延伸到外部大片留白，形成真实的空间穿透感；主体不能被色块完全困住，也不能变成装饰图标。  背景是与主题相关的“月光教室空气场”：温暖的象牙白到极浅雾灰留白，像夜晚教室窗边被月光照亮的空气，远处只保留极淡、几乎透明的窗棂轮廓与舒缓的月相弧线，让主体从安静的距离中显现，并为文字保留真正干净的呼吸区。只加入少量与中秋和师生情感有因果关系的细线月相和桂花枝影，表面完整、清洁、哑光，只有细微受控的明度变化，不要无关风景、拥挤装饰或戏剧化暗场。  文字必须准确呈现以下中文，不要出现伪文字、乱码、额外英文或未批准内容，保持自然清晰的简体中文字形： 1. “中秋安康”——主标题，第一阅读入口，温柔而庄重的高识别度标题锁定。 2. “致敬爱的老师”——对象称谓，短 kicker，与主标题形成亲切的身份确认。 3. “愿月满人安，桃李芬芳”——节日祝愿， authored expression，作为主标题后的情绪承诺。 4. “感谢您的悉心教导”——师生情感说明， authored expression，以短句或轻量 callout 方式出现，承担感谢功能。 5. “一轮明月寄相思，一声祝福表心意”——收束文案， authored expression，作为安静的底部/边缘说明行，完成从节日到师恩的阅读回环。 阅读顺序为：对象称谓 → 主标题 → 节日祝愿 → 感谢说明 → 收束文案。文字形成 4 个可读块：kicker 与主标题相邻但层级分明；祝愿独立成柔和短句；感谢说明与收束文案形成轻量的尾声。大部分留白保持无文字，让月光窗口与越界主体有充分空间。没有日期、学校、姓名、机构、联系方式、活动地点或署名，因为用户未提供且不应虚构。  构图采用一张完整的编辑式祝福海报构图：几何窗口与写实月桂主体形成唯一视觉焦点，文字沿着窗口外溢的月光关系自然组织，形成从上方称谓到主体附近标题、再到下方祝福尾声的舒缓阅读路径；文字不是漂浮在无关图片上，而是与窗口边缘、月光和留白发生呼应。保留东方留白、现代秩序、自然生命力、轻奢品质感与克制编辑气质，避免模板化堆叠。  色彩采用低饱和的温暖月光方案：象牙白与极浅雾灰作为大面积空间，浅香槟金窗口与柔和月光负责节日温度，月面为自然的暖白，桂花与枝叶使用真实但克制的淡金、橄榄绿和少量深灰褐作为视觉锚点，文字使用柔和深灰褐而非纯黑。保持高明度、低至中低饱和与柔和对比，让观者感到安宁、亲切、受尊重和被温柔惦念；主体与留白有清楚分离，但整体不浓重、不喧闹、不使用高饱和节庆红金。  排版采用适合中文手机阅读的现代人文编辑气质：主标题为清晰、略带书卷感的稳健中文展示字形，笔画有温润的手工书写气息但边缘精确完整；辅助文字以轻量、规整、舒展的中文排布形成节奏，通过字重、密度、留白和行长区分称谓、祝愿、感谢与收束，不将所有文字做成同字号的居中堆叠。文字像月光一样进入画面，在窗口边缘附近获得强调，在留白中适度退后；保持简体中文自然识读，所有字形完整清楚。  主体采用精细写实摄影质感：月面有克制的真实环形明暗与柔和光晕，桂花枝的纤细枝条、成簇小花和叶片具有可辨识的自然形态与细腻层次；以柔和漫射月光、干净哑光表面、精确受控的边缘和自然空间深度完成，不要厚重阴影、不要卡通化、不要3D图标、不要水印、不要界面元素、不要伪文字、不要无因果符号、不要廉价模板感。  THEORY_LOGIC = SET[留白构成::视觉隐喻::编辑层级] || SYNTHESIS[以窗口作为关系边界，让月与桂花跨过边界进入安静留白；用主标题、祝愿、感谢和收束形成由识别到情感回响的渐进节奏，使师恩主题在手机快速阅读中保持清楚、温柔与尊重] METAPHOR_LOGIC = 月光穿过情绪窗口，把中秋的团圆与桂花的芬芳越界送到老师身边，留白成为感谢被听见的安静空间。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2095126144337293331) | 2026-09-02
+
+---
+
+### 🎴 例 7294：堆叠式快餐胶囊广告
+
+![堆叠式快餐胶囊广告](../images/%E5%A0%86%E5%8F%A0%E5%BC%8F%E5%BF%AB%E9%A4%90%E8%83%B6%E5%9B%8A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个高度写实的垂直商业广告场景，展示一名年轻女性置身于四个堆叠的透明胶囊展示舱内，每个胶囊舱均以知名快餐和汽水品牌为主题。
+
+画布：高垂直 9:16 构图，深暖色调摄影棚背景，戏剧性的光泽感产品广告灯光，高级电影质感，焦点清晰，高对比度反射，无边框或水印。
+
+布局：从上到下精确堆叠 4 个大型横向药丸状胶囊，每个胶囊的左侧为不透明彩色区域，印有大型品牌 Logo；右侧为透明圆角玻璃区域，内含女性及相关的食品或饮料产品。胶囊垂直对齐，带有轻微的透视深度，不透明与透明部分之间设有金色金属边框，呈现逼真的玻璃反射、冷凝水珠、高光，以及舱内适当散落的冰块或食物道具。
+
+人物细节：在所有 4 个胶囊中使用同一位年轻女性，年龄 20 岁左右，中等暖色肤色，留着长波浪深棕色头发，扎着高半马尾，棕色眼睛富有表现力，精致的淡妆，笑容亲切自信。她身穿深色廓形西装，内搭白衬衫，脚穿白色运动鞋，在每个舱内姿态自然。人物形象可自定义：{argument name="character identity" default="一位留着长波浪深棕色头发、扎高马尾、中等暖色肤色、身穿深色西装、白衬衫和白色运动鞋的年轻女性"}。
+
+胶囊数量与内容：包含 4 个胶囊。1) 顶部胶囊：红色 Coca-Cola 胶囊，左侧印有白色 Coca-Cola 大号手写 Logo，透明舱内充满冰块，女性身后有 5 瓶 Coca-Cola 玻璃瓶；她盘腿坐着，手持红色 Coca-Cola 易拉罐。2) 第二个胶囊：红色 Pizza Hut 胶囊，左侧印有大型 Pizza Hut Logo，透明舱内中心放置一个大号意大利辣香肠披萨，女性身体前倾，手持一片披萨，周围有小份蘸酱、面包棒、薯块和红色的 Pizza Hut 桶。3) 第三个胶囊：蓝色 Pepsi 胶囊，左侧印有大型 Pepsi 球形 Logo 和 Pepsi 文字标识，透明舱内充满冰块，女性身后有 6 瓶 Pepsi；她盘腿坐着，用吸管啜饮着超大杯蓝色 Pepsi。4) 底部胶囊：黄色 McDonald's 胶囊，左侧印有大型金色拱门和 McDonald's 文字标识，透明舱内堆满了汉堡、薯条、饮料杯、麦乐鸡块和酱料盒；女性放松地坐在食物中，单膝支起。
+
+视觉风格：超写实商业摄影与超现实产品展示设计相结合，光泽塑料与玻璃材质，诱人的食物造型，温暖的琥珀色高光，深棕黑色背景，摄影棚反射，浅景深，超精细纹理，逼真的品牌植入。不透明胶囊颜色可自定义：{argument name="capsule brand colors" default="红色、红色、蓝色和黄色"}。品牌阵容可自定义：{argument name="brand lineup" default="Coca-Cola、Pizza Hut、Pepsi、McDonald's"}。整体氛围可自定义：{argument name="advertising mood" default="奢华电影感快餐展示"}。
+
+约束：保持 4 层垂直堆叠的精确结构，确保所有 Logo 大且清晰可辨，保持女性在每个胶囊中的一致性，不得增加额外的胶囊或人物，避免手部畸变或品牌标识模糊，确保画面呈现出高端超现实商业海报的质感。
+
+[English]
+Goal: Create a highly realistic vertical commercial advertising scene showing a young woman inside four stacked transparent capsule display pods themed around famous fast-food and soda brands.
+
+Canvas: Tall vertical 9:16 composition, dark warm studio background, dramatic glossy product-ad lighting, premium cinematic realism, sharp focus, high contrast reflections, no border or watermark.
+
+Layout: Stack exactly 4 large horizontal pill-shaped capsules from top to bottom, each with an opaque colored left half carrying a large brand logo and a transparent rounded-glass right half containing the woman and related food or drink products. The capsules are aligned vertically with slight perspective depth, gold metallic rims between opaque and transparent sections, realistic glass reflections, condensation, highlights, and scattered ice or food props inside where appropriate.
+
+Subject details: Use one consistent young woman in all 4 capsules, around early 20s, medium warm skin tone, long wavy dark brown hair in a high half-up ponytail, expressive brown eyes, soft glam makeup, friendly confident smile. She wears a dark oversized business suit with a white shirt and white sneakers, posed casually inside each pod. Customize the person as {argument name="character identity" default="a young woman with long wavy dark brown hair in a high ponytail, warm medium skin tone, wearing a dark suit, white shirt, and white sneakers"}.
+
+Capsule count and contents: Include exactly 4 capsules. 1) Top capsule: red Coca-Cola capsule, large white Coca-Cola script logo on the left, transparent chamber filled with ice cubes and exactly 5 Coca-Cola glass bottles behind the woman; she sits cross-legged holding a red Coca-Cola can. 2) Second capsule: red Pizza Hut capsule, large Pizza Hut logo on the left, transparent chamber with a large pepperoni pizza centered in front, the woman leaning forward holding one pizza slice, plus small bowls of dipping sauce, breadsticks, potato bites, and a red Pizza Hut bucket. 3) Third capsule: blue Pepsi capsule, large Pepsi globe logo and Pepsi wordmark on the left, transparent chamber with ice cubes and exactly 6 Pepsi bottles behind the woman; she sits cross-legged sipping from an oversized blue Pepsi cup with a straw. 4) Bottom capsule: yellow McDonald's capsule, large golden arches and McDonald's wordmark on the left, transparent chamber packed with burgers, fries, drink cups, nuggets, and sauce boxes; the woman sits relaxed among the food with one knee up.
+
+Visual style: Hyper-realistic commercial photography mixed with surreal product display design, glossy plastic and glass materials, appetizing food styling, warm amber highlights, dark brown-black background, studio reflections, shallow depth of field, ultra-detailed textures, realistic branding placement. Make the opaque capsule colors customizable as {argument name="capsule brand colors" default="red, red, blue, and yellow"}. Make the brand set customizable as {argument name="brand lineup" default="Coca-Cola, Pizza Hut, Pepsi, McDonald's"}. Make the overall mood customizable as {argument name="advertising mood" default="luxury cinematic fast-food showcase"}.
+
+Constraints: Preserve the exact 4-tier vertical stack, keep all logos large and readable, keep the same woman consistent in every capsule, do not add extra capsules, do not add extra people, avoid distorted hands or unreadable brand marks, and keep the scene polished like a high-end surreal commercial poster.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2095107377930654203) | 2026-09-02
+
+---
+
+### 🎴 例 7296：日式谚语动漫海报
+
+![日式谚语动漫海报](../images/%E6%97%A5%E5%BC%8F%E8%B0%9A%E8%AF%AD%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的日式谚语海报插画，主角为 {argument name="character name" default="一位原创可爱动漫少女"}，正在演绎谚语“棚からぼたもち”（意为“意外之财”）。采用 4:5 的方形社交媒体海报构图，背景为鲜艳的纯黄色。在左侧及下方背景中，填充巨大的黑色粗体日文“棚からぼたもち”，采用垂直和对角线排列，并被画布边缘裁剪，呈现出大胆的图形海报风格。画面中的角色是一位细节丰富的动漫风少女，她以一种充满喜剧色彩的惊讶姿势在构图中跌落或后仰，双眼闪烁着粉色光芒，嘴巴微张，脸颊泛红，双手伸出，仿佛正试图接住掉落的甜点。她留着 {argument name="hair color" default="浅蜜金色"} 的长波浪卷发，发丝凌乱，扎着双低马尾或编发，佩戴浅蓝色丝带配饰和荷叶边耳环。身着柔和的浅色系服装：浅蓝色荷叶边衬衫、奶油色蕾丝边、米色格纹裙、白色丝带、心形吊坠腰带、荷叶边短袜及厚底白鞋。在右上角，加入一个倾斜进入画面的木架或盒子边缘，掉落四个圆形的深红褐色牡丹饼（botamochi），表面带有红豆颗粒质感：一个在右上角附近，一个在上部中心，一个较大的位于角色双手前方，另一个中等大小的位于躯干附近。在角色和掉落的甜点周围添加白色速度线、冲击效果和漫画式的惊讶符号。整体氛围应充满活力、幽默且具有强烈的视觉冲击力，将精致的萌系动漫角色渲染与现代日式排版完美结合。保持排版为黑色且巨大，背景为纯黄色，角色细节丰富且光影明亮，牡丹饼具有纹理和立体感。无水印，无额外英文文本，无其他角色。
+
+[English]
+Create a dynamic Japanese proverb poster illustration featuring {argument name="character name" default="an original cute anime girl"} acting out the proverb 「棚からぼたもち」, meaning “unexpected good fortune.” Use a square 4:5 social-media poster composition with a vivid flat yellow background. Fill the left side and lower background with enormous, heavy, black Japanese typography reading exactly 「棚からぼたもち」, arranged vertically and diagonally, cropped by the canvas edges like a bold graphic poster. Show the character as a detailed anime-style young girl falling or recoiling through the composition in a surprised, physically comedic pose, with wide sparkling pink eyes, open mouth, flushed cheeks, and outstretched hands as if trying to catch falling sweets. She has {argument name="hair color" default="light honey-blonde"} long wavy hair with loose strands, twin low braids or tied sections, pale blue ribbon accessories, frilly earrings, and a soft pastel outfit: a pale blue ruffled blouse, cream lace trim, plaid beige skirt, white ribbons, heart charm belt detail, frilly socks, and chunky white shoes. From the upper right corner, include a wooden shelf or box edge tilted into frame, dropping exactly four round dark reddish-brown botamochi rice cakes with bumpy azuki bean texture: one near the top right, one near the upper center, one large in front of the character’s hands, and one medium near her torso. Add white speed lines, impact marks, and comic surprise accents around the character and falling sweets. The mood should be energetic, humorous, and high-impact, combining polished moe anime character rendering with stark modern Japanese typography. Keep the typography black and massive, the background pure yellow, the character highly detailed and brightly lit, and the rice cakes textured and three-dimensional. No watermark, no extra English text, no additional characters.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2095097515045683376) | 2026-09-02
+
+---
+
+### 🎴 例 7306：双重编辑海报布局
+
+![双重编辑海报布局](../images/%E5%8F%8C%E9%87%8D%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高水准的独立编辑海报，采用严格的 3:4 垂直比例。将画布水平划分为两个完全相等的 50/50 部分，设计为一个连贯的艺术出版物封面。
+
+上半部分 — 编辑摄影
+
+根据 {argument name="subject" default="选定的主体或场景"} 创建一张原创的照片级写实编辑摄影作品。建立构图强烈且易于识别的画面，具备真实的灯光、自然阴影、逼真的纹理、大气深度以及高级的杂志风格调色。
+
+保持摄影风格自然、电影感且低调，如同高端独立杂志或当代艺术书籍。避免过度的修图或人工修饰。
+
+下半部分 — 手绘纸艺插画
+
+将相同的主体和视觉故事重新诠释为一幅小型极简手工纸艺插画。
+
+保留关键轮廓、可识别特征、核心物体、姿势或手势以及叙事核心。对场景进行大幅简化，使用细腻且不完美的手绘线条、少量大胆的丙烯风格平涂色块、可见的笔触、粗糙的纸张纹理以及略显不规则的有机边缘。
+
+保持插画小巧并居中，占据下半部分约 10%–20% 的空间，留出充足的负空间。
+
+使用粗糙的白色、暖米色或浅色天然纸张背景，仅用少量极简的形状或线条暗示周围环境。
+
+色彩与排版
+
+从整体场景中提取不超过 4 种和谐色彩的克制调色板。使用受控的平涂色块，并带有微妙的手工质感。
+
+可选的极简 {argument name="typography" default="编辑排版"} 可包含简短标题、关键词、地点、年份、数字或简短词组。保持低调，并自然地融入负空间中。
+
+最终艺术指导
+
+安静、诗意、精致、极简、纯真、放松、艺术感、深思熟虑且高端。
+
+视觉概念为：“一个小主体被大量的留白所包围。”
+
+在上半部分的照片写实感与下半部分极简手工视觉诗之间创造强烈的对比，同时使两者明确地属于同一个视觉故事。
+
+避免：拼贴布局、通用模板、商业广告美学、过度装饰、繁杂的构图、过多的排版、3D 渲染、光泽质感、卡通风格、蜡笔、彩色铅笔、水彩晕染、厚重的油画、纯线条艺术或精致的数字插画。
+
+优先考虑识别度、克制感、负空间、材质纹理、微妙的不完美感、编辑精致度以及叙事性。
+
+[English]
+Create a high-end independent editorial poster in a strict 3:4 vertical aspect ratio. Divide the canvas horizontally into two exactly equal 50/50 sections, designed as one cohesive art-publication cover.\n\nTOP HALF - EDITORIAL PHOTOGRAPH\n\nCreate an original photorealistic editorial photograph based on the {argument name="subject" default="chosen subject or scene"}. Establish a strong, recognizable composition with authentic lighting, natural shadows, realistic textures, atmospheric depth, and sophisticated magazine-style color grading.\n\nKeep the photography natural, cinematic, and understated — like a premium independent magazine or contemporary art book. Avoid excessive retouching or artificial styling.\n\nBOTTOM HALF — HAND-DRAWN PAPER ILLUSTRATION\n\nReinterpret the same subject and visual story as a small minimalist handmade paper illustration.\n\nPreserve the key silhouette, recognizable features, essential objects, pose or gesture, and core narrative. Simplify the scene heavily, using delicate imperfect hand-drawn lines, a few bold acrylic-style flat color shapes, visible brush marks, rough paper grain, and slightly irregular organic edges.\n\nKeep the illustration small and centered, occupying approximately 10–20% of the bottom half, with generous negative space.\n\nUse a rough white, warm off-white, or pale natural paper background, with only a few minimal shapes or lines suggesting the surrounding environment.\n\nCOLOR & TYPOGRAPHY\n\nDerive a restrained palette of no more than 4 harmonious colors from the overall scene. Use controlled flat color blocks with subtle handmade texture.\n\nOptional minimal {argument name="typography" default="editorial typography"} may include a short title, keyword, location, year, number, or brief phrase. Keep it understated and naturally integrated into the negative space.\n\nFINAL ART DIRECTION\n\nQuiet, poetic, refined, minimal, innocent, relaxed, artistic, thoughtful, and premium.\n\nThe visual concept is: “A small subject surrounded by a large amount of empty space.”\n\nCreate a strong contrast between the photographic realism of the top half and the minimal handmade visual poem of the bottom half, while making both clearly belong to the same visual story.\n\nAvoid: collage layouts, generic templates, commercial advertising aesthetics, excessive decoration, busy compositions, excessive typography, 3D rendering, glossy textures, cartoon styling, crayon, colored-pencil, watercolor bleeding, heavy oil painting, pure line art, or polished digital illustration.\n\nPrioritize recognition, restraint, negative space, material texture, subtle imperfection, editorial sophistication, and storytelling.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2095062268270817651) | 2026-09-02
+
+---
+
+### 🎴 例 7308：水彩旅行海报风格转换
+
+![水彩旅行海报风格转换](../images/%E6%B0%B4%E5%BD%A9%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为场景来源，将城市河流照片转换为极简主义手绘水彩与水墨风格的旅行海报插画。保留标志性的天际线、河流视角、桥梁、船只以及温暖的傍晚氛围，但将建筑简化为松散的草图线条和柔和的色彩渲染，而非写实细节。将场景重新构图为宽幅米白色纹理水彩纸背景上的小型居中装饰画，并在周围留出充足的空白；让天空和边缘淡入纸张，而非填满整个画布。使用柔和的米色、淡蓝色、灰色和暖金色调，并在水面上呈现柔和的反射光。在插画下方添加 3 行居中文字：{argument name="main title" default="YARRA RIVER"}、{argument name="location text" default="MELBOURNE"} 以及 {argument name="year" default="2024"}，使用字间距宽阔且优雅的衬线大写字母，并在年份下方添加一条短细横线。保持最终图像简洁、通透、精致且具有海报感，无需边框、额外 Logo 或其他文字。
+
+[English]
+Using REFERENCE_0 as the scene source, transform the city river photograph into a minimalist hand-painted watercolor and ink travel-poster illustration. Preserve the recognizable skyline, river viewpoint, bridge, boats, and warm late-day atmosphere, but simplify the architecture into loose sketch lines and soft washes instead of photorealistic detail. Recompose the scene as a small centered vignette on a wide off-white textured watercolor-paper background with generous empty space around it; fade the sky and edges into the paper rather than filling the whole canvas. Use muted beige, pale blue, gray, and warm gold tones with a soft reflected glow on the water. Add exactly 3 centered text lines beneath the illustration: {argument name="main title" default="YARRA RIVER"}, {argument name="location text" default="MELBOURNE"}, and {argument name="year" default="2024"}, set in widely spaced elegant uppercase serif lettering, plus one short thin horizontal line below the year. Keep the final image clean, airy, refined, and poster-like, with no frame, no extra logos, and no additional text.
+```
+
+**来源：** [@nancy zhan](https://x.com/nancyzhang38176/status/2095054125939736649) | 2026-09-02
+
+---
+
+### 🎴 例 7325：复古手绘风格旅行海报
+
+![复古手绘风格旅行海报](../images/%E5%A4%8D%E5%8F%A4%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张复古手绘风格的海报，主体为 {argument name="subject" default="[主体 / 场景]"}。使用细腻的黑色墨水线条、简约的图形形状、微妙的交叉排线、柔和的大地色系以及带有陈旧感的纸张背景。呈现出地道的 20 世纪中期旅行海报 / 丝网印刷美学，带有轻微不完美的墨水质感、柔和的颗粒感、褪色的色彩以及手工印刷的触感。保持构图简洁优雅，主体置于中心位置，留白平衡，辅以少量氛围细节和极简的装饰元素。在顶部添加简单的复古字体，内容为 “{argument name="title" default="[标题]"}”。怀旧、艺术、永恒、编辑感、精致、视觉冲击力强，采用 9:16 竖版海报构图。
+
+[English]
+Create a vintage hand-illustrated poster featuring {argument name="subject" default="[SUBJECT / SCENE]"}. Use detailed black ink linework, simplified graphic shapes, subtle crosshatching, muted earthy colors, and a soft aged-paper background. Give it an authentic mid-century travel-poster / screen-print aesthetic, with slightly imperfect ink texture, gentle grain, faded colors, and a handmade printed feel. Keep the composition clean and elegant with the main subject prominently centered, balanced negative space, small atmospheric details, and minimal decorative elements. Add simple vintage typography reading “{argument name="title" default="[TITLE]"}” at the top. Nostalgic, artistic, timeless, editorial, sophisticated, visually striking, vertical 9:16 poster composition.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2094992489476194376) | 2026-09-02
+
+---
+
+### 🎴 例 7327：马头星云海报
+
+![马头星云海报](../images/%E9%A9%AC%E5%A4%B4%E6%98%9F%E4%BA%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级天文摄影风格的马头星云教育太空海报，{argument name="nebula name" default="Barnard 33"}，采用宽幅 4:3 横向画布。背景为深红色的发射星云，布满细小而密集的白星，中间横贯着一条发光的深红色氢云带。在中心偏右位置，放置一个巨大的深黑褐色尘埃云剪影，形状如马头和马颈，向上升起，带有卷曲的鼻口和鬃毛般的丝状物，边缘被背后的红光勾勒。在左下角添加淡淡的蓝色雾气，并加入两颗特别醒目的蓝白色恒星：一颗明亮的恒星靠近左边缘，另一颗较小的亮星位于中右区域，此外还有许多自然散布的小恒星。在左上角，叠加 3 个白色的衬线体文本元素：一个大的日语标题 {argument name="headline text" default="馬頭星雲"}，一个较小的英语副标题 {argument name="subtitle text" default="Barnard 33"}，以及一段四行的日语描述 {argument name="description text" default="オリオン座にある暗黒星雲。\n背景の赤く光る散光星雲を、\n手前の冷たいガスと塵が遮って\n「馬の頭」のシルエットに見える。"}。使用优雅的博物馆天文馆排版，高对比度，逼真的星云细节，无边框，无 Logo，无额外标签。
+
+[English]
+Create a cinematic astrophotography-style educational space poster of the Horsehead Nebula, {argument name="nebula name" default="Barnard 33"}, in a wide horizontal 4:3 canvas. The background is a deep red emission nebula filled with dense tiny white stars, with a glowing crimson hydrogen cloud band running horizontally through the middle. Center-right, place one large dark black-brown dust cloud silhouette shaped like a horse’s head and neck, rising upward with a curled snout and mane-like wisps, rim-lit by red light from behind. Add subtle blue haze in the lower-left corner and two especially prominent blue-white stars: one bright star near the left edge and one smaller bright star in the right-middle area, plus many smaller stars scattered naturally. In the upper-left corner, overlay exactly 3 text elements in white serif type: a large Japanese headline {argument name="headline text" default="馬頭星雲"}, a smaller English subtitle {argument name="subtitle text" default="Barnard 33"}, and a four-line Japanese description {argument name="description text" default="オリオン座にある暗黒星雲。\n背景の赤く光る散光星雲を、\n手前の冷たいガスと塵が遮って\n「馬の頭」のシルエットに見える。"}. Use elegant museum-planetarium typography, high contrast, realistic nebula detail, no borders, no logos, no extra labels.
+```
+
+**来源：** [@シス猫 (sysCat) @無色で無職なネコ (no-color, no-job)](https://x.com/sysCat64/status/2094990933758759356) | 2026-09-02
+
+---
+
