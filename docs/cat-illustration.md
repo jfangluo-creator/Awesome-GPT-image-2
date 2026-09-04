@@ -20336,3 +20336,103 @@ Create a simple full-body cartoon illustration of a cute standing bear character
 
 ---
 
+### 🎨 例 7346：雨夜动漫好友
+
+![雨夜动漫好友](../images/%E9%9B%A8%E5%A4%9C%E5%8A%A8%E6%BC%AB%E5%A5%BD%E5%8F%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，描绘两名少女在雨后黄昏时分并肩走在狭窄的日本商业街上。左侧女孩拥有 {argument name="left girl hair color" default="蓬松的浅金色短发"}、红色双眼，笑容灿烂，正伸出一根食指向上指，仿佛在兴奋地交谈；她身穿宽松的白色衬衫、未扣扣子的红色开衫、深色百褶裙，搭配黑色短袜、白色运动鞋和一个轻便的单肩包。右侧女孩拥有 {argument name="right girl hair color" default="黑色直长发"}、紫蓝色双眼，表情冷静且略带好奇，手扶着黑色单肩包的肩带；她身穿带有浅色饰边的海军蓝短袖衬衫、高腰蓝色百褶短裤，搭配黑色短袜和黑色运动鞋。展示她们全身，位于前景中心，处于行走姿态，具有自然的动漫比例和柔和生动的面部表情。场景为 {argument name="setting" default="一条温馨的日本城市小巷，街道两旁有小型商店、温暖的灯光窗户、植物、自行车、自动售货机、电线杆、招牌和头顶的电线"}。潮湿的柏油路面和石板人行道应反射出商店的橙色灯光、蓝色的黄昏天空以及绚丽的霓虹光影，并带有水坑和湿润的质感。采用电影级光影，左侧有温暖的店面光，远处是清冷的蓝色暮色，浅景深，丰富的倒影，精细的背景建筑，细腻的头发高光，干净的线条，高质量的现代动漫渲染，营造出引人入胜的日常氛围，无文字，无水印。
+
+[English]
+Create a polished anime-style vertical illustration of exactly two teenage girls walking side by side through a narrow Japanese shopping street at dusk after rain. The left girl has {argument name="left girl hair color" default="short fluffy pale blonde hair"}, red eyes, a cheerful open-mouth smile, and is gesturing upward with one raised index finger as if chatting excitedly; she wears a loose white blouse, an unbuttoned red cardigan, a dark pleated skirt, black ankle socks, white sneakers, and a light shoulder bag. The right girl has {argument name="right girl hair color" default="long straight black hair"}, violet-blue eyes, a calm slightly curious expression, and holds the strap of a black shoulder bag; she wears a navy short-sleeve blouse with light trim, high-waisted blue pleated shorts, black ankle socks, and black sneakers. Show them full body, centered in the foreground, mid-step, with natural anime proportions and soft expressive faces. The setting is {argument name="setting" default="a cozy urban Japanese backstreet lined with small shops, warm glowing windows, plants, bicycles, vending machines, utility poles, signs, and overhead power lines"}. The wet asphalt and stone sidewalk should reflect orange shop lights, blue evening sky, and colorful neon highlights, with puddles and glossy rain texture. Use cinematic lighting, warm storefront glow from the left, cool blue twilight in the distance, shallow depth of field, rich reflections, detailed background architecture, delicate hair highlights, clean linework, high-quality modern anime rendering, inviting slice-of-life mood, no text, no watermark.
+```
+
+**来源：** [@AIossansan](https://x.com/toraaiuser2/status/2095550648729382940) | 2026-09-03
+
+---
+
+### 🎨 例 7347：空灵的水下泳池跳水
+
+![空灵的水下泳池跳水](../images/%E7%A9%BA%E7%81%B5%E7%9A%84%E6%B0%B4%E4%B8%8B%E6%B3%B3%E6%B1%A0%E8%B7%B3%E6%B0%B4.jpg)
+
+**Prompt:**
+
+```text
+創作一張主體剛跳進{argument name="水域" default="游泳池或清澈淺水"}的超近距離水下照。氛圍平靜、輕盈、空靈，並著重光線反射。不要有掙扎或急迫感。
+```
+
+**来源：** [@DeepBlue零](https://x.com/DeepBlueZer0/status/2095539586151960803) | 2026-09-03
+
+---
+
+### 🎨 例 7350：MPD 机器人拦截失控卡车
+
+![MPD 机器人拦截失控卡车](../images/MPD%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%A6%E6%88%AA%E5%A4%B1%E6%8E%A7%E5%8D%A1%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的电影级动作照片，展示一个巨大的警察人形机器人正在日本狭窄的城市街道中央拦截一辆失控的厢式卡车。场景中，一个贴有大都会警察局（Metropolitan Police Department）标识的巨大双足机甲，正用两只巨大的机械手挤压并稳住一辆脏兮兮的白色货运卡车的驾驶室；卡车的引擎盖和挡风玻璃区域向内凹陷，前轮区域受损，沥青路面上扬起灰尘或轮胎烟雾。机器人呈白色、黑色和深灰色，拥有许多外露的机械关节、装甲板、螺栓、液压细节、履带式模块，双肩上配有红色应急灯条，两个黑色肩板上印有白色日文和“MPD”字样；其头部是一个水平的长方形传感器/炮塔模块，带有多个朝前的圆形镜头。背景设定在阳光明媚、晴空万里的白天，周围环绕着高大的公寓楼、密集的架空电线、电线杆、街道标志、人行道以及少量作为比例参照的远方行人。采用低角度街拍视角向上仰拍，以突显机器人的巨大比例，构图为 4:5 竖构图，光影锐利写实，正午硬光阴影，充满细节的城市杂物，带有颗粒感的灰尘，受损的金属质感，新闻纪实摄影风格，无插画风格，无卡通效果。包含两个主要主体：{argument name="robot label" default="MPD"} 警察机甲和 {argument name="vehicle type" default="白色厢式卡车"}。机器人上可见的文字应包含 {argument name="Japanese police text" default="警视厅"} 和“MPD”；除零星的街道细节外，避免出现其他可读文字。
+
+[English]
+Create a hyper-realistic cinematic action photo of a gigantic police humanoid robot stopping a runaway box truck in the middle of a narrow Japanese city street. The scene shows one towering bipedal mech labeled with the Metropolitan Police Department markings, using both massive mechanical hands to crush and hold the front cab of one dirty white delivery truck; the truck’s hood and windshield area are dented inward, the front wheel area is damaged, and dust or tire smoke rises from the asphalt. The robot is white, black, and dark gray with many exposed mechanical joints, armor plates, bolts, hydraulic details, caterpillar-like modules, red emergency light bars on both shoulders, and white Japanese text plus “MPD” on two black shoulder panels; its head is a horizontal rectangular sensor/cannon block with multiple circular lenses facing forward. Set the action on a bright sunny day under a clear blue sky, surrounded by tall apartment buildings, dense overhead utility wires, power poles, street signs, sidewalks, and a few distant pedestrians for scale. Use a low street-level camera angle looking upward to emphasize the robot’s huge scale, vertical 4:5 composition, sharp realistic lighting, hard midday shadows, detailed urban clutter, gritty dust, damaged metal, documentary news-photo realism, no illustration style, no cartoon effects. Include exactly two main subjects: {argument name="robot label" default="MPD"} police mech and {argument name="vehicle type" default="white box truck"}. The visible text on the robot should include {argument name="Japanese police text" default="警視庁"} and “MPD”; avoid extra readable text except incidental street details.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2095521754118750427) | 2026-09-03
+
+---
+
+### 🎨 例 7362：纸雕浮雕分层构图
+
+![纸雕浮雕分层构图](../images/%E7%BA%B8%E9%9B%95%E6%B5%AE%E9%9B%95%E5%88%86%E5%B1%82%E6%9E%84%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，针对 {argument name="subject" default="4 位著名皇帝及其王国"} 执行以下操作：type PaperColor = Sepia | Cream | Parchment | Shadow data Material = AgedPaper PaperColor -- B₁：场景中的所有元素必须为 Material 类型 data SceneElement = Figure Material | Prop Material | Page Material | Text Material -- B₂：Z-Stack 强制执行物理深度 data ZStack = Stack [SceneElement] -- 按从背景 (z=0) 到前景 (z=n) 的顺序排列 -- B₄：光照是一个函数，它接收 Z-Stack 并产生锐利的分层阴影 raking_light :: ZStack -> Image raking_light stack = apply_directional_light stack (angle=Low, softness=Soft, shadow_sharpness=High) render :: ScientistArchetype -> Quote -> Image render s q = let figure = Figure (AgedPaper Cream) -- 科学家由纸张制成 pages = Page (AgedPaper Sepia) text = Text (AgedPaper Parchment) -- 引语由纸张剪裁而成 in raking_light (Stack [pages, text, figure, pages])
+
+[English]
+2x2 grid, 16:9, do this for {argument name="subject" default="4 famous emperors and their kingdoms"}: type PaperColor = Sepia | Cream | Parchment | Shadow data Material = AgedPaper PaperColor  -- B₁: Everything in the scene MUST be of type Material data SceneElement = Figure Material | Prop Material | Page Material | Text Material  -- B₂: The Z-Stack enforces physical depth data ZStack = Stack [SceneElement] -- Ordered from background (z=0) to foreground (z=n)  -- B₄: Lighting is a function that takes the Z-Stack and produces sharp layered shadows raking_light :: ZStack -> Image raking_light stack = apply_directional_light stack (angle=Low, softness=Soft, shadow_sharpness=High)  render :: ScientistArchetype -> Quote -> Image render s q = let figure = Figure (AgedPaper Cream) -- The scientist is made of paper                  pages = Page (AgedPaper Sepia)                  text  = Text (AgedPaper Parchment) -- The quote is cut from paper              in raking_light (Stack [pages, text, figure, pages])
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2095460041822535764) | 2026-09-03
+
+---
+
+### 🎨 例 7377：首尔夜景时尚大片
+
+![首尔夜景时尚大片](../images/%E9%A6%96%E5%B0%94%E5%A4%9C%E6%99%AF%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 20 多岁、令人惊艳的成年女性，留着 {argument name="haircut" default="利落的短波波头"}，皮肤散发柔和光泽，妆容精致细腻，神情自信且充满魅力。她身穿一套极具个性的 {argument name="outfit style" default="未来感黑银色高级定制时装"}，带有雕塑般的细节、不对称的剪裁以及优雅的金属装饰。她站在奢华的霓虹灯照耀下的 {argument name="location" default="首尔夜间街头"}，潮湿路面上映衬着发光的招牌与倒影。电影般的氛围，精致的杂志大片姿势，从容的气质，高级时尚杂志美学，超写实摄影，自然的皮肤质感，真实的织物细节，戏剧性的景深，电影级的轮廓光，高端时尚广告大片，构图惊艳，视觉效果令人难忘，照片级真实感，4K，时尚杂志美学。
+
+[English]
+A stunning adult woman in her {argument name="age" default="mid-20s"}, with a sleek short bob haircut, soft glowing skin, subtle glossy makeup and a confident magnetic expression, wearing an ultra-unique futuristic black-and-silver couture outfit with sculptural details, asymmetric silhouette and elegant metallic accents, standing on a luxurious neon-lit {argument name="city" default="Seoul"} street at night, glowing signs and reflections on wet pavement, cinematic atmosphere, sophisticated editorial pose, effortless attitude, high-fashion magazine aesthetic, ultra-realistic photography, natural skin texture, realistic fabric details, dramatic depth of field, cinematic rim lighting, premium fashion campaign, striking composition, visually unforgettable, photorealistic, 4K, fashion editorial aesthetic.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2095400118480732342) | 2026-09-03
+
+---
+
+### 🎨 例 7412：神秘的蓝发仙子
+
+![神秘的蓝发仙子](../images/%E7%A5%9E%E7%A7%98%E7%9A%84%E8%93%9D%E5%8F%91%E4%BB%99%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+神秘な{argument name="髪の色" default="青髪"}の{argument name="キャラクター" default="妖精"}が浮遊し、銀の杖を握る。月明かりに輝く瞳は好奇心に満ち、優しい微笑を浮かべている。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2095304518896378268) | 2026-09-03
+
+---
+

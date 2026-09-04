@@ -4285,3 +4285,21 @@ Create a nostalgic editorial photo-to-sketch artbook page based on the reference
 
 ---
 
+### 🔧 例 7345：爱因斯坦手写论文风格
+
+![爱因斯坦手写论文风格](../images/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%89%8B%E5%86%99%E8%AE%BA%E6%96%87%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的手机拍摄照片，内容为用铅笔书写的手写论文，采用 Albert Einstein 的笔迹，书写在 8.5x11 英寸的横线纸上，主题关于 {argument name="essay topic" default="世界货币史"}。请确保笔迹呈现出 Einstein 特有的书写风格变化。在右上角添加一点 {argument name="stain type" default="咖啡渍"}
+
+[English]
+a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the {argument name="essay topic" default="history of money in world"}. make sure there is variance in the writing in a very einstein way. give it a slight {argument name="stain type" default="coffee stain"} on the top right corner
+```
+
+**来源：** [@Chetaslua](https://x.com/chetaslua/status/2095556181012128005) | 2026-09-03
+
+---
+

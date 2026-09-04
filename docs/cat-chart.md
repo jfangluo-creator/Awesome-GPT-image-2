@@ -4330,3 +4330,21 @@ Constraints: Keep all text legible and positioned like a designed poster. Use ex
 
 ---
 
+### 📊 例 7342：等距透视立体模型拓扑可视化
+
+![等距透视立体模型拓扑可视化](../images/%E7%AD%89%E8%B7%9D%E9%80%8F%E8%A7%86%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B%E6%8B%93%E6%89%91%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，针对 4 个 {argument name="topic" default="极限运动"} 执行此操作：<isometric_diorama_topology>        [ AI_INFER: 屋顶 / 遮阳篷 ]       /                             /|      /   [ W ] [ O ] [ R ] [ D ]   / |  <-- 文字构成后墙。     /    (AI_INFER: 搁板/道具)/  |      材质与 [TOPIC] 相匹配。    +-----------------------------+   |    |                             |   |    |      [ AI_INFER: 微缩 ]     |   +    |      [ 角色姿势 ]     |  /    |                             | /    +-----------------------------+/    [ AI_INFER: 主题底座 ] </isometric_diorama_topology>  指令：  1. 渲染为桌面上的写实物理比例模型。 2. [WORD] 的字母必须是厚实的建筑风格块状结构。 3. 温暖舒适的灯光从结构内部发出。
+
+[English]
+2x2 grid, 16:9, do this for 4 {argument name="topic" default="extreme sports"}: <isometric_diorama_topology>        [ AI_INFER: ROOFING / AWNINGS ]       /                             /|      /   [ W ] [ O ] [ R ] [ D ]   / |  <-- Text forms the back wall.     /    (AI_INFER: Shelves/Props)/  |      Materials match [TOPIC].    +-----------------------------+   |    |                             |   |    |      [ AI_INFER: Mini ]     |   +    |      [ Character Pose ]     |  /    |                             | /    +-----------------------------+/    [ AI_INFER: Themed Floor Base ] </isometric_diorama_topology>  INSTRUCTION:  1. Render as a photorealistic, physical scale model on a desk. 2. The letters of [WORD] must be thick, architectural blocks. 3. Warm, cozy lighting glows from inside the structure.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2095576056077914552) | 2026-09-03
+
+---
+

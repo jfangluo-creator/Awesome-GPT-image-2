@@ -31440,3 +31440,624 @@ Create a cinematic astrophotography-style educational space poster of the Horseh
 
 ---
 
+### 🎴 例 7341：复古植物学勿忘我海报
+
+![复古植物学勿忘我海报](../images/%E5%A4%8D%E5%8F%A4%E6%A4%8D%E7%89%A9%E5%AD%A6%E5%8B%BF%E5%BF%98%E6%88%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张印在米色纸张上的科学植物学海报。画面中心是一朵巨大的 {argument name="flower" default="勿忘我"} 水彩画，包含根部，茎和花瓣上带有细小的编号标签。顶部为斜体衬线字体标题："FORGET-ME-NOT"。副标题："A FIELD PLATE"。底部："{argument name="plate number" default="PLATE VII · 1887"}"。边缘处有铅笔笔记。米色、靛蓝色、绿色，2:3 纵横比。
+
+[English]
+A scientific botanical poster on cream paper. A single oversized {argument name="flower" default="forget-me-not"} painted in watercolor, roots and all, with tiny numbered labels on stem and petal. Title in italic serif at the top: "FORGET-ME-NOT". Subtitle: "A FIELD PLATE". Bottom: "{argument name="plate number" default="PLATE VII · 1887"}". Pencil notes in the margin. Cream, indigo, green, 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2095583733264879803) | 2026-09-03
+
+---
+
+### 🎴 例 7344：贝壳纹理像素艺术设计海报
+
+![贝壳纹理像素艺术设计海报](../images/%E8%B4%9D%E5%A3%B3%E7%BA%B9%E7%90%86%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分先理解原照片最值得被记住的**主体、基本构图、透视关系、结构走势、视觉记忆点与整体气氛**，再重构为具有材料拼贴感的极简像素景观。不要完整复制照片，而是删去无关细节，只保留最能代表原物的结构、走势和视觉记忆点，通过规则方块的秩序与天然材料质感重新概括，使人能够一眼识别它与上方照片之间的对应关系。
+
+像素模块不是标准数字色块，而像由**粗粝贝壳、贝壳薄片或天然矿物壳层切割而成的小型方形与近方形碎片**。保持明确的几何网格秩序，但边缘可略有崩缺、不完全规整，表面带天然层理、粉质颗粒、轻微凹凸、磨损与不均匀色泽，以哑光、自然、温和的材料感为主。主体核心区域由相对密集的模块聚合成形，边缘逐步减少、缺失、断开和漂浮，让形态从清晰向留白中自然逸散。严格控制模块总量，整体不超过200块，单个模块大小统一或接近统一，避免细碎噪点、标准马赛克和游戏像素感。
+
+构图保持**小尺度章印与大面积留白**的关系，根据主体自身的方向、比例和视觉重心自由安排位置，可偏心、贴边、悬置或局部裁切。主体约占下半部分30%–45%，其余空间主动留空。留白不是空背景，而是与主体、模块密度和消隐边界同等重要的构成元素，通过正负形、疏密、聚散和不对称平衡建立呼吸感、空间感与停顿感。宁可删减信息，也不要填满画面，让主体像一枚被精心安放在大片纸面上的材料章印。
+
+配色从上方照片中提取**最明亮、最鲜活、最有生命力的颜色重新调制**，而不是平均取色或忠实复制原始色值。整体适度提高明度、纯净度与通透感，根据原图自然推导出清澈天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等明快综合色，通过清爽冷暖关系形成温暖而治愈的色彩节奏。以大量纯净暖白或与原图综合色温协调的极浅近白色作为呼吸空间，主色明亮、有精神但不刺眼，局部暖橙、金黄、珊瑚红或柔粉可作为阳光般的点睛色。保留贝壳材料自身轻微天然色差与层理，但避免因此变灰、变旧或变脏。避免灰脏、发旧、低沉莫兰迪化、暗褐滤镜、阴郁大地色、荧光色和廉价糖果感。
+
+文字只作极少量编辑性介入，不限制语种，也不预设固定标题或编号。可从照片的主体、地点、动作、情绪或隐喻中自由提炼少量字词或短句，安静地置于留白或主体边缘，与材料模块形成精致的图文关系，不喧宾夺主。
+
+整体呈现**天然材料拼贴、贝壳质感像素、规则几何秩序、渐进消隐、小尺度章印、大面积艺术留白与现代编辑排版**共同构成的高级视觉效果，更像当代材料艺术与设计工作室的重构海报，而不是普通数字像素画。避免完整复制照片、复杂背景、真实细节、标准纯色色块、光滑矢量、塑料马赛克、强珠光、游戏UI感、画面填满、过多文字和模板化效果。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2095566278752977060) | 2026-09-03
+
+---
+
+### 🎴 例 7349：复古旅行记忆海报
+
+![复古旅行记忆海报](../images/%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于 {argument name="location" default="[地点]"} 的文字描述，创作一张严格遵循 3:4 比例的竖版旅行记忆拼贴海报。
+
+将海报分为上下两个部分。
+
+上半部分 — 约 50%：创作一张 {argument name="location" default="[地点]"} 的高级旅行摄影风格场景，展示其最具辨识度的地标、环境、氛围、建筑及当地特色。画面需真实、具有电影感、构图自然且地理特征鲜明。
+
+下半部分 — 约 50%：在温暖的米白色无涂层纸张上，创作同一地点的纯手工旅行记忆插画，四周保留 4–5% 的留白边距。在左侧 66–68% 的区域，放置一张大型、近乎正方形且无边框的插画，主体为最具辨识度的地标或对象。在其下方留出一道浅色纸带，并居中放置 3 个简短的英文关键词，格式为“Keyword1·Keyword2·Keyword3”。
+
+在右侧 30–32% 的区域，排列 6 张独立的旅行日记贴纸，灵感源自 {argument name="location" default="[地点]"} 的真实视觉元素：地标细节、人物/动物变体、环境、建筑/结构、功能性物品以及氛围/比例元素。每张贴纸需带有略微不规则的暖白色手剪边缘及细微的纸张阴影。
+
+采用统一的 {argument name="aesthetic style" default="哑光水粉 + 剪纸 + 孔版印刷/丝网印刷"} 美学风格，呈现粗颗粒感、略微粗糙的边缘、细微的印刷套色偏差、充裕的留白，并仅使用 5–8 种低饱和度色彩。将场景简化为大面积的简洁形状、宁静的色块、成组的植被、扁平的建筑形态以及简单的无脸剪影。
+
+将 {argument name="location" default="[地点]"} 最具辨识度的地标作为识别锚点，保留其独特的轮廓、比例和标志性色彩。以相同的扁平、颗粒感媒介重新绘制所有元素。
+
+仅包含 3 个关键词，如有必要可包含一个地标名称。不得出现其他可读文字、标题、日期、说明文字、地址、价格、水印或签名。
+
+避免使用渐变、3D 效果、动漫、精致的矢量艺术、剪贴画、水彩晕染、湿马克笔纹理、插画部分的写实渲染，或无关元素。
+
+最终设计应呈现出安静、克制、复古、手工、质感与高级感——仿佛一张旅行明信片与收藏级贴纸页的结合。
+
+[English]
+Create a strict 3:4 vertical travel-memory collage poster based entirely on the written description of {argument name="location" default="[LOCATION]"}.
+
+Divide the poster into two horizontal halves.
+
+TOP HALF - ~50%: Create a premium travel photograph-style scene of {argument name="location" default="[LOCATION]"}, showing its most recognizable landmark, environment, atmosphere, architecture, and local character. Make the scene realistic, cinematic, naturally composed, and geographically recognizable.
+
+BOTTOM HALF — ~50%: Create a handmade travel-memory illustration of the same location on warm off-white uncoated paper, with a continuous 4–5% blank margin. On the left 66–68%, place one large, near-square, borderless illustration featuring the main recognizable landmark or subject. Below it, leave a pale paper strip and center exactly 3 short English keywords in the format “Keyword1·Keyword2·Keyword3”.
+
+On the right 30–32%, arrange exactly 6 separate travel-journal stickers inspired by authentic visual elements of {argument name="location" default="[LOCATION]"}: landmark detail, person/animal variation, environment, architecture/structure, functional object, and atmosphere/scale element. Give each sticker a slightly irregular warm-white hand-cut border and subtle paper shadow.
+
+Use a unified {argument name="aesthetic style" default="matte gouache + cut-paper + risograph/screen-print"} aesthetic with coarse grain, slightly rough edges, subtle print-registration shifts, generous negative space, and only 5–8 low-saturation colors. Reduce the scene into large clean shapes, calm color fields, grouped vegetation, flat architectural forms, and simple faceless silhouettes.
+
+Keep the most recognizable landmark of {argument name="location" default="[LOCATION]"} as the Identification Anchor, preserving its distinctive silhouette, proportions, and signature colors. Fully redraw everything in the same flat, grainy medium.
+
+Include only the 3 keywords and, if essential, one landmark word. No other readable text, titles, dates, captions, addresses, prices, watermarks, or signatures.
+
+Avoid gradients, 3D effects, anime, polished vector art, clip-art, watercolor bloom, wet-marker texture, photographic rendering in the illustration half, or unrelated elements.
+
+The final design should feel quiet, restrained, vintage, handmade, tactile, and premium - a travel postcard combined with a collectible sticker sheet.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2095524023103074749) | 2026-09-03
+
+---
+
+### 🎴 例 7353：日系 AI 提示词设计师海报
+
+![日系 AI 提示词设计师海报](../images/%E6%97%A5%E7%B3%BB%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的竖版宣传海报，用于展示 {argument name="character name" default="hirokaji"} 作为高级提示词设计与 AI 创意专家的身份。
+
+画布：竖版海报，比例约为 3:4，高分辨率，电影级日系科技广告风格。背景使用深海军蓝至黑色调，搭配电光蓝高光、发光粒子、镜头光晕以及类似网络连接的线条。
+
+布局：海报分为 4 个主要视觉区域：1) 占据顶部及背景上方的超大日文标题，并被画布边缘裁剪；2) 位于左下方前景的拟人化写实狗狗肖像；3) 中右侧充满魔法感的 AI/知识场景，包含书籍与光轨；4) 右下方的名称与社交账号排版。
+
+文字内容：背景使用巨大的白色粗体日文标题，极度压缩且具有海报感，内容为 {argument name="headline text" default="プロンプトを知の設計図に"}。在中心偏右位置放置较小的白色日文标语，内容为 {argument name="tagline text" default="AIの可能性を、誰でも再現できる形へ。"}。在右下角，以非常大的白色小写拉丁字母显示名称：{argument name="display name" default="hirokaji"}。在其正下方，添加较小的白色粗体社交账号：{argument name="social handle" default="@hirokaji_"}。
+
+主体细节：在左下方前景创建 1 只狗狗角色：一只写实的杰克罗素梗犬，白色面部，带有棕色耳朵和棕色斑块，深邃且富有表现力的眼睛，黑色鼻头，正视镜头，表情严肃而睿智。为狗狗穿上教授或提示词工程师风格的服装：共 3 件可见衣物——棕色粗花呢西装外套、挺括的白色衬衫以及海军蓝领结。
+
+物体与特效：在右侧包含 2 本悬浮的打开书籍，一本较大的打开书籍位于右上角附近，另一本较小的位于中右侧附近。在最右侧边缘靠近右下角处包含 1 叠书籍，由 4 本可见的书组成。在右下方中间位置斜向悬浮 1 支黑色钢笔。在右侧附近包含 2 张飞舞的白色散页纸。在中心偏右位置添加明亮的蓝白色光爆，连接着细长的发光网络线条、星点以及扫过的蓝色能量波。
+
+视觉风格：写实的狗狗与服装，结合光泽感十足的电影级科幻海报背景。高对比度，焦点清晰地聚焦在狗狗身上，醒目的白色排版，强烈的电光蓝灯光，动态的对角线构图，展现出专业日系杂志封面的质感。
+
+约束条件：所有文字必须为白色且加粗。巨大的日文标题必须占据上半部分，并进行部分裁剪以增强视觉冲击力。除指定的标题、标语、名称和账号外，不得添加额外的人物、动物、Logo、水印或其他可读文字。
+
+[English]
+Goal: Create a dramatic vertical promotional poster for {argument name="character name" default="hirokaji"}, presenting them as an expert in advanced prompt design and AI creativity.
+
+Canvas: Portrait poster, approximately 3:4 aspect ratio, high-resolution, cinematic Japanese tech-advertising style. Use a deep navy-to-black background with electric blue highlights, glowing particles, lens flares, and network-like lines.
+
+Layout: The poster has 4 main visual zones: 1) a huge oversized Japanese headline filling the top and upper background, cropped by the canvas edges; 2) a realistic anthropomorphic dog portrait occupying the lower-left foreground; 3) a magical AI/knowledge scene with books and light trails across the middle-right; 4) name and handle typography at the lower-right.
+
+Text content: Use a massive bold white Japanese headline in the background, extremely condensed and poster-like, reading {argument name="headline text" default="プロンプトを知の設計図に"}. Place a smaller white Japanese tagline near the center-right reading {argument name="tagline text" default="AIの可能性を、誰でも再現できる形へ。"}. At the bottom-right, set the name in very large lowercase white Latin letters: {argument name="display name" default="hirokaji"}. Directly below it, add the handle in smaller bold white text: {argument name="social handle" default="@hirokaji_"}.
+
+Subject details: Create exactly 1 dog character in the lower-left foreground: a realistic Jack Russell terrier with a white face, tan ears and tan patches, dark expressive eyes, black nose, looking straight at the viewer with a serious intelligent expression. Dress the dog like a professor or prompt engineer: exactly 3 visible clothing pieces — a brown tweed blazer, a crisp white dress shirt, and a navy blue bow tie.
+
+Objects and effects: Include exactly 2 open floating books on the right side, one larger open book near the upper-right and one smaller open book near the mid-right. Include exactly 1 stack of books at the far right edge near the lower-right, made of 4 visible books. Include exactly 1 black pen floating diagonally near the lower-middle-right. Include exactly 2 loose white paper sheets flying near the right side. Add a bright blue-white burst of light near the center-right, connected to thin glowing network lines, star points, and sweeping blue energy waves.
+
+Visual style: Photorealistic dog and clothing combined with a glossy cinematic sci-fi poster background. High contrast, sharp focus on the dog, bold white typography, intense electric blue lighting, dynamic diagonal motion, professional Japanese magazine-cover energy.
+
+Constraints: Keep all typography white and bold. The huge Japanese headline must dominate the top half and be partially cropped for impact. Do not add extra people, extra animals, logos, watermarks, or additional readable text beyond the specified headline, tagline, name, and handle.
+```
+
+**来源：** [@癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2095494195092115542) | 2026-09-03
+
+---
+
+### 🎴 例 7371：四人自助洗衣店时尚大片
+
+![四人自助洗衣店时尚大片](../images/%E5%9B%9B%E4%BA%BA%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的极简现代自助洗衣店时尚编辑肖像，采用 2:3 竖构图，柔和的自然商业光影，中性奶油色与白色调，呈现精致的时尚大片氛围。展示同一位 {argument name="character description" default="留着黑色短寸发、身材苗条、神情冷静严肃的成年黑人男性"} 的四个版本，均佩戴深色长方形太阳镜，身着协调的单色米白色街头服饰，包括叠穿长袖衬衫、宽松奶油色长裤和白色运动鞋。将这四个形象自然地安排在一排白色滚筒洗衣机前：1) 左侧人物站立，单手插兜，随意倚靠在洗衣机旁，身体略微向内倾斜；2) 上方中心人物坐在洗衣机顶部，双腿分开，双手垂在膝盖间；3) 前方中心人物坐在简约木椅上，双腿交叠，双手自然放在膝盖上；4) 右侧人物站立，双臂交叉，双腿交叠，倚靠在洗衣机附近。洗衣店应配有白色橱柜、清晰可见的大型圆形镀铬洗衣机门、精致的控制面板、奶油色墙壁、天花板附近的白色明管以及水磨石地面。造型风格应呈现出 {argument name="brand mood" default="极简奢华男装"} 的高端时尚大片质感，具备清晰的织物纹理、逼真的皮肤细节、洗衣机玻璃上准确的反射效果，并确保四个形象的身份特征高度一致。使用干净的编辑视角，平视拍摄，全身至四分之三构图，景深适中且清晰，画面中无文字、无 Logo、无额外人物、无肢体畸变，且除预期的四个版本外，无重复面孔。
+
+[English]
+Create an ultra-realistic editorial fashion portrait in a minimalist modern laundromat, vertical 2:3 composition, soft natural commercial lighting, neutral cream and white color palette, polished fashion-campaign mood. Show exactly four versions of the same {argument name="character description" default="adult Black man with short cropped black hair, slim build, calm serious expression"}, all wearing dark rectangular sunglasses and coordinated monochrome off-white streetwear with layered long-sleeve shirts, loose cream trousers, and white sneakers. Arrange the four figures naturally among a row of white front-loading washing machines: 1) left figure standing and leaning casually against a washer with one hand in pocket, body angled slightly inward; 2) top center figure sitting on top of the washing machines with legs apart and hands hanging between knees; 3) front center figure sitting on a simple wooden chair with legs crossed, hands relaxed on lap; 4) right figure standing with arms crossed, one leg crossed over the other, leaning near the machines. The laundromat should have white cabinetry, visible large round chrome washer doors, subtle control panels, cream walls, exposed white pipes near the ceiling, and a speckled terrazzo floor. Styling should feel like a high-end fashion campaign for {argument name="brand mood" default="minimal luxury menswear"}, with crisp fabric texture, realistic skin detail, accurate reflections in the washer glass, and consistent identity across all four figures. Use a clean editorial camera perspective at eye level, full-body to three-quarter framing, shallow but readable depth of field, no text, no logos, no extra people, no distorted limbs, and no duplicate faces beyond the intended four versions.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2095415961788588508) | 2026-09-03
+
+---
+
+### 🎴 例 7374：动漫语音 AI 海报
+
+![动漫语音 AI 海报](../images/%E5%8A%A8%E6%BC%AB%E8%AF%AD%E9%9F%B3%20AI%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张原创的高级感 3:4 广告海报，用于语音与 AI 创作者宣传，而非社交媒体界面。以一位动漫风格的女性主角作为唯一的中心主体，保留可识别的头像式特征，并采用光泽感的数字插画媒介。
+
+画布：竖版 3:4 海报，高冲击力的电影感构图，深黑色背景搭配亮粉色点缀，尺寸类似于高级社交广告。
+
+主体：一位英姿飒爽的动漫少女，留着带有粉色挑染的浅棕色短波波头，齐刘海，明亮的粉色双眸，带着自信的浅笑。身穿黑色军装风格外套，配有华丽的金色肩章、金边、装饰链条和星形胸针。她正以戏剧性的透视角度将一把大型步枪直接对准观众，枪管占据画面下方中心前景，她的脸庞在瞄准镜后清晰可见。
+
+布局：将主角置于中右侧下半部分，呈向前倾斜姿态，仿佛要冲破海报。背景使用烟雾缭绕的废墟城市或演唱会舞台，带有模糊的灯光、火花、粉色粒子、镜头光晕，以及她身后发光的对角线能量条。在右下角添加亮粉色油漆划痕，并在画面中点缀小星形闪光。
+
+文字内容：使用 4 个可见的文字块。1) 顶部巨大的日文主标题，倾斜并略微裁剪以增强冲击力：「癒し声で、世界を動かす。」，其中「癒し声」为亮粉色，其余为粗体白色。2) 左侧较小的辅助文案，白色为主，粉色强调：「声とAIで、感動も、未来も、創り出す。」。3) 底部创作者名称，粗体白色和粉色：「癒音ちー✨ゆおんちー✨癒やし声ASMRとAI」，后跟一个小型的粉色认证徽章。4) 底部账号名，粉色：「@chi_vc_」。
+
+排版：使用巨大的日文压缩展示字体，字重厚实，充满强烈的海报广告感，带有细微的粗糙质感，配色为白色和亮粉色，带有强烈的投影和轻微的透视倾斜。确保主标题醒目且易读。
+
+视觉风格：高级动漫广告海报，电影级灯光，戏剧性的景深，清晰的面部细节，光泽感的眼睛，高对比度，黑/粉/白配色，充满活力的赛博偶像动作氛围，干净且专业。
+
+限制：不要重现 X 个人资料截图或任何社交媒体 UI。仅保留一名主角、一把武器，以及上述指定的 4 个文字块。不要添加额外的 Logo、水印或额外角色。
+
+[English]
+Goal: Create an original premium 3:4 advertising poster for a voice-and-AI creator, not a social media interface. Use one anime-style female protagonist as the single central subject, preserving a recognizable profile-icon-like identity and glossy digital illustration medium.
+
+Canvas: Vertical 3:4 poster, high-impact cinematic composition, dark black background with hot pink accents, sized like a premium social ad.
+
+Main subject: A fierce anime girl with short light brown bob hair with pink highlights, straight bangs, vivid pink eyes, a confident smirk, and a black military-inspired jacket with ornate gold epaulettes, gold trim, decorative chains, and a star-like brooch. She is aiming a large rifle directly toward the viewer in dramatic foreshortened perspective, with the gun barrel dominating the lower center foreground and her face sharply visible behind the scope.
+
+Layout: Place the protagonist in the center-right lower half, angled forward as if breaking through the poster. Use a smoky ruined-city or concert-stage background with blurred lights, sparks, pink particles, lens flares, and a glowing diagonal energy streak behind her. Add hot pink paint slashes near the bottom right and small star-shaped sparkles across the image.
+
+Text content: Use exactly 4 visible text blocks. 1) Huge Japanese hero headline across the top, tilted and cropped slightly for impact: 「癒し声で、世界を動かす。」 with 「癒し声」 in bright pink and the rest in bold white. 2) Smaller left-side supporting copy in white with pink emphasis: 「声とAIで、感動も、未来も、創り出す。」. 3) Bottom creator name in bold white and pink: 「癒音ちー✨ゆおんちー✨癒やし声ASMRとAI」 followed by a small pink verification-like badge. 4) Bottom handle in pink: 「@chi_vc_」.
+
+Typography: Use massive condensed Japanese display lettering, heavy weight, sharp poster-ad energy, subtle rough texture, white and hot pink palette, strong drop shadows and slight perspective tilt. Keep the headline dominant and readable.
+
+Visual style: Premium anime advertising poster, cinematic lighting, dramatic depth of field, sharp face detail, glossy eyes, high contrast, black/pink/white color scheme, energetic cyber-idol action mood, clean professional finish.
+
+Constraints: Do not recreate an X profile screenshot or any social media UI. Keep only one protagonist, one weapon, and exactly the four text blocks listed. No extra logos, no watermark, no additional characters.
+```
+
+**来源：** [@癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2095405324278902805) | 2026-09-03
+
+---
+
+### 🎴 例 7375：几何抽象解构海报
+
+![几何抽象解构海报](../images/%E5%87%A0%E4%BD%95%E6%8A%BD%E8%B1%A1%E8%A7%A3%E6%9E%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，重构为**方块化、模块化的几何解构插画**。不要完整复制照片，也不要写实描摹，而是删去无关细节，只保留最能代表原物身份与气质的视觉记忆点，通过几何概括、形状叠压与拼贴式重组重新建立形象，使人能够一眼识别它与上方照片之间的对应关系。
+
+整体造型强调**方块感、模块感、几何切分与完整大块面**。几何拆分不要过碎，不要切成大量零散小块，而应以更少、更大、更完整的矩形、方形、圆角方块、椭圆、三角形和不规则块面组织主体。人物可表现为方形面部、清晰下颌线与块面五官；建筑可转化为方整体量、立面分区、窗洞节奏与结构转折；动物、植物、器物和景观也应提炼为具有方块秩序与模块关系的几何形体。允许适度夸张与变形，但整体必须成熟、克制、简洁，避免琐碎化、幼稚化和拼得太散。
+
+整体造型采用**扁平色块 + 拼贴感构成 + 现代主义几何语言**。色块像纸片一样被重新拼接，形成鲜明但有秩序的剪贴感；复杂背景主动删除，只保留少量必要形状或辅助块面，不形成第二视觉中心。
+
+构图保持**小尺度主体 / 大面积留白**的关系，根据主体自身的方向、比例、视觉重心与结构走势自由安排位置，可偏心、贴边或局部裁切，但始终保持清晰主次、疏密节奏与编辑式平衡。画面整体重视正负形、块面轻重、留白呼吸与版式秩序，让下半部分既有艺术感，也有高级出版物气质。
+
+材质呈现**温和纸张颗粒与轻微版画印刷感**：在几何色块之上保留细腻纸感、柔和噪点与轻微印刷质感，使画面更接近纸本拼贴或艺术印刷作品。避免光滑矢量、3D渲染、照片滤镜和过度精修。
+
+配色从上方照片中提取 **2–4 种最有辨识度、最讨喜、最能体现主体气质的颜色** 重新整理为更高级的配色系统。整体可适度提亮、提纯、去灰，转化为**{argument name="背景色" default="奶油白"}、{argument name="色块风格" default="杏色、蜜桃粉、珊瑚橙、雾蓝、灰绿、鼠尾草绿、暖棕、柔紫"}**等更轻盈、现代、耐看的色块关系。主色鲜明但不刺眼，辅助色温柔而有层次，整体气质干净、温暖、时髦、亲和，避免土黄、脏灰、暗褐、荧光色、廉价糖果感和杂乱配色。
+
+文字少量介入，不限制语种。可根据主体身份、地点、情绪、气质或象征意义，自由提炼简短标题、小字注释、编号或说明片段。文字应小、轻、克制，自然落在留白区域或版面边角，与图形共同形成精致的图文关系，不做商业标题堆砌。
+
+整体呈现**完整大块面的几何解构、克制拼贴、柔和高级配色、纸本颗粒、大面积留白与编辑式排版**共同构成的视觉效果。无论主体是人物、建筑、动物、植物、器物或自然景观，都应保持清晰身份、模块化几何秩序与统一的艺术语言。避免写实描摹、过碎切割、幼稚拼贴、复杂透视、过密细节、卡通感、3D感、模板化海报感和廉价文创感
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2095404598718857641) | 2026-09-03
+
+---
+
+### 🎴 例 7384：复古像素工业旅行档案
+
+![复古像素工业旅行档案](../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E5%B7%A5%E4%B8%9A%E6%97%85%E8%A1%8C%E6%A1%A3%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+请将上传的每一张旅行照片分别制作成一张独立的3:4竖版“复古像素工业旅行档案”编辑海报。每张照片单独输出，不进行多图拼贴。
+
+这套风格不是把整张照片直接像素化，也不是给照片套上普通电脑边框。必须先从原照片中拆分出3至7个决定场景身份的真实对象，再将它们转化为像素精灵、局部预览、数据索引和结构切片，并放入一套完整运行的旧式电脑软件中重新拼装。
+
+上方约占画面30%至38%，保留清楚可辨的原始照片。准确保持主体身份、建筑结构、数量、观察角度、空间关系、真实材质、自然光影和地点色彩。仅进行轻微艺术出版物调色与薄胶片颗粒处理，不得插画化、重构或改变原照片。
+
+照片下方保留一条约7%至10%的炭黑或暗橄榄色呼吸带，在其中加入一个1至4个英文单词的可读像素标题。标题应来自照片的真实结构或主题，例如：
+
+HEAVEN AXIS
+ROOF SYSTEM
+LAKE PAVILION
+CANAL OBJECTS
+
+下方约占画面50%至60%，构建一套完整的20世纪80年代末至90年代初图形工作站软件。主底色必须是肉眼可辨的深森林绿、墨青绿或褪色橄榄绿，不能铺成纯黑。
+
+电脑区域必须同时具备：
+
+1. 一个占据下方主要面积的完整主应用窗口；
+2. 旧象牙色或烟草金色窄边框；
+3. 横贯整个应用顶部的系统菜单栏；
+4. 菜单文字逐字使用：
+ FILE EDIT VIEW DATA TOOLS WINDOW HELP
+5. 至少一个被选中的菜单；
+6. 一个与选中菜单直接相连的展开式下拉菜单；
+7. 下拉菜单可使用：
+ IMPORT…
+ EXPORT…
+ LAYERS…
+ FILTER…
+ COLOR MAP
+ STATISTICS…
+ PRINT…
+8. 至少三个互相遮挡的功能子窗口；
+9. 每个子窗口都有标题栏、关闭按钮和明确功能；
+10. 至少一个窗口拥有清楚的滚动条、箭头按钮和滑块；
+11. 至少一个对象索引、色卡表、柱状图或状态窗口。
+
+先分析照片并列出可以拆分的对象。例如：
+
+传统建筑照片：
+主屋顶、次屋顶、斗拱色带、山墙、台阶、栏杆、红墙。
+
+园林照片：
+亭阁、山石、湖岸、游船、树枝、屋顶碎片。
+
+水乡照片：
+石桥、临水木屋、阳台、瓦顶、水面、倒影、岸线。
+
+人物或交通照片：
+人物、车辆、道路、建筑立面、标志物和动作方向。
+
+将这些真实元素分别转换为低分辨率像素精灵或结构模块。保留对象的轮廓、方向、数量和标志色，但删除微小纹理。中央工作区重新调整对象的大小和位置：主对象可以被放大成为视觉锚点，其他对象像可以移动的图层一样围绕它排列。
+
+不要沿用原…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095366987933454749) | 2026-09-03
+
+---
+
+### 🎴 例 7385：实景嵌入式手绘海报
+
+![实景嵌入式手绘海报](../images/%E5%AE%9E%E6%99%AF%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%89%8B%E7%BB%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张旅行照片分别制作成一张独立的“实景嵌画手稿”作品。每张照片单独输出，禁止把多张照片拼接在同一画面中。
+
+整体采用3:4竖版构图。
+
+这不是上下双联海报，也不是左图右图对比。原始照片应铺满整张画面，一张规则、平整的暖白色绘画纸作为真实前景物件覆盖在照片内部，使照片中的真实主体与纸上的同主体手稿同时出现。
+
+## 原始照片
+
+完整保留原始照片中的主体身份、人物或动物数量、姿态、动作方向、服装主色、车辆或船只结构、建筑关系、地形、观察角度、自然光影和真实材质。
+
+原照片必须铺满全幅并保持清楚可辨，只进行轻微的艺术出版物、旅行杂志或摄影展调色，以及极薄的胶片颗粒。
+
+不得把原照片重画成插画，不得移动人物、改变姿态、替换建筑、增减主体、扭曲车辆或重新设计环境。
+
+## 前景画纸
+
+在照片内部放置一张规则的暖白色矩形绘画纸。
+
+画纸位于照片与观者之间，是整个画面的最前层。照片中的人物、车辆、船只、建筑、树木和其他物体都不能穿到纸张前面，也不能覆盖、切断或遮住纸张边缘。
+
+画纸可以遮住照片主体或环境的一部分，但纸张外部必须保留足够的真实主体轮廓、服装、动作、车辆结构、船体、道路或周边环境，使观者能够同时看到：
+
+1. 真实照片中的原始主体；
+2. 纸张上对同一主体的手稿转绘。
+
+画纸占整张画面宽度约45%–65%、高度约38%–58%，根据原照片主体位置放置在中央、偏左、偏右或偏上区域。
+
+画纸可以使用竖向或横向比例，但必须满足：
+
+- 四条边笔直、完整并互相平行；
+- 四个角清楚、规整；
+- 纸张比例稳定；
+- 具有真实 but 克制的纸张纤维；
+- 只有极薄的侧边厚度；
+- 与照片之间产生轻微接触阴影。
+
+禁止撕纸边、毛边、邮票齿孔、异形模切、卷曲纸角、折叠纸角、波浪边、破损缺口、相框、平板电脑或悬浮数字屏幕。
+
+## 纸上手稿
+
+纸张上的绘画必须对应照片中的同一主体和同一个瞬间。
+
+准确提取主体最关键的：
+
+- 整体轮廓；
+- 姿态与动作方向；
+- 身体或物体重心；
+- 服装或物件主色；
+- 一至两条必要环境关系线。
+
+人物保持原照片中的姿态、朝向、数量及彼此关系。车辆、船只和建筑保持最重要的身份结构和方向。
+
+不要把完整照片缩小后重新画进纸张，也不要描绘所有建筑、树林、窗户、路人和背景。纸面只保留一个主要视觉锚点及一至三条环境线索。
+
+手稿主体集中在纸面中下部或一侧，画纸内部约45%–70%保持未经绘制的暖白色留白。
+
+## 绘画媒介
+
+使用具有明显手工痕迹的旅行速写语言：
+
+- loose colored pencil;
+- expressive markers;
+- minimalist outlines;
+- light watercolor washes;
+- elegant line art;
+- high-fashion sketch.
+
+通过以上技法展现出一种松弛、高级感且极简的艺术氛围。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095366838289137994) | 2026-09-03
+
+---
+
+### 🎴 例 7387：织物拼贴旅行记忆海报
+
+![织物拼贴旅行记忆海报](../images/%E7%BB%87%E7%89%A9%E6%8B%BC%E8%B4%B4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张旅行照片分别制作成一张独立的高级布艺拼贴记忆海报，每张照片单独输出，不多图拼接。整体采用3:4竖版构图，成品中必须同时出现清楚可辨的原始摄影与同场景布艺转绘。
+
+上方保留原始照片约46%–52%，忠实保持主体身份、数量、姿态、建筑结构、山水层次、地平线、道路、水面、真实材质、自然光影和原有色彩，只进行轻微旅行杂志与艺术出版物调色。不得拉伸、镜像、改变主体或把照片画成插画。
+
+下方使用温暖的天然亚麻、旧棉布或褪色织物作为基底。先理解照片中真正决定识别度的山脊、云层、建筑、树群、水面、道路、人物、动物或车辆，再将复杂场景压缩成4–8个主要布层。使用褪色棉布、粗亚麻、牛仔、格纹布、灯芯绒、旧衬衫布、纱布和极少量毛线重新组织同一场景；每块布都必须对应照片中的真实空间关系，不添加无关装饰。
+
+布层保留真实经纬纹、洗旧褪色、毛边、抽丝、折痕、补丁叠压与轻微厚度。使用不均匀手缝线、锁边、回针和少量刺绣线强调主体轮廓、山脊、倒影或运动方向。针脚可以迟疑、松动、疏密不一，但不要做成精致工艺品样板。人物和动物只用小块布与线迹概括，保持数量、姿态和方向，不描绘五官。
+
+下方采用实体结构化的二次构图：主体布艺拼贴占转绘区约58%–76%，可以缩小成一块独立布景或以少量大布层形成强轮廓，不要沿用照片的完整取景等比例重做。拼贴周围至少保留25%–40%连续可见的亚麻或旧棉布空场。
+
+颜色完全从原照片提取并柔化，优先保留地点最有识别度的一处颜色，其余统一为低至中等饱和的旧织物色。不要固定套用乡村碎花或橙蓝色盘。
+
+在下方留白中加入一个1–3个英文单词标题、一个织标式编号和一行5–10个英文单词观察句。标题像略微不齐的手绣字，字段与观察句像缝在底布上的旧织标或细针脚文字，正常预览尺寸下清楚可读。文字必须来自照片真实可见的地点、动作、天气或色彩；无法确认地点时使用场景主题，不虚构地名和日期。
+
+整体气质温暖、安静、手工、旧物感，具有被保存下来的旅行记忆。
+
+强制避免：纸拼贴、撕纸边、纯毛毡画、簇绒地毯、钩针玩偶、精致刺绣样板、蕾丝纽扣、手账杂物、印刷照片补丁、光滑矢量色块、塑料合成布、儿童手工、下半完全铺满、固定日落配色、作者名、签名、Logo、二维码、水印、乱码。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095366017287631021) | 2026-09-03
+
+---
+
+### 🎴 例 7391：像素化风景编辑海报
+
+![像素化风景编辑海报](../images/%E5%83%8F%E7%B4%A0%E5%8C%96%E9%A3%8E%E6%99%AF%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张旅行照片分别制作成一张独立的高级编辑海报，不多图拼接，每张照片单独输出。 整体采用3:4竖版上下对比构图，上下两个区域约为1:1，中间以笔直、清楚、干净的水平边界分隔。不要羽化、渗透或叠层，不要把原图缩成角标、圆角卡片或悬浮缩略图。 上半部分必须保留高保真的原始照片。准确保持主体身份与数量、建筑轮廓、屋顶与门窗比例、人物姿态、车辆、桥梁、船只、道路方向、前后遮挡、观察角度、真实材质、自然光影和原有色彩氛围。仅进行轻微、克制的旅行杂志、艺术出版物或摄影展级调色，并加入极薄胶片颗粒。不得把照片画成插画，不得移动、替换、增删或扭曲主体，不得改变建筑和街道透视。 下半部分在温暖米白或浅象牙色纸面上，将同一场景重新组织为一幅具有大量留白的“人工像素消隐景观”。这不是照片马赛克滤镜，也不是把整张照片降低分辨率。 先从照片中选择一个最有识别度的视觉锚点，例如一座桥、一段彩色立面、一座穹顶、一辆摩托车、一辆自行车、一艘船、一个门楼或一组明确屋顶，再只保留能够说明地点和空间关系的最少元素。 采用缩小提炼的二次构图：主体通常只占转绘区宽度约30%–50%、高度约30%–50%，集中在中下部、偏左或偏右，并依据原照片的方向自然安排。四周保留至少约50%–65%的完整米白纸面。 不要把原始街景完整铺满下半区域。背景只保留两三层稀疏像素暗示。删除重复窗格、瓦片细纹、招牌小字、游客杂影、密集管线、枝叶与摄影噪声，但不得删掉决定主体身份的屋檐、桥拱、穹顶、车辆轮廓、人物姿态或道路方向。 使用边缘清楚、正方或近似正方的离散像素块重新搭建形体： - 以中等尺寸像素块建立主体的大轮廓、体量、明暗和主要色面。 - 在屋檐、塔尖、穹顶边缘、门窗比例、桥拱、人物姿态、车轮、船头等识别关键处使用更小、更密的像素块。 - 在建筑外缘、植被、路面、水面、倒影和远景处逐渐减少像素密度，使方块断开、错位、散落并消失到纸面。 - 主体内部相对完整，外围形成清楚的像素消隐带。 - 消隐必须来自独立方块数量与密度的下降，不得使用柔焦、羽化、烟雾、透明渐变或像素拉伸。 - 少量离散方块可以沿屋檐、道路透视、水流、地形或运动方向离开主体，但不能成为随机数字故障。 配色完全从当前照片提取并压缩为约6–12个主色阶。保留主体最具识别度的1–3个颜色，再用相邻深浅色建立体积。 环境色降低饱和度，并向自然灰、石灰色、灰蓝、灰绿、木褐或照片自身的建筑色统一。可以将照片中真实存在的一处小面积高饱和色作为视觉跳点，例如尾灯、门窗或服装颜色。 米白纸面必须是转绘区的最大色…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095361745607139783) | 2026-09-03
+
+---
+
+### 🎴 例 7396：旅行浮雕印刷海报
+
+![旅行浮雕印刷海报](../images/%E6%97%85%E8%A1%8C%E6%B5%AE%E9%9B%95%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请以当前上传的一张照片为唯一参考，在一次图像编辑生成中，将其制作成一张完整、独立的高级旅行设计海报。不要添加其他参考照片，不要多图拼接、九宫格或生成海报展示样机。只输出海报正面本身。一、整体版式 采用精确3:4竖版构图。画面上下分成两个高度接近1:1的水平区域，各占整体约50%。分界清晰、水平、克制，不要让上下内容相互侵占。上半部分为高保真真实摄影区。下半部分为同一照片的“TRAVEL RELIEF PRINT”限色旅行浮雕版画区。上下必须表现同一个地点、同一主体和同一段旅行记忆。二、上半部分：高保真保留原照片 上半部分必须忠实保留当前上传的原始照片。准确保持：- 主体身份和数量 - 人物或动物的姿态、动作与方向 - 建筑结构、地形和街道方向 - 交通工具及核心物体 - 原始观察角度和空间透视 - 重要物体的相对位置 - 真实材质 - 自然光影 - 原有色彩氛围 上半必须明确看起来仍是一张真实摄影作品，不能变成版画、插画、绘画或AI重建照片。只允许进行非常轻微、克制的高级摄影调色、动态范围整理和极薄胶片颗粒，使照片具有独立旅行杂志、建筑摄影、艺术出版物和摄影展览的质感。为适配上半区域，可以自然延展天空、地面或周边环境，但延展内容必须符合原照片的透视、纹理、光线和空间方向。不得拉伸、挤压、扭曲、镜像、复制主体、改变人物、移动物体、重塑建筑、替换天空或使用模糊照片副本填充边缘。如果自然延展不合理，宁可使用与整张海报一致的干净象牙色纸张边距，也不要破坏原照片。三、下半部分：TRAVEL RELIEF PRINT 下半部分使用温暖的奶油色或象牙色天然版画纸背景。纸张应具有：visible paper grain, subtle paper fibers, slightly rough matte surface, warm archival paper, natural pigment absorption. 从上半照片中选择一个最具识别度的主体，或者一个能够代表照片含义的场景整体，将其重新制作成一枚独立悬浮在纸面上的“旅行版画印记”。保留决定原照片识别度的：- 主体外轮廓 - 姿态或行进方向 - 主要明暗分区 - 透视方向 - 关键结构 - 材质纹理节奏 - 标志性色彩 - 最重要的空间关系 主动删除：- 复杂背景 - 重复建筑结构 - 大量窗户 - 密集人群 - 无关车辆 - 微小招牌 - 杂物 - 细碎纹理 - 次要物体 - 无法准确生成的文字 下半部分必须呈现出：Relief print texture, woodcut style, linocut aesthetics, ink stamp texture, hand-pressed feel, slightly irregular edges, high-contrast, bold blocks of color, artisanal craftsmanship, screen print overlap. 整个画面底色统一，不要有强烈的塑料反光。禁止出现：任何现代 UI、文字、排版设计元素（如标题、日期、坐标、价格、Logo等）。保持海报的绝对纯净，仅保留视觉图像本身。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095357277155078651) | 2026-09-03
+
+---
+
+### 🎴 例 7397：双风格湖畔地形海报
+
+![双风格湖畔地形海报](../images/%E5%8F%8C%E9%A3%8E%E6%A0%BC%E6%B9%96%E7%95%94%E5%9C%B0%E5%BD%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将当前上传的照片制作成一张独立的高级设计海报。每张照片单独生成一张，禁止多图拼接、九宫格、相框、墙面展示或海报 Mockup，只输出海报正面。
+
+【整体版式】
+
+采用3:4竖版构图。
+
+画面上下划分为两个高度严格接近1:1的区域，各占整体约50%。分界水平、清晰、克制，上下内容不得跨越中间分界线。
+
+上半为高保真摄影区，下半为同一主体的 {argument name="艺术风格" default="LAKESIDE TERRAIN"} 风格化艺术区。
+
+【上半部分：高保真照片】
+
+上半部分忠实保留上传的原始照片。
+
+准确保持：
+
+- 主体身份与主体数量
+- 建筑、人物、动物或景观的主要结构
+- 原始姿态、方向和空间位置
+- 地形、道路、岸线、水面和环境关系
+- 真实材质、自然光影与原有色彩氛围
+- 原始摄影角度、透视和构图含义
+
+上半必须明确看起来仍是真实摄影作品，而不是插画、AI重建、绘画滤镜或风格化复制。
+
+仅进行轻微高级摄影调色、克制的动态范围整理和极薄胶片颗粒，使其具有建筑杂志、旅行杂志、艺术出版物和摄影展览质感。
+
+不得移动、替换、增加、删除或重新设计主体。
+
+不得改变建筑结构、人物面貌、动作、地形或物体之间的位置关系。
+
+为适配上半横向区域，可自然延展天空、地面、水面或周边环境，但必须延续原图的透视、光线、纹理和空间方向。
+
+禁止拉伸、挤压、扭曲、镜像、重复主体或使用模糊照片副本补边。若自然延展会显得虚假，允许保留与海报一致的干净米白色边距。
+
+【下半部分：LAKESIDE TERRAIN】
+
+在温暖的象牙色天然纸张上，将上半照片中的同一主体重新构建为高级极简建筑与景观原型研究。
+
+下半必须保持原照片中最具识别度的：
+
+- 主体身份
+- 主体数量
+- 核心轮廓
+- 主要体块与结构节奏
+- 姿态、方向与空间关系
+- 标志性色彩
+- 原始场景所表达的含义
+
+让人能够一眼认出下半来自上半照片，但不要复制全部摄影细节。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095357025966555361) | 2026-09-03
+
+---
+
+### 🎴 例 7405：剪纸拼贴风格海报设计
+
+![剪纸拼贴风格海报设计](../images/%E5%89%AA%E7%BA%B8%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="画幅" default="3:4"}竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为**新民艺剪纸拼贴风的扁平化插画**。不要完整复制照片，而是删去无关细节，只保留最能代表原物的结构、走势与视觉记忆点，通过剪影、色块、刻线、正负形和少量层叠重新概括，使人能够一眼识别它与上方照片之间的对应关系。主体、植物、建筑、动物、器物或环境元素都应像一块块独立彩纸被重新组合，造型可适度稚拙、符号化、几何化，不追求写实透视和复杂细节，而强调文化感、手工感与当代设计感。
+
+构图保持**小尺度主体 / 章印感主视觉 + 大面积留白**的关系，根据主体自身的方向、比例 and 视觉重心自由安排位置，可偏心、贴边或局部裁切，但始终保持清晰主次、疏密节奏和编辑式平衡。主体可集中于一侧或下方形成视觉落点，周围只保留极少量辅助元素，不形成多个同等焦点。
+
+材质呈现**剪纸拼贴 + 版画印刷感**：色块边缘可略带手工剪切感、轻微套印偏差、掉墨感和温和颗粒，保留纸张纤维与艺术纸底的质感，避免光滑矢量、3D渲染、照片滤镜和过度精修。背景以米白、暖白或浅纸色为主，保留安静、充足的留白空间。
+
+配色从上方照片中提取 **2–4 种最具辨识度** 的颜色，转化为**鲜明但克制、明快但不刺眼**的扁平色块系统；可适度提纯、提亮与整理，形成主色、辅助色和少量点睛色的清晰层级，既保留原图的情绪与身份，又具有民艺拼贴的当代高级感，避免灰脏、沉闷、廉价糖果感和杂乱配色。
+
+文字少量介入，不限制语种。可根据照片的主体、地点、情绪、文化意象或象征意义，自由提炼简短标题、小字注释、编号、色值标注或说明片段。文字应小、轻、克制，自然落在留白区域或版面边角，与图形共同形成精致的图文关系，不做商业标题堆砌。
+
+整体呈现**新民艺、剪纸拼贴、符号化造型、版画肌理、大面积留白与编辑式排版**共同构成的高级视觉效果，参考 contemporary folk-art illustration with paper-cut collage aesthetics, symbolic geometric forms, screen-print texture and editorial layout。避免写实插画、复杂透视、过密细节、卡通感、3D感、模板化海报感和廉价文创感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2095343081440911751) | 2026-09-03
+
+---
+
+### 🎴 例 7407：禅意极简风铃海报
+
+![禅意极简风铃海报](../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E9%A3%8E%E9%93%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简封面海报"}
+风格分支：女性审美轻盈型
+主体内容：{argument name="主体内容" default="一位女子站在窗边，抬手轻碰一枚风铃"}
+情绪母题：治愈、轻盈、微风感
+场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
+构图与空间：窗框位于画面中部形成简洁几何结构，人物位于下方偏侧，上方和窗外留出标题空间
+色彩控制：{argument name="色彩控制" default="奶油白作为背景基底，海盐蓝用于窗外大色块，珊瑚粉用于花影点睛，风铃用极少量浅金"}；避免整图变粉蓝滤镜
+光线与质感：明亮室内柔光，清透干净，轻平面插画感
+画幅比例：9:16 
+补充要求：整体要治愈、干净、轻盈，有小红书生活禅意封面感，不要灰雾
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2095323390584430852) | 2026-09-03
+
+---
+
+### 🎴 例 7413：电影感品牌形象广告海报
+
+![电影感品牌形象广告海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%93%81%E7%89%8C%E5%BD%A2%E8%B1%A1%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand or service" default="Adobe Express"} 创建一张垂直的电影感品牌形象广告海报，将写实的创业者肖像与未来感的悬浮软件 UI 面板及醒目的营销排版相结合。
+
+画布：9:16 垂直海报，1440x2560 分辨率，深色暖调工作室/咖啡馆夜景，浅景深，高级 2K 社交媒体广告质感。
+
+主体：一位中年亚裔男性坐在舒适的扶手椅中央，面对镜头，表情冷静自信，戴着黑色针织帽，身穿深色夹克和灰色拉链卫衣。前景中，一台打开的笔记本电脑放在他的膝盖上。温暖的实用台灯、书架、带框海报、植物、木桌和一个黑色马克杯营造出创意工作室的氛围。在主体周围添加微妙的霓虹轮廓光和反射。
+
+布局：在主体周围放置五个发光的半透明全息 UI 面板，采用青色和紫色的霓虹边框、玻璃拟态风格、小图标以及逼真的屏幕光效。保持面板清晰可读，同时具有轻微的未来感。
+
+悬浮 UI 面板：使用 5 个面板：1) 顶部中央面板标注为 "Adobe Express"，带有彩色应用图标和四个功能按钮，分别标注为 Templates、Design、Collage、Quick Actions；2) 左上方面板标注为 "Photoshop"，带有蓝色 Ps 标志、山脉预览图、垂直工具图标以及底部标注为 Layers、Select、Edit、Color、Effects 的六个工具；3) 左下方面板标注为 "Illustrator"，带有橙色 Ai 标志、钢笔/矢量图以及五个工具标签 Vector、Type、Shape、Path、Gradient；4) 右上方面板标注为 "AI Models"，列出四个模型行：GPT-4o、Claude 3.5、Gemini 1.5、Llama 3；5) 右下方面板标注为 "CapCut"，带有 CapCut 标志、视频时间轴界面、城市预览图以及五个工具标签 Edit、Audio、Text、Effects、Transition。
+
+海报文字：在左上角添加一行类似半透明水印的小字 "CapCut AI"。在底部，创建一个具有强烈视觉层级的大标题："Let's" 位于巨大的金色渐变 "Elevate" 之上，下方是 "Your" 和巨大的白色 "Brand Identity"。在其下方，添加副标题 "With Visual Design & Branding"，使用金色/白色小字，并配有细分割线。
+
+底部标注：在左下/中部添加 4 个圆形图标特征徽章：Creative Design、Strategic Branding、High Impact Visuals、Elevate Your Business。在右下角添加一个圆角绿色号召性用语按钮，文字为 {argument name="button text" default="Order Now"}，并配有一个白色箭头。
+
+视觉风格：照片级真实的主体和环境，电影感灯光，高对比度，暖琥珀色阴影，霓虹青/紫色 UI 光效，金色和白色排版，高级科技品牌美学，微妙的散景效果，精致的社交广告构图。
+
+限制：保留 5 个悬浮面板和 4 个底部特征徽章。不要添加额外人物。保持所有文字为英文。避免手部畸形、标题文字不可读或杂乱的额外 UI 面板。
+
+[English]
+Goal: Create a vertical 9:16 cinematic advertising poster for a personal branding and visual design service, centered on a realistic designer working on a laptop, surrounded by glowing AI/design software interface panels.
+
+Canvas: 1440x2560 vertical poster, high-resolution 2K look, dark warm studio atmosphere with neon cyan and purple UI glow, shallow depth of field, premium brand campaign aesthetic.
+
+Main subject: A middle-aged East Asian man with a calm confident expression sits front-facing in a cozy creative studio lounge, wearing a black knit beanie and dark casual jacket over a gray zip top. He holds or works behind a silver laptop on his lap. Use realistic photography style with cinematic lighting, warm skin tones, and sharp focus on the face.
+
+Background: Dimly lit designer studio with shelves, framed posters, books, plants, brick wall texture, desk lamps, and soft bokeh. Include a visible framed wall poster reading “IDEAS VISUALS IMPACT” on the upper right and another sign reading “DESIGN CREATE ELEVATE” on the left. Add a black mug on a wooden table at lower right with the words “CREATE FOCUS INSPIRE.” Keep the setting elegant, creative, and professional.
+
+Floating interface panels: Add exactly 5 translucent rounded-rectangle holographic panels with neon cyan outlines and subtle purple highlights, arranged around the subject without covering his face:
+1. Top center panel: “Adobe Express” with a colorful app icon and exactly 4 small feature buttons labeled “Templates,” “Design,” “Collage,” and “Quick Actions.”
+2. Upper left panel: “Photoshop” with a blue “Ps” icon, a landscape preview, a left vertical toolbar, and exactly 6 bottom buttons labeled “Layers,” “Select,” “Edit,” “Color,” “Effects,” plus one small icon button.
+3. Lower left panel: “Illustrator” with an orange “Ai” icon, vector pen and wireframe graphics, and exactly 5 bottom buttons labeled “Vector,” “Type,” “Shape,” “Path,” and “Gradient.”
+4. Upper right panel: “AI Models” with a digital brain graphic and exactly 4 stacked model rows labeled “GPT-4o,” “Claude 3.5,” “Gemini 1.5,” and “Llama 3.”
+5. Lower right panel: “CapCut” with the CapCut logo, a video editing timeline preview, and exactly 5 bottom buttons labeled “Edit,” “Audio,” “Text,” “Effects,” and “Transition.”
+
+Branding and headline text: Add a small watermark-style label “CapCut Ai” in the top left. At the lower half, create a large bold stacked headline reading “Let’s” above a very large gold-gradient “Elevate,” then “Your” and “Brand Identity” in white. Underline the headline area subtly and add the subheading “With Visual Design & Branding.” Use modern bold sans-serif typography, with “Elevate” in metallic gold and the rest in bright white.
+
+Bottom icon row: Add exactly 4 circular line icons with labels beneath them, evenly spaced above the call-to-action: “Creative Design,” “Strategic Branding,” “High Impact Visuals,” and “Elevate Your Business.”
+
+Call-to-action: Place a green rounded pill button at bottom right with white text “Order Now” and a right arrow icon.
+
+Customizable text slots: Main headline should read {argument name="headline text" default="Let’s Elevate Your Brand Identity"}. Subheading should read {argument name="subheading" default="With Visual Design & Branding"}. Button text should read {argument name="call to action" default="Order Now"}. Top featured tool should be {argument name="featured design app" default="Adobe Express"}. The subject should be {argument name="main subject" default="middle-aged East Asian male designer wearing a black knit beanie"}.
+
+Visual style: Photorealistic cinematic marketing poster, high contrast, warm ambient studio lighting, teal and magenta neon edge lights, glossy futuristic UI overlays, premium agency branding, crisp typography, dramatic vignette, depth of field, polished commercial finish.
+
+Constraints: Keep all visible text legible, preserve the exact count of 5 interface panels and 4 bottom service icons, do not add extra panels or extra bottom icons, avoid cartoon style, avoid cluttering the face, no misspelled software names.
+```
+
+**来源：** [@熊本文哉](https://x.com/kumachan1967/status/2095303038248567214) | 2026-09-03
+
+---
+

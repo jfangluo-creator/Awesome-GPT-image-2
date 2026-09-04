@@ -8735,3 +8735,83 @@ Visual style: Photorealistic macro miniature scene, whimsical transformation, hi
 
 ---
 
+### 🧸 例 7348：钢琴键盘幻化为白鸽
+
+![钢琴键盘幻化为白鸽](../images/%E9%92%A2%E7%90%B4%E9%94%AE%E7%9B%98%E5%B9%BB%E5%8C%96%E4%B8%BA%E7%99%BD%E9%B8%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超现实的电影感 3D 艺术作品，表现一架三角钢琴的键盘幻化为流动的音乐丝带，随后变为飞翔的白鸽。场景展示了一个连续的象牙色钢琴键盘，从左下角前景开始，向左蜿蜒，扭曲成几个环状螺旋，如同一个结，然后向右展开，化作白色的羽翼。在右侧包含 2 只白鸽，它们都张开翅膀向右上角飞去，带有柔和的灰色阴影、精致的羽毛和宁静的神态。键盘应具有逼真的象牙白键和光亮的黑键，且琴键需沿着这种不可能的丝带结构的每一处曲线和环路延伸。这种转化应传达出一种音乐乐句从紧张到释放的感觉，优雅且富有情感，灵感源自古典钢琴。采用 16:9 的宽幅横向构图，纠缠的键盘主体占据左半部分，羽翼过渡位于中心，两只白鸽位于右上角。背景：极简主义的淡鼠尾草绿摄影棚空间，带有巨大的柔和圆形墙面造型、平滑的地板、柔和的阴影以及来自左上角的漫射暖光。视觉风格：超精细的写实 CGI，带有微妙的纯艺术超现实主义氛围，奶油象牙色与柔和绿色调，柔和的景深，优雅的动态，无文字，无人物，无水印。可选主题提示：{argument name="musical emotion" default="喉咙里的结终于开始松动"}。
+
+[English]
+Create a surreal cinematic 3D artwork of a grand piano keyboard transforming into a flowing ribbon of music and then into doves in flight. The scene shows one continuous ivory piano keyboard starting in the lower foreground, snaking leftward, twisting into several looped spirals like a knot, then unfurling toward the right as white feathered wings. Include exactly 2 white doves on the right side, both flying upward-right with spread wings, soft gray shadows, delicate feathers, and peaceful expressions. The keyboard should have realistic ivory keys and glossy black keys, with the keys continuing along every curve and loop of the impossible ribbon structure. The transformation should feel like a musical phrase loosening from tension into release, elegant and emotional, inspired by classical piano. Use a wide horizontal 16:9 composition, the tangled keyboard mass occupying the left half, the feather-wing transition in the center, and the two doves in the upper-right. Background: minimalist pale sage green studio space with large soft circular wall shapes, a smooth floor, gentle shadows, and diffused warm daylight from the upper left. Visual style: hyper-detailed photorealistic CGI with a subtle fine-art surrealism mood, creamy ivory and muted green palette, soft depth of field, graceful motion, no text, no people, no watermark. Optional thematic cue: {argument name="musical emotion" default="a knot in the throat finally beginning to loosen"}.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2095526588888523146) | 2026-09-03
+
+---
+
+### 🧸 例 7357：手工粘土商店微缩模型
+
+![手工粘土商店微缩模型](../images/%E6%89%8B%E5%B7%A5%E7%B2%98%E5%9C%9F%E5%95%86%E5%BA%97%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个迷人的手工微缩模型，以 {argument name="brand" default="商店 / 品牌名称"} 为核心焦点。将极具辨识度的店面重构为温馨、奇趣的 3D 粘土微缩景观，保留其标志性的建筑风格、色彩、Logo / 招牌及品牌形象。在商店周围添加细致入微的写实元素，如人行道、路灯、长椅、植物、花卉、季节性装饰、自行车、小型指示牌以及与该商店相关的微缩物件。通过窗户透出温暖的灯光，并在入口处营造出微妙的活动感。柔和的奶油色背景，手工聚合物粘土质感，圆润的雕塑形态，细微的瑕疵，丰富的触感细节，温馨的定格动画美学，温暖的摄影棚灯光，高细节收藏级微缩模型，构图优雅，4:5 竖构图。
+
+[English]
+Create a charming handcrafted miniature diorama featuring {argument name="brand" default="STORE / BRAND NAME"} as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors, logo/signage and brand identity. Surround the store with tiny realistic details such as a sidewalk, street lamp, benches, plants, flowers, seasonal decorations, bicycles, small signs and miniature objects related to the store. Add warm glowing lights through the windows and subtle activity around the entrance. Soft cream background, handmade polymer-clay texture, rounded sculpted forms, tiny imperfections, tactile details, cozy stop-motion animation aesthetic, warm studio lighting, highly detailed collectible miniature, elegant composition, 4:5 vertical.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2095477330059903223) | 2026-09-03
+
+---
+
+### 🧸 例 7383：3D 纸艺新娘雕塑
+
+![3D 纸艺新娘雕塑](../images/3D%20%E7%BA%B8%E8%89%BA%E6%96%B0%E5%A8%98%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高细节的特写镜头，置于质朴的木桌上，画面中是一张带有毛边手工纹理的米白色纸卡。从纸卡中心跃然而出的是具有动态 3D 浮雕效果的 {argument name="subject" default="一位留着棕色卷发、神情愉悦的微缩新娘"}，她戴着透明面纱和珍珠项链，身穿 {argument name="clothing" default="精致的白色蕾丝礼服"}。她一手拿着一束粉白相间的微型玫瑰花束，另一只手优雅地提起裙摆，正迈步走向一片青苔覆盖的绿植。在卡片底部，精致的 3D 花卉刺绣、粉色、黄色和紫色的微型雕塑花朵、小鸟以及编织的微型蛋篮从纸面中生长出来。画面右侧，{argument name="action" default="一只手握着细尖黑色画笔，正在卡片表面活跃地绘制细腻的线条装饰"}。
+
+[English]
+A high-detail close-up shot resting on a rustic wooden table featuring an {argument name="card color" default="off-white"}, deckle-edged handmade textured paper card with rough torn borders.
+
+Stepping out from the center of the paper card in a dynamic 3D relief effect is a joyful miniature {argument name="subject" default="bride"} with styled {argument name="hair color" default="brown"} hair, wearing a sheer veil, pearl necklace, and an intricate white lace gown.
+
+She holds a miniature bouquet of pink and white roses in one hand while gracefully lifting her dress hem with the other to step forward onto a bed of mossy green foliage.
+
+Around the base of the card, intricate 3D floral embroidery, tiny sculpted flowers in pink, yellow, and purple, small birds, and a woven miniature egg basket sprout from the paper.
+
+On the right side of the frame, a person’s hand holds a fine-tip black pen, actively drawing delicate line art flourishes onto the card surface.
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2095368220580417756) | 2026-09-03
+
+---
+
+### 🧸 例 7406：奇趣手工微缩模型
+
+![奇趣手工微缩模型](../images/%E5%A5%87%E8%B6%A3%E6%89%8B%E5%B7%A5%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个奇趣的手工微缩模型，以 {argument name="landmark" default="[标志性建筑]"} 为核心焦点。将该建筑置于一个温馨且细节丰富的微型世界中，包含微缩街道、树木、花卉、路灯、长椅、小店、季节性装饰以及代表该地点的细微物件。采用柔和温暖的色调，呈现逼真的手工质感、细微的瑕疵感以及纸艺和粘土般的细节。整体画面应具有真实的微缩感，仿佛由手工精心打造。将整个场景置于干净的白色纹理纸背景上，并留出充足的负空间。添加优雅的小型排版文字，写着 “{argument name="location" default="[城市 / 国家]"}”，并配上几个带有当地特色的微型标志。柔和的漫射摄影棚灯光，轻柔的阴影，迷人的故事书氛围，高端收藏级微缩艺术，高细节，4:5 竖构图，无人物，无写实背景。
+
+[English]
+Create a whimsical handcrafted miniature diorama featuring {argument name="landmark" default="[ICONIC STRUCTURE]"} as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations and subtle objects that represent the location. Use a soft warm color palette, realistic handmade textures, tiny imperfections, paper-craft and clay-like details. Everything should feel physically miniature and lovingly hand-built. Set the entire scene against a clean white textured paper background with generous negative space. Add small elegant typography reading “{argument name="location" default="[CITY / COUNTRY]"}” and a few tiny location-inspired signs. Soft diffused studio lighting, gentle shadows, charming storybook atmosphere, premium collectible miniature art, highly detailed, vertical 4:5 composition, no people, no photorealistic background.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2095336325977444847) | 2026-09-03
+
+---
+

@@ -4642,3 +4642,93 @@ Create a dark cinematic science-fiction concept art scene in a vertical 4:5 fram
 
 ---
 
+### 🏛️ 例 7368：室内设计布局生成器
+
+![室内设计布局生成器](../images/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E5%B8%83%E5%B1%80%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+この{argument name="場所" default="リビング"}のレイアウトの案を{argument name="案の数" default="5つ"}出して。バリエーションを変えてそれぞれ1枚ずつの画像で出力して
+```
+
+**来源：** [@イッポイッポ](https://x.com/ippoippo522/status/2095434161297494447) | 2026-09-03
+
+---
+
+### 🏛️ 例 7369：极简主义旅行日志海报
+
+![极简主义旅行日志海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转化为极简主义编辑风格的旅行日志海报。保留可辨识的建筑、弧形海滨长廊、波光粼粼的海面、行人、遮阳伞、台阶及整体构图，但以精致的手绘和丝网印刷插画风格重新诠释场景。运用简洁的图形、细腻且不完美的墨水轮廓、柔和的蓝色、海绿色、暖米色、柔灰色和赤陶色点缀，辅以微妙的水彩渲染、褪色的颜料感、天然纸张纹理以及略带磨损的复古印刷质感。将插画置于暖象牙色手工纸背景上，并留出充裕的负空间。保持建筑的可辨识度，同时使其更具艺术感和简化感。在底部附近添加优雅的打字机风格排版，文字为“harbour light”，下方较小的一行文字为“afternoon lingers in the curve, where sea and steps remember.”。营造宁静的海岸氛围，呈现怀旧旅行日记美学、精致的编辑构图、低调的日式艺术杂志风格、真实的手工瑕疵感以及高级印刷设计，采用 4:5 竖版海报比例。将参考照片转化为极简主义复古旅行日志海报，同时保留可辨识的街景：历史悠久的华丽建筑、双层巴士、公交车站、路灯、行人和温暖的午后阳光。以精致的手绘丝网印刷插画重新诠释一切，使用简化的建筑剪影、细腻且不完美的墨线、平涂的柔和橄榄绿、赭石色、暖棕色、奶油色和柔灰色调，以及微妙的水彩纹理和轻微磨损的颜料感。将插画置于大张暖象牙色纹理纸的中心，周围留出充裕的负空间。在保持独特的建筑形状和街道透视的同时，使插画保持简洁且富有诗意。在底部添加优雅的打字机风格排版，文字为“afternoon on the high street”，随后是“buses come and go. the light remembers the buildings.”。呈现怀旧城市旅行日记、宁静的午后氛围、编辑艺术画册美学、手工纸质感、克制的色彩、精致的极简主义构图、真实的复古印刷瑕疵，采用 4:5 竖版海报比例。
+
+[English]
+Transform the reference photograph into a minimalist editorial travel-journal poster. Preserve the recognizable architecture, curved waterfront promenade, sparkling sea, people, umbrellas, steps, and overall composition, but reinterpret the scene as a delicate hand-painted and screen-printed illustration. Use loose simplified shapes, fine imperfect ink outlines, muted blue, sea-green, warm beige, soft gray and terracotta accents, subtle watercolor washes, faded pigments, natural paper grain and slightly distressed vintage-print texture. Place the illustration on a warm ivory handmade paper background with generous negative space. Keep the architecture recognizable but artistic and simplified. Add elegant typewriter-style typography near the bottom reading “harbour light”, with the smaller line “afternoon lingers in the curve, where sea and steps remember.” Calm coastal mood, nostalgic travel diary aesthetic, sophisticated editorial composition, understated Japanese-inspired art zine, authentic handmade imperfections, premium print design, vertical 4:5 poster. Transform the reference photograph into a minimalist vintage travel-journal poster while preserving the recognizable street scene: historic ornate buildings, double-decker buses, bus stop, street lamps, pedestrians, storefronts, and warm afternoon sunlight. Reinterpret everything as a refined hand-drawn screen-print illustration using simplified architectural silhouettes, delicate imperfect ink lines, flat muted olive green, ochre, warm brown, cream and soft gray tones, subtle watercolor texture and lightly distressed pigment. Place the illustration in the center of a large warm ivory textured paper sheet, surrounded by generous negative space. Maintain the distinctive building shapes and street perspective while keeping the illustration clean and poetic. Add elegant typewriter-style typography at the bottom reading “afternoon on the high street”, followed by “buses come and go. the light remembers the buildings.” Nostalgic urban travel diary, quiet afternoon atmosphere, editorial art-book aesthetic, handmade paper texture, restrained colors, sophisticated minimalist composition, authentic vintage print imperfections, vertical 4:5 poster.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2095422896428798063) | 2026-09-03
+
+---
+
+### 🏛️ 例 7388：撕边水墨记忆海报
+
+![撕边水墨记忆海报](../images/%E6%92%95%E8%BE%B9%E6%B0%B4%E5%A2%A8%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张旅行照片分别制作成一张独立的撕边墨迹记忆编辑海报，每张照片单独输出，不多图拼接。整体采用3:4竖版，使用“真实摄影→观察线稿→墨迹剪影”三阶段递减结构表达同一场景。顶部约占画面高度28%–36%，忠实保留原始照片中最重要的场景。准确保持主体身份、数量、姿态、朝向、间距、建筑结构、车辆、船只、动物、人物动作、真实材质、空间方向、自然光影和标志性色彩，只进行轻微艺术出版物调色。照片必须清楚可辨，不能插画化或变成装饰性缩略图。顶部照片与下方纸面使用清楚可见的手工撕纸毛边连接：边缘有真实纸纤维、不规则凹凸与轻微厚度，不能使用数字雾化、羽化或柔光渐变。中部为温暖象牙色、未漂白棉纸或浅米色粗纸，是留白最多的观察页。用不稳定钢笔线、短排线、干墨和少量灰洗重画同一主体，准确保留数量、姿态和相对位置，但主动删除无关背景与微小细节。选择照片中的树干、灯塔、桥索、建筑边缘、船桅、山体裂隙或车辆轮廓作为一条竖向记忆锚点。线稿集中在较窄的水平场域，不铺满纸面，也不做照片自动描边。底部让场景进一步消散成淡灰褐、烟灰、蓝灰或橄榄黑的墨团、不均匀水痕、干笔颗粒、细长断线和1–2道克制滴落。主体缩成一组小型深色剪影，仍保持正确数量和方向，落在一道从原照片提取的强调色水平笔迹上。只使用一个强调色，不固定为橙色。信息密度必须自上而下递减：照片最密，线稿次之，底部剪影最简。中部和主体周围保留连续、明显的纸面呼吸空间；墨团从一侧或下缘不完整地涌入，不封闭四边。在中部留白加入一个1–3个英文单词标题、MEMORY NO. 01式字段和一行5–10个英文单词观察句。文字使用可读的打字机粗体、等宽档案字或带缺墨的大写铅字，辅助文字较小但不能缩成灰线。文字内容必须来自照片中的主体、动作、天气或空间关系，不复制作者文字，不虚构研究数据。整体应像一页被撕开、观察并逐渐褪去的旅行档案，克制、诗意，具有真实纸纤维、干墨与时间感。强制避免：硬直上下分界、普通半照片半速写模板、数字柔化过渡、无关下方插画、满页水彩、传统水墨山水模仿、可爱卡通、精细动物或植物图鉴、自动描边、密集技术信息图、大标题压过画面、多种强调色、作者名、签名、账号、Logo、网址、二维码、水印、乱码。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095365385248006258) | 2026-09-03
+
+---
+
+### 🏛️ 例 7394：现代水墨建筑对比海报
+
+![现代水墨建筑对比海报](../images/%E7%8E%B0%E4%BB%A3%E6%B0%B4%E5%A2%A8%E5%BB%BA%E7%AD%91%E5%AF%B9%E6%AF%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级建筑观察海报，不进行多图拼贴，每张照片单独输出。
+
+整体优先采用{argument name="构图布局" default="4:3横版左右双联构图"}。左侧约占画面50%，忠实保留原始照片；右侧约占画面50%，将同一场景重新诠释为“墨线设色建筑观察画”。
+
+左右区域的中间边界必须笔直、清晰、利落地硬切。不要渐隐、羽化、撕纸、雾化或相互渗透，也不要让照片、墨线、植物或色块跨越边界。边界本身不需要额外描线。
+
+左侧保留原始照片的主体身份、建筑结构、地形关系、空间方向、自然光影、真实质感和原有色彩氛围，仅进行轻微、克制的高级摄影调色，使其具有建筑杂志、博物馆出版物和艺术展览摄影的质感。不得拉伸、扭曲、移动、替换或重新设计主体。
+
+右侧以温暖的米白色天然纸张为背景，观察并提取照片中最具识别度的建筑母题，例如屋顶、飞檐、门洞、柱列、平台、墙体、台阶、栏杆、廊桥以及主要空间方向，将其重新组织为现代东方纸本建筑观察画。
+
+不要完整复刻照片，也不要把建筑的所有细节都画出来。用一至两块浓黑或灰黑色的不规则墨形建立最主要的建筑轮廓和视觉重量，例如用一整片浓墨概括屋顶、檐口或墙体；再用少量纤细、略有断裂的灰黑墨线提示柱列、栏杆、透视方向和必要的结构节点。
+
+遵循：
+
+整体建筑主形 > 空间方向 > 必要结构 > 微小细节。
+
+瓦片、窗格、砖纹、雕花、斗拱和栏杆不得逐一精确描绘。复杂结构应主动删除、合并和概括，使人能够一眼辨认原建筑，同时保留手工观察、现场速写和艺术化删减的痕迹。
+
+植物不要逐叶刻画。将树冠、竹林、灌木和远处植被压缩为少量{argument name="植物色彩" default="灰绿、苔藓绿、鼠尾草绿、橄榄绿或赭色"}的不规则点染与干刷色块。树干和枝条只用极少量深色线条提示。
+
+如果照片中包含水面，仅使用几组断续、稀疏的灰蓝或灰绿色水平笔触表现，不要完整填满水域。天空、空气、地面、雾气和距离可以直接由未经绘制的纸张留白代表。
+
+右侧至少保留40%至60%的连续纸张留白。所有墨形、线条和设色应围绕一个主要建筑母题集中成组，不要将零碎笔触平均散布到整张纸面，也不要为了交代完整环境而补满背景。
+
+配色从原始照片中提取，但压缩为克制的有限色盘。以墨黑、灰黑、暖灰、灰绿、苔藓绿、矿物蓝绿、赭石和米白色为主，仅保留一处小面积暖色作为视觉焦点。
+
+如果原照片中存在重要人物，可以将其保留为唯一的小面积{argument name="焦点色彩" default="朱红色"}人物剪影；如果没有人物，不得凭空添加。照片中具有识别意义的红柱、灯笼、门扇或标志性构件，也可以作为唯一的朱红色焦点，但不要让多个暖色元素争夺注意力。
+
+使用真实纸本绘画质感：
+
+bold black ink mass, broken line sketch, handmade observational aesthetics, large artistic negative space.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2095357770291904778) | 2026-09-03
+
+---
+

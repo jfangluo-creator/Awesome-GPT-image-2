@@ -19685,3 +19685,93 @@ Extreme telephoto view, 1200mm compression, an enormous full moon rising directl
 
 ---
 
+### 🏷️ 例 7339：照片级写实中世纪乡村小巷
+
+![照片级写实中世纪乡村小巷](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%E4%B8%AD%E4%B8%96%E7%BA%AA%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%B7%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实、具有电影质感的广角镜头，展现 {argument name="season" default="春末"} 一个宁静的中世纪乡村。视角为平视，沿着一条通往定居点的泥泞土路拍摄。画面前景两侧各有一座大型茅草顶木屋，左侧木屋墙面为浅色灰泥并带有风化的木材纹理，右侧木屋带有一个开放式乡村凉棚；两座屋顶均为粗糙的深色陈旧稻草材质。在道路两侧添加编织木棍栅栏、木桩、小花园、多叶杂草和茂密的绿植。在中景处，准确展示 5 位可见的村民：中间 1 位身穿简单米色亚麻连衣裙、戴着头巾并提着篮子的女性正朝观众走来；右侧前景 1 位背对观众、身穿铁锈棕色连衣裙并戴着白色头饰的女性；左侧栅栏附近 1 位身穿浅色衣服的人物；以及道路上 2 位较远处的较小人物。在道路中左侧附近包含 3 只小型牲畜，类似绵羊或山羊，其中 1 只深色，2 只浅色。村庄应包含约 7 座可见建筑：2 座占据前景的茅草屋，中景处 3 座较小的木制小屋，1 座带有尖顶的高大木制教堂或瞭望塔，以及其后方部分可见的 1 座茅草屋顶。背景：阴沉灰暗天空下，郁郁葱葱的森林山坡，混合着落叶树和针叶树。使用自然柔和的色彩、柔和的漫射日光，采用浅景深效果，使前景和中心人物清晰，远景略微柔化，呈现高度细腻的历史纹理，以及逼真的织物、稻草、木材、泥土和植被质感。画面中不得出现任何现代物品、文字、奇幻元素、车辆或电线。
+
+[English]
+Create a photorealistic cinematic wide shot of a quiet medieval rural village in {argument name="season" default="late spring"}, viewed from eye level along a muddy dirt lane that leads into the settlement. The scene is framed by two large thatched-roof wooden cottages in the extreme foreground, one on the left with pale plaster walls and weathered timber, and one on the right with an open rustic shelter structure; both roofs are rough straw with dark, aged texture. Add woven stick fences, wooden posts, small gardens, leafy weeds, and dense greenery along both sides of the path. In the middle ground, show exactly 5 visible villagers: 1 woman in the center walking toward the viewer in a simple beige linen dress and headscarf carrying a basket, 1 woman in the right foreground seen from behind wearing a rust-brown dress with a white head covering, 1 pale-clothed figure near the left fence, and 2 smaller distant figures on the lane. Include exactly 3 small livestock animals near the center-left of the path, resembling sheep or goats, one dark and two light. The village should contain about 7 visible structures: 2 dominant foreground thatched buildings, 3 smaller timber cottages in the middle distance, 1 tall wooden church or watchtower with a pointed spire, and 1 additional thatched roof partly visible behind it. Background: a lush green forested hillside with mixed deciduous and conifer trees under an overcast gray sky. Use natural muted colors, soft diffused daylight, shallow depth of field with the foreground and central figures sharp and the far background slightly softened, highly detailed historical textures, realistic fabric, straw, timber, mud, and foliage. No modern objects, no text, no fantasy elements, no vehicles, no power lines.
+```
+
+**来源：** [@AI動画システムUEGAと制作・開発　武田](https://x.com/AINetworkTech/status/2095591252733702215) | 2026-09-03
+
+---
+
+### 🏷️ 例 7363：高端饮品广告海报
+
+![高端饮品广告海报](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E5%93%81%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戛纳级别的旗舰甜点饮品广告海报，品牌为原创高端咖啡品牌 CREMA BLOOM，主打产品为 MOCHA CLOUD SHAKE。画面需采用强烈的 Orbit 视觉逻辑，并呈现出更高级的全球发布主视觉（Key Visual）质感：左侧为一个干净的品牌外带杯，杯顶配有奶油，并带有醒目的堆叠式标题；右侧为一个超现实的放大版食材奇观，咖啡液、奶油和柔软的三明治饼干壳在空中爆炸并交织在一起。最终作品必须呈现出超写实、雕塑感、极简且国际化的高端质感，以饮品作为商业核心，以食材爆炸作为诱人卖点。核心构图：使用宽幅横向海报，背景为干净的薄荷绿或水蓝色，底部带有微妙的桌面平面。布局需在视觉上分为两个区域：左侧包含品牌杯和大型标题，右侧则是宏大的悬浮食材爆炸。保持构图平衡、空间感强且高度易读，呈现出高端广告牌风格的简洁感。Orbit 视觉逻辑：将海报设计为一个闭环的高端视觉流。视线应从左侧外带杯的奶油顶部开始，向上并向内穿过标题块，进入右侧中心的奶油螺旋，跟随咖啡液溅出的光泽弧线环绕食材爆发，然后通过构图下方的视觉重量向左弯曲，回到杯身和品牌区域。每一条主要的曲线和高光都必须支持这种循环感。构图应感觉动态但可控。核心产品逻辑：真正的商业核心是这款高端外带咖啡甜点奶昔。在左侧桌面上放置一个品牌纸杯，杯盖开口处露出奶油顶或类似软冰淇淋的尖顶。杯子必须感觉物理真实、高端且具有全球市场吸引力，具备清晰的图形品牌标识、真实的纸张纹理、微妙的冰镇或冷凝感以及优雅的色块。杯子必须清晰地支撑整个广告活动。食材奇观：在右侧，创建一个巨大的悬浮风味组合，两个巨大的可可棕色三明治饼干或咖啡马卡龙壳似乎分离开来，奶油和光泽的咖啡溅射在它们之间喷涌而出。中心溅射必须呈现出浓郁的摩卡液体围绕着白色奶油漩涡向上碰撞的感觉，水滴和弧线以动态但可控的方式向外飞溅。这一奇观应暗示饮品的核心美味就存在于这个悬浮的风味世界中。风味与材质写实度：以极高的写实度渲染咖啡溅射：半透明的棕色液体、光泽反射、真实的粘度、水滴变化以及平滑的动态张力。奶油必须感觉浓郁、轻盈且高端，具有清晰的螺旋纹理和柔和的高光。饼干壳应具有轻微的纹理感，柔软而有结构，带有可可粉和微妙的烘焙表面细节。每个元素都必须看起来可食用、高端且超写实。排版与品牌：不要使用任何真实的品牌名称或复制的源文本。使用原创的纯英文排版，因为这是一种海外风格的饮品广告。在左侧，产品杯的旁边或上方，放置一个醒目的堆叠式标题块：BEST INSIDE THE MOCHA。使用深可可色、富有表现力的手工字体或高端俏皮的粗体字。保持字体大、图形化且高度易读。在杯子上使用品牌名称：CREMA BLOOM。在右下角，仅放置一个非常小、低调的签名式品牌标记或字母组合，缩小到足以作为一种安静的身份暗示，而不是视觉元素。无需额外的正文内容。光影：使用明亮的高端摄影棚灯光，配合柔和的正面照明和受控的高光，使奶油发光，咖啡溅射闪耀。杯子必须感觉光线清晰且易于辨认，而食材奇观应具有立体感的高光和清晰的边缘分离。薄荷色背景应保持平滑、清新且整洁。色彩方向：使用严格控制的高端调色板，包括冷薄荷蓝、咖啡棕、奶油白、柔和米色和微妙的暖焦糖高光。清新背景与浓郁摩卡食材之间的对比必须营造出海报的商业活力。氛围：俏皮、Orbit 驱动、令人沉醉、高端、清新、雕塑感、极简、全球化质感、商业上令人无法抗拒、世界级奖项水准。渲染风格：超写实旗舰咖啡饮品广告海报，Orbit 驱动的摩卡奶昔主视觉，左侧外带杯核心，右侧咖啡溅射与奶油食材爆炸，薄荷绿背景，醒目的堆叠式排版，低调的签名 Logo，世界级商业食品与饮品摄影，8k。负面提示词：真实品牌名称、复制的源文本、杂乱的布局、产品焦点薄弱、Logo 过大、廉价的溅射效果、浑浊的咖啡色调、低细节杯子、塑料感的奶油、混乱的构图、过多的文字、低分辨率饮品渲染
+
+[English]
+Create a Cannes-level flagship dessert-beverage advertising poster for an original premium cafe brand named CREMA BLOOM, featuring the hero product MOCHA CLOUD SHAKE. Build the image with strong Orbit visual logic and a more elevated global launch-key-visual attitude: on the left, a clean branded takeaway cup with a whipped cream top and a bold stacked title block; on the right, a surreal enlarged ingredient spectacle where coffee liquid, whipped cream, and soft sandwich-cookie shells explode and swirl together in midair. The final artwork must feel ultra-real, sculptural, reduced, and internationally premium, with the drink as the commercial anchor and the ingredient explosion as the appetite trigger. Core composition: Use a wide horizontal poster with a clean cool mint or aqua background and a subtle tabletop plane along the bottom. The layout should be visually divided into two zones: the left side contains the branded cup and the large headline, while the right side holds the monumental suspended ingredient explosion. Keep the composition balanced, spacious, and highly readable, with a premium billboard-style simplicity. Orbit visual logic: Design the poster as a closed premium visual loop. The eye should begin at the whipped top of the takeaway cup on the left, move upward and inward through the headline block, travel into the right-side central whipped cream spiral, follow the glossy coffee splash arcs around the ingredient burst, and then curve back toward the left through the lower visual weight of the composition, returning to the cup body and brand area. Every major curve and highlight must support this circulation. The composition should feel dynamic but controlled. Hero product logic: The true commercial hero is the premium takeaway coffee-dessert shake. Place one branded paper cup on the left standing upright on the tabletop, with a creamy whipped top or soft-serve-like peak emerging from the lid opening. The cup must feel physically real, premium, and globally marketable, with clean graphic branding, believable paper texture, subtle chill or condensation feel, and elegant color blocking. The cup must clearly anchor the entire campaign. Ingredient spectacle: On the right side, create a giant floating flavor composition where two large cocoa-brown sandwich-cookie or coffee-macaron-like shells appear separated, with whipped cream and glossy coffee splash erupting between them. The central splash must feel like rich mocha liquid colliding upward around a swirl of white cream, with droplets and arcs flying outward in a dynamic but controlled way. The spectacle should imply that the indulgent core of the drink lives inside this suspended flavor world. Flavor and material realism: Render the coffee splash with exceptional realism: translucent brown liquid, glossy reflections, believable viscosity, droplet variation, and smooth dynamic tension. The whipped cream must feel dense, airy, and premium, with sharp spiral ridges and soft highlights. The cookie shells should feel lightly textured, soft yet structured, with cocoa dusting and subtle baked surface detail. Every element must look edible, premium, and hyper-real. Typography and branding: Do not use any real brand names or copied source text. Use original English-only typography because this is an overseas-style beverage campaign. On the left side, next to or above the product cup, place a bold stacked title block: BEST INSIDE THE MOCHA Use expressive handcrafted or premium playful bold lettering in a deep cocoa tone. Keep it large, graphic, and highly legible. On the cup, use the brand name: CREMA BLOOM In the lower-right corner, place only a very small, understated, signature-like brand mark or monogram, reduced enough that it functions as a quiet identity cue rather than a visual element. No extra body copy. Lighting: Use bright premium studio lighting with soft frontal illumination and controlled highlights that make the whipped cream glow and the coffee splash shine. The cup must feel clearly lit and readable, while the ingredient spectacle should have dimensional highlights and crisp edge separation. The mint background should stay smooth, fresh, and uncluttered. Color direction: Use a tightly controlled premium palette of cool mint blue, coffee brown, cream white, soft beige, and subtle warm caramel highlights. The contrast between the fresh background and the rich mocha ingredients must create the poster’s commercial energy. Mood: playful, orbit-driven, indulgent, premium, fresh, sculptural, reduced, globally polished, commercially irresistible, globally award-worthy Rendering style: ultra-realistic flagship cafe beverage advertising poster, Orbit-driven mocha shake key visual, left-side takeaway cup hero, right-side coffee splash and cream ingredient explosion, cool mint background, bold stacked typography, understated signature logo, world-class commercial food-and-drink photography, 8k Negative prompt: real brand names, copied source text, cluttered layout, weak product focus, oversized logo, cheap splash effects, muddy coffee tones, low-detail cup, plastic-looking cream, chaotic composition, excessive text, low-resolution beverage rendering
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2095457767058505935) | 2026-09-03
+
+---
+
+### 🏷️ 例 7367：水彩混合媒介男性肖像
+
+![水彩混合媒介男性肖像](../images/%E6%B0%B4%E5%BD%A9%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张风格化的当代水彩与混合媒介肖像，主体为一位 {argument name="character description" default="英俊青年"}，采用近景半身构图，呈现四分之三侧面视角，目光柔和地看向观者。保留自然的男性特征：轮廓分明的下颌线、富有表现力的暖棕色双眼、清晰的眉毛、挺直的鼻梁、轮廓分明的嘴唇、中等橄榄色肤色，以及修剪整齐的络腮胡和八字胡。为他设计 {argument name="hair style" default="浓密凌乱的黑色短发，几缕发丝垂在额前，并带有微妙的橙色挑染"}，并在其中一只耳朵上佩戴一个小金圈耳环。让他身穿开领白衬衫，外搭一件宽松的西装外套，服装边缘部分融入水彩笔触中。使用干净的米白色纸张背景，呈现可见的水彩纹理。在人物身后及周围，创作动态的抽象水彩泼墨和墨迹，色调采用 {argument name="color palette" default="深海军蓝、钴蓝色、珊瑚红、橙色、金黄色和柔灰色"}，并带有向下流淌的滴痕和向外放射的喷溅颜料。将写实的脸部渲染与写意的墨线勾勒、湿画法水彩晕染、干擦纹理、发丝处的细腻笔触以及富有表现力的混合媒介喷溅效果相结合。光线应柔和且具有修饰感，强调眼睛和面部结构。保持肖像居中，露出肩膀，面部细节丰富，外套和背景处理更具绘画感，无文字，无水印。
+
+[English]
+Create a stylized contemporary watercolor and mixed-media portrait of a {argument name="character description" default="handsome young man"} in a close bust composition, shown in three-quarter view and softly looking toward the viewer. Preserve natural masculine features: strong jawline, expressive warm brown eyes, defined eyebrows, straight nose, well-shaped lips, medium olive skin, and a neatly trimmed full beard and mustache. Give him {argument name="hair style" default="thick tousled black hair with loose strands falling over the forehead and subtle orange highlights"}, plus a small gold hoop earring in one ear. Dress him in an open-collar white shirt under a loose blazer, with the clothing edges partially dissolving into paint. Use a clean off-white paper background with visible watercolor texture. Behind and around the figure, create dynamic abstract watercolor splashes and ink marks in {argument name="color palette" default="deep navy blue, cobalt blue, coral red, orange, golden yellow, and soft gray"}, with drips running downward and splattered pigment radiating outward. Blend realistic facial rendering with sketchy ink outlines, wet-on-wet watercolor blooms, dry-brush texture, fine pen strokes in the hair, and expressive mixed-media paint splatter. Lighting should be soft and flattering, emphasizing the eyes and facial structure. Keep the portrait centered, shoulders visible, high detail in the face, looser painterly treatment in the jacket and background, no text, no watermark.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2095441043726700736) | 2026-09-03
+
+---
+
+### 🏷️ 例 7402：红外警车后座监控画面
+
+![红外警车后座监控画面](../images/%E7%BA%A2%E5%A4%96%E8%AD%A6%E8%BD%A6%E5%90%8E%E5%BA%A7%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为该男子的身份参考，将其转换为逼真的黑白红外警车后座监控摄像头画面。保持其面部特征可辨认，但完全改变场景：将他置于夜间警车后座，通过安装在天花板上的广角摄像头进行拍摄，双手背在身后，仿佛戴着手铐，身穿简单的浅色长袖衬衫，表情紧张且压抑，视线略微偏向一侧。添加警车内部细节：深色乙烯基长椅、悬挂在他身旁的安全带、两侧车窗上的金属护栏/隔离网，后挡风玻璃显示出窗外模糊的夜间路灯和街道灯光。应用带有鱼眼畸变、强烈的红外照明、单色对比度、轻微模糊和晕影效果的颗粒感低分辨率监控视频风格。添加 4 个白色的数字监控叠加信息：左上角的时间戳“{argument name="timestamp" default="12/05/2024 22:42:47"}”、右上角的摄像头标签“{argument name="camera label" default="IR 1494"}”、左下角的速度/GPS 标签“{argument name="speed label" default="GPS 067 MPH"}”以及右下角的座位标签“{argument name="seat label" default="BK SEAT"}”。请勿包含原始的 Krispy Kreme 店面或自拍构图。
+
+[English]
+Using the provided reference image as the identity reference, transform the person into a grainy black-and-white infrared police back-seat camera frame at night. Keep the person recognizable, but change the scene completely: place him seated in the rear bench of a patrol car, viewed from a wide-angle/fisheye security camera mounted high in the vehicle, with his hands behind his back as if restrained and his head turned slightly to the side. Add the car interior, rear seat, seatbelt, partition/cage bars on the side windows, and blurred nighttime streetlights visible through the rear window. Apply low-light IR surveillance styling with harsh monochrome contrast, soft blur, noise, and a slightly distorted lens. Add exactly 4 white digital camera overlays: top left timestamp “{argument name="timestamp" default="12/05/2024 22:42:47"}”, top right “{argument name="camera label" default="IR 1494"}”, bottom left “{argument name="gps speed text" default="GPS 067 MPH"}”, and bottom right “{argument name="seat label" default="BK SEAT"}”. Do not include the original doughnut shop background; make it look like authentic in-car arrest/security footage.
+```
+
+**来源：** [@Kouji Fujii｜AI × Business](https://x.com/fujikou25/status/2095347417411629202) | 2026-09-03
+
+---
+
+### 🏷️ 例 7414：未来 Spawn 风格飞行恶魔无人机
+
+![未来 Spawn 风格飞行恶魔无人机](../images/%E6%9C%AA%E6%9D%A5%20Spawn%20%E9%A3%8E%E6%A0%BC%E9%A3%9E%E8%A1%8C%E6%81%B6%E9%AD%94%E6%97%A0%E4%BA%BA%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的电影级逼真动作镜头，画面主体为 {argument name="character concept" default="重构为生物机械飞行恶魔无人机的未来 Spawn"}，正翱翔于黄昏时分金色的多云天空中。主体位于画面中心偏右，以动态俯冲姿态朝向观众，佩戴红黑配色的昆虫状装甲头盔，拥有发光的绿色护目镜，金属板下露出有机的腱状肌肉组织，表面布满战斗留下的划痕、污垢、铆钉和深色钢制饰边。画面中包含两只横向展开的巨大蝙蝠状机械翼，呈深绯红色，带有分段式金属肋骨和扇形边缘；左侧装有一门旋转喷气式加农炮，正向左侧边缘发射明亮的橙色能量束，伴有枪口闪光和热晕；右侧装有一只机械爪臂，带有三根细长的银色弯曲利爪。添加小型软管、活塞、电缆、机翼铰链和控制论关节，使该生物看起来像是恶魔、飞行器和未来感玩具收藏品的混合体。采用浅景深、强烈的动态模糊、大气雾霾、柔和的背光云层、高对比度的轮廓光，以及大片级的科幻奇幻美学。调色板：{argument name="armor color" default="深绯红色"}、哑光黑、枪金属银、霓虹绿护目镜光和橙色武器闪光。无文字，无水印，无边框，无额外字符。
+
+[English]
+Create a cinematic photorealistic 16:9 action shot of {argument name="character concept" default="Future Spawn reimagined as a biomechanical flying demon-drone"} soaring through a cloudy sky at golden-hour dusk. The subject is centered slightly right, angled toward the viewer in a dynamic forward dive, with a red-and-black armored insectoid helmet, a glowing green visor, exposed organic sinewy musculature beneath metal plating, and worn battle-scarred surfaces with scratches, grime, rivets, and dark steel trim. Include exactly two large batlike mechanical wings stretching horizontally across the frame, each dark crimson with segmented metal ribs and scalloped edges; exactly one rotary jet cannon mounted on the left side firing a bright orange energy beam off the left edge with muzzle glow and heat bloom; and exactly one right-side mechanical claw arm with three long curved silver talons. Add small hoses, pistons, cables, wing hinges, and cybernetic joints to make the creature feel like a hybrid of demon, aircraft, and futuristic toy collectible. Use shallow depth of field, dramatic motion blur, atmospheric haze, soft backlit clouds, high-contrast rim lighting, and a blockbuster sci-fi fantasy aesthetic. Color palette: {argument name="armor color" default="deep crimson red"}, matte black, gunmetal silver, neon green visor light, and orange weapon flare. No text, no watermark, no border, no extra characters.
+```
+
+**来源：** [@Hunter R Customs](https://x.com/CustomsHunter/status/2095301208735195611) | 2026-09-03
+
+---
+

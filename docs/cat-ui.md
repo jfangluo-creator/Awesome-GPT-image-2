@@ -15141,3 +15141,165 @@ Constraints: Use exactly 2 bear drawings, exactly 1 chat bubble, and exactly 2 o
 
 ---
 
+### 🖥️ 例 7338：九宫格企业形象照拼贴
+
+![九宫格企业形象照拼贴](../images/%E4%B9%9D%E5%AE%AB%E6%A0%BC%E4%BC%81%E4%B8%9A%E5%BD%A2%E8%B1%A1%E7%85%A7%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的 3×3 专业摄影肖像拼贴，展示同一位成年男士，年龄约为 {argument name="age range" default="25–35 岁"}，确保九个画幅中的人物身份高度一致。他是一位面部洁净的黑人男性，肤色为中等棕色，留着整洁的短黑发，拥有温暖的棕色眼睛，表情自信且平易近人，穿着精致的商务装。所有画幅中的服装保持一致：剪裁合身的 {argument name="suit color" default="藏青色"} 西装，浅蓝色开领衬衫（不系领带），白色口袋巾，银色腕表，可见处穿着黑色正装皮鞋。采用柔和的专业摄影棚布光，皮肤纹理真实细腻，面部比例自然，背景为平滑的冷灰蓝色渐变摄影棚背景，仅全身站立画幅可使用较浅的灰色墙面和地面。
+
+画布与布局：方形图像，划分为 9 个相等的肖像区域，呈整洁的 3×3 网格排列，画幅间留有明显的白色间距，无任何文字、Logo、水印或标签。每个画幅应看起来像是同一场行政肖像拍摄的不同选片，同时保持面部特征、仪容、服装、光影质量和色调的一致性。
+
+画幅数量与姿态，共 9 张肖像：
+1. 左上：近景四分之三肖像，坐姿或胸部以上构图，视线看向观众左侧，右手托腮，呈思考姿态，可见腕表。
+2. 中上：较宽的坐姿肖像，坐在凳子上，身体微侧，对着镜头微笑，一只手放在膝盖附近，可见从头到膝盖的完整西装。
+3. 右上：紧凑的正面头像，直视镜头，温和微笑，对称的商务证件照风格。
+4. 左中：半身站立肖像，面向镜头，双手整理或抓握腰部附近的西装外套，表情自信且微带笑意。
+5. 中中：中景特写，身体前倾，下巴抵在拳头上，直视镜头，腕表突出，展现沉稳的行政风范。
+6. 右中：侧向坐姿肖像，身体前倾，双手交叠，看向镜头，友善微笑，可见西装袖口和腕表。
+7. 左下：坐姿四分之三肖像，视线看向观众右侧，一只手臂放在腿上，表情放松，可见腕表。
+8. 中下：全身站立肖像，背景为浅灰色墙面，双手抓握西装翻领，双脚踝交叉，可见黑色正装皮鞋，构图居中并留有更多留白。
+9. 右下：中景肖像，展示该男士正在演讲或演示，视线略微偏离镜头，双手张开呈交谈姿态，面带友善的职业微笑。
+
+视觉风格：高端 LinkedIn/行政品牌摄影，照片级真实感，高分辨率，对焦清晰，柔光箱布光，细腻的轮廓光，真实的织物褶皱，统一的调色，对比度平衡，简洁的商务美学。避免漫画感、插画感、面部不一致、多余人物、肢体重复、手部畸形、文字或过于戏剧化的光影。
+
+[English]
+Create an ultra-realistic 3×3 professional studio portrait collage featuring the same adult man, approximately {argument name="age range" default="25–35 years old"}, with consistent identity across all nine frames. He is a clean-shaven Black man with medium-brown skin, short neat black hair, warm brown eyes, a confident approachable expression, and polished corporate styling. Outfit remains consistent in every panel: tailored {argument name="suit color" default="navy blue"} suit, light blue open-collar dress shirt with no tie, white pocket square, silver wristwatch, black dress shoes where visible. Use soft professional studio lighting, sharp realistic skin texture, natural facial proportions, and a smooth cool gray-blue gradient studio backdrop, except the full-body standing frame may use a lighter gray wall and floor.
+
+Canvas and layout: square image, divided into exactly 9 equal portrait panels in a clean 3×3 grid with thick white gutters between frames and no text, logos, watermarks, or labels. Each panel should look like a different selection from the same executive headshot session while preserving the same face, grooming, outfit, lighting quality, and color palette.
+
+Frame count and poses, exactly 9 portraits:
+1. Top-left: close three-quarter portrait, seated or cropped at chest, looking off to the viewer’s left, right hand resting under chin in a thoughtful pose, wristwatch visible.
+2. Top-center: wider seated portrait on a stool, body angled slightly, smiling toward camera, one hand resting near knee, full suit visible from head to knees.
+3. Top-right: tight front-facing head-and-shoulders headshot, direct eye contact, gentle smile, symmetrical corporate profile-photo style.
+4. Middle-left: half-body standing portrait, facing camera, both hands adjusting or holding the suit jacket near the waist, confident slight smile.
+5. Middle-center: medium close-up leaning forward, chin resting on fist, direct gaze, wristwatch prominent, composed executive expression.
+6. Middle-right: seated side-angle portrait, leaning forward with hands clasped, looking toward camera, friendly smile, suit sleeve and watch visible.
+7. Bottom-left: seated three-quarter portrait, looking off to the viewer’s right, one arm resting across lap, relaxed smile, watch visible.
+8. Bottom-center: full-body standing portrait against a light gray wall, hands holding jacket lapels, legs crossed at the ankles, black dress shoes visible, centered with more negative space.
+9. Bottom-right: medium portrait of the man speaking or presenting, looking slightly off-camera, both hands raised open in a conversational gesture, friendly professional smile.
+
+Visual style: premium LinkedIn/executive branding photography, photorealistic, high-resolution, crisp focus, flattering softbox lighting, subtle rim light, realistic fabric folds, consistent color grading, balanced contrast, clean corporate aesthetic. Avoid caricature, illustration, inconsistent faces, extra people, duplicated limbs, distorted hands, text, or overly dramatic lighting.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2095630562446676183) | 2026-09-03
+
+---
+
+### 🖥️ 例 7356：私人飞机生活方式摄影
+
+![私人飞机生活方式摄影](../images/%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张随性的竖屏 {argument name="photo style" default="iPhone 风格"} 照片，拍摄了一位坐在 {argument name="location" default="私人飞机"} 客舱桌旁的人，此时飞机正处于巡航高度。他们随意地向后靠着，一只手拿着 {argument name="drink" default="咖啡"}，另一只手放在打开的 MacBook 上。他们穿着深海军蓝的高品质针织 Polo 衫、剪裁合身的米白色长裤，并佩戴着一块精致的银色手表。飞机内部装饰考究：高光木饰面板、柔和的环境 LED 灯光，完全拉开的遮阳板外是高空深蓝色的天空。姿势和表情传达出一种毫不费力、从容自信的感觉——姿态自然，而非刻意摆拍。采用写实的手机摄影风格拍摄：自然的景深、轻微的手持拍摄瑕疵、柔和的窗光衰减、精准的皮肤纹理和织物细节、真实的色彩分级（无过度饱和），焦点清晰地落在手表和针织纹理上，背景则呈现柔和的虚化效果。
+
+[English]
+A spontaneous, vertical {argument name="photo style" default="iPhone-style"} photo of a person seated at the cabin table of a {argument name="location" default="private jet"} during cruise altitude. They lean back casually, one hand holding a {argument name="drink" default="coffee"}, the other resting on an open MacBook. They wear a dark navy, high-quality knit polo shirt, tailored off-white trousers, and a subtle silver watch. The jet interior is sophisticated: high-gloss wood veneer paneling, soft ambient LED lighting, and fully retracted window shades revealing a deep blue sky at altitude. The pose and expression convey effortless, relaxed confidence — natural posture, not posed for camera. Shot in a realistic mobile photography style: natural depth of field, slight handheld imperfection, soft window-light falloff, accurate skin texture and fabric detail, true-to-life color grading (no oversaturation), sharp focus on the watch and knit texture while the background softly blurs.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2095481672879771979) | 2026-09-03
+
+---
+
+### 🖥️ 例 7376：动漫风格提示词网站信息图海报
+
+![动漫风格提示词网站信息图海报](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%BD%91%E7%AB%99%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版社交媒体风格的“现场笔记”海报，主题为 {argument name="headline topic" default="真正值得收藏的 12 个提示词网站"}，将简洁的编辑类信息图布局与动漫角色工作台场景相结合。
+
+画布：竖构图 2:3 比例，温暖的米色纸张纹理背景，左上方有柔和的阳光和窗影，营造极简主义的日式/北欧工作室氛围。使用奶油色、沙色、炭黑色和金黄色的克制配色方案。
+
+顶部品牌与标题：左上角放置小字“起风了 | AI Lab”。右上角放置一个微小的黄色圆点，后接“FIELD NOTE · 01”。顶部中央添加一个圆角黄色胶囊标签，文字为“AI 生图 · 资源清单”。下方设置醒目的中文大标题：第一行“真正值得收藏的”，第二行“12 个提示词网站”，其中数字“12”采用超大金黄色字体，其余文字为深炭色。标题下方添加带有细横线分割的小副标题：“按场景选，别再乱收藏”。
+
+主体布局：中间区域包含 12 张圆角白色资源卡片，排列为两列，每列 6 张，悬浮于背景之上并环绕角色。每张卡片左侧带有金色竖向装饰条、圆形黄色数字徽标、加粗的黑色网站名称、较小的灰色中文描述、微妙的投影以及右上角的小括号状边角标记。保持间距均匀对齐。
+
+左侧 6 张卡片：01 Midjourney Explore — “MJ 灵感与参数”；02 PromptHero — “跨模型大库”；03 Lexica — “视觉搜索”；04 Civitai — “模型与生成数据”；05 Krea — “多模型与反推”；06 OpenArt — “图片转 Prompt”。
+
+右侧 6 张卡片：07 Public Prompts — “免费 SD 示例”；08 GPTIMG.app — “GPT Image 2 专库”；09 2Slides — “226+ 社区 Prompt”；10 GPTImg.ai — “按任务分类”；11 CUTY — “配图、变量、作者”；12 PromptBase — “付费模板市场”。
+
+中心主体：在下方中央放置 {argument name="character description" default="一位时尚的年轻动漫男性研究员，留着黑黄相间的刺猬头，眼神锐利专注，佩戴黑色发带"}。他坐在浅色木质书桌前，微微面向前方，神情严肃地低头看着或操作着一台黑色平板电脑/笔记本电脑。服装：亮黄色超大款科技感夹克，配黑色领口和白色装饰，黑色高领衫，黑色长裤，黑黄配色高帮运动鞋，佩戴一条小金项链，充满现代街头风细节。角色应从头到脚完整可见，居于两列卡片之间。
+
+书桌与环境：在下方三分之一处使用一张简洁的浅色木桌。桌上包含 7 个可见物品：角色面前的黑色平板电脑/笔记本电脑、三张白色小纸条、左侧叠放书籍上的一个米色花盆、右侧的一个浅口圆托盘、以及右侧一个插有细长植物茎的米色小花瓶。最左侧边缘放置一盆较大的盆栽，右侧墙上有悬挂的绿植，右下角地板上叠放着几本书。背景墙面具有微妙的织物/纸张纹理，并有一条水平护墙板线。
+
+页脚：左下角小字“AI 资源盘点系列”。右下角小字“PROMPT SITES · 01”，字体为淡金黄色。
+
+视觉风格：高质量 GPT Image 2 海报设计，简洁的编辑类排版，清晰的中文文本，柔和的自然光，温暖的阴影，平衡的留白，动漫插画与写实室内设计及信息图 UI 卡片的融合。避免出现 Logo、水印、多余卡片、拼写错误的网站名称，或添加超过指定的 12 个资源。
+
+[English]
+Goal: Create a vertical social-media field-note poster about {argument name="headline topic" default="真正值得收藏的 12 个提示词网站"}, combining a clean editorial infographic layout with an anime character workspace scene.
+
+Canvas: Portrait 2:3 aspect ratio, warm beige paper texture background, soft sunlight and window-shadow patterns from the upper left, minimalist Japanese/Scandinavian studio atmosphere. Use a restrained palette of cream, sand, charcoal black, and golden yellow.
+
+Top branding and header: In the top-left corner place small text “起风了 | AI Lab”. In the top-right corner place a tiny yellow dot followed by “FIELD NOTE · 01”. Center near the top add a rounded yellow pill label reading “AI 生图 · 资源清单”. Below it, create a large bold Chinese headline: “真正值得收藏的” on the first line and “12 个提示词网站” on the second line, with the number “12” oversized in golden yellow and the rest in dark charcoal. Under the headline add a small subtitle with thin horizontal divider lines: “按场景选，别再乱收藏”.
+
+Main layout: The middle area contains exactly 12 rounded white resource cards arranged in two vertical columns of 6 cards each, floating over the background and partially framing the character. Each card has a golden vertical accent strip on the left, a circular yellow number badge, bold black website name, smaller gray Chinese description, subtle shadow, and a small bracket-like corner mark at the upper right. Keep spacing even and aligned.
+
+Left column cards, exactly 6: 01 Midjourney Explore — “MJ 灵感与参数”; 02 PromptHero — “跨模型大库”; 03 Lexica — “视觉搜索”; 04 Civitai — “模型与生成数据”; 05 Krea — “多模型与反推”; 06 OpenArt — “图片转 Prompt”.
+
+Right column cards, exactly 6: 07 Public Prompts — “免费 SD 示例”; 08 GPTIMG.app — “GPT Image 2 专库”; 09 2Slides — “226+ 社区 Prompt”; 10 GPTImg.ai — “按任务分类”; 11 CUTY — “配图、变量、作者”; 12 PromptBase — “付费模板市场”.
+
+Central subject: At the lower center, place {argument name="character description" default="a stylish young anime male researcher with spiky black-and-yellow hair, sharp focused eyes, and a black headband"}. He is seated at a light wood desk, facing forward slightly, looking down with a serious expression while holding or using a black tablet/laptop. Outfit: bright yellow oversized tech jacket with black collar and white accents, black high-neck shirt, black pants, black-and-yellow high-top sneakers, a small gold pendant necklace, modern streetwear details. The character should be visible from head to shoes, centered between the two card columns.
+
+Desk and environment: Use a simple light wood table across the lower third. On the desk include exactly 7 visible objects: a black tablet/laptop in front of the character, three small white paper notes, one beige plant pot on stacked books at the left, one shallow round tray at the right, and one small beige vase with a thin plant stem at the right. Add a larger potted plant on the far left edge, hanging greenery on the right wall, and a few books stacked on the floor at the lower right. Background wall has subtle fabric/paper texture and a horizontal wainscot line.
+
+Footer: Bottom-left tiny text “AI 资源盘点系列”. Bottom-right tiny text “PROMPT SITES · 01” in faint golden yellow.
+
+Visual style: High-quality GPT Image 2 poster design, clean editorial typography, readable Chinese text, soft natural lighting, warm shadows, balanced negative space, anime illustration blended with realistic interior and infographic UI cards. Avoid logos, watermarks, extra cards, misspelled website names, or adding more than the specified 12 resources.
+```
+
+**来源：** [@起风了 ｜AI Lab](https://x.com/YuriWang49/status/2095401932609421384) | 2026-09-03
+
+---
+
+### 🖥️ 例 7382：深色系 AI 生成仪表盘截图
+
+![深色系 AI 生成仪表盘截图](../images/%E6%B7%B1%E8%89%B2%E7%B3%BB%20AI%20%E7%94%9F%E6%88%90%E4%BB%AA%E8%A1%A8%E7%9B%98%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="app name" default="HeliosGen"} 创建一张深色模式的桌面端网页应用截图，这是一个 AI 图像/视频生成仪表盘，以 16:9 的宽屏浏览器样式画布呈现。
+
+画布：1200×675 尺寸的截图，采用深海军蓝/黑色界面，主工作区带有细微的点阵网格纹理。使用简洁现代的 SaaS UI 美学，搭配细分割线、小巧的柔和灰色文本以及青色点缀。
+
+布局：左侧窄边栏占据约 10% 的宽度，其余部分为主要工作区。在工作区顶部，显示两个小标签：“已生成”（选中状态）和“已上传”（未选中状态）。在标签下方，水平排列显示 5 个生成的图像缩略图，顶部对齐，每个缩略图之间由细边框分隔。
+
+边栏细节：左上角的 Logo 文本为“HeliosGen”，配有一个小的青色图标。包含 6 个带有图标的主要导航项：1) 图像（选中状态），2) 视频，3) 工作流，4) 资源，5) 聊天，6) 设置。下方显示一个小的“文件夹”区域，包含 1 行名为“所有作品”的文件夹，随后是一个显示“暂无聊天记录”的空状态区域。在左下角，添加两个类似“1.8k”和“220”的小型统计数据/图标。
+
+缩略图行：从左到右显示 5 个缩略图：1) 日落时分金色沙漠中，黑色岩石上摆放着华丽的琥珀色奢华香水瓶；2) 日落时分沙漠沙丘的石板上，摆放着带有华丽金色瓶盖的圆形琥珀色香水瓶；3) 日落时分沙漠沙丘的黑色岩石上，摆放着带有新月形瓶盖的方形琥珀色香水瓶；4) 米白色摄影棚背景中心的一个红苹果；5) 极简白色摄影棚场景中，白色桌面上放置的一个较小的红苹果。前三个缩略图应具有电影感和暖色调；后两个应为极简产品摄影测试。
+
+底部提示词面板：在工作区底部中心附近，包含一个圆角的悬浮生成控制面板。面板左侧显示一个标记为“IMAGE 1:1”的小型正方形预览图。在主要文本区域，包含提示词：“{argument name="generation prompt" default="Luxury Saudi perfume bottle on black stone, desert dunes in the background at sunset, premium commercial product"}”。在面板底部，显示紧凑的控制选项，依次为“Nano Banana Pro”、“2K”、“1:1”、“1/4”、“Multi”和“JSON (4.14k)”，右侧配有一个青色的发送/生成按钮。
+
+视觉风格：清晰的 UI 截图，高对比度，极简光效，精细的点阵背景，逼真的生成图像缩略图，无浏览器边框，无额外弹窗，无人物，无水印。
+
+[English]
+Goal: Create a dark-mode desktop web app screenshot for {argument name="app name" default="HeliosGen"}, an AI image/video generation dashboard, shown in a wide 16:9 browser-like canvas.
+
+Canvas: 1200×675 style screenshot, very dark navy/black interface with subtle dotted grid texture across the main workspace. Use a clean modern SaaS UI aesthetic, thin dividers, small muted gray text, and teal accents.
+
+Layout: A narrow left sidebar occupies about 10% of the width, with the main workspace filling the rest. At the top of the main workspace, show two small tabs: “Generated” selected and “Uploaded” inactive. Beneath the tabs, display exactly 5 generated image thumbnails in one horizontal row, aligned along the top, each separated by thin borders.
+
+Sidebar details: Top-left logo text reads “HeliosGen” with a small teal emblem. Include exactly 6 primary navigation items with icons: 1) Image selected, 2) Video, 3) Workflow, 4) Assets, 5) Chat, 6) Settings. Below that, show a small “Folders” section with exactly 1 folder row labeled “All works,” then an empty-state area reading “No chats yet.” At the bottom-left, add two tiny stats/icons resembling “1.8k” and “220.”
+
+Thumbnail row: Show exactly 5 thumbnails from left to right: 1) an ornate amber luxury perfume bottle on a dark rock in a golden desert at sunset, 2) a rounded amber perfume bottle with ornate gold cap on a stone slab in desert dunes at sunset, 3) a square amber perfume bottle with a crescent-shaped cap on a black rock in desert dunes at sunset, 4) a single red apple centered on an off-white studio background, 5) a smaller red apple sitting on a white table in a minimal white studio scene. The first three thumbnails should feel cinematic and warm; the last two should be minimal product-photo tests.
+
+Bottom prompt panel: Near the bottom center of the workspace, include a floating generation control panel with rounded corners. On the left of the panel, show a small square preview tile labeled “IMAGE 1:1.” In the main text area, include the prompt: “{argument name="generation prompt" default="Luxury Saudi perfume bottle on black stone, desert dunes in the background at sunset, premium commercial product"}”. Along the bottom of the panel, show compact controls reading approximately “Nano Banana Pro,” “2K,” “1:1,” “1/4,” “Multi,” and “JSON (4.14k),” plus a teal send/generate button at the right.
+
+Visual style: Crisp UI screenshot, high contrast, minimal glow, fine dotted background, realistic generated-image thumbnails, no browser chrome, no extra popups, no people, no watermark.
+```
+
+**来源：** [@Abdullah](https://x.com/Abdullah_Ops1/status/2095380290872955067) | 2026-09-03
+
+---
+
