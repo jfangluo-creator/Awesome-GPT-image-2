@@ -4348,3 +4348,39 @@ Constraints: Keep all text legible and positioned like a designed poster. Use ex
 
 ---
 
+### 📊 例 7416：纸雕浮雕风格街区网格
+
+![纸雕浮雕风格街区网格](../images/%E7%BA%B8%E9%9B%95%E6%B5%AE%E9%9B%95%E9%A3%8E%E6%A0%BC%E8%A1%97%E5%8C%BA%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，选择 {argument name="neighborhoods" default="4 个街区"} 并展现其全貌：   PAPER_RELIEF(TOPIC) ::=  layer_00 = 平面衬纸层 layer_01 = 宽幅剪影层 layer_02 = 主要面部 / 物体平面层 layer_03 = 内部轮廓线层 layer_04 = 符号化物体与图表层 layer_05 = 流动卷轴与丝带层 layer_06 = 立体标题排版层 layer_07 = 微小压印细节层  规则： - 每一层都投射出柔和可见的阴影 - 边缘应呈现出物理切割、堆叠、折叠或卷曲的效果 - 细节密度在焦点区域附近增加 - 背景保持简洁且具有纸张质感 - 所有深度均源自真实的材质分层，而非数字渐变
+
+[English]
+2x2 grid, 16:9, pick {argument name="neighborhoods" default="4 neighborhoods"} in all their glory:   PAPER_RELIEF(TOPIC) ::=  layer_00 = flat backing sheet layer_01 = broad silhouette cutout layer_02 = major facial / object planes layer_03 = internal contour lines layer_04 = symbolic objects and diagrams layer_05 = flowing scrolls and ribbons layer_06 = dimensional title typography layer_07 = tiny embossed micro-details  Rules: - every layer casts a soft visible shadow - edges should look physically cut, stacked, folded, or curled - detail density increases near focal zones - background remains quiet and paper-based - all depth comes from real material layering, not digital gradients
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2096022497791721564) | 2026-09-04
+
+---
+
+### 📊 例 7455：高级时装角色概念设计图
+
+![高级时装角色概念设计图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级、现代的高级时装角色概念设计图，采用 16:9 宽屏布局，背景为纯白色。所附参考图定义了艺术风格——请将其视为严格的风格指南，并复刻其渲染效果。
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2095764602672009370) | 2026-09-04
+
+---
+

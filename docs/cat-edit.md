@@ -4303,3 +4303,57 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 ---
 
+### 🔧 例 7419：富士山日式旅馆日落景观
+
+![富士山日式旅馆日落景观](../images/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%97%A5%E5%BC%8F%E6%97%85%E9%A6%86%E6%97%A5%E8%90%BD%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度细节化的电影级风景场景，视角位于传统日式山间旅馆的阳台，远眺日落时分的富士山。构图前景由深色木梁、玻璃推拉门、榻榻米和开放式阳台栏杆构成，向外望去是云雾缭绕的山谷，点缀着湖泊、小镇灯火、桥梁和森林覆盖的丘陵，富士山位于画面中心，山顶积雪清晰可见。天空呈现出温暖的橙色、粉色和紫色云彩，低垂的太阳倒映在水面和云海之上。在阳台两侧添加盛开的樱花，空中飘落几片花瓣。右侧放置一座坐落在悬崖上、灯火通明的寺庙或旅馆凉亭，展现传统屋檐和灯笼光影。在前景中精确放置 6 个独特的舒适物件：1 只在深色花纹坐垫上睡觉的虎斑猫、1 个发光的方形纸灯笼、1 个黑色铸铁茶壶、1 个放有茶杯的浅茶盘、1 本写满日文手写字的打开的笔记本，以及旁边 1 本合上的深色书籍。包含 2 个清晰可见的悬挂文字元素：左侧是一个细长的垂直风铃挂牌，上面写着「また、ここで」；右侧是一个垂直书法卷轴，上面写着「今を生きる」。采用超高细节的写实渲染，温暖的灯笼照明，抛光的木质倒影，复杂的纹理，宁静的氛围，深景深，16:9 横向构图，无人物，无现代物品，无水印。
+
+[English]
+Create a highly detailed cinematic landscape scene from the veranda of a traditional Japanese mountain inn overlooking Mount Fuji at sunset. The composition is framed by dark wooden beams, sliding glass doors, tatami mats, and an open balcony railing in the foreground, looking out across a mist-filled valley with a lake, small town lights, bridges, forested hills, and Mount Fuji centered in the distance with snow on its summit. The sky glows with warm orange, pink, and violet clouds as the low sun reflects on the water and sea of clouds. Add abundant cherry blossoms in bloom on both sides of the veranda, with a few petals floating in the air. On the right, include a warmly lit temple or ryokan pavilion perched on a cliff, with traditional rooflines and lantern light. In the foreground, place exactly 6 distinct cozy objects: 1 sleeping tabby cat on a dark patterned floor cushion, 1 glowing square paper lantern, 1 black cast-iron teapot, 1 shallow tea tray with cups, 1 open notebook filled with Japanese handwriting, and 1 closed dark book beside it. Include exactly 2 visible hanging text elements: a narrow vertical wind chime tag on the left reading 「また、ここで」 and a vertical calligraphy scroll on the right reading 「今を生きる」. Use photorealistic ultra-high-detail rendering, warm lantern illumination, polished wood reflections, intricate textures, serene atmosphere, deep depth of field, 16:9 horizontal composition, no people, no modern objects, no watermark.
+```
+
+**来源：** [@Satoshi Koda | らなとす](https://x.com/Ranats85/status/2096009928356123033) | 2026-09-04
+
+---
+
+### 🔧 例 7426：多机位多角度网格大师
+
+![多机位多角度网格大师](../images/%E5%A4%9A%E6%9C%BA%E4%BD%8D%E5%A4%9A%E8%A7%92%E5%BA%A6%E7%BD%91%E6%A0%BC%E5%A4%A7%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以附图作为唯一的参考标准，创建一张图像，该图像为一个整洁的 3 列 2 行网格，包含六张完全相同场景的照片，这些照片从六个不同的摄像机位置拍摄，就像六台摄像机在同一瞬间放置在房间周围一样。锁定附图中的所有元素：相同的人物及其面部、发型、肤色、眼镜、服装和身体比例；相同的家具、道具、墙壁、带有相同文字的标牌、灯光设置和色彩分级；以及相同的时间段。不添加、删除或重新排列任何内容——仅在面板之间改变摄像机位置、镜头和取景。每个物体在房间内的物理位置保持不变，因此空间关系在不同角度间保持一致。面板 1（左上）：广角主镜头——与附图相同的取景和摄像机位置，平视角度，35mm 镜头，可见完整场景。面板 2（中上）：高角度俯拍——摄像机安装在场景中心正上方，垂直向下拍摄地面，24mm 镜头，从上方展示家具、道具和人物的布局，如同天花板摄像机。面板 3（右上）：过肩镜头，从原图中左侧主体后方拍摄，看向右侧主体，50mm 镜头，光圈 f/2.0，近处肩膀在前景中虚化，远处主体清晰。面板 4（左下）：反向过肩镜头，从原图中右侧主体后方拍摄，看向左侧主体，50mm 镜头，光圈 f/2.0，近处肩膀虚化，远处主体清晰。面板 5（中下）：低角度四分之三镜头——摄像机放置在场景左前角靠近地面的位置，略微向上倾斜，28mm 镜头，展示向后墙延伸的场景深度。面板 6（右下）：主主体面部及上半身的特写镜头，85mm 镜头，光圈 f/1.8，平视角度，浅景深，背景柔和虚化，自然的皮肤纹理，眼中带有眼神光。如果场景中只有一个人，则将过肩面板改为从该人物左侧和右侧拍摄的四分之三侧面角度。如果场景中没有人，则将主要物体或家具组合作为面板 3、4 和 6 的主体。网格规则：六个大小相等的面板，面板之间有细而整洁的白色间隙，无边框，无文字标签，无数字，无标题，图像内无水印。所有六个面板共享相同的摄影风格：照片级真实感，相同的白平衡、曝光、色彩分级、细微的胶片颗粒感，以及与附图一致的灯光方向。每个面板都呈现出清晰、专业、真实摄像机的质感。
+
+[English]
+Using the attached image as the single source of truth, create ONE image that is a clean 3-column by 2-row grid of six photographs of the EXACT same scene, captured from six different camera positions, as if six cameras were placed around the room at the same instant.
+
+Lock everything from the attached image: the same people with the same faces, hair, skin tone, glasses, clothing and body proportions; the same furniture, props, walls, signage with the same text, lighting setup and color grade; the same time of day. Nothing is added, removed, or rearranged — only the camera position, lens and framing change between panels. Every object stays in the same physical place in the room, so the spatial relationships remain consistent from angle to angle.
+
+Panel 1 (top-left): Wide master shot — the same framing and camera position as the attached image, eye-level, 35mm lens, the full scene visible.
+
+Panel 2 (top-center): High-angle top-down shot — camera mounted directly above the center of the scene looking straight down at the floor, 24mm lens, showing the layout of the furniture, props and people from above, like a ceiling camera.
+
+Panel 3 (top-right): Over-the-shoulder shot from behind the subject on the LEFT of the original image, looking across at the subject on the RIGHT, 50mm lens at f/2.0, the near shoulder soft in the foreground, the far subject sharp.
+
+Panel 4 (bottom-left): Reverse over-the-shoulder shot from behind the subject on the RIGHT of the original image, looking across at the subject on the LEFT, 50mm lens at f/2.0, near shoulder soft, far subject sharp.
+
+Panel 5 (bottom-center): Low-angle three-quarter shot — camera placed low near floor height at the front-left corner of the scene, tilted slightly upward, 28mm lens, showing the scene with depth toward the back wall.
+
+Panel 6 (bottom-right): Tight close-up on the main subject's face and upper body, 85mm lens at f/1.8, eye-level, shallow depth of field, background softly blurred, natural skin texture, catchlights in the eyes.
+
+If the scene contains only one person, apply the over-the-shoulder panels as a three-quarter side angle from the left and from the right of that person instead. If the scene contains no people, treat the main object or furniture group as the subject for panels 3, 4 and 6.
+
+Grid rules: six equal-sized panels, thin clean white gutters between them, no borders, no text labels, no numbers, no captions, no watermarks inside the image. All six panels share identical photographic style: photorealistic, same white balance, same exposure, same color grade, same subtle film grain, consistent lighting direction as in the attached image. Sharp, professional, real-camera look in every panel.
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2095934699306893404) | 2026-09-04
+
+---
+

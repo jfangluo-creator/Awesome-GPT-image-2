@@ -19775,3 +19775,168 @@ Create a cinematic photorealistic 16:9 action shot of {argument name="character 
 
 ---
 
+### 🏷️ 例 7418：东京秋季时尚动漫肖像
+
+![东京秋季时尚动漫肖像](../images/%E4%B8%9C%E4%BA%AC%E7%A7%8B%E5%AD%A3%E6%97%B6%E5%B0%9A%E5%8A%A8%E6%BC%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫时尚编辑插画，描绘一位时髦的年轻女性走在东京阳光明媚的秋季街道上，右侧背景中清晰可见东京塔。她留着 {argument name="hair color" default="柔和的灰白色波浪卷发"}，头发松散地扎起，脸颊旁散落着轻盈的发丝，妆容精致，有着温暖的棕色眼睛和自信温柔的微笑。她戴着一顶宽檐 {argument name="hat color" default="深红色"} 草帽，帽上系着奶油色丝带蝴蝶结，身穿红色复古波点连衣裙，外搭一件黑色漆皮质感风衣，配有黄铜纽扣、袖口扣带和收腰腰带，并佩戴着珍珠般的小耳环和精致的项链。她的左手扶着帽檐，右手提着一个印花购物袋。画面采用全身至四分之三的时尚肖像构图，视角略低，姿态优雅，风吹动着风衣下摆和裙摆，线条清晰利落，边缘平滑无锯齿，衣物褶皱细节丰富，采用柔和的动漫绘画渲染风格，灵感源自 20 世纪 90 年代日本流行时尚的迷人复古都市风格。背景：绿树成荫的林荫大道，铺满金色的秋叶，左侧有石墙和路灯，远处的城市建筑、行人和车辆呈现柔和的虚化效果，明亮的蓝天飘着几朵云，温暖的阳光透过树叶形成光斑。采用 4:5 竖版构图，高细节，浅景深，自然光照明，精致的角色设定风格，无文字，无水印，前景中无多余角色。
+
+[English]
+Create a polished anime fashion editorial illustration of a stylish young woman walking on a sunny autumn street in Tokyo, with Tokyo Tower clearly visible in the right background. She has {argument name="hair color" default="soft ash-gray wavy hair"} loosely tied up with airy strands around her face, delicate makeup, warm brown eyes, and a gentle confident smile. She wears a wide-brim {argument name="hat color" default="deep red"} straw hat with a cream ribbon bow, a red vintage dress with large white polka dots, a black belted trench coat with glossy fabric, brass buttons, buckle cuffs, and a fitted waist belt, plus small pearl-like earrings and a dainty necklace. Her left hand holds the brim of the hat, and her right hand carries one patterned shopping bag. The scene is full-body to three-quarter fashion portrait framing, slightly low eye-level, elegant pose, wind lifting the coat hem and dress, crisp clean linework with smooth non-jagged edges, highly detailed fabric folds, soft painterly anime rendering, glamorous retro city style inspired by 1990s Japanese pop fashion. Background: tree-lined boulevard with golden autumn leaves, stone wall and lampposts on the left, city buildings, pedestrians and cars softly blurred in the distance, bright blue sky with small clouds, warm sunlight and bokeh through leaves. Use a vertical 4:5 composition, high detail, shallow depth of field, luminous natural lighting, refined character-sheet-like anime style, no text, no watermark, no extra characters in the foreground.
+```
+
+**来源：** [@MoMu & TeaSteam (もむち)](https://x.com/momuandteasteam/status/2096009971569930704) | 2026-09-04
+
+---
+
+### 🏷️ 例 7421：多角度一致室内房间网格
+
+![多角度一致室内房间网格](../images/%E5%A4%9A%E8%A7%92%E5%BA%A6%E4%B8%80%E8%87%B4%E5%AE%A4%E5%86%85%E6%88%BF%E9%97%B4%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请以附带的照片作为该房间的精确参考，创建一个分为 2x2 网格的单张图像，包含四个相等的面板。每个面板均为从不同墙面拍摄的同一房间的写实广角视图，要求家具、颜色、米色地毯、灰白色墙面、平淡的阴天窗外光线以及 35mm 胶片质感保持完全一致，且所有面板中均不得出现人物。
+
+面板 1（左上）—— 参考视图：站在门口看向窗户所在的墙面；木制梳妆台上放着电视，左侧是黑色迷你冰箱，右侧墙边是铺得凌乱的深蓝色被子，近右角处放着洗衣篮和椅子。
+
+面板 2（右上）—— 看向右侧墙面：从侧面看床，床头靠墙，木制床头柜上放着蓝色台灯、咖啡杯和一叠信件，上方挂着带框的老鹰海报，窗户现在位于画面左边缘。
+
+面板 3（左下）—— 看向左侧墙面：木制梳妆台上放着旧式大头电视、麦片碗和游戏手柄，旁边是黑色迷你冰箱，窗户现在位于画面右边缘，床尾可见于最右侧。
+
+面板 4（右下）—— 回看房门所在的墙面，即参考视图的反向角度：打开的卧室门带有黄铜门把手，洗衣篮和放着法兰绒衬衫的椅子现在位于左侧，梳妆台和电视现在位于右侧，床尾位于近处前景。
+
+每个物体都需保持其在房间内的真实位置，以确保所有四个视图共同描述一个空间一致的场景。
+
+[English]
+Using the attached photograph as the exact reference for this room, create a single image divided into a 2x2 grid of four equal panels, each a photorealistic wide view of the SAME room from a different wall, same furniture, same colors, same beige carpet, same off-white walls, same flat overcast window light, same 35mm film look, no people in any panel.
+
+Panel 1 (top-left) — the reference view: standing in the doorway looking at the window wall; TV on the wooden dresser and the black mini fridge on the left, the unmade bed with navy comforter along the right wall, laundry basket and chair in the near right corner.
+
+Panel 2 (top-right) — looking at the right wall: the bed seen from the side, headboard end against the wall, the wooden nightstand with the blue lamp, coffee mug and stack of mail, the framed eagle poster above it, the window now on the left edge of frame.
+
+Panel 3 (bottom-left) — looking at the left wall: the wooden dresser with the old boxy TV, cereal bowl and game controller, the black mini fridge beside it, the window now on the right edge of frame, the bed's foot visible on the far right.
+
+Panel 4 (bottom-right) — looking back at the door wall, the reverse angle of the reference: the open bedroom door with brass knob, the laundry basket and chair with the flannel shirt now on the left, the dresser and TV now on the right, the bed's foot in the near foreground.
+
+Every object keeps its real position in the room so all four views describe one consistent space.
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2095979782068666556) | 2026-09-04
+
+---
+
+### 🏷️ 例 7427：播客演播室访谈镜头
+
+![播客演播室访谈镜头](../images/%E6%92%AD%E5%AE%A2%E6%BC%94%E6%92%AD%E5%AE%A4%E8%AE%BF%E8%B0%88%E9%95%9C%E5%A4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+真实播客访谈的写实风格编辑照片，场景位于一个小型、舒适的家庭演播室。两人坐在播客布景中交谈。
+
+来自图片 1 的人物坐在左侧，坐在一张弧形浅灰色织物扶手椅上，身体向右倾斜约 30 度，一只手自然地放在扶手上，姿态放松，正在交谈中，面带自然的微笑，注视着对方。来自图片 2 的人物坐在右侧，坐在另一张配套的弧形浅灰色织物扶手椅上，身体向左倾斜约 30 度，身体微微前倾，手肘撑在膝盖上，表情温和地倾听，注视着图片 1 中的人物。
+
+请保持与图片 1 和图片 2 完全一致的面部特征、肤色、发型、胡须、眼镜（如有）、体型和年龄。请勿改变或美化任何面部特征。服装：保持每个人照片中的真实着装，整洁简约。
+
+两人之间放着一张矮小的白色圆形边桌，上面摆放着一盆小型绿色植物。每人面前各有一个安装在哑光黑色悬臂支架上的黑色专业广播麦克风，位置靠近嘴部但不会遮挡面部，线缆整理整齐。
+
+背景：温暖的灰白色灰泥墙。在两把椅子后方的正上方，挂着一个黑色长方形墙面标志，上面用简洁的白色粗体无衬线大写字母写着播客名称“{argument name="podcast name" default="PODCAST NAME"}”。标志右侧是一个靠在深色小木架上的黑白排版海报；最右侧是一个深色木质书架，上面放着几本书、一台小型相机和一个装饰品。最左侧是一盆高大的室内绿植和一盏细长的落地灯。墙壁最左侧边缘悬挂着柔软的深灰色窗帘。浅色木地板。
+
+灯光：左上角支架上有一个大型白色柔光箱作为主光，以约 2:1 的比例柔和地照亮两人，光线过渡平滑；右上角可见一个带有黑色背衬的大型柔光箱作为补光；落地灯提供温暖的实用光。阴影柔和，环绕式皮肤光线自然，呈现出带有毛孔和细微高光的真实皮肤质感，无刺眼的强光点。
+
+相机：使用全画幅数字电影摄影机拍摄
+
+[English]
+Photorealistic editorial photograph of a real podcast interview inside a small, cozy home studio. Two people are seated and talking to each other on a podcast set.
+
+The person from Image 1 sits on the LEFT in a curved light-grey fabric armchair, body angled about 30 degrees toward the right, one hand resting naturally on the armrest, relaxed posture, mid-conversation with a genuine easy smile, eyes on the other person. The person from Image 2 sits on the RIGHT in a matching curved light-grey fabric armchair, body angled about 30 degrees toward the left, leaning slightly forward with elbows on knees, listening attentively with a warm expression, eyes on the person from Image 1.
+
+Keep the exact same faces, skin tone, hairstyle, facial hair, glasses if present, body build and age as in Image 1 and Image 2. Do not alter or idealize either face. Clothing: keep each person's real outfit from their photo, clean and simple.
+
+Between them stands a low white round side table with a small potted green plant. In front of each person a black professional broadcast microphone on a matte-black articulated boom arm, positioned near their mouth but not covering the face, cables tidy.
+
+Background: a warm off-white plaster wall. Centered above and behind the two chairs, a black rectangular wall sign with the podcast name "{argument name="podcast name" default="PODCAST NAME"}" in clean white bold sans-serif capitals. To the right of the sign, a framed black-and-white typographic poster leaning on a small dark wood shelf; a dark wooden shelving unit on the far right with a few books, a small camera and a decorative object. On the far left a tall green indoor plant and a slim floor lamp. Dark grey curtains hang softly on the far left edge of the wall. Light wood floor.
+
+Lighting: one large white softbox key light on a stand in the upper-left corner, softly illuminating both people at about a 2:1 ratio with smooth falloff; a large black-backed softbox visible in the upper-right corner as fill; warm practical glow from the floor lamp. Soft shadows, gentle wraparound skin light, natural skin texture with pores and subtle specular highlights, no harsh hotspots.
+
+Camera: shot on a full-frame digital cinema camera
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2095934352823857604) | 2026-09-04
+
+---
+
+### 🏷️ 例 7430：电影级角色对比表
+
+![电影级角色对比表](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E5%AF%B9%E6%AF%94%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="characters" default="KEVIN vs THE WET BANDITS"} 创建一份高级电影级角色设定集。请将上传的角色设定图作为所有三个角色的严格视觉参考。请勿更改他们的任何外观。\n布局：左侧放置英雄角色，面向
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="characters" default="KEVIN vs THE WET BANDITS"}. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances.\nLAYOUT: One hero character on the left facing
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2095913806060830881) | 2026-09-04
+
+---
+
+### 🏷️ 例 7437：空灵植物奇幻插画
+
+![空灵植物奇幻插画](../images/%E7%A9%BA%E7%81%B5%E6%A4%8D%E7%89%A9%E5%A5%87%E5%B9%BB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+1: 一个 {argument name="main subject" default="身着飘逸长裙、空灵且半透明的优雅年轻女性剪影"}，周围环绕着虹彩蜻蜓和蝴蝶
+2: 一枝柔嫩的 {argument name="flowers" default="淡粉色玫瑰"}，花瓣呈半透明状，底部点缀着小紫罗兰
+3: 一株优雅的 {argument name="shrub" default="草地灌木"}，开着半透明的白色钟形花朵，并簇拥着微小的发光浆果
+
+精致的手绘植物奇幻插画，柔和的瓷器质感水粉画风格，半透明粉彩元素，柔和的鼠尾草绿与灰粉色调，来自上方的空灵光线，闪烁的水滴，发光的半透明细节，虹彩点缀，细腻的笔触与浮雕质感，柔和的漫射光，全出血构图，无边框，无边线
+
+边框，边线，晕影，硬边缘，深色轮廓，霓虹色，3D 渲染，照片级真实感，文字，水印
+
+[English]
+1: an {argument name="main subject" default="ethereal semi-transparent silhouette of a graceful young woman in a flowing dress"}, surrounded by iridescent dragonflies and butterflies
+2: a tender branch of {argument name="flowers" default="pale pink roses"} with translucent petals and small violets at the base
+3: a graceful {argument name="shrub" default="meadow shrub"} with translucent white bell-shaped flowers and clusters of tiny glowing berries
+
+delicate hand-painted botanical fantasy illustration, soft porcelain-like gouache painting style, translucent pastel elements, gentle sage-green and dusty-rose palette, ethereal light rays from above, glistening water droplets, luminous semi-transparent details, iridescent accents, fine brushwork with embossed relief texture, soft diffused lighting, full-bleed composition, no frame, no border
+
+frame, border, vignette, hard edges, dark outline, neon colors, 3D render, photorealistic, text, watermark
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2095866990996943284) | 2026-09-04
+
+---
+
+### 🏷️ 例 7443：电影级角色设定集分屏页面
+
+![电影级角色设定集分屏页面](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86%E5%88%86%E5%B1%8F%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级电影级角色设定集页面，角色为 {argument name="characters" default="RIGGS & MURTAUGH"}。请严格参考上传的角色设定图，确保两个角色的视觉形象保持一致。请勿更改任何角色的外观。
+布局：分屏搭档格式。页面由一条粗线平分为左右两部分
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="characters" default="RIGGS & MURTAUGH"}. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.\nLAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2095836037167628529) | 2026-09-04
+
+---
+

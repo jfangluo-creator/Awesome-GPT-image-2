@@ -15303,3 +15303,63 @@ Visual style: Crisp UI screenshot, high contrast, minimal glow, fine dotted back
 
 ---
 
+### 🖥️ 例 7424：婴儿版形象转换
+
+![婴儿版形象转换](../images/%E5%A9%B4%E5%84%BF%E7%89%88%E5%BD%A2%E8%B1%A1%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以附带的照片作为身份参考，创作一张该人物 1 岁时快乐模样的写实、温馨肖像照。
+
+将人物的真实特征融入婴儿版本中，确保相似度清晰可见：相同的肤色、眼睛颜色和形状、眉形、鼻形、唇形、面部比例、发色和发质，以及任何独特的特征，如酒窝、下巴凹陷、雀斑或特定的笑容。婴儿的脸部应像 12 个月大的真实婴儿一样柔软、圆润且脸颊丰满，拥有与人物自然发色一致的细软胎毛，以及明亮的大眼睛。
+
+性别根据附带照片推断。如果人物为男性，婴儿穿着符合其色调的柔软棉质服装——舒适的长袖连体衣或小 T 恤搭配柔软裤子和微型袜子。如果人物为女性，婴儿穿着符合其色调的柔软棉质服装——舒适的长袖连体衣或小上衣搭配柔软打底裤和微型袜子。所有服装均舒适、不透明且完全覆盖身体，具有真实的织物纹理和自然褶皱。
+
+动作：婴儿坐在地板上的毛绒地毯或柔软的奶油色毯子上，正在玩耍——两只小手举着色彩鲜艳的木制叠叠乐玩具，或者伸手去拿柔软的积木，亦或是抱着一个小毛绒泰迪熊。自然的婴儿姿态，身体微微晃动，一条腿蜷缩，全神贯注于玩耍。婴儿刚刚抬头看向镜头，露出灿烂、纯真、无牙的笑容，露出几颗小乳牙，眼睛因喜悦而眯起，脸颊上扬。
+
+场景：明亮、整洁、温馨的家庭客厅——温暖的木地板，柔软的奶油色毯子，周围散落着几个彩色木制玩具，背景中的沙发微微虚化，一侧的窗户透进自然光。一切整洁、安全且充满居家感。
+
+相机与光影：使用全画幅相机搭配 85mm f/1.8 镜头拍摄，相机置于与婴儿视线齐平的地板高度，采用紧凑的四分之三身位构图，将玩具纳入画面，浅景深，婴儿眼睛清晰锐利，背景柔和虚化。光线为一侧柔和的自然窗光，带有温和的补光，色调温暖通透，呈现自然的婴儿皮肤质感和柔和的高光，眼睛中有清晰的眼神光。
+
+风格：看起来像是一张在家中拍摄的专业家庭照片，自然、愉悦，带有轻微的暖色调，细微的胶片颗粒感，配色方案为 60% 的柔和奶油色和暖木色，30% 来自服装和玩具的柔和粉彩色，以及 10% 来自叠叠乐玩具的明亮强调色。纯净、治愈且可爱。
+
+[English]
+Using the attached photo as the identity reference, create a photorealistic, heartwarming portrait of this exact same person as a happy 1-year-old baby.
+
+Carry the person's real features into the baby version so the resemblance is clear: the same skin tone, eye color and eye shape, the same eyebrow shape, nose shape, lip shape, face proportions, hair color and hair texture, plus any distinctive traits such as dimples, a cleft chin, freckles or a particular smile. The baby's face is soft, round and chubby-cheeked as a real 12-month-old, with fine wispy baby hair in the person's natural hair color, and big bright eyes.
+
+Gender is inferred from the attached photo. If the person is male, the baby wears a soft cotton outfit in his palette — a cozy long-sleeve onesie or a small t-shirt with soft pants and tiny socks. If the person is female, the baby wears a soft cotton outfit in her palette — a cozy long-sleeve romper or a little top with soft leggings and tiny socks. All clothing is comfortable, opaque and fully covering the body, with real fabric texture and natural creases.
+
+Action: the baby is sitting on a plush carpet or a soft cream blanket on the floor, actively playing — holding up a colorful wooden stacking ring toy in both small hands, or reaching for soft building blocks, or hugging a small plush teddy bear. Natural baby posture, slightly wobbly, one leg tucked, fully absorbed in play. The baby has just looked up at the camera with a wide, genuine, gummy smile showing a couple of tiny front teeth, eyes crinkled with joy, cheeks lifted.
+
+Setting: a bright, clean, cozy family living room — warm wooden floor, soft cream blanket, a few colorful wooden toys scattered around, a sofa softly blurred in the background, a window on one side letting in daylight. Everything is tidy, safe and homely.
+
+Camera and light: shot on a full-frame camera with an 85mm lens at f/1.8, camera at the baby's eye level close to the floor, tight three-quarter body framing with the toy in frame, shallow depth of field, baby's eyes tack sharp, background softly blurred. Lighting is soft natural window daylight from one side with gentle fill, warm and airy, natural baby skin texture with soft highlights, clear catchlights in the eyes.
+
+Style: looks like a real professional family photograph taken at home, candid and joyful, with a light warm color grade, subtle film grain and a palette of 60% soft cream and warm wood tones, 30% gentle pastel colors from the outfit and toys, 10% bright accent color from the stacking rings. Pure, wholesome and cute.
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2095949634128818184) | 2026-09-04
+
+---
+
+### 🖥️ 例 7425：热气球之旅双联画
+
+![热气球之旅双联画](../images/%E7%83%AD%E6%B0%94%E7%90%83%E4%B9%8B%E6%97%85%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以附带的照片作为人物参考，创作一张分为左右两等分面板的图像，中间由一条细白线隔开，展示同一人或同一群人在日出时乘坐热气球的场景。附带照片中的每个人都必须出现在两个面板中，且面部特征、面部结构、肤色、眼睛颜色、发型、发色、胡须、眼镜（如有）、年龄和体型必须完全一致，确保每个人都能被一眼认出。如果附带了多人的照片，他们需共同出现在同一个吊篮中，站在一起，像真正的朋友、情侣或家人那样亲密地搂着肩膀或靠在一起，每个人都面带喜悦。服装需根据个人风格调整：适合清晨高空的舒适旅行装——米色或燕麦色针织毛衣、浅棕色或橄榄色夹克、深色牛仔裤或长裤、舒适的运动鞋或靴子。所有衣物均为不透明、闭合且完全覆盖，具有真实的针织和织物纹理以及自然的褶皱。左侧面板——特写：相机位于吊篮内视线高度，35mm 镜头，光圈 f/2.8，胸部以上紧凑构图，人物向镜头靠拢，露出灿烂真诚的笑容，眼神闪烁，发丝随微风轻拂。画面底部边缘可见编织柳条篮筐的边缘，背景是带有少量薄云的柔和蓝天，地平线较低。面部清晰锐利，背景虚化柔和，温暖的金色晨光包裹着每张脸的一侧，另一侧则是柔和的天空补光，眼中带有清晰的眼神光，皮肤纹理自然。右侧面板——广角：相机安装在燃烧器框架高处，以陡峭的角度向下俯瞰吊篮，24mm 镜头，光圈 f/5.6，展示整群人站在编织柳条篮筐中抬头看向镜头并微笑，其中一人在挥手。在他们上方是拉丝钢材质的燃烧器装置和不锈钢承重框架，钢丝缆绳向上延伸至热气球球囊边缘，顶部可见明亮的橙红色防撕裂尼龙布料。在吊篮下方及周围，广阔的日出景观延伸至地平线：起伏的拼布田野、河流、小村庄，距离地面数千英尺，篮筐高度处有散落的柔和白云，上方是蓝天。画面整体对焦清晰，细节丰富。光影与色彩：采用地平线附近低角度太阳的真实清晨黄金时刻阳光，热气球布料和皮肤上呈现温暖的橙金色，天空中带有清冷的柔和蓝色，地平线处有轻微的大气雾霾。色调比例：60% 柔和蓝天与白云，30% 温暖金色光线与自然大地色，10% 热气球球囊的鲜艳橙红色。风格：看起来像是同一场热气球飞行中，用全画幅相机在几分钟内拍摄的两张真实照片，充满喜悦、自然且真实，带有细腻的胶片颗粒感和真实的对比度。相同人物
+
+[English]
+Using the attached photo(s) as identity references, create ONE image split into two equal side-by-side panels with a thin white gutter between them, showing the exact same person or group of people riding in a hot air balloon at sunrise. Every person from the attached photo(s) appears in both panels, with their exact same face, facial structure, skin tone, eye color, hairstyle, hair color, facial hair, glasses if present, age and body build, so each person is instantly recognizable. If multiple people are attached, all of them are together in the same basket, standing close, arms around each other or shoulders touching like real friends, a couple or a family, everyone looking happy. Wardrobe adapts to each person: cozy travel outfits for early morning altitude — a cream or oatmeal knit sweater, a light beige or olive jacket, dark jeans or trousers, comfortable sneakers or boots. All clothing is opaque, closed and fully covering, with real knit and fabric texture and natural creases. LEFT PANEL — close-up: camera inside the basket at eye level, 35mm lens at f/2.8, tight framing from the chest up, the people leaning together toward the lens with wide genuine smiles and sparkling eyes, hair slightly moved by the breeze. The woven wicker basket rim is visible at the bottom edge of the frame, and behind them the sky is soft blue with a few thin clouds, the horizon low. Faces tack sharp, background softly blurred, warm golden sunrise light wrapping one side of each face with soft sky fill on the other, clear catchlights in the eyes, natural skin texture. RIGHT PANEL — wide: camera mounted high on the burner frame looking down into the basket at a steep angle, 24mm lens at f/5.6, showing the full group standing in the woven wicker basket looking up at the camera and smiling, one person waving. Above them the brushed-steel burner unit and stainless load frame with wire cables lead up to the edge of the balloon envelope, its bright orange and red ripstop nylon panels partly visible at the top of the frame. Below and around the basket, a vast sunrise landscape stretches to the horizon: rolling patchwork fields, a river, a small village, thousands of feet below, with a soft layer of scattered white clouds at basket level and blue sky above. Everything in focus, crisp and detailed. Light and color for both panels: real early-morning golden-hour sunlight from a low sun near the horizon, warm orange-gold on the balloon fabric and skin, cool soft blue in the sky, gentle atmospheric haze toward the horizon. Palette of 60% soft blue sky and white clouds, 30% warm golden light and natural earth tones from the landscape, 10% vivid orange-red from the balloon envelope. Style: looks like two real photographs from the same balloon flight taken minutes apart on a full-frame camera, joyful, natural and candid, with subtle film grain and true-to-life contrast. Same People
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2095949390963998851) | 2026-09-04
+
+---
+

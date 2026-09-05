@@ -9712,3 +9712,131 @@ Constraints: All visible text should be Japanese as specified. Keep the grid pre
 
 ---
 
+### 🎬 例 7423：困倦的 Astra 四格漫画
+
+![困倦的 Astra 四格漫画](../images/%E5%9B%B0%E5%80%A6%E7%9A%84%20Astra%20%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一部柔和色调的 4 格竖版漫画，讲述一个困倦的 Q 版女孩在深夜遇见一台 AI 笔记本电脑的故事。
+
+画布：高竖版网络漫画页面，比例约为 2:3，从上到下分为 4 个水平排列的格子。每个格子均采用圆角设计，配有淡蓝色细边框，格子间留有白色间隙。
+
+视觉风格：可爱的日系 Q 版动漫插画，细腻的水彩/柔和色调渲染，干净的细线条，淡紫蓝色的夜间色调，温馨舒适的卧室氛围，背景细节极简，无生硬阴影。
+
+主角：一个名为 {argument name="character name" default="Astra"} 的 Q 版小女孩，有着非常长的蓬松白发，头顶有一根卷曲的呆毛，皮肤白皙，大大的困倦蓝眼睛，穿着超大号的淡蓝色睡裙，袖口和下摆为白色。她全程看起来既困倦又可爱。
+
+场景：深夜的简约卧室，配有一张矮圆木桌、一台笔记本电脑、一扇挂着淡色系带窗帘的窗户，窗外可见深蓝色的夜空、新月和星星，浅灰色地板和墙壁，右侧在多个格子中出现一个柔软的蓝色坐垫/枕头。
+
+格子布局与动作，共 4 格：
+1. 第 1 格：笔记本电脑打开放在左侧的矮圆桌上，屏幕朝向前方，显示文字 {argument name="laptop screen text" default="GPT-6 Astra"}。Q 版女孩站在桌子右侧，双臂举起，仿佛刚睡醒或在庆祝，双眼闭合，嘴巴微张。右侧有一个垂直的日文对话气泡，写着 {argument name="panel 1 speech" default="アストラが来た！"}。
+2. 第 2 格：笔记本电脑转动，背面朝向观众，放在左侧桌上。女孩困倦地坐在右侧的蓝色坐垫上，一根手指靠近嘴边，看起来若有所思且疲惫。右侧有一个垂直的思考/对话气泡，写着 {argument name="panel 2 speech" default="すごいこと聞こう"}。
+3. 第 3 格：女孩从坐垫上向前倾身靠近笔记本电脑，双手放在键盘附近，带着困倦的好奇心看着屏幕。桌后依然是带有月亮和星星的窗户。右侧有一个垂直的对话气泡，写着 {argument name="panel 3 speech" default="朝ごはん何にする？"}。
+4. 第 4 格：女孩盘腿坐在左侧的蓝色坐垫上，半睁着眼睛，看起来极度困倦。笔记本电脑打开放在右侧的矮圆桌上，角度朝向她。共有 2 个垂直对话气泡：靠近笔记本电脑的右侧气泡写着「まず寝よう」，靠近女孩的左侧气泡写着「それはそう」。
+
+文本数量：总共包含 5 个可见文本元素：1 个笔记本电脑屏幕标签和 4 个日文对话气泡。在漫画气泡中，请保持日文文本为垂直排版。
+
+限制：保持构图简洁明了，确保 4 个格子中角色设计的一致性，使用柔和的圆润形状，保留温馨的深夜房间氛围，避免添加额外的标题、Logo、水印、音效或额外角色。
+
+[English]
+Goal: Create a soft pastel 4-panel vertical manga comic about a sleepy chibi girl meeting an AI laptop late at night.
+
+Canvas: Tall vertical webcomic page, approximately 2:3 aspect ratio, divided into exactly 4 horizontal panels stacked from top to bottom. Each panel has rounded corners, a thin pale blue border, and small white gutters between panels.
+
+Visual style: Kawaii Japanese chibi anime illustration, delicate watercolor/pastel shading, clean thin line art, soft lavender-blue nighttime palette, gentle cozy bedroom atmosphere, minimal background detail, no harsh shadows.
+
+Main character: A tiny chibi girl named {argument name="character name" default="Astra"} with very long fluffy white hair, a single curled ahoge on top, pale skin, large sleepy blue eyes, and an oversized pale blue pajama dress with white cuffs and hem. She should look drowsy and cute throughout.
+
+Setting: A simple bedroom at night with a low round wooden table, a laptop, a window with tied pale curtains, a dark blue night sky with crescent moon and stars visible outside, light gray floor and wall, and a soft blue floor cushion/pillow appearing on the right side in several panels.
+
+Panel layout and action, exactly 4 panels:
+1. Panel 1: The laptop is open on the low round table at left, screen facing forward and displaying the text {argument name="laptop screen text" default="GPT-6 Astra"}. The chibi girl stands to the right of the table with both arms raised as if just waking up or celebrating, eyes closed, mouth open. A vertical Japanese speech bubble on the right says {argument name="panel 1 speech" default="アストラが来た！"}.
+2. Panel 2: The laptop is now turned so its back faces the viewer on the table at left. The girl sits sleepily on a blue cushion to the right of the table, one finger near her mouth, looking thoughtful and tired. A vertical thought/speech bubble on the right says {argument name="panel 2 speech" default="すごいこと聞こう"}.
+3. Panel 3: The girl leans forward from the cushion toward the laptop, hands near the keyboard, looking at the screen with sleepy curiosity. The window with moon and stars remains behind the table. A vertical speech bubble on the right says {argument name="panel 3 speech" default="朝ごはん何にする？"}.
+4. Panel 4: The girl sits cross-legged on the blue cushion at left, looking extremely sleepy with half-closed eyes. The laptop sits open on the low round table to the right, angled toward her. There are exactly 2 vertical speech bubbles: the right bubble near the laptop says 「まず寝よう」 and the left bubble near the girl says 「それはそう」.
+
+Text count: Include exactly 5 visible text elements total: 1 laptop screen label and 4 Japanese speech bubbles across the comic. Keep the Japanese text vertical inside oval manga speech bubbles where shown.
+
+Constraints: Keep the composition simple and uncluttered, maintain consistent character design across all 4 panels, use soft rounded shapes, preserve the cozy late-night room, avoid extra captions, logos, watermarks, sound effects, or additional characters.
+```
+
+**来源：** [@あいきみ](https://x.com/AiWithYou1/status/2095956756065316878) | 2026-09-04
+
+---
+
+### 🎬 例 7436：将儿童绘画转化为动漫绘本世界
+
+![将儿童绘画转化为动漫绘本世界](../images/%E5%B0%86%E5%84%BF%E7%AB%A5%E7%BB%98%E7%94%BB%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8A%A8%E6%BC%AB%E7%BB%98%E6%9C%AC%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：以 REFERENCE_0 作为主要构图和儿童绘画概念，将其转化为精致的商业级儿童动漫插画，同时保留原有的创意布局：一个微笑的女孩像撑伞一样撑着一座巨大的草丘，草丘顶端有一个微型世界。仅将 REFERENCE_1 作为温暖、纯真的童心想象力的参考，但不要包含其标题文字或其中的独立人物形象。
+
+转化：将粗糙的马克笔/蜡笔线条转化为柔和的水彩动漫渲染风格，改善比例，增加深度、阴影和迷人的细节，同时保留手工绘本的感觉。让女孩看起来更可爱、更有表现力，拥有大大的动漫眼睛、整齐的黑色双马尾，身穿带有绿色爱心的粉色连衣裙，双手握着紫色的弯曲伞柄。
+
+保留并优化 REFERENCE_0 中的可见元素：恰好 3 朵蓝色云彩、右上角 1 个橙色太阳、1 座草地圆丘、山丘顶上的 1 座小屋、山丘左侧 1 棵倾斜的树、山丘右侧 1 个包含恰好 2 条鱼的小池塘、1 个从山丘右侧边缘滑下或探出的小孩身影、零星的草丛和小紫花，以及下方撑着山丘的女孩。
+
+风格：明亮的柔和色调儿童绘本动漫，柔和的奶油色纸张背景，清晰的轮廓，绘画感的水彩质感，温暖的阳光，欢快奇趣的氛围，竖向肖像构图。保持构图与参考图接近，但使其看起来像完成的专业插画艺术作品。
+
+可选自定义：设置主体 {argument name="character name" default="一个微笑的小女孩"}；使用 {argument name="dress color" default="粉色"} 连衣裙；保留连衣裙上的爱心 {argument name="heart color" default="绿色"}；渲染风格为 {argument name="art style" default="柔和水彩动漫儿童绘本风格"}；使用 {argument name="background color" default="温暖奶油色纸张"} 背景。
+
+约束：不要包含中文标题文字，不要包含来自 REFERENCE_1 的额外人物，不要使用写实照片风格，不要添加水印，不要添加任何文字。
+
+[English]
+Goal: Using REFERENCE_0 as the main composition and child-drawing concept, transform it into a polished commercial-quality children’s anime illustration while preserving the original imaginative layout: a smiling girl holding a giant grassy hill like an umbrella, with a tiny world on top. Use REFERENCE_1 only as context for the warm, innocent childlike imagination, but do not include its title text or its separate family figures.
+
+Transformation: Clean up the rough marker/crayon lines into soft watercolor-and-anime rendering, improve proportions, add depth, shading, and charming details, while keeping the handmade storybook feeling. Make the girl cuter and more expressive, with large anime eyes, neat black pigtails, a pink dress with a green heart, and purple curved umbrella handles in both hands.
+
+Preserve and refine these visible elements from REFERENCE_0: exactly 3 blue clouds, 1 orange sun in the upper-right corner, 1 grassy dome hill, 1 small house on top of the hill, 1 leaning tree on the left side of the hill, 1 small pond on the right side of the hill containing exactly 2 fish, 1 tiny child figure sliding or peeking from the right edge of the hill, scattered grass tufts and small purple flowers, and the girl underneath holding the hill.
+
+Style: bright pastel children’s-book anime, soft cream paper background, clean outlines, painterly watercolor texture, warm sunlight, cheerful whimsical mood, vertical portrait composition. Keep the composition close to the reference drawing, but make it look like finished professional illustration art.
+
+Optional customization: make the main subject {argument name="character name" default="a smiling little girl"}; use {argument name="dress color" default="pink"}; keep the heart on the dress {argument name="heart color" default="green"}; render in {argument name="art style" default="soft watercolor anime children’s-book style"}; use a {argument name="background color" default="warm cream paper"} background.
+
+Constraints: no Chinese title text, no extra characters from REFERENCE_1, no realistic photo style, no watermark, no added text.
+```
+
+**来源：** [@Knight King](https://x.com/Gordon_2077/status/2095872735016882315) | 2026-09-04
+
+---
+
+### 🎬 例 7441：空灵新艺术风格漫画肖像
+
+![空灵新艺术风格漫画肖像](../images/%E7%A9%BA%E7%81%B5%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形、高度精细的新艺术风格漫画插画，描绘一位空灵的中性化年轻人，拥有 {argument name="hair color" default="银白色"} 的长波浪卷发，画面充盈。人物采用胸部以上的亲密特写视角，面部部分被两只按在嘴边和脸颊旁的纤细苍白的手遮挡，一只可见的冰蓝灰色眼睛透过散乱的发丝凝视前方。手指上戴着一枚深色戒指，佩戴精致的长款垂坠耳环。人物周围环绕着繁茂的植物装饰：恰好 4 朵硕大的淡蓝白色银莲花状花朵、成簇的小白浆果、灰绿色叶片，以及穿插在发丝间的深钴蓝色丝带状花瓣。包含恰好 3 个古董金星芒装饰：右上角发丝附近有一个大型尖刺光环/星形，右脸颊区域附近有一个较小的星芒，左侧有一个小星星。背景使用深群青色和黑色，带有做旧的米金色纹理、华丽的黑色蕾丝状图案和细金色的对角线。在左侧放置一段微小模糊的法文文本，内容为 {argument name="left text" default="Toujours le même rêve."}。风格采用精致的日式墨水线条艺术，发丝极其繁复，带有细腻的交叉排线，柔和的羊皮纸肤色，象牙白、黑色、钴蓝色、灰绿色和古董金的有限调色板，优雅的忧郁氛围，复古印刷纸张颗粒感，扁平化的装饰性构图，无写实感，无 3D 渲染，无现代物体，无水印。
+
+[English]
+Create a square, highly detailed Art Nouveau manga illustration of an ethereal androgynous young person with {argument name="hair color" default="silver-white"} long wavy hair filling the frame. The character is shown in an intimate close-up from the chest up, face partly hidden behind two slender pale hands pressed near the mouth and cheeks, with one visible icy blue-gray eye gazing forward through loose hair strands. Add a dark ring on one finger and delicate long dangling earrings. Surround the figure with lush botanical ornamentation: exactly 4 large pale blue-white anemone-like flowers, clusters of small white berries, gray-green leaves, and deep cobalt ribbon-like petals woven through the hair. Include exactly 3 antique gold starburst ornaments: one large spiked halo/star near the upper right hair, one smaller starburst near the right cheek area, and one small star on the left side. Use a deep ultramarine blue and black background with distressed beige-gold texture, ornate black lace-like patterns, and thin gold diagonal lines. Place small faint French text on the left reading {argument name="left text" default="Toujours le même rêve."}. Style it as refined Japanese ink line art with extremely intricate hair strands, fine crosshatching, muted parchment skin tones, limited palette of ivory, black, cobalt blue, gray-green, and antique gold, elegant melancholy mood, vintage printed-paper grain, flat decorative composition, no photorealism, no 3D rendering, no modern objects, no watermark.
+```
+
+**来源：** [@iontrailblazer](https://x.com/iontrailbl50490/status/2095842892124459388) | 2026-09-04
+
+---
+
+### 🎬 例 7445：精致漫画宿舍背景
+
+![精致漫画宿舍背景](../images/%E7%B2%BE%E8%87%B4%E6%BC%AB%E7%94%BB%E5%AE%BF%E8%88%8D%E8%83%8C%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为粗略的漫画背景布局，将草图转换为精致的黑白漫画背景图。保持相同的单点透视构图：前景两侧各有一张床，中间的地垫通向内凹的门，左侧墙上有挂钟，书架上摆放着书籍，左侧床边靠着一把吉他，右侧墙面有海报/项目区域，右侧还有盆栽和小型箱子/物品。用干净利落的线条、精准的透视、细致的室内物件、网点阴影、交叉排线、半调渐变以及整洁的漫画风格纹理，替换掉原本松散的红色标注和粗糙的辅助线。添加草图中未呈现的写实细节：门口区域的木质地板、褶皱的床品、床铺和地板上零散的纸张/书籍、带有便签的软木项目、右侧附近的购物袋/垃圾桶，以及门口周围微妙的墙面阴影。将成品艺术呈现为一张居中的垂直漫画页面，并配有淡紫色的原稿纸边框、裁切标记和页面参考线。移除所有可读标签或红色手写字；最终效果应呈现为专业级的黑白漫画背景，可直接进行最终的人工润色。
+
+[English]
+Using REFERENCE_0 as a rough manga background layout, convert the sketch into a polished black-and-white manga panel background. Keep the same one-point perspective composition: two beds framing the foreground, a central floor mat leading to a recessed door, a wall clock on the left, a shelf with books, a guitar leaning on the left bed, a poster/bulletin-board area on the right wall, and a potted plant plus small boxes/items on the right. Replace the loose red annotations and rough construction lines with clean finished line art, accurate perspective, detailed room objects, screentone shading, crosshatching, halftone gradients, and tidy manga-style textures. Add believable details not present in the sketch: wood plank flooring in the doorway area, rumpled bedding folds, small papers/books on the beds and floor, a corkboard with pinned notes, a shopping bag/bin near the right side, and subtle wall shadows around the doorway. Present the finished art as a single vertical manga page panel centered on a pale lavender manuscript-paper border with crop marks and page guide lines. No readable labels or red handwriting should remain; the result should look like a professional monochrome comic background ready for final human touch-up.
+```
+
+**来源：** [@ぽいtec](https://x.com/poibot_tec/status/2095830290652635542) | 2026-09-04
+
+---
+

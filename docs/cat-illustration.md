@@ -20436,3 +20436,85 @@ A stunning adult woman in her {argument name="age" default="mid-20s"}, with a sl
 
 ---
 
+### 🎨 例 7417：动漫寺庙宝藏巫女
+
+![动漫寺庙宝藏巫女](../images/%E5%8A%A8%E6%BC%AB%E5%AF%BA%E5%BA%99%E5%AE%9D%E8%97%8F%E5%B7%AB%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的奇幻动漫角色插画，采用竖构图，展示一位自信的巫女兼宝藏守护者，身处古老的石砌寺庙内。主体为 {argument name="character name" default="一位优雅的年轻神殿巫女"}，留着极长的 {argument name="hair color" default="深紫罗兰色"} 头发，发型为标准的 2 个高双马尾，每个马尾都系着巨大的金属金蝴蝶结，外加 2 条垂在胸前的短卷侧辫。她拥有明亮的翡翠绿双眸，带着一丝心领神会的浅笑，肤色白皙，表情略显高傲但又不失亲和力。身穿合身的白色礼仪长袍裙，配有宽袖、高领蕾丝颈圈、金色镶边、华丽的镂空花纹以及中央超大的金色十字吊坠；包含 3 颗显眼的绿色宝石：左手掌心托着 1 颗椭圆形宝石，胸前 1 颗三叶草形宝石，腰部装饰上 1 颗大型宝石。添加金链、垂坠挂饰、珍珠手链以及复杂的宗教遗物图案。她站在雕刻石台后，右手搭在一个厚重的长方形石质青铜宝箱上；宝箱主体为老旧的灰色岩石，配有青铜护角、雕刻的几何符号，顶部有一个圆形插槽，仿佛那颗绿色宝石就是钥匙。背景：华丽的古老圣殿，有高大的雕花立柱、透出温暖阳光的拱形格子窗、漂浮的尘埃，右侧有一扇巨大的圆形机械石门或徽章。使用高细节的 gpt-image-2 动漫渲染，线条清晰，皮肤光泽感强，发丝高光细腻，金色装饰丰富，石材质感真实，柔和的暖色背光，电影级的景深效果，呈现出高级收藏卡插画的质感。构图保持从大腿中部向上，以角色和宝箱为中心，无文字，无水印，无多余角色，且手部不得变形。
+
+[English]
+Create a polished fantasy anime character illustration in a vertical portrait composition, showing a confident priestess-treasure-keeper girl inside an ancient stone temple. The subject is {argument name="character name" default="an elegant young shrine maiden"} with very long {argument name="hair color" default="deep violet purple"} hair styled into exactly 2 high twin tails, each tied with a large metallic gold bow, plus exactly 2 short curled side braids framing her chest. She has bright emerald green eyes, a small knowing smile, pale skin, and a slightly haughty but inviting expression. Her outfit is a fitted white ceremonial robe-dress with wide sleeves, high collar lace choker, gold trim, ornate filigree, and a central oversized gold cross pendant; include exactly 3 prominent green gems: 1 oval gem held in her outstretched left palm, 1 clover-shaped chest gem, and 1 large waist gem on her hip ornament. Add gold chains, dangling charms, pearl bracelet, and intricate religious relic motifs. She stands behind a carved stone pedestal table, with her right hand resting on a heavy rectangular stone-and-bronze treasure chest; the chest has an aged gray stone body, bronze corner reinforcements, engraved geometric symbols, and a circular socket on top as if the green gem is the key. Background: an ornate ancient sanctuary with tall carved pillars, arched lattice windows glowing with warm sunlight, dust motes, and a large circular mechanical-stone door or emblem on the right. Use highly detailed gpt-image-2 anime rendering, crisp linework, luminous skin, glossy hair highlights, rich gold accents, realistic stone texture, soft warm backlighting, cinematic depth of field, and a premium collectible-card illustration feel. Keep the framing from mid-thigh upward, centered on the character and chest, with no text, no watermark, no extra characters, and no distorted hands.
+```
+
+**来源：** [@StudioYebisu](https://x.com/studio_yebisu/status/2096016078703149056) | 2026-09-04
+
+---
+
+### 🎨 例 7420：2D 死灵法师游戏素材精灵图
+
+![2D 死灵法师游戏素材精灵图](../images/2D%20%E6%AD%BB%E7%81%B5%E6%B3%95%E5%B8%88%E6%B8%B8%E6%88%8F%E7%B4%A0%E6%9D%90%E7%B2%BE%E7%81%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一个 {argument name="character" default="手持镰刀的 2D 死灵法师"} 作为动画就绪型游戏素材，置于透明背景上，并展示 {argument name="angles" default="所有 8 个角度"}
+
+[English]
+generate a {argument name="character" default="2d necromancer with a scythe"} as an animation ready game asset on a transparent background from {argument name="angles" default="all 8 angles"}
+```
+
+**来源：** [@enviouky](https://x.com/enviouky/status/2095988936371818833) | 2026-09-04
+
+---
+
+### 🎨 例 7431：日系校园随拍
+
+![日系校园随拍](../images/%E6%97%A5%E7%B3%BB%E6%A0%A1%E5%9B%AD%E9%9A%8F%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+日常快照风格，非精心构图或打光，校道长椅旁，{argument name="服装" default="条纹T恤配背带裙"}，小熊挂饰在背包上，易拉罐可口可乐在手；从道路指示牌后侧拍，牌边与树叶形成双层前景框景，轻微焦外；阴天自然光，低对比、低饱和，面料纹理与小饰物清晰，青春可爱。60mm，f/2.8，1/400s，ISO 200，WB 5400K；局部锐化仅饰物与眼周，肤色自然白皙，服装面料纹理可见，日系低饱和。略带运动模糊，整体平庸日常，甜美可爱风。
+```
+
+**来源：** [@DeepBlue深藍](https://x.com/DeepBlueX0/status/2095900605126689174) | 2026-09-04
+
+---
+
+### 🎨 例 7435：日系奇幻少女角色设计图
+
+![日系奇幻少女角色设计图](../images/%E6%97%A5%E7%B3%BB%E5%A5%87%E5%B9%BB%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个完整的角色设计图，描述对象为 {argument name="character description" default="一位拥有魔法力量的神秘日系奇幻少女"}。她拥有精致年轻的面容、飘逸的长黑发、柔和且富有表现力的双眼，以及一种平静但略显超凡脱俗的气质。她的设计风格呈现出
+
+[English]
+Create a full character design sheet for a {argument name="character description" default="mysterious young Japanese fantasy girl with magical powers"}. She has a delicate, youthful face, long dark flowing hair, soft expressive eyes, and a calm but slightly otherworldly presence. Her design feels
+```
+
+**来源：** [@Apiframe HQ](https://x.com/apiframe_hq/status/2095873029595373763) | 2026-09-04
+
+---
+
+### 🎨 例 7471：星云中的太空探索船
+
+![星云中的太空探索船](../images/%E6%98%9F%E4%BA%91%E4%B8%AD%E7%9A%84%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E8%88%B9.jpg)
+
+**Prompt:**
+
+```text
+宇宙の彼方で{argument name="探検船" default="探検船"}が{argument name="星雲" default="輝く星雲"}を横切る壮大な光景。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2095666906468372607) | 2026-09-04
+
+---
+

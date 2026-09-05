@@ -32061,3 +32061,502 @@ Constraints: Keep all visible text legible, preserve the exact count of 5 interf
 
 ---
 
+### 🎴 例 7428：复古粉彩涂鸦拼贴海报
+
+![复古粉彩涂鸦拼贴海报](../images/%E5%A4%8D%E5%8F%A4%E7%B2%89%E5%BD%A9%E6%B6%82%E9%B8%A6%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分先理解原照片最值得被记住的**核心主题、主体关系、结构走势、情绪与视觉隐喻**，再重构为**复古纸张肌理的粉彩手绘涂鸦材料拼贴插画**。不要逐物复制照片，也不要大面积铺满画面，而是删去无关细节，只保留最能代表原物的结构、走势和视觉记忆点，通过手绘涂鸦、材料拼贴、粉彩蜡笔质感与少量纸片重组，进行**巧妙的转绘与再表达**，使人能够一眼识别它与上方照片之间的对应关系。
+
+主体造型以**小尺度章印式主视觉**呈现，不追求完整复刻，而是通过少量最关键的轮廓、姿态、方向和关系完成识别。主体线条采用明显的**粉笔 / 蜡笔式手绘涂鸦线条**：粗细略有变化，带有干涩颗粒、断续掉粉、轻微抖动和不完全闭合的边缘，像直接画在粗糙纸面上的随手线稿。可有轻微歪斜、重复、迟疑和笨拙感，但不能变成凌乱草稿。局部可用短线、交叉排线、简单网格和少量涂抹表达结构，不做写实体积塑造。
+
+整体仍保留**材料拼贴**逻辑。主体及少量辅助元素可由纸片、拼贴形状、粉彩色块和手绘符号共同构成，保留轻微剪贴边缘、层叠关系和手工感，但只服务于概括与重构，不做琐碎装饰。周围可加入极少量与原图情绪有关的星点、花朵、波纹、几何符号或生活化小涂鸦，作为叙事呼应，不形成第二视觉中心。
+
+构图保持**小尺度章印与大面积留白**的关系，根据主体自身的方向、比例和视觉重心自由安排位置，可偏心、贴边、悬置或局部裁切。**留白必须是有意识的构成语言，而不是空出来的背景。** 它与主体、拼贴元素、文字和少量符号共同形成正负形、疏密、聚散与不对称平衡，构成明显的呼吸感、空间感与停顿感。宁可删减，也不要填满，让主体像被精心安放在大片纸面中的一枚视觉章印。
+
+背景必须与主体形成**清晰而温和的对比**，不能色相、明度和质感全部糊成一团。背景纸面可采用暖棕牛皮纸、再生纸、浅色手工纸或其他与原图气质相符的纸张基底，但必须与主体在线条亮度、色块明度或色相上拉开层次，让主体清楚浮现。背景保持真实纤维和颗粒感，干净自然，不做脏旧污渍。
+
+配色从上方照片中提取 **2–4 种最鲜活、最有亲和力、最能代表画面精神的颜色**重新调制，转化为柔和而清晰的粉彩色组。可自然形成奶油粉、蜜桃橙、浅天蓝、薄荷青、柔黄、淡紫等轻盈色彩，并以白色或奶油色线条提亮。整体要明快、温暖、治愈、有生活感，同时与背景形成足够区分，避免灰暗、脏褐、沉闷莫兰迪化、荧光色和廉价糖果感。
+
+文字只作极少量编辑性介入，不限制语种。可从照片的主体、情绪、动作、记忆或隐喻中自由提炼少量短句或文字片段，使用**纤细、疏朗、带轻微字距不齐与旧式印字误差的轻型打字排版字体**，与松弛手绘线条形成对比。文字安静地散落在留白中，贴近主体或顺着画面方向排列，与插画共同构成自然的图文混排关系，不做固定标题模板。
+
+整体呈现**纸张肌理、粉彩蜡笔涂鸦、少量材料拼贴、小尺度章印主体、大面积有意识留白与松弛图文混排**共同构成的高级视觉效果。重点不是照搬照片，而是理解原图的视觉语言后，用更巧妙、更轻盈、更有呼吸感的方式重新表达原始主题。避免逐物转绘、背景与主体糊成一团、画面填满、写实描摹、细密描边、光滑矢量、过度装饰、儿童模板感、3D感和商业海报感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2095931305540419983) | 2026-09-04
+
+---
+
+### 🎴 例 7434：高端燕麦脆广告海报
+
+![高端燕麦脆广告海报](../images/%E9%AB%98%E7%AB%AF%E7%87%95%E9%BA%A6%E8%84%86%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为 {argument name="brand name" default="AURAGRAIN"} 的原创高端燕麦脆品牌创作一张戛纳级别的旗舰广告海报，展示产品 {argument name="product name" default="蜂蜜肉桂燕麦脆"}。画面需采用精致的轨道构图，并呈现出更具国际感的冷色调编辑美学。
+
+核心构图：
+一张垂直的奢华食品宣传海报，背景为柔和的矿物灰白色，带有细腻的天然纸张纹理，留白非常干净，营造出冷静的高级感。在正中央垂直放置一把抛光的银勺作为主体，勺中盛满超写实的蜂蜜肉桂燕麦脆。勺子必须占据构图中心，给人以精准、雕塑感且令人垂涎的视觉体验。
+
+核心产品逻辑：
+在勺子内展示细节丰富的烤燕麦片、紧实的脆麦片团、烤杏仁碎以及质感内敛、带有光泽的蜂蜜涂层。食物必须看起来真实、高级、干脆且带有轻微的糖霜感，具备商业食品摄影的真实细节。画面整洁，没有过多的碎屑，也没有杂乱的乡村感。
+
+轨道结构：
+将 4 种关键配料元素以受控的圆形流线环绕在勺子周围：燕麦片、燕麦脆团、烤杏仁和一小滴金黄蜂蜜。它们的布局应在勺子周围形成微妙的闭环视觉节奏，引导视线进行优雅的轨道运动。使用极细的精致引导线和低调的弧形图形元素，将周围的配料与中心连接起来。轨道应给人以刻意、高级且宁静的感觉，而非俏皮或杂乱。
+
+排版系统：
+采用高度精致的国际化排版布局。摒弃过于随意的乡村感，转而追求更高级的编辑平衡：
+
+- 左上方中央附近的大型优雅定制手写标题：“{argument name="headline" default="Awaken"}”
+- 下方的小型大写无衬线字体行：“CLEAN ENERGY. QUIET LUXURY.”
+- 右上方的小型精致口味描述：“honey cinnamon"
+- 在每种配料附近放置极小的、精致的英文编辑风格标注：
+  “slow-toasted oats”
+  “granola crunch”
+  “roasted almonds”
+  “pure honey glaze”
+
+排版必须具有艺术指导感，通透且高级，具备优美的间距和层级。避免使用厚重的字体，拒绝廉价的健康产品设计，避免文字拥挤。
+
+品牌标识：
+在左上角放置一个极简的 AURAGRAIN 标志，低调且正式。在右下角添加一行极小的净含量标注。品牌标识应显得克制、内敛。
+
+[English]
+Create a Cannes-level flagship advertising poster for an original premium granola brand named {argument name="brand name" default="AURAGRAIN"}, featuring the product {argument name="product name" default="Honey Cinnamon Oat Granola"}. Build the image with a refined Orbit composition and a cooler, more international editorial aesthetic.
+
+Core composition:
+A vertical luxury food campaign poster with a soft mineral-off-white background, subtle natural paper texture, very clean negative space, and a calm premium atmosphere. In the exact center, place a polished silver spoon vertically as the hero object, filled with ultra-realistic honey cinnamon granola. The spoon must dominate the composition and feel precise, sculptural, and appetizing.
+
+Hero product logic:
+Inside the spoon, show detailed toasted oat flakes, compact crunchy granola clusters, roasted almond pieces, and a restrained glossy honey-coated texture. The food must feel authentic, premium, dry-crisp yet lightly glazed, with real commercial food-photography detail. No mess, no excessive crumbs, no rustic chaos.
+
+Orbit structure:
+Arrange 4 key ingredient elements around the spoon in a controlled circular flow: oat flakes, granola clusters, roasted almonds, and a small drop of golden honey. Their placement should create a subtle closed-loop visual rhythm around the spoon, guiding the eye in an elegant orbit. Use very thin refined directional lines and understated curved graphic gestures to connect the surrounding ingredients back toward the center. The orbit should feel intentional, premium, and quiet, not playful or messy.
+
+Typography system:
+Use a highly refined international typography layout. Replace any overly casual rustic feeling with a more elevated editorial balance:
+
+- Large elegant custom script headline near the upper center-left: “{argument name="headline" default="Awaken"}”
+- Small uppercase sans-serif line beneath it: “CLEAN ENERGY. QUIET LUXURY.”
+- Small refined flavor descriptor at the upper right: “honey cinnamon”
+- Minimal ingredient annotations placed near each ingredient in tiny sophisticated English editorial type:
+  “slow-toasted oats”
+  “granola crunch”
+  “roasted almonds”
+  “pure honey glaze”
+
+Typography must feel art-directed, airy, and premium, with beautiful spacing and hierarchy. No heavy fonts, no cheap health-product design, no crowded copy.
+
+Branding:
+Place a minimal AURAGRAIN logo in the upper left corner, understated and official. Add a very small net weight line in the lower right corner. Branding should feel discreet, int
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2095876859758002398) | 2026-09-04
+
+---
+
+### 🎴 例 7444：Trident 广告海报概念
+
+![Trident 广告海报概念](../images/Trident%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+TRIDENT。请担任社交媒体艺术总监兼数字拼贴艺术家，专注于高端快消品（FMCG）广告、高端糖果营销活动、商业产品摄影、大胆的编辑排版、超现实视觉叙事以及具有文化关联性的 Instagram 内容。
+
+第一阶段：概念框架
+
+围绕一个易于理解的视觉创意，创作一张高端 Trident 口香糖广告海报。
+
+该广告应将咀嚼口香糖这一简单行为转化为令人兴奋的视觉体验。思维要超越传统的食品广告。运用强有力的视觉隐喻，使清新、口味、自信、连接或意想不到的感官爆发成为环境的物理组成部分。
+
+创意必须具备：
+
+* 原创性
+* 视觉上的惊喜感
+* 易于瞬间理解
+* 针对社交媒体优化
+* 高端质感
+* 俏皮而不失精致
+* 商业上的可信度
+* 足够强大，无需过多文案即可传达信息
+
+不要创作平庸的口香糖广告。避免随机的水果爆炸、普通的薄荷叶、漂浮的产品、过度的水花、无意义的 CGI 或刻板的 AI 超现实主义风格。
+
+第二阶段：产品与包装
+
+使用提供的 Trident 产品包装作为精确的产品参考。
+
+保留：
+
+* 精确的包装形状
+* 品牌 Logo
+* 字体设计
+* 颜色
+* 口味名称
+* 产品比例
+* 包装图形
+* 包装纸细节
+* 材质质感
+* 可见的产品数量
+
+包装必须保持物理上的准确性，并具有极高的辨识度。
+
+让 Trident 包装成为构图中的核心主体。
+
+如果展示了单片口香糖，请保持真实的比例、包装结构、纹理、折痕和材质表现。
+
+切勿重新设计包装或虚构产品功效。
+
+第三阶段：创意视觉世界
+
+围绕 Trident 产品构建一个富有想象力的物理环境。
+
+该环境应通过巧妙的广告隐喻，在视觉上传达产品优势或口味。
+
+创意方向示例：
+
+* 一股清新的浪潮物理性地改变了城市
+* 薄荷驱动的微风吹拂着整个环境
+* 从一小片口香糖中涌现出巨大的口味景观
+* 冰封的世界在产品周围破碎
+* 平凡的社交环境瞬间变得充满活力
+* 由新鲜空气流动塑造的建筑形态
+* 包含在口香糖包装内的一个不可思议的微观世界
+
+视觉世界应体现出艺术指导的意图，而非随机的超现实主义。
+
+第四阶段：品牌色彩与视觉识别
+
+以 Trident 既定的视觉识别系统为基础。
+
+优先将实际产品包装作为主要的色彩参考。
+
+在适当的情况下，融入 Trident 标志性的清凉青色/蓝色视觉领域，并辅以白色和深色中性对比，同时根据特定的口味 SKU 调整调色板。
+
+色彩应营造出：
+
+* 清新感
+* 能量感
+* 洁净感
+* 口味识别度
+* 强烈的产品区分度
+
+不要在画面中堆砌无关的颜色。
+
+第五阶段：产品构图
+
+创作一幅精致的商业产品构图。
+
+Trident 包装应占据强有力的核心位置，并具备真实的比例、透视关系以及与环境的接触感。
+
+运用：
+
+* 戏剧性的透视
+* 层叠的深度
+* 前景元素
+* 中景产品互动
+* 大气背景
+* 有意留出的负空间
+* 强烈的视觉对角线
+* 精准的裁剪
+
+产品必须在场景中具有真实的物理存在感。
+
+运用真实的接触阴影、反射、表面交互和材质表现。
+
+第六阶段：平面设计与拼贴
+
+将高端快消品摄影与当代编辑平面设计相结合。
+
+仅在能强化概念时引入图形元素：
+
+* 超大字体
+* 口味标签
+* 小型技术信息
+* 编辑编号
+* 图形线条
+* 裁剪形状
+* 重复的产品细节
+* 微妙的几何元素
+* 微文案
+
+在摄影写实主义与平面设计之间创造视觉张力。
+
+避免将海报变成模板或杂乱的拼贴画。
+
+第七阶段：字体设计
+
+创作一个简短、令人难忘的活动标题，并与视觉创意直接关联。
+
+可能的方向：
+
+“CHEW THE MOMENT.”（咀嚼此刻）
+“FRESH HITS DIFFERENT.”（清新大不同）
+“UNWRAP THE FRESH.”（开启清新）
+“FRESHNESS, UNLEASHED.”（释放清新）
+“FEEL THE FLAVOR.”（感受口味）
+“MAKE ROOM FOR FRESH.”（为清新留出空间）
+
+使用大胆、现代的大写字体，展现强烈的编辑排版风格。
+
+字体应成为视觉构图的一部分。
+
+允许超大字体与环境互动、覆盖大气元素、隐藏在物体后方，或在适当情况下延伸出画面边框。
+
+保持完美的拼写、干净的字形、强烈的层级感和商业可读性。
+
+第八阶段：品牌智能
+
+保持 Trident 的核心传播领域：
+
+* 清新感
+* 口味
+* 日常自信
+* 社交连接
+* 能量
+* 亲和力
+* 当代文化
+* 俏皮的精致感
+
+正确且醒目地使用 Trident Logo，以实现即时的品牌识别，同时避免让画面看起来像包装效果图。
+
+不要模仿现有的特定 Trident 活动。
+
+利用品牌既定的识别系统，创作一个完全原创的视觉概念。
+
+第九阶段：社交媒体艺术指导
+
+格式：4:5 竖版 Instagram 海报。
+
+专为移动端观看而设计。
+
+构图必须：
+
+* 瞬间停止用户的滑动
+* 在一秒内传达创意
+* 使产品在缩略图尺寸下依然可辨识
+* 拥有一个主导焦点
+* 保持强烈的对比度
+* 运用清晰的视觉层级
+* 全屏观看时具有高端质感
+* 无需缩放即可阅读
+
+作品应在 Instagram 帖子、付费社交广告和活动轮播封面中表现同样出色。
+
+第十阶段：商业成品
+
+打造世界级快消品广告活动的成品质量。
+
+运用：
+
+* 照片级产品渲染
+* 高端商业照明
+* 真实的包装材质
+* 高细节纹理
+* 受控的反射
+* 准确的阴影
+* 自然的景深
+* 精致的修图
+* 微妙的大气细节
+* 锐利的产品边缘
+* 印刷级细节
+
+避免：
+
+* 通用的 AI 美学
+* 塑料感的包装
+* 扭曲的 Logo
+* 错误的文字
+* 虚假的产品几何结构
+* 重复的产品
+* 随机的物体
+* 过度的光晕
+* 过多的粒子
+* 廉价的 CGI
+* 过度饱和的颜色
+* 不必要的视觉杂乱
+* 库存照片感
+
+最终输出：
+
+创作一个世界级的 Trident 口香糖社交广告，使产品、广告创意、环境、字体、色彩系统、摄影和平面设计融为一体，如同一个统一的活动。
+
+最终图像应既具有社交媒体的趣味性，又具备全球快消品品牌的高端感，且视觉上足够独特，能在拥挤的 Instagram 信息流中被一眼认出。
+
+高端快消品广告。大胆的视觉隐喻。照片级产品。编辑平面设计。清新、充满活力、具有文化关联性、令人驻足。
+
+[English]
+TRIDENT. Act as a Social Media Art Director and Digital Collage Artist specializing in high-end FMCG advertising, premium confectionery campaigns, commercial product photography, bold editorial compositions, surreal visual storytelling, and culturally relevant Instagram content.\n\nPHASE 1: CONCEPTUAL FRAMEWORK\n\nCreate a premium Trident chewing gum advertising poster built around one instantly understandable visual idea.\n\nThe advertisement should transform the simple act of chewing gum into a visually exciting experience. Think beyond conventional food advertising. Use a strong visual metaphor where freshness, flavor, confidence, connection, or an unexpected burst of sensation becomes a physical part of the environment.\n\nThe creative idea must be:\n\n* Original\n* Visually surprising\n* Instantly understandable\n* Social-media optimized\n* Premium\n* Playful but sophisticated\n* Commercially believable\n* Strong enough to work without excessive copy\n\nDo not create a generic chewing-gum advertisement. Avoid random fruit explosions, generic mint leaves, floating products, excessive splashes, meaningless CGI, or stereotypical AI surrealism.\n\nPHASE 2: PRODUCT & PACKAGING\n\nUse the supplied Trident product packaging as the exact product reference.\n\nPreserve:\n\n* Exact package shape\n* Brand logo\n* Typography\n* Colors\n* Flavor name\n* Product proportions\n* Packaging graphics\n* Wrapper details\n* Material finish\n* Product quantity where visible\n\nThe packaging must remain physically accurate and immediately recognizable.\n\nMake the Trident pack the hero object of the composition.\n\nIf individual gum pieces are shown, maintain realistic proportions, wrapper construction, texture, folds, and material behavior.\n\nNever redesign the packaging or invent product claims.\n\nPHASE 3: CREATIVE VISUAL WORLD\n\nBuild an imaginative physical environment around the Trident product.\n\nThe environment should visually communicate the product benefit or flavor through a clever advertising metaphor.\n\nExamples of creative territory:\n\n* A wave of cool freshness physically transforming a city\n* A mint-powered breeze bending an entire environment\n* A giant flavor landscape emerging from one tiny piece of gum\n* A frozen world breaking apart around the product\n* A mundane social environment suddenly becoming vibrant\n* Architectural forms shaped by the movement of fresh air\n* An impossible miniature world contained inside the gum pack\n\nThe visual world should feel intentionally art-directed, not randomly surreal.\n\nPHASE 4: BRAND COLOR & VISUAL IDENTITY\n\nUse Trident’s established visual identity as the foundation.\n\nPrioritize the actual product packaging as the primary color reference.\n\nWhere appropriate, incorporate Trident’s recognizable cool cyan/blue visual territory with white and dark neutral contrast, while adapting the palette to the specific flavor SKU.\n\nColor should create:\n\n* Freshness\n* Energy\n* Cleanliness\n* Flavor recognition\n* Strong product separation\n\nDo not overload the artwork with unrelated colors.\n\nPHASE 5: PRODUCT COMPOSITION\n\nCreate a sophisticated commercial product composition.\n\nThe Trident pack should occupy a strong hero position with realistic scale, perspective, and contact with the environment.\n\nUse:\n\n* Dramatic perspective\n* Layered depth\n* Foreground elements\n* Midground product interaction\n* Atmospheric background\n* Intentional negative space\n* Strong visual diagonals\n* Controlled cropping\n\nThe product must feel physically present inside the scene.\n\nUse realistic contact shadows, reflections, surface interaction, and material behavior.\n\nPHASE 6: GRAPHIC DESIGN & COLLAGE\n\nCombine premium FMCG photography with contemporary editorial graphic design.\n\nIntroduce graphic elements only when they strengthen the concept:\n\n* Oversized typography\n* Flavor labels\n* Small technical information\n* Editorial numbering\n* Graphic lines\n* Cropped shapes\n* Repeated product details\n* Subtle geometric elements\n* Microcopy\n\nCreate visual tension between photographic realism and graphic design.\n\nAvoid turning the poster into a template or a cluttered collage.\n\nPHASE 7: TYPOGRAPHY\n\nCreate one short, memorable campaign headline connected directly to the visual idea.\n\nPossible direction:\n\n“CHEW THE MOMENT.”\n“FRESH HITS DIFFERENT.”\n“UNWRAP THE FRESH.”\n“FRESHNESS, UNLEASHED.”\n“FEEL THE FLAVOR.”\n“MAKE ROOM FOR FRESH.”\n\nUse bold, contemporary uppercase typography with strong editorial presence.\n\nTypography should become part of the visual composition.\n\nAllow oversized type to interact with the environment, overlap atmospheric elements, disappear behind objects, or extend beyond the frame where appropriate.\n\nMaintain perfect spelling, clean letterforms, strong hierarchy, and commercial readability.\n\nPHASE 8: BRAND INTELLIGENCE\n\nMaintain Trident’s core communication territory:\n\n* Freshness\n* Flavor\n* Everyday confidence\n* Social connection\n* Energy\n* Approachability\n* Contemporary culture\n* Playful sophistication\n\nUse the Trident logo correctly and prominently enough for immediate brand recognition without making the artwork feel like a packaging mockup.\n\nDo not imitate a specific existing Trident campaign.\n\nCreate a completely original visual concept using the brand’s established identity.\n\nPHASE 9: SOCIAL MEDIA ART DIRECTION\n\nFormat: 4:5 vertical Instagram poster.\n\nDesign specifically for mobile viewing.\n\nThe composition must:\n\n* Stop the scroll immediately\n* Communicate the idea within one second\n* Make the product recognizable at thumbnail size\n* Have one dominant focal point\n* Maintain strong contrast\n* Use clear visual hierarchy\n* Feel premium when viewed full-screen\n* Remain readable without zooming\n\nThe artwork should look equally strong as an Instagram post, paid social advertisement, and campaign carousel cover.\n\nPHASE 10: COMMERCIAL FINISH\n\nCreate the finish of a world-class FMCG advertising campaign.\n\nUse:\n\n* Photorealistic product rendering\n* Premium commercial lighting\n* Realistic packaging materials\n* High-detail textures\n* Controlled reflections\n* Accurate shadows\n* Natural depth of field\n* Sophisticated retouching\n* Subtle atmospheric detail\n* Sharp product edges\n* Print-quality detail\n\nAvoid:\n\n* Generic AI aesthetics\n* Plastic-looking packaging\n* Warped logos\n* Incorrect text\n* Fake product geometry\n* Duplicate products\n* Random objects\n* Excessive glow\n* Excessive particles\n* Cheap CGI\n* Over-saturated colors\n* Unnecessary visual clutter\n* Stock-photo appearance\n\nFINAL OUTPUT:\n\nCreate a world-class Trident chewing gum social advertisement where the product, advertising idea, environment, typography, color system, photography, and graphic design feel conceived as one unified campaign.\n\nThe final image should feel playful enough for social media, sophisticated enough for a global FMCG brand, and visually distinctive enough to be immediately recognizable in a crowded Instagram feed.\n\nPremium FMCG advertising. Bold visual metaphor. Photorealistic product. Editorial graphic design. Fresh, energetic, culturally relevant, scroll-stopping.
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2095834603944833173) | 2026-09-04
+
+---
+
+### 🎴 例 7450：机场时尚杂志封面
+
+![机场时尚杂志封面](../images/%E6%9C%BA%E5%9C%BA%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张 4:5 竖构图的高级电影质感时尚旅行杂志封面，设计风格类似豪华机场编辑海报，配有醒目的排版和旅行票据图形。
+
+画布：4:5 竖向封面，全出血设计，深色低饱和度森林绿背景叠加，背景可见带有玻璃屋顶结构的现代机场航站楼，抛光地面反射，浅景深，电影级编辑灯光。
+
+主体：一位时尚的年轻女性，{argument name="character age and vibe" default="20 岁出头，自信且毫不费力的酷感"}，低姿态且自信地坐在镀铬机场行李推车上。她身体微倾，一只手握住靠近肩膀的推车把手，姿势放松如时尚模特，目光平静地直视镜头。她身穿 {argument name="top" default="炭灰色无袖短款背心"}，宽松的浅蓝色阔腿牛仔裤，黑色低帮帆布鞋（配白色鞋带和白色橡胶底），以及一条黑色小吊坠项链。发型为 {argument name="hair style" default="深棕色长发，略显凌乱，半扎发，脸侧留有碎发"}。自然妆容，真实的皮肤质感，高端时尚编辑氛围。
+
+道具与环境：推车为闪亮的镀铬材质，配有黑色座椅和工业轮，身后和身旁堆放着黑色硬壳行李箱。地面反射应隐约可见轮子、运动鞋和行李。保持机场背景现代但作为次要元素，进行柔和的模糊处理。
+
+杂志排版与字体：使用巨大的米白色紧凑型粗体无衬线标题文字，覆盖封面的上三分之二，部分位于模特身后和周围，文字为 {argument name="main headline" default="ERASING TEMPLATES"}。字母应巨大、整洁、方正、间距紧凑，如同当代时尚杂志的刊头。所有排版和图形标记均使用奶油色/米白色。
+
+可见文字与图形元素，共 12 个独立的编辑/旅行元素：
+1. 左上角品牌 Logo：小型圆圈内飞机图标，配有文字“ETERNAL COLLECTION”。
+2. Logo 下方三行小字：“ISSUE NO.2025”、“SEASON COLLECTION”、“MADE TO TRAVEL”。
+3. 顶部中央小型登机牌贴纸：“FIRST CLASS”、“eternal co.”、小型飞机图标以及竖向的“FREE”标签。
+4. 右上角地球仪图标，旁边配有水平条形码。
+5. 左侧边缘垂直条形码，与巨大的首字母并列。
+6. 左侧中部说明文字块：“ERASING TEMPLATES”、“MADE TO TRAVEL”以及坐标“37.7749° N, 122.4194° W”。
+7. 左侧中部指向右侧的白色箭头图标。
+8. 左下角白色标签框，文字为“PRIORITY LUGGAGE →”。
+9. 标签下方的小字：“HANDLE WITH PURPOSE”、“MADE FOR MOVEMENT.”、“BUILT TO LAST.”
+10. 右侧中部半透明护照盖章图形，文字为“SEOUL”、“DEPARTED”、“INCHEON AIRPORT”、“REPUBLIC OF KOREA”，配有小数字和飞机图标。
+11. 左下角圆形地球仪印章，外加一个小条形码和小型地球仪图标。
+12. 右下角悬挂式行李牌，文字为“ETERNAL COLLECTION”、“MADE TO TRAVEL BUILT TO LAST”、“PRIORITY LUGGAGE”，配有行李箱和地球仪图标、条形码以及微小的网站文字。
+
+视觉风格：照片级真实感高级时尚编辑风格，高级杂志封面，电影级调色，主体清晰，机场背景柔和，冷绿色调阴影，奶油色排版，真实的镀铬反射，清晰的印刷设计细节，略微仰视的拍摄角度，强调前景的运动鞋和推车轮。
+
+约束条件：没有额外人物，没有额外主体对象，没有水印，除了列出的封面元素外不包含随机文字，保持所有大字清晰可读，小字部分保持可接受的微型印刷效果，模特保持在画面中下部居中，标题占据顶部主导地位。
+
+[English]
+Goal: Create a premium cinematic fashion-travel magazine cover in a vertical 4:5 composition, designed like a luxury airport editorial poster with bold typography and travel-ticket graphics.
+
+Canvas: Vertical 4:5 cover, full bleed, deep desaturated forest-green background overlay, glossy modern airport terminal visible behind the subject with glass roof structure, reflective polished floor, shallow depth of field, cinematic editorial lighting.
+
+Main subject: A stylish young woman, {argument name="character age and vibe" default="early 20s, confident and effortlessly cool"}, seated low and confidently on a chrome airport luggage trolley. She leans slightly back, one hand gripping the raised trolley handle near her shoulder, relaxed fashion-model posture, direct calm gaze at camera. She wears a {argument name="top" default="charcoal gray sleeveless cropped tank top"}, loose faded light-blue oversized baggy jeans, black low-top canvas sneakers with white laces and white rubber soles, and a small black pendant necklace. Hair is {argument name="hair style" default="dark brown, long, slightly messy, half-tied with loose face-framing strands"}. Natural makeup, realistic skin texture, high-end fashion editorial mood.
+
+Props and environment: The trolley is shiny chrome with black seats and industrial wheels, carrying black hard-shell suitcases stacked behind and beside her. The floor reflection should show the wheels, sneakers, and luggage subtly. Keep the airport background modern but secondary, softly blurred.
+
+Magazine layout and typography: Use enormous off-white condensed bold sans-serif headline text covering the upper two-thirds of the cover, partially behind and around the model, reading {argument name="main headline" default="ERASING TEMPLATES"}. The letters should be massive, clean, blocky, tightly spaced, like a contemporary fashion magazine masthead. Use a cream/off-white color for all typography and graphic marks.
+
+Visible text and graphic elements, exactly 12 discrete editorial/travel elements:
+1. Top-left brand logo: small airplane-in-circle icon with the words “ETERNAL COLLECTION”.
+2. Under the logo, three small lines: “ISSUE NO.2025”, “SEASON COLLECTION”, “MADE TO TRAVEL”.
+3. Top-center small boarding pass sticker: “FIRST CLASS”, “eternal co.”, small airplane icon, and a vertical “FREE” tab.
+4. Top-right globe icon beside a horizontal barcode.
+5. Left edge vertical barcode integrated beside the huge first letter.
+6. Left-middle caption block: “ERASING TEMPLATES”, “MADE TO TRAVEL”, and coordinates “37.7749° N, 122.4194° W”.
+7. Left-middle white arrow icon pointing right.
+8. Left-lower white label box reading “PRIORITY LUGGAGE →”.
+9. Small microcopy below label: “HANDLE WITH PURPOSE”, “MADE FOR MOVEMENT.”, “BUILT TO LAST.”
+10. Right-middle translucent passport stamp graphic reading “SEOUL”, “DEPARTED”, “INCHEON AIRPORT”, “REPUBLIC OF KOREA”, with small numbers and a plane icon.
+11. Bottom-left circular globe seal stamp plus a small barcode and small globe icon.
+12. Bottom-right hanging luggage tag reading “ETERNAL COLLECTION”, “MADE TO TRAVEL BUILT TO LAST”, “PRIORITY LUGGAGE”, with suitcase and globe icons, barcode, and tiny website text.
+
+Visual style: Photorealistic high-fashion editorial, premium magazine cover, cinematic color grading, sharp subject, soft airport background, cool green-gray shadows, cream typography, realistic chrome reflections, crisp print-design details, slightly low camera angle emphasizing the sneakers and trolley wheels in the foreground.
+
+Constraints: No extra people, no extra main objects, no watermark, no random text beyond the listed cover elements, keep all text legible where large and acceptably microprinted where small, maintain the model centered lower-middle with headline dominating the top.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2095814283804409962) | 2026-09-04
+
+---
+
+### 🎴 例 7451：旅行日记海报转换
+
+![旅行日记海报转换](../images/%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0%E6%B5%B7%E6%8A%A5%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+＃ 添付した写真を、ミニマルな旅日記風ポスターに変換してください。
+【残すもの】
+・建物・遊歩道・海・人・傘・階段など写真の構図
+・建物の形は「見ればわかる」程度に保つ
+【画風】
+・手描き＋シルクスクリーン印刷風のイラスト
+・形は大きく単純化し、輪郭は細くて少し不揃いなインク線
+・にじんだ水彩、色あせた顔料、紙の粒子、古い印刷のかすれ
+【色】
+・くすんだ青・海緑・ベージュ・グレー・テラコッタ
+・背景は温かいアイボリーの手すき紙、余白は広め
+【文字】
+・下部にタイプライター風の題名を1行
+・その下に小さく一言の詩的なキャプション
+【禁止事項】
+・写実的すぎる描写、ごちゃついた配置
+・派手な色、多すぎる文字
+【出力】
+縦4:5のポスター1枚。落ち着いた海辺の午後の空気感で。
+文字は最小限に。
+③ 題名と一言だけ自分の旅に合わせて差し替える
+投稿者の例は「{argument name="題名" default="harbour light"}」に
+「{argument name="一言" default="afternoon lingers in the curve"}」
+```
+
+**来源：** [@Aircle｜学生AIコミュニティ](https://x.com/AiAircle34052/status/2095796261484154911) | 2026-09-04
+
+---
+
+### 🎴 例 7453：东方禅意极简美学壁纸
+
+![东方禅意极简美学壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E7%BE%8E%E5%AD%A6%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美柔亮型
+主体内容：一位女子坐在圆窗前安静发呆，姿态放松
+情绪母题：坐忘、松弛、温柔内观
+场景与意象：圆窗、{argument name="植物颜色" default="蜜瓜绿色"}窗外植物、{argument name="花朵颜色" default="樱花粉"}小花、白色坐垫、女子
+构图与空间：圆窗位于画面中上部，人物位于下方，画面两侧保留干净留白，形成稳定封面构图
+色彩控制：暖白作为室内基底，{argument name="外景颜色" default="蜜瓜绿"}用于窗外植物色块，樱花粉用于小花点睛，人物服装用浅白或浅杏粉；避免全图粉绿化
+光线与质感：柔亮自然光，边缘清晰，干净新中式插画质感
+画幅比例：9:16 
+补充要求：整体要温柔、明亮、舒服，禅意来自姿态和留白，不靠灰雾和旧纸感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2095791219011924165) | 2026-09-04
+
+---
+
+### 🎴 例 7454：高端奢华旅行海报
+
+![高端奢华旅行海报](../images/%E9%AB%98%E7%AB%AF%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的旅行照片作为唯一素材，创作一张高端奢华旅行海报。首先进行分析，并仅选择一个主要主体：人物、地标/建筑或风景。采用严格的 3:4 竖向布局，分为两个等大的水平区域。上半部分：使用从照片中提取的一种主导纯色，并留出充足的负空间。放置一个直接从原始主体提取的小型、逼真的模切珐琅纪念品磁贴（宽度占 20%–30%），保留其轮廓、视角、比例、颜色和可识别的细节。添加柔和的自然阴影和细奶油色/白色边框。在磁贴下方，添加一个 {argument name="text style" default="elegant handwritten"} 英文 {argument name="location" default="location/name"}，仅在能够准确识别的情况下添加；否则省略。下半部分：保持原始照片的完全真实性，仅允许进行自然裁剪。禁止重新绘制、生成、变形、移除物体或更改身份。
+
+[English]
+Create a premium luxury travel poster using the uploaded travel photo as the single source of truth. Analyze it first and select one primary subject only: Person, Landmark/Architecture, or Landscape.
+
+Use a strict vertical 3:4 layout, split into two equal horizontal sections. Upper half: use one dominant solid color sampled from the photo, with generous negative space. Place one small, realistic die-cut enamel souvenir magnet (20–30% width) extracted directly from the original subject, preserving its silhouette, viewpoint, proportions, colors, and recognizable details. Add a soft natural shadow and thin cream/white border.
+
+Beneath the magnet, add one elegant handwritten English {argument name="location" default="location/name"}, only if confidently identifiable; otherwise omit it.
+
+Lower half: keep the original photograph completely authentic, allowing only natural cropping. No repainting, regeneration, distortion, object removal, or identity changes.
+
+Style: luxury editorial travel postcard, museum souvenir, refined, minimal, timeless, premium paper texture.
+
+Negative: multiple magnets, invented scenery, gradients, illustrations, collage, fake text, logos, watermark, subject changes, face replacement, distorted architecture, regenerated photo.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2095776599841095765) | 2026-09-04
+
+---
+

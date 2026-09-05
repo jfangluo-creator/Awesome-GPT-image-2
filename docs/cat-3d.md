@@ -8815,3 +8815,39 @@ Create a whimsical handcrafted miniature diorama featuring {argument name="landm
 
 ---
 
+### 🧸 例 7468：微缩手工美食场景
+
+![微缩手工美食场景](../images/%E5%BE%AE%E7%BC%A9%E6%89%8B%E5%B7%A5%E7%BE%8E%E9%A3%9F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个迷人的手工微缩美食场景，以 {argument name="food item" default="一叠煎饼"} 为视觉焦点。将食物精美地摆放在 {argument name="plate type" default="简约陶瓷盘"} 上，并在周围自然地放置一些精致的配料。添加一杯小巧的饮品、微型木勺和叉子、亚麻餐巾、散落的食材、细小的花朵或叶片，以及一些俏皮的手工装饰细节。加入一张与食物相关的 {argument name="note text" default="写有短句的小纸条"}，营造出温馨的视觉故事感。采用柔和的自然光，搭配干净的暖白色纹理背景，呈现柔和的阴影、细腻的柔和色调与大地色系，展现粘土和纸张的质感，保留微小的手工痕迹，采用极简的北欧风格构图，营造出奇趣的定格动画美感，呈现温馨的杂志级美食摄影效果，细节丰富，留白优雅，比例为 4:5 竖构图。
+
+[English]
+Create a charming handcrafted miniature food scene featuring {argument name="food dish" default="[FOOD / DISH]"} as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden spoon and fork, a linen napkin, scattered ingredients, tiny flowers or leaves, and a few playful handmade decorative details. Include a small handwritten paper note with a short phrase related to the food, creating a cozy visual story. Use soft natural daylight, a clean warm-white textured background, gentle shadows, delicate pastel and earthy tones, tactile clay and paper textures, tiny handmade imperfections, minimal Scandinavian-inspired composition, whimsical stop-motion aesthetic, cozy editorial food photography, highly detailed, elegant negative space, 4:5 vertical.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2095703211374219472) | 2026-09-04
+
+---
+
+### 🧸 例 7469：微缩儿童膝上肖像
+
+![微缩儿童膝上肖像](../images/%E5%BE%AE%E7%BC%A9%E5%84%BF%E7%AB%A5%E8%86%9D%E4%B8%8A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级写实风格的竖版影棚肖像，包含两个主体：1 位成年年轻女性和 1 位坐在她膝上的微缩版幼童。成年女性为 {argument name="adult woman ethnicity" default="南亚裔年轻女性"}，肤色温暖适中，眉毛浓密且富有表现力，妆容自然，双唇呈柔和的粉色，深色波浪卷发松散地盘成低位凌乱发髻，中分并留有几缕修饰脸型的发丝。她身穿一件超大号 {argument name="adult shirt color" default="黑色"} 圆领 T 恤，搭配黑色长裤，佩戴一条带有微小珍珠吊坠的精致细项链、小巧的耳钉以及棕色皮带腕表。她坐着，身体略微朝向镜头，低头注视着膝上的微缩幼童，嘴角带着温柔的微笑。幼童是一个非常小巧、逼真、如玩偶般的成年人幼年版本，拥有相同的面部特征、深色波浪卷发、小巧的耳钉，正开心地抬头注视着成年女性；幼童盘腿坐在成年女性的膝上，双手交叠在身前。幼童身穿一件柔和的 {argument name="child outfit color" default="棕褐色"} 短袖上衣和配套长裤，面料质感细腻，脚穿小凉鞋。采用温暖的黄金时刻影棚灯光，右上方的柔和轮廓光勾勒出头发线条，肤色平滑，织物纹理真实，浅景深效果，背景为柔和模糊的 {argument name="background color" default="暖米棕色"} 无缝背景布。构图为腰部以上，居中，竖版 4:5 肖像，营造出亲密的母子/奇幻微缩比例氛围，高端编辑摄影风格，85mm 镜头质感，自然姿态，面部细节清晰，无文字，无水印，无多余人物，无扭曲的手部，非卡通风格。
+
+[English]
+Create a premium photorealistic vertical studio portrait of exactly two subjects: an adult young woman and a miniature childlike version of her sitting on her lap. The adult woman is {argument name="adult subject" default="a young South Asian woman"} with warm medium skin, soft natural makeup, thick dark eyebrows, deep brown eyes looking downward with a gentle closed-mouth smile, and {argument name="hair style" default="dark wavy hair loosely tied back in a messy low bun with face-framing strands"}. She wears an oversized plain {argument name="shirt color" default="black"} T-shirt and dark pants, seated in a relaxed pose with one arm down and the other hand resting near her lap. The miniature child is a tiny girl, about doll-sized but fully realistic, sitting cross-legged on the adult's lap, looking up at the adult with a bright affectionate smile; she has matching dark wavy hair, similar facial features, small stud earrings, and wears a muted brown patterned short-sleeve top with matching pants. Include exactly three visible accessories: a delicate thin necklace with a small pearl pendant on the adult, a brown leather-strap wristwatch on the adult's wrist, and small stud earrings on the child. Use a warm beige-brown seamless studio backdrop with subtle texture, golden rim light from the upper right outlining the hair and shoulders, soft diffused key light from the front left, shallow depth of field, realistic skin texture, cinematic color grading, high-end editorial portrait photography, vertical 4:5 composition, adult centered slightly to the right and child positioned lower left on her lap. Keep the mood tender, maternal, intimate, and elegant; no text, no watermark, no extra people, no cartoon styling.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2095695933384364480) | 2026-09-04
+
+---
+
