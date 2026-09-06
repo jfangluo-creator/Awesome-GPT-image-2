@@ -19940,3 +19940,125 @@ Create a premium cinematic character bible sheet for {argument name="characters"
 
 ---
 
+### 🏷️ 例 7476：猫咪字体排版设计
+
+![猫咪字体排版设计](../images/%E7%8C%AB%E5%92%AA%E5%AD%97%E4%BD%93%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="visual description" default="字母由蜷缩、伸展和趴卧的猫咪构成，猫尾勾勒出 C 和 R 的曲线"}
+
+拼写限制：“仅包含 {argument name="text" default="CATURDAY"} 这一段文本以及单行小字，且拼写必须与所写内容完全一致。”
+
+[English]
+{argument name="visual description" default="the letterforms are built from curled, sprawled and stretched cats, tails tracing the curves of the C and the R"}
+
+Spelling constraint: "The only text is {argument name="text" default="CATURDAY"} and the single small line, spelled exactly as written."
+```
+
+**来源：** [@Glenn Williams](https://x.com/GlennHasABeard/status/2096302060123631936) | 2026-09-05
+
+---
+
+### 🏷️ 例 7486：GTA 风格角色转换
+
+![GTA 风格角色转换](../images/GTA%20%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以我的照片作为主要身份参考。使用我即将上传的目标图像作为姿势、构图、取景、光影、场景、调色和视觉风格的参考。将目标图像中的角色替换为我照片中的人物，并保持我的身份特征可辨识：包括面部、发型、胡须、肤色、体格、严肃的表情以及主要面部特征。严格保持目标图像中的姿势、身体体态、手臂和手部位置、取景、构图、透视、光影和场景。除为了自然融合新角色所需的最小改动外，请勿更改环境、色彩或原始氛围。重构完整的角色，不要仅仅进行简单的换脸。将我的面部和身体适配到目标图像的姿势中，保持逼真的解剖结构、自然的比例，以及头部、颈部、肩部、手臂和手部之间的连贯性。应用 {argument name="visual style" default="明确受 GTA 封面艺术启发的视觉风格"}：风格化写实角色插画，清晰的轮廓线，皮肤和服装具有精致的绘画质感，高对比度，电影级光影，色彩饱和但受控，融合奢华与街头的都市美学。避免使其看起来像普通的插画或照片滤镜。保留 {argument name="outfit" default="我照片中的服装：超大款白色 T 恤，黑色手表，以及手腕上的手链/项链"}。你可以巧妙地改善服装的纹理、垂感和质感，使其看起来更高级，但不要改变主要的服装款式。将目标图像中的任何包袋或手持物品替换为一个高级的黑色都市风格背包，并将其自然地融入姿势和场景中。添加 GTA 6 Logo。请勿包含：摄影器材、稳定器、视听设备、真实 Logo、文字、商标、武器、面部畸形、结构拙劣的手部、过度的肌肉量、卡通感或戏服感。
+
+[English]
+Use my photo as the main identity reference. Use the target image I'm going to attach as reference for pose, composition, framing, lighting, setting, color palette, and visual style. Replace the character in the target image with the person from my photo, keeping my identity recognizable: face, hair, beard, skin tone, physical build, serious expression, and main facial features. Keep exactly the pose, body posture, arm and hand position, framing, composition, perspective, lighting, and setting from the target image. Don't alter the environment, colors, or original atmosphere except for the minimum needed to naturally integrate the new character. Reconstruct the full character, don't just do a simple face swap. Adapt my face and body to the pose of the target image, maintaining realistic anatomy, natural proportions, and coherence between head, neck, shoulders, arms, and hands. Apply a {argument name="visual style" default="visual style clearly inspired by GTA cover art"}: stylized-realism character illustration, defined outlines, skin and clothing with a polished painterly finish, high contrast, cinematic lighting, saturated but controlled colors, luxury-meets-street urban aesthetic. Avoid making it look like a generic illustration or a photo filter. Keep the {argument name="outfit" default="outfit from my photo: oversized white t-shirt, black watch, and bracelet/chain on the wrist"}. You can subtly improve the texture, drape, and finish of the clothing to make it look more premium, but without changing the main outfit. Replace any bag or handheld object from the target image with a premium black urban-style backpack, naturally integrated into the pose and scene. Add GTA 6 Logo Do not include: camera equipment, gimbal, audiovisual gear, real logos, text, trademarks, weapons, facial deformities, poorly constructed hands, excessive muscle mass, cartoonish appearance, or costume-like look.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2096261025456689250) | 2026-09-05
+
+---
+
+### 🏷️ 例 7506：烈焰魔女女王竖版奇幻艺术
+
+![烈焰魔女女王竖版奇幻艺术](../images/%E7%83%88%E7%84%B0%E9%AD%94%E5%A5%B3%E5%A5%B3%E7%8E%8B%E7%AB%96%E7%89%88%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极高的竖版奇幻动漫插画，呈现戏剧性的末日火焰主题。画面前景下方，一位强大的女性魔女女王 / 火焰女巫全身立于嶙峋的黑色火山岩堆上。她拥有 {argument name="hair color" default="一头鲜艳的长红发"}，肤色苍白，表情严峻自信，身穿华丽的深红黑色盔甲，脚蹬黑色过膝长靴，披着飘逸的深红色斗篷，并带有金色饰边细节。她单手持一根顶端嵌有发光红球的高大黑色法杖，微微举起，仿佛正在掌控天空。画面上方，用占据大部分画布的巨大旋转火凤凰或火焰龙形态填满，其形状如同一道巨大的 S 型熔岩橙、红、黄三色火焰龙卷风，顶部展开如翼般的烈焰。天空布满深色烟云、发光的余烬、火山灰以及环绕在火焰旋涡周围漂浮的破碎黑色岩石碎片。环境设定为荒废的火山战场，地面布满裂开的岩浆、黑色悬崖、远处的哥特式废墟、炽热的裂缝以及垂直的岩浆流。仅在画面右侧边缘添加对比鲜明的冷蓝白色闪电和冰霜般的能量光芒，仿佛有另一种元素力量正在侵入，但整体色调仍以炽热的深红和橙色为主。采用高细节的电影级数字绘画，动漫奇幻主视觉风格，锐利的光影，强烈的对比，发光的岩浆高光，动态构图，无文字，无边框，无水印。构图需极高且窄，强调垂直尺度以及高耸于单个人物之上的巨大超自然火焰形态。
+
+[English]
+Create an extremely tall vertical fantasy anime illustration with a dramatic apocalyptic fire theme. Show one powerful female demon queen / fire sorceress standing full-body on a jagged black volcanic rock mound in the lower foreground. She has {argument name="hair color" default="long vivid red hair"}, pale skin, a confident stern expression, and wears ornate dark red and black armor with thigh-high black boots, a flowing crimson cape, and gold-trimmed details. She holds exactly one tall black staff topped with a glowing red orb in one hand, raised slightly like she is controlling the sky. Above her, fill most of the canvas with exactly one enormous swirling fire phoenix or flame dragon formation, shaped like a huge S-shaped spiral tornado of molten orange, red, and yellow fire, with wing-like flames spreading near the top. The sky is packed with dark smoke clouds, glowing embers, volcanic ash, and floating broken black rock fragments around the flame spiral. The environment is a ruined volcanic battlefield with cracked lava ground, black cliffs, distant shattered gothic ruins, red-hot fissures, and vertical lava streams. Add a contrasting cold blue-white lightning and ice-like energy glow along the right edge only, as if another elemental force is intruding, but keep the dominant palette fiery crimson and orange. Use highly detailed cinematic digital painting, anime fantasy key visual style, sharp lighting, intense contrast, glowing lava highlights, dynamic composition, no text, no border, no watermark. Make the composition extremely tall and narrow, emphasizing vertical scale and the huge supernatural flame formation towering over the single character.
+```
+
+**来源：** [@ねおんAIイラスト](https://x.com/neonaiart/status/2096189193567523279) | 2026-09-05
+
+---
+
+### 🏷️ 例 7525：四宫格 AI 内容展示
+
+![四宫格 AI 内容展示](../images/%E5%9B%9B%E5%AE%AB%E6%A0%BC%20AI%20%E5%86%85%E5%AE%B9%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 AI 图像生成平台创建一个精美的 2x2 社交媒体/营销图形示例拼贴，中间由细白色间隙隔开，展示可制作的各种视觉效果：电商、励志生活方式、AI 教育和生产力语录内容。
+
+画布：横向 3:2 长宽比，约 1200x800，精确划分为 4 个相等的矩形面板，网格整洁，面板间有白色边框。使用写实摄影与清晰的叠加图形设计文字相结合。
+
+面板 1，左上角 — 电商新品：一个温暖的米色桌面场景，笔记本电脑和智能手机上显示着时尚商店网站。笔记本电脑屏幕显示一个简洁的在线商店，包含 3 张产品卡片：棕色夹克、白色上衣和米色夹克，每张卡片都有模特照片、价格和小的“加入购物车”按钮。前面的手机也显示了棕色夹克产品。在左上角添加柔和的叶子植物阴影。左侧的大号白色衬线标题写着“{argument name="fashion headline" default="New Arrivals"}”，较小的一行写着“夏季系列”，正文写着“探索我们为舒适和风格设计的最新系列。”，圆角轮廓按钮写着“立即购买”。
+
+面板 2，右上角 — 励志生活方式帖：温馨的卧室照片，一位微笑的年轻女性坐在床上，穿着米白色针织毛衣和米色裤子，拿着白色马克杯，背景是植物和圆形的墙镜，背景柔和模糊。在右侧叠加粗体白色无衬线文字，写着“{argument name="motivational headline" default="Small Steps Every Day"}”，下方较小的文字写着“为你所走过的路感到自豪。”，一个白色手绘下划线装饰，右上角有 3 个白色轮廓心形涂鸦。
+
+面板 3，左下角 — AI 提示词工程教育图形：深海军蓝色的未来感工作空间场景，一名戴眼镜的男子在夜间专注地使用笔记本电脑，带有蓝紫色霓虹 UI 叠加层和微妙的网格线。左侧包含一个大型教育标题：“PROMPT ENGINEERING”，上方是“{argument name="AI education title" default="TIPS TO GET BETTER AI RESPONSES"}”，其中“AI”以青色突出显示。包含 4 个带有青色小方块图标的清单提示：“清晰具体”、“提供背景”、“使用示例”和“迭代与优化”。在标题区域右侧放置 2 张半透明圆角 UI 卡片：一张标记为“输入提示词”，文字为“用简单的术语解释量子计算的概念。”，另一张标记为“AI 回复”，文字为“量子计算使用可以同时存在于多种状态的量子比特...”。添加 2 个装饰性界面图标：右上角附近的一个圆形大脑图标和右下角附近的一个小聊天气泡图标。
+
+面板 4，右下角 — 自律语录卡：阳光明媚的木质桌面场景，窗外有模糊的绿色植物。左侧放置一个灰色陶瓷马克杯，旁边有堆叠的白色文字“专注 计划 执行”，旁边是一个合上的笔记本。右侧放置一张黑色圆角矩形语录卡，带有柔和金色的排版引号。白色语录文字写着“{argument name="quote text" default="Discipline today leads to freedom tomorrow. Keep showing up."}”，其中“showing up”短语以柔和金色突出显示。
+
+视觉风格：高端社交媒体营销样机，照片级写实基础图像，生活方式和产品面板采用柔和的自然光，AI 面板采用深邃的电影级蓝色灯光，现代简洁的排版，逼真的阴影，高对比度，清晰易读的文字，专业的创作者美学。
+
+约束：使用 4 个面板和列出的重复元素：3 张电商产品卡片、3 个心形涂鸦、4 个清单提示、2 张半透明 UI 卡片和 2 个装饰性 AI 界面图标。保持所有可见文字清晰且拼写正确。无水印，无额外面板，无随机徽标。
+
+[English]
+Goal: Create a polished 2x2 collage advertising the range of AI-generated visual content, with four distinct square/landscape social-media-style examples separated by thick white gutters.
+
+Canvas: Wide 3:2 aspect ratio, clean 2-by-2 grid, each quadrant the same size, thin white outer border and thick white dividers between panels. Overall aesthetic is premium, modern, photorealistic mixed with graphic design overlays.
+
+Layout and panels: Use exactly 4 panels.
+1. Top-left panel: E-commerce fashion landing page mockup on a laptop and smartphone in a soft beige home-studio setting with plant shadows. On the left, overlay elegant white serif text: “New Arrivals”, smaller “Summer Collection”, a short description “Discover our latest collection designed for comfort and style.” and a rounded “SHOP NOW” button. On the laptop screen show a minimalist shop page with a top navigation containing exactly 5 labels: “SHOP”, “NEW IN”, “CLOTHING”, “ACCESSORIES”, “SALE”. Show exactly 3 product cards on the laptop: a brown jacket front view, a white t-shirt outfit, and a beige jacket back view, each with small price text and an “ADD TO CART” button. The phone repeats one product card for the brown jacket.
+2. Top-right panel: Cozy lifestyle motivational post. A smiling young woman with medium skin tone and dark hair in a messy bun sits on a bed holding a white mug, wearing a cream sweater and beige pants, warm natural bedroom light, pillows and soft greenery in the background. Add bold white stacked headline text on the right: “Small Steps Every Day”. Under it place smaller text: “Be proud of how far you’ve come.” Add exactly 3 small hand-drawn white heart icons in the upper-right corner and one white scribble underline near the bottom-right.
+3. Bottom-left panel: Dark blue futuristic prompt engineering educational graphic. A thoughtful man with glasses works on a laptop at night, blue/purple tech glow, faint grid and UI elements. Large text on the left reads: “PROMPT ENGINEERING” and “TIPS TO GET BETTER AI RESPONSES”, with “AI” highlighted in cyan. Include exactly 4 tip rows with small cyan square icons: “Be Clear & Specific”, “Provide Context”, “Use Examples”, “Iterate & Refine”. Add exactly 2 translucent UI cards on the right: one titled “INPUT PROMPT” with text about explaining quantum computing in simple terms, and one titled “AI RESPONSE” with a short explanation about qubits. Add exactly 2 small decorative icons: a brain outline circle near the top-right and a chat bubble near the lower-right.
+4. Bottom-right panel: Minimal productivity quote scene on a wooden desk with blurred green plants in the background. Place a matte dark mug on the left-center printed with stacked white words: “FOCUS”, “PLAN”, “EXECUTE”. Add a notebook and pen nearby. On the right place a black rounded-rectangle quote card with gold quotation marks. Text on the card reads: “Discipline today leads to freedom tomorrow. Keep showing up.” with “showing up” highlighted in muted gold.
+
+Visual style: High-end commercial social media graphics, realistic photography, warm neutral color palette in the top panels, deep navy/cyan tech palette in the bottom-left, natural green and black/gold productivity palette in the bottom-right. Sharp readable typography, soft shadows, professional ad mockup quality.
+
+Customization: Use {argument name="fashion headline" default="New Arrivals"}, {argument name="motivational headline" default="Small Steps Every Day"}, {argument name="educational headline" default="TIPS TO GET BETTER AI RESPONSES"}, {argument name="quote text" default="Discipline today leads to freedom tomorrow. Keep showing up."}, and {argument name="mug words" default="FOCUS PLAN EXECUTE"}.
+
+Constraints: Preserve the exact 4-panel grid, keep all listed text legible, do not add extra panels, avoid logos and watermarks, maintain clean white dividers and a premium AI-generated marketing showcase feel.
+```
+
+**来源：** [@Autoadify](https://x.com/autoadify/status/2096097555524538498) | 2026-09-05
+
+---
+
+### 🏷️ 例 7531：黑金莳绘笛手
+
+![黑金莳绘笛手](../images/%E9%BB%91%E9%87%91%E8%8E%B3%E7%BB%98%E7%AC%9B%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 的竖版肖像插画，采用奢华的日式莳绘漆器美学，仅使用深哑光黑和金属古金色。描绘 {argument name="character name" default="一位优雅的年轻男笛手"}，采用四分之三侧身视角，从大腿中部向上取景，他神态从容地吹奏着横在唇边的黑色竹笛。他拥有 {argument name="hair color" default="一头飘逸的金色长发"}、松散的层次感刘海、垂在一侧肩头的低马尾、精致锐利的五官、低垂的双眼以及宁静忧郁的表情。让他身着正式的传统日式和服：黑色外袍配宽袖，饰有金色线条，内衬叠穿和服带有细腻的几何图案，腰间系着腰带并插着一把小扇子。在长袍和背景上添加华丽的金色莳绘装饰：精确绘制 2 朵大型菊花图案，一朵位于左下袖口，另一朵位于右下背景，并点缀多簇飘落的细小金花和类似云雾的散落金粉。在底部边缘附近加入精致的日式庭院围栏和高草线条艺术。整体构图应呈现出优雅的传统表演艺术海报质感，运用复杂的漫画风格雕刻线条、精细的排线、闪烁的金箔纹理，强调高对比度的黑色负空间，不含任何现代物品、文字、边框或水印。
+
+[English]
+Create a vertical 2:3 portrait illustration in a luxurious Japanese maki-e lacquerware aesthetic, using only deep matte black and metallic antique gold. Depict {argument name="character name" default="an elegant young male flutist"} in three-quarter view from mid-thigh up, standing calmly while playing a black transverse bamboo flute held horizontally to his lips. He has {argument name="hair color" default="long flowing golden-blond hair"}, loose layered bangs, a low ponytail over one shoulder, refined sharp facial features, downcast eyes, and a serene melancholy expression. Dress him in a formal traditional Japanese kimono ensemble: a black outer robe with wide sleeves, gold linework, layered inner kimono with subtle geometric patterns, an obi sash, and a small fan tucked at the waist. Add ornate gold maki-e decoration across the robe and background: exactly 2 large chrysanthemum flower motifs, one on the lower left sleeve hem and one on the lower right background, plus multiple drifting clusters of tiny gold blossoms and speckled gold dust resembling clouds. Include delicate Japanese garden fence and tall grass line art near the lower edges. The composition should feel like an elegant traditional performing arts poster, with intricate engraved manga-style linework, fine hatching, shimmering gold leaf texture, high contrast black negative space, no modern objects, no text, no border, and no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2096074599553524130) | 2026-09-05
+
+---
+

@@ -20518,3 +20518,129 @@ Create a full character design sheet for a {argument name="character description
 
 ---
 
+### 🎨 例 7473：酒店大堂里的超现实天气景观
+
+![酒店大堂里的超现实天气景观](../images/%E9%85%92%E5%BA%97%E5%A4%A7%E5%A0%82%E9%87%8C%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A4%A9%E6%B0%94%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级逼真的 {argument name="location" default="酒店大堂"} 夜景。在 {argument name="furniture" default="高背扶手椅"} 上坐着一小片天气：一朵 {argument name="weather element" default="浓密的白云"}，大到足以溢出两个扶手；上方一个小小的金色太阳向下照耀，清晰的光束穿透云层；下方，座椅变成了一片绿色的草地，细雨从云底落下，雨水在扶手处停止。椅子扶手上有一块小铜牌，写着："{argument name="sign text" default="SIT"}"。大理石地面映照出云朵；配有一盏台灯和一盆植物。2:3 纵横比。
+
+[English]
+A photorealistic {argument name="location" default="hotel lobby"} at night. In a {argument name="furniture" default="high-backed armchair"} sits a small piece of weather: a {argument name="weather element" default="dense white cloud"}, large enough to spill over both armrests; above it a small golden sun shines downward, distinct light beams piercing through the cloud; below, the seat is a green meadow with grass and rain falling in fine threads from the cloud's base, the rain stopping at the armrests. On the chair's arm, a small brass plate: "{argument name="sign text" default="SIT"}". The marble floor reflects the cloud; one desk lamp, a potted plant. 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2096346110256091493) | 2026-09-05
+
+---
+
+### 🎨 例 7474：Q 版奇幻法师像素精灵
+
+![Q 版奇幻法师像素精灵](../images/Q%20%E7%89%88%E5%A5%87%E5%B9%BB%E6%B3%95%E5%B8%88%E5%83%8F%E7%B4%A0%E7%B2%BE%E7%81%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一个居中的 8-bit 像素艺术精灵，展示 1 个正面站立、表情中性的 Q 版奇幻法师角色。该角色为 {argument name="character name" default="Astra"}，是一位身材娇小的超变形女巫，拥有 {argument name="hair color" default="金黄色"} 的直发、白皙的皮肤、深红色的大眼睛，以及一个额头中心镶嵌着一颗红宝石的华丽金色头饰。服装：共 5 件主要服饰，包括绕在肩部的深蓝色围巾或短披风、白色长袍、带有小型中心扣的金色腰带、黄金色手套或护臂，以及深棕色靴子。姿势：双臂自然下垂，身体比例紧凑，双脚微微分开。在角色左侧放置 1 根竖直的木质长杖；长杖拥有弯曲的深棕色杖身，顶部附近有一个镶嵌在深色框架中的蓝色菱形水晶，下方悬挂着 1 个小型红色挂饰，下部握柄处有一圈金环。采用清晰的低分辨率像素艺术风格，具有块状方形像素、硬边缘、无抗锯齿、黑色和深棕色轮廓线、暖金色高光、海军蓝阴影，呈现出简约的复古 RPG 角色精灵外观。保持构图独立、对称且易于辨识，无文字、无背景景观、无水印。
+
+[English]
+Create a centered 8-bit pixel art sprite on a plain white background, showing exactly 1 chibi fantasy mage character standing front-facing with a neutral expression. The character is {argument name="character name" default="Astra"}, a small super-deformed sorceress with {argument name="hair color" default="golden blonde"} straight hair, pale skin, large dark red eyes, and a gold ornate headdress with a single red jewel centered on the forehead. Outfit: exactly 5 main clothing pieces, consisting of a dark blue scarf or short cape wrapped around the shoulders, a white tunic dress, a gold belt with a small central buckle, yellow-gold gloves or arm guards, and dark brown boots. Pose: arms relaxed at the sides, compact body proportions, feet slightly apart. Include exactly 1 tall wooden staff on the character’s left side, held upright; the staff has a crooked dark-brown shaft, exactly 1 blue diamond-shaped crystal set near the top in a dark frame, exactly 1 small red hanging charm below it, and a gold band near the lower grip. Use a crisp low-resolution pixel-art style with chunky square pixels, hard edges, no antialiasing, black and dark-brown outlines, warm gold highlights, navy shadows, and a simple retro RPG character-sprite look. Keep the composition isolated, symmetrical, and readable, with no text, no background scenery, and no watermark.
+```
+
+**来源：** [@ち～ぽん✨🤔](https://x.com/gamemangaanime/status/2096329540910154205) | 2026-09-05
+
+---
+
+### 🎨 例 7511：日式水彩拼贴静物
+
+![日式水彩拼贴静物](../images/%E6%97%A5%E5%BC%8F%E6%B0%B4%E5%BD%A9%E6%8B%BC%E8%B4%B4%E9%9D%99%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在垂直的 {argument name="canvas ratio" default="3:4"} 画布上创作一幅极简日式水彩墨水拼贴静物画。背景使用带有细微纤维、污渍和轻微老化痕迹的暖色调手工和纸。构图重心偏下，留出大量空白。画面中精确描绘 14 个独立可见的物体：左侧上方悬浮着 1 个深蓝色不规则梯形，其右侧悬浮着 1 条水平黑色干笔墨迹，1 本书页边缘粗糙、带有细灰色页线的奶油色打开的书，书后方有 1 个深海军蓝长方形块，书下方有 1 条长板岩灰水平板，右侧有 1 个白色浅碗，碗内有 3 个圆形红色水果，水果后方有 2 个深蓝色小叶片，底部边缘有 5 个撕裂的长方形纸片：最左侧为米白色撕裂纸片，依次为淡薄荷绿正方形、蓝灰色垂直长方形、深灰色阴影状长方形，以及最右侧的淡绿色长方形。整体以柔和的 {argument name="art style" default="Japanese watercolor ink wash collage"} 风格渲染，采用海军蓝、板岩灰、淡绿、象牙白和深红作为点缀色，呈现柔和的阴影、粗糙的毛边、可见的笔触以及不对称的侘寂平衡感。画面保持宁静、通透、抽象且具有手工质感；无清晰文字，无边框，非写实摄影，无额外物体。
+
+[English]
+Create a minimalist Japanese-inspired watercolor and ink collage still life on a vertical {argument name="canvas ratio" default="3:4"} canvas. Use a warm cream handmade washi-paper background with subtle fibers, stains, and light aging marks. Center the composition low-middle with lots of empty space. Depict exactly 14 discrete visible objects: 1 dark blue irregular trapezoid floating above the still life on the left, 1 horizontal black dry-brush ink stroke floating to its right, 1 open cream-paper book with rough torn page edges and fine gray page lines, 1 dark navy rectangular block behind the book, 1 long slate-gray horizontal slab beneath the book, 1 small white shallow bowl on the right, 3 rounded red fruits inside the bowl, 2 small dark blue leaf shapes behind the fruits, and 5 torn rectangular paper scraps along the bottom edge: an off-white torn scrap at far left, a pale mint square, a blue-gray vertical rectangle, a dark gray shadow-like rectangle, and a pale green rectangle at far right. Render everything in soft {argument name="art style" default="Japanese watercolor ink wash collage"}, with muted navy, slate gray, pale green, ivory, and deep red accents, gentle shadows, rough deckled edges, visible brush texture, and asymmetrical wabi-sabi balance. Keep the image quiet, airy, abstract, and handmade; no readable text, no frame, no photorealism, no extra objects.
+```
+
+**来源：** [@鈴木](https://x.com/stocktrading0/status/2096176252294177036) | 2026-09-05
+
+---
+
+### 🎨 例 7514：漂浮在彩色玻璃大厅中的和服少女
+
+![漂浮在彩色玻璃大厅中的和服少女](../images/%E6%BC%82%E6%B5%AE%E5%9C%A8%E5%BD%A9%E8%89%B2%E7%8E%BB%E7%92%83%E5%A4%A7%E5%8E%85%E4%B8%AD%E7%9A%84%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖构图动画插画，画面中一位名叫 {argument name="character name" default="Astra"} 的快乐年轻女性正漂浮或跃动在宏伟的教堂式彩色玻璃温室半空中。她身穿传统的日本毕业服饰：一件深 {argument name="kimono color" default="绯红色"} 的花卉振袖和服，配有宽大的袖子和白金色的花朵刺绣；穿着黑色百褶袴，上面有精致的花卉刺绣；系着深色腰带，配有小巧的金色装饰；穿着白色足袋，清晰可见两只黑红相间的木屐。她长长的 {argument name="hair color" default="黑色"} 头发因动作而向上飘动，装饰着红白相间的花朵发饰和垂下的丝带。她脸上洋溢着灿烂的笑容，双眼因快乐而闭起，双臂向观众张开，传达出自由与庆祝的氛围。环境采用华丽的螺旋构图：高耸的拱形彩色玻璃墙如漩涡般环绕着她，头顶上方是圆形的玫瑰花窗天花板，带有星芒图案、红色花卉主题、蓝色菱形玻璃、金色窗格和深色哥特式金属框架。画面需包含且仅包含一位主角、两只张开的手、两只可见的脚、一个圆形天花板玫瑰窗，以及大厅周围悬挂的五个带有刻面玻璃和黄铜框架的暖色调灯笼。底部的抛光马赛克地板反射出红色、蓝色、金色和白色的彩色玻璃倒影，前景处有一个巨大的星形奖章倒影。场景中飘落着红色花瓣，尤其是在前景处，远处的下层窗户可见日落时的哥特式塔楼。使用虹彩彩色玻璃光效、暖色背光、明暗对比、发光的轮廓光、宝石色调、复杂的线条、动态的低角度透视、广角镜头畸变、电影级景深以及高级精美的动画主视觉画质。避免出现文字、水印、多余角色、手部畸变、手指缺失或现代物品。
+
+[English]
+Create a highly detailed vertical anime illustration of one joyful young woman named {argument name="character name" default="Astra"} floating or leaping in midair inside a grand cathedral-like stained-glass conservatory. She wears a traditional Japanese graduation outfit: a deep {argument name="kimono color" default="crimson red"} floral furisode kimono with wide sleeves, white and gold blossom embroidery, a black pleated hakama with subtle floral embroidery, a dark obi with a small gold ornament, white tabi socks, and exactly two black-and-red geta sandals visible. Her long {argument name="hair color" default="black"} hair streams upward as if caught by motion, decorated with a red-and-white flower hairpiece and dangling ribbons. She has a radiant laughing smile, closed happy eyes, and both arms stretched wide toward the viewer, conveying freedom and celebration. The environment is an ornate spiral composition: towering arched stained-glass walls curve around her in a vortex, with a circular rose-window ceiling centered above her head, starburst patterns, red flower motifs, blue diamond glass, gold tracery, and dark gothic metal frames. Include exactly one main character, two open hands, two visible feet, one circular ceiling rose window, and five warm hanging lanterns with faceted glass and brass frames placed around the hall. The polished mosaic floor at the bottom reflects the stained glass in glossy reds, blues, golds, and whites, with a large star medallion reflection near the foreground. Add drifting red flower petals across the scene, especially in the foreground, and distant gothic towers visible through the lower windows at sunset. Use iridescent stained-glass lighting, warm backlight, chiaroscuro contrast, luminous rim light, jewel-tone colors, intricate linework, dynamic low-angle perspective, wide lens distortion, cinematic depth, and premium polished anime key visual quality. Avoid text, watermark, extra characters, distorted hands, missing fingers, or modern objects.
+```
+
+**来源：** [@Nikky_AI beautiful girls](https://x.com/nikky_777s/status/2096166678841471475) | 2026-09-05
+
+---
+
+### 🎨 例 7519：御手洗三花猫与仓鼠
+
+![御手洗三花猫与仓鼠](../images/%E5%BE%A1%E6%89%8B%E6%B4%97%E4%B8%89%E8%8A%B1%E7%8C%AB%E4%B8%8E%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅异想天开的水彩插画，采用 3:4 的竖构图，背景为深邃的藏青色夜空。在左上方对角线位置，画一只名为 {argument name="character name" default="Mitarashi"} 的漂浮三花猫，体型较大且神态温柔，拥有奶油色的皮毛和 {argument name="patch colors" default="金焦糖色与柔和鼠尾草绿"} 的斑点。猫咪有着淡绿色的杏仁眼、粉色的耳廓、精致的胡须，正低头看向一只小仓鼠，表情平静而充满爱意。猫咪的尾巴幻化成一条长长的、流动的金色御手洗团子糖浆，呈优雅的 S 型向右下方蜿蜒，带有圆润的液滴和漂浮的小团块。在猫咪右侧，画一只小巧的奶油色仓鼠，它有着红润的脸颊、眯起的笑眼、小小的手脚，正捧着并啃食一串团子，团子共三个，呈琥珀金色，最下方的一个为柔和的绿色。在它们周围点缀神奇的星空：放置 9 颗较大的四角闪烁星，并辅以许多如星尘般的金色小点。使用柔和透明的水彩渲染、细腻的铅笔线条、温暖的高光，呈现出细腻的纸张纹理和梦幻的绘本氛围，无文字，无边框，无水印。
+
+[English]
+Create a whimsical watercolor illustration on a vertical 3:4 canvas with a deep navy night-sky background. Show a floating calico cat named {argument name="character name" default="Mitarashi"} curled diagonally in the upper left, large and gentle, with cream fur and soft mottled patches in {argument name="patch colors" default="golden caramel and muted sage green"}. The cat has pale green almond eyes, pink inner ears, delicate whiskers, and a calm affectionate expression as it looks down toward a tiny hamster. The cat’s tail transforms into a long, flowing stream of glossy mitarashi-dango-like golden syrup, curling in an elegant S-shape toward the lower right with rounded droplets and small floating blobs. To the right of the cat, include exactly one small cream hamster with rosy cheeks, closed smiling eyes, tiny paws and feet, holding and nibbling a skewer of exactly three round glossy dumplings colored amber-gold with one muted greenish dumpling at the bottom. Surround the pair with a magical star field: include exactly 9 larger four-point sparkle stars placed around them, plus many tiny gold dots like stardust. Use soft transparent watercolor washes, fine pencil-like outlines, warm highlights, gentle paper texture, dreamy storybook atmosphere, no text, no border, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2096129847936663640) | 2026-09-05
+
+---
+
+### 🎨 例 7529：可爱的蓝色像素史莱姆精灵
+
+![可爱的蓝色像素史莱姆精灵](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E8%93%9D%E8%89%B2%E5%83%8F%E7%B4%A0%E5%8F%B2%E8%8E%B1%E5%A7%86%E7%B2%BE%E7%81%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一个可爱的像素艺术游戏精灵：一个正面朝向的 Q 版水系史莱姆吉祥物，形状像一个有光泽的圆形水滴，颜色为 {argument name="slime color" default="bright cyan blue"}，带有深蓝色像素轮廓和柔和的内部阴影。该角色头顶有一个由短颈连接的小水滴触角，两只大椭圆形动漫眼睛，配有深海军蓝瞳孔和明亮的白色方形高光，脸颊上有两个粉色方形腮红，还有一个带有深色轮廓和粉色舌头的小巧快乐张开的嘴。使用清晰的 16 位/32 位像素艺术，具有可见的方形像素、厚实的阶梯状边缘、高对比度高光和干净的居中构图。在身体和水滴的左上侧添加有光泽的白色反射，并在下边缘周围添加浅蓝色边缘高光。无文字、无道具、无环境、无阴影、无水印；保持精灵独立并居中于 {argument name="canvas size" default="1024x1024"} 的正方形画布中，适合作为游戏素材图标。
+
+[English]
+Create a centered 2D pixel-art game sprite of one cute {argument name="creature type" default="blue water slime mascot"} on a plain white background. The character is a glossy round teardrop-shaped blob with a small narrow neck and a tiny bubble-like droplet on top, using bright aqua and cyan body colors with a dark royal-blue pixel outline. Make it kawaii and cheerful: exactly 2 large oval dark-blue eyes with white square highlights, 2 pink square blush patches on the cheeks, and 1 small open smiling mouth with a dark outline and pink tongue. Add chunky pixelated shine effects: 1 large white shine patch on the upper-left forehead, 1 small white dot near the center-left face, 1 small bright highlight on the right side, and soft lighter-cyan rim highlights along the lower edge and sides. Use crisp blocky pixels, low-resolution sprite aesthetics, simple symmetrical front-facing pose, no text, no shadow, no environment, no extra characters, isolated on white. Style should look like a polished {argument name="game style" default="retro RPG collectible monster sprite"}, cute, vibrant, and ready for use as a game asset.
+```
+
+**来源：** [@바스](https://x.com/flowoodzx/status/2096080474133201053) | 2026-09-05
+
+---
+
+### 🎨 例 7541：骑着悬浮滑板车的狐耳巫女
+
+![骑着悬浮滑板车的狐耳巫女](../images/%E9%AA%91%E7%9D%80%E6%82%AC%E6%B5%AE%E6%BB%91%E6%9D%BF%E8%BD%A6%E7%9A%84%E7%8B%90%E8%80%B3%E5%B7%AB%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，描绘 {argument name="character name" default="一位原创狐耳巫女少女"} 骑着一辆复古未来主义风格、薄荷绿与奶油色相间的 Vespa 式悬浮滑板车，行驶在阳光普照的地中海沿海公路上。主体是一位十几岁的动漫少女，留着飘逸的 {argument name="hair color" default="黑色"} 长发，长着一对巨大的黑色狐耳，内侧毛色较浅，佩戴着带有流苏和小型花朵装饰的红色侧边发带，眼神沉静严肃，表情从容。她身穿带有红色花卉图案的白色和服上衣，袖口宽大且呈半透明状，下着深红色袴裙，腰间系着带有金色细节的黑红配色腰带，脚蹬黑色系带靴。滑板车拥有圆润的复古车身、镀铬车把、透明弧形挡风玻璃、一个巨大的发光前灯、一个小巧的圆形后视镜、金属饰条，底部有两个清晰可见的蓝色反重力发光装置，使其看起来悬浮在石板路面之上。滑板车后座上坐着一只黑猫，它有着黄色的眼睛，脖子上戴着系有金铃铛的红色项圈，周围摆放着旅行装备。后部需挂载三个显眼的行李件：顶部捆绑着一个大型木箱，一个深色皮箱，以及一个卷起来的蓝白相间图案的毯子或垫子。场景设定在 {argument name="location" default="一座灵感源自阿马尔菲海岸的海滨小镇"}：白色灰泥墙房屋搭配赤陶屋顶、蓝色栏杆、石墙、开满鲜花的阳台、咖啡馆遮阳伞、柏树、教堂钟楼、拱形渡槽式桥梁、悬崖边建筑以及碧蓝的海水。背景中需包含三艘清晰可见的白色帆船、远山、蓬松的白云以及晴朗蓝天中飞翔的几只小鸟。采用从斜上方和前方拍摄的动态四分之三视角，滑板车从右下向左上呈对角线倾斜，展现出在蜿蜒沿海公路上高速行驶的动感。增加被风吹起的头发和袖子、温暖的阳光、清脆的高光、柔和的阴影、路面和前景花朵的动态模糊，以及空中飘散的黄色和粉色花瓣。整体氛围应具有电影感、冒险感、奢华感和夏日气息，要求极高细节的动漫渲染、干净的线条、饱和的色彩、深邃的景深，且画面中不含任何文字或水印。
+
+[English]
+Create a polished anime-style vertical illustration of {argument name="character name" default="an original fox-eared shrine maiden girl"} riding a retro-futuristic mint-and-cream Vespa-like hover scooter down a sunlit Mediterranean coastal road. The main subject is a teenage anime girl with long flowing {argument name="hair color" default="black"} hair, large black fox ears with pale inner fur, a red side ribbon with tassels and a small flower ornament, calm serious eyes, and a composed expression. She wears a white kimono top with red floral patterns, wide translucent sleeves, a dark red hakama skirt, a black-and-red obi with small gold details, and black lace-up boots. The scooter has a rounded vintage body, chrome handlebars, a clear curved windshield, one large glowing headlight, a small round side mirror, metallic trim, and two visible blue anti-gravity glow units underneath, making it appear to hover just above the stone street. Behind her on the scooter is one black cat with yellow eyes and a red collar with a gold bell, sitting among travel gear. Include exactly three prominent luggage pieces attached to the rear: one large wooden crate strapped on top, one dark leather suitcase, and one rolled blue-and-white patterned blanket or mat. Set the scene in {argument name="location" default="a bright Amalfi Coast inspired seaside town"}: white stucco houses with terracotta roofs, blue railings, stone walls, flower-covered balconies, café umbrellas, cypress trees, a church bell tower, arched aqueduct-like bridges, cliffside buildings, and vivid turquoise sea. In the background, include exactly three visible white sailboats on the water, distant mountains, fluffy white clouds, and a few small birds in a clear blue sky. Use dynamic three-quarter perspective from slightly above and in front, with the scooter angled diagonally from lower right toward upper left, suggesting fast motion along a curved coastal road. Add wind-blown hair and sleeves, warm sunlight, crisp highlights, soft shadows, motion blur on the road and foreground flowers, and scattered yellow and pink flower petals flying through the air. The mood should feel cinematic, adventurous, luxurious, and summery, with extremely detailed anime rendering, clean linework, saturated colors, high depth, and no text or watermark.
+```
+
+**来源：** [@404 notfound](https://x.com/404notf26312237/status/2096039768417284295) | 2026-09-05
+
+---
+

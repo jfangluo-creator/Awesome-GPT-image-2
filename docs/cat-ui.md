@@ -15363,3 +15363,123 @@ Using the attached photo(s) as identity references, create ONE image split into 
 
 ---
 
+### 🖥️ 例 7477：动漫森林电车城市咖啡馆
+
+![动漫森林电车城市咖啡馆](../images/%E5%8A%A8%E6%BC%AB%E6%A3%AE%E6%9E%97%E7%94%B5%E8%BD%A6%E5%9F%8E%E5%B8%82%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的竖版动漫奇幻插画，描绘两名年轻女性在建于巨大森林城市高处露台的一间小型木质咖啡馆桌旁放松的场景。前景中，准确展示 2 个角色：左侧是一位身穿绿色斗篷的棕发女孩，单手托腮，面带微笑，手中拿着茶杯；右侧是一位身穿蓝米色冒险家服装的金发女孩，双手捧着杯子，面对着她的朋友。桌上应包含 5 个清晰可见的桌面物品：一个深绿色茶壶、两个茶杯、一个小糕点盘和一个发光的灯笼。周围布置木质栏杆、花箱、绿植、帆布遮阳棚和温暖的斑驳阳光。露台之外，展现一座宏伟的垂直精灵/树屋大都市，它建立在巨大的古树之间，拥有无数舒适的房屋、尖塔、市场帐篷、悬挂的旗帜、发光的窗户，以及层层叠叠延伸至远方的木质高架桥和轨道。在高架轨道上不同深度处，准确展示 5 辆带有温暖灯光车窗的电车。添加几只在阳光中飞翔的小白鸟。采用令人惊叹的高角度构图，展现巨大的纵深感、错综复杂的建筑、穿过茂密绿色树冠的金色晨光、柔和的大气薄雾、绘画风格的动漫艺术、电影级的奇幻世界观构建，线条极其精细且干净，氛围温暖宜人，无文字，无水印。自定义槽位：城市应呈现为 {argument name="fantasy city type" default="精灵森林电车城市"} 的感觉，前景角色应为 {argument name="main characters" default="两位正在喝茶的年轻女性冒险者"}，光影应为 {argument name="lighting mood" default="穿过叶片的金色晨光"}，场景细节应强调 {argument name="architectural focus" default="木质桥梁、树屋塔楼和高架电车轨道"}，艺术风格应为 {argument name="art style" default="高度精细的绘画风动漫奇幻插画"}。
+
+[English]
+Create a richly detailed vertical anime fantasy illustration of two young women relaxing at a small wooden café table on a high balcony built into an enormous forest city. In the foreground, show exactly 2 characters: a brown-haired girl in a green cloak on the left, leaning on one hand and smiling while holding a teacup, and a blonde girl in a blue-and-cream adventurer outfit on the right, seated with both hands around a cup, facing her friend. The table should include exactly 5 visible tabletop items: one dark green teapot, two teacups, one small plate with pastries, and one glowing lantern. Surround them with wooden railings, flower boxes, leafy plants, a canvas awning, and warm dappled sunlight. Beyond the balcony, reveal a vast vertical elven/treehouse metropolis built among gigantic ancient trees, with countless cozy houses, spires, market tents, hanging banners, glowing windows, and multiple elevated wooden bridges and rail lines layered into the distance. Include exactly 5 visible tram cars on the elevated tracks at different depths, with warm lit windows. Add a few small white birds flying in the sunbeams. Use a breathtaking high-angle composition, immense depth, intricate architecture, golden morning light filtering through dense green canopy, soft atmospheric haze, painterly anime style, cinematic fantasy worldbuilding, extremely detailed but clean linework, warm inviting mood, no text, no watermark. Customization slots: the city should feel like {argument name="fantasy city type" default="an elven forest tram city"}, the foreground characters should be {argument name="main characters" default="two young female adventurers having tea"}, the lighting should be {argument name="lighting mood" default="golden morning sunbeams through leaves"}, the setting details should emphasize {argument name="architectural focus" default="wooden bridges, treehouse towers, and elevated tram rails"}, and the art style should be {argument name="art style" default="highly detailed painterly anime fantasy illustration"}.
+```
+
+**来源：** [@養分](https://x.com/gomikasu_asupe/status/2096293612590092378) | 2026-09-05
+
+---
+
+### 🖥️ 例 7518：乡村车站挥手的老人
+
+![乡村车站挥手的老人](../images/%E4%B9%A1%E6%9D%91%E8%BD%A6%E7%AB%99%E6%8C%A5%E6%89%8B%E7%9A%84%E8%80%81%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的纪录片风格照片，视角从火车车厢内向外望去，穿过敞开的车门看向宁静的日本乡村火车站台。一位日本老人（{argument name="character age" default="70 多岁"}）站在站台中心偏左的位置，面向镜头，表情平静且略带忧郁。他的一只手轻轻挥动告别，另一只手提着一个半透明的白色塑料购物袋。他穿着一件短袖米灰色格子衬衫，扎进宽松的灰色西裤里，系着深色腰带，戴着手表。前景右侧边缘是火车车门深色的垂直金属框架和米色内墙，让观者仿佛正坐在即将离站的火车内。他身后可见 3 根站台顶棚立柱、一道低矮的深色站台墙、铁轨、盲道、乡村民居、电线杆、绿色的树木繁茂的山峦以及阴沉的浅色天空。使用自然光、柔和的色彩、低对比度、浅景深纪录片写实感、35mm 旅行摄影质感、横向 16:9 构图，无文字，无水印，无夸张特效。
+
+[English]
+Create a realistic documentary-style photograph viewed from inside a train carriage looking out through an open doorway at a quiet rural Japanese train station platform. An elderly Japanese man, {argument name="character age" default="late 70s"}, stands on the platform slightly left of center, facing the camera with a calm, faintly melancholic expression. He raises one hand in a gentle goodbye wave and holds one semi-transparent white plastic shopping bag in his other hand. He wears a short-sleeved beige-gray plaid button-up shirt tucked into loose gray slacks with a dark belt and a wristwatch. The foreground right edge is dominated by the dark vertical metal frame and beige interior wall of the train door, making the viewer feel seated inside the departing train. Behind him are exactly 3 visible platform roof posts, a low dark platform wall, train tracks, tactile paving, rural houses, utility poles, green wooded mountains, and an overcast pale sky. Use natural daylight, muted colors, soft contrast, shallow documentary realism, 35mm travel photography feel, horizontal 16:9 composition, no text, no watermark, no dramatic effects.
+```
+
+**来源：** [@ぴーなっつ](https://x.com/usiyam1102/status/2096142882755510324) | 2026-09-05
+
+---
+
+### 🖥️ 例 7530：巨手上微缩人物的超现实景象
+
+![巨手上微缩人物的超现实景象](../images/%E5%B7%A8%E6%89%8B%E4%B8%8A%E5%BE%AE%E7%BC%A9%E4%BA%BA%E7%89%A9%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%99%AF%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体：一位 {argument name="subject" default="年轻男子"} 随意地坐在 {argument name="giant object" default="巨型人手"} 的手指上，营造出超现实的微缩人物错觉。他留着棕色卷发，戴着黑色太阳镜，留着淡淡的胡茬，身穿白色卫衣，胸前印有小字“DON’T QUIT.”，下身穿着宽松的海军蓝长裤，脚蹬白蓝配色运动鞋。
+
+风格：写实超现实街头摄影，逼真的微缩效果，自然的比例，细腻的电影感，浅景深，高度还原的皮肤与衣物纹理。
+
+场景：巨手位于前景，年轻男子自然地坐在手指上，仿佛坐在长椅上一般。他坐姿放松，一膝抬起，一腿自然下垂。手上戴着几枚简约的银戒指，右下角可见一块复古长方形金表。
+
+背景：{argument name="background" default="优雅的城市联排别墅入口"}，配有深蓝色双开大门、浅色石墙、黑色铁艺栏杆和石阶。背景经过柔焦处理，以突出微缩主体与巨手。
+
+相机：平视视角，前景特写构图，35mm 镜头，逼真的景深，人物与手部焦点清晰，背景呈现柔和的虚化效果。
+
+光影：柔和的自然日光，微阴天气，曝光平衡，真实的阴影，温暖的肤色。
+
+长宽比：4:5 竖屏。
+
+[English]
+Subject: A {argument name="subject" default="young man"} sitting casually on the fingers of a {argument name="giant object" default="giant human hand"}, creating a surreal miniature-person illusion. He has curly brown hair, black sunglasses, light stubble, a white sweatshirt with small “DON’T QUIT.” text on the chest, loose navy blue trousers, and white and navy sneakers.
+
+Style: Photorealistic surreal street photography, realistic miniature effect, natural proportions, subtle cinematic look, shallow depth of field, highly detailed skin and clothing textures.
+
+Scene: The giant hand is positioned in the foreground, with the young man sitting naturally across the fingers as if they were a bench. He sits relaxed with one knee raised and one leg hanging down. The hand wears several simple silver rings and a vintage rectangular gold wristwatch is visible near the lower right corner.
+
+Background: {argument name="background" default="Elegant city townhouse entrance"} with large dark blue double doors, pale stone walls, black iron railings, and stone steps. The background is softly blurred to emphasize the miniature subject and giant hand.
+
+Camera: Eye-level perspective, close-up foreground composition, 35mm lens, realistic depth of field, sharp focus on the man and hand, soft background bokeh.
+
+Lighting: Soft natural daylight, slightly overcast, balanced exposure, realistic shadows, warm skin tones.
+
+Aspect ratio: 4:5 vertical.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2096079034405060652) | 2026-09-05
+
+---
+
+### 🖥️ 例 7533：深色模式聊天动漫生成截图
+
+![深色模式聊天动漫生成截图](../images/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E8%81%8A%E5%A4%A9%E5%8A%A8%E6%BC%AB%E7%94%9F%E6%88%90%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色模式的聊天/应用截图，展示 {argument name="character name" default="Astra"} 的 AI 图像生成结果，并在对话中嵌入精美的动漫插画。
+
+画布：方形 1:1 截图，尺寸约为 920×920 像素，黑色背景，右侧和下方留有大量负空间。使用逼真的移动端/桌面端聊天 UI 美学，保持间距整洁，元素圆角柔和。
+
+布局：放置 3 个主要 UI 元素：右上角附近 1 个圆角灰色用户消息气泡，图像左上方 1 行小型生成状态栏，以及下方左侧 1 张大圆角图像卡片。在图像卡片下方，横向排列 3 个小操作图标：复制图标、分享/上传图标和省略号菜单。在图像卡片内部添加 2 个小型悬浮控件：左下角的灰色圆角“编辑”胶囊按钮，以及右下角的圆形下载/分享图标。
+
+文本内容：用户气泡必须完全显示为「重音テトのイラスト出して　素晴らしいやつ」。状态栏必须完全显示为「1m 10s考えました ›」。图像悬浮按钮必须完全显示为「編集」。所有文本需保持清晰，颜色为白色或浅灰色，使用现代无衬线 UI 字体。
+
+图像卡片主体：一张高质量、干净的 {argument name="anime character" default="Kasane Teto"} 动漫插画，展示从大腿中部到头部的画面，背景为日落时的屋顶。她是一位年轻的动漫少女，拥有鲜艳的 {argument name="hair color" default="red"} 双螺旋双马尾，红色眼睛，带着自信的微笑，微微回眸看向观众。服装：黑色无袖校园偶像风格上衣，配有红色镶边，搭配黑色百褶裙和红色装饰，佩戴黑色长袖套，一只手轻轻握着红色领带。微风轻轻吹起她的领带和发带。
+
+图像内部背景：前景为屋顶栏杆，远处为城市天际线剪影，温暖的橙粉色日落天空，点缀着柔和的云朵，太阳低垂在地平线附近。光影柔和且具有电影感，采用平滑的赛璐珞动漫渲染，线条干净，渐变细腻，无粗糙伪影，无生硬的畸形高光，也无油画般的污点。
+
+视觉风格：周围的聊天 UI 应看起来像真实的深色模式截图。动漫图像应具有圆角，宽约 400 像素，高约 600 像素，放置在 x=98, y=162 的位置，圆角半径为 28 像素。保持 UI 简洁，除指定的文本外，不要添加额外的消息、水印、时间戳或标签。
+
+[English]
+Goal: Create a dark-mode chat/app screenshot showing an AI image generation result for {argument name="character name" default="Astra"}, with a polished anime illustration embedded in the conversation.
+
+Canvas: Square 1:1 screenshot, approximately 920×920 px, black background, lots of negative space on the right and lower areas. Use a realistic mobile/desktop chat UI aesthetic with clean spacing and soft rounded elements.
+
+Layout: Place 3 main UI elements: 1 rounded gray user message bubble near the upper right, 1 small generation status line above the image on the left, and 1 large rounded-corner image card below it on the left. Under the image card, add 3 small action icons in a row: copy icon, share/upload icon, and ellipsis menu. Inside the image card add 2 small overlay controls: a gray rounded “edit” pill at bottom left and a circular download/share icon at bottom right.
+
+Text content: The user bubble must read exactly 「重音テトのイラスト出して　素晴らしいやつ」. The status line must read exactly 「1m 10s考えました ›」. The image overlay button must read exactly 「編集」. Keep all text crisp, white or light gray, in a modern sans-serif UI font.
+
+Image card subject: A high-quality clean anime illustration of {argument name="anime character" default="Kasane Teto"}, shown from about mid-thigh up on a rooftop at sunset. She is a youthful anime girl with vivid {argument name="hair color" default="red"} hair in two large drill twin-tails, red eyes, a small confident smile, and a slight over-the-shoulder pose looking at the viewer. Outfit: black sleeveless school-idol style top with red trim, matching black pleated skirt with red accents, long black arm warmers, and a red necktie being held lightly in one hand. The wind lifts her tie and hair ribbons slightly.
+
+Background inside image: Rooftop railing in the foreground, distant city skyline silhouettes, warm orange-pink sunset sky with scattered soft clouds and the sun low near the horizon. Lighting is soft and cinematic with smooth cel-shaded anime rendering, clean linework, subtle gradients, no gritty artifacts, no harsh malformed highlights, and no painterly blotches.
+
+Visual style: The surrounding chat UI should look like a real screenshot in dark mode. The anime image should have rounded corners, about 400 px wide and 600 px tall, placed around x=98 y=162, with a 28 px corner radius. Keep the UI minimal and do not add extra messages, watermarks, timestamps, or labels beyond the specified text.
+```
+
+**来源：** [@abara / 囲図囿図囲](https://x.com/abaranche/status/2096071581336490338) | 2026-09-05
+
+---
+

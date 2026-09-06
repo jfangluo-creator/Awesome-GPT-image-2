@@ -8851,3 +8851,135 @@ Create a premium photorealistic vertical studio portrait of exactly two subjects
 
 ---
 
+### 🧸 例 7475：3D 学校体育馆 Boss 竞技场
+
+![3D 学校体育馆 Boss 竞技场](../images/3D%20%E5%AD%A6%E6%A0%A1%E4%BD%93%E8%82%B2%E9%A6%86%20Boss%20%E7%AB%9E%E6%8A%80%E5%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为源场景，将游戏截图转换为同一个旧学校体育馆战斗竞技场的干净、可探索的 3D 环境渲染图，就像在 Blender 或实时 3D 引擎中重建的一样。移除所有游戏 UI、对话框、HUD 元素、文字叠加、小地图、血条以及玩家角色。仅保留体育馆场景和中央戴面具的阴影灵体及其发光的紫色封印魔法阵，但要让怪物看起来更像是一个悬浮在球场上方的实体 3D 资产，而不是一个充满 2D 特效的幻影。
+
+环境变化：使体育馆在建筑上具有写实感和细节，包括抛光的木质篮球场、精确的球场标记、墙壁软垫、木质肋木、门、远端带有闭合红色幕布的舞台、带有栏杆的侧面阳台/高层走廊、大窗户、可见的钢制屋顶桁架以及悬挂的工业吊灯。包含 4 个可见的篮球架：左墙 2 个，后方 1 个，右墙 1 个。使用冷色调的室内夜间照明，并带有来自灵体和魔法阵的微妙紫色溢光，漆面地板上有写实的反射，并采用从高处观众视角拍摄的广角电影级镜头。
+
+风格：写实的 3D 动漫游戏环境渲染，构图简洁，学校体育馆细节高度还原，除召唤出的灵体外没有其他角色，没有界面，没有字幕，没有水印。最终效果应呈现出一种基于参考图像的、可游玩的 UE5/Blender 关卡感。
+
+[English]
+Using REFERENCE_0 as the source scene, convert the game screenshot into a clean, explorable 3D environment render of the same old school gym battle arena, as if rebuilt in Blender/real-time 3D. Remove all game UI, dialogue, HUD elements, text overlays, minimap, health bars, and the player character. Keep only the gym setting and the central masked shadow spirit with its glowing purple sealing magic circle, but make the monster more like a solid 3D asset hovering above the court rather than a 2D effects-heavy apparition.
+
+Environment changes: make the gymnasium architecturally realistic and detailed, with a polished wooden basketball court, accurate court markings, wall padding, wooden wall bars, doors, a stage with closed red curtains at the far end, side balconies/upper walkways with railings, large windows, visible steel roof trusses, and hanging industrial ceiling lamps. Include exactly 4 visible basketball hoops: two on the left wall, one at the far back, and one on the right wall. Use cool indoor evening lighting with subtle purple spill from the spirit and magic circle, realistic reflections on the lacquered floor, and a wide cinematic camera angle from an elevated spectator viewpoint.
+
+Style: realistic 3D anime-game environment render, clean composition, high fidelity school gym details, no characters besides the summoned spirit, no interface, no captions, no watermark. The result should feel like a playable UE5/Blender level based on the reference image.
+```
+
+**来源：** [@新清士@AIコンテンツ開発者](https://x.com/kiyoshi_shin/status/2096316442308481038) | 2026-09-05
+
+---
+
+### 🧸 例 7480：身披斗篷的英雄黄色机器人
+
+![身披斗篷的英雄黄色机器人](../images/%E8%BA%AB%E6%8A%AB%E6%96%97%E7%AF%B7%E7%9A%84%E8%8B%B1%E9%9B%84%E9%BB%84%E8%89%B2%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁、高细节的全身 3D 角色渲染，主角是 {argument name="character name" default="Solip"}，一个友好的英雄人形机器人，以自信的正面姿态站在纯黑色摄影棚背景前。机器人拥有厚重的装甲机甲身体，由棱角分明的芥末黄金属板组成，配有黑色机械关节、细微划痕、斜面边缘和逼真的磨损感。头部是一个方形的黄色头盔状显示器，带有圆角、侧面圆形耳部模块、光亮的黑色屏幕面部，以及可爱的绿色 LED 像素表情：正好是 2 只倒 U 型眼睛和 1 张微笑的弯曲嘴巴。在右上胸板上添加青色标记 {argument name="chest label" default="C2"}。机器人身披 1 件戏剧性的黑色斗篷，斗篷在双肩后方飘动，内衬和边缘可见青色镶边。包含细节丰富的节段式手臂、关节分明的黑色手指、大型肩环、活塞状肘部、厚实的装甲大腿、膝盖护板、沉重的靴状脚部，以及板材间露出的深色内部结构。使用电影级低调照明，左上方有温暖的金色轮廓光，金属上有清晰的反射，深邃的阴影，微妙的地面反射，以及超简洁的高级科幻玩具/电影渲染质感。将角色垂直居中于肖像构图中，采用略微仰视的摄像机角度，焦点清晰，无背景道具，无额外角色，除胸部标签外无任何文字。
+
+[English]
+Create a clean, high-detail full-body 3D character render of {argument name="character name" default="Solip"}, a friendly heroic humanoid robot standing in a confident front-facing pose against a pure black studio background. The robot has a bulky armored mech body made of angular mustard-yellow metal panels with black mechanical joints, subtle scratches, beveled edges, and realistic wear. Its head is a square yellow helmet-like monitor with rounded corners, side circular ear modules, a glossy black screen face, and a cute green LED pixel expression: exactly 2 upside-down U-shaped eyes and 1 smiling curved mouth. Add the teal marking {argument name="chest label" default="C2"} on the upper right chest plate. The robot wears exactly 1 dramatic black cape flowing behind both shoulders, with a teal inner lining and teal trim visible along the edges. Include detailed segmented arms, articulated black fingers, large shoulder rings, piston-like elbows, thick armored thighs, knee plates, heavy boot-like feet, and exposed dark understructure between plates. Use cinematic low-key lighting with warm golden rim light from the upper left, crisp reflections on metal, deep shadows, a subtle floor reflection, and an ultra-clean premium sci-fi toy/film render look. Center the character vertically in a portrait composition, slightly low camera angle, sharp focus, no background props, no extra characters, no text except the chest label.
+```
+
+**来源：** [@Solip | Model C2 Companion Unit](https://x.com/SolipC2/status/2096285516899467612) | 2026-09-05
+
+---
+
+### 🧸 例 7494：深圳微缩纸艺立体模型
+
+![深圳微缩纸艺立体模型](../images/%E6%B7%B1%E5%9C%B3%E5%BE%AE%E7%BC%A9%E7%BA%B8%E8%89%BA%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张异想天开的 3D 微缩纸艺明信片，主题为 {argument name="city name" default="深圳"}，背景采用温暖的米白色纹理纸，主体居中并留有大量负空间。城市坐落于悬浮岛基座上，边缘呈现层叠的纸艺切割感，前景为蓝色的波浪形水岸。画面包含密集的深圳天际线，以高耸的平安金融中心为核心塔楼，周围环绕着现代玻璃摩天大楼；包含一座独特的低矮市政建筑，带有弧形蓝色屋顶，以及两座色彩鲜艳的圆柱形大厅，一座为红橙色，另一座为黄色。在左前方轨道上添加一列白色高铁，右侧水面上方延伸出一座长长的白色斜拉桥，水面中有一艘白色小帆船，右上角有一架微型飞机，天际线后方有一条虚线环绕的飞行轨迹。在天际线周围添加三朵蓬松的小白云，左侧有两只飞鸟。采用精致的手工纸模细节、柔和的阴影、柔和的色彩、逼真的微缩景深、简洁的构图以及旅行纪念品插画的氛围。在底部中心位置，放置中文书法文字 {argument name="bottom city label" default="深圳"}，两侧各有一条细横线，下方有一个红色小爱心，字体设计保持优雅简约。无额外文字，无水印，无近景人物。
+
+[English]
+Create a whimsical miniature 3D paper-cut diorama postcard of {argument name="city name" default="深圳"} on a warm off-white textured paper background, centered with lots of negative space. The city sits on a floating island base with layered cut-paper edges and a blue wavy waterfront in the foreground. Include a dense Shenzhen skyline with the very tall Ping An Finance Center as the central tower, surrounded by modern glass skyscrapers; include exactly one sweeping low civic building with a curved blue roof and two colorful cylindrical halls, one red-orange and one yellow. Add exactly one white high-speed train along tracks at the front left, exactly one long white cable-stayed bridge extending to the right over the water, exactly one small white sailboat in the water, exactly one tiny airplane in the upper right, and exactly one dotted looping flight path curving behind the skyline. Add exactly three small fluffy white clouds around the skyline and exactly two flying birds on the left. Use delicate handcrafted paper model details, soft shadows, pastel colors, realistic miniature depth, clean composition, and a travel-souvenir illustration mood. At the bottom center, place the Chinese calligraphy text {argument name="bottom city label" default="深圳"} with a thin horizontal line on each side and a small red heart underneath, keeping the typography elegant and minimal. No extra text, no watermark, no people in close-up.
+```
+
+**来源：** [@Terry](https://x.com/trxuanxw/status/2096233556104315114) | 2026-09-05
+
+---
+
+### 🧸 例 7499：等距视角体素风格河流神庙城市
+
+![等距视角体素风格河流神庙城市](../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E4%BD%93%E7%B4%A0%E9%A3%8E%E6%A0%BC%E6%B2%B3%E6%B5%81%E7%A5%9E%E5%BA%99%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个详细的等距视角体素立体模型，展示一座位于河畔的古代阶梯式神庙群，呈现出如同矩形底座上微型积木游戏场景的渲染效果。场景应体现 {argument name="civilization style" default="古代美索不达米亚或中美洲河畔神庙城市"} 的风格，采用温暖的棕褐色石材、赤陶屋顶、雕刻柱子以及对称的仪式建筑。
+
+画布：宽幅 4:3 构图，从上方俯视的正交等距视角，以悬浮的矩形地形板为中心，背景为纯净的暖米色。使用柔和的摄影棚灯光、环境光遮蔽、柔和阴影以及精致的低多边形体素美学。
+
+主要布局：在中心偏左位置放置一座大型中央阶梯式金字塔神庙，具有多层露台、垂直柱状细节、平坦的浅色屋顶以及顶部的小型金色装饰。在其前方，添加一个带有柱子和楼梯的较低入口平台。在主神庙右侧，包含一座较小的阶梯式神庙祭坛；在其后方，包含一座靠近树木的更小塔楼祭坛。在左侧前景，创建一个带有亮蓝色水面、石质边缘和周围阶梯的矩形仪式水池。沿着整个前边缘，创建一条宽阔的绿松石色河流，配有瓷砖纹理的水面和通往水边的石质长廊。
+
+可见元素计数：精确包含 3 座阶梯式神庙结构：1 座大型中央金字塔、1 座中型右前方金字塔和 1 座小型右后方塔楼祭坛。精确包含 1 个矩形水池。精确包含 2 艘河上的小型木船，每艘船带有微小的桅杆或杆子。精确包含 5 座广场周围带有赤陶屋顶的矩形建筑或市场摊位：左侧 2 座长建筑，右侧 2 座建筑，左前方 1 座小建筑。精确包含 4 个广场上的条纹遮阳篷市场摊位：1 个蓝白相间遮阳篷、1 个青白相间遮阳篷、1 个红白相间遮阳篷和 1 个黄白相间遮阳篷。精确包含 5 棵分布在建筑群周围的棕榈树，以及精确 4 棵宽叶绿树。添加零星的微小体素人物、小长椅、花盆、芦苇、板条箱和装饰柱，但保持它们作为次要元素。
+
+视觉风格：迷人的体素艺术，清晰的积木几何形状，微小的模块化砖块，温暖的沙色、粘土色、赭石色、奶油石色大地色调，柔和的绿色植被以及明亮的青色水面。神庙应显得宏伟但具有玩具感，无照片级真实纹理，无轮廓线，无文字。强调 {argument name="mood" default="低调优美、宁静的微缩世界"} 的感觉，构图简洁且细节丰富。
+
+[English]
+Create a detailed isometric voxel diorama of an ancient stepped temple complex beside a river, rendered like a miniature block-built game scene on a rectangular base. The setting should feel like {argument name="civilization style" default="an ancient Mesopotamian or Mesoamerican river temple city"}, with warm tan stone, terracotta roofs, carved columns, and symmetrical ceremonial architecture.
+
+Canvas: Wide 4:3 composition, orthographic isometric view from above, centered on a floating rectangular terrain slab against a plain warm beige background. Use soft studio lighting, ambient occlusion, gentle shadows, and a polished low-poly voxel aesthetic.
+
+Main layout: Place one large central stepped ziggurat temple slightly left of center, with many stacked terraces, vertical column-like details, a flat pale roof, and small golden ornaments along the top. In front of it, add a lower entrance platform with columns and stairs. To the right of the main temple, include one smaller stepped temple shrine; behind it, include one even smaller tower shrine near trees. On the left foreground, create a rectangular ceremonial pool with bright blue water, stone edging, and tiered steps around it. Along the entire front edge, create a broad turquoise river with tiled water texture and a stone promenade with stairs descending to the water.
+
+Counted visible elements: exactly 3 stepped temple structures: 1 large central ziggurat, 1 medium front-right ziggurat, and 1 small rear-right shrine tower. Exactly 1 rectangular pool. Exactly 2 small wooden boats on the river, each with a tiny mast or pole. Exactly 5 terracotta-roofed rectangular buildings or market stalls around the plaza: 2 long buildings on the left side, 2 buildings on the right side, and 1 small building in the front-left area. Exactly 4 striped canopy market stalls in the plaza: 1 blue-and-white canopy, 1 teal-and-white canopy, 1 red-and-white canopy, and 1 yellow-and-white canopy. Exactly 5 palm trees distributed around the complex, plus exactly 4 broad leafy green trees. Add scattered tiny voxel people, small benches, planters, reeds, crates, and decorative posts, but keep them secondary.
+
+Visual style: Charming voxel art, crisp block geometry, tiny modular bricks, warm earthy palette of sand, clay, ochre, cream stone, muted green vegetation, and bright cyan water. The temple should be majestic but toy-like, with no photorealistic textures, no outlines, and no text. Emphasize the {argument name="mood" default="lowkey beautiful peaceful miniature world"} feeling, with clean composition and high detail.
+```
+
+**来源：** [@ashen](https://x.com/ashen_one/status/2096221317037228204) | 2026-09-05
+
+---
+
+### 🧸 例 7501：神话战士雕像
+
+![神话战士雕像](../images/%E7%A5%9E%E8%AF%9D%E6%88%98%E5%A3%AB%E9%9B%95%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超精细的高端收藏级雕像渲染图，主角是 {argument name="character name" default="the Founder"}，一位神话般的古代战士国王，站在华丽的展示底座上，背景为纯净的深炭灰色摄影棚背景。该形象为一个全身 3D 手办，呈现戏剧性的英雄姿态：左臂向外伸展，手掌张开；右拳紧握在身侧；躯干略微向左转；一只靴子踩在参差不齐的碎石上。他是一位年长但肌肉极其发达的男子，拥有古铜色皮肤、严峻的面容、浓密的灰色眉毛、飘逸的长灰发和浓密的灰胡须。为他穿上深青铜色与黑色相间的奇幻盔甲：层叠的护臂、厚重的靴子、狮头护膝、带有中央狮面浮雕的雕花腰带、带有精致金色花丝的黑色皮革裙甲、毛皮衬里的肩披、华丽的圆形肩扣，以及向右飘动的破损深红色斗篷。在他周围环绕 4 条巨大的螺旋状发光金色魔法能量带，由许多明亮的余烬状细丝和火花组成，从底座开始缠绕他的双腿，穿过躯干后方，并延伸至头顶上方；包含 14 块悬浮在能量场中的小型深色岩石碎片。底座是一个圆形的黑铜色博物馆级雕像底座，顶部有参差不齐的黑色碎石、3 根断裂的古典石柱、沉重的锁链、金色饰边，以及正面边缘可见的 5 个雕刻狮头装饰。在中央前方的铭牌上，显示刻有金色字符的文字 {argument name="base plaque text" default="始祖"}。灯光应采用电影级摄影棚布光，带有魔法产生的暖橙色光芒、清晰的阴影、高对比度、超锐利的细节、逼真的树脂/喷漆金属材质，并采用垂直产品摄影构图。使其看起来像一件极其昂贵的限量版奇幻手办，而非平面插画；无水印，除底座铭牌外无任何额外文字。
+
+[English]
+Create a hyper-detailed premium collectible statue render of {argument name="character name" default="the Founder"}, a mythic ancient warrior-king posed on an ornate display base against a plain dark charcoal studio background. The figure is a full-body 3D figurine in a dramatic heroic stance: left arm extended outward with open hand, right fist clenched at his side, torso turned slightly left, one boot raised on jagged rubble. He is an elderly but extremely muscular man with tan skin, stern face, thick gray eyebrows, long flowing gray hair, and a full gray beard. Dress him in dark bronze-and-black fantasy armor: layered bracers, heavy boots, lion-head knee guards, engraved belt with a central lion face, black leather skirt panels with intricate gold filigree, fur-lined shoulder mantle, ornate round shoulder clasps, and a tattered deep red cape sweeping to the right. Surround him with exactly 4 large spiraling bands of glowing golden magical energy, made of many bright ember-like filaments and sparks, wrapping from the base around his legs, behind his torso, and over his head; include exactly 14 small floating dark rock fragments caught in the energy field. The base is a round black-and-bronze museum-quality statue plinth with jagged black rubble on top, exactly 3 broken classical stone columns, heavy chains, gold trim, and exactly 5 sculpted lion-head ornaments visible around the front rim. On the central front plaque, show the text {argument name="base plaque text" default="始祖"} in engraved gold characters. Lighting should be cinematic studio lighting with warm orange glow from the magic, crisp shadows, high contrast, ultra-sharp details, realistic resin/painted-metal materials, and a vertical product photography composition. Make it look like an exceptionally expensive limited-edition fantasy figure, not a flat illustration; no watermark, no extra text besides the base plaque.
+```
+
+**来源：** [@佐藤 勝彦（TANREN_CEO)┃生成AIエバンジェリスト](https://x.com/jrpj2010/status/2096213728626901325) | 2026-09-05
+
+---
+
+### 🧸 例 7515：等轴测微缩美式厨房
+
+![等轴测微缩美式厨房](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%BE%AE%E7%BC%A9%E7%BE%8E%E5%BC%8F%E5%8E%A8%E6%88%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度精细的等轴测 3D 微缩立体模型，呈现一个温馨的美式厨房角落，如同在 Blender 中渲染出的手工娃娃屋场景，并带有柔和的全局光照。房间为一个开放式立方体，两面米色壁纸墙在角落交汇，底部为凸起的方形瓷砖地板，顶部和护墙板高度处饰有温暖的中棕色木饰条。使用暖米色摄影棚背景，并采用 3/4 俯视角的正交相机。厨房风格怀旧、可爱且略带玩具感，具有圆润的边缘、抛光的木材、逼真的材质和整洁的微缩比例。包含 12 个主要的家具和固定装置元素：左侧 1 台带有 {argument name="refrigerator label" default="NORD"} 字样、彩色小圆磁铁和黄铜把手的奶油色复古冰箱；1 台带有黑色炉头和带盖锅具的薄荷绿燃气灶；右侧 1 组长条木质地柜，配有抽屉、镶板橱柜门、黄铜旋钮和水槽；水槽上方 1 扇双开窗，配有挂在银色杆上的米色系带窗帘；2 个壁挂式木质方盒搁板（分别位于炉灶上方和窗户右侧），内放书籍和白色罐子；中心 1 张铺有白绿格纹桌布的方形餐桌；桌边 3 把木椅；左侧墙上 1 幅小框画；以及 1 对带有圆形灯罩和淡粉色球形装饰的黄铜壁灯。添加 10 个清晰可见的桌面或台面配件：1 个放有面包的托盘、1 个木质砧板、1 个绿色小瓶、1 个装有木勺的餐具杯、1 个洗手液泵瓶、餐桌上 1 个蓝色茶壶或水壶、1 个装有红色顶部甜点的玻璃甜点罩、1 个小杯碟、1 个放有食物的小盘子，以及水槽旁 1 块矩形小海绵。材质应包括光泽奶油色珐琅、薄荷绿喷漆金属、清漆木纹、半透明玻璃、柔软织物窗帘、陶瓷砖和拉丝金属。光照应温暖柔和，伴有柔和的阴影和环境光遮蔽，以强调微缩比例和精细细节。配色方案：{argument name="wood tone" default="warm medium brown"}、奶油色、薄荷绿、米色、淡粉色、柔和的绿色、黄铜色和柔和的灰色瓷砖。画面中不包含人物，无水印，除复古冰箱和炉灶外无现代家电，立方体房间外无杂物。
+
+[English]
+Create a highly detailed isometric 3D miniature diorama of a cozy American-style kitchen corner, like a handcrafted dollhouse scene rendered in Blender with soft global illumination. The room is an open cube set with two cream wallpapered walls meeting in a corner, a raised square tiled floor base, and warm medium-brown wood trim along the top and chair-rail height. Use a warm beige studio background and orthographic camera at a 3/4 overhead angle. The kitchen style is nostalgic, cute, and slightly toy-like with rounded edges, polished wood, realistic materials, and clean miniature proportions. Include exactly 12 main furniture and fixture elements: 1 cream retro refrigerator on the left with the word {argument name="refrigerator label" default="NORD"}, small colorful round magnets and brass handles; 1 mint-green gas stove with black burners and a lidded pot; 1 long wooden lower cabinet run on the right with drawers, paneled cupboard doors, brass knobs, and a sink; 1 double window above the sink with beige tied curtains on a silver rod; 2 wall-mounted wooden box shelves, one above the stove and one to the right of the window, containing books and white jars; 1 square dining table in the center covered with a white-and-green checkered tablecloth; 3 wooden chairs around the table; 1 small framed picture on the left wall; and 1 pair of brass wall lamps with round shades and pastel pink globe accents. Add exactly 10 visible tabletop or counter accessories: 1 tray with bread loaves, 1 wooden cutting board, 1 small green bottle, 1 utensil cup with wooden spoons, 1 soap pump bottle, 1 blue teapot or kettle on the dining table, 1 glass dessert cloche with red-topped sweets, 1 small cup and saucer, 1 tiny plate with food, and 1 small rectangular sponge near the sink. Materials should include glossy cream enamel, mint painted metal, varnished wood grain, semi-transparent glass, soft fabric curtains, ceramic tiles, and brushed metal. Lighting should be warm and soft, with gentle shadows and ambient occlusion, emphasizing the miniature scale and fine details. Color palette: {argument name="wood tone" default="warm medium brown"}, cream, mint green, beige, pale pink, muted green, brass, and soft gray tile. No people, no watermark, no modern appliances beyond the retro fridge and stove, no clutter outside the cube room.
+```
+
+**来源：** [@Berryxia.AI](https://x.com/berryxia/status/2096158415894835518) | 2026-09-05
+
+---
+

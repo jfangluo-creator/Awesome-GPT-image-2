@@ -4357,3 +4357,39 @@ Grid rules: six equal-sized panels, thin clean white gutters between them, no bo
 
 ---
 
+### 🔧 例 7509：一键式物体颜色重塑转换
+
+![一键式物体颜色重塑转换](../images/%E4%B8%80%E9%94%AE%E5%BC%8F%E7%89%A9%E4%BD%93%E9%A2%9C%E8%89%B2%E9%87%8D%E5%A1%91%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 {argument name="object" default="汽车"} 的颜色从当前颜色更改为 {argument name="target color" default="霓虹黑"}。请保留该物体的原始形状、纹理、材质、高光、阴影、反射和精细细节。使新颜色与现有光照自然融合。请勿修改背景或图像的任何其他部分。
+
+[English]
+Change the color of of the {argument name="object" default="car"} from its current color to {argument name="target color" default="Neon Black"}. Preserve the object’s original shape, texture, material, highlights, shadows, reflections, and fine details. Make the new color interact naturally with the existing lighting. Do not modify the background or any other part of the image.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2096178379296747937) | 2026-09-05
+
+---
+
+### 🔧 例 7520：极简墨韵插画档案
+
+![极简墨韵插画档案](../images/%E6%9E%81%E7%AE%80%E5%A2%A8%E9%9F%B5%E6%8F%92%E7%94%BB%E6%A1%A3%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅根据上传的照片创作一件精致的“照片 + 极简墨韵”艺术作品。格式：垂直 3:4。### 上部 — 原图 使用约 48%–50% 的顶部区域放置原始照片。忠实且写实地保留照片内容。请勿重绘、美化、替换、移除、复制或虚构重要元素。保留：- 人物、动物、面部、服装、姿势和动作 - 食物和物体 - 建筑和环境 - 透视、光影、色彩和氛围。仅在必要时进行比例裁剪或缩放。### 下部 — 极简墨韵 使用暖象牙色/天然米白色纸张背景。独立分析这张照片，提取最能代表该瞬间的一个主要视觉主体或小群体。仅描绘重点。去除约 70%–90% 不必要的背景细节。识别度主要通过：轮廓 + 形状 + 色彩 + 姿势 + 1–3 个显著特征来实现。插画应保持相对较小，并留出充足的负空间。### 风格 复古编辑风格 / 经典印刷插画。使用：- 纤细受控的深色墨水轮廓 - 略显不完美的手绘线条 - 简单的几何形状 - 克制的平涂色彩 - 微妙的色调变化 - 极简纹理 - 柔和的接地阴影 - 清晰的形状分离。保持作品迷人、图形化、整洁、怀旧且低调。笔触要比详细素描更少。避免：写实插画、水彩、绘画笔触、密集素描、排线、过多的轮廓线、漫画风格、动漫/Q 版、3D 渲染、矢量级几何图形或不必要的小细节。### 标题 + 说明 在插画上方创建：一个简短的编辑风格标题：约 2–4 个词，灵感源自照片本身。一个微型说明：约 3–8 个词，自然且低调。切勿使用“美好瞬间”、“甜蜜回忆”或“精彩的一天”等通用标题。如果照片中清晰可见可辨认的地点、地标、食物、品牌、事件或主体，可使用其真实名称。切勿猜测。### 索引 根据主体在右下角添加一个微小的标签：- 食物/饮品 → PLATE NO. 01 - 动物 → PORTRAIT NO. 01 - 人物/群体 → MOMENT NO. 01 - 地点/建筑/景观 → VIEW NO. 01 - 物体/其他 → STUDY NO. 01 对于“人物 + 宠物”，通常使用 MOMENT NO. 01。### 最终效果 一个精心策划的个人视觉档案：上方为真实照片 + 下方为简化记忆 + 简短编辑标题 + 微小人文说明 + 自适应索引。安静、极简、具收藏价值、优雅且风格统一。重要提示：独立分析每一张上传的照片。切勿将之前图像中的主体、物体、地点、颜色、说明或细节带入后续创作。
+
+[English]
+Create ONE refined PHOTO + MINIMAL INK VIGNETTE artwork based ONLY on the uploaded photograph. FORMAT: Vertical 3:4. ### TOP — ORIGINAL PHOTO Use approximately the upper 48–50% for the original photograph. Preserve the photo faithfully and photorealistically. Do not redraw, beautify, replace, remove, duplicate, or invent important elements. Preserve: - people, animals, faces, clothing, poses and gestures - food and objects - buildings and environment - perspective, lighting, colors and atmosphere Only crop or scale proportionally when necessary. ### BOTTOM — MINIMAL INK VIGNETTE Use a warm ivory / natural off-white paper background. Study THIS photograph independently and identify the ONE main visual subject or small group that best represents the moment. Illustrate only what matters. Remove roughly 70–90% of unnecessary background detail. Recognition should come mainly from: silhouette + shape + color + pose + 1–3 distinctive details. Keep the illustration relatively small with generous negative space. ### STYLE Vintage editorial / classic printed vignette. Use: - thin controlled dark-ink outlines - slightly imperfect hand-drawn contours - simple geometric forms - restrained flat colors - subtle tonal variation - minimal texture - soft grounding shadow - clean shape separation Keep it charming, graphic, tidy, nostalgic and understated. Use fewer strokes than a detailed sketch. Avoid: photorealistic illustration, watercolor, painterly brushwork, dense sketching, cross-hatching, excessive outlines, comic-book style, anime/chibi, 3D rendering, vector-perfect geometry, or unnecessary tiny details. ### TITLE + CAPTION Above the illustration, create: ONE short editorial title: approximately 2–4 words, inspired specifically by the photograph. ONE micro-caption: approximately 3–8 words, natural and understated. Never use generic titles such as “Beautiful Moment,” “Sweet Memories,” or “Wonderful Day.” If a recognizable place, landmark, food, brand, event, or subject is clearly visible, its real name may be used. Never guess. ### INDEX Add a tiny bottom-right label based on the main subject: - Food/drink → PLATE NO. 01 - Animal → PORTRAIT NO. 01 - Person/group → MOMENT NO. 01 - Place/architecture/landscape → VIEW NO. 01 - Object/miscellaneous → STUDY NO. 01 For a person + pet, normally use MOMENT NO. 01. ### FINAL FEEL A beautifully curated personal visual archive: REAL PHOTOGRAPH ABOVE + SIMPLIFIED MEMORY BELOW + SHORT EDITORIAL TITLE + TINY HUMAN CAPTION + ADAPTIVE INDEX Quiet, minimal, collectible, elegant, and consistent. IMPORTANT: Analyze every uploaded photograph independently. Never carry over subjects, objects, locations, colors, captions, or details from previous images.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2096124777878733145) | 2026-09-05
+
+---
+

@@ -9100,3 +9100,67 @@ Constraints: Preserve character identity across all 6 views, keep the same hairs
 
 ---
 
+### 🧍 例 7505：电影级角色设定集
+
+![电影级角色设定集](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="characters" default="NEO & TRINITY"} 创建一份高级电影级角色设定集。请将上传的角色设定图作为两个角色的严格视觉参考，不得更改任何角色的外观。
+
+布局：分屏搭档格式。由一条粗线将画面分为左右两部分。
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="characters" default="NEO & TRINITY"}. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance.
+
+LAYOUT: Split screen partner format. Two halves divided by a bold line.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2096196097953649082) | 2026-09-05
+
+---
+
+### 🧍 例 7508：复古涂鸦剪贴簿海报
+
+![复古涂鸦剪贴簿海报](../images/%E5%A4%8D%E5%8F%A4%E6%B6%82%E9%B8%A6%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将电影剧照转化为一张高端的方形涂鸦海报 / 剪贴簿插画。保留参考图中标志性的主体和情感核心，但将其重新诠释为绘制在带有齿孔的复古邮票纸上的彩色铅笔手绘草图。
+
+目标：创作一张怀旧且具有高级编辑感的海报，捕捉参考图中“在漫长道路上不断前行”的主题。
+
+构图：将参考图中的肖像草图放置在偏右侧的一张撕边奶油色邮票矩形上。将参考图中的背景简化为肖像后方的小型涂鸦沙漠公路和远处的岩层。不要将追随者群体保留为写实人物；将场景简化为主要主体和象征性的道路意象。
+
+添加的剪贴簿元素：在邮票周围精确添加 4 个胶带/拼贴碎片：邮票左下角重叠 1 条蓝色撕边胶带，右上角附近 1 条绿色网格图案胶带，右上边缘后方 1 条淡红色撕边胶带，以及邮票左上角附近 1 个红色条纹纸/胶带装饰。添加小型涂鸦点缀：微小的星星、圆点、弯曲的邮戳线、右下角一朵带有红色花瓣的简单花茎，以及底部附近的一条短蓝色下划线。
+
+文本：在左侧添加打字机风格的引文，内容为 {argument name="quote text" default="Life is\nlike a box\nof chocolates.\n..."}。在下部中心附近添加第二行打字机风格的文本，内容为 {argument name="bottom caption" default="Keep goin’."}。
+
+风格：温暖的陈旧纸张背景，柔和的米色调，柔和的红/蓝/绿色铅笔色彩，粗犷的手绘轮廓，可见的纸张纹理，微妙的墨水瑕疵，优雅的留白，既异想天开又精致考究。
+
+约束：最终画布需为方形，具有海报感，简洁且高级。保持文本清晰易读。避免照片级真实感、光泽效果、现代 UI 元素或多余的角色。
+
+[English]
+Using the provided reference image, transform the movie still into a high-end square doodle poster / scrapbook illustration. Preserve the key recognizable subject and emotional idea from the reference, but reinterpret it as a hand-drawn colored-pencil sketch on a perforated vintage postage-stamp paper piece.
+
+Goal: Create a nostalgic, premium editorial poster that captures the reference’s theme of continuing forward on a long road.
+
+Composition: Place the sketched portrait from the reference on a torn, cream postage-stamp rectangle positioned slightly right of center. Simplify the background from the reference into a small doodled desert highway and distant rock formations behind the portrait. Do not keep the group of followers as realistic people; reduce the scene to the main subject and symbolic road imagery.
+
+Added scrapbook elements: Add exactly 4 tape/collage pieces around the stamp: 1 blue torn tape strip overlapping the lower-left of the stamp, 1 green grid-pattern tape near the top-right, 1 pale red torn tape behind the upper-right edge, and 1 small red striped paper/tape accent near the upper-left of the stamp. Add small doodle accents: tiny stars, dots, curved postal cancellation lines, a simple flower stem with red blossom on the lower right, and a short blue underline near the bottom.
+
+Text: Add typewriter-style quote text on the left reading {argument name="quote text" default="Life is\nlike a box\nof chocolates.\n..."}. Add a second typewriter-style line near the lower center reading {argument name="bottom caption" default="Keep goin’."}.
+
+Style: Warm aged paper background, soft beige palette, muted red/blue/green pencil colors, rough hand-sketched outlines, visible paper grain, subtle ink imperfections, elegant negative space, whimsical but refined.
+
+Constraints: Make the final canvas square, poster-like, clean and premium. Keep text legible. Avoid photorealism, glossy effects, modern UI elements, or extra characters.
+```
+
+**来源：** [@Artificial Studio](https://x.com/ArtificialStudi/status/2096180507952218458) | 2026-09-05
+
+---
+

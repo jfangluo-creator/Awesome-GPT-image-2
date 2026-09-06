@@ -32560,3 +32560,415 @@ Negative: multiple magnets, invented scenery, gradients, illustrations, collage,
 
 ---
 
+### 🎴 例 7479：纺织拼贴设计海报
+
+![纺织拼贴设计海报](../images/%E7%BA%BA%E7%BB%87%E6%8B%BC%E8%B4%B4%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分只提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，重构为**手工缝制纺织拼贴插画**。不要保留所有对象，不要逐物转绘，不要复制原场景；主动删去绝大多数背景和无关细节，只用少量大布片、简洁剪影、层叠布料、毛边贴布和少量刺绣，重新概括最核心的视觉信息，使人一眼识别它与上方照片的对应关系。
+
+下半部分必须以**大量留白**作为核心构图语言。主体应被压缩成一个更小、更精炼的视觉焦点，其余空间大面积留空；留白不是空背景，而是画面本身的重要组成部分，与主体、布片边缘和针迹共同形成呼吸感、空间感与节奏感。允许偏心、贴边、悬置或局部裁切，通过删减、重组、尺度变化和留白，把原图重新导演成一张更成立、更高级的作品。
+
+材质强调棉麻纤维、布料纹理、手工针迹、不规则剪裁、轻微错位与真实触感，呈现温暖、克制、有生活感的 textile collage / appliqué 质感。避免复杂透视、细碎描摹、画面填满和廉价手作感。
+
+配色从上方照片中提取 2–4 种最有生命力、最有生活温度、最能代表主题精神的颜色，适度提亮、提纯、去灰，使布料颜色鲜活、柔软、亲切。整体明快、温暖、自然，避免暗淡、灰脏、陈旧和沉闷配色。
+
+文字只作极少量编辑性介入，不限制语种。可根据主体、地点、动作、情绪或隐喻，自由生成少量字词或短句，安静地落在留白区域或主体边缘，与图形形成精致的图文关系。
+
+整体呈现**选择性提炼、纺织拼贴、手工针迹、鲜活布料、超大量艺术留白与编辑式排版**共同构成的高级视觉效果。避免逐物复制、背景保留过多、信息堆积、画面填满、复杂场景、卡通感、3D感和模板化拼贴。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096285765961724161) | 2026-09-05
+
+---
+
+### 🎴 例 7481：石墨铅笔素描海报
+
+![石墨铅笔素描海报](../images/%E7%9F%B3%E5%A2%A8%E9%93%85%E7%AC%94%E7%B4%A0%E6%8F%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分重新做一次独立的美术判断与画面导演。不要照搬原照片构图，也不要逐物转绘；先理解原图真正值得保留的主题、结构走势、主体关系和视觉记忆点，再通过删减、重组、裁切、尺度变化、位置调整和留白重新构图。即使原图主体很小、背景杂乱或构图普通，也应主动修正，使下半部分本身成为一张完整、成立、有审美判断的作品。
+
+将保留下来的关键主体、局部结构或相关物件重构为手绘铅笔素描风格的主题组合插画。使用石墨铅笔轮廓、自然排线、少量交叉排线和轻微灰调，造型略带松动、稚拙和插画式速写感，不追求学院派写实与复杂透视。只画最有意义的部分，让人一眼感受到它与上方照片的对应关系，但不是照片的素描复制。
+
+构图强调大量有意识的留白。留白不是背景，而是和主体同等重要的构成元素；根据主体方向、比例 and 视觉重心自由安排，可偏心、贴边、悬置、放大、缩小或局部裁切，通过正负形、疏密、聚散和不对称平衡建立呼吸感、空间感和编辑秩序。宁可删掉信息，也不要填满画面。
+
+整体以黑白或自然石墨灰度为主，可极少量从原图提取1–2种识别色用于局部强调。文字只作少量编辑性介入，不限制语种与固定格式，可根据主体、地点、情绪或隐喻自由生成少量字词或短句，安静地融入留白，与插画共同构成版面。
+
+整体呈现重新导演的画面、铅笔手绘、主题组合、主动删减、大量艺术留白与高级编辑排版。避免照片复刻、传统学院素描、复杂背景、画面填满、过密细节、机械排版和模板感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096279325939310924) | 2026-09-05
+
+---
+
+### 🎴 例 7482：艺术拼贴设计海报
+
+![艺术拼贴设计海报](../images/%E8%89%BA%E6%9C%AF%E6%8B%BC%E8%B4%B4%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。下半部分不要照着照片转绘，而是先判断原图**真正值得保留的一个核心主题、一个视觉锚点和一种情绪关系**，其余信息大胆删除。即使原照片构图普通、杂乱或像废片，也要重新设计主体尺度、位置、裁切、方向和元素关系，把原始素材重构成一张独立成立的艺术画面。只保留最能代表原物的轮廓、走势、姿态和视觉记忆点，使人一眼感受到与上方照片的联系，但下半部分拥有比原图更好的构图和美术表达。画风采用**{argument name="风格" default="细线手绘 + 淡彩平涂 + 纸张肌理 + 轻拼贴"}**。主体以少量简洁轮廓完成识别，内部只留极少必要线条；颜色用轻薄、平静的大色块概括，不画写实细节。可加入一块极浅的主题基色色块承托主体，并允许主体穿出、越过或切断色块边缘，形成自然的 editorial collage 关系。构图强调**{argument name="构图" default="小尺度章印 + 大面积有意识留白"}**。主体可偏心、贴边、悬置、局部裁切或改变原照片中的位置，不追求完整呈现。留白面积明显大于绘制面积，并作为真正的图形参与构图，与主体形成正负形、距离、方向、聚散和不对称平衡。宁可删掉环境，也不要填满版面；让空白负责空气、空间、停顿和情绪。配色从上方照片中提取2–4种最有生命力、最有辨识度的颜色重新调制为**{argument name="色系" default="高明度、清透、柔和的粉彩体系"}**，如薄荷绿、嫩叶绿、雾粉、浅紫、奶油黄、柔蓝、杏色等，根据原图自然变化。背景保持极浅、近白的纸色，主体与基色色块必须清晰可见，不灰、不脏、不糊。周围只允许极少量从原图情绪或主题中衍生出的符号化小元素，用一两笔即可表达，不复制真实物件，也不为了填空而装饰。文字同样极少，不限制语种，可从主体、动作、情绪、记忆或隐喻中自由生成少量词句，以纤细、自然、略带手写感的字体进入留白，与主体共同构成版面。整体重点不是“把照片画出来”，而是**提炼原图灵魂后重新导演画面**：少元素、强主题、小主体、大留白、轻线条、浅色块、聪明重构。避免逐物转绘、完整背景、细节堆积、主体过大、画面填满、写实描摹、光滑矢量和模板化排版。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096274580558217295) | 2026-09-05
+
+---
+
+### 🎴 例 7483：专业产品广告摄影
+
+![专业产品广告摄影](../images/%E4%B8%93%E4%B8%9A%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业产品广告照片，拍摄主体为 "{argument name="product" default="[产品名称]"}"，在 {argument name="background" default="中性背景 [浅米色 / 蓝色渐变]"} 下进行摄影棚拍摄，柔和的漫射光，微妙的阴影，产品置于画面中心，四分之三角度视角，材质纹理细节丰富，符合高端品牌广告的简洁现代美学，4K 分辨率，1:1 纵横比
+
+[English]
+Professional advertising product photo of "{argument name="product" default="[PRODUCT NAME]"}", studio shot on a {argument name="background" default="neutral background [light beige / blue gradient]"}, soft diffused lighting, subtle shadows, product centered in frame, three-quarter angle view, high detail on material texture, clean modern aesthetic in the style of premium brand campaigns, 4K resolution, 1:1 aspect ratio
+```
+
+**来源：** [@Deny](https://x.com/denygen9/status/2096274439260516678) | 2026-09-05
+
+---
+
+### 🎴 例 7490：英文社论报纸排版
+
+![英文社论报纸排版](../images/%E8%8B%B1%E6%96%87%E7%A4%BE%E8%AE%BA%E6%8A%A5%E7%BA%B8%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="主题" default="文化评论"} / 英语等级：{argument name="英语等级" default="B2"} / 正文词数：{argument name="词数" default="400"}
+
+生成一张高级黑白报刊社论风英文文章版式，整体视觉像高端文学杂志、文化期刊或报纸专题页。
+
+文章语言必须使用英语，并严格按照第一行指定的 CEFR 英语水平进行写作。英语等级可填写 A1、A2、B1、B2、C1 或 C2；“主题”为文章主题；“正文词数”为目标英文正文词数。
+
+英语内容难度要求：
+- A1：使用非常基础、高频词汇和简单短句，句式清晰直接，适合英语初学者。
+- A2：使用常见生活词汇、简单连接词和基础复合句，表达自然易懂。
+- B1：使用较丰富的日常与抽象词汇，加入原因、例子和观点表达，句式有一定变化。
+- B2：使用较成熟的议论文表达、较丰富词汇和复杂句式，观点清晰、有逻辑层次。
+- C1：使用高级、准确且自然的英语，词汇丰富，句式复杂，具有文学 and 评论文章质感。
+- C2：使用接近高水平母语文化评论或文学社论的英语，允许细腻修辞、复杂句法、抽象概念与富有层次的论证，但保持自然、清晰和可读性。
+
+无论选择哪个等级，都必须确保文章真正符合该 CEFR 难度，而不是只更换少量高级或简单词汇。根据语言等级自动调整观点复杂度、句子长度、词汇难度、抽象程度和论证深度。
+
+文章必须围绕第一行指定的主题展开，并尽量将正文控制在指定词数左右，允许约 ±10% 的浮动。
+
+页面顶部设置简洁的英文报刊刊头、栏目名称、日期和细横线分隔，例如：
+“THE LITERARY REVIEW”
+“ESSAY / CULTURE”
+以及英文日期。
+
+页面中央使用超大号优雅高对比度衬线字体作为英文主标题。主标题应根据主题自动生成自然、简洁、有编辑感的英文标题，不要机械地直接复制主题。
+
+标题下方居中放置英文作者署名，例如：
+“By Knwoledgefxg”
+
+页面采用严格的编辑设计网格和经典多栏排版。正文为三栏窄幅英文文章，两端对齐，段落紧凑、字距自然，呈现真实英文报刊文章视觉效果。
+
+左侧设置一块醒目的粗体斜体英文引言或金句区域，内容从文章核心观点中提炼，长度约 1–3 句，并搭配粗细适中的横线。该引言的语言难度必须与指定英语等级保持一致。
+
+页面中部放置一张大幅黑白纪实摄影，摄影内容应根据文章主题自动选择与内容相关的现实场景。摄影风格真实、克制、纪实，不使用插画风格。照片下方设置小号英文图片说明文字，语言简洁自然，并符合指定英语等级。
+
+整体视觉克制、理性、文学感强、知识感强，具有传统新闻出版物和高端文化杂志的高级感。字体以高对比度衬线字体为主，视觉气质类似 Didot、Bodoni、Times 或经典报刊字体。标题优雅而庄重，正文紧凑规整，斜体仅用于引言、署名或强调信息。
+
+页面使用暖白色、略带泛黄感的新闻纸材质，加入轻微纸张褶皱、自然折痕、印刷颗粒、轻微油墨晕染、细微套印误差和胶片颗粒感，形成真实传统纸媒印刷效果。
+
+整体仅使用黑色、深灰色和米白色，不使用鲜艳颜色，不使用渐变，不使用现代 UI 元素，不使用插画，不使用未来科技感，不使用霓虹效果。
+
+页面底部设置一个细线边框的信息框或行动号召区域，内部使用居中的大号斜体衬线英文文字。内容应是一句与文章主题相关的简短总结、反思或行动号召，并符合指定英语等级。
+
+竖版构图，完整单页英文杂志专题设计，正面视角，充足留白，严格编辑网格，精致排版，高级、克制、经典、文学、知识型、editorial design aesthetic。
+
+重要要求：
+1. 页面中的所有可见文章文字必须为英语。
+2. 所有正文、标题、副标题、引言、图片说明和底部文案都必须语义自然，不使用随机乱码或无意义占位文本。
+3. 英语内容必须严格符合第一行指定的英语等级。
+4. 正文长度尽量接近第一行指定的词数。
+5. 正文必须围绕第一行指定的主题展开，并像一篇真实完整的英文文章，而不是文字填充。
+6. 保持版面视觉高级感的同时，确保英文正文具有足够可读性。
+7. 更换第一行参数后，其余提示词无需修改即可重复使用。
+```
+
+**来源：** [@知识分享官](https://x.com/knowledgefxg/status/2096249812194869289) | 2026-09-05
+
+---
+
+### 🎴 例 7491：蒸汽朋克卡牌主题合集
+
+![蒸汽朋克卡牌主题合集](../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%8D%A1%E7%89%8C%E4%B8%BB%E9%A2%98%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为设计素材来源，创作一张宏大的竖版动漫主视觉图，将所有 7 张可见参考卡牌中的主题元素融合进一个连贯的蒸汽朋克奇幻战场场景中。请勿重现卡牌布局、边框、数值、图标或小型 UI 文字；相反，应将卡牌艺术扩展为完整的电影级插画。
+
+目标：创作一张史诗级的合集海报，以 {argument name="main character" default="一位粉色头发的蒸汽朋克动漫女主角"} 为中心，她身着华丽的黄铜与黑色机械盔甲，佩戴齿轮和护目镜，身穿褶边裙，手持大型发条武器，自信地走在前景中。
+
+参考整合：精确整合参考图中 7 个主要的灵感来源元素：1) 天空中巨大的暗色机械天使，带有紫色发光核心；2) 一台配备多管加农炮的巨型白色炮兵机甲；3) 一条带有橙色发光核心的红棕色机械龙；4) 一位身着暗色盔甲的哥特式战士同伴；5) 一位手持长矛、带有光环状机械装置的金色光辉天使骑士；6) 一座布满管道和烟囱的巍峨工业堡垒/城市；7) 围绕在女主角和战场周围的华丽金色发条机械装置。
+
+场景：将所有元素置于 {argument name="setting" default="一座巍峨蒸汽朋克工业城市旁尘土飞扬的沙漠战场"} 中，远处有军队和小型飞行器，伴随烟雾、尘埃、旗帜，展现宏大的规模感。
+
+风格：高细节日本动漫插画、奇幻机甲、华丽黄铜发条、电影级光影、戏剧性云层、温暖阳光、复杂的机械零件、动态景深、超精细海报构图。
+
+构图：竖版 3:4 比例，低角度英雄视角，女主角位于下方中心，巨大的生物和机器环绕在她上方和身后，具有强烈的动感和宏伟感。
+
+约束：禁止出现集换式卡牌边框、UI 图标、数字、可读文字或水印。保持最终图像为一个统一的场景，而非分离的面板。
+
+[English]
+Using REFERENCE_0 as a set of design sources, create one grand vertical anime key visual that combines the motifs from all 7 visible reference cards into a single coherent steampunk-fantasy battlefield scene. Do not recreate the card layout, borders, stats, icons, or small UI text; instead, expand the card artwork into a full cinematic illustration.
+
+Goal: Create an epic ensemble poster centered on {argument name="main character" default="a pink-haired steampunk anime heroine"}, walking forward confidently in the foreground with ornate brass-and-black mechanical armor, gears, goggles, a frilled dress, and a large clockwork weapon.
+
+Reference integration: Incorporate exactly 7 major source-inspired elements from the reference image: 1) a huge dark winged mechanical angel in the sky with purple glowing cores, 2) a massive white artillery mech with a multi-barrel cannon, 3) a red-brown mechanical dragon with orange glowing cores, 4) a dark armored gothic warrior companion, 5) a radiant golden angelic knight with a spear and halo-like machinery, 6) a towering industrial fortress/city packed with pipes and chimneys, and 7) ornate golden clockwork machinery integrated around the heroine and battlefield.
+
+Scene: Place everything in {argument name="setting" default="a dusty desert battlefield beside a towering steampunk industrial city"}, with armies and smaller flying machines in the distance, smoke, dust, banners, and dramatic scale.
+
+Style: High-detail Japanese anime illustration, fantasy mecha, ornate brass clockwork, cinematic lighting, dramatic clouds, warm sunlight, intricate mechanical parts, dynamic depth, ultra-polished poster composition.
+
+Composition: Vertical 3:4 aspect ratio, low-angle heroic perspective, main heroine large in the lower center, gigantic creatures and machines surrounding her above and behind, strong sense of motion and grandeur.
+
+Constraints: No trading-card frames, no UI icons, no numbers, no readable text, no watermark. Keep the final image as one unified scene rather than separate panels.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2096247693681238068) | 2026-09-05
+
+---
+
+### 🎴 例 7495：定制地标旅行海报模板
+
+![定制地标旅行海报模板](../images/%E5%AE%9A%E5%88%B6%E5%9C%B0%E6%A0%87%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高分辨率的 4:5 竖版旅行海报，主题围绕 {argument name="location" default="TOKYO"}。所有可见文字必须仅使用英文，拼写完美且排版专业，不得出现字母扭曲、随机符号或 AI 乱码。核心设计：将巨大的单词“{argument name="location" default="TOKYO"}”醒目地置于中心。使用高大、粗体的无衬线字体，每个字母内包含该地点不同的插画场景。将字母视为“画廊橱窗”，融入可识别的地标、建筑、街道、交通、自然、文化和当地氛围。将各字母间的场景连接起来，形成一幅连贯的视觉全景图。顶部条带：在排版上方添加一条细长的全景条带，根据需要加入简化的当地元素，如天际线、道路、车辆、火车、船只、桥梁、鸟类、云朵、太阳或海岸线。风格：中世纪现代编辑海报、瑞士平面设计、高端旅行品牌感、极简扁平矢量插画、建筑信息图表美学、几何形状、边缘利落、细腻的线条艺术细节、强烈的留白以及精致的构图。色彩：根据 {argument name="location" default="TOKYO"} 自动提取协调的调色板。仅使用 4–6 种柔和的粉彩色调，呈现优雅、低饱和度的旅行海报质感。
+
+[English]
+Create an ultra-high-resolution 4:5 vertical travel poster themed around {argument name="location" default="TOKYO"}. All visible text must be in English only, perfectly spelled and professionally typeset, with no distorted letters, random symbols, or AI gibberish. CORE DESIGN: Place the giant word “{argument name="location" default="TOKYO"}” prominently in the center. Use tall, bold sans-serif letters, with each letter containing a different illustrated scene from the location. Treat the letters as “gallery windows,” incorporating recognizable landmarks, architecture, streets, transportation, nature, culture, and local atmosphere. Connect the scenes across the letters to create one cohesive visual panorama. TOP STRIP: Add a thin panoramic strip above the typography featuring simplified local elements such as skyline, roads, vehicles, trains, boats, bridges, birds, clouds, sun, or coastline where relevant. STYLE: Mid-century modern editorial poster, Swiss graphic design, premium travel branding, minimal flat-vector illustration, architectural infographic aesthetic, geometric forms, clean edges, subtle line-art details, strong negative space, and refined composition. COLOR: Automatically derive a cohesive palette inspired by {argument name="location" default="TOKYO"}. Use only 4–6 muted pastel colors with elegant, low-saturation travel-poster tones.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2096232474355564760) | 2026-09-05
+
+---
+
+### 🎴 例 7502：现代东方极简主义海报
+
+![现代东方极简主义海报](../images/%E7%8E%B0%E4%BB%A3%E4%B8%9C%E6%96%B9%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题" default="具体主题内容"}生成一张东方审美的视觉海报，核心画面以大面积干净留白作为主舞台，主题对象被提炼成纤细、克制、带手工感的线描主形，放置在留白区域内偏一侧，线条疏密有节奏，既像自然形态也像信息符号。留白外部由连续起伏的浅浮雕纹理场包围，纹理像层层涌动的材料表面，从边缘向中心形成柔和围合，局部遮挡和托举主题空间，让空白显得被打开而不是空洞。画面中加入少量极小的{argument name="人物姿态" default="劳动、行走或操作姿态"}人物作为尺度点和叙事点，深浅对比明确，散落在纹理起伏之间，使宏观纹理与微观行动产生安静张力。上方设置强势标题与次级信息层，标题字重厚实、横向展开，副标题和说明文字用细小字距形成秩序感。色彩从主题自身提取，映射为大面积高明度洁净底色、低饱和结构纹理、清晰但少量的信息色，纹理有{argument name="纹理质感" default="纸面压纹与细线刻痕"}质感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096210242858352681) | 2026-09-05
+
+---
+
+### 🎴 例 7503：AI 思考节省成本海报
+
+![AI 思考节省成本海报](../images/AI%20%E6%80%9D%E8%80%83%E8%8A%82%E7%9C%81%E6%88%90%E6%9C%AC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温馨的竖版小红书风格插画海报，通过舒适的家居 DIY 场景和清晰的手写体中文，解释让 AI 多思考一会儿可以降低账单成本。
+
+画布：竖版 3:4 社交媒体海报，柔和的金色午后光线，高分辨率动漫/编辑插画，充满吸引力且乐观。
+
+主标题：在最上方放置一个奶油色笔触横幅，配以粗体手绘中文文本：{argument name="headline text" default="让 AI 多想一会儿，账单竟然少了近一半"}。将最后一句强调为橙红色，其余部分为深棕黑色。在两侧添加黄色至橙色的强调光芒。
+
+副标题：在标题正下方，添加一个较小的圆形白色标签，配以中文文本：{argument name="subtitle text" default="Astra 的能力曲线为什么开始拐弯"}。
+
+中心场景：一位可爱的年轻人，留着 {argument name="hair color" default="凌乱的深棕色头发"}，穿着森林绿毛衣和深色裤子，盘腿坐在阳光充足房间的地毯上。他若有所思地向上看，带着淡淡的微笑，下巴旁拿着一支铅笔，膝盖上放着一本打开的说明书。说明书左页显示一个简单的架子线条画，右页显示一个清单。
+
+文本元素和标签：在角色上方包含 1 个气泡，内含中文文本：{argument name="thought bubble text" default="先想清楚 再动手..."}。在说明书内包含 4 行清单：3 个已勾选的项目，分别标注为「思考」、「规划」、「执行」，以及 1 个未勾选的灰色项目，标注为「返工」。在背景中包含 1 个白板图表，标注为「效果 vs 成本」，纵轴为「效果 (%)」，横轴为「成本 ($)」。在图表上显示 2 条曲线：一条带有圆形标记的橙色实线，向上弯曲后趋于平缓，并带有橙色箭头标注「Astra 开始拐弯」；另一条为灰色虚线，标注为「不够思考 成本更高」。
+
+房间与物品：场景为一个舒适的客厅或书房，背景有模糊的植物、相框、温暖的窗光和一个正在组装的木制置物架。在架子顶部显示 1 只正在睡觉的橙白相间猫咪。前景散落着 DIY 零件：木板、螺丝和 1 把橙黑色螺丝刀。在角色旁边放置 1 个白色马克杯，上面堆叠着英文文本“Good Plan Lower Bill”和一个小笑脸。
+
+便签与纸板标牌：包含 3 个黄色便签/标牌元素：右上角墙上贴着 1 张便签，写着「多一步思考 少很多返工 更聪明 也更省钱」并配有一个笑脸；木架上贴着 1 张便签，写着「一次做好 省时省钱」，配有一个粗体勾号和黄色强调光芒；右下角前景处有一个纸板标牌，写着「更聪明的 AI 更轻松的生活」，配有一个简单的房子图标。
+
+视觉风格：柔和的绘画风动漫插画与信息图表设计相结合，圆润的形状，亲切的粗体手写字，温暖的米色/橙色/绿色调，柔和的景深，构图简洁，生动而不杂乱。
+
+限制：保留所有指定的中文文本，确保海报易读，不使用任何标志或水印，且不得添加额外的图表、便签、角色或清单项目。
+
+[English]
+Goal: Create a warm vertical Xiaohongshu-style illustrated poster explaining that letting AI think longer can reduce the bill, using a cozy home DIY scene and clear handwritten Chinese typography.
+
+Canvas: Vertical 3:4 social media poster, soft golden afternoon light, high-resolution anime/editorial illustration, inviting and optimistic.
+
+Main headline: At the very top, place a large cream brush-stroke banner with bold hand-painted Chinese text: {argument name="headline text" default="让 AI 多想一会儿，账单竟然少了近一半"}. Emphasize the final phrase in orange-red while the rest is dark brown-black. Add small yellow-orange emphasis rays on both sides.
+
+Subtitle: Directly below the headline, add a smaller rounded white label with Chinese text: {argument name="subtitle text" default="Astra 的能力曲线为什么开始拐弯"}.
+
+Central scene: A cute young man with {argument name="hair color" default="messy dark brown hair"}, wearing a forest-green sweater and dark pants, sits cross-legged on a rug in a sunlit room. He looks upward thoughtfully with a small smile, holding a pencil near his chin and an open instruction booklet in his lap. The booklet shows a simple line drawing of a shelf on the left page and a checklist on the right page.
+
+Counted text elements and labels: Include exactly 1 thought bubble above the character with Chinese text: {argument name="thought bubble text" default="先想清楚 再动手..."}. Include exactly 4 checklist rows in the booklet: 3 checked items labeled 「思考」, 「规划」, 「执行」, and 1 unchecked grey item labeled 「返工」. Include exactly 1 whiteboard chart in the background labeled 「效果 vs 成本」 with a vertical axis 「效果 (%)」 and horizontal axis 「成本 ($)」. On the chart, show exactly 2 curves: an orange solid curve with round markers bending upward then flattening, labeled 「Astra 开始拐弯」 with an orange arrow, and a grey dashed curve labeled 「不够思考 成本更高」.
+
+Room and objects: The setting is a cozy living room or study with blurred plants, framed pictures, warm window light, and a wooden shelving unit being assembled. Show exactly 1 sleeping orange-and-white cat curled on top of the shelf. Show scattered DIY parts in the foreground: wooden boards, screws, and 1 orange-black screwdriver. Add exactly 1 white mug near the character with English text stacked as “Good Plan Lower Bill” and a small smiley face.
+
+Sticky notes and cardboard signs: Include exactly 3 yellow note/sign elements: 1 sticky note on the upper right wall saying 「多一步思考 少很多返工 更聪明 也更省钱」 with a smiley face; 1 sticky note on the wooden shelf saying 「一次做好 省时省钱」 with a bold check mark and small yellow emphasis rays; 1 cardboard box sign in the lower right foreground saying 「更聪明的 AI 更轻松的生活」 with a simple house icon.
+
+Visual style: Soft painterly anime illustration mixed with infographic design, rounded shapes, thick friendly hand-lettering, warm beige/orange/green palette, gentle depth of field, clean composition, lively but not cluttered.
+
+Constraints: Preserve all Chinese text exactly as specified, keep the poster readable, use no logos or watermarks, and do not add extra charts, extra sticky notes, extra characters, or extra checklist items.
+```
+
+**来源：** [@Tz](https://x.com/Tz_2022/status/2096209650198696397) | 2026-09-05
+
+---
+
+### 🎴 例 7507：高端叠层薯片广告海报
+
+![高端叠层薯片广告海报](../images/%E9%AB%98%E7%AB%AF%E5%8F%A0%E5%B1%82%E8%96%AF%E7%89%87%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戛纳级别的旗舰广告海报，品牌为原创叠层薯片 CRAVELOOP，主打产品为“烟熏红椒味叠层薯片”。通过强有力的 Orbit 循环构图和精炼的 Transit 减法设计，打造一场大胆且具备全球化水准的高端零食营销活动。核心构图：使用垂直海报布局，背景为深邃的森林绿，带有细腻纹理、柔和的空间深度和电影级聚光灯效果。保持布局简洁有力，分为三个核心区域：1. 中心处巨大的薯片过山车环路；2. 右侧放置一个巨大的直立 CRAVELOOP 罐装产品作为官方视觉锚点；3. 左下角精简的配料展示台。整体画面必须具有戏剧性、诱人感且高度可控。Orbit 结构：设计构图使视线形成清晰的闭环：标题 -> 薯片过山车 -> 产品罐 -> 左下角配料台 -> 回升至过山车。利用薯片的上升曲线、打开的罐盖、散落的薯片方向以及左下角配料标签的角度来强化这种视觉循环。过山车必须是海报的情感引擎，而产品罐则保持最清晰的商业主角地位。视觉逻辑：在中心处，完全由排列整齐的叠层薯片构建出优雅的过山车轨道，包括一个强有力的上升弧线和一个完整的圆环。薯片必须看起来超写实、层次均匀、调味细腻、色泽金黄、边缘酥脆，且符合物理真实感。轨道上有一辆微小的红色过山车作为微妙的叙事点缀，但它应保持次要地位，避免让海报看起来像玩具场景。产品主角：在右侧放置一个超大的直立 CRAVELOOP 罐，盖子半开，露出里面整齐的薯片。包装应呈现高端、真实、可上架且具备全球发布水准的质感，采用红橙色、奶油色和金色的克制配色。罐体必须光影锐利、清晰可辨，并具备足够的视觉稳定性来平衡过山车的动感。包装文字：使用原始包装文案，例如：CRAVELOOP SMOKY PAPRIKA STACKED CRISPS。精炼的辅助文案：“REAL POTATO CUT”（原切土豆）、“BOLD SPICE FINISH”（浓郁香料余韵）。保持包装正面层级简洁高端，无杂乱的宣传语。排版系统：在左上角放置一个简洁的原创营销标题，采用醒目的大字号：“CRUNCH IN MOTION”（动感酥脆）。结合温暖的金色强调与简洁的白色辅助文字，保持强烈的层级感和高级的间距。标题应比零售广告更短、更简洁，使海报更具国际化和旗舰感。Transit 减法：将左下角的配料区域精简至最核心的风味元素：- 原切土豆 - 红椒调料 - 少量辅助点缀（如辣椒圈）。仅使用 2-3 个微小的艺术化配料标签，采用优雅的微型字体。移除多余的道具、碗具和不必要的标注。配料台应支持叙事，而不应与主产品和过山车争夺视觉焦点。底部条带：如果使用页脚，请保持极度克制。用一行小字体的精炼短句替换所有喧闹的促销横幅：“Stacked for the long crave.”（叠层美味，久久回味）。不要使用销售语言、零售杂乱信息或具有攻击性的 CTA 按钮感。灯光与氛围：使用高端商业灯光，薯片上有温暖的高光，罐体上有雕塑感的反光，微妙的调料闪光，底部平台上有受控的阴影，并具备足够的深度分离，使圆环、罐体和配料底座具有立体感。场景应具有电影质感且干净利落。色彩方向：深森林绿、近黑色的阴影色调、金黄的薯片色、红橙色的红椒色、克制的奶油色字体以及温暖的棕色配料点缀。保持色调丰富且严谨。红橙色的罐体应作为品牌的核心灯塔。视觉风格：超写实商业食品摄影，旗舰级 FMCG 营销品质，真实的薯片纹理，优雅的调料细节，高端包装真实感，干净的艺术指导，强烈的层级感，无杂乱元素。最终画面必须呈现全球零食品牌发布视觉的效果，而非超市传单。情绪：大胆、沉浸、诱人、图形化、高端、国际化品牌感、高冲击力、简洁的戏剧感。负面提示词：廉价超市传单、杂乱的配料台、过多的道具、低细节薯片、扭曲的过山车、不可读的罐体设计、过多的宣传文字、卡通零食风格、浑浊的背景、弱光、平淡的构图、塑料感薯片、嘈杂的页脚横幅、低端促销美学
+
+[English]
+Create a Cannes-level flagship advertising poster for an original stacked crisp brand named CRAVELOOP, featuring the hero product Smoky Paprika Stacked Crisps. Build the image with strong Orbit circulation and refined Transit reduction, creating a bold, globally polished premium snack campaign. Core composition: Use a vertical poster set against a deep moody forest-green background with subtle texture, soft atmospheric depth, and cinematic spotlighting. Keep the layout clean and powerful with three essential zones: 1. a giant looping crisp roller-coaster at center 2. one large upright CRAVELOOP can on the right as the official product anchor 3. one tightly edited ingredient platform at the lower left The overall image must feel dramatic, craveable, and highly controlled. Orbit structure: Design the composition so the eye moves in a clear closed loop: headline -> crisp roller-coaster -> product can -> lower-left ingredient platform -> back upward into the roller-coaster. Use the rising curve of the crisps, the opened can lid, the scattered crisp direction, and the angle of the lower-left ingredient labels to reinforce this circulation. The roller-coaster must feel like the emotional engine of the poster, while the can remains the clearest commercial hero. Hero visual logic: At the center, build an elegant roller-coaster track entirely from perfectly aligned stacked crisps, including one strong rising arc and one full loop. The crisps must feel ultra-realistic, evenly layered, delicately seasoned, golden, crisp-edged, and physically believable. A tiny red coaster cart rides on the track as a subtle storytelling accent, but it should remain secondary and not turn the poster into a toy scene. Product hero: On the right, place one oversized CRAVELOOP can standing upright with the lid partially opened, revealing a neat stack of crisps inside. The packaging should feel premium, real, shelf-ready, and globally publishable, using a disciplined red-orange, cream, and golden palette. The can must be sharply lit, highly legible, and visually stable enough to counterbalance the motion of the roller-coaster. Packaging text: Use original on-pack wording such as: CRAVELOOP SMOKY PAPRIKA STACKED CRISPS Refined supporting lines: “REAL POTATO CUT” “BOLD SPICE FINISH” Keep the front-of-pack hierarchy clean and premium, with no cluttered claims. Typography system: At the upper left, place one concise original campaign headline in expressive oversized type: “CRUNCH IN MOTION” Use a refined combination of warm golden emphasis and clean white supporting text, with strong hierarchy and premium spacing. Keep it shorter and cleaner than a retail ad headline so the poster feels more international and flagship. Transit reduction: Edit the lower-left ingredient area down to only the most essential flavor cues: - raw potatoes - paprika seasoning - a small supporting accent such as chili rings Use only 2-3 tiny art-directed ingredient labels in elegant micro typography. Remove excess props, extra bowls, and unnecessary callouts. The ingredient platform should support the story without competing with the main product and roller-coaster. Lower strip: If a footer is used, keep it extremely restrained. Replace any loud promotional banner with one short premium line in small typography: “Stacked for the long crave.” No sales language, no retail clutter, no aggressive CTA button feel. Lighting and atmosphere: Use premium commercial lighting with warm highlights on the crisps, sculpted reflections on the can, subtle seasoning sparkle, controlled shadows on the lower platform, and enough depth separation to make the loop, can, and ingredient base feel dimensional. The scene should feel cinematic but clean. Color direction: Deep forest green, near-black shadow tones, golden crisp yellow, paprika red-orange, restrained cream typography, and warm brown ingredient accents. Keep the palette rich and disciplined. The red-orange can should act as the key brand beacon. Visual style: Ultra-realistic commercial food photography, flagship FMCG campaign quality, believable crisp texture, elegant seasoning detail, premium packaging realism, clean art direction, strong hierarchy, and no clutter. The final image must feel like a global snack-brand launch visual, not a supermarket flyer. Mood: Bold, immersive, craveable, graphic, premium, internationally branded, high-impact, cleanly theatrical. Negative prompt: cheap supermarket flyer, cluttered ingredient platform, too many props, low-detail crisps, warped roller-coaster, unreadable can design, excessive claim text, cartoon snack styling, muddy background, weak lighting, flat composition, plastic-looking chips, noisy footer banner, low-end promo aesthetic
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2096181870845403269) | 2026-09-05
+
+---
+
+### 🎴 例 7522：东方禅意美学壁纸
+
+![东方禅意美学壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E7%BE%8E%E5%AD%A6%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。画面主体是一位年轻成年东方古风女子，站在一扇巨大的圆形花窗旁，人物位于画面右下区域，微微侧身，姿态松弛、安静、柔和，带有清晨刚醒来的轻松感与含蓄气质。女子五官清秀精致，东方审美，发髻简洁雅致，发间有少量白色小花饰与轻垂发带。服装为浅白、浅杏粉、极淡薄荷青过渡的轻盈古风长裙，布料轻柔通透，不过度华丽，不要复杂刺绣和繁重头饰。左手自然轻扶圆窗窗沿，右手自然下垂握着一小枝白色花枝，手部结构自然，比例准确，不畸形，不反手。场景为极简白墙室内空间，奶油白墙面作为高明度主基底，画面左侧保留大面积完整留白，适合标题排版。圆形花窗位于画面右上至中部，是第一视觉记忆点。窗外可见薄荷青与浅青绿色植物层次、柔和晨雾感空气层、极淡远景庭院或远山轮廓，以及一枚杏子橙色的圆形晨光，晨光位于窗外远处，不贴在墙上。窗外枝叶可带少量白色或极淡粉白小花，形成清晨温柔气息。墙面与地面上有轻微树影投射，增强晨光氛围。构图强调大留白与稳定封面感：圆窗作为上半部分主视觉，人物位于下半部分偏右，左侧留出完整标题区。色彩控制为：奶油白用于墙面和整体基底，薄荷青与浅青绿用于窗外植物和空气层，杏子橙只用于晨光与极少量暖反光，人物服装保持浅白与浅杏色，避免全图青橙滤镜化，避免画面变灰、变脏、变旧。光线为明亮柔和的清晨自然光，边缘清晰，质感干净，轻微纸感即可，不要厚重水墨感，不要灰雾，不要旧纸颗粒，不要压暗。整体气质要求温柔、松弛、轻盈、清透、明亮、干净，有女性向封面感和东方生活禅意。如果需要版式感，可在左侧留白区域加入少量竖排中文题字，例如：“晨光正好 / 一窗花影 / 许自己一段缓慢的时光”，并搭配一枚小红印章，但整体文字必须克制，不可过多。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2096109254952497583) | 2026-09-05
+
+---
+
+### 🎴 例 7526：几何城市记忆海报
+
+![几何城市记忆海报](../images/%E5%87%A0%E4%BD%95%E5%9F%8E%E5%B8%82%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+城市：{argument name="city name" default="[城市名称]"}
+地标：{argument name="landmark" default="[地标名称]"}
+
+创作一张以指定的“城市”和“地标”为主题的原创竖版情感城市海报。地标应作为中景中可识别的视觉锚点，将其简化为优雅的几何形态，而非进行写实渲染。将周边区域重构为城市诗意的记忆——而非任何照片或现有艺术作品的精确复制。
+
+构图
+
+将场景分为三个明显的层次：
+
+前景 — 与该城市相关的超大比例本土植物、季节性花卉、建筑碎片、咖啡馆家具、街道物品或叶片，从底部和侧面部分切入画面。
+
+中景 — 几个姿态自然的人物，正在享受平凡的城市时刻：散步、阅读、骑行、交谈、休息或望向地标。保持人物的次要地位，避免刻意的游客摆拍姿势。
+
+背景 — 位于经过精简的城市景观中的地标，由天空、树木、水体、山丘或符合当地特色的建筑所环绕。
+
+添加一条独特的“记忆丝带”：一条不规则的流动带，从角落附近开始，自然地转化为道路、河流、阴影、花坛或光束，引导视线通向地标。沿途添加几个微小的星形色彩标记。
+
+视觉语言
+
+采用原创的混合媒介插画风格，结合大面积油画棒色块、干粉炭笔轮廓、手工压力变化、破碎边缘、不完美的重叠、刮擦出的高光、温暖的无涂层纸张纹理、选择性的双重轮廓线、厚重的颜料感、不均匀的透明度、可见的手绘笔触以及刻意留出的负空间。避免平滑的数字渐变、光泽感 3D 渲染和照片写实主义。
+
+配色方案
+
+根据城市的感性特征、气候、季节和文化氛围自动推导配色。使用一种主背景色、2–3 种辅助色，以及一种少量点缀的醒目对比色。
+
+排版
+
+在顶部显示精确的城市名称，使用英文大写字母。字体要大、间距开阔、清晰易读，并以炭笔或粗油画棒手绘而成。仅显示城市名称。不得包含标语、说明文字、日期、徽标、签名、水印、边框、框架或其他排版元素。
+
+创造一种具有平静节奏、强烈框架感、充裕呼吸空间以及一个令人惊喜的本土细节的非对称编辑构图。使最终图像呈现出一种仿佛从虚构的城市档案中重新发现的旅行海报感——亲切、现代、怀旧、富有质感且独具原创性。
+
+负面提示词：照片写实摄影、精确模仿参考艺术作品、复制的构图、复制的笔触、艺术家签名、水印、通用的旅游广告、拥挤的天际线、过多的地标、扭曲的建筑、重复的人物、过大的人物、平滑的矢量插画、光泽感 3D 渲染、塑料质感、霓虹灯过载
+
+[English]
+CITY: [ENTER CITY NAME IN ENGLISH] LANDMARK: [ENTER ONE MAIN LANDMARK] Create an original vertical emotional city poster featuring the specified CITY and LANDMARK. The LANDMARK should be the recognizable visual anchor in the middle distance, simplified into elegant geometric forms rather than rendered with photographic precision. Reimagine the surrounding area as a poetic memory of the city—not an exact copy of any photograph or existing artwork. COMPOSITION Build the scene in three distinct layers: FOREGROUND — Oversized local plants, seasonal flowers, architectural fragments, café furniture, street objects, or foliage associated with the city, partially entering from the bottom and sides. MIDDLE GROUND — A few small, naturally posed people enjoying an ordinary city moment: walking, reading, cycling, talking, resting, or looking toward the landmark. Keep them secondary and avoid staged tourist poses. BACKGROUND — The LANDMARK within a selectively simplified cityscape, framed by sky, trees, water, hills, or buildings appropriate to the location. Add a distinctive Memory Ribbon: an irregular flowing band beginning near a lower corner and naturally transforming into a road, river, shadow, flower bed, or beam of light as it leads toward the landmark. Add several tiny star-shaped color marks along its path. VISUAL LANGUAGE Use an original mixed-media illustration style combining broad oil-pastel color blocks, dry powdery charcoal outlines, handmade pressure variations, broken edges, imperfect overlaps, scraped-back highlights, warm uncoated paper grain, selective double contour lines, tactile pigment, uneven opacity, visible hand movement, and intentional negative space. Avoid smooth digital gradients, glossy 3D rendering, and photorealism. COLOR PALETTE Automatically derive the palette from the CITY’s emotional character, climate, season, and cultural atmosphere. Use one dominant background color, 2–3 supporting colors, and one bold contrasting accent repeated sparingly. TYPOGRAPHY At the top, display the exact CITY name in ENGLISH UPPERCASE LETTERS. Make it large, spacious, clearly readable, and manually drawn with charcoal or thick oil pastel. Display ONLY the CITY name. No slogans, captions, dates, logos, signatures, watermarks, borders, frames, or additional typography. Create an asymmetrical editorial composition with calm rhythm, strong framing, generous breathing space, and one surprising local detail. Make the final image feel like a rediscovered travel poster from an imagined city archive—intimate, contemporary, nostalgic, tactile, and unmistakably original. NEGATIVE: Photorealistic photography, exact imitation of reference artwork, copied composition, copied brushwork, artist signature, watermark, generic tourism advertisement, crowded skyline, excessive landmarks, distorted architecture, duplicated people, oversized people, smooth vector illustration, glossy 3D rendering, plastic texture, neon overload, muddy colors, excessive saturation, digital airbrush gradients, comic-book inking, anime style, childish clip art, illegible or misspelled city name, additional text, slogan, date, logo, border, frame.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2096096465416589633) | 2026-09-05
+
+---
+
+### 🎴 例 7538：幽默风趣的“寿限无”水墨书法海报
+
+![幽默风趣的“寿限无”水墨书法海报](../images/%E5%B9%BD%E9%BB%98%E9%A3%8E%E8%B6%A3%E7%9A%84%E2%80%9C%E5%AF%BF%E9%99%90%E6%97%A0%E2%80%9D%E6%B0%B4%E5%A2%A8%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张印在陈旧羊皮纸上的幽默传统日式水墨书法海报。构图采用宽幅横向浮世绘/水墨画风格，背景为温暖的米色染色和纸质感，使用黑色毛笔墨迹、柔和的红色印章以及淡淡的灰色山峦渲染。左侧前景描绘一位身着深色长袍、光头大笑的和尚，他右手高举一支大毛笔，稳住横跨底部的长卷轴。他身旁坐着一只闭着眼睛、面带满足微笑的蓬松白猫。背景处绘制一棵盆景般的松树、一轮柔和的红日、远处的富士山、朦胧的云雾、岩石山丘以及最右侧小巧的宝塔剪影。海报上方和中央区域填满多列竖排、俏皮的手写日式假名书法，笔触湿润、自然且不完美，营造出一种滑稽吟唱的氛围，而非正式可读的散文。右上角包含一个带红色边框的竖长标题印章，内含大号黑色汉字 {argument name="title seal text" default="寿限无"}。添加三个小巧的红色方形艺术家印章：一个位于标题印章下方，一个靠近右侧的小竖排题词，另一个位于左下角和尚签名旁。包含两处小巧的侧面题词：左下角为竖排黑色文字 {argument name="monk signature" default="长命万岁"}；右侧中部为一段类似谚语的小竖排注释 {argument name="side inscription" default="名为长，缘分短，正因如此才珍贵"}。主要书法应从右至左排列成约 11 列，使用默认的吟唱文本 {argument name="main calligraphy chant" default="寿限无 寿限无 五劫的擦洗 水鱼的 水行末 云来末 风来末 住在住处 薮良柑子的 步良柑子 派波派波 舒林甘 咕林大的 碰碰波的 碰碰那的 长久命的长助"}。笔触需富有表现力、略显不均且刻意追求不完美感；书法周围需保留充足的留白；禁止使用现代排版、数字 UI、英文文本及照片写实风格。
+
+[English]
+Create a humorous traditional Japanese ink-and-wash calligraphy poster on aged parchment paper. The composition is a wide horizontal ukiyo-e/sumi-e style artwork with a warm beige, stained washi texture background, black brush ink, muted red seals, and subtle gray mountain washes. On the left foreground, show a bald laughing monk in dark robes sitting on the ground, holding a large calligraphy brush raised high in his right hand and steadying a long blank scroll that curls across the bottom. Beside him sits one fluffy white cat with closed eyes and a content smile. Behind them, paint a bonsai-like pine tree, a large muted red sun, distant Mount Fuji, misty clouds, rocky hills, and small pagoda silhouettes at the far right. Fill the upper and central area with many vertical columns of playful handwritten Japanese-style kana calligraphy, imperfect and organic like wet brush strokes, evoking a silly chant rather than readable formal prose. Include exactly one tall red-outlined title seal at the upper right containing large black kanji text {argument name="title seal text" default="寿限無"}. Add exactly three small red square artist seals: one beneath the title seal, one near a small vertical inscription on the right, and one beside the monk’s signature at lower left. Include exactly two small side inscriptions: at lower left, vertical black text {argument name="monk signature" default="長命万歳"}; at mid-right, a small vertical proverb-like note {argument name="side inscription" default="名は長くとも 人の縁は短し だからこそ大切に"}. The main calligraphy should be arranged in about eleven vertical columns from right to left, using the default chant text {argument name="main calligraphy chant" default="じゅげむ じゅげむ ごこうのすりきれ かいじゃりすいぎょの すいぎょうまつ うんらいまつ ふうらいまつ ところにすむところ やぶらこうじの ぶらこうじ ぱいぽぱいぽ しゅーりんがん ぐーりんだいの ぽんぽこぴーの ぽんぽこなーの ちょうきゅうめいのちょうすけ"}. Make the brushwork expressive, slightly uneven, and intentionally imperfect; preserve ample negative space around the calligraphy; no modern typography, no digital UI, no English text, no photorealism.
+```
+
+**来源：** [@月真猫-tsukimao-](https://x.com/Atg_Tsukimao/status/2096054792204542460) | 2026-09-05
+
+---
+
+### 🎴 例 7540：手工纸艺旅行海报
+
+![手工纸艺旅行海报](../images/%E6%89%8B%E5%B7%A5%E7%BA%B8%E8%89%BA%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级手工纸艺旅行海报，展现了一艘经典的红白配色 {argument name="location" default="多伦多群岛"} 渡轮在黄金时刻航行于安大略湖上的场景。请以略微俯视的三分之四角度突出展示渡轮，船上载有少量姿态自然的乘客。其极具张力的卷曲白色纸质尾迹引导观众视线从前景移向船只。
+
+背景处展示 {argument name="city skyline" default="多伦多标志性的天际线"}，并以 CN Tower 作为主要地标。画面中包含从左侧射入的温暖夕阳，被郁郁葱葱的树木环绕的岛屿渡轮码头和凉亭，两艘小帆船，几只在水面上自然游弋的加拿大雁，以及渡轮上飘扬的准确的加拿大国旗。
+
+将整个场景创作成为精美的立体纸雕，使用分层卡纸剪裁、卷曲纸浪、毛边边缘、折纸建筑、微妙的手工瑕疵以及层与层之间逼真的阴影。运用浓郁的湖蓝色、清爽的白色、温暖的红色、叶绿色以及明亮的金橙色光影。具备精致的编辑类旅行海报质感、电影级景深、简洁的构图，细节丰富且视觉冲击力强。
+
+在左上方区域添加粗体、凸起的奶油白色纸质字体，内容为准确的标题“{argument name="main title" default="TORONTO ISLANDS"}”。在其下方，添加较小、字间距较宽的深海军蓝大写字母标语，内容为“{argument name="tagline" default="ESCAPE THE CITY"}”。保持两行文字清晰可读，位于边距内，并避开 CN Tower。
+
+垂直 4:5 构图。画面中不得出现人群、畸形人物、重复的鸟类、过多的杂乱元素、扁平矢量风格、塑料质感、边框、Logo、签名、水印或其他额外文字。
+
+[English]
+A premium handcrafted paper-art travel poster featuring a classic red-and-white {argument name="location" default="Toronto Islands"} ferry cruising across Lake Ontario at golden hour. Show the ferry prominently from a slightly elevated three-quarter angle, carrying a small number of naturally positioned passengers. Its dramatic curling white paper wake leads the viewer’s eye from the foreground toward the boat.
+
+In the background, show {argument name="city skyline" default="Toronto’s recognizable skyline"} with the CN Tower as the dominant landmark. Include warm sunset light glowing from the left, the island ferry dock and pavilion surrounded by lush green trees, two small sailboats, several Canada geese floating naturally on the water, and an accurate Canadian flag flying from the ferry.
+
+Create the entire scene as an intricate dimensional paper sculpture using layered cut cardstock, curled paper waves, deckled edges, folded-paper architecture, subtle handcrafted imperfections, and realistic shadows between the layers. Use rich lake blues, crisp white, warm red, leafy green, and luminous golden-orange light. Sophisticated editorial travel-poster quality, cinematic depth, clean composition, highly detailed and visually striking.
+
+Add the exact title “{argument name="main title" default="TORONTO ISLANDS"}” in bold, raised cream-white paper lettering near the upper-left area. Below it, add the exact tagline “{argument name="tagline" default="ESCAPE THE CITY"}” in smaller, widely spaced dark-navy uppercase letters. Keep both lines clearly readable, safely inside the margins, and away from the CN Tower.
+
+Vertical 4:5 composition. No crowds, malformed people, duplicated birds, excessive clutter, flat vector styling, plastic appearance, borders, logos, signatures, watermarks, or additional text.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2096053068496597006) | 2026-09-05
+
+---
+
