@@ -32972,3 +32972,306 @@ Vertical 4:5 composition. No crowds, malformed people, duplicated birds, excessi
 
 ---
 
+### 🎴 例 7546：70 年代复古迷幻海报
+
+![70 年代复古迷幻海报](../images/70%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E8%BF%B7%E5%B9%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在暖色调灰白色纸张上的实验性中世纪现代图形拼贴，结合了裁剪后的黑白侧面肖像与大胆的欧普艺术几何图形。人脸位于右侧，以粗糙的半色调和墨水纹理呈现，部分被一个巨大的黑色半圆形发型遮盖，发型中填充了密集的圆点和凌乱的笔触。构图中心是一个催眠般的黑白棋盘格漩涡，向外螺旋延伸，并与饱和原色的重叠有机色块碰撞：钴蓝色、朱红色、柠檬黄、青柠绿、淡粉色、灰色和奶油色。背景由精确的黑色网格、垂直条纹、点阵网屏和技术线条图案构成，并被一根高大的红色条纹柱打断。丝网印刷、手工剪贴拼贴质感，可见错位、不完美的墨迹边缘、陈旧的纸张纹理，1960 年代至 70 年代的实验性编辑设计，迷幻欧普艺术活力，非对称构图，视觉节奏密集但有序，无现代数字光泽。
+
+[English]
+Experimental mid-century modern graphic collage on warm off-white paper, combining a cropped black-and-white profile portrait with bold optical-art geometry. The face occupies the right side, rendered in coarse halftone and ink textures, partially obscured by a large black semicircular hair shape filled with dense dots and scratchy brush marks. From the center of the composition, a hypnotic black-and-white checkerboard vortex spirals outward, colliding with overlapping organic blobs in saturated primary colors: cobalt blue, vermilion red, lemon yellow, lime green, pale pink, gray and cream. Background built from precise black grids, vertical stripes, dot screens and technical line patterns, interrupted by a tall red striped column. Screen-printed, hand-cut collage quality, visible misregistration, imperfect ink edges, aged paper grain, 1960s–70s experimental editorial design, psychedelic Op Art energy, asymmetric composition, dense but controlled visual rhythm, no modern digital gloss.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2096634549186814143) | 2026-09-06
+
+---
+
+### 🎴 例 7550：实验性排版艺术海报
+
+![实验性排版艺术海报](../images/%E5%AE%9E%E9%AA%8C%E6%80%A7%E6%8E%92%E7%89%88%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 {argument name="构图比例" default="3:4"} 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分只提取照片中最具识别性的主体、轮廓、结构、姿态与叙事关系，重新做美术判断，重构为以字体图像化 + 字体蒙版 + 字图融合为核心的概念海报。不要完整复制照片，也不要把整张照片简单塞进文字，而是删去绝大多数背景与无关信息，只保留最关键的视觉记忆点，使主体与上方照片保持明确对应。
+
+根据原图主题自由提炼一个简短、有视觉力量的文字或词组，不限制语种。文字本身成为下半部分的主要构图结构：通过 Typography Masking / Extended Letterform 将主体影像嵌入字形，并对笔画进行延伸、裁切、拉长、错位或结构化重组，使字形同时成为窗口、边界、路径、柱体或空间框架。主体可局部穿出字形，与文字发生遮挡、连接或跨界，让“字”和“图”真正成为一个整体，而不是标题加图片。
+
+构图强调正负形与大量有意识的留白。文字与主体集中形成一个清晰视觉核心，其余区域大胆留空；可根据主体方向、比例和视觉重心偏心、贴边、悬置或局部裁切。通过字形尺度、笔画延展、图底转换和空白关系重新导演画面，即使原图背景杂乱、主体很小，也要通过删减、重组和尺度变化把它转化为一张成立的作品。倒影、镜像延伸或变形反射仅在原图具有水面、玻璃、地面或空间对应关系时使用，不强行添加。
+
+色彩保留上方照片最具记忆度和生命力的色彩关系，并适度提亮、提纯、去灰；字形内部的影像可以保留更鲜活的主体色，外部以暖白、{argument name="背景底色" default="奶油白"}或根据原图综合色温智能匹配的极浅背景形成大面积呼吸空间。整体颜色清晰、轻盈、有视觉冲击但不过度艳丽，避免暗沉、灰脏和廉价滤镜感。
+
+文字除核心字形外仅允许极少量辅助信息，采用纤细、冷静、具有现代编辑秩序与轻微实验排版感的字体，安静地置于留白、字形边缘或结构轴线上，与主字形建立尺度反差和阅读节奏。
+
+整体呈现 Typographic Photo Manipulation / Experimental Typography Poster / Type–Image Integration 的高级视觉效果，重点强调字形延展、字体蒙版、字图融合、正负形、大量留白与空间错觉。避免普通照片填字、完整场景复刻、文字堆砌、复杂背景、商业标题模板和廉价合成感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096593030228979876) | 2026-09-06
+
+---
+
+### 🎴 例 7552：ASICS 高端运动服饰广告
+
+![ASICS 高端运动服饰广告](../images/ASICS%20%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用此参考图并创作一张超高分辨率 (8K) 的 {argument name="brand" default="ASICS"} 高端运动服饰广告，呈现电影级、编辑风格的视觉效果。图像应融合写实的性能摄影与现代平面设计，适用于全球户外广告牌及数字营销活动。
+
+核心方向
+
+速度、控制与精准。
+拒绝混乱。拒绝夸张。
+一切都应显得经过精心设计且意图明确。
+
+主体与姿势
+
+{argument name="athlete" default="一名年轻的男性运动员（与参考图面部一致）"} 处于低位起跑姿势，稳健且充满力量。
+
+* 一只手触地
+* 前腿向前弯曲，后腿蓄势待发
+* 躯干微微前倾
+* 头部略微向上转动，表情专注
+* 身体呈对角线角度以营造深度感
+
+👉 这是一个即将爆发的瞬间，而非腾空状态。
+
+服装（色彩 – 精炼）
+
+* 外套：{argument name="jacket color" default="深青色"} 性能防风夹克
+    → 轻量化，带有轻微褶皱质感，细微反光
+* 内搭：烧焦橙色纹理性能 T 恤
+    → 透气网眼区域，汗水细节
+* 下装：哑光黑色紧身压缩裤
+    → 极简的 ASICS 图形线条
+* 袜子：白色中筒袜，带有小巧的 ASICS 标志
+
+保持色彩拼接但要有所克制，避免浮夸。
+
+核心产品（主要焦点）
+
+{argument name="shoes" default="ASICS 跑步鞋（白色底色 + 橙色点缀）"}
+
+* 超细节工程网眼材质
+* 具有深度的可见 GEL 缓震胶
+* 真实的鞋底纹理 + 轻微的泥土接触感
+* 清晰的品牌标识
+
+视角：
+
+* 前方鞋子为主体但比例真实
+* 整个画面中最锐利的焦点
+* 湿润地面上的细微倒影
+
+环境
+
+* 黑暗的工业风 / 隧道式场景
+* 湿润且具反光效果的地面
+* 背景轻微模糊以增加深度
+* 主体后方有橙色光束或光晕
+
+灯光
+
+* 强烈的定向主光（前/侧方）
+* 后方温暖的橙色轮廓光
+* 湿润地面上的细微反光
+* 受控的高光（无过曝的纯白）
+* 轻微的阴影渐变以增加深度
+
+平面设计层
+
+保持高端感，避免过度堆砌：
+
+排版：
+
+* 左侧大号粗体文字：
+    “RUN FASTER”
+  → “RUN” 为白色，“FASTER” 为橙色
+  → 带有轻微纹理，部分融合效果
+
+微型 UI（极简）：
+
+* 速度：28 km/h
+* 能量回馈：92%
+* 冲击力：高
+
+使用纤细、微妙的未来感字体。
+
+品牌标识：
+
+* 顶部角落的 ASICS 标志
+* 小号标语：“Sound Mind, Sound Body”
+
+地面交互
+
+* 鞋底下方有轻微的水花 + 灰尘混合效果
+* 细微的颗粒感，不过分夸张
+* 真实的接触阴影
+
+相机与镜头
+
+* 35–50mm 镜头
+* 低角度但受控
+* 浅景深
+* 背景边缘有轻微的运动模糊
+* 主体 + 产品清晰锐利
+
+色彩系统
+
+* 主色：青色 + 橙色
+* 辅色：黑色、白色
+* 略微降低饱和度以体现高端感
+* 在不产生过饱和的情况下保持对比度
+
+最终质感
+
+* 看起来像真实的摄影作品，而非 CGI
+* 产品优先的层级结构
+* 简洁、高端、高性能。
+
+[English]
+Use this reference image and Create an ultra-high resolution (8K) premium {argument name="brand" default="ASICS"} sportswear advertisement with a cinematic, editorial feel. The image should blend realistic performance photography with modern graphic design, suitable for global billboard and digital campaigns.\n\nCore Direction\n\nSpeed, control, and precision.\nNot chaos. Not exaggeration.\nEverything should feel engineered and intentional.\n\nSubject & Pose\n\n{argument name="athlete" default="A young athletic male (same face as reference)"} in a low sprint-start stance, grounded and powerful.\n\n* one hand touching the ground\n* front leg bent forward, back leg ready to drive\n* torso slightly leaning forward\n* head turned slightly upward, focused expression\n* body angled diagonally to create depth\n\n👉 This is a ready-to-explode moment, not mid-air.\n\nOutfit (Colored – Refined)\n\n* Jacket: {argument name="jacket color" default="deep teal"} performance windbreaker\n    → lightweight, slight crinkle texture, subtle reflections\n* Inner: textured burnt-orange performance tee\n    → breathable mesh zones, sweat detail\n* Bottom: matte black compression tights\n    → minimal ASICS graphic lines\n* Socks: white crew with small ASICS logo\n\nKeep it color-blocked but controlled, not flashy.\n\nHero Product (Main Focus)\n\n{argument name="shoes" default="ASICS running shoes (white base + orange accents)"}\n\n* ultra-detailed engineered mesh\n* visible GEL cushioning with depth\n* realistic sole texture + slight dirt contact\n* crisp branding\n\nPerspective:\n\n* front shoe dominant but realistic scale\n* sharpest focus in entire frame\n* subtle reflection on wet ground\n\nEnvironment\n\n* dark industrial / tunnel-like setting\n* wet reflective ground surface\n* background slightly blurred for depth\n* orange light streaks or glow behind subject\n\nLighting\n\n* strong directional key light (front/side)\n* warm orange rim light from behind\n* subtle reflections on wet ground\n* controlled highlights (no blown whites)\n* slight shadow gradient for depth\n\nGraphic Design Layer\n\nKeep it premium, not overloaded:\n\nTypography:\n\n* large bold text on left:\n    “RUN FASTER”\n  → “RUN” in white, “FASTER” in orange\n  → slightly textured, partially blended\n\nMicro UI (minimal):\n\n* Velocity: 28 km/h\n* Energy Return: 92%\n* Impact: High\n\nUse thin, subtle futuristic fonts.\n\nBranding:\n\n* ASICS logo top corner\n* small tagline: “Sound Mind, Sound Body”\n\nGround Interaction\n\n* light water splash + dust mix under shoe\n* subtle particles, not exaggerated\n* realistic contact shadow\n\nCamera & Lens\n\n* 35–50mm lens\n* low angle but controlled\n* shallow depth of field\n* slight motion blur on background edges\n* crisp subject + product\n\nColor System\n\n* primary: teal + orange\n* secondary: black, white\n* slightly desaturated for premium feel\n* maintain contrast without oversaturation\n\nFinal Feel\n\n* looks like a real photoshoot, not CGI\n* product-first hierarchy\n* clean, premium, high-performance.
+```
+
+**来源：** [@Dr Bloodline | AI](https://x.com/AiwithBloodline/status/2096577958542794921) | 2026-09-06
+
+---
+
+### 🎴 例 7578：奢华 KFC 时尚炸鸡广告
+
+![奢华 KFC 时尚炸鸡广告](../images/%E5%A5%A2%E5%8D%8E%20KFC%20%E6%97%B6%E5%B0%9A%E7%82%B8%E9%B8%A1%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand name" default="KFC"} 创作一张精品时尚快餐广告海报。采用 4:5 竖版编辑构图，使用低角度动态视角：一位优雅的东亚年轻女性身着精致的红白配色服装，身体前倾朝向观众，伸手探入前景中一个超大号的红白条纹炸鸡桶。她指尖捏着一块金黄酥脆的炸鸡，空气中悬浮着清晰可见的碎屑和细小的酥脆鳞片。桶内可见 7 块炸鸡：手中 1 块，中间簇拥 4 块，前缘底部 1 块模糊的大块，右侧边缘 1 块大块。炸鸡桶正面需展示简洁的黑色上校头像 Logo 和醒目的 {argument name="brand text" default="KFC"} 字样。模特妆容精致迷人，红唇，肤色红润有光泽，深色长发盘成优雅凌乱的发髻，佩戴小巧的金质圆圈耳环，表情自信诱人，略微俯视镜头。服装：深红色无袖修身上衣或连衣裙，白色短款夹克配卷袖，白色高腰裹裙或围裙式裁片，搭配红色侧边，营造出奢华的红白品牌色调。背景：极简主义奶油色摄影棚墙面，带有强烈的几何红色建筑面板和对角线阴影，温暖的阳光，高端商业摄影布光，浅景深，炸鸡纹理清晰，呈现时尚杂志般的光泽感。在左上方添加标题文本：{argument name="headline text" default="CRAVE THE CRUNCH"}，使用宽间距大写衬线字体，深红色。下方添加较小的副标题：{argument name="subheading text" default="Freshly crispy. Made to tempt."}。排版保持优雅简洁，留出充足的负空间。风格应融合奢华时尚大片与快餐广告，照片级写实，细节丰富，食物纹理诱人，手部伸展动作具有动态感，除桶身品牌标识和海报文字外，不添加任何额外的 Logo 或水印。
+
+[English]
+Create a luxury fashion fast-food advertisement for {argument name="brand name" default="KFC"} with a vertical 4:5 editorial composition. A stylish young East Asian woman in a refined red-and-white uniform-inspired outfit reaches dynamically toward the camera to grab one piece of crispy fried chicken from an oversized red-and-white striped chicken bucket in the foreground. The bucket is packed with exactly 8 visible golden fried chicken pieces, with crunchy crumbs and tiny flakes flying in the air around her hand. Show the brand logo on the front of the bucket: Colonel-style face icon above the text “KFC”. The model has loose dark hair in an elegant messy updo, soft glowing skin, subtle warm makeup, red lips, and small gold hoop earrings; her expression is confident, tempting, and slightly glamorous as she looks toward the viewer. Outfit details: cream cropped jacket with rolled sleeves, deep red sleeveless top, red waist sash/belt, cream high-waisted wrap-style skirt or apron panel over red fabric, clean tailored fashion styling. Use a low-angle wide-lens perspective from near the bucket, making the fried chicken large and tactile in the foreground and the model’s reaching arm create motion and depth. Background: minimalist geometric red-and-cream studio architecture with bold red wall planes, warm sunlight, soft shadows, premium commercial photography mood. Add elegant ad copy in the upper left: headline “{argument name="headline text" default="CRAVE THE CRUNCH"}” in spaced uppercase serif letters, and smaller subheadline “{argument name="subheadline text" default="Freshly crispy. Made to tempt."}”. Color palette: rich KFC red, warm cream, golden-brown chicken, high-end glossy food styling. Lighting should be cinematic, warm, clean, and polished, with shallow depth of field, crisp details on the chicken crust, and a premium fashion magazine advertising finish. Avoid extra text, extra logos, distorted hands, or messy packaging.
+```
+
+**来源：** [@CaiKa AI](https://x.com/Caika_app/status/2096455748549234937) | 2026-09-06
+
+---
+
+### 🎴 例 7582：东方禅意极简壁纸
+
+![东方禅意极简壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报 风格分支：女性审美清透型 主体内容：{argument name="主体内容" default="一位古风女子从门洞前缓步经过，姿态轻盈"} 情绪母题：{argument name="情绪" default="明净、轻快、春日呼吸感"} 场景与意象：白墙、晴空蓝门洞、樱花粉花影、少量叶片、人物 构图与空间：{argument name="构图" default="9:16 竖版构图"}，门洞位于中上部形成视觉框景，人物位于下方偏中，门洞上方 and 两侧保留大面积干净留白 色彩控制：暖白作为墙面基底，晴空蓝用于门洞和局部天空色块，樱花粉用于花影点睛，叶片用清亮嫩绿；避免背景整体发粉或发蓝 光线与质感：清透自然光，画面低灰度，边缘清晰，现代东方封面插画感 画幅比例：9:16 补充要求：画面要通透、轻松、有高颜值封面感，不要厚重古风氛围
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2096441444366180494) | 2026-09-06
+
+---
+
+### 🎴 例 7588：复古 Fitz Roy 旅行海报
+
+![复古 Fitz Roy 旅行海报](../images/%E5%A4%8D%E5%8F%A4%20Fitz%20Roy%20%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级复古奢华旅行海报，采用柔和的手绘水彩风格，背景为暖色调的奶油色纹理纸张。海报应以 {argument name="destination name" default="Fitz Roy"} 为主题，地点设在 {argument name="region text" default="巴塔哥尼亚 · 阿根廷"}。构图应呈现壮丽的高山景观：背景为锯齿状且覆盖积雪的 Fitz Roy 山峰，前景为崎岖的岩石地形和散落的巨石，中景为色彩鲜艳的绿松石色冰川湖。在右下角前景处添加一位女性徒步旅行者，以写实风格绘制并融入水彩海报的整体质感：年轻女性，留着棕色长发，戴着深蓝色针织帽，穿着深色徒步夹克，背着蓝色背包，侧身面向观众，神情平静。在景观周围使用富有表现力的干笔水彩边缘，保留奶油色纸张作为不规则边框。在主标题上方，加入小号大写文字 {argument name="top label" default="WILD PLACES"}，并配以细横线分隔。使用大号且字间距宽敞的衬线字体作为主标题 {argument name="destination name" default="FITZ ROY"}，较小的全大写副标题 {argument name="region text" default="PATAGONIA · ARGENTINA"}，以及手写草书标语 {argument name="tagline" default="where mountains touch the sky."}。在底部中心添加一个极简风格的小型山峰图标，并配以细装饰线。配色方案：暖奶油色、深蓝色字体、冰雪白、板岩蓝、赭石棕以及明亮的绿松石色水体。垂直海报格式，居中构图，精致的旅行海报排版，无额外 Logo，无水印。
+
+[English]
+Create a premium vintage luxury travel poster in a soft hand-painted watercolor style on warm cream textured paper. The poster should feature {argument name="destination name" default="Fitz Roy"} in {argument name="region text" default="Patagonia · Argentina"}. Compose a dramatic alpine scene with jagged snow-covered Fitz Roy peaks in the background, rugged rocky terrain and scattered boulders in the foreground, and a vivid turquoise glacial lake in the middle ground. Add one female hiker in the lower right foreground, photographed/painted realistically but blended into the watercolor poster style: young woman with long brown hair, wearing a dark navy knit beanie, dark hiking jacket, and blue backpack, standing turned slightly toward the viewer with a calm expression. Use expressive dry-brush watercolor edges around the landscape, leaving the cream paper visible as an irregular border. Above the main title, include small uppercase text {argument name="top label" default="WILD PLACES"} with thin horizontal divider lines. Use a large elegant spaced serif title reading {argument name="destination name" default="FITZ ROY"}, a smaller uppercase subtitle reading {argument name="region text" default="PATAGONIA · ARGENTINA"}, and a handwritten cursive tagline reading {argument name="tagline" default="where mountains touch the sky."}. Add a small minimalist mountain icon centered at the bottom with thin decorative lines. Color palette: warm cream, deep navy typography, icy whites, slate blues, ochre browns, and bright turquoise water. Vertical poster format, centered composition, refined travel-poster typography, no extra logos, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2096424759819133399) | 2026-09-06
+
+---
+
+### 🎴 例 7589：奢华时尚杂志封面生成器
+
+![奢华时尚杂志封面生成器](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端、超写实的时尚编辑风格杂志封面，使用我的 {argument name="identity reference" default="上传的女性面部"} 作为主要女性主体的唯一身份参考。精准保留我的面部特征和自然外观——包括面部结构、肤色、眼睛、眉毛、鼻子、嘴唇、颧骨、下颌线、面部比例、自然的皮肤纹理以及整体相似度。确保我具有极高的辨识度。请勿进行美化、重塑、女性化、衰老、减龄或改变我的面部特征。在保持参考图像的整体构图、时尚美学、光影效果、排版布局和编辑氛围的同时，创作出一个原创设计。姿势与造型：一位优雅的女性时尚模特，采用精致的四分之三侧面姿势，视线略微向左。她佩戴一顶夸张的宽檐雕塑感帽子，身着奢华飘逸的时尚服装，颈部配有高领垂坠设计。服装应体现前卫、优雅和高级定制感。配色方案：{argument name="colors" default="深勃艮第红、深红、酒红和黑色"}，并带有微妙的色调渐变。使用戏剧性的电影级光影，面部带有柔和的高光，阴影强烈，营造出神秘的奢华时尚氛围。背景：极简主义的深勃艮第红编辑背景，带有平滑的渐变，底部过渡至近黑色。干净、精致、高端的时尚杂志美学。排版：在左上方创建一个优雅的大号衬线杂志标题，文字为“{argument name="magazine name" default="FASHION"}”，采用精致的编辑排版。添加：“NEW FASHION”、“NEW COLLECTION”。包含一个小型的编辑文本框，内容为：“MORE THAN 20 BEST BODY OUTFIT”。在下方中心附近，添加标题：“SECRETS OF”、“BEAUTY”。在下方添加一行小巧的手写风格标语：“IT’S ALL ABOUT FASHION”。排版应看起来专业、平衡、精致，并自然地融入构图中。避免出现乱码或拼写错误。摄影风格：超写实专业时尚摄影、奢华杂志编辑风格、电影级影棚灯光、真实的皮肤纹理、细腻的织物细节、微妙的阴影、高动态范围、精致的构图、高级印刷质量。构图：垂直杂志封面布局，主体位于右侧，左侧留有充足的负空间用于排版。确保帽子帽檐下的面部清晰可见。具备强烈的视觉层级，呈现出媲美《Vogue》或《Harper’s Bazaar》的精致编辑水准。
+
+[English]
+Create a premium, hyper-realistic high-fashion editorial magazine cover using my {argument name="reference face" default="uploaded female face"} as the ONLY identity reference for the main female subject.
+
+Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter my facial features.
+
+Recreate the overall composition, fashion aesthetic, lighting, typography placement, and editorial mood of the reference image, while creating an original design.
+
+Pose & styling: A sophisticated female fashion model shown in an elegant three-quarter/profile pose, looking slightly toward the left. She wears a dramatic {argument name="accessory" default="oversized wide-brim sculptural hat"} and a luxurious flowing fashion outfit with a high draped collar/cowl around the neck. The outfit should feel avant-garde, elegant, and couture.
+
+Color palette: Deep burgundy, crimson red, wine red, and black, with subtle tonal gradients. Use dramatic cinematic lighting with soft highlights across the face and strong shadows for a mysterious luxury-fashion atmosphere.
+
+Background: Minimalist deep burgundy editorial backdrop with a smooth gradient transitioning toward near-black at the bottom. Clean, sophisticated, premium fashion-magazine aesthetic.
+
+Typography: Create a large elegant serif magazine title at the upper left reading “FASHION”, with sophisticated editorial typography. Add:
+“NEW FASHION”
+“NEW COLLECTION”
+
+Include a small editorial text box reading:
+“MORE THAN 20 BEST BODY OUTFIT”
+
+Near the lower center, add the headline:
+“SECRETS OF”
+“BEAUTY”
+
+Add a small handwritten-style tagline beneath:
+“IT’S ALL ABOUT FASHION”
+
+Typography should look professionally typeset, balanced, refined, and integrated naturally into the composition. Avoid random or misspelled text.
+
+Photography style: ultra-realistic professional fashion photography, luxury magazine editorial, cinematic studio lighting, realistic skin texture, detailed fabric, subtle shadows, high dynamic range, sophisticated composition, premium print-quality finish.
+
+Composition: vertical magazine-cover layout, subject positioned toward the right side with generous negative space on the left for typography. Keep the face clearly visible beneath the hat brim. Strong visual hierarchy and polished Vogue/Harper’s Bazaar-inspired editorial sophistication.
+```
+
+**来源：** [@Aniya Intelligence](https://x.com/aniyaintel/status/2096421441269108893) | 2026-09-06
+
+---
+
+### 🎴 例 7591：等轴测 3D 建筑模型透视海报
+
+![等轴测 3D 建筑模型透视海报](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%203D%20%E5%BB%BA%E7%AD%91%E6%A8%A1%E5%9E%8B%E9%80%8F%E8%A7%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 {argument name="比例" default="3:4"} 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分只提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，不要完整复制照片，不要保留所有对象，不要逐物转绘；主动删去大部分无关背景与细节，只保留最能代表原始主题的核心信息，并重新做美术判断。哪怕原图构图差、背景乱、主体小，也要通过删减、重组、裁切、尺度变化和留白，把它重新导演成一张成立的作品。
+
+下半部分的美学逻辑重构为 **Stylized Isometric 3D Architectural Diorama / Orthographic Axonometric 3D Render**。采用**正交相机 + 四分之三俯视轴测视角**，大约 30°–40° 俯视、45° 左右水平旋转，同时看到正面、侧面和顶部，呈现模型、沙盘、微缩世界般的空间感。不要做成真实摄影透视，也不要做成纯地图或立面图。
+
+将主体重构为一个**风格化 3D 微缩场景**：以主体为核心，只保留少量必要的环境线索，如地形、道路、水体、平台、植物、建筑或器物，使其组成一个完整但高度概括的小世界。整体是 **stylized 3D**，不是 low-poly，也不是写实 CG；强调规整几何、适度圆角、简化材质、玩具化比例、干净体块、细腻层次与柔和光照，可有精致细节，但不能复杂拥挤。
+
+构图保持**小尺度主体 + 超大量有意识的留白**。微缩场景不必居中，可根据主体方向、比例和视觉重心自由安排，可偏心、贴边或局部裁切。留白不是空背景，而是画面的一部分，要与主体共同形成呼吸感、空间感和高级秩序。宁可少，不要满。
+
+配色从上方照片中提取 **2–4 种最有生命力、最有记忆点的颜色**重新调制，适度提亮、提纯、去灰，形成更明快、干净、治愈的综合色关系。整体保持鲜活但不刺眼，温暖但不甜腻，可自然转化为{argument name="色系" default="天空蓝、湖水青、草木绿、奶油黄"}等清爽色系；避免灰脏、暗沉、陈旧、荧光色和廉价塑料感。
+
+文字只作极少量编辑性介入，不限制语种。可根据主体、地点、动作、情绪或隐喻，自由生成少量标题、短句或注记，安静地落在留白区域，与画面形成精致的图文关系。
+
+整体呈现**风格化轴测 3D 微缩场景、清晰空间关系、精致模型感、鲜活配色、超大量艺术留白与编辑式排版**共同构成的高级视觉效果。避免完整复制原图、复杂堆积、写实透视、低质 low-poly、廉价游戏感、塑料感、画面填满和模板化效果。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096404971428438090) | 2026-09-06
+
+---
+

@@ -9164,3 +9164,87 @@ Constraints: Make the final canvas square, poster-like, clean and premium. Keep 
 
 ---
 
+### 🧍 例 7553：上钩海鲈鱼设定图
+
+![上钩海鲈鱼设定图](../images/%E4%B8%8A%E9%92%A9%E6%B5%B7%E9%B2%88%E9%B1%BC%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的动漫制作设定插图，主体为 {argument name="fish species" default="日本真鲈"}，采用正左侧面视角，水平居中于深藏青色背景上。鱼身修长且写实，但具有手绘动画参考图的风格，背部呈深蓝灰色，腹部为银白色，带有清晰的重叠鳞片、浅色侧线、硕大的金色眼睛、轮廓分明的鳃盖以及利落的墨线。需准确展示 7 个可见鳍：背部前方的第一背鳍、其后的第二背鳍、巨大的叉形尾鳍、可见侧的胸鳍、头部下方的腹鳍、后部下方的臀鳍，以及身体后方部分可见的下鳍边缘。添加一根从左侧进入鱼嘴的细鱼线，并在微张的嘴部内放置一个小巧的金属拟饵或钩具，使鱼钩看起来是挂在嘴里，而非悬浮在外部；拟饵应保持低调，并被唇部部分遮挡。运用精细的鳍条、细腻的鳞片纹理、柔和的自然色调、轻微的赛璐珞阴影，呈现出精致的概念艺术质感。无标签，无额外物体，无水印，无边框。
+
+[English]
+Create a clean anime production setting illustration of a {argument name="fish species" default="Japanese sea bass"} in full left-facing side profile, centered horizontally on a deep navy blue background. The fish should be long and realistic but stylized like a hand-painted animation reference sheet, with a dark bluish-gray back, silver-white belly, visible overlapping scales, a pale lateral line, large golden eye, defined gill plates, and crisp ink outlines. Show exactly 7 visible fins: one spiny dorsal fin near the front of the back, one soft dorsal fin behind it, one large forked tail fin, one pectoral fin on the visible side, one pelvic fin underneath near the head, one anal fin underneath near the rear, and a small lower fin edge partially visible behind the body. Add a thin fishing line entering from the left into the fish’s mouth and a small metallic lure or hook rig positioned inside the open mouth so that the hook appears caught in the mouth, not floating outside; keep the lure subtle and partially hidden by the lips. Use detailed fin rays, delicate scale texture, muted natural colors, soft cel-shading, and a polished concept-art look. No labels, no extra objects, no watermark, no border.
+```
+
+**来源：** [@FinishFish | AI Anime](https://x.com/finishfish_ai/status/2096576322382504251) | 2026-09-06
+
+---
+
+### 🧍 例 7565：VALORANT Agent 概念参考图
+
+![VALORANT Agent 概念参考图](../images/VALORANT%20Agent%20%E6%A6%82%E5%BF%B5%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个全新的、与以往版本完全不同的高端 VALORANT 风格女性 Agent 角色参考图。设计一位具有强大、自信、神秘个性且轮廓鲜明的原创女性 Agent。
+
+角色设计：年轻女性，眼神犀利且富有表现力，五官精致，深色长发，带有 {argument name="highlight color" default="深绯红色挑染"}，略显凌乱的层次感发型，佩戴精致耳钉，表情自信。请勿重复使用之前的紫色头发角色设计。
+
+服装：未来感黑色战术街头服饰与高级时装元素的结合——短款装甲上衣、超大号不对称夹克、战术工装裤、多功能腰带、绑带、手套、护膝以及未来感高帮作战靴。在整套服装中加入 {argument name="accent color" default="绯红色"} 发光装饰，并设计一个独特的棱角分明的 Agent 徽章。
+
+配色方案：哑光黑、炭灰、米白、深银色和鲜艳的绯红色。避免使用紫色和蓝色。
+
+参考图布局：
+左侧为大型电影级全身英雄姿态
+正面、侧面、背面及 3/4 转向视图
+大型面部特写肖像
+六种表情：中性、严肃、冷笑、愤怒、悲伤、自信
+眼睛、头发、耳钉、手套、夹克、腰带和徽章的特写
+未来感步枪和战术刀设计
+配色色板
+多个角色剪影
+小型动作/游戏内姿态面板
+简洁专业的角色设计注释
+
+视觉风格：高端动漫游戏概念艺术，顶级 FPS 角色设计，电影级赛璐珞渲染，写实人体结构，线条锐利清晰，布料细节丰富，写实战术装备，戏剧性的红色轮廓光，微妙的大气烟雾，动态构图，细节极其丰富，呈现 AAA 级游戏角色质感。
+
+平面设计：专业的 VALORANT 风格角色档案，黑色电影感区域与简洁的白色参考项目面板相结合，棱角分明的图形形状，未来感 UI 元素，醒目的排版和极简的技术标签。
+
+排版：显著展示 “VALORANT” 和一个全新的 Agent 代号 “{argument name="agent name" default="VANTA"}”。添加简短的战术短语，例如 “MOVE WITHOUT WARNING.”（无预警移动）、“CONTROL THE ANGLE.”（控制角度）和 “PLAY DIFFERENT.”（与众不同）。
+
+[English]
+Create a premium VALORANT-inspired female agent character reference sheet in a completely new design, different from previous versions. Create an original female agent with a strong, confident, mysterious personality and a distinctive silhouette.
+
+Character design: young adult woman, sharp expressive eyes, elegant facial features, long dark hair with {argument name="highlight color" default="deep crimson/red highlights"}, slightly messy layered hairstyle, subtle ear piercings, confident expression. Do not reuse the previous purple-haired character design.
+
+Outfit: futuristic black tactical streetwear mixed with high-fashion elements — cropped armored top, oversized asymmetrical jacket, tactical cargo pants, utility belts, straps, gloves, knee protection and futuristic high-top combat sneakers. Add {argument name="accent color" default="crimson red"} glowing accents throughout the outfit and a unique angular agent insignia.
+
+Color palette: matte black, charcoal gray, off-white, dark silver and vivid crimson red. Avoid purple and blue.
+
+Reference sheet layout:
+Large cinematic full-body hero pose on the left
+Front, side, back and 3/4 turnaround views
+Large close-up face portrait
+Six expressions: neutral, serious, smirk, angry, sad, confident
+Eye, hair, ear-piercing, glove, jacket, belt and insignia close-ups
+Futuristic rifle and tactical knife design
+Color palette swatches
+Multiple character silhouettes
+Small action/in-game pose panel
+Clean professional character-design annotations
+
+Visual style: high-end anime game concept art, premium FPS character design, cinematic cel shading, realistic anatomy, sharp clean linework, detailed fabric, realistic tactical equipment, dramatic red rim lighting, subtle atmospheric smoke, dynamic composition, extremely detailed, polished AAA game character presentation.
+
+Graphic design: professional VALORANT-style character dossier, black cinematic sections combined with clean white reference-board panels, angular graphic shapes, futuristic UI elements, bold typography and minimal technical labels.
+
+Typography: prominently display “VALORANT” and a completely new agent codename, “{argument name="agent name" default="VANTA"}”. Add short tactical phrases such as “MOVE WITHOUT WARNING.”, “CONTROL THE ANGLE.”, and “PLAY DIFFERENT.”
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2096502752579059933) | 2026-09-06
+
+---
+

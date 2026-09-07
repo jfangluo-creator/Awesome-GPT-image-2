@@ -8983,3 +8983,67 @@ Create a highly detailed isometric 3D miniature diorama of a cozy American-style
 
 ---
 
+### 🧸 例 7548：毛绒小狗剪贴簿海报
+
+![毛绒小狗剪贴簿海报](../images/%E6%AF%9B%E7%BB%92%E5%B0%8F%E7%8B%97%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温暖的编辑风格海报拼贴画，讲述一只可爱的毛绒小狗吉祥物过着更安静、更幸福生活的故事，采用撕纸收据美学和电影感琥珀色摄影风格。以 {argument name="character name" default="一只毛茸茸的白色毛绒小狗"} 作为唯一角色：圆脸、垂耳、黑色珠子眼睛、简单的黑色微笑嘴、柔软的圈圈绒质感，穿着黑色燕尾服外套、白衬衫、黑色领结，并别着一朵红色康乃馨胸花。
+
+画布：垂直 3:4 海报，约 900 × 1200 像素。将构图分为两个主要区域：上半部分为深色电影感照片，下半部分为明亮的剪贴簿拼贴画。
+
+上半部分：展示毛绒小狗自信地坐在磨损的棕色扶手椅中央，双腿交叉，手臂搁在椅子的扶手上。环境是一个昏暗的休息室或书房，带有温暖的金色光线、深邃的阴影、背景中模糊的书架或类似钢琴的水平高光，最左侧有台灯的微光，最右侧有一个放着深色杯子或烟灰缸的小圆边桌。使用胶片颗粒感、高对比度、深褐色调和舒适的黑色电影氛围。
+
+顶部文字：包含 3 个文本块。左侧垂直文本块写着“A QUIETER LIFE LOOKS GOOD ON ME.”，下方有一条短横线，再下方是微小的文字“SAME SOUL BRIGHTER DAYS.”。右侧手写文本块写着“Same Dog Different Day.”并带有下划线。保持字体混合：左侧为优雅的间距衬线大写字母，右侧为随性的手写体。
+
+下半部分：在带有撕裂边缘、米色美纹纸胶带、黑色复印碎片、灰色纸矩形和收据式标签的灰白色纹理背景上，创作手工纸拼贴画。放置 3 个与狗相关的图像碎片：1 张位于中央的大型撕裂照片，展示穿着燕尾服的毛绒小狗特写，略微倾斜；1 张位于右下角的小型拍立得风格照片，展示小狗爪子/脸部的细节特写；1 枚位于右上角的火漆印章，印有简单的狗脸线条画。在左下角贴上一根真实的红色康乃馨花茎，与胸花相呼应。
+
+底部文字和纸张元素：包含 7 个可读文本元素：左上角的一张手写便条，写着“Good Company Brings Better Days.”并带有一个小心心；左侧的一张黑色纸标签，写着“A SOFTER STRONGER HAPPIER ME.”；底部中央附近的一张小票据，写着“DAILY JOY / Small Moments / Big Happiness / No. 0723”；右上角的一张手写便条，写着“More Good Days Ahead.”并带有下划线；拍立得旁边的一张小纸条，写着“Still Here Still Me :)”；右下角的一张灰色标签，写着“A KINDER BRAVER HAPPIER TOMORROW.”；左中拼贴区域附近的一颗手绘小星星。
+
+视觉风格：结合奢华杂志封面的灯光与模拟剪贴簿设计，包含撕裂的收据、胶带痕迹、可见的纸张纤维、不完美的阴影、复印的黑色纹理、手写的乐观情绪，以及奶油色、浓缩咖啡棕色、黑色、暖琥珀色、灰色和深红色的柔和色调。氛围应感觉温柔、坚韧、怀旧且时尚。
+
+约束条件：仅使用一个毛绒小狗角色，底部拼贴画中正好包含 3 个与狗相关的图像碎片，正好 1 根红色康乃馨花茎，以及正好 7 个可读的底部文本元素。避免出现额外角色、现代 UI 元素、光泽塑料、霓虹色或干净的矢量图形。主要信息主题：{argument name="main theme" default="same dog, different day; quieter life, brighter days"}。
+
+[English]
+Goal: Create a warm editorial poster collage about a cute plush dog mascot living a quieter, happier life, using a torn-paper receipt aesthetic and cinematic amber photography. Feature {argument name="character name" default="a fluffy white plush dog"} as the only character: round face, floppy ears, black bead eyes, simple black smiling mouth, soft boucle texture, wearing a black tuxedo jacket, white shirt, black bow tie, and a small red carnation boutonniere.
+
+Canvas: Vertical 3:4 poster, approximately 900 × 1200 px. Split the composition into two main zones: a dark cinematic photograph on the top half and a bright scrapbook collage on the bottom half.
+
+Top half: Show the plush dog seated confidently in the center of a worn brown armchair, legs crossed, arms resting on both chair arms. The environment is a dim lounge or study with warm golden light, deep shadows, blurred shelves or piano-like horizontal highlights in the background, a table lamp glow at far left, and a small round side table with a dark cup or ashtray at far right. Use film grain, high contrast, sepia-black tones, and cozy noir atmosphere.
+
+Top text: Include exactly 3 text blocks. Left vertical block reads “A QUIETER LIFE LOOKS GOOD ON ME.” with a small horizontal line underneath and tiny text below reading “SAME SOUL BRIGHTER DAYS.” Right handwritten block reads “Same Dog Different Day.” with an underline. Keep typography mixed: elegant spaced serif capitals on the left, loose handwritten script on the right.
+
+Bottom half: Create a handmade paper collage on an off-white textured background with torn edges, beige masking tape, black photocopy scraps, gray paper rectangles, and receipt-like labels. Place exactly 3 dog-related image pieces: 1 large central torn photograph of the plush dog’s close-up in the tuxedo, slightly tilted; 1 small Polaroid-style photo at the lower right showing a close-up of the dog’s paw/face detail; 1 wax seal at upper right stamped with a simple line drawing of the dog face. Add exactly 1 real red carnation stem taped at the lower left, matching the boutonniere.
+
+Bottom text and paper elements: Include exactly 7 readable text elements: 1 handwritten note at upper left reading “Good Company Brings Better Days.” with a small heart; 1 black paper label at left reading “A SOFTER STRONGER HAPPIER ME.”; 1 small ticket near bottom center reading “DAILY JOY / Small Moments / Big Happiness / No. 0723”; 1 handwritten note at upper right reading “More Good Days Ahead.” with underline; 1 small note beside the Polaroid reading “Still Here Still Me :)”; 1 gray label at lower right reading “A KINDER BRAVER HAPPIER TOMORROW.”; 1 small hand-drawn star near the left-middle collage area.
+
+Visual style: Combine luxury magazine cover lighting with analog scrapbook design, torn receipts, tape marks, visible paper fibers, imperfect shadows, photocopied black textures, handwritten optimism, and a muted palette of cream, espresso brown, black, warm amber, gray, and deep red. The mood should feel gentle, resilient, nostalgic, and stylish.
+
+Constraints: Use only one plush dog character, exactly 3 dog-related image pieces in the bottom collage, exactly 1 red carnation stem, and exactly 7 readable bottom text elements. Avoid extra characters, modern UI elements, glossy plastic, neon colors, or clean vector graphics. Main message theme: {argument name="main theme" default="same dog, different day; quieter life, brighter days"}.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096614609457488312) | 2026-09-06
+
+---
+
+### 🧸 例 7555：地中海村庄手绘微缩模型
+
+![地中海村庄手绘微缩模型](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%9D%91%E5%BA%84%E6%89%8B%E7%BB%98%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个迷人的手工微缩旅行场景，展现一个风景如画的 {argument name="location" default="地中海海滨村庄"}。画面中，一条狭窄的白色石子路直通波光粼粼的绿松石色大海，两侧是布满彩色花卉和绿植的古老质感石屋。细节包括条纹布遮阳棚、拱形窗户、悬挂的花盆、精致的串灯、复古壁灯、水面上漂浮的小船，以及远处带有赤陶红屋顶的白色沿海小屋。采用丰富的手绘质感、可见的笔触、略显不完美的细节、柔和的雕塑感造型、鲜艳而和谐的色彩，营造出梦幻般的绘本氛围。在前景中加入大量 {argument name="flower colors" default="玫瑰粉、向日葵黄、珊瑚色、白色、薰衣草紫和蓝色"} 的花卉，使构图更加繁茂。风格：{argument name="art style" default="手工绘制微缩模型"}，地中海明信片，民间艺术插画，水粉质感，奇幻绘本，温暖阳光，精致微小细节，竖构图，无人物。
+
+[English]
+Create a charming handcrafted miniature travel scene of a picturesque {argument name="location" default="Mediterranean seaside village"}. Show a narrow white-stone walkway opening directly toward a sparkling turquoise sea, framed by old textured stone buildings covered with overflowing colorful flowers and leafy plants. Feature striped fabric awnings, arched windows, hanging flower pots, delicate string lights, vintage wall lanterns, tiny boats floating on the water, and small white coastal houses with terracotta-red roofs in the distance. Use a rich hand-painted texture, visible brushstrokes, slightly imperfect details, soft sculpted forms, vibrant but harmonious colors, and a dreamy illustrated storybook atmosphere. Add abundant flowers in {argument name="flower colors" default="rosy pink, sunflower yellow, coral, white, lavender, and blue"}, creating a lush foreground framing the composition. Style: {argument name="art style" default="handcrafted painted miniature"}, Mediterranean postcard, folk-art illustration, textured gouache, whimsical storybook, warm sunlight, intricate tiny details, vertical composition, no people.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2096573553202368858) | 2026-09-06
+
+---
+

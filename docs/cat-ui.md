@@ -15483,3 +15483,177 @@ Visual style: The surrounding chat UI should look like a real screenshot in dark
 
 ---
 
+### 🖥️ 例 7554：冬日随性智能手机人像
+
+![冬日随性智能手机人像](../images/%E5%86%AC%E6%97%A5%E9%9A%8F%E6%80%A7%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{"prompt": "一张高度写实的户外智能手机全身照，拍摄对象是一位年轻女性，正站在冬日下午柔和阳光下的安静城市街道上。她留着深棕色长直发，自然地垂在肩头，发丝细节逼真。她表情温柔愉悦，双眼微闭，头部微微倾斜，呈现出一种俏皮且随性的姿态。她站姿舒适，双臂交叉，一只脚轻轻向后抬起。", "subject": {"gender": "年轻女性", "hair": "深棕色长直发，自然垂在肩头", "expression": "温柔、愉悦、轻松的微笑，双眼微闭", "pose": "头部微微倾斜，双臂舒适交叉，一只脚轻轻向后抬起，呈现俏皮随性的姿态"}, "outfit": {"outerwear": "超大款淡薰衣草蓝衬衫", "top": "精致的白色蕾丝边上衣", "bottom": "短款飘逸白色层叠裙", "bag": "单肩背着的小巧奶油色双肩包", "shoes": "干净的白色运动鞋"}, "background": {"location": "安静的城市街道", "wall": "带有几何方形细节的复古奶油色纹理墙面", "details": ["光秃的攀爬藤蔓", "小型深色标志", "停放的汽车", "细微的城市街道元素"]}, "lighting": {"time": "冬日下午", "style": "自然暖阳", "effects": ["发丝周围细微的暖色光晕", "柔和的自然阴影", "淡淡的写实镜头光晕"]}, "photography": {"camera_style": "自然智能手机摄影", "aesthetic": "随性旅行时尚摄影", "skin_texture": "写实的自然皮肤纹理，带有细微瑕疵", "focus": "浅景深", "color_grading": "柔和的粉彩色调", "film_effect": "细微的复古胶片颗粒感", "realism": "自然的人体比例、逼真的织物纹理、写实的光影、真实的手机拍摄质感"}, "mood": "梦幻、宁静、愉悦、柔和且随性", "quality": "高度写实、自然、真实的智能手机照片", "aspect_ratio": "4:5", "negative_prompt": "卡通、插画、CGI、3D 渲染、过度平滑的皮肤、塑料感皮肤、人造面孔、身体畸形、多余的手指、多余的肢体、面部模糊、比例失调、色彩过饱和、影棚灯光、浓妆、夸张的镜头光晕"}
+
+[English]
+{"prompt": "A highly photorealistic full-body outdoor smartphone photograph of a young woman standing on a quiet urban street during soft winter afternoon sunlight. She has long, straight dark-brown hair flowing naturally over her shoulders, with realistic individual hair strands. She has a gentle, cheerful expression with her eyes softly closed and her head tilted slightly to one side, creating a playful and candid pose. She is standing comfortably with her arms crossed while lifting one leg slightly behind her.", "subject": {"gender": "young woman", "hair": "long, straight dark-brown hair flowing naturally over her shoulders", "expression": "gentle, cheerful, relaxed smile with eyes softly closed", "pose": "head slightly tilted to one side, arms comfortably crossed, one leg lifted slightly behind her in a playful candid pose"}, "outfit": {"outerwear": "oversized pastel lavender-blue button-up shirt", "top": "delicate white lace-trimmed top", "bottom": "short flowing white tiered skirt", "bag": "small cream-colored backpack hanging over one shoulder", "shoes": "clean white sneakers"}, "background": {"location": "quiet urban street", "wall": "old textured cream-colored wall with geometric square details", "details": ["bare climbing vines", "small dark sign", "parked car", "subtle urban street elements"]}, "lighting": {"time": "soft winter afternoon", "style": "natural warm sunlight", "effects": ["subtle warm glow around her hair", "gentle natural shadows", "faint realistic lens flare"]}, "photography": {"camera_style": "natural smartphone photography", "aesthetic": "candid travel-fashion photography", "skin_texture": "realistic natural skin texture with subtle imperfections", "focus": "shallow depth of field", "color_grading": "soft pastel color grading", "film_effect": "subtle vintage film grain", "realism": "natural body proportions, realistic fabric texture, realistic lighting, authentic mobile camera appearance"}, "mood": "dreamy, peaceful, cheerful, soft and candid", "quality": "highly photorealistic, natural-looking, realistic smartphone photo", "aspect_ratio": "4:5", "negative_prompt": "cartoon, illustration, CGI, 3D render, overly smooth skin, plastic skin, artificial face, distorted body, extra fingers, extra limbs, blurry face, unrealistic proportions, oversaturated colors, studio lighting, heavy makeup, exaggerated lens flare"}
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2096576034900471875) | 2026-09-06
+
+---
+
+### 🖥️ 例 7571：手持日文告示牌的毛茸茸仓鼠
+
+![手持日文告示牌的毛茸茸仓鼠](../images/%E6%89%8B%E6%8C%81%E6%97%A5%E6%96%87%E5%91%8A%E7%A4%BA%E7%89%8C%E7%9A%84%E6%AF%9B%E8%8C%B8%E8%8C%B8%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨、光线柔和的绘本风格水彩插画，画面中心是一只非常毛茸茸的黄金叙利亚仓鼠，它正坐在安静艺术家工作室的浅色木地板上。仓鼠圆滚滚的，体型偏大，有着小巧圆润的耳朵、微闭的睡眼、粉色的小鼻子、精致的胡须、细小的前爪，底部露出两只粉色的小脚。它手持一块长方形的奶油色告示牌，牌子由两个小金属环悬挂，上面手绘着日文文本 {argument name="sign text" default="私はにじじゃーにーで\n既に200枚を\n使い切りました"}。在仓鼠周围布置 10 个空白画框或画布：左侧 6 个，包括一个棕褐色立式画框、一个白色立式画框、一个高大的灰色斜靠画框、一个位于它们身后的浅色长方形项目、一个前方的小正方形项目，以及地板上的一张平铺纸张；右侧 4 个，包括一个棕褐色直立画框、一个白色斜靠画框、一个棕褐色后置小画框，以及前景地板上平放的一块白色板子。背景是极简的浅色灰泥墙，带有细微的接缝和纹理，右上角的一扇高窗将金色的午后阳光和柔和的长方形阴影投射在墙壁和地板上。运用细腻的墨线勾勒、柔和的水彩渲染、奶油色和蜂蜜色调、轻盈的留白、温柔忧郁的可爱感，以及手绘童书的美学风格。保持构图为正方形，居中，简洁明快，无额外角色，无水印，且无其他可读文本。
+
+[English]
+Create a warm, softly lit storybook watercolor illustration of a very fluffy golden Syrian hamster sitting centered on a pale wooden floor in a quiet artist studio. The hamster is round and oversized, with tiny rounded ears, closed sleepy eyes, a small pink nose, delicate whiskers, tiny front paws, and two little pink feet visible at the bottom. It holds one rectangular cream-colored placard hanging from two small metal rings, with hand-painted Japanese text reading {argument name="sign text" default="私はにじじゃーにーで\n既に200枚を\n使い切りました"}. Surround the hamster with exactly 10 blank picture frames or canvases: 6 on the left side consisting of a tan standing frame, a white standing frame, a tall gray leaning frame, a pale rectangular board behind them, a small square board in front, and one flat sheet on the floor; 4 on the right side consisting of a tan upright frame, a white leaning frame, a small tan rear frame, and one flat white board lying on the floor in the foreground. The background is a minimal pale plaster wall with subtle seams and texture, and a tall window at the upper right casts golden late-afternoon sunlight and soft rectangular shadows across the wall and floor. Use delicate ink outlines, soft watercolor washes, cream and honey tones, airy negative space, gentle melancholic cuteness, and a hand-drawn children’s book aesthetic. Keep the composition square, centered, uncluttered, no extra characters, no watermark, and no additional readable text.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2096473084857561464) | 2026-09-06
+
+---
+
+### 🖥️ 例 7574：照片与温馨蜡笔画对比
+
+![照片与温馨蜡笔画对比](../images/%E7%85%A7%E7%89%87%E4%B8%8E%E6%B8%A9%E9%A6%A8%E8%9C%A1%E7%AC%94%E7%94%BB%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 3:4 的纵向对比图，上方展示温暖的原始照片场景，下方展示其温馨的蜡笔画演绎。
+
+画布：纵向图像，尺寸约为 900 x 1200 px，分为 2 个等宽的水平面板。顶部面板为柔和、阳光明媚的写实照片；底部面板为米白色纸张上的蜡笔质感插画。
+
+顶部面板：展示 {argument name="character description" default="一位留着长黑发的年轻女性"} 侧身坐在破旧公寓门外狭窄的老式阳台栏杆上。她神情放松，略带内省，正低头弹奏一把原声吉他。她穿着 {argument name="outfit" default="一件宽松的印花短袖衬衫、深色短裤、白色袜子和厚底小白鞋"}。吉他为光亮的蜜棕色缺角原声吉他，配有深色玳瑁护板。背景包含铁艺阳台栏杆、绿叶藤蔓、奶油色灰泥墙、一扇敞开的旧门以及昏暗的室内空间。使用午后金色的阳光，叶影斑驳地洒在她的双腿、吉他、墙壁和地面上；具有梦幻般的镜头柔光、温馨的夏日氛围以及浅景深效果。
+
+底部面板：在纹理米色纸张上，以随性的手绘蜡笔素描风格重现相同的主题。女性、姿势、吉他、阳台栏杆和鞋子应进行简化但保持可辨识度，使用黄色、青蓝色、珊瑚红、绿色和炭灰色的暖色调蜡笔笔触进行重叠勾勒。保持风格童趣且时尚，柔和温馨，带有明显的蜡笔颗粒感和不完美的轮廓线条。在主体人物周围添加 7 个蜡笔装饰元素：左上角 1 个简单的黄色太阳，左侧 2 朵绿色茎秆的小黄花，中右侧 1 个蓝色音符，1 个简短的灰色手写短语 {argument name="quote text" default="Better Days Ahead"}，以及右下角 2 朵绿色茎秆的小黄花。在坐姿人物下方添加一些随意的绿色和蓝色涂鸦。
+
+文字与品牌：画中唯一可读的短语是 {argument name="quote text" default="Better Days Ahead"}，以类似打字机风格的小号灰色手写字体位于插画吉他手右侧。在右下角添加一个细微的白色水印 {argument name="watermark text" default="Promptsref.com"}。
+
+约束：使用 2 个面板，顶部为照片写实风格，底部为蜡笔画风格。不要添加额外的人员、额外的吉他或额外的可读文字。保持温暖阳光的氛围和温馨的手工蜡笔美感。
+
+[English]
+Goal: Create a vertical 3:4 comparison image showing a warm original-photo scene on top and its cozy crayon-drawing interpretation on the bottom.
+
+Canvas: Vertical image, approximately 900 x 1200 px, split into exactly 2 horizontal panels of equal width. The top panel is a soft, sunlit realistic photo; the bottom panel is an off-white paper illustration with wax-crayon texture.
+
+Top panel: Show {argument name="character description" default="a young woman with long dark hair"} sitting sideways on a narrow old balcony railing outside a weathered apartment doorway. She is relaxed and slightly introspective, looking down at an acoustic guitar while playing it. She wears {argument name="outfit" default="a loose patterned short-sleeve shirt, dark shorts, white socks, and chunky white sneakers"}. The guitar is a glossy honey-brown acoustic cutaway guitar with a dark tortoiseshell pickguard. Include iron balcony bars, leafy green vines, a cream stucco wall, an open aged door, and a dim interior room in the background. Use golden late-afternoon sunlight with dappled leaf shadows across her legs, guitar, wall, and floor; dreamy lens softness, cozy summer atmosphere, shallow depth of field.
+
+Bottom panel: Recreate the same subject as a loose hand-drawn crayon sketch on textured cream paper. The woman, pose, guitar, balcony railing, and shoes should be simplified but recognizable, drawn with sketchy overlapping crayon strokes in warm yellow, teal blue, coral red, green, and charcoal gray. Keep the style childlike yet stylish, soft and cozy, with visible wax grain and imperfect outlines. Add exactly 7 decorative crayon elements around the main figure: 1 simple yellow sun in the upper left, 2 small yellow flowers on green stems on the left, 1 blue musical note near the center-right, 1 short gray handwritten phrase reading {argument name="quote text" default="Better Days Ahead"}, and 2 small yellow flowers on green stems in the lower right. Add a few loose green and blue ground scribbles below the seated figure.
+
+Text and branding: The only readable phrase inside the drawing is {argument name="quote text" default="Better Days Ahead"}, set in a small gray typewriter-like handwritten style to the right of the illustrated guitar player. Add a subtle white watermark reading {argument name="watermark text" default="Promptsref.com"} in the bottom-right corner.
+
+Constraints: Use exactly 2 panels, with the top photorealistic and the bottom crayon-drawn. Do not add extra people, extra guitars, or additional readable text. Preserve the warm sunny mood and the cozy hand-crafted crayon aesthetic.
+```
+
+**来源：** [@underwood](https://x.com/underwoodxie96/status/2096465089385959469) | 2026-09-06
+
+---
+
+### 🖥️ 例 7576：暗黑漫画风格超级英雄肖像
+
+![暗黑漫画风格超级英雄肖像](../images/%E6%9A%97%E9%BB%91%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极具戏剧性的漫画风格肖像，主角是一位神情严峻的 {argument name="gender" default="male"} 超级英雄，身穿一件高领 {argument name="suit color" default="深祖母绿色"} 战衣，佩戴着时髦的黑绿配色眼罩，胸前饰有发光的圆形徽章。他伫立在夜晚阴暗的城市小巷中，采用略微仰视的近景半身构图。他留着干练的深色短发，发丝随风飘动，下颌线条硬朗，表情坚毅。光影效果充满电影质感，面部一侧带有温暖的琥珀色高光，战衣上映射出冷峻的绿色反光。背景以黑色为主，点缀着高耸的垂直建筑和几处明亮的矩形灯光，营造出粗粝的夜间城市氛围。风格：现代数字漫画插画，锐利的墨线轮廓，绘画感阴影，细腻纹理，丰富的对比度，英雄气概中透着忧郁，具备精致的图像小说封面艺术水准。
+
+[English]
+A dramatic comic-book portrait of a {argument name="superhero" default="stern male superhero"} in a dark emerald suit with a high collar, a sleek black-and-green eye mask, and a glowing circular chest emblem. He stands in a shadowy urban alley at night, shown from a slightly low angle in a tight upper-body shot. His hair is short, dark, and windswept, with a strong jawline and intense expression. The lighting is moody and cinematic, with {argument name="lighting highlights" default="warm amber highlights"} on one side of the face and cool green reflections across the suit. The background is mostly black with tall vertical structures and a few bright rectangular lights, creating a gritty nocturnal city atmosphere. Style: modern digital comic illustration, sharp inked contours, painterly shading, subtle texture, rich contrast, {argument name="mood" default="heroic yet brooding mood"}, polished graphic-novel cover art quality.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2096460259564949840) | 2026-09-06
+
+---
+
+### 🖥️ 例 7580：四个动漫校园参考面板
+
+![四个动漫校园参考面板](../images/%E5%9B%9B%E4%B8%AA%E5%8A%A8%E6%BC%AB%E6%A0%A1%E5%9B%AD%E5%8F%82%E8%80%83%E9%9D%A2%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 2x2 的对比拼贴画，展示四张为短视频概念生成的动漫风格参考图，背景为深炭灰色，并配有醒目的白色标签。
+
+画布：横向 3:2 构图，尺寸约为 1200x900 像素。使用哑光黑/深灰色背景。将 4 个矩形图像面板整齐排列成网格，留出充足的边距和间隙。每个面板上方都有一个醒目的白色粗体标签：共 4 个标签，左上角为“@image1”，右上角为“@image2”，左下角为“@image3”，右下角为“@image4”。
+
+整体视觉风格：柔和的手绘动漫插画，温暖柔和的色调，细腻的线条，微妙的水彩质感阴影，怀旧的日本校园氛围，简洁的角色设计，无写实感。核心人物为 {argument name="character description" default="一位可爱的日本初中女生，留着齐肩深棕色波浪卷发，简单的豆豆眼，带着浅浅的微笑，身穿水手服风格校服"}。她的服装在各面板中保持一致：奶油色短袖水手衫配海军蓝滚边，橙色领巾，深色格子百褶裙（带有橙色和青色线条），海军蓝中筒袜（带有橙色条纹），以及米色运动鞋。
+
+面板 @image1：温暖米色背景上的单幅插画。展示 1 名女生坐在经典的学校课桌椅上，侧面四分之三视角，面向右侧。她姿态放松，双手放在桌面上，仿佛正在书写或阅读。包含 1 张课桌和 1 把椅子，带有细黑金属桌腿和木质座椅/靠背。她的双腿微微向前伸展，可见运动鞋。背景保持简洁明了。
+
+面板 @image2：纯白背景上的角色三视图。展示 3 个相同女生的全身视图，均匀分布：左侧为正面，中间为侧面（面向左侧），右侧为背面。比例保持类似 Q 版但不过分夸张，大头小身，面部特征简洁。面板内不含额外道具或文字。
+
+面板 @image3：{argument name="school setting" default="一所小型日本郊区学校"} 的鸟瞰图插画。展示 1 栋主教学楼，矩形双层结构，带有深青色屋顶和成排的长窗。包含 1 个沙地操场（带有淡淡的白色球场标记）、1 堵围墙，以及周围的住宅区房屋、树木、狭窄街道、电线杆和温暖的午后光线。视角应为高空俯瞰/等轴测视图，类似于 3D 场景的参考图。
+
+面板 @image4：透过大窗框看向教室内部的视角，仿佛观众从室外向内窥视。前景中，展示 1 名女生坐在窗边的课桌旁，略微面向右侧，桌上放着打开的书本或笔记本。在她身后，展示 6 名背景学生坐在各自的课桌前，经过柔化处理且简化，面向前方或低头，仿佛正在学习。包含温暖的阳光、窗户倒影、教室墙板和成排的课桌。窗框应清晰地勾勒出面板边缘，营造出电影般的镜头感。
+
+约束条件：保持所有 4 个面板的插画风格和色调一致。除四个 @image 标签外，不得添加额外的面板、标签、水印、说明文字或徽标。拼贴画应看起来像是一篇展示四张 AI 生成参考图的社交媒体帖子。
+
+[English]
+Goal: Create a 2x2 comparison collage showing four generated anime-style reference images for a short video concept, on a dark charcoal background with large white labels.
+
+Canvas: Landscape 3:2 composition, approximately 1200x900 px. Use a matte black/dark gray background. Arrange exactly 4 rectangular image panels in a clean grid with generous margins and gutters. Each panel has a large bold white label above it: exactly 4 labels, “@image1” at top left, “@image2” at top right, “@image3” at bottom left, and “@image4” at bottom right.
+
+Overall visual style: Soft hand-drawn anime illustration, warm muted colors, gentle line art, subtle watercolor-like shading, nostalgic Japanese school atmosphere, clean character design, no photorealism. The recurring subject is {argument name="character description" default="a cute middle-school Japanese girl with shoulder-length dark brown wavy hair, simple dot eyes, a small smile, and a sailor-style school uniform"}. Her outfit is consistent across panels: cream short-sleeve sailor blouse with navy trim, orange neckerchief, dark plaid pleated skirt with orange and teal lines, navy knee socks with orange stripes, and beige sneakers.
+
+Panel @image1: A single illustration on a warm beige background. Show exactly 1 girl sitting at a classic school desk and chair in side three-quarter view, facing right. She is relaxed with both hands on the desktop as if writing or reading. Include exactly 1 desk and exactly 1 chair, with thin black metal legs and a wooden seat/backrest. Her legs extend forward slightly; sneakers are visible. Keep the background plain and minimal.
+
+Panel @image2: A character turnaround sheet on a clean white background. Show exactly 3 full-body views of the same girl, evenly spaced: 1 front view on the left, 1 side profile view in the center facing left, and 1 back view on the right. Keep the proportions chibi-like but not super-deformed, with a large head, small body, and simple facial features. No extra props or text inside this panel.
+
+Panel @image3: A bird’s-eye view illustration of {argument name="school setting" default="a small suburban Japanese school"}. Show exactly 1 main school building, rectangular and two stories tall, with a dark teal roof and long rows of windows. Include exactly 1 sandy schoolyard with faint white court markings, exactly 1 perimeter wall, and surrounding residential neighborhood houses, trees, narrow streets, utility poles, and warm afternoon lighting. The perspective should be high aerial/isometric, like a reference image for a 3D scene.
+
+Panel @image4: View into a classroom through a large window frame, as if the viewer is outside looking in. In the foreground, show exactly 1 main girl seated at a desk near the window, facing slightly right, with an open book or notebook on her desk. Behind her, show exactly 6 background students seated at separate desks, softly blurred and simplified, facing forward or downward as if studying. Include warm sunlight, window reflections, classroom wall panels, and rows of desks. The window frame should visibly border the panel and create a cinematic shot.
+
+Constraints: Keep all 4 panels in the same illustration style and color palette. Do not add extra panels, extra labels, watermarks, captions, or logos beyond the four @image labels. The collage should look like a social media post showing four prompt-generated reference images.
+```
+
+**来源：** [@さんかくてん](https://x.com/sankakuten91256/status/2096447146614747210) | 2026-09-06
+
+---
+
+### 🖥️ 例 7587：水杯中的微型发烧患者
+
+![水杯中的微型发烧患者](../images/%E6%B0%B4%E6%9D%AF%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%9E%8B%E5%8F%91%E7%83%A7%E6%82%A3%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度逼真的电影级写实夜间床头场景，画面中有一个超现实的微型人像置于透明水杯内。主体是一位生病的年轻 {argument name="character gender" default="女性"}，蜷缩在杯底，比例微小，身穿深海军蓝缎面睡衣，带有白色滚边，露出赤脚，神情疲惫且发烧，单手托腮。保持自然的人体比例和细腻的面部表情。额头上贴着白色退热贴，留着微乱的长波浪 {argument name="hair color" default="棕色头发"}。水杯位于温暖的木质床头柜中央，杯中盛满清澈的苏打水，主体周围环绕着许多微小的气泡，呈现出逼真的折射、畸变、高光以及厚实的杯缘和杯底。在水杯周围放置 5 件床头病患物品：左侧 1 个蓝白相间的药盒，左下方 1 板圆形药片，左前方 1 粒散落的白色胶囊，右下方 1 支显示 {argument name="thermometer reading" default="38.7°C"} 的数字体温计，以及右侧 1 团揉皱的白色纸巾。在水杯右后方放置 1 个带有金色月牙和星星图案的深蓝色陶瓷马克杯。背景包括左侧 1 盏带有米色织物灯罩的暖色台灯，散发柔和光芒，以及暗室中模糊的闹钟和植物。采用浅景深，暖琥珀色灯光与冷色夜影交织，电影级竖构图，微距写实，超细腻纹理，温馨的病假氛围，无额外人物，除体温计数字外无任何文字，无水印。
+
+[English]
+Create a highly realistic cinematic photorealistic vertical image of a sick miniature {argument name="subject" default="young woman"} trapped inside a clear glass of water on a bedside table at night. The subject is tiny, sitting curled up at the bottom of the tumbler with bare feet, wearing dark navy satin pajamas with light piping, long wavy brown hair slightly messy, and a white cooling strip or bandage across the forehead. Her expression is tired, feverish, and melancholy, with one cheek resting on her hand as she looks toward the camera. The glass is filled with transparent water and many visible tiny air bubbles, with realistic refraction and distortion through the curved glass, highlights on the rim, and warm reflections on the wooden tabletop. Surround the glass with exactly 6 bedside sickness items: 1 warm cream table lamp on the left, 1 blue-and-white tissue box on the left, 1 blister pack of silver pills in the lower left, 1 loose white capsule near the pills, 1 white digital thermometer in the lower right displaying {argument name="temperature reading" default="38.7°C"}, and 1 crumpled white tissue near a dark blue mug. Add exactly 1 dark blue ceramic mug on the right decorated with a yellow crescent moon and small yellow stars. Background should be a cozy dim bedroom with shallow depth of field, a blurred alarm clock and plant in the distance, warm amber lamp light mixed with cool blue nighttime shadows. Use a macro cinematic composition, vertical 9:16 aspect ratio, ultra-detailed glass and water physics, realistic skin texture, natural facial features, moody warm lighting, 50mm lens look, f/1.8 bokeh, high dynamic range, no text except the thermometer display, no watermark, no extra people.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2096425921914003525) | 2026-09-06
+
+---
+
+### 🖥️ 例 7590：17 世纪奥斯曼帝国伊斯坦布尔室内场景
+
+![17 世纪奥斯曼帝国伊斯坦布尔室内场景](../images/17%20%E4%B8%96%E7%BA%AA%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+伊斯坦布尔，奥斯曼帝国，17 世纪早期。一位富家女子度过的宁静午后。
+
+[English]
+{argument name="location" default="Istanbul, Ottoman Empire"}, {argument name="time period" default="early 17th century"}\nA quiet afternoon for a {argument name="subject" default="wealthy woman"}.
+```
+
+**来源：** [@たんぐすけん | シニアの知見をAIで加速！](https://x.com/Tungskenichi/status/2096406024391643147) | 2026-09-06
+
+---
+

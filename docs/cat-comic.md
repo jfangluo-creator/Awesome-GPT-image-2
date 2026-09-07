@@ -9878,3 +9878,102 @@ Warm natural kitchen lighting, realistic food textures, creamy pale-yellow smoot
 
 ---
 
+### 🎬 例 7568：照片与绘本插画分割构图
+
+![照片与绘本插画分割构图](../images/%E7%85%A7%E7%89%87%E4%B8%8E%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB%E5%88%86%E5%89%B2%E6%9E%84%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 3:4 的垂直构图，将上传的照片与同一时刻的手绘插画版本相结合。上半部分 — 原图。将上传的照片保持在画布的上半部分，占据约 50% 的空间。将照片视为唯一的真实来源。保持人物、面部、表情、发型、服装、配饰、姿势、比例、物体、光影、色彩和环境与原图一致。不要对照片进行美化、修图、重绘、替换或重新诠释。它应保持自然且可辨识，就像将原始图像直接放入艺术作品中一样。下半部分 — 插画版本。使用下半部分以手工儿童绘本插画的形式重现同一时刻。插画版本应保留：相同的人物和可辨识的面部特征、完全一致的姿势和身体位置、匹配的发型和服装、匹配的配饰和可见细节、相同的动作和整体氛围。采用柔和的传统艺术手法：精致的水彩渲染、彩色铅笔质感、细腻的铅笔或墨水轮廓、温暖的纹理象牙色纸张、柔和的手绘阴影、略显不均匀的有机笔触，以及使其具有手工感的微妙瑕疵。避免精致的数字感。不要使用照片级真实感、3D 渲染、动漫美学或夸张的卡通风格。简化背景，而不是复制每一个环境细节。仅保留足以暗示原始场景的内容，同时为插画主体留出足够的空间。使插画主体略小于照片主体，并在其周围留出充足的负空间。小型手绘装饰。在插画周围仅添加少量低调的涂鸦——例如小爱心、星星、花朵或简单的动态标记。它们应该看起来像是自然地画在页面上，而不是数字装饰。在插画附近包含一个小手写注释：“{argument name="caption" default="little happy girl"} ♡”。使用随意的棕色或柔灰色铅笔/墨水外观。如果主体不是女孩，请替换为合适的措辞或省略标题。最终效果。成品应类似于精美的手工剪贴簿或儿童绘本页面，将真实照片与同一场景中充满爱意的绘画记忆配对。保持呈现方式：3:4 垂直构图，温暖且具有编辑感，照片与插画之间分割清晰，简约优雅，富有情感但不显过度装饰，具有丰富的纸张触感和传统绘画质感。重要提示。仅使用上传的照片作为视觉参考。不要借鉴之前的提示词、图像、参考资料或生成结果。不要引入不同的人物、服装、姿势、物体、场景、配色方案或视觉细节。下方的插画必须明确无误地呈现上传照片中显示的准确场景和时刻。
+
+[English]
+Create one vertical 3:4 composition that combines the uploaded photo with a hand-drawn illustrated version of the same moment. TOP HALF — ORIGINAL PHOTO. Keep the uploaded photograph in the upper portion of the canvas, occupying roughly 50%. Treat the photo as the only source of truth. Keep the person, face, expression, hair, outfit, accessories, pose, proportions, objects, lighting, colors, and surroundings faithful to the original. Do not beautify, retouch, restyle, replace, or reinterpret the photograph. It should remain natural and recognizable, as if the original image has simply been placed into the artwork. BOTTOM HALF — ILLUSTRATED VERSION. Use the lower portion to recreate the exact same moment as a handmade children's picture-book illustration. The illustrated version should retain: the same person and recognizable facial features, identical pose and body positioning, matching hairstyle and clothing, matching accessories and visible details, the same action and overall mood. Use a soft traditional art approach with: delicate watercolor washes, colored-pencil texture, fine pencil or ink contours, warm textured ivory paper, gentle hand-rendered shading, slightly uneven, organic strokes, subtle imperfections that make it feel handmade. Avoid a polished digital look. No photorealism, 3D rendering, anime aesthetics, or exaggerated cartoon styling. Simplify the background instead of copying every environmental detail. Keep only enough of it to suggest the original setting, while giving the illustrated subject plenty of breathing room. Make the illustrated subject slightly smaller than the photographic subject and leave generous negative space around it. SMALL HAND-DRAWN ACCENTS. Add only a handful of understated doodles around the illustration — perhaps tiny hearts, stars, flowers, or simple motion marks. They should feel naturally drawn onto the page rather than digitally decorated. Include a small handwritten note near the illustration: “{argument name="caption" default="little happy girl"} ♡”. Use a casual brown or soft-gray pencil/ink appearance. If the subject is not a girl, replace the wording with something suitable or leave the caption out. FINAL FEEL. The finished piece should resemble a beautiful handmade scrapbook or children's storybook page, where a real photograph has been paired with a lovingly drawn memory of the same scene. Keep the presentation: vertical 3:4, warm and editorial, cleanly divided between photo and illustration, minimal and elegant, sentimental but not overly decorative, rich in tactile paper and traditional drawing texture. IMPORTANT. Use only the uploaded photograph as visual reference. Do not borrow anything from previous prompts, images, references, or generated results. Do not introduce a different person, outfit, pose, object, setting, color scheme, or visual detail. The lower illustration must unmistakably represent the exact scene and moment shown in the uploaded photograph.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2096479426452365692) | 2026-09-06
+
+---
+
+### 🎬 例 7581：将照片转换为儿童绘本插画
+
+![将照片转换为儿童绘本插画](../images/%E5%B0%86%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅根据上传的照片，创作一张垂直 3:4 比例的“照片 + 手绘插画”艺术作品。仅使用上传的照片作为唯一的视觉参考。独立分析照片，并在插画中精确还原主体、姿势、表情、服装、发型、配饰、物体、比例以及整体瞬间。请勿引入任何先前图像或参考资料中的元素。上方 — 原始照片：使用画布上方约 50% 的区域展示原始照片。忠实且自然地保留照片：- 保持原始主体清晰可辨。- 保留面部、表情、发型、服装、配饰、姿势、身体比例及可见物体。- 保留原始环境和构图。- 请勿对主体进行修图、美化、替换或重新设计。- 保持照片的真实感，保留其原始光影、色彩、纹理和细节。下方 — 手绘插画：使用下方约 50% 的区域展示同一照片的迷人手绘插画。将照片中的瞬间转化为精致的儿童故事书风格手绘艺术品。插画风格：- 柔和的水彩和彩色铅笔纹理 - 温柔的铅笔/墨水轮廓 - 略显不完美的笔触 - 温暖、有触感的米白色纹理纸张 - 柔和的自然阴影 - 微妙的水彩渲染 - 可爱、生动、温馨的外观 - 精致的手工不完美感 - 无光泽的数字渲染感 - 无照片级真实感 - 无 3D CGI - 无动漫或卡通系列风格。最重要的是，准确保留照片中的主体：- 相同的姿势和身体位置 - 相同的面部表情 - 相同的发型 - 相同的服装和服装图案 - 相同的鞋子/配饰 - 相同的比例 - 相同的独特视觉细节 - 相同的整体动作或氛围。大幅简化背景。无需重现每一个背景细节。仅保留对原始环境极其微妙的暗示，使插画主体保持为视觉焦点。将插画主体放置得比照片主体略小，周围留出充足的留白。极简装饰细节：在插画周围添加少量微小的手绘装饰标记，例如：- 小爱心 - 简单的动态线条 - 微小的涂鸦 - 微妙的星星或花朵。保持装饰稀疏且有品位。在插画附近添加一个小小的手写标题，例如：“little happy girl ♡”。标题应看起来像是用随意的棕色/灰色铅笔或墨水自然手写的。如果上传的主体不是女孩，请自动调整措辞或完全省略标题。整体美学：最终的艺术作品应感觉像是一段珍贵的记忆被转化为了手工儿童绘本的一页。构图：- 垂直 3:4 - 照片与插画之间界限清晰 - 柔和温暖的编辑展示风格 - 插画周围有大量的留白 - 极简、优雅、富有情感 - 高级手工文具/插画剪贴簿美学。关键规则：上传的照片是唯一的真理来源。请勿从其他图像中发明、替换、合并或引入任何人物、服装、物体、背景元素、颜色、姿势或细节。下方的插画必须清晰地呈现为上方照片中“精确瞬间”的手绘版本。参考优先级：1. 精确的主体和姿势 2. 面部表情和发型 3. 服装和配饰 4. 整体构图 5. 插画风格 6. 极简装饰元素。切勿为了艺术风格化而牺牲主体准确性。
+
+[English]
+Create a single vertical 3:4 PHOTO + HAND-DRAWN ILLUSTRATION artwork based ONLY on the uploaded photograph.
+
+Use the uploaded photograph as the ONLY visual reference. Analyze the photograph independently and reproduce the exact subject, pose, expression, clothing, hairstyle, accessories, objects, proportions, and overall moment in the illustration. Do not introduce elements from any previous image or reference.
+
+TOP — ORIGINAL PHOTOGRAPH
+
+Use approximately the upper 50% of the canvas for the original photograph.
+
+Preserve the photograph faithfully and naturally:
+- Keep the original subject exactly recognizable.
+- Preserve the face, expression, hairstyle, clothing, accessories, pose, body proportions, and visible objects.
+- Preserve the original environment and composition.
+- Do not retouch, beautify, replace, or redesign the subject.
+- Keep the photograph realistic with its original lighting, colors, textures, and details.
+
+BOTTOM — HAND-DRAWN ILLUSTRATION
+
+Use approximately the lower 50% for a charming handmade illustration of the SAME photograph.
+
+Transform the photographic moment into a delicate children's storybook-style hand-drawn artwork.
+
+Illustration style:
+- Soft watercolor and colored-pencil texture
+- Gentle pencil/ink outlines
+- Slightly imperfect handmade strokes
+- Warm, tactile off-white textured paper
+- Soft natural shading
+- Subtle watercolor washes
+- Cute, expressive, wholesome appearance
+- Delicate handcrafted imperfections
+- No glossy digital-rendered appearance
+- No photorealism
+- No 3D CGI
+- No anime or cartoon franchise style
+
+Most importantly, accurately preserve the subject from the photograph:
+- Same pose and body position
+- Same facial expression
+- Same hairstyle
+- Same clothing and clothing patterns
+- Same shoes/accessories
+- Same proportions
+- Same distinctive visual details
+- Same overall action or mood
+
+Simplify the background substantially. Do not recreate every background detail. Keep only a very subtle suggestion of the original environment, allowing the illustrated subject to remain the main focus.
+
+Place the illustrated subject slightly smaller than the photograph's subject, surrounded by generous negative space.
+
+MINIMAL DECORATIVE DETAILS
+
+Add a few tiny hand-drawn decorative marks around the illustration, such as:
+- small hearts
+- simple motion lines
+- tiny doodles
+- subtle stars or flowers
+
+Keep these decorations sparse and tasteful.
+
+Add a small handwritten caption near the illustration, such as:
+
+"{argument name="caption" default="little happy girl ♡"}"
+
+The caption should look naturally handwritten with a casual brown/gray pencil or ink texture.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2096446208957100166) | 2026-09-06
+
+---
+

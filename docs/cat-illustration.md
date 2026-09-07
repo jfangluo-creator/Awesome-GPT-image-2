@@ -20644,3 +20644,89 @@ Create a polished anime-style vertical illustration of {argument name="character
 
 ---
 
+### 🎨 例 7543：哥特式圣徒朝圣大教堂
+
+![哥特式圣徒朝圣大教堂](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%9C%A3%E5%BE%92%E6%9C%9D%E5%9C%A3%E5%A4%A7%E6%95%99%E5%A0%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个垂直构图的黑暗奇幻神圣朝圣场景，背景是一座镶嵌在山腰中、宏伟到不可思议的哥特式大教堂城市，不含任何现代元素。前景展示了 5 位显眼的朝圣者背影，他们正自愿向前行走：2 位身穿带有金色十字刺绣的米色连帽长袍，1 位位于中央身穿黑色斗篷，1 位身穿带有金色刺绣的深红色长袍，以及 1 位半隐在暗色衣物中的身影；为了营造电影般的景深效果，他们的头部略微失焦。在他们前方，左下角矗立着一座巨大的石制圣徒雕像，手持高耸的十字架权杖，面向宏伟的建筑群。场景中布满了无数点燃的蜡烛、金色火盆、香雾和庄严的仪式旗帜。使用 4 面清晰可见的深红色悬挂旗帜，旗帜上带有金色太阳十字徽章：最左侧边缘 1 面大旗，中左侧上方高架桥悬挂 1 面，中右侧上方高架桥悬挂 1 面，以及前景正下方 1 面独立的手持游行旗帜。建筑细节：高耸的浅色大理石哥特式桥梁和层叠的引水渠式拱门、尖塔、飞扶壁、华丽的大教堂塔楼、狭窄的柏树，以及作为比例参照、在桥梁护栏上排成一列的微小朝圣者剪影，右侧和露台间有瀑布倾泻而下。中央上方的背景应呈现出一种巨大的圣城感，仿佛神圣的城市本身为信徒开启了一条通道。光影应表现为温暖的黎明或日落，透过戏剧性的云层投射出耶稣光，伴随烛光、白金色的薄雾，在神圣的光辉与令人敬畏的宏大尺度之间形成强烈对比。风格：超精细电影级奇幻概念艺术，照片级写实绘画渲染，9:16 垂直构图，史诗级尺度，庄严而令人不安的宗教氛围，复杂的石雕，体积雾，最近处人群的浅景深效果，无文字，无水印。
+
+[English]
+Create a vertical dark fantasy sacred pilgrimage scene in an impossibly vast Gothic cathedral-city carved into a mountainside, with no modern elements. The foreground shows the backs of exactly 5 prominent worshippers walking willingly forward: 2 in cream hooded robes with gold cross embroidery, 1 central figure in a black cloak, 1 in a deep red robe with gold embroidery, and 1 partially visible dark-clothed figure; their heads are slightly out of focus for cinematic depth. Beyond them, an enormous stone saint statue stands on a pedestal at lower left, holding a tall cross staff, facing toward the monumental architecture. The setting is filled with countless lit candles, golden braziers, incense haze, and solemn ceremonial banners. Use exactly 4 clearly visible tall crimson hanging banners with gold sun-cross emblems: 1 large banner on the far left edge, 1 suspended from the upper viaduct near center-left, 1 suspended from the upper viaduct near center-right, and 1 freestanding processional banner in the lower center foreground. Architecture: towering pale marble Gothic bridges and aqueduct-like arches stacked in layers, needle spires, flying buttresses, ornate cathedral towers, narrow cypress trees, tiny silhouetted pilgrims lining the bridge parapets as scale references, and waterfalls pouring down the right side and through the terraces. The central upper background should feel like a colossal holy complex receding into mist, as if the sacred city itself has opened a passage for the faithful. Lighting should be warm dawn or sunset, with god rays through dramatic clouds, glowing candlelight, white-gold mist, and high contrast between sacred radiance and ominous scale. Style: ultra-detailed cinematic fantasy concept art, photorealistic painterly rendering, vertical 9:16 composition, epic scale, solemn and unsettling religious atmosphere, intricate stone carvings, volumetric fog, shallow depth of field in the nearest crowd, no text, no watermark.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2096677685363875962) | 2026-09-06
+
+---
+
+### 🎨 例 7551：巨兽碾压石像鬼
+
+![巨兽碾压石像鬼](../images/%E5%B7%A8%E5%85%BD%E7%A2%BE%E5%8E%8B%E7%9F%B3%E5%83%8F%E9%AC%BC.jpg)
+
+**Prompt:**
+
+```text
+{argument name="巨大な獣" default="巨獣ベヒモス"}が{argument name="対象" default="ゴーレム"}を踏み潰す
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2096583905679966229) | 2026-09-06
+
+---
+
+### 🎨 例 7573：动漫咖啡露台好友
+
+![动漫咖啡露台好友](../images/%E5%8A%A8%E6%BC%AB%E5%92%96%E5%95%A1%E9%9C%B2%E5%8F%B0%E5%A5%BD%E5%8F%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格单格插画，描绘两位年轻女性在温暖的午后阳光下，坐在户外咖啡露台交谈。左侧角色拥有 {argument name="left character hair color" default="短款浅金色波波头"}，琥珀色双眼，露齿而笑，身体前倾，双手拿着一张棕褐色纸张；她身穿轻盈的奶油色泡泡袖衬衫，搭配红色丝带吊带，发侧饰有带垂坠装饰的小红丝带，颈间佩戴精致的金项链。右侧角色拥有 {argument name="right character hair color" default="长直黑发"}，紫罗兰色双眼，带着温柔内敛的微笑看向金发女孩；她身穿深海军蓝衬衫，佩戴简约吊坠项链，双臂放在木桌上。画面中需包含恰好两位人物、一张纸、右侧女孩面前的一个白色茶杯及托盘，以及左下角边缘的一小束雏菊与红花。场景为舒适的欧式露台，配有藤编咖啡椅、抛光的木质桌面、两侧的绿植，背景为柔焦的城镇景观，可见浅色建筑和一座教堂般的尖塔。采用从左上方射入的电影感黄金时刻背光、柔和的焦外成像、发丝上的柔和轮廓光、细腻生动的面部表情、精致的线条、油画质感的动漫渲染、温暖诱人的氛围，以及 3:2 的横向构图。画面中不得出现文字、水印、额外角色或现代标识。
+
+[English]
+Create a polished anime-style single-panel illustration of two young women sitting together at an outdoor café terrace in warm late-afternoon sunlight. On the left is {argument name="left character hair color" default="short pale blonde bob hair"}, amber eyes, a cheerful open-mouth smile, leaning forward while holding one tan paper sheet with both hands; she wears an airy cream blouse with puffed sleeves, red ribbon straps/suspenders, a small red hair ribbon with dangling ornament near one side, and a delicate gold necklace. On the right is {argument name="right character hair color" default="long straight black hair"}, violet eyes, a soft reserved smile, looking toward the blonde girl; she wears a dark navy button-up blouse and a subtle pendant necklace, with her arms resting on the wooden table. Include exactly two visible people, exactly one paper sheet, exactly one white teacup on a saucer in front of the right girl, and exactly one small flower arrangement at the lower left edge with white daisies and red flowers. The setting is a cozy European-style terrace with wicker café chairs, a polished wooden tabletop, leafy greenery framing the sides, and a softly blurred townscape in the background with pale buildings and one church-like spire. Use cinematic golden-hour backlighting from the upper left, soft bokeh, gentle rim light on hair, detailed expressive faces, delicate linework, painterly anime rendering, warm inviting atmosphere, and a horizontal 3:2 composition. No text, no watermark, no extra characters, no modern signage.
+```
+
+**来源：** [@AIossansan](https://x.com/toraaiuser2/status/2096469807982145909) | 2026-09-06
+
+---
+
+### 🎨 例 7575：极简水粉野花
+
+![极简水粉野花](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E7%B2%89%E9%87%8E%E8%8A%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极简风格的水粉插画，采用宽幅横向画布，背景为柔和的灰蓝色纸张纹理，且不含任何文字。画面中需呈现 3 朵精致的野花，它们生长在纤细、深色且弯曲的茎秆上，从左下角向右上角延伸：左侧下三分之一处有一朵粉色小花；中心位置有一朵洋红色花朵，一侧带有浅粉色笔触；右上角有一朵金黄色大花，顶部边缘略微被裁剪。每朵花都有一个深色花心，花瓣柔软、半透明且边缘粗糙，带有明显的干笔触纹理。包含 5 片橄榄绿叶子：左侧茎秆底部有一片小叶，中心花朵下方有一片直立叶，中心花朵右侧有一片横向叶，右侧茎秆上有一片小直立叶，黄色花朵下方有一片向右延伸的大叶。采用简约的手绘植物风格，构图疏朗，留白优雅，纸张纹理细腻，色彩柔和，笔触边缘略带不完美感。
+
+[English]
+Create a minimalist painterly gouache illustration on a wide horizontal canvas, with a muted dusty blue paper-textured background and no text. Show exactly 3 delicate wildflowers growing from thin, dark, curved stems sweeping upward from the lower left toward the upper right: 1 small pink blossom on the left near the lower third, 1 larger magenta-purple blossom in the center with lighter pink brushstrokes on one side, and 1 large golden-yellow blossom cropped slightly by the top edge in the upper right. Each flower has a small dark center and soft, semi-translucent, rough-edged petals with visible dry-brush grain. Include exactly 5 olive-green leaves: 1 small leaf on the left stem near the bottom left, 1 upright leaf below the central flower, 1 horizontal leaf to the right of the central flower, 1 small upright leaf on the right stem, and 1 larger leaf extending to the right below the yellow flower. Use a simple hand-painted botanical style, sparse composition, elegant negative space, subtle paper texture, muted colors, and slightly imperfect brush edges.
+```
+
+**来源：** [@Station Cat](https://x.com/statiocat/status/2096461369172242636) | 2026-09-06
+
+---
+
+### 🎨 例 7579：浪漫情侣石墨素描
+
+![浪漫情侣石墨素描](../images/%E6%B5%AA%E6%BC%AB%E6%83%85%E4%BE%A3%E7%9F%B3%E5%A2%A8%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度写实的石墨铅笔素描，描绘一对浪漫的南亚情侣以竖构图亲密站立。画面中需精确呈现 2 人：左侧为男性，右侧为女性。男性身材高大，留着深色波浪卷发和修剪整齐的浓密胡须，眉宇传神，神情温柔而庄重，正低头看向女性；他身穿浅色衬衫，领口敞开，袖子卷至前臂，穿着深色长裤，一只手插在口袋里。女性紧贴着他，抬头注视他的双眼，面带柔和的微笑；她留着深色长发，中分发型，几缕发丝垂在脸颊两侧，五官精致，佩戴着耳环、手镯和戒指。她身穿优雅的传统纱丽，边缘有华丽的刺绣，布料垂坠感强。她的手放在男性的胸前，突显出亲密无间的氛围。使用单色石墨在纹理质感的米白色纸张上进行阴影处理，运用细致的交叉排线、柔和的涂抹渐变，以铅笔表现写实的肤色，刻画细腻的发丝、布料褶皱、刺绣图案以及微妙的背景阴影。整体氛围需保持温柔、具有电影质感且永恒，画面无色彩、无文字、无水印，且不包含其他人物。
+
+[English]
+Create a highly detailed realistic graphite pencil sketch of a romantic South Asian couple standing close together in a vertical portrait composition. Show exactly 2 people: one man on the left and one woman on the right. The man is tall with wavy dark hair, a full trimmed beard, expressive eyebrows, and a gentle serious expression as he looks down toward the woman; he wears a light button-up shirt with the collar open, sleeves rolled to the forearms, dark trousers, and one hand tucked into his pocket. The woman stands close against him, looking up into his eyes with a soft smile; she has long dark hair parted near the center with loose face-framing strands, delicate features, earrings, bangles, and a ring. She wears an elegant traditional sari with an ornate embroidered border and flowing draped fabric. Her hand rests on the man’s chest, emphasizing intimacy and closeness. Use monochrome graphite shading on textured off-white paper, with meticulous crosshatching, soft smudged gradients, realistic skin tones in pencil, detailed hair strands, fabric folds, embroidery patterns, and subtle background shading. Keep the mood tender, cinematic, and timeless, with no color, no text, no watermark, and no extra people.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2096449284250206420) | 2026-09-06
+
+---
+

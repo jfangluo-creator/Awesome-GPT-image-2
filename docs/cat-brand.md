@@ -20062,3 +20062,117 @@ Create a vertical 2:3 portrait illustration in a luxurious Japanese maki-e lacqu
 
 ---
 
+### 🏷️ 例 7545：金发哥特萝莉樱花神社
+
+![金发哥特萝莉樱花神社](../images/%E9%87%91%E5%8F%91%E5%93%A5%E7%89%B9%E8%90%9D%E8%8E%89%E6%A8%B1%E8%8A%B1%E7%A5%9E%E7%A4%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 宽画幅的电影感动漫插画，画面中 {argument name="character name" default="一位美丽的金色长发哥特萝莉少女"} 在极近的前景中向观众伸出手，仿佛在发出邀请或施展魔法。她拥有长长的 {argument name="hair color" default="金黄色"} 头发，造型为两个巨大的螺旋双钻卷，带有几缕飘逸的发丝，头上装饰着黑色丝带蝴蝶结，拥有琥珀金色的双眼，皮肤白皙，表情平静且略带忧郁。她身穿华丽的黑白哥特萝莉裙，配有蓬松的黑色袖子、白色褶边蕾丝胸衣、领口黑色蝴蝶结、胸前小蝴蝶结、荷叶边袖口以及长长的金色十字架吊坠耳环。场景设定在樱花季梦幻般的神社庭院中：红色的鸟居在柔和模糊的背景中向远处延伸，粉色的樱花树填满画面上方，温暖的夕阳从她脑后投射而出，飘落的樱花花瓣掠过镜头。画面中包含 3 只由温暖金光构成的发光蝴蝶：左上方一只大蝴蝶，右中背景处一只小蝴蝶，右下方一只较大的蝴蝶，所有蝴蝶都具有精致的发光翅膀轮廓和魔法光点。采用低角度特写构图，伸出的手在左下角前景中显得巨大且带有柔和的透视感，面部位于画面中上方，头发带有轮廓光，浅景深，柔和的虚化效果，细腻的动漫渲染风格，充满光感的氛围，浪漫的奇幻基调，复杂的线条，温暖的桃金色调，画面中无任何文字或水印。
+
+[English]
+Create a cinematic anime illustration in a wide 16:9 canvas of {argument name="character name" default="a beautiful blonde gothic lolita girl"} reaching her hand toward the viewer in extreme foreground, as if inviting or casting magic. She has long {argument name="hair color" default="golden blonde"} hair styled into two large spiral twin-drill curls with loose flowing strands, black ribbon bows in her hair, golden amber eyes, fair skin, and a calm, slightly melancholic expression. She wears an ornate black-and-white gothic lolita dress with puffed black sleeves, white frilled lace bodice, black bow at the collar, small bow on the chest, ruffled cuffs, and long dangling gold cross earrings. Set the scene in a dreamy shrine garden during cherry blossom season: red torii gates recede into the softly blurred background, pink sakura trees fill the upper frame, warm sunset light streams from behind her head, and drifting cherry blossom petals pass close to the camera. Include exactly 3 glowing butterflies made of warm golden light: one large butterfly at the upper left, one small butterfly near the right-center background, and one larger butterfly at the lower right, all with delicate luminous wing outlines and magical sparkles. Use a low-angle close-up composition with the extended hand large and softly foreshortened in the bottom-left foreground, the face centered slightly above middle, hair glowing with rim light, shallow depth of field, soft bokeh, painterly high-detail anime rendering, luminous atmosphere, romantic fantasy mood, intricate linework, warm peach-gold color grading, and no visible text or watermark.
+```
+
+**来源：** [@【爆笑AI動画】永井サクラ](https://x.com/pjskra2026/status/2096637392241426568) | 2026-09-06
+
+---
+
+### 🏷️ 例 7558：星巴克山景水彩对比图
+
+![星巴克山景水彩对比图](../images/%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B1%B1%E6%99%AF%E6%B0%B4%E5%BD%A9%E5%AF%B9%E6%AF%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张垂直对比风格的图片，展示将夜间咖啡馆与山景转化为精致水彩艺术印刷品的过程。
+
+画布：3:4 竖构图，精确分为 2 个水平面板。上方面板占据约上半部分，为真实的夜景摄影；下方面板占据下半部分，为米白色暖色调纸张上的极简水彩画。
+
+上方面板：画面中心是一座单层星巴克咖啡馆的夜景，从黑暗的停车场视角望去。背景是一座巨大的、类似富士山的雪山，在深邃的暮色蓝天和蓝色薄雾中升起。咖啡馆拥有黑色屋顶轮廓和温暖明亮的室内窗户。包含精确 2 个可见的星巴克品牌标识：1 个位于建筑中心、明亮的黄色大号文字招牌，内容为 {argument name="store sign text" default="STARBUCKS"}；以及 1 个位于店面右侧的小型圆形绿色海妖标志。周围的剪影包含精确 5 个显著的自然/城市元素：左侧 2 棵高大的针叶树，建筑右侧 1 棵无叶树，最右侧 1 棵高大的针叶树，以及最右侧 1 盏带有简单矩形灯头的路灯。保持宁静、蓝色、朦胧、电影感和平静的氛围。
+
+下方面板：将同一场景重现为一幅手绘水彩小插画，居中置于纹理丰富的米色纸张上，留出大量空白。用疏朗的蓝色墨水和浅淡的水彩渲染来描绘咖啡馆、山峦、树木和路灯。微型咖啡馆应再次包含精确 2 个可见的星巴克品牌标识：1 个带有黄色 {argument name="store sign text" default="STARBUCKS"} 的微型深色矩形招牌，以及右侧 1 个小型绿色圆形标志。水彩版本应包含精确 4 个树木剪影：咖啡馆左侧 2 棵细长的针叶树，右侧 1 棵细长的针叶树，以及旁边 1 盏简化的路灯。使用柔和的晕染边缘、稀疏的笔触、柔和的靛蓝色阴影和温暖的黄色窗光。
+
+水彩插画下方的文字内容：添加精确 3 行居中的手写小写字母：第 1 行内容为 {argument name="caption line one" default="coffee · mist · mountain"}；第 2 行内容为 {argument name="caption line two" default="a quiet moment"}；第 3 行内容为 {argument name="year" default="2024"}。使用字间距宽、精致的灰蓝色手写体。
+
+视觉风格：上半部分应呈现出清晰真实的夜间旅行摄影质感；下半部分应呈现出精致的日式水彩明信片或艺术印刷品风格。保持面板间主体对齐一致：山峦位于咖啡馆后方中心，咖啡馆位于山峦下方中心，高大的路灯和针叶树位于右侧，深色树木位于左侧。
+
+约束条件：画面中不得出现人物、车辆，除上述指定的星巴克标识外不得有额外招牌，面板之间除从照片到纸张的自然过渡外不得有边框，不得有水印，整体色调保持深蓝、浅青、米色纸张、黑色剪影和温暖的咖啡馆黄色灯光。
+
+[English]
+Goal: Create a vertical comparison-style image showing a nighttime café-and-mountain scene transformed into a delicate watercolor art print.
+
+Canvas: Portrait 3:4 composition, divided into exactly 2 horizontal panels. The top panel occupies about the upper half and is a realistic night photograph; the bottom panel occupies the lower half and is a minimalist watercolor artwork on warm off-white paper.
+
+Top panel: A centered, single-story Starbucks café at night, seen from across a dark parking lot. Behind it is a large snow-capped Mount Fuji-like mountain rising in blue mist under a deep twilight blue sky. The café has a black roofline and glowing warm interior windows. Include exactly 2 visible Starbucks brand marks: 1 large bright yellow word sign reading {argument name="store sign text" default="STARBUCKS"} centered on the building, and 1 small circular green siren logo on the right side of the storefront. Surrounding silhouettes include exactly 5 prominent natural/urban elements: 2 tall conifer trees on the left, 1 leafless tree to the right of the building, 1 tall conifer tree near the far right, and 1 tall streetlamp on the far right with a simple rectangular lamp head. Keep the mood quiet, blue, misty, cinematic, and calm.
+
+Bottom panel: Recreate the same scene as a small hand-painted watercolor vignette centered on textured cream paper with lots of empty negative space. Paint the café, mountain, trees, and streetlamp in loose blue ink and pale watercolor washes. The miniature café should again include exactly 2 visible Starbucks brand marks: 1 tiny dark rectangular sign with yellow {argument name="store sign text" default="STARBUCKS"}, and 1 small green circular logo on the right. The watercolor version should include exactly 4 tree silhouettes: 2 thin conifers on the left of the café, 1 thin conifer on the right, and 1 simplified streetlamp beside it. Use soft bleeding edges, sparse brush marks, muted indigo shadows, and warm yellow window glow.
+
+Text content beneath the watercolor vignette: Add exactly 3 centered handwritten lines in small lowercase lettering: line 1 reads {argument name="caption line one" default="coffee · mist · mountain"}; line 2 reads {argument name="caption line two" default="a quiet moment"}; line 3 reads {argument name="year" default="2024"}. Use widely spaced, delicate gray-blue handwriting.
+
+Visual style: The top half should feel like a crisp realistic nighttime travel photograph; the bottom half should feel like a refined Japanese-inspired watercolor postcard or art print. Preserve the same subject alignment between panels: mountain centered behind the café, café centered below the mountain, tall lamp and conifer on the right, darker trees on the left.
+
+Constraints: No people, no cars, no extra signage beyond the counted Starbucks marks, no borders between panels except the natural transition from photo to paper, no watermark, keep the overall palette deep blue, pale cyan, cream paper, black silhouettes, and warm yellow café light.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2096555280306000120) | 2026-09-06
+
+---
+
+### 🏷️ 例 7569：重力通道大都市
+
+![重力通道大都市](../images/%E9%87%8D%E5%8A%9B%E9%80%9A%E9%81%93%E5%A4%A7%E9%83%BD%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的竖构图科幻概念艺术场景，标题为 {argument name="project title" default="JFC-01 | THE GRAVITY LANE"}：一位年轻女性背对观众，走在一条巨大的弯曲重力道路上，道路从水平街道向上弯曲延伸至垂直的摩天大楼墙面，仿佛城市正在重写重力法则以确保她的道路畅通。女性位于画面中下部中心，在宏伟建筑的衬托下显得身形娇小，微微抬头看向右上方；她留着黑色短波波头，身穿黑白相间的未来感紧身衣，配有装甲板、长手套、高科技靴子，身后飘动着分叉的白色衣摆或饰带。环境是一个由浅色混凝土、钢铁、玻璃和薄雾构成的巨大洁净大都市，充满了高耸的垂直摩天大楼、高架桥、空中通道和层叠的交通结构，逐渐消失在大气朦胧中。重力通道是一条宽阔的浅色混凝土与金属轨道，带有明显的面板接缝、嵌入式格栅、轨道状凹槽、沿曲线分布的微妙红橙色引导线，以及强烈的透视引导线。添加清晰易读的城市基础设施标识：一面墙上印有简单的几何标志和文字 {argument name="lane sign text" default="PRIORITY LANE"}，下方有小字 {argument name="lane subtext" default="FOR A RIGHT CITY"}，远处塔楼标有 {argument name="city logo text" default="JFC"}，以及隐约可见的城市标语 {argument name="civic slogan" default="PEOPLE CITIES HIGHER TOGETHER"}；排版需保持极简、工业化并与建筑融为一体。光线为明亮的阴天日光，带有柔和的阴影、冷蓝灰色调、轻微的辉光效果，材质写实，通道表面呈现出类似湿润的抛光反射，展现出宏大的尺度感与宁静的敬畏感，画面中没有车辆或人群。采用低位后侧 45 度摄像机视角，广角透视，4:5 竖构图，超精细写实科幻建筑，干净的乌托邦粗野主义风格，电影级哑光绘画质感。
+
+[English]
+Create a cinematic vertical sci-fi concept art scene titled {argument name="project title" default="JFC-01 | THE GRAVITY LANE"}: a lone young woman walking away from the viewer along a monumental curved gravity road that bends upward from horizontal street level into a vertical skyscraper wall, as if the city is rewriting gravity to keep her path open. The woman is centered in the lower middle of the frame, small against the architecture, looking slightly upward to the right; she has a short black bob haircut and wears a sleek black-and-white futuristic bodysuit with armored panels, long gloves, high-tech boots, and a split white coat-tail or sash flowing behind her. The environment is an enormous clean megacity of pale concrete, steel, glass, and mist, filled with towering vertical skyscrapers, elevated bridges, skyways, and layered transit structures fading into atmospheric haze. The gravity lane is a wide pale concrete-and-metal track with visible panel seams, embedded grates, rail-like grooves, subtle red-orange guide lines along the curve, and strong perspective leading lines. Add readable urban infrastructure markings on buildings: one wall sign with a simple angular logo and the words {argument name="lane sign text" default="PRIORITY LANE"}, small subtext {argument name="lane subtext" default="FOR A RIGHT CITY"}, a distant tower marked {argument name="city logo text" default="JFC"}, and faint civic slogan text {argument name="civic slogan" default="PEOPLE CITIES HIGHER TOGETHER"}; keep the typography minimalist, industrial, and integrated into the architecture. Lighting is bright overcast daylight with soft shadows, cool blue-gray tones, slight bloom, realistic materials, polished wet-like reflections on the lane surface, immense scale, quiet awe, and no vehicles or crowds. Use a low rear three-quarter camera angle from lane level, wide-angle perspective, portrait 4:5 composition, hyper-detailed realistic sci-fi architecture, clean utopian brutalism, cinematic matte-painting quality.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2096477955140759840) | 2026-09-06
+
+---
+
+### 🏷️ 例 7570：真人与手绘双胞胎
+
+![真人与手绘双胞胎](../images/%E7%9C%9F%E4%BA%BA%E4%B8%8E%E6%89%8B%E7%BB%98%E5%8F%8C%E8%83%9E%E8%83%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具写实感的时尚杂志风格照片，展示一位年轻女性与她身边一位手绘插画女孩，后者是前者的微型视觉镜像。画面中仅包含 2 个形象：右侧为 1 位真实的年轻女性，左侧为 1 位手绘女孩。这位真实女性是一位身材苗条的东亚年轻女性，留着 {argument name="hair style" default="微卷的深棕色长发，配有柔和的刘海"}，戴着圆形金属细框眼镜，面带温柔微笑，姿态放松，双手插在夹克口袋里，低头看向旁边的插画女孩。她穿着 {argument name="outfit" default="钴蓝色工装夹克，内搭海军蓝横条纹米色毛衣，下身着象牙白百褶长裙，搭配白袜、酒红色乐福鞋，并背着一个小巧的棕褐色圆型斜挎包"}。插画女孩身材更矮小，带有童趣，采用素描铅笔轮廓和柔和的水彩阴影绘制，戴着大圆眼镜，脸颊红润，留着凌乱的深色长发，并穿着同款缩小版服装：蓝色夹克、条纹上衣、象牙白百褶裙、白袜、酒红色乐福鞋和棕褐色斜挎包。让插画看起来像是真实存在于同一空间，站在地面上并保持透视一致，但需保留清晰的墨水笔触和纹理质感。将两人置于 {argument name="background" default="一面带有细微灰泥纹理的素色灰色混凝土墙前，地面为粗糙的石板路"}。采用柔和的自然日光，使用低饱和度的杂志色调，在两人下方添加写实的阴影，并采用简洁的竖构图，在人物上方和周围留出充足的留白。整体氛围应兼具奇幻、宁静与时尚杂志感，将写实摄影与迷人的童书插画风格无缝融合。画面中不含文字、水印、额外人物或斜挎包以外的道具。
+
+[English]
+Create a highly realistic editorial-style fashion photograph of one real young woman standing beside one hand-drawn illustrated girl who looks like her miniature visual twin. The scene is vertical, full-body, shot against a plain textured gray concrete wall with a rough gray pavement floor, soft natural daylight, muted colors, and a clean minimal street-style composition. Place the illustrated girl on the left, about half the height of the real woman, and the real woman on the right, both facing slightly toward each other with gentle smiles. The real woman is a young East Asian woman with {argument name="hair style" default="long slightly wavy dark brown hair with wispy bangs"}, round thin eyeglasses, and a calm shy expression, looking down toward the illustrated girl. She wears {argument name="main outfit" default="a cobalt blue chore jacket over a cream sweater with navy horizontal stripes, a long cream pleated skirt, white socks, and burgundy leather loafers"}. Add a small round tan crossbody bag with a narrow strap worn diagonally across her torso; her hands are tucked casually into the jacket pockets. The illustrated girl should be a charming hand-drawn childlike counterpart with soft pencil-and-watercolor texture, slightly oversized head, rosy cheeks, round glasses, long messy dark hair, and the same outfit details: blue jacket, striped cream shirt, long cream skirt, white socks, burgundy loafers, and tan crossbody bag. Make the illustration appear physically present in the same space, aligned with the ground plane, with subtle contact shadow and believable scale, while preserving visible sketch outlines and painterly shading. Use a realistic 35mm editorial photo look, natural proportions for the real woman, crisp fabric detail, no text, no logos, no extra people, no props beyond the single tan bag on each figure.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2096476602775560372) | 2026-09-06
+
+---
+
+### 🏷️ 例 7586：卡通女孩滑板遛狗
+
+![卡通女孩滑板遛狗](../images/%E5%8D%A1%E9%80%9A%E5%A5%B3%E5%AD%A9%E6%BB%91%E6%9D%BF%E9%81%9B%E7%8B%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅明亮、俏皮的单格卡通插画，采用粗黑轮廓的手绘丙烯/水粉风格，具有明显的笔触质感和饱和的平涂色彩。场景：阳光明媚的奇幻城市街道，正面视角，带有轻微透视，蓝天上有 2 朵方块状白云。前景中，一位金发女孩留着长直发和刘海，皮肤白皙，有着绿松石色的长方形眼睛、小巧中性的嘴巴，身穿红色短袖衬衫、深蓝色裤子、红米色运动鞋，脚踩带有红色饰边和米色轮子的黑色滑板，手中牵着一根红色牵引绳。她正被 1 只快乐的橙白色柴犬向前拉动，柴犬向左奔跑，吐着舌头，卷着尾巴，黑色的眼睛和鼻子，戴着连接牵引绳的项圈。在女孩上方添加一个带有粗黑轮廓和 2 个小气泡点的巨大白色对话框，其中包含日语文本 {argument name="thought bubble text" default="これは\n犬の散歩と\nいえるのか…"}。背景：带有厚重黑色轮廓的彩色方块建筑，包括 4 栋主要建筑/标志结构：左侧是一家黄色店面，有两扇蓝色上窗、红白条纹遮阳篷、蓝色店面橱窗和红色门；其后是一栋亮粉色公寓楼，有四扇小窗和一个深色门洞；右侧是一栋蓝色建筑，上面有一个显示黑色猫咪剪影的黄色招牌；最右侧是一台带有彩色小按钮的红色自动售货机。画面中心包含 1 棵绿树，人行道旁有 3 个长方形灌木花坛，灰色沥青路面上有白色车道线，以及简单的城市细节。采用童趣十足的波普艺术构图，使用大胆且不均匀的黑色笔触，拒绝写实，拒绝渐变，不添加额外角色，保持幽默和充满活力的氛围。
+
+[English]
+Create a bright, playful single-panel cartoon illustration in a thick black-outlined, hand-painted acrylic/gouache style with visible brush texture and flat saturated colors. Scene: a whimsical city street on a sunny day, viewed straight-on with slight perspective, blue sky with exactly 2 blocky white clouds. In the foreground, a blonde girl with long straight hair and bangs, pale skin, turquoise rectangular eyes, a small neutral mouth, a red short-sleeve shirt, dark blue pants, red-and-cream sneakers, rides a black skateboard with red trim and cream wheels while holding a red leash. She is being pulled forward by exactly 1 happy orange-and-white Shiba Inu dog running to the left, tongue out, curled tail, black eyes and nose, wearing a collar attached to the leash. Add a large white thought bubble above the girl with thick black outline and exactly 2 small bubble dots, containing the Japanese text {argument name="thought bubble text" default="これは\n犬の散歩と\nいえるのか…"}. Background: colorful blocky buildings with heavy black outlines, including exactly 4 main buildings/sign structures: a yellow storefront at left with two blue upper windows, a red-and-white striped awning, blue shop windows and red door; a hot-pink apartment building behind it with four small windows and a dark doorway; a blue building on the right with a yellow sign showing a black cat silhouette; and a red vending machine at far right with small colored buttons. Include exactly 1 green tree in the center, exactly 3 rectangular planters with bushes along the sidewalk, a gray asphalt road with white lane markings, and simple urban details. Use a childlike pop-art composition, bold uneven black strokes, no photorealism, no gradients, no extra characters, keep the mood humorous and energetic.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2096431076541681665) | 2026-09-06
+
+---
+

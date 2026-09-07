@@ -4813,3 +4813,39 @@ Create a warm, detailed anime illustration of a young woman relaxing in a cozy s
 
 ---
 
+### 🏛️ 例 7547：复古卧室人像提示词
+
+![复古卧室人像提示词](../images/%E5%A4%8D%E5%8F%A4%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的室内人像，一位年轻女性站在 {argument name="setting" default="温馨、复古的卧室"} 里一面巨大的复古木框镜子旁。她留着一头长直的 {argument name="hair color" default="深棕色"} 中分发型，化着柔和的自然妆容，佩戴精致的耳环，表情优雅含蓄。她身穿一件 {argument name="outfit" default="无袖白色连衣裙，高领荷叶边设计，前襟饰有精致的蝴蝶结，并点缀着美丽的红色和绿色小碎花刺绣"}。她的一只手轻轻触碰脸颊旁的发丝，直视镜头。暖色柔光闪光灯摄影，带有轻微的胶片颗粒感，米色墙纸上印有细小的花纹，复古木质天花板横梁，营造出温馨怀旧的氛围，真实的皮肤质感，抓拍时尚摄影风格，比例真实，浅景深，竖构图，高细节。
+
+[English]
+A photorealistic indoor portrait of a young woman standing beside a large vintage wooden-framed mirror in a {argument name="setting" default="cozy, old-fashioned bedroom"}. She has long, straight {argument name="hair color" default="dark brown"} hair parted in the middle, soft natural makeup, delicate earrings, and a subtle elegant expression. She wears a {argument name="outfit" default="sleeveless white dress with a high ruffled neckline, delicate bow-tie detail at the front, and beautiful small embroidered red and green floral patterns"}. One hand is gently touching her hair near her face while she looks directly at the camera. Warm soft flash photography, slightly grainy film texture, muted beige wallpaper with tiny floral patterns, vintage wooden ceiling beam, cozy nostalgic atmosphere, natural skin texture, candid fashion photography, realistic proportions, shallow depth of field, vertical composition, high detail.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2096615378780594530) | 2026-09-06
+
+---
+
+### 🏛️ 例 7563：手绘旅行日记插画
+
+![手绘旅行日记插画](../images/%E6%89%8B%E7%BB%98%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转换为精致的手绘旅行日记插画，同时保留原始的构图、建筑、人物、树木、草地、道路和整体透视。采用传统的彩色铅笔和水彩素描美学，呈现于温暖、略显陈旧的米色纸张上。保持建筑物可辨识，但将其简化为富有表现力的手绘形状，呈现可见的铅笔笔触、随性的水彩渲染、细腻的纸张纹理、不完美的轮廓以及柔和的排线。保留阳光明媚的夏日氛围、柔和的蓝天、温暖的米色建筑、绿色的草坪、在草地上休闲的人群、长椅、树木和远处的汽车。使用柔和的复古旅行素描色调，带有自然的瑕疵和低调的色彩。将插画放置在页面下方，周围留出充足的米色负空间。在上方添加优雅的手写字体：“Sunny Days”，下方添加：“— Good time —”。极简、怀旧、艺术旅行杂志美学，将模拟摄影转化为个人素描本记忆，精致且真实，拒绝照片写实感。将参考照片转换为迷人的复古旅行素描本插画，保留狭窄蓝砖建筑、红色门窗、复古路灯、站在旁边的男子、人行道、天空以及水中倒影的精确视觉构图和可辨识细节。将所有内容渲染为纹理质感暖象牙色纸上的手绘彩色铅笔和水彩插画。使用随性的铅笔轮廓、可见的彩色铅笔笔触、细腻的水彩渲染、微妙的排线、略显不完美的边缘以及真实的手工日记美学。保留独特的狭窄建筑和戏剧性的空旷天空，同时将写实细节简化为艺术形状。保持褪色蓝、砖红、暖赭石、柔和绿和淡天蓝的原始色调。在浅水坑中包含建筑物和路灯的倒影。在顶部添加手写标题：“Small town”，底部添加：“Big dreams”。怀旧欧洲旅行日记，宁静超现实氛围，极简编辑构图，大量的米色负空间，触感纸张纹理，美妙而不完美的模拟插画，拒绝照片写实感。
+
+[English]
+Transform the reference photograph into a delicate hand-drawn travel journal illustration while preserving the original composition, architecture, people, trees, grass, road, and overall perspective. Use a traditional colored-pencil and watercolor sketch aesthetic on warm, slightly aged cream paper. Keep the buildings recognizable but simplify them into expressive hand-drawn shapes, with visible pencil strokes, loose watercolor washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Preserve the sunny summer atmosphere, soft blue sky, warm beige buildings, green lawn, scattered people relaxing on the grass, benches, trees, and distant cars. Use a muted vintage travel-sketch palette with natural imperfections and understated colors. Place the illustration in the lower portion of the page with generous cream-colored negative space around it. Add elegant handwritten typography above: “Sunny Days”, and below: “— Good time —”. Minimal, nostalgic, artistic travel magazine aesthetic, analog photography transformed into a personal sketchbook memory, sophisticated and authentic, no photorealism. Transform the reference photograph into a charming vintage travel sketchbook illustration, keeping the exact visual composition and recognizable details of the narrow blue-brick building, red doors and windows, vintage street lamp, man standing beside it, pavement, sky, and reflections in the water. Render everything as a hand-drawn colored-pencil and watercolor illustration on textured warm ivory paper. Use loose pencil contours, visible colored-pencil strokes, delicate watercolor washes, subtle cross-hatching, slightly imperfect edges, and an authentic handmade journal aesthetic. Preserve the unusual narrow architecture and dramatic empty sky while simplifying realistic details into artistic shapes. Maintain the original palette of faded blue, brick red, warm ochre, soft green and pale sky blue. Include the reflected building and street lamp in the shallow puddle. Add handwritten title at the top: “Small town”, and at the bottom: “Big dreams”. Nostalgic European travel diary, quiet surreal atmosphere, minimalist editorial composition, lots of cream negative space, tactile paper grain, beautifully imperfect analog illustration, no photorealism.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2096518558130065826) | 2026-09-06
+
+---
+
