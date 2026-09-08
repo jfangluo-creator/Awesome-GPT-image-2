@@ -9977,3 +9977,21 @@ The caption should look naturally handwritten with a casual brown/gray pencil or
 
 ---
 
+### 🎬 例 7645：可爱小熊猫儿童插画
+
+![可爱小熊猫儿童插画](../images/%E5%8F%AF%E7%88%B1%E5%B0%8F%E7%86%8A%E7%8C%AB%E5%84%BF%E7%AB%A5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅趣味十足的单格插画，描绘一只可爱的小熊猫从左向右行走，采用简约的儿童绘本风格。使用 4:3 的横向画布，色彩明亮饱和，线条为粗犷且不均匀的黑色轮廓，形状扁平，并带有明显的手绘丙烯或水粉画笔触。小熊猫应占据画面的大部分空间，拥有超大的圆形头部、带有深色内三角的大型白色耳朵、圆圆的黑白大眼睛、小巧的黑鼻子、微笑的嘴巴、白色眉斑、白色脸颊斑纹、红橙色皮毛、深棕色的腿部和面部遮罩区域，以及一条向右延伸的巨大蓬松环纹尾巴，尾巴上有橙色和深棕色交替的条纹。将动物置于底部的一条暖黄色至橙色的地面带上，背景为鲜艳的蓝色天空。添加 6 个背景元素：2 棵风格化的树，树干为棕色，树冠为块状绿色，一棵在最左侧被裁剪，另一棵在最右侧被裁剪；2 朵带有粗黑色轮廓的白色蓬松云朵，一朵较大位于顶部中心，另一朵较小位于右上角；以及 2 丛在左下角和右下角被裁剪的绿色灌木或草丛。整体构图保持欢快且稚拙，如同大胆的幼儿园艺术海报，画面中不含文字、不追求写实、没有渐变，且无水印。
+
+[English]
+Create a bright, playful cartoon illustration of {argument name="animal" default="red panda"} walking left to right through a simple forest scene, drawn in a bold children’s picture-book style with thick black outlines, flat shapes, and visible acrylic or gouache brush texture. Use a horizontal 4:3 canvas. The red panda should fill most of the frame, with an oversized rounded head, very large circular black-and-white eyes, small smiling mouth, pointed ears with cream interiors and dark centers, orange-red fur, cream cheek patches and eyebrows, dark reddish-brown legs and facial markings, and a huge fluffy ringed tail curving to the right with alternating orange and dark brown stripes. Background: saturated cyan-blue sky, warm yellow-orange ground path, green grassy edges, and simple blocky scenery. Include exactly 2 white puffy clouds with thick black outlines in the sky, exactly 2 stylized trees at the left and right edges with brown trunks and angular green canopies, and exactly 2 green foreground bushes at the bottom left and bottom right. Keep the composition cheerful, graphic, and childlike; avoid realism, fine fur detail, gradients, text, watermark, or extra animals. Use {argument name="outline thickness" default="very thick black outlines"}, {argument name="sky color" default="bright cyan blue"}, {argument name="ground color" default="warm golden orange"}, and {argument name="art medium" default="textured acrylic paint"}.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2096827340718485925) | 2026-09-07
+
+---
+

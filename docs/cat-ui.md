@@ -15657,3 +15657,101 @@ Create a highly realistic cinematic photorealistic vertical image of a sick mini
 
 ---
 
+### 🖥️ 例 7605：田园奶牛拼贴双联画
+
+![田园奶牛拼贴双联画](../images/%E7%94%B0%E5%9B%AD%E5%A5%B6%E7%89%9B%E6%8B%BC%E8%B4%B4%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张垂直的编辑类拼贴图像，表现一个宁静的田园午后，将上方的写实风景摄影与下方的极简纸艺水墨拼贴插画相结合。
+
+画布：竖构图，比例约为 3:4。将图像水平分为两个相等的部分，中间以清晰的直线为界：上半部分为全出血的写实乡村照片，下半部分为米白色纹理纸张的拼贴构图。
+
+上半部分：展示明亮的绿色起伏牧场，上方是湛蓝的天空和巨大的柔和白云。在山坡上放置 11 头黑白荷斯坦奶牛：左下边缘有 1 头奶牛的局部剪影，左侧有 2 头紧挨着的吃草奶牛，中左侧有 1 头站立的奶牛，其后方有 1 头深色吃草奶牛，中心地平线上有 1 头远处的奶牛，中上方有 1 头深色奶牛，中心右侧有 1 头吃草奶牛，右上地平线上有 1 头远处的小奶牛，右侧有 2 头紧挨着的奶牛，最右侧边缘有 1 头被截断的奶牛局部。使用自然光、柔和的阴影以及宁静开阔的田野氛围。
+
+下半部分：在温暖的象牙色水彩纸上，创建一个略低于中间位置的稀疏混合媒介拼贴画。包含 1 头黑白荷斯坦奶牛，正在一小条撕裂的绿色草地纸上吃草。在其后方，叠加 2 个撕裂的纸片：1 个带有模糊不清手写字迹的浅米色长方形纸片，以及上方 1 个不规则的天蓝色云朵形状纸片。在奶牛周围添加随意的黑色铅笔草地涂鸦和细水平素描线，右侧添加一个简单的细垂直与水平线标记，并点缀少量微小的墨点和浅色半透明胶带长方形。
+
+文字内容：在底部拼贴画中添加 4 个小文字元素：右侧为三个堆叠的小写单词，末尾带句号，分别为“grass.”、“wind.”和“quiet.”；左下角为手写草书文本“a long afternoon”。保持文字细小、低调且略带不完美感。
+
+视觉风格：上半部分应呈现出干净的乡村摄影质感；下半部分应呈现出精致的剪贴簿重构感，包含撕裂纸张、水彩晕染、铅笔痕迹、留白以及受日式杂志启发的极简主义风格。使用柔和的自然色彩，营造宁静的氛围，画面中不包含人物，除指定的奶牛外没有其他动物，无边框，无水印。
+
+[English]
+Goal: Create a vertical editorial collage image about a quiet pastoral afternoon, combining a realistic landscape photograph on top with a minimalist paper-and-ink collage illustration below.
+
+Canvas: Portrait format, approximately 3:4 ratio. Divide the image horizontally into two equal sections with a clean straight boundary: the top half is a full-bleed realistic countryside photo, the bottom half is an off-white textured paper collage composition.
+
+Top section: Show a bright green rolling pasture under a vivid blue sky with large soft white cumulus clouds. Place exactly 11 black-and-white Holstein cows across the hill: 1 partial cow silhouette at the far lower-left edge, 2 grazing cows close together on the left, 1 standing cow near center-left, 1 dark grazing cow just behind it, 1 distant cow on the center horizon, 1 dark cow near the upper middle, 1 grazing cow right of center, 1 small distant cow on the upper-right horizon, 2 cows close together on the right, and 1 partial cow cut off at the far-right edge. Use natural daylight, gentle shadows, and a calm open-field atmosphere.
+
+Bottom section: On warm ivory watercolor paper, create a sparse mixed-media collage centered slightly below the middle. Include exactly 1 black-and-white Holstein cow grazing on a small torn green grass-paper strip. Behind it, layer exactly 2 torn paper shapes: 1 pale beige rectangular scrap with faint illegible handwriting and 1 irregular sky-blue cloud-shaped scrap above it. Add loose black pencil grass scribbles and thin horizontal sketch lines around the cow, plus a simple thin vertical-and-horizontal line marker on the right with a few tiny ink speckles and pale translucent tape rectangles.
+
+Text content: Add exactly 4 small text elements in the bottom collage: on the right, three stacked lowercase words with periods, “grass.”, “wind.”, and “quiet.”; at the lower left, handwritten cursive text reading “a long afternoon”. Keep the text small, understated, and slightly imperfect.
+
+Visual style: The top half should feel like clean rural photography; the bottom half should feel like a delicate scrapbook reconstruction with torn paper, watercolor wash, pencil marks, negative space, and Japanese-zine-inspired minimalism. Use soft natural colors, quiet mood, no people, no extra animals beyond the counted cows, no frame, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2097003941955514532) | 2026-09-07
+
+---
+
+### 🖥️ 例 7607：水下河流拓片双联画
+
+![水下河流拓片双联画](../images/%E6%B0%B4%E4%B8%8B%E6%B2%B3%E6%B5%81%E6%8B%93%E7%89%87%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅竖版艺术双联海报，通过对比写实的“水下河流场景”与同一场景的“中式传统拓片”诠释，展现文化遗迹拓片感与静谧的东方水韵美学。
+
+画布：竖向构图，比例为 3:4。将画面分为 2 个水平面板：顶部面板约占画布的 45%，呈现生动的水下摄影风格场景；底部面板约占 55%，呈现陈旧的象牙色纸本艺术效果。
+
+顶部面板：展示从水下视角观察的清澈浅滩河流，顶部可见波光粼粼的水面、青蓝色的阳光光束、沙石河床以及水生植物。画面中需包含 5 条清晰可见的鱼：左中位置有 3 条较大的银色鱼向左游动，中右位置有 1 条小型深色鱼，右下位置有 1 条中型鱼。添加若干根系水生植物，包括前景中 3 簇突出的植物，并带有柔和的焦散光和自然的景深雾气。氛围应宁静、通透、古朴且富有诗意。
+
+底部面板：将同一场景重新诠释为暖色手工纸上的疏朗水墨拓片。使用粗糙、断裂、印章式的纹理，如石碑拓片或青铜铭文转印痕迹，而非平滑的毛笔画。上半部分包含 4 条鱼的拓片剪影：左侧 2 条较大的鱼，中心附近 1 条较小的鱼，右侧 1 条小鱼。下半部分包含 3 簇主要的水生植物拓片，呈现不规则的茎秆、斑驳的墨迹缺口以及做旧的边缘。
+
+纸张面板左下角的文字内容：使用深灰色精致的小字衬线字体。包含标题 {argument name="title text" default="清流"}，随后是短诗 {argument name="poem text" default="河流承载着\n时光遗忘的一切。"}。在一条细竖分割线下方，添加 {argument name="series text" default="东方水韵\n水墨拓片\n第 27 号"}。在文字下方添加一枚小巧的红色方形印章。
+
+视觉风格：优雅的博物馆海报构图，极简且引人深思。顶部为电影级的水下写实风格，采用青色、蓝绿色和深阴影色调；底部为米色宣纸上的单色水墨，带有细腻的颗粒感、污渍和天然纤维纹理。上方灵动的流水与下方考古学般的墨迹印象形成强烈对比。
+
+约束条件：保持两个面板由一条水平直线清晰分隔。除指定数量外，不得增加额外的鱼。避免出现现代 UI 元素、边框、左下角文字块之外的说明文字或装饰性边框。保持静谧的中国古董美学，仿佛河流生态系统被转化为一件文化遗迹拓片。
+
+[English]
+Goal: Create a vertical fine-art diptych poster that contrasts a realistic underwater river scene with a traditional Chinese-style ink rubbing interpretation of the same scene, inspired by cultural relic rubbings and quiet Eastern water aesthetics.
+
+Canvas: Portrait orientation, 3:4 ratio. Divide the image into 2 horizontal panels: the top panel occupies about 45% of the canvas and is a vivid underwater photograph-like scene; the bottom panel occupies about 55% and is an aged ivory paper artwork.
+
+Top panel: Show a clear shallow river viewed from underwater, with rippling water surface across the top, turquoise-blue sunlight beams, sandy and rocky riverbed, and aquatic vegetation. Include exactly 5 visible fish: 3 larger silver fish swimming left-to-right across the middle-left, 1 small dark fish near the center-right, and 1 medium fish near the lower-right. Add several rooted aquatic plants, including 3 prominent plant clusters in the foreground, with soft caustic light and natural depth haze. The mood should feel calm, transparent, ancient, and poetic.
+
+Bottom panel: Reinterpret the same scene as a sparse black ink rubbing on warm handmade paper. Use rough, broken, stamped textures like stone-rubbing or bronze-inscription transfer marks, not smooth brush painting. Include exactly 4 fish rubbing silhouettes across the upper half: 2 larger fish on the left, 1 smaller fish near the center, and 1 small fish on the right. Include exactly 3 main aquatic plant rubbing clusters along the lower half, with irregular stems, speckled ink gaps, and distressed edges.
+
+Text content on the lower-left of the paper panel: Set small refined serif text in dark gray. Include the title {argument name="title text" default="Clear Current"}, then the short poem {argument name="poem text" default="Rivers hold\nwhat time forgets."}. Beneath a thin vertical divider line, add {argument name="series text" default="Eastern Waters\nInk Rubbing\nNo.27"}. Add a small square red seal stamp below the text.
+
+Visual style: Elegant museum-poster composition, minimal and contemplative. The top is cinematic underwater realism with teal, cyan, and deep shadow tones; the bottom is monochrome black ink on cream rice paper with subtle grain, stains, and natural fiber texture. Strong contrast between living water above and archaeological ink impression below.
+
+Constraints: Keep the two panels cleanly separated by a straight horizontal boundary. Do not add extra fish beyond the specified counts. Avoid modern UI elements, frames, captions outside the lower-left text block, or decorative borders. Maintain a quiet Chinese antiquarian aesthetic, as if a river ecosystem has been transformed into a cultural relic rubbing.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096998395332428188) | 2026-09-07
+
+---
+
+### 🖥️ 例 7628：电影级角色档案设定集
+
+![电影级角色档案设定集](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E6%A1%A3%E6%A1%88%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="character name" default="BABY"} 创建一份高级电影级角色档案设定集。请将上传的角色设定图作为严格的视觉参考，不得更改其外观。左侧：左上角使用巨大的粗体笔触文字显示 {argument name="character name" default="BABY"}，颜色为 {argument name="accent color" default="deep red"}。小字部分：{argument name="subtitle" default="THE DRIVER / BABY DRIVER"}。
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="character name" default="BABY"}. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text {argument name="character name" default="BABY"} top left, {argument name="accent color" default="deep red"}. Small text: {argument name="subtitle" default="THE DRIVER / BABY DRIVER"}.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2096919376792256967) | 2026-09-07
+
+---
+

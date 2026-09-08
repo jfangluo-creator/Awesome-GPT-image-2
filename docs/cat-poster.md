@@ -33275,3 +33275,450 @@ Composition: vertical magazine-cover layout, subject positioned toward the right
 
 ---
 
+### 🎴 例 7598：饮料与冷冻食品营销产品视觉图
+
+![饮料与冷冻食品营销产品视觉图](../images/%E9%A5%AE%E6%96%99%E4%B8%8E%E5%86%B7%E5%86%BB%E9%A3%9F%E5%93%81%E8%90%A5%E9%94%80%E4%BA%A7%E5%93%81%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+【商品・パッケージ】
+・商品名・ジャンル: {argument name="商品名" default="焙煎茶"}
+・訴求したい魅力: {argument name="コピー" default="芳醇な香りとコク"}
+
+【デザインギミック】
+・背景のビジュアル要素: {argument name="背景グラフィック" default="鮮やかな朱色の丸"}
+
+【画質・演出・構図指定】
+・スタイル: ポップで鮮やかな日本のコンビニや食品メーカーのキャンペーンKV。シズル感と高い視覚的インパクト。
+・被写体: 中央に配置された{argument name="商品名" default="焙煎茶"}の缶やボトル、またはパッケージ。周囲には氷の破片、水滴、しぶき、あるいは商品の新鮮な原材料（茶葉や果物）が躍動感をもって飛び散っている。
+・背景: {argument name="背景グラフィック" default="鮮やかな朱色の丸"}をメインのグラフィック要素として配置した、コントラストが高く鮮明な単色またはグラデーション背景。
+・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {argument name="コピー" default="芳醇な香りとコク"}というコピーが、商品と重ならない位置に太く元気なフォントで配置されている。
+・照明・色彩: 明るく鮮やかなスタジオ照明、クリスタルクリアな反射、エネルギッシュな色彩構成。
+
+【レイアウトおよび出力上の厳格な制約（必須）】
+・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。
+・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・アスペクト比: --ar 16:9
+```
+
+**来源：** [@AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote/status/2097040165009252374) | 2026-09-07
+
+---
+
+### 🎴 例 7608：科莫湖双色印刷双联画
+
+![科莫湖双色印刷双联画](../images/%E7%A7%91%E8%8E%AB%E6%B9%96%E5%8F%8C%E8%89%B2%E5%8D%B0%E5%88%B7%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个双联水平构图，将真实的湖畔村庄照片与同一场景的简化版双色错位印刷插图进行对比。
+
+画布：宽屏 16:9 横向画布，精确平分为 2 个垂直面板。
+
+布局：左侧面板为写实的旅行照片；右侧面板为暖米白色纸张上的极简海报风格插图。面板之间除清晰的垂直分割线外，无边框。
+
+左侧面板：展示一个风景如画的欧洲湖畔村庄，坐落在陡峭且森林茂密的群山脚下。画面下三分之一处为绿松石色的湖水，一排黄色、粉色、奶油色和赤陶色的水滨建筑，中心偏左处有一座显眼的尖顶红褐色教堂钟楼。背后的山峦郁郁葱葱，点缀着岩石和高大的深色柏树。光线为自然日光，清晰但略显柔和，如同科莫湖的旅行照片。
+
+右侧面板：将同一村庄重构为复古的双色丝网印刷 / 孔版印刷风格插图。仅使用 2 种油墨颜色：深青绿色用于阴影、树木、轮廓和水纹；铁锈橙色用于屋顶装饰、塔尖、鸟类和部分线条细节。背景大部分为带有细微纹理的暖象牙色纸张。村庄插图位于下半部分，中心偏右，高耸的教堂塔楼从屋顶上方升起。线条刻意呈现不完美感，带有轻微的色彩错位、稀疏的阴影线和断裂的油墨质感。在村庄右上角添加 3 只小橙色鸟。在插图右上角上方添加 1 句简短引语 {argument name="quote" default="where the lake\nholds its breath."}，并在其下方添加 1 条水平青绿色短线。
+
+风格：编辑类旅行海报美学、静谧的留白、优雅且不完美的版画工艺、双色油墨、宁静的湖泊氛围、精致的极简主义、怀旧的欧洲村庄意境。
+
+参数：场景为 {argument name="location" default="a Lake Como waterfront village"}；主要油墨颜色为 {argument name="primary ink color" default="deep teal-green"} 和 {argument name="accent ink color" default="rusty orange"}；纸张背景为 {argument name="paper color" default="warm ivory"}。
+
+约束：使用 2 个面板，右侧面板仅使用 2 种油墨颜色，精确包含 3 只鸟、1 个引语块和 1 条下划线。不要添加任何徽标、水印、额外说明文字、人物、船只或现代物品。
+
+[English]
+Goal: Create a two-panel horizontal composition comparing a real lakeside village photo with a simplified two-color misregistered print illustration of the same scene.
+
+Canvas: Wide 16:9 landscape canvas, split exactly into 2 equal vertical panels.
+
+Layout: Left panel is a realistic travel photograph; right panel is a minimalist poster-style illustration on warm off-white paper. No border between panels except the clean vertical split.
+
+Left panel: Show a picturesque European lakeside village at the base of a steep, densely forested mountain. Include turquoise lake water filling the lower third, a row of pastel waterfront buildings in yellow, pink, cream, and terracotta, and one prominent church bell tower with a pointed reddish spire near the center-left. The mountain behind is lush deep green with rocky patches and tall dark cypress trees. Lighting is natural daylight, crisp but slightly softened, like a travel photo of Lake Como.
+
+Right panel: Recreate the same village as a vintage two-color screenprint / risograph-style illustration. Use exactly 2 ink colors: teal-green for shadows, trees, outlines, and water marks; rusty orange for roof accents, tower spire, birds, and selective line details. Background is mostly empty warm ivory paper with subtle grain. The village illustration sits in the lower half, slightly right of center, with a tall church tower rising above the roofs. Lines are intentionally imperfect with slight color misregistration, sparse hatching, and broken ink texture. Add exactly 3 small orange birds to the upper right of the village. Add exactly 1 short quote above the illustration on the upper right reading {argument name="quote" default="where the lake\nholds its breath."} and exactly 1 small horizontal teal line underneath it.
+
+Style: Editorial travel-poster aesthetic, quiet negative space, elegant imperfect printmaking, two-color ink, calm lake atmosphere, refined minimalism, nostalgic European village mood.
+
+Parameters: The scene is {argument name="location" default="a Lake Como waterfront village"}; the main ink colors are {argument name="primary ink color" default="deep teal-green"} and {argument name="accent ink color" default="rusty orange"}; the paper background is {argument name="paper color" default="warm ivory"}.
+
+Constraints: Use exactly 2 panels, exactly 2 ink colors in the right panel, exactly 3 birds, exactly 1 quote block, and exactly 1 underline. Do not add logos, watermarks, extra captions, people, boats, or modern objects.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096997196524826632) | 2026-09-07
+
+---
+
+### 🎴 例 7609：海滨照片与炭笔素描海报
+
+![海滨照片与炭笔素描海报](../images/%E6%B5%B7%E6%BB%A8%E7%85%A7%E7%89%87%E4%B8%8E%E7%82%AD%E7%AC%94%E7%B4%A0%E6%8F%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张分为上下两部分的竖版编辑风格海报。上方：一张明亮、梦幻且写实的摄影作品，画面中一位留着深色长发的年轻女性身穿宽松的白色无袖夏装，坐在陡峭海滨小镇街道上阳光明媚的石阶上。她转向镜头，笑容温暖，身边坐着一只背对着她、望向港口的玳瑁猫。街道在古老的日式瓦顶房屋间倾斜而下，配有白色栏杆、石墙、电线杆，左侧前景点缀着盛开的淡紫色绣球花。背景展现出波光粼粼的蓝色内海、小岛、港口码头、微小的船只、柔和的远山以及清澈的淡蓝色天空。采用清晨的金色阳光、逆光高光、浅景深、自然的镜头光晕、轻盈的海岸氛围以及怀旧的日本旅行摄影美学。下方：大面积的米白色手工纸纹理，右侧偏中心位置放置着同一场景的极简炭笔与彩色铅笔素描复刻：画面中仅有 2 个主体，即坐着的微笑女性和望向大海的玳瑁猫，用随性的黑色碳笔线条勾勒，点缀少量暖棕色和柔和的红色，并配有几片红色或橙色的小花瓣。在下方左侧，添加小号衬线字体，内容为：“Some days\nfeel like this.”，下方加一条细短的柔和红色下划线，再配以更小的文字：“Same sky,\na kinder me.” 保持上半部分为摄影效果，下半部分为手绘风格，留出充足的负空间，带有柔和的颗粒感，呈现优雅的杂志排版，营造宁静治愈的氛围，画面中无其他人物，无水印。可自定义元素：{argument name="main subject" default="留着深色长发的年轻女性，身穿宽松的白色无袖夏装"}, {argument name="animal companion" default="玳瑁猫"}, {argument name="location" default="阳光明媚的日本海滨小镇，俯瞰港口与岛屿"}, {argument name="main quote" default="Some days\nfeel like this."}, {argument name="small caption" default="Same sky,\na kinder me."}
+
+[English]
+Create a vertical editorial poster split into 2 stacked panels. Top panel: a bright, dreamy realistic photograph of a young woman with long dark hair wearing a loose white sleeveless summer dress, sitting on sunlit stone steps on a steep seaside town street. She is turned toward the camera, smiling warmly, with 1 calico cat sitting beside her facing away toward the harbor. The street slopes down between old Japanese-style houses with tiled roofs, white railings, stone walls, utility poles, greenery, and blooming pale purple hydrangeas on the left foreground. In the background, show a sparkling blue inland sea with small islands, a harbor pier, tiny boats, soft distant mountains, and a clear pale blue sky. Use golden morning sunlight, backlit highlights, shallow depth of field, natural lens flare, airy coastal atmosphere, and a nostalgic Japanese travel-photography aesthetic. Bottom panel: large off-white handmade paper texture with a minimalist charcoal-and-colored-pencil sketch recreation of the same scene placed slightly right of center: exactly 2 figures, the smiling seated woman in a white dress and the calico cat facing the sea, drawn with loose black carbon-pencil strokes, sparse warm brown and muted red accents, and a few small red-orange petals or flowers. On the left side of the bottom panel, add small serif text reading exactly: “Some days\nfeel like this.” then a short thin muted red underline, then smaller text reading exactly: “Same sky,\na kinder me.” Keep the top half photographic and the bottom half hand-drawn, with generous negative space, soft grain, elegant magazine layout, calm healing mood, no extra people, no watermark. Customizable elements: {argument name="main subject" default="young woman with long dark hair in a loose white sleeveless summer dress"}, {argument name="animal companion" default="calico cat"}, {argument name="location" default="sunlit Japanese seaside town overlooking a harbor and islands"}, {argument name="main quote" default="Some days\nfeel like this."}, {argument name="small caption" default="Same sky,\na kinder me."}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2096995555625091326) | 2026-09-07
+
+---
+
+### 🎴 例 7610：优雅的印度旅行海报
+
+![优雅的印度旅行海报](../images/%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%B0%E5%BA%A6%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张优雅的竖版旅行海报 / 杂志封面，以庆祝 {argument name="country title" default="INDIA"}，展现印度地标、风景、人文与文化的梦幻艺术拼贴。
+
+画布：纵向格式，4:5 比例，暖象牙色纸张背景，带有细腻的复古颗粒感，隐约可见的垂直引导线，左上角部分可见精致的曼陀罗线条艺术，以及极简主义的编辑排版。
+
+布局：在顶部放置一个字间距较大的衬线体大标题，内容为“{argument name="country title" default="INDIA"}”。在其正下方添加副标题“A VISUAL PORTRAIT OF INDIA”，然后是一行小字“No. 05 — 2026”。主体插图占据中间和下方的三分之二，水面反射占据底部三分之一。包含小型编辑文本块：左侧为“MANY / LANDS / ONE SOUL”，右上角为“PEOPLE / PLACES / CULTURE / A BRIGHTER / TOMORROW”，中右侧为“TIMELESS / ALWAYS / INDIA”，底部居中为“A MORE BEAUTIFUL WORLD”。
+
+主体细节：构建一个浪漫的印度综合场景，包含 10 个主要可见的地标和文化元素：1) 远景中白雪皑皑的喜马拉雅山脉，2) 前方层叠的雾气缭绕的蓝绿色山麓，3) 左侧山坡上宏伟的拉贾斯坦风格山堡，4) 延伸至水面的奶油色和砂岩色河畔房屋与河坛，5) 中心附近装饰华丽的寺庙尖塔，6) 右侧由柔和白色大理石建造、带有尖塔的泰姬陵，7) 左侧远端覆盖着粉色三角梅、带有雕刻柱子的河畔凉亭，8) 左侧前景中倾斜的高大棕榈树，9) 前景中平静的河船与人物，以及 10) 右侧河岸上行走的大象与骑手。在台阶和河岸上添加许多穿着传统服饰的小人物，但保持其微小且具有绘画感。
+
+氛围与色彩：使用奶油色、桃色、柔金色、灰玫瑰色、淡蓝色、鼠尾草绿和砂岩色的明亮日出/日落色调。在右侧山丘后方添加一个巨大的淡桃色太阳圆盘，一个较小的内部太阳圆圈，以及两群飞鸟：一群靠近太阳，另一群反射在右下方的水面附近。让水面以柔和的涟漪倒映出建筑物、泰姬陵、树木、船只和天空。
+
+视觉风格：高度细腻的浪漫水彩与水粉插画，融合豪华旅行杂志设计、精致的衬线排版、逼真的建筑细节、大气雾气、柔和的纸张纹理、平衡的对称感、电影般的景深，且不含任何现代物品。保持场景的理想化、宁静与宏伟。
+
+[English]
+Goal: Create an elegant vertical travel poster / magazine cover celebrating {argument name="country title" default="INDIA"}, with a dreamy fine-art collage of Indian landmarks, landscapes, people, and culture.
+
+Canvas: Portrait format, 4:5 aspect ratio, warm ivory paper background with subtle vintage grain, faint vertical guide lines, delicate mandala line art partially visible in the upper-left corner, and minimalist editorial typography.
+
+Layout: Place a large spaced-out serif headline at the top reading “{argument name="country title" default="INDIA"}”. Directly beneath it, add the subtitle “A VISUAL PORTRAIT OF INDIA”, then a small issue line “No. 05 — 2026”. The main illustration fills the middle and lower two-thirds, with water reflection occupying the bottom third. Include small editorial text blocks: left side “MANY / LANDS / ONE SOUL”, upper right “PEOPLE / PLACES / CULTURE / A BRIGHTER / TOMORROW”, mid-right “TIMELESS / ALWAYS / INDIA”, and bottom center “A MORE BEAUTIFUL WORLD”.
+
+Subject details: Build a romantic composite Indian scene with exactly 10 major visible landmark and cultural elements: 1) snow-covered Himalayan mountains in the far background, 2) misty blue-green foothills layered in front, 3) a grand Rajasthan-style hill fort on the left hillside, 4) cream and sandstone riverside houses and ghats descending to the water, 5) ornate temple spires near the center, 6) the Taj Mahal on the right in soft white marble with minarets, 7) a riverside pavilion with carved columns on the far left covered in pink bougainvillea, 8) a tall palm tree leaning over the left foreground, 9) calm river boats with people in the foreground, and 10) an elephant with riders walking along the right riverbank. Add many tiny figures in colorful traditional clothing on the steps and riverfront, but keep them small and painterly.
+
+Atmosphere and color: Use a luminous sunrise/sunset palette of cream, peach, soft gold, dusty rose, pale blue, sage green, and sandstone. Add a large pale peach sun disk on the right behind the hills, a smaller inner sun circle, and exactly two clusters of flying birds: one cluster near the sun and one cluster reflected/near the lower-right water. Make the water mirror the buildings, Taj Mahal, trees, boats, and sky with soft ripples.
+
+Visual style: Highly detailed romantic watercolor and gouache illustration blended with luxury travel-magazine design, refined serif typography, realistic architectural detail, atmospheric mist, soft paper texture, balanced symmetry, cinematic depth, and no modern objects. Keep the scene idealized, peaceful, and majestic.
+```
+
+**来源：** [@Sahil](https://x.com/sahil_modhia/status/2096994317663633521) | 2026-09-07
+
+---
+
+### 🎴 例 7612：Cinematic GPT-Image 2.5 海报
+
+![Cinematic GPT-Image 2.5 海报](../images/Cinematic%20GPT-Image%202.5%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="headline text" default="GPT-IMAGE-2.5"} 创建一张电影级超写实宽屏宣传图。前景展示一位年轻的女性探险家，半身像，被雨水淋湿，留着湿漉漉的深棕色波浪卷发，身穿一件泥灰棕色的开衫外套，内搭深色背心，皮肤带有光泽，正抬头望向左上方，露出惊喜的笑容。将她置于画面偏左位置，背光处是穿透风暴云层的戏剧性金色阳光。环境设定为雨后史诗般的奇幻自然山谷：下方有广阔的湖泊和森林岛屿、远处的悬崖、薄雾和雨丝，右上方的天空中横跨着一道巨大的明亮彩虹，右侧悬崖上有一道显眼的瀑布倾泻入湖。采用高端电影海报布光、超精细纹理、体积光、镜头光晕、湿润的反射效果，冷蓝灰色的风暴云层与温暖的金色高光形成对比，女性主体采用浅景深效果，构图比例为 16:9。在画面下三分之一处添加巨大的优雅大写无衬线字体标题，颜色为奶油白，带有微妙的金色光晕和轻微阴影，并有一道水平光晕穿过文字。确保文字清晰可读，内容为 {argument name="headline text" default="GPT-IMAGE-2.5"}，画面中不要包含任何额外的徽标、说明文字、水印或界面元素。
+
+[English]
+Create a cinematic photorealistic widescreen promotional image for {argument name="headline text" default="GPT-IMAGE-2.5"}. Show one young woman adventurer in the foreground, waist-up, soaked by rain, with wet dark brown wavy hair, a muddy gray-brown open overshirt over a dark tank top, glowing skin highlights, and a joyful amazed smile as she looks upward toward the left. Place her slightly left of center, backlit by dramatic golden sunlight breaking through storm clouds. The environment is an epic fantasy-natural valley after a rainstorm: a vast lake and forested islands below, distant cliffs, mist, rain streaks, one large bright rainbow arcing across the upper right sky, and one prominent waterfall dropping from the right-side cliffs into the lake. Use high-end movie poster lighting, ultra-detailed textures, volumetric sun rays, lens flare, wet reflections, warm gold highlights against cool blue-gray storm clouds, shallow depth of field on the woman, and a 16:9 composition. Add the headline text in huge elegant uppercase sans-serif letters across the bottom third, cream-white with subtle gold glow, slight shadow, and a horizontal light flare crossing through the text. Keep the text exactly readable as {argument name="headline text" default="GPT-IMAGE-2.5"}, with no extra logos, captions, watermarks, or interface elements.
+```
+
+**来源：** [@Mark Kretschmann](https://x.com/mark_k/status/2096983331313275207) | 2026-09-07
+
+---
+
+### 🎴 例 7616：《月光》洛可可风格海报
+
+![《月光》洛可可风格海报](../images/%E3%80%8A%E6%9C%88%E5%85%89%E3%80%8B%E6%B4%9B%E5%8F%AF%E5%8F%AF%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一篇关于德彪西《贝加莫组曲》的古典音乐 Substack 文章创作一张电影质感的宣传海报，画面包含月光下的洛可可式化装舞会花园场景，并配有醒目的西班牙语排版。
+
+画布：宽幅 16:9 横向海报，尺寸约为 1200×675 像素，采用深蓝色夜曲色调，高细节绘画风格数字艺术，具备写实光影、柔和薄雾、皎洁月光以及优雅的戏剧氛围。
+
+主体场景：月光下 18 世纪的法国花园派对，毗邻波光粼粼的水面。背景中央，一轮巨大的满月从湖泊或运河上方升起，投下银蓝色的倒影。包含古典雕像、喷泉、石栏杆、远处的圆柱、灯笼、树木、花卉以及阴影中的花园建筑。氛围应如同德彪西的《月光》一般：梦幻、浪漫、精致且略带神秘感。
+
+人物：包含 8 位清晰可见的洛可可/意大利即兴喜剧风格角色：左下方 1 位坐着的男性音乐家，正在弹奏鲁特琴或吉他；他身旁 1 位坐着的贵族女性，手持纸张或信件；左中位置 1 位站立的、身着浅色服装的皮埃罗式面具人；背景中央 1 位身着礼服的优雅女性；前景中央 1 位身着金色礼服的舞者；右中位置 1 位身着菱形图案服装、身体前倾的哈勒昆舞者；右侧背景远处 1 位身着紫色礼服的女性；最右侧 1 位身着华丽礼服、坐着的贵族女性。使用扑粉假发、面具、蕾丝、缎面礼服以及烛光高光。
+
+排版风格：大号衬线字体，奶油色/金色，带有微妙的发光效果和投影，居中并叠加在图像上。使文字看起来像一张古老的戏剧海报或古典音乐会公告。确保文字清晰易读，同时与场景融为一体。
+
+文本内容：顶部标题（西班牙语）：{argument name="top headline" default="¡MAÑANA: LA CANCIÓN QUE TODOS CONOCEN (Y NO SABÍAN QUE CONOCÍAN)!"}。下方居中日期行：{argument name="date line" default="MARTES 8 SEPTIEMBRE • 6:30 AM | SUBSTACK"}。主标题（大号字体，位于上部中央）：{argument name="main title" default="CLAIR DE LUNE"}。底部版块（西班牙语，横跨全宽，分为两行）：{argument name="bottom text" default="SUITE BERGAMASQUE DE CLAUDE DEBUSSY: ¿No te suena? ¡NO TE AMILANES! ES ESTA OBRA: 1. PRÉLUDE • 2. MENUET • 3. CLAIR DE LUNE (SÍ, ¡ESE CLARO DE LUNA TAN FAMOSO! BASADO EN VERLAINE, 1869) • 4. PASSEPIED."}
+
+乐章标签：在画面内添加 5 个较小的奶油色衬线标签：“1. PRÉLUDE”置于左上场景附近；“2. MENUET”置于左下坐着的女性附近；“3. CLAIR DE LUNE”仅由主标题体现，无需添加额外的独立小标签；“4. PASSEPIED”置于右上附近；另一个“4. PASSEPIED”置于右中哈勒昆人物附近；此外，在右下角添加一个橙色的 Substack 风格书签图标。
+
+约束条件：完整保留西班牙语文本，包括重音符号、标点、项目符号和竖线。禁止出现现代服饰，除右下角微小的橙色 Substack 风格图标外，禁止出现任何现代物品。避免卡通风格；画面需呈现绘画感、电影质感、优雅且充满氛围。
+
+[English]
+Goal: Create a cinematic promotional poster for a classical-music Substack article about Debussy’s Suite bergamasque, with a moonlit Rococo masquerade garden scene and large Spanish typography.
+
+Canvas: Wide 16:9 landscape poster, approximately 1200×675 px, dark blue nocturne palette, high-detail painterly digital art with realistic lighting, soft mist, glowing moon, and elegant theatrical atmosphere.
+
+Main scene: A moonlit 18th-century French garden party beside reflective water. In the center background, a huge full moon rises over a lake or canal, casting silver-blue reflections. Include classical statues, fountains, stone balustrades, distant columns, lanterns, trees, flowers, and shadowy garden architecture. The mood should feel like Debussy’s “Clair de Lune”: dreamy, romantic, refined, slightly mysterious.
+
+Figures: Include exactly 8 visible Rococo/commedia dell’arte characters: 1 seated male musician at lower left playing a lute or guitar; 1 seated aristocratic woman beside him holding a paper or letter; 1 standing masked Pierrot-like figure in pale costume near left-center; 1 elegant woman in a gown in the center background; 1 dancing woman in a gold dress at center foreground; 1 Harlequin dancer in a diamond-pattern costume leaning forward at right-center; 1 distant woman in purple gown near the right background; 1 seated aristocratic woman at far right in an ornate dress. Use powdered wigs, masks, lace, satin gowns, and candlelit highlights.
+
+Typography style: Large uppercase serif lettering, cream/gold color with subtle glow and drop shadow, centered and layered over the image. Make the type look like an old theatrical poster or classical concert announcement. Keep text legible but integrated into the scene.
+
+Text content: Top headline in Spanish: {argument name="top headline" default="¡MAÑANA: LA CANCIÓN QUE TODOS CONOCEN (Y NO SABÍAN QUE CONOCÍAN)!"}. Below it, centered date line: {argument name="date line" default="MARTES 8 SEPTIEMBRE • 6:30 AM | SUBSTACK"}. Main title in very large letters at upper center: {argument name="main title" default="CLAIR DE LUNE"}. Bottom block in Spanish, spanning the width in two lines: {argument name="bottom text" default="SUITE BERGAMASQUE DE CLAUDE DEBUSSY: ¿No te suena? ¡NO TE AMILANES! ES ESTA OBRA: 1. PRÉLUDE • 2. MENUET • 3. CLAIR DE LUNE (SÍ, ¡ESE CLARO DE LUNA TAN FAMOSO! BASADO EN VERLAINE, 1869) • 4. PASSEPIED."}
+
+Movement labels: Add exactly 5 smaller cream serif labels placed inside the artwork: “1. PRÉLUDE” near the upper-left scene; “2. MENUET” near the lower-left seated woman; “3. CLAIR DE LUNE” implied by the main title only, do not add a separate small label; “4. PASSEPIED” near the upper-right; another “4. PASSEPIED” near the right-center Harlequin figure; plus a small orange Substack-like bookmark icon at the bottom-right corner.
+
+Constraints: Preserve the Spanish text exactly, including accents, punctuation, bullets, and vertical bar. No modern clothing, no contemporary objects except the tiny orange Substack-style icon. Avoid cartoon style; make it painterly, cinematic, elegant, and atmospheric.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2096961746707571056) | 2026-09-07
+
+---
+
+### 🎴 例 7625：时尚杂志封面
+
+![时尚杂志封面](../images/%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实时尚杂志封面，展示了 {argument name="subject" default="[Reference Person]"} 自信地坐在当代创意工作室内的低矮木托盘长椅上。全身单色穿搭：黑色牛仔夹克、黑色阔腿裤、黑色 T 恤，以及带有白色橡胶底和白色鞋带的黑色低帮帆布鞋。姿态放松，双腿分开，身体微微前倾，一只手肘撑在膝盖上，一根手指抵在太阳穴，目光直视镜头。氛围：冷静、自信、富有远见。
+
+摄影棚背景：一面哑光黑墙，排列着绘有鲜艳几何图形的垂直木质艺术板，赋予空间高级创意机构的质感。温暖的电影级灯光柔和地洒在面部和夹克上，浓郁的阴影保留了戏剧性的杂志对比度。下方铺设了一块天然纹理编织地毯，为奢华的摄影棚环境增添了一抹暖意。
+
+封面排版仅使用单一排版元素：顶部采用超大加粗米色文字，拼写为 "{argument name="magazine title" default="BLOODLINE"}"，使用宽体压缩无衬线字体，占据画面上方。画面中无任何其他文字、副标题、说明、账号、日期、水印或 Logo。"{argument name="magazine title" default="BLOODLINE"}" 是整张图片中唯一可见的文字。
+
+色彩基调：深邃黑、暖奶油米色、柔和焦橙色、大地棕、灰青色、电影级阴影色调。居中对称裁剪，呈现出 GQ 杂志、高端街头服饰广告及电影级创作者品牌拍摄的视觉质感。
+
+使用 {argument name="lens" default="50mm 定焦镜头"} 拍摄，浅景深，超精细的皮肤和织物纹理，柔和的投影，照片级真实灯光，简洁的字体设计，高分辨率杂志构图，8K 输出，高级电影级调色。
+
+[English]
+Ultra-realistic fashion editorial magazine cover showing {argument name="subject" default="[Reference Person]"} seated confidently on a low wooden pallet bench inside a contemporary creative studio. Outfit is fully monochrome: black denim jacket, wide-leg black trousers, black t-shirt, and black low-top canvas sneakers with white rubber soles and white laces. Sitting in a relaxed wide stance, leaning slightly forward, one elbow resting on the knee, one finger resting at the temple, gaze locked directly into the lens. Mood: calm, self-assured, visionary.
+
+Studio backdrop: a matte black wall lined with vertical wooden art panels painted in vivid geometric shapes, giving the space an elevated creative-agency feel. Warm cinematic lighting falls softly across the face and jacket, while rich shadows preserve dramatic editorial contrast. A natural textured woven rug sits beneath, adding warmth to the luxury studio setting.
+
+Cover layout uses a single typographic element only: oversized bold beige text at the very top spelling "{argument name="magazine title" default="BLOODLINE"}" in a wide condensed sans-serif, dominating the upper portion of the frame. Zero additional text anywhere, no subheadings, no captions, no handles, no dates, no watermarks, no logos. "{argument name="magazine title" default="BLOODLINE"}" is the sole word visible in the entire image.
+
+Color story: jet black, warm cream-beige, muted burnt orange, earthy brown, dusty teal, cinematic shadow tones. Centered, symmetrical crop with the visual weight of a GQ editorial, a high-end streetwear campaign, and a cinematic creator brand shoot.
+
+Captured on a {argument name="lens" default="50mm prime lens"}, shallow depth of field, hyper-detailed skin and fabric texture, soft drop shadows, photorealistic lighting, clean type design, high-resolution editorial composition, 8K output, premium cinematic color grade.
+```
+
+**来源：** [@Dr Bloodline | AI](https://x.com/AiwithBloodline/status/2096937365260624328) | 2026-09-07
+
+---
+
+### 🎴 例 7629：美食产品商业项目模板
+
+![美食产品商业项目模板](../images/%E7%BE%8E%E9%A3%9F%E4%BA%A7%E5%93%81%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+标题：
+高端 {argument name="brand name" default="Nutella"} 产品商业项目
+
+格式：
+• 单页高端项目
+• 3:4 竖屏比例
+• 奢华食品广告
+• 8 个电影级产品特写场景
+• 产品始终作为核心主角
+• 高端广告代理商演示风格
+
+页眉：
+• 优雅的衬线字体
+• 信息卡片：
+
+- 时长：20 秒
+- 风格：电影级美食广告
+- 产品：{argument name="product name" default="Nutella 榛子酱"}
+- 音频：柔和的涂抹声 + 食物 ASMR
+  • “为何这种风格有效”板块
+  • 温暖的棕色、奶油色和金色美学
+  • 极简的榛子装饰元素
+
+项目：
+
+1. 高端 Nutella 罐装产品放置在抛光的深色木质表面上
+2. 极微距视角下的瓶盖开启瞬间
+3. 奶油质感的 Nutella 从罐中缓慢涂抹而出
+4. 巧克力酱在半空中形成光泽丝带状
+5. Nutella 倾泻在松软的煎饼上
+6. 展现浓郁巧克力质感与微小反光的极微距镜头
+7. 煎饼塔与主角罐装产品及榛子环绕陈列
+8. 带有戏剧性 Nutella 涂抹效果的最终奢华产品定格画面
+
+每个面板：
+• 场景编号
+• 时长标签
+• 运镜方向
+• 视觉画面
+• 动作描述
+• 产品细节
+
+摄像机：
+极微距、慢动作涂抹摄影、俯视食物拍摄、受控推入镜头、浅景深、电影级主角构图。
+
+风格：
+超写实食品广告、逼真的涂抹粘稠度、光泽巧克力质感、温暖的摄影棚灯光、高端玻璃包装、精致的美食呈现、8K 分辨率。
+
+[English]
+TITLE:
+Premium {argument name="brand name" default="Nutella"} Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertising
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• High-end advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+
+- Duration: 20 Seconds
+- Style: Cinematic Gourmet Food Commercial
+- Product: {argument name="product name" default="Nutella Hazelnut Spread"}
+- Audio: Soft Spread + Food ASMR
+  • Why This Style Works section
+  • Warm brown, cream and golden aesthetic
+  • Minimal hazelnut decorative accents
+
+STORYBOARD:
+
+1. Premium Nutella jar standing on polished dark wood
+2. Jar lid opening in extreme macro
+3. Creamy Nutella slowly spreading from the jar
+4. Chocolate spread forming a glossy ribbon in mid-air
+5. Nutella cascading over fluffy pancakes
+6. Extreme macro showing rich chocolate texture and tiny reflections
+7. Pancake stack surrounded by the hero jar and hazelnuts
+8. Final luxury product packshot with dramatic Nutella spread
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food advertising, realistic spread viscosity, glossy chocolate texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2096915887504982258) | 2026-09-07
+
+---
+
+### 🎴 例 7634：旅行日志手绘海报
+
+![旅行日志手绘海报](../images/%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E6%89%8B%E7%BB%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级的竖版旅行日志海报，采用精确的 50/50 分割布局。
+
+顶部 50%：保持原始参考照片完全真实且不做任何改动，构图、建筑、人物、色彩、光影、透视和细节均与原图一致。
+
+底部 50%：将同一张照片转换为精致的手绘彩色铅笔加水彩素描效果，背景为暖色调的奶油色纸张，呈现可见的铅笔笔触、柔和的色彩渲染、细腻的纸张纹理、不完美的轮廓线条以及柔和的交叉排线。确保所有主体清晰可辨。
+
+添加优雅的手写文字：上方为“{argument name="top text" default="A Beautiful Day"}”，下方为“{argument name="bottom text" default="Memories to Keep"}”。整体风格简约、怀旧且具有高级旅行杂志的美感。不要添加额外物体，底部区域不要出现照片级写实效果，严格保持 50/50 的布局。
+
+[English]
+Create a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “{argument name="top text" default="A Beautiful Day"}” above and “{argument name="bottom text" default="Memories to Keep"}” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2096902953110299096) | 2026-09-07
+
+---
+
+### 🎴 例 7639：港口暮色摄影与建筑草图海报
+
+![港口暮色摄影与建筑草图海报](../images/%E6%B8%AF%E5%8F%A3%E6%9A%AE%E8%89%B2%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BB%BA%E7%AD%91%E8%8D%89%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的旅行与建筑主题海报，将写实的海岸港口摄影与同一场景的建筑师风格概念草图相结合。
+
+画布：垂直 3:4 海报比例，优雅的编辑排版。将构图精确分为上下两部分：上半部分为满版暮色港口摄影；下半部分为米白色纸质海报区域，包含排版文字和手绘建筑透视草图。
+
+上方摄影部分：展示 {argument name="place" default="日本"} 蓝色时刻宁静的港口。场景包括平静的深蓝色水面、背景中的山峦剪影、右侧山坡上的小型沿海村庄、温暖的黄色路灯与灯火，以及水面上长长的粼粼波光。包含 4 艘清晰可见的船只：前景中央附近 1 艘主白色渔船，右侧前景附近 1 艘较小的船，右侧码头附近 1 艘颜色较深的船，以及右中港口防波堤附近 1 艘小船。左侧添加一个带有单盏发光信标的防波堤，海湾对岸远处的城镇灯光、层叠的蓝色山脉、零星的暮色云彩，以及由粉橙色渐变为蓝色的柔和地平线。
+
+下方海报部分：使用带有细微纹理的暖象牙色纸张。左上方设置大号优雅衬线标题文字：“{argument name="headline text" default="暮色港口"}”。下方添加两行小号、字间距较宽的大写副标题文字：“A QUIET EDGE” 和 “A BRIGHTER TOMORROW”。右上方添加堆叠的小号大写词汇：“PLACE”、“PEOPLE”、“LANDSCAPE”、“A BETTER DAILY LIFE”。左下方添加三行小号大写文字：“COASTAL VILLAGE”、“STUDY SKETCH”、“{argument name="country label" default="JAPAN"}”。右下方添加随性的手写签名风格文字：“{argument name="handwritten note" default="同一片海 / 更美好的明天"}”。
+
+建筑草图：在下半部分中心位置绘制一张与上方照片场景一致的精致手绘透视草图。使用细石墨构造线、淡淡的透视引导线、垂直测量标记、墨水轮廓、松散的水彩晕染，以及淡蓝色山脉、柔和的灰色屋顶、柔和的绿色树木，并用暖黄色高光表现灯光和倒影。包含与上方图像对应的 4 艘草图船只：前景中央的主白色渔船、左侧的一艘小舢板、右中附近的一艘小船，以及最右侧的一艘较大船只。包含防波堤、村庄房屋、山坡树木、山脉和信标，所有元素均简化为建筑师的概念草图。
+
+视觉风格：高级日本海岸旅行海报，宁静且富有诗意，上方为写实摄影，下方为轻盈的建筑水彩草图。使用精致的排版、充足的留白、细线条、柔和的灯光、电影般的暮色蓝调、温暖的金色倒影，画面简洁无杂质。
+
+约束：保持上下两部分视觉对齐，确保草图与照片清晰对应。不要添加额外的面板、多余的船只、Logo、二维码、边框或水印。
+
+[English]
+Goal: Create a refined vertical travel-and-architecture poster that combines a realistic twilight harbor photograph on the top half with a hand-drawn architectural concept sketch of the same scene on the bottom half.
+
+Canvas: Portrait poster, 3:4 aspect ratio, clean editorial layout. Divide the image into 2 horizontal sections: the top photographic section occupies about the upper 52% of the canvas, and the bottom cream-paper sketch section occupies about the lower 48%.
+
+Top section: Show a serene {argument name="place description" default="small Japanese coastal harbor village at twilight"}. The scene includes calm blue water in the foreground, warm yellow streetlight reflections stretching vertically across the water, a stone harbor wall on the right, a pier and breakwater on the left, hillside houses with glowing windows and streetlamps, dark layered mountains in the background, and a deep blue dusk sky with scattered clouds and a faint pink sunset band near the horizon. Include exactly 3 visible boats in the harbor: 1 larger white fishing boat near the center-left foreground, 1 small boat moored near the center-right, and 1 white boat at the right foreground. Use realistic photography, cinematic blue-hour color grading, crisp detail, and tranquil atmosphere.
+
+Bottom section: On warm off-white textured paper, recreate the same harbor as an architect’s concept perspective sketch. Use fine graphite construction lines, loose ink outlines, watercolor washes in soft blues and grays, and selective warm golden highlights for lamps and reflections. Keep the sketch aligned with the photo above: mountains in the back, village and harbor wall on the right, breakwater on the left, and boats in the water. Include exactly 3 sketched boats matching the top section. Add thin vertical and horizontal perspective guide lines, measurement-like marks, and faint construction strokes around the buildings, boats, horizon, and reflections.
+
+Typography and text: In the lower section, place a large elegant serif title on the left reading “{argument name="poster title" default="Harbor\nat Twilight"}”. Beneath it, add small widely spaced uppercase subtitle text reading “{argument name="subtitle" default="A QUIET EDGE\nA BRIGHTER TOMORROW"}” with a short thin divider line. At bottom left, add small uppercase text reading “COASTAL VILLAGE\nSTUDY SKETCH\nJAPAN” with another short divider line. At upper right of the sketch area, add tiny stacked uppercase words reading “PLACE\nPEOPLE\nLANDSCAPE\nA BETTER DAILY LIFE”. At bottom right, add a loose handwritten signature-style note reading “Same Sea\nA Kinder Tomorrow”.
+
+Visual style: Sophisticated Japanese coastal poster design, calm minimal composition, premium paper texture, elegant negative space, architectural visualization aesthetic, natural perspective, delicate watercolor, warm lamp glow, and harmonious blue-and-cream palette.
+
+Constraints: Do not add extra boats beyond the 3 specified. Do not add people as major subjects. Keep all text legible and placed only in the bottom sketch section. The top must remain a realistic photo-like scene while the bottom must clearly be a concept sketch of the same view.
+```
+
+**来源：** [@Sahil Verma](https://x.com/sahilvermaai/status/2096857025212739616) | 2026-09-07
+
+---
+
+### 🎴 例 7649：编辑风海报分割插画
+
+![编辑风海报分割插画](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%B5%B7%E6%8A%A5%E5%88%86%E5%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为每一张上传的照片创建一张独立的高端编辑风海报。切勿合并照片。每张照片必须成为一张单独的海报。
+
+格式
+严格采用 3:4 竖版比例。将画布平分为两个完全相等的 50% 水平区域。
+
+上半部分 50% — 原始照片
+忠实保留照片内容：身份、面部、身体比例、姿势、服装、物体、构图、光影、氛围和色彩。保持照片的真实感，并进行细腻的高级编辑风调色。如有需要，可无缝延伸背景；切勿扭曲或更改主体。
+
+下半部分 50% — 极简插画
+将最具辨识度的元素重新诠释为一个小巧、居中的手绘纸艺插画，仅占据下半部分的 10%–20%。保留关键主体、轮廓、姿势、物体和叙事感。
+
+使用细腻且带有瑕疵的线条、大胆的扁平丙烯风格色块、粗糙的纸张纹理、手工笔触以及有机的边缘。背景保持暖白色/米白色，并留出充足的负空间。
+
+色彩
+从原始照片中提取主色调，并将其精简为最多 4 种克制且和谐的颜色。
+
+排版
+可选极简的编辑风文字，例如简短的标题、地点、年份或关键词。若无必要，请勿强行添加文字。
+
+风格
+安静、诗意、精致、极简、纯真、艺术感、深思熟虑、高级且极具辨识度 — 宛如当代艺术画册或独立编辑刊物的封面。
+
+[English]
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2096807576168169628) | 2026-09-07
+
+---
+

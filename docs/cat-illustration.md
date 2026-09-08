@@ -20730,3 +20730,147 @@ Create a highly detailed realistic graphite pencil sketch of a romantic South As
 
 ---
 
+### 🎨 例 7595：雨天清晨的仓鼠玻璃艺术
+
+![雨天清晨的仓鼠玻璃艺术](../images/%E9%9B%A8%E5%A4%A9%E6%B8%85%E6%99%A8%E7%9A%84%E4%BB%93%E9%BC%A0%E7%8E%BB%E7%92%83%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅梦幻般的竖版故事书插画，采用反向绘制的彩色玻璃风格，具有半透明的层次感、精细的金色花丝轮廓、柔和的水彩质感以及明亮的反光。画面展示了 {argument name="character" default="一只睡眼惺忪的圆滚滚仓鼠"} 在雨天清晨醒来，躺在深陷的奶油色绗缝床上，身旁是一扇高大的古老窗户；仓鼠有着棕白相间的毛发，小爪子搭在毯子上，粉嫩的鼻子，乌黑发亮的眼睛，正困倦地眨着眼。窗外是雨水冲刷过的朦胧蓝灰色欧洲哥特式城市，有着陡峭的屋顶、塔楼、温暖的黄色灯光、雾气和风暴云。室内采用温馨的天体主题：蓬松的奶油色被子上绣着金色的星星和新月，点缀着蓝色拼布，仓鼠身边塞着一只毛绒小羊，温暖的灯光与寒冷的雨天室外形成对比。在窗户附近的空中包含 3 条半透明的玻璃鱼：右侧中心偏大的一条，左下角一条小的，以及大鱼下方一条极小的。在鱼之间包含 5 个漂浮的小玻璃气泡和 1 颗发光的玻璃星星。添加 2 个水晶球：左侧悬挂着一个装有精致金枝的大球，右侧桌面上摆放着一个装有新月和星星的球。右上角添加 1 条悬挂的新月水晶装饰链。右侧窗台上摆放着精致的白花，左下角前景处有模糊的深色叶片植物。色调应为 {argument name="color palette" default="朦胧的粉蓝色、珍珠奶油色、柔和的金色和温暖的琥珀色"}；光影应呈现出 {argument name="mood" default="宁静的雨天黎明，温馨而神奇"} 的感觉。使用竖版 {argument name="aspect ratio" default="2:3"} 构图，高度细节化，带有闪烁的玻璃高光，柔和的景深，无文字，无水印。
+
+[English]
+Create a dreamy vertical storybook illustration in the style of reverse-painted stained glass, with translucent layered color, fine gold filigree outlines, soft watercolor texture, and luminous reflections. The scene shows {argument name="character" default="a sleepy round hamster"} waking up in a deep quilted cream bed beside a tall old window on a rainy morning; the hamster has tan-and-white fur, tiny paws on the blanket, rosy nose, glossy black eyes, and is winking sleepily. Outside the rain-streaked window is a misty blue-gray European gothic city with steep rooftops, towers, warm yellow lit windows, fog, and storm clouds. Inside the room, use a cozy celestial theme: a puffy cream comforter embroidered with gold stars and crescent moons, blue patchwork accents, a small plush sheep tucked beside the hamster, and warm lamplike highlights contrasting with the cold rainy exterior. Include exactly 3 translucent glass fish floating in the air near the window: 1 large fish to the right of center, 1 small fish lower left, and 1 tiny fish beneath the large fish. Include exactly 5 small floating glass bubbles and exactly 1 glowing glass star between the fish. Add exactly 2 crystal globes: 1 large hanging bauble on the left containing delicate golden branches, and 1 tabletop globe on the right containing a crescent moon and stars. Add exactly 1 dangling crescent-moon crystal ornament chain on the upper right. Add delicate white flowers in a vase on the right windowsill and dark leafy plants blurred in the lower-left foreground. The palette should be {argument name="color palette" default="misty powder blue, pearl cream, muted gold, and soft warm amber"}; lighting should feel like {argument name="mood" default="quiet rainy dawn, cozy and magical"}. Use a vertical {argument name="aspect ratio" default="2:3"} composition, highly detailed, sparkling glass highlights, soft depth of field, no text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2097072371995930794) | 2026-09-07
+
+---
+
+### 🎨 例 7600：港口鸟群剪影
+
+![港口鸟群剪影](../images/%E6%B8%AF%E5%8F%A3%E9%B8%9F%E7%BE%A4%E5%89%AA%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级真实感的 {argument name="setting" default="黄昏时分的小港口"}。一群椋鸟在瞬间聚集成 {argument name="silhouette" default="一艘停泊渔船的精确剪影"}，连桅杆和那缕由鸟群构成的烟雾都清晰可见。下方真实的船只静止不动。水面呈现出锡灰色。一只海鸥拒绝加入，独自停在桩子上，显得不以为然，平添了几分幽默感。余晖洒在翅膀上。画面中没有人物。{argument name="lens" default="85mm"} 镜头，2:3 画幅。鸟就是鸟，而非符号。空气中透着寒意。既宏大又轻盈。收音机里播放着天气预报，仿佛那天气已在室内弥漫。
+
+[English]
+A photorealistic {argument name="setting" default="dusk over a small harbor"}. A murmuration of starlings holds, for one breath, the exact {argument name="silhouette" default="silhouette of a moored fishing boat"}, including the mast and a curl of smoke that is only birds. The real boats below are still. Water is pewter. A single gull refuses to join and sits on a piling, unimpressed, which is the humor. Last sun on wings. No people. {argument name="lens" default="85mm"}, 2:3 aspect ratio. The birds are birds, not symbols. The air feels cold. Monumental and light at once. A radio talks about weather that is already in the room.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2097028850349694978) | 2026-09-07
+
+---
+
+### 🎨 例 7606：未来感 Void Fang 机甲
+
+![未来感 Void Fang 机甲](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Void%20Fang%20%E6%9C%BA%E7%94%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="shell color" default="黑色外壳"} 下脉动着红光。{argument name="model id" default="JFC-01"}｜{argument name="name" default="VOID FANG"}
+
+[English]
+Mine pulses red beneath a {argument name="shell color" default="black shell"}. {argument name="model id" default="JFC-01"}｜{argument name="name" default="VOID FANG"}
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2096998456267362513) | 2026-09-07
+
+---
+
+### 🎨 例 7620：东京警视厅防汛救援机甲
+
+![东京警视厅防汛救援机甲](../images/%E4%B8%9C%E4%BA%AC%E8%AD%A6%E8%A7%86%E5%8E%85%E9%98%B2%E6%B1%9B%E6%95%91%E6%8F%B4%E6%9C%BA%E7%94%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级照片写实风格的东京雨中灾难响应场景：一台来自 {argument name="organization" default="东京警视厅重型机械对策机器人部队"} 的巨型双足警用工程机器人，正站在齐腰深的城市河道或运河中，清理堵塞水流的巨大残骸堆。从街道视角看向机器人的左后方，它高耸于场景之中，拥有厚重的黑白工业装甲板、外露的液压系统、活塞、线缆、履带式腿部组件、泥点，双肩上闪烁着红色应急警示灯，背部装甲上清晰可见“警视庁”和“MPD”字样。它正抓起并举起一堆巨大的缠绕残骸，其中包含 7 种可辨认的物品：断裂的树枝和原木、竹竿状木棍、枯叶和藤蔓、弯曲的金属护栏、一个蓝色塑料箱、一块白色长方形标牌以及一个自行车轮/车架。洪水呈褐色，汹涌且带有泡沫，在机器人腿部周围飞溅，并从举起的残骸中倾泻而下。在前景中，展示 5 名身穿雨具、佩戴头盔的应急救援人员/警察观察员站在金属路障后：左下方有 2 名佩戴白色头盔的深蓝色制服 MPD 警官，其中 1 名正指向机器人；右下方有 1 名橙蓝相间的救援人员；底部边缘还有 2 名部分可见的佩戴头盔的工作人员。在左侧人行道护栏后增加一群撑伞的平民。城市背景应包括高耸的办公楼、湿润反光的街道、密集的雨丝、薄雾、傍晚灰暗的灯光，以及城市标牌，包括左侧一个垂直的日本警察标语牌，右侧一个指示浅草、藏前和 6 号公路的蓝色路标，以及河道上的桥梁或墙面标签。采用写实的远摄新闻摄影风格，高细节，戏剧性的比例，浅景深，物体表面的水滴，雨中反射的应急灯光，拒绝卡通风格。主要可自定义主体：{argument name="robot description" default="一台巨大的黑白配色 MPD 重型救援机甲"}。主要动作：{argument name="action" default="清理被洪水淹没的河流中的残骸坝"}。地点：{argument name="location" default="雨中的东京浅草/藏前地区"}。天气与氛围：{argument name="weather and mood" default="倾盆大雨，混乱但英勇的灾难响应现场"}。
+
+[English]
+Create a cinematic photorealistic disaster-response scene in rainy Tokyo: a massive bipedal police construction robot from the {argument name="organization" default="Tokyo Metropolitan Police Department heavy machinery countermeasure robot unit"} stands waist-deep in a flooded urban river or canal, clearing a huge debris jam that is damming the water. The robot is seen from behind-left at street level, towering over the scene, with bulky white-and-black industrial armor plates, exposed hydraulics, pistons, cables, tracked-looking leg components, mud splatter, red emergency beacons glowing on both shoulders, and visible markings reading 「警視庁」 and “MPD” on its back armor. It grips and lifts one enormous tangled debris pile containing exactly 7 distinguishable item types: broken tree branches and logs, bamboo-like sticks, dead leaves and vines, bent metal railings, a blue plastic crate, a white rectangular signboard, and a bicycle wheel/frame. The floodwater is brown, violent, and foamy, splashing around the robot’s legs and pouring from the lifted debris. In the foreground, show exactly 5 human emergency workers/police observers in helmets and rain gear behind metal barricades: 2 navy MPD officers with white helmets at lower left, 1 pointing toward the robot, 1 orange-and-navy rescue worker at lower right, and 2 partially visible helmeted workers near the bottom edge. Add a crowd of civilians with umbrellas along the left sidewalk behind barriers. The city background should feature tall office buildings, wet reflective streets, heavy rain streaks, mist, evening-gray light, and urban signage including a vertical Japanese police slogan sign on the left and a blue road sign on the right indicating Asakusa, Kuramae, and route 6, plus a bridge or wall label for a river. Use a realistic telephoto news-photo look, high detail, dramatic scale, shallow atmospheric depth, water droplets on surfaces, emergency lights reflecting in rain, no cartoon styling. Main customizable subject: {argument name="robot description" default="a massive white-and-black MPD heavy rescue mech"}. Main action: {argument name="action" default="clearing a debris dam from a flooded river"}. Location: {argument name="location" default="rainy Asakusa/Kuramae, Tokyo"}. Weather and mood: {argument name="weather and mood" default="torrential rain, chaotic but heroic disaster response"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2096948031438688526) | 2026-09-07
+
+---
+
+### 🎨 例 7623：便利店里的动漫女学生
+
+![便利店里的动漫女学生](../images/%E4%BE%BF%E5%88%A9%E5%BA%97%E9%87%8C%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖构图动漫插画，主角是 {argument name="character name" default="一位日本女高中生"}，她站在明亮的便利店里，身旁是冷藏饮料货架。她是画面中唯一的中心人物，采用大腿以上的中景构图，身体微向左侧，目光看向左侧，表情柔和好奇，嘴唇微张。她留着 {argument name="hair color" default="乌黑亮丽"} 的头发，带有细碎的刘海，胸前垂下两条长辫子，拥有温暖的棕色眼睛、白皙的皮肤和淡淡的红晕，戴着细圆框眼镜。她的校服包含 5 个清晰的服装组件：短袖白色水手衫、海军蓝水手领、白色条纹饰边、胸前系着深红色大蝴蝶结，以及深海军蓝百褶裙。添加 3 个主要的配饰或手持物品：脸上的圆框眼镜、左肩背着的海军蓝大号书包，以及双手捧着的一瓶带有淡黄绿色标签的透明塑料瓶装茶饮。将她置于右侧冷藏货架旁，货架上摆放着整齐的瓶装饮料和日式小标签，标签细节柔和，无需清晰可辨。背景应展现便利店的入口或窗户，透进明亮的日光，窗外是模糊的绿植和街道轮廓，室内表面带有清凉的反射感。使用 {argument name="visual style" default="高质量现代动漫风格、半写实光影、细腻的线条、柔和的绘画式阴影"}，配合浅景深、明亮的背光、头发上微妙的轮廓光、自然的肤色、对人物的清晰对焦，营造出宁静的放学后夏日氛围。使用 2:3 的竖向构图，无文字覆盖，无水印，无多余角色。
+
+[English]
+Create a polished vertical anime illustration of {argument name="character name" default="a Japanese high school girl"} standing inside a bright convenience store beside a refrigerated drink shelf. She is the single main subject, shown from mid-thigh up, facing slightly left while looking off to the left with a soft curious expression and parted lips. She has {argument name="hair color" default="glossy black"} hair with wispy bangs and exactly 2 long braids falling over her chest, warm brown eyes, fair skin with gentle blush, and thin round wire-frame glasses. Her school uniform has exactly 5 visible clothing components: a short-sleeved white sailor blouse, a navy sailor collar, white striped trim, a large deep red ribbon bow at the chest, and a dark navy pleated skirt. Add exactly 3 main accessories/held objects: round glasses on her face, a large navy shoulder school bag hanging from her left shoulder, and a clear plastic bottled tea drink with a pale yellow-green label held in both hands. Place her next to a right-side refrigerated shelf filled with neatly arranged bottled drinks and small Japanese-style price tags, with the labels softly detailed but not meant to be readable. The background should show a convenience-store entrance or window with bright daylight, blurred greenery and street shapes outside, and cool reflective interior surfaces. Use {argument name="visual style" default="high-quality modern anime, semi-realistic lighting, delicate linework, soft painterly shading"}, shallow depth of field, luminous backlighting, subtle rim light on the hair, natural skin tones, crisp focus on the girl, and a calm summer-after-school atmosphere. Use a vertical 2:3 composition, no text overlay, no watermark, no extra characters.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2096944172024684593) | 2026-09-07
+
+---
+
+### 🎨 例 7637：哥特萝莉星象观测台
+
+![哥特萝莉星象观测台](../images/%E5%93%A5%E7%89%B9%E8%90%9D%E8%8E%89%E6%98%9F%E8%B1%A1%E8%A7%82%E6%B5%8B%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖构图动漫插画，描绘一位身处梦幻星象观测台的年轻哥特萝莉天文学家。中心主体为 {argument name="character name" default="一位精致的哥特萝莉女孩"}，画面展示从大腿中部向上，她微微前倾，用一双淡蓝色的大眼睛仰视观众，脸颊微红，双唇微张，表情梦幻而好奇。她拥有 {argument name="hair color" default="带有银灰色发梢的湿发感黑色长发"}，留着细碎的刘海，脸颊旁有几缕散落的发丝，头部由黑色兜帽或面纱环绕。她的装束是优雅的黑色哥特萝莉风格：亮面黑色纽扣衬衫，带有银色星链刺绣的修身黑色夹克，黑色手套，黑色短裤或裙装细节，皮带束带，腰间系着挺括的白色荷叶边围裙，并佩戴多件天体主题饰品，包括垂坠的星星耳环、星星发夹以及华丽的行星与星星胸针。周围环绕着复杂的蒸汽朋克天文机械：精确包含 3 个显眼的钟面或日晷，精确包含 5 个大型黄铜齿轮，精确包含 4 个金色八角星装饰，精确包含 2 个蓝色星空玻璃圆柱体/望远镜式管状物，以及精确包含 1 个展示微型星图的大型玻璃球透镜。加入环绕构图的白色与金属质感圆形环，如同星盘一般，辅以细杆、弧线、滑轮状支撑、罗马数字刻度、黄铜与银色金属零件、深海军蓝星系纹理、微小星座、闪光以及细小的漂浮星星。采用紧凑且富有动态的构图，人物位于中心偏左，机械从四周环绕，一个大圆环切过右侧边缘，另一个仪器穿过左上方，一个球形透镜位于左下角前景。视觉风格：{argument name="art style" default="精致的 Niji 风格动漫主视觉图"}，超精细线条，明亮的玻璃反射，金属金与铬合金高光，柔和的瓷肌阴影，黑色服装与白色背景形成高对比，天蓝色点缀，优雅的哥特 x 天文氛围。光照应明亮且富有光泽，带有柔和的轮廓光，浅景深效果，面部及周围仪器清晰对焦。无文字，无水印，无 Logo，无多余字符。
+
+[English]
+Create a highly detailed vertical anime illustration of a young gothic lolita astronomer inside a fantastical celestial observatory. The central subject is {argument name="character name" default="a delicate gothic lolita girl"}, shown from mid-thigh upward, leaning slightly forward and looking up toward the viewer with large pale blue eyes, soft flushed cheeks, parted glossy lips, and a dreamy curious expression. She has {argument name="hair color" default="wet-looking black hair with silver-gray ends"}, wispy bangs, loose strands around her face, and a black hood or veil framing her head. Her outfit is elegant black gothic lolita: glossy black buttoned blouse, fitted black jacket with silver star-chain embroidery, black gloves, black shorts or skirt details, belt straps, a crisp white ruffled apron overskirt at the waist, and multiple celestial jewelry pieces including dangling star earrings, a star hairpin, and an ornate planet-and-star brooch. Surround her with an intricate steampunk astronomical machine: exactly 3 prominent clock faces or sundials, exactly 5 large brass gear wheels, exactly 4 golden eight-point star ornaments, exactly 2 blue starry glass cylinders/telescope-like tubes, and exactly 1 large glass orb lens showing a miniature star map. Include sweeping white and metallic circular rings that frame the composition like an astrolabe, thin rods, arcs, pulley-like supports, Roman-numeral markings, brass and silver metal parts, deep navy galaxy textures, tiny constellations, sparkles, and small floating stars. Use a close, dynamic composition with the character slightly left of center, machinery wrapping around her on all sides, one large ring cutting across the right edge, another instrument crossing the upper left, and a spherical lens in the lower left foreground. Visual style: {argument name="art style" default="polished niji-style anime key visual"}, ultra-detailed linework, luminous glass reflections, metallic gold and chrome highlights, soft porcelain skin shading, high contrast black clothing against white background, celestial blue accents, elegant gothic x astronomy mood. Lighting should be bright and glossy with soft rim light, shallow depth illusion, crisp focus on the face and nearby instruments. No text, no watermark, no logo, no extra characters.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2096875989905367318) | 2026-09-07
+
+---
+
+### 🎨 例 7643：水彩霍比特人冒险家
+
+![水彩霍比特人冒险家](../images/%E6%B0%B4%E5%BD%A9%E9%9C%8D%E6%AF%94%E7%89%B9%E4%BA%BA%E5%86%92%E9%99%A9%E5%AE%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张迷人的全身奇幻角色插画，采用手绘水彩故事书风格，背景为温暖的米白色纸张。画面中心是一位健壮、肌肉发达且友好的男性霍比特人风格冒险家，名为 {argument name="character name" default="Milo"}，他赤脚站立，面向前方并略微侧身，面带温暖的微笑，左手比出和平手势。他有着 {argument name="hair color" default="卷曲的栗棕色"} 凌乱头发、浓密的眉毛、大而富有表现力的棕色眼睛、圆耳朵、羊排胡、淡淡的胡茬、多毛的手臂和脚，表情开朗且平易近人。他身穿一件无袖的深 {argument name="tunic color" default="钴蓝色"} 长袍，下摆呈粗糙的扇形，系着一条金色花纹腰带，穿着棕色七分裤，戴着皮革护腕，手腕上还戴着彩色珠子手链。增加一个显眼的大型旅行背包，上面精确挂有 4 件不同的物品：顶部卷起的睡袋、侧面挂着的金属杯、盘绕的绳索以及带有扣环的皮带。在他的胸前放置一条棕色皮革肩带，配有方形金属扣和一条红色小装饰带。在他身后，加入一个简单的木制窗框，如同乡村风格的画框，展示着明亮的蓝天、蓬松的白云和淡淡的绿色地平线；角色与窗户重叠，站在窗前。使用柔和的铅笔轮廓、有质感的水彩渲染、柔和的阴影、温暖的大地色调、异想天开的童书比例，以及简洁的居中构图，画面中不包含任何文字、标志、水印或额外角色。
+
+[English]
+Create a charming full-body fantasy character illustration in a hand-painted watercolor storybook style on a warm off-white paper background. Center a stocky, muscular, friendly male hobbit-like adventurer named {argument name="character name" default="Milo"}, standing barefoot and facing forward with a slight turn, smiling warmly and holding up a peace sign with his left hand. He has {argument name="hair color" default="curly chestnut brown"} messy hair, thick eyebrows, large expressive brown eyes, rounded ears, mutton-chop sideburns, light stubble, hairy arms and feet, and a cheerful approachable expression. Dress him in a sleeveless deep {argument name="tunic color" default="cobalt blue"} tunic with rough scalloped hem, a golden patterned sash belt, brown cropped trousers, leather wrist bracers, and colorful beaded bracelets on one wrist. Add one large visible travel backpack with exactly 4 distinct attached items: a rolled bedroll on top, a metal mug hanging on the side, a coiled rope, and leather straps with buckles. Across his chest place a brown leather shoulder strap with a square metal buckle and a small red accent strap. Behind him, include a simple wooden window frame like a rustic picture frame showing a bright blue sky with fluffy white clouds and a faint green horizon; the character overlaps the window, standing in front of it. Use soft pencil outlines, textured watercolor washes, gentle shading, warm earth tones, whimsical children’s book proportions, and a clean centered composition with no text, no logo, no watermark, and no extra characters.
+```
+
+**来源：** [@ヒロシカ｜AIで物語と世界をつくる](https://x.com/hiroshika5555/status/2096837848611922154) | 2026-09-07
+
+---
+
+### 🎨 例 7644：忧郁海滩时尚大片
+
+![忧郁海滩时尚大片](../images/%E5%BF%A7%E9%83%81%E6%B5%B7%E6%BB%A9%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级时尚大片，拍摄一位 {argument name="subject" default="20 出头、外形俊朗的年轻男子"} 赤脚站在阴云密布的幽静海滩上。他留着 {argument name="hair" default="浓密且自然卷曲的乌黑头发"}，被海风吹得略显凌乱；拥有浓密且轮廓分明的眉毛、深邃且富有表现力的深褐色眼睛、挺拔的鼻梁、突出的颧骨、棱角分明的男性下颌线，以及淡淡的自然胡茬。他身穿一件 {argument name="wardrobe" default="宽松挺括的白色棉质衬衫"}，袖口随意，领口微敞，在海风中自然飘动，搭配宽松的中性色长裤。他的双脚轻轻触碰着湿润的沙滩，细小的海浪向他涌来。整体采用米色、灰色和灰白色的低饱和度色调，柔和的漫射阴天光线，雾气蒙蒙的地平线，平静的海洋，极简的空旷环境，营造出安静忧郁的氛围。呈现出精致的奢华时尚大片质感，细腻的皮肤纹理，逼真的面料细节，微妙的胶片颗粒感，浅景深效果，电影级构图，85mm 镜头，照片级真实感，超高细节，8K 分辨率。
+
+[English]
+Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2096832293138726943) | 2026-09-07
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (558)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (561)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1109,6 +1109,12 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7587: 水杯中的微型发烧患者](cat-ui.md#️-例-7587水杯中的微型发烧患者)
 
 - [Case 7590: 17 世纪奥斯曼帝国伊斯坦布尔室内场景](cat-ui.md#️-例-759017-世纪奥斯曼帝国伊斯坦布尔室内场景)
+
+- [Case 7605: 田园奶牛拼贴双联画](cat-ui.md#️-例-7605田园奶牛拼贴双联画)
+
+- [Case 7607: 水下河流拓片双联画](cat-ui.md#️-例-7607水下河流拓片双联画)
+
+- [Case 7628: 电影级角色档案设定集](cat-ui.md#️-例-7628电影级角色档案设定集)
 ---
 
 <a id="chart"></a>
@@ -1333,7 +1339,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1015)
+## 🎴 [Posters & Cards](cat-poster.md) (1026)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3327,11 +3333,33 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7589: 奢华时尚杂志封面生成器](cat-poster.md#-例-7589奢华时尚杂志封面生成器)
 
 - [Case 7591: 等轴测 3D 建筑模型透视海报](cat-poster.md#-例-7591等轴测-3d-建筑模型透视海报)
+
+- [Case 7598: 饮料与冷冻食品营销产品视觉图](cat-poster.md#-例-7598饮料与冷冻食品营销产品视觉图)
+
+- [Case 7608: 科莫湖双色印刷双联画](cat-poster.md#-例-7608科莫湖双色印刷双联画)
+
+- [Case 7609: 海滨照片与炭笔素描海报](cat-poster.md#-例-7609海滨照片与炭笔素描海报)
+
+- [Case 7610: 优雅的印度旅行海报](cat-poster.md#-例-7610优雅的印度旅行海报)
+
+- [Case 7612: Cinematic GPT-Image 2.5 海报](cat-poster.md#-例-7612cinematic-gpt-image-25-海报)
+
+- [Case 7616: 《月光》洛可可风格海报](cat-poster.md#-例-7616月光洛可可风格海报)
+
+- [Case 7625: 时尚杂志封面](cat-poster.md#-例-7625时尚杂志封面)
+
+- [Case 7629: 美食产品商业项目模板](cat-poster.md#-例-7629美食产品商业项目模板)
+
+- [Case 7634: 旅行日志手绘海报](cat-poster.md#-例-7634旅行日志手绘海报)
+
+- [Case 7639: 港口暮色摄影与建筑草图海报](cat-poster.md#-例-7639港口暮色摄影与建筑草图海报)
+
+- [Case 7649: 编辑风海报分割插画](cat-poster.md#-例-7649编辑风海报分割插画)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2824)
+## 📷 [Photography & Realistic](cat-photo.md) (2848)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -8913,11 +8941,59 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7585: 黑白铅笔肖像画](cat-photo.md#-例-7585黑白铅笔肖像画)
 
 - [Case 7592: 粉色饮品微距摄影](cat-photo.md#-例-7592粉色饮品微距摄影)
+
+- [Case 7593: 晨曦光圈动漫都市](cat-photo.md#-例-7593晨曦光圈动漫都市)
+
+- [Case 7594: 温馨厨房人像](cat-photo.md#-例-7594温馨厨房人像)
+
+- [Case 7597: 月光幽莲动漫肖像](cat-photo.md#-例-7597月光幽莲动漫肖像)
+
+- [Case 7599: 五格咖啡馆网红拼贴画](cat-photo.md#-例-7599五格咖啡馆网红拼贴画)
+
+- [Case 7602: 厚涂油画风格油菜花田](cat-photo.md#-例-7602厚涂油画风格油菜花田)
+
+- [Case 7603: 摩托车生活方式：黄金时刻](cat-photo.md#-例-7603摩托车生活方式黄金时刻)
+
+- [Case 7613: Cosmic Galaxy 双人肖像模板](cat-photo.md#-例-7613cosmic-galaxy-双人肖像模板)
+
+- [Case 7615: 佩戴分子发夹的动漫女学生](cat-photo.md#-例-7615佩戴分子发夹的动漫女学生)
+
+- [Case 7618: 风化银行支票微距摄影](cat-photo.md#-例-7618风化银行支票微距摄影)
+
+- [Case 7619: 红色烟雾街头风时尚人像](cat-photo.md#-例-7619红色烟雾街头风时尚人像)
+
+- [Case 7622: 双重曝光雾气森林人像](cat-photo.md#-例-7622双重曝光雾气森林人像)
+
+- [Case 7626: 夏日花园生活人像](cat-photo.md#-例-7626夏日花园生活人像)
+
+- [Case 7630: 电影感雨中欧洲街道人像](cat-photo.md#-例-7630电影感雨中欧洲街道人像)
+
+- [Case 7635: C罗天台时尚大片](cat-photo.md#-例-7635c罗天台时尚大片)
+
+- [Case 7638: 电影感沙漠“火之环”专辑封面](cat-photo.md#-例-7638电影感沙漠火之环专辑封面)
+
+- [Case 7640: 厨房生活感抓拍肖像](cat-photo.md#-例-7640厨房生活感抓拍肖像)
+
+- [Case 7641: 酒红色西装高管肖像](cat-photo.md#-例-7641酒红色西装高管肖像)
+
+- [Case 7647: 黄金时刻电影感男性肖像](cat-photo.md#-例-7647黄金时刻电影感男性肖像)
+
+- [Case 7650: 韩国女孩夜景城市天际线自拍](cat-photo.md#-例-7650韩国女孩夜景城市天际线自拍)
+
+- [Case 7652: 夜间城市街头人像](cat-photo.md#-例-7652夜间城市街头人像)
+
+- [Case 7654: 舒适日落自拍人像](cat-photo.md#-例-7654舒适日落自拍人像)
+
+- [Case 7655: 佩戴骷髅戒指的忧郁肖像](cat-photo.md#-例-7655佩戴骷髅戒指的忧郁肖像)
+
+- [Case 7656: 高管们震惊地发现了安抚奶嘴](cat-photo.md#-例-7656高管们震惊地发现了安抚奶嘴)
+
+- [Case 7657: 男子与狮子自拍](cat-photo.md#-例-7657男子与狮子自拍)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (992)
+## 🎨 [Illustration & Art](cat-illustration.md) (1000)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -10887,11 +10963,27 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7575: 极简水粉野花](cat-illustration.md#-例-7575极简水粉野花)
 
 - [Case 7579: 浪漫情侣石墨素描](cat-illustration.md#-例-7579浪漫情侣石墨素描)
+
+- [Case 7595: 雨天清晨的仓鼠玻璃艺术](cat-illustration.md#-例-7595雨天清晨的仓鼠玻璃艺术)
+
+- [Case 7600: 港口鸟群剪影](cat-illustration.md#-例-7600港口鸟群剪影)
+
+- [Case 7606: 未来感 Void Fang 机甲](cat-illustration.md#-例-7606未来感-void-fang-机甲)
+
+- [Case 7620: 东京警视厅防汛救援机甲](cat-illustration.md#-例-7620东京警视厅防汛救援机甲)
+
+- [Case 7623: 便利店里的动漫女学生](cat-illustration.md#-例-7623便利店里的动漫女学生)
+
+- [Case 7637: 哥特萝莉星象观测台](cat-illustration.md#-例-7637哥特萝莉星象观测台)
+
+- [Case 7643: 水彩霍比特人冒险家](cat-illustration.md#-例-7643水彩霍比特人冒险家)
+
+- [Case 7644: 忧郁海滩时尚大片](cat-illustration.md#-例-7644忧郁海滩时尚大片)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (239)
+## 🧍 [Character Design](cat-character.md) (240)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11355,11 +11447,13 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7553: 上钩海鲈鱼设定图](cat-character.md#-例-7553上钩海鲈鱼设定图)
 
 - [Case 7565: VALORANT Agent 概念参考图](cat-character.md#-例-7565valorant-agent-概念参考图)
+
+- [Case 7632: Ryder 和 Deshawn 警匪搭档角色设定集](cat-character.md#-例-7632ryder-和-deshawn-警匪搭档角色设定集)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (358)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (359)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12063,11 +12157,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 7548: 毛绒小狗剪贴簿海报](cat-3d.md#-例-7548毛绒小狗剪贴簿海报)
 
 - [Case 7555: 地中海村庄手绘微缩模型](cat-3d.md#-例-7555地中海村庄手绘微缩模型)
+
+- [Case 7624: 色彩鲜艳的 3D 女孩角色设计图](cat-3d.md#-例-7624色彩鲜艳的-3d-女孩角色设计图)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (215)
+## 🏛️ [Architecture & Space](cat-architecture.md) (220)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12489,11 +12585,21 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7547: 复古卧室人像提示词](cat-architecture.md#️-例-7547复古卧室人像提示词)
 
 - [Case 7563: 手绘旅行日记插画](cat-architecture.md#️-例-7563手绘旅行日记插画)
+
+- [Case 7596: 未来感亲生物中庭休息室](cat-architecture.md#️-例-7596未来感亲生物中庭休息室)
+
+- [Case 7611: 极简水彩旅行插画](cat-architecture.md#️-例-7611极简水彩旅行插画)
+
+- [Case 7614: 全息山景卧室](cat-architecture.md#️-例-7614全息山景卧室)
+
+- [Case 7631: 花园阳台智能手机抓拍](cat-architecture.md#️-例-7631花园阳台智能手机抓拍)
+
+- [Case 7642: 禅意极简夏季插画](cat-architecture.md#️-例-7642禅意极简夏季插画)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (271)
+## 🎬 [Comics & Storyboards](cat-comic.md) (272)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13019,11 +13125,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 7568: 照片与绘本插画分割构图](cat-comic.md#-例-7568照片与绘本插画分割构图)
 
 - [Case 7581: 将照片转换为儿童绘本插画](cat-comic.md#-例-7581将照片转换为儿童绘本插画)
+
+- [Case 7645: 可爱小熊猫儿童插画](cat-comic.md#-例-7645可爱小熊猫儿童插画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (828)
+## 🏷️ [Brand & Packaging](cat-brand.md) (838)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -14674,11 +14782,31 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7570: 真人与手绘双胞胎](cat-brand.md#️-例-7570真人与手绘双胞胎)
 
 - [Case 7586: 卡通女孩滑板遛狗](cat-brand.md#️-例-7586卡通女孩滑板遛狗)
+
+- [Case 7601: Gravity Lane 未来感时尚走秀](cat-brand.md#️-例-7601gravity-lane-未来感时尚走秀)
+
+- [Case 7604: 专业品牌商务肖像](cat-brand.md#️-例-7604专业品牌商务肖像)
+
+- [Case 7617: 阳光咖啡馆里的银发少女](cat-brand.md#️-例-7617阳光咖啡馆里的银发少女)
+
+- [Case 7621: 冲锋的双头地狱犬](cat-brand.md#️-例-7621冲锋的双头地狱犬)
+
+- [Case 7627: 动漫风格 Carrera 公路自行车手](cat-brand.md#️-例-7627动漫风格-carrera-公路自行车手)
+
+- [Case 7633: 精品电商平铺网格](cat-brand.md#️-例-7633精品电商平铺网格)
+
+- [Case 7646: 烹饪速写插画叙事](cat-brand.md#️-例-7646烹饪速写插画叙事)
+
+- [Case 7648: 传统服饰夜间人像](cat-brand.md#️-例-7648传统服饰夜间人像)
+
+- [Case 7651: 照片转童书插画分屏效果](cat-brand.md#️-例-7651照片转童书插画分屏效果)
+
+- [Case 7653: 复古乡村明信片](cat-brand.md#️-例-7653复古乡村明信片)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (160)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (162)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -14997,6 +15125,10 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7520: 极简墨韵插画档案](cat-edit.md#-例-7520极简墨韵插画档案)
 
 - [Case 7549: 便当风格食品包装创意转换](cat-edit.md#-例-7549便当风格食品包装创意转换)
+
+- [Case 7636: 日式水彩风景转换](cat-edit.md#-例-7636日式水彩风景转换)
+
+- [Case 7658: 波普动漫风街头素描转换](cat-edit.md#-例-7658波普动漫风街头素描转换)
 ---
 
 <a id="fun"></a>

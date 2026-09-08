@@ -4849,3 +4849,104 @@ Transform the reference photograph into a delicate hand-drawn travel journal ill
 
 ---
 
+### 🏛️ 例 7596：未来感亲生物中庭休息室
+
+![未来感亲生物中庭休息室](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E4%BA%B2%E7%94%9F%E7%89%A9%E4%B8%AD%E5%BA%AD%E4%BC%91%E6%81%AF%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个宁静的未来感亲生物室内休息室，采用温暖的中性色调，位于一个 {argument name="building type" default="大型穹顶状中庭"} 内，顶部设有由三角形切面组成的几何玻璃木格栅屋顶。使用高角度广角建筑摄影视角，俯瞰圆形的下沉式休息区。空间具有流畅的有机建筑风格：浅色灰泥弧形墙壁、浅橡木垂直木镶板、圆润的坡道和分层的圆形挡土墙，右前方有一面醒目的赤陶色弧形墙壁。中心是一个圆形谈话坑，周围环绕着 3 张奶油色弧形组合沙发、2 张圆形奶油色脚凳咖啡桌、1 张小型圆形边桌，以及 4 个可见的柔和桃色、米色、橄榄色和棕褐色装饰靠垫。休息室周围环绕着茂密的绿色苔藓床和蕨类植物，分为 4 个种植区：一个大型左侧花园床、一个狭窄的后部苔藓床、一个小型抬高式后部花槽和一个右前方弧形花槽。营造宁静、舒适、奢华且与自然融合的氛围，天窗透出柔和的漫射日光，无人像，无文字，无杂物，超写实渲染，触感光滑的材质，柔和的阴影，建筑文摘风格，超广角构图，{argument name="main material" default="浅橡木和温暖灰泥"}，{argument name="accent color" default="柔和赤陶色"}，{argument name="mood" default="宁静的避风港"}。
+
+[English]
+Create a serene futuristic biophilic interior lounge in a warm neutral palette, inside a {argument name="building type" default="large dome-like atrium"} with an overhead geometric glass-and-wood lattice roof made of triangular facets. Use a high-angle wide architectural photography view looking down into a circular sunken seating area. The space has smooth flowing organic architecture: pale plaster curved walls, light oak vertical wood paneling, rounded ramps and layered circular retaining walls, with one prominent terracotta-colored curved wall wrapping the front right edge. At the center is a circular conversation pit with exactly 3 cream curved sectional sofas arranged around the circle, exactly 2 round cream ottoman coffee tables, exactly 1 small round side table, and exactly 4 visible accent pillows in muted peach, beige, olive, and tan. Surround the lounge with lush green moss beds and ferns in exactly 4 planted zones: a large left garden bed, a narrow rear moss bed, a small raised rear planter, and a front-right curved planter. Make the atmosphere calm, cozy, luxurious, and nature-integrated, with soft diffuse daylight from the skylight, no people, no text, no clutter, photorealistic rendering, smooth tactile materials, gentle shadows, architectural digest style, ultra-wide composition, {argument name="main material" default="light oak wood and warm plaster"}, {argument name="accent color" default="soft terracotta"}, {argument name="mood" default="calming sanctuary"}.
+```
+
+**来源：** [@Christopher J. DiMarco](https://x.com/chrisjdimarco/status/2097067604531646936) | 2026-09-07
+
+---
+
+### 🏛️ 例 7611：极简水彩旅行插画
+
+![极简水彩旅行插画](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E6%97%85%E8%A1%8C%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为极简手绘水彩旅行插画。保留原始的天际线、建筑、桥梁、河流、倒影、云朵形状、透视关系和整体构图，确保地点清晰可辨。将建筑简化为优雅的精细墨线和柔和的水彩晕染，使用与原图相同的柔和蓝、薰衣草紫、桃色、灰色和温暖的日落色调。保持作品略带瑕疵且具有自然纹理，如同手工制作的 {argument name="art style" default="日式旅行速写"}。将完成的插画作为一件小型居中艺术品放置在温暖的象牙白/米白色纹理纸背景上，周围留出充足的留白。在插画下方添加一行优雅的手写风格小标题，标注照片中的地点名称。极简、精致、宁静，具有高端旅行日记的美感。无边框，无边线，无额外物体，非照片级写实效果，无杂乱元素。
+
+[English]
+Transform the uploaded photo into a minimalist hand-painted watercolor travel illustration. Preserve the original skyline, buildings, bridge, river, reflections, cloud shapes, perspective, and overall composition so the location remains clearly recognizable. Simplify the architecture into elegant fine ink lines and soft watercolor washes, using the same muted blue, lavender, peach, gray, and warm sunset tones from the original photo. Keep the artwork slightly imperfect and naturally textured, like a handmade {argument name="art style" default="Japanese travel sketch"}. Place the finished illustration as a small centered artwork on a warm ivory/off-white textured paper background with generous clean negative space around it. Add a tiny elegant handwritten-style caption below the illustration with the location name from the photo. Minimal, refined, peaceful, premium travel-journal aesthetic. No frame, no border, no extra objects, no photorealistic finish, no clutter.
+```
+
+**来源：** [@Raunak](https://x.com/Skirook/status/2096983825482199058) | 2026-09-07
+
+---
+
+### 🏛️ 例 7614：全息山景卧室
+
+![全息山景卧室](../images/%E5%85%A8%E6%81%AF%E5%B1%B1%E6%99%AF%E5%8D%A7%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级动漫风格的科幻卧室夜景，采用 16:9 宽屏构图，细节丰富且氛围感十足。一位充满未来感的青少年/年轻女性，留着超长的 {argument name="hair color" default="水蓝色"} 双马尾，站在画面中心偏右侧，身穿带有深色控制面板和蓝色发光装饰的白色高科技实验服或探险服，搭配白色长筒袜和白色短靴。她一手拿着一块透明的全息平板，目光投向左侧巨大的悬浮全息图。房间色调为深海军蓝，由冷蓝色霓虹灯边框、雨水斑驳的倒影以及温暖的床头灯照亮。在左侧，展示一个巨大的矩形全息投影，带有未来感的切角和明亮的电蓝色轮廓，由圆形地板投影仪投射而出。全息图内是一个极具戏剧性的奇幻山景：崎岖的黑色山峰、岩石前景、远处的山脉，以及地平线上灿烂的 {argument name="sky gradient" default="从日出到星空的渐变"}，橙色的晨曦向上过渡为紫罗兰色、靛蓝色和密集的星空/银河。在全息景观前方，包含一只正在飞行的小型机械鸟，它拥有白色和淡蓝色的羽毛、微型护目镜或面罩、小型背带包以及发光的蓝色水晶尾羽。在房间右侧，放置一张位于落地窗下的床；透过窗户可以看到雨夜中充满未来感的城市天际线，无数蓝色的灯光、垂直的雨迹以及玻璃上的倒影。包含一个挂在墙上的小型全息相框，显示着雪山景观。前景和房间细节应包括：光亮的地板倒影、圆形地毯、带有蓝色发光边缘和透明地图显示屏的书桌、一把办公椅、一张放有暖色灯笼的床头柜、窗边的一盆植物、左下角前景中模糊的一盆植物、一盏发光的星形灯，以及前景附近的一个小型鸟类毛绒玩具或手办。视觉风格：超精细动漫主视觉图，赛博朋克且舒适，深蓝色与洋红色-橙色晨曦形成对比，体积光效果，线条清晰，柔和光晕，逼真的反射，高景深且前景略带模糊，无可见文字，无水印。
+
+[English]
+Create a cinematic anime-style sci-fi bedroom scene at night, wide 16:9 composition, richly detailed and atmospheric. A futuristic teenage/young adult girl with very long {argument name="hair color" default="aqua blue"} twin-tail hair stands slightly right of center, wearing a white high-tech lab coat or expedition coat with dark cybernetic panels, blue glowing accents, white stockings, and white ankle boots. She holds a small translucent holographic tablet in one hand and looks toward a huge floating hologram on the left. The room is dark navy and illuminated by cool blue neon edge lights, rain-speckled reflections, and warm bedside lantern light. On the left side, show one enormous rectangular holographic projection with clipped futuristic corners and a bright electric-blue outline, rising from a circular floor projector. Inside the hologram is a dramatic fantasy mountain landscape: jagged black peaks, rocky foreground, distant mountain ranges, a brilliant {argument name="sky gradient" default="sunrise-to-starry-night gradient"} with orange dawn on the horizon blending upward into violet, indigo, and a dense star field/Milky Way. In front of the holographic landscape, include exactly one small mechanical bird companion flying, with white and pale-blue feathers, tiny goggles or visor, a small harness pack, and glowing blue crystalline tail feathers. On the right side of the room, place a bed under large floor-to-ceiling windows; through the windows show a rainy futuristic city skyline at night with countless blue lights, vertical rain streaks, and reflections on glass. Include exactly one small wall-mounted holographic frame showing snowy mountains. Foreground and room details should include a glossy reflective floor, a circular rug, a desk with blue-lit edges and a transparent map-like display, one office chair, one bedside table with one warm lantern, one potted plant near the window, one potted plant blurred in the lower left foreground, one glowing star-shaped lamp, and one small bird plush or figurine near the foreground. Visual style: ultra-detailed anime key visual, cyberpunk but cozy, deep blues with magenta-orange dawn contrast, volumetric glow, crisp linework, soft bloom, realistic reflections, high depth of field with slight foreground blur, no visible text, no watermark.
+```
+
+**来源：** [@小羊(straysbeer)](https://x.com/straysheep_54/status/2096975563542196225) | 2026-09-07
+
+---
+
+### 🏛️ 例 7631：花园阳台智能手机抓拍
+
+![花园阳台智能手机抓拍](../images/%E8%8A%B1%E5%9B%AD%E9%98%B3%E5%8F%B0%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张完全自然、照片级真实的智能手机抓拍照片，拍摄对象为一位 {argument name="subject" default="年轻东亚女性"}，正舒适地盘腿坐在阳台花园的露台上。她留着 {argument name="hair style" default="长而自然的深棕色波浪卷发"}，头发松散地垂在肩头和身前，细碎的发丝自然飘动。她的五官精致且写实，带有细腻的自然妆容和真实的皮肤质感。
+她穿着一件 {argument name="clothing" default="宽松舒适的浅灰色卫衣"} 和休闲款浅蓝色牛仔裤。她坐姿随意自然，一只手轻轻托着脸颊，目光向上并略微看向侧方。她的表情显得既可爱又若有所思，带着一点点嘟嘴，仿佛照片是在一个安静的非摆拍时刻捕捉到的。
+她坐在浅色的户外露台地面上，周围环绕着郁郁葱葱的绿色植物、茂密的盆栽叶片和盛开的小朵粉色花卉。身后是简约的黑色金属阳台栏杆，背景是茂密的树木和自然植被。整个环境显得宁静、私密，就像一个真实的日常花园阳台。
+柔和温暖的自然日光轻轻洒在她的脸庞和衣物上，营造出逼真的细微阴影。真实的皮肤毛孔、自然的头发质感、写实的卫衣面料以及可信的牛仔布细节清晰可见。画面没有任何过度修饰或刻意摆拍的痕迹。
+以真实的休闲智能手机摄影风格拍摄，采用自然的平视视角。全身坐姿构图，竖向画幅，主体位于画面中下部。背景具有柔和的自然景深——在保持清晰可辨的同时进行了柔焦处理。
+超写实摄影，自然比例，日常抓拍瞬间，韩式休闲时尚美学，柔和低饱和色调，细微胶片颗粒感，真实光影，略带瑕疵的智能手机拍摄细节，4K 写实度，无美颜滤镜效果，无过度修图。
+负面提示词：卡通，动漫，插画，CGI，人工感皮肤，塑料感皮肤，浓妆，扭曲的五官，多余的手指，畸形的手，多余的肢体，解剖结构错误，不自然的身体比例，僵硬的姿势，色彩过饱和，戏剧性影棚灯光，模糊的脸，低分辨率，水印，文字，Logo。
+
+[English]
+A completely natural, photorealistic candid smartphone photo of a {argument name="subject" default="young East Asian woman"} sitting comfortably cross-legged on a balcony garden terrace. She has {argument name="hair style" default="long, naturally wavy dark brown hair"} falling loosely over her shoulders and down the front of her body, with soft individual strands moving naturally. Her features are delicate and realistic, with subtle natural makeup and authentic skin texture.\nShe is wearing an {argument name="clothing" default="oversized cozy light-gray sweatshirt"} with relaxed-fit light-blue jeans. Sitting casually and naturally, she gently rests one hand against her cheek while looking upward and slightly off to the side. Her expression feels genuinely cute and thoughtful, with a subtle slightly pouty look, as if the photo was captured during a quiet unposed moment.\nShe sits on a light-colored outdoor terrace surface surrounded by lush green plants, leafy potted foliage, and small blooming pink flowers. A simple black metal balcony railing runs behind her, with dense trees and natural greenery filling the background. The setting feels peaceful, private, and like a real everyday garden balcony.\nSoft warm natural daylight falls gently across her face and clothing, creating realistic subtle shadows. Natural skin pores, authentic hair texture, realistic sweatshirt fabric, and believable denim details are clearly visible. Nothing looks overly polished or artificially posed.\nShot as an authentic casual smartphone photograph with a natural eye-level perspective. Full-body seated composition, vertical framing, with the subject positioned slightly toward the lower-middle of the frame. The background has gentle natural depth of field—softly blurred while remaining clearly recognizable.\nUltra-realistic photography, natural proportions, candid everyday moment, Korean-inspired casual fashion aesthetic, muted soft colors, subtle film grain, realistic lighting, slightly imperfect smartphone-camera details, 4K realism, no beauty-filter effect, no excessive retouching.\nNegative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2096914920915001598) | 2026-09-07
+
+---
+
+### 🏛️ 例 7642：禅意极简夏季插画
+
+![禅意极简夏季插画](../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A4%8F%E5%AD%A3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简插画
+风格分支：女性审美清爽型
+主体内容：一位女子坐在水边石阶上，低头看向水面
+情绪母题：清新、夏日、松弛感
+场景与意象：青瓷蓝水面、白色石阶、{argument name="日光颜色" default="柠檬黄色"}圆形日光、少量{argument name="植物影子" default="竹影"}、人物
+构图与空间：9:16 竖版构图，人物位于下半部分，圆形日光位于中上部，顶部和右侧保留通透留白空间
+色彩控制：高明度暖白作为整体基底，青瓷蓝用于水面和远景空气层，柠檬黄只用于圆形日光和少量水面反光，人物服装用白色或浅米黄；避免全图发黄或发蓝
+光线与质感：明亮日光，画面清透，平面感清晰，轻纸感即可
+画幅比例：9:16
+补充要求：整体要有夏日清爽感和女性审美吸引力，不要沉闷，不要雾灰
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2096838519918596234) | 2026-09-07
+
+---
+

@@ -20176,3 +20176,391 @@ Create a bright, playful single-panel cartoon illustration in a thick black-outl
 
 ---
 
+### 🏷️ 例 7601：Gravity Lane 未来感时尚走秀
+
+![Gravity Lane 未来感时尚走秀](../images/Gravity%20Lane%20%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%97%B6%E5%B0%9A%E8%B5%B0%E7%A7%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的竖版科幻时尚插画，画面主角为 {argument name="character name" default="JFC-01，Gravity Lane 的女子"}，她正走在一条建筑与重力仿佛为她让路的未来大都市中。主体是一位身材高挑、优雅的年轻女性，位于画面左下角前景，全身像，正自信地向观众走来，神情冷静而疏离，微微抬头看向左上方。她留着极长的随风飘逸的 {argument name="hair color" default="银白色"} 秀发，在身后呈现出戏剧性的流动感；皮肤白皙，五官精致，妆容淡雅，佩戴着小巧的垂坠耳环。她的装束为高级定制哥特赛博朋克风格：一件黑色长款多层大衣，配有宽袖、结构感肩部设计、黑色高领内搭裙、飘逸的不对称裙摆，大衣内衬可见浅色花纹，饰有细腰带和悬挂的金属挂件，佩戴着一个小巧的青色发光吊坠，脚穿抛光黑色高跟靴。背景是一座由钢铁、玻璃和混凝土构成的宏大垂直未来城市，高耸的圆柱形摩天大楼、空中连廊、悬浮圆形平台以及悬空的交通结构消失在迷雾深处。画面右侧是一条巨大的分段式金属人行道，仿佛重力发生了偏移，向上弯曲延伸；其上带有铰接面板、栏杆、机械接头、青色发光细节以及暖色调的垂直灯条。地面是湿润且具有反射效果的金属步道，带有面板接缝、格栅、轨道和嵌入式青色灯带，形成了强烈的指向背景的透视线。画面中需包含 5 个远处的小型行人剪影：3 个位于高处的弯曲桥梁上，2 个位于远处较低的步道上。采用明亮的阴天日光，伴有柔和的云层、大气雾霾、发丝边缘光、金属表面的光泽反射，以及融合了高级概念艺术与动漫写实风格的超精细材质。配色方案：黑色、石墨色、银色、浅混凝土色、青色点缀光以及暖白色灯光。摄影：低角度全身时尚镜头，3/4 视角，宽广的建筑景深，动态引导线，前景细节清晰，背景略带雾感。画面中不得出现标题文字、Logo、水印或前景中的多余字符。
+
+[English]
+Create a cinematic vertical sci‑fi fashion illustration of {argument name="character name" default="JFC-01, the woman of the Gravity Lane"} walking through a futuristic megacity where architecture and gravity seem to bend to open a path for her. The main subject is a tall, elegant young woman in the lower-left foreground, full body, striding confidently toward the viewer while looking slightly up and to her left with a calm, distant expression. She has very long wind-swept {argument name="hair color" default="silver-white"} hair flowing dramatically behind her, pale skin, refined facial features, subtle makeup, and small dangling earrings. Her outfit is high-fashion gothic cyberpunk: a long black layered coat with wide sleeves, structured shoulders, black high-collar inner dress, flowing asymmetrical skirt panels, pale patterned lining visible inside the coat, slim belts and hanging metallic charms, a small glowing cyan pendant-like accessory, and polished black heeled boots. The setting is a vast vertical futuristic city of steel, glass, and concrete, with towering cylindrical skyscrapers, skybridges, floating circular platforms, and suspended transit structures disappearing into misty depth. A massive segmented metallic pedestrian lane rises and curves upward on the right side of the composition, as if gravity has shifted; it has articulated panels, railings, mechanical joints, glowing cyan details, and warm vertical light bars. The ground is a wet reflective metal walkway with panel seams, grates, rails, and embedded cyan light strips, creating strong perspective lines toward the background. Include exactly 5 small distant pedestrians: 3 silhouettes on the elevated curved bridge and 2 silhouettes on the lower walkway in the distance. Use bright overcast daylight with soft clouds, atmospheric haze, rim lighting on the hair, glossy reflections on metal, and a premium concept-art/anime-realism hybrid style with ultra-detailed materials. Color palette: black, graphite, silver, pale concrete, cyan accent lights, and warm white lamps. Camera: low-angle full-body fashion shot, 3/4 view, wide architectural depth, dynamic leading lines, sharp foreground detail and slightly hazy background. No visible title text, no logo, no watermark, no extra characters in the foreground.
+```
+
+**来源：** [@Benjamin Peng](https://x.com/BinPeng22/status/2097028286144786867) | 2026-09-07
+
+---
+
+### 🏷️ 例 7604：专业品牌商务肖像
+
+![专业品牌商务肖像](../images/%E4%B8%93%E4%B8%9A%E5%93%81%E7%89%8C%E5%95%86%E5%8A%A1%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以我上传的照片作为人物参考，为 {argument name="brand name" default="[品牌名称]"} 创建一张照片级逼真的专业品牌肖像。我将自然地站在该品牌的高端现代商务总部外，该品牌专注于 {argument name="business niche" default="[你的业务领域]"}。在整个场景中使用 {argument name="primary color" default="[主色调]"} 和 [辅助色调]。在我身旁的建筑墙面上放置一个大型发光金属 3D [品牌名称] 标志。让我穿着一件专业的 [颜色] T 恤，上面印有 [品牌名称/Logo]，搭配商务休闲裤或牛仔裤以及干净的鞋履。添加一个优雅的背景信息面板，显示：[标语] [服务 1] [服务 2] [服务 3] [网站]。使用真实的现代建筑、玻璃、景观、倒影和专业的室外照明。使场景看起来像一个真正的高端商业场所。采用电影般的傍晚灯光、真实的皮肤质感、自然的身体比例、专业商业摄影、浅景深以及精致的企业美学。保留我上传照片中可辨认的外貌特征。在保持品牌清晰可见的同时，将我作为主体。以 9:16 的竖屏格式创建图像，并保持构图精致且简洁。
+
+[English]
+Using my uploaded photo as the person reference, create a photorealistic professional brand portrait of me standing naturally outside a premium modern business headquarters for {argument name="brand name" default="[BRAND NAME]"}, a brand focused on {argument name="business niche" default="[WHAT YOU DO]"}. Use {argument name="primary color" default="[PRIMARY COLOR]"} and [SECONDARY COLOR] throughout the scene. Place a large illuminated metallic 3D [BRAND NAME] sign vertically on the architectural wall beside me. Dress me in a professional [COLOR] T-shirt featuring [BRAND NAME/LOGO], with smart-casual trousers or jeans and clean footwear. Add an elegant background information panel displaying: [TAGLINE] [SERVICE 1] [SERVICE 2] [SERVICE 3] [WEBSITE] Use realistic modern architecture, glass, landscaping, reflections and professional exterior lighting. Make the scene look like a genuine premium commercial location. Use cinematic evening lighting, realistic skin texture, natural body proportions, professional commercial photography, shallow depth of field and a polished corporate aesthetic. Preserve my recognizable appearance from the uploaded photo. Keep me as the main subject while making the branding clearly visible. Create the image in 9:16 vertical format and keep the composition sophisticated and uncluttered.
+```
+
+**来源：** [@SkillDential 🇳🇬](https://x.com/Skilldential/status/2097005677386584574) | 2026-09-07
+
+---
+
+### 🏷️ 例 7617：阳光咖啡馆里的银发少女
+
+![阳光咖啡馆里的银发少女](../images/%E9%98%B3%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8C%E7%9A%84%E9%93%B6%E5%8F%91%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，描绘 {argument name="character name" default="一位银发少女"} 享受惬意周末咖啡时光的场景。她侧身坐在咖啡馆的木椅上，回眸看向观众，嘴角带着温柔的微笑，脸颊微红，拥有一双闪烁的蓝绿色大眼睛。她留着一头柔顺亮丽的 {argument name="hair color" default="银白色长发"}，配有整齐的刘海、垂至肩头的发丝，以及在脑后用青色丝带蝴蝶结扎起的小侧辫。她的装束是可爱精致的咖啡馆约会校服风：白色短袖衬衫配荷叶边装饰、泡泡袖、青色领结，以及高腰深青色百褶裙和细腰带；搭配白色短袜和深色乐福鞋。她的右手端着一个白色陶瓷杯，杯中装着 {argument name="drink" default="带有心形拉花的拿铁"}，杯下配有同款托盘，另一只手自然地搭在椅子上。场景设定为温暖的现代咖啡馆内部，配有木质桌椅、长木吧台、摆放着相框和咖啡设备的架子、一盆小绿植，桌上立着一块写有“Cafe”的小黑板菜单，上面列有四种饮品：Espresso 400、Latte 450、Cappuccino 450、Americano 400。背景中的大窗户可以看到柔和的蓝色山峦、树木和明亮的日光。运用金色的晨光、逼真的木质反光、浅景深、柔和的虚化背景、细腻的线条、高细节的动漫渲染、简洁的构图，营造出温馨宁静的氛围。相机角度为从她右后方略高的四分之三视角，采用 2:3 竖构图，展示完整的上半身及坐姿腿部。避免出现多余角色、手部畸变或杂乱的文字，保持咖啡馆优雅宁静的格调。
+
+[English]
+Create a polished anime-style vertical illustration of {argument name="character name" default="a silver-haired girl"} enjoying a relaxing weekend café visit. She is seated sideways on a wooden chair at a sunlit café table, looking back up toward the viewer with a gentle open-mouthed smile, soft blush, and large sparkling turquoise eyes. She has long glossy {argument name="hair color" default="silver-white hair"} with straight bangs, loose shoulder-length strands, and small side braids gathered near the back with a teal ribbon bow. Her outfit is a cute refined café-date school-uniform look: a white short-sleeve blouse with ruffled trim, puff sleeves, a teal neck ribbon, and a high-waisted deep teal pleated skirt with a slim belt; include white socks and dark loafers. Her right hand holds a white ceramic cup of {argument name="drink" default="latte with heart-shaped latte art"} above a matching saucer on the table, while her other hand rests naturally on the chair. The setting is a warm modern café interior with wooden tables and chairs, a long wooden counter, shelves with framed pictures and coffee equipment, a small potted plant, and exactly one small chalkboard menu on the table reading “Cafe” with four drink items: Espresso 400, Latte 450, Cappuccino 450, Americano 400. Large windows in the background reveal soft blue mountains, trees, and bright daylight. Use golden morning sunlight, realistic wood reflections, shallow depth of field, softly blurred background, delicate linework, high-detail anime rendering, clean composition, and a cozy peaceful atmosphere. Camera angle is a slightly high three-quarter view from behind and above her right side, vertical 2:3 framing, full upper body and seated legs visible. Avoid extra characters, avoid distorted hands, avoid cluttered text, and keep the café elegant and serene.
+```
+
+**来源：** [@イロミライ(公式)-AIイラスト投稿サイト-おかげさまで"2周年"を迎えました🎉](https://x.com/iromiraijp/status/2096958756257145295) | 2026-09-07
+
+---
+
+### 🏷️ 例 7621：冲锋的双头地狱犬
+
+![冲锋的双头地狱犬](../images/%E5%86%B2%E9%94%8B%E7%9A%84%E5%8F%8C%E5%A4%B4%E5%9C%B0%E7%8B%B1%E7%8A%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具戏剧性的黑白奇幻插画，主角是 {argument name="creature name" default="Orthrus"}，一只巨大的双头地狱犬正穿过茂密的古老森林向观众直冲而来。该生物拥有 2 个咆哮的犬头：左侧头部朝前，下颚大张，露出长长的獠牙，舌头可见，耳朵竖起，毛发炸开；右侧头部稍靠后并转向右方，同样张开利齿咆哮。赋予这头野兽肌肉发达的狼形躯体、厚实蓬松的灰黑色皮毛、跨过倒木的巨大爪子、左侧可见的卷曲尾巴，以及脖颈上沉重的金属项圈、圆环和链条。场景设定在混乱的林地中，背景有高大的树干、缠绕的枝条、落叶、破碎的枯木、岩石，以及爪下扬起的尘土或碎屑。采用强烈的低角度正面视角、紧凑构图、动态感和迫在眉睫的攻击感。以粗粝的黑白墨水、木炭和石墨排线风格呈现，线条密集且带有刮痕感，高对比度，粗糙的纸张纹理，富有表现力的深色阴影，无色彩，无文字，无边框，无水印。强调凶猛感、神话恐怖感以及手绘暗黑奇幻概念艺术风格，采用方形构图。
+
+[English]
+Create a dramatic monochrome fantasy illustration of {argument name="creature name" default="Orthrus"}, a massive two-headed hellhound charging straight toward the viewer through a dense ancient forest. The creature has exactly 2 snarling canine heads: the left head faces forward with jaws wide open, long fangs exposed, tongue visible, ears raised and spiked fur bristling; the right head is slightly behind and turned to the right, also roaring with sharp teeth bared. Give the beast a muscular wolf-like body, thick shaggy black-gray fur, huge clawed front paws lunging over fallen logs, a curling tail visible on the left, and heavy metal collars, rings, and chain links around both necks. Set the scene in a chaotic woodland with tall tree trunks, tangled branches, leaf litter, splintered deadwood, rocks, and dust or debris kicked up under its paws. Use an intense low frontal perspective, close crop, dynamic motion, and a sense of imminent attack. Render in gritty black-and-white ink, charcoal, and graphite crosshatching, with dense scratchy linework, high contrast, rough paper texture, expressive dark shadows, no color, no text, no border, no watermark. Emphasize ferocity, mythological horror, and hand-drawn dark fantasy concept art in a square composition.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2096947762814435580) | 2026-09-07
+
+---
+
+### 🏷️ 例 7627：动漫风格 Carrera 公路自行车手
+
+![动漫风格 Carrera 公路自行车手](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%20Carrera%20%E5%85%AC%E8%B7%AF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的现代动漫风格全身插画，描绘一位充满活力的年轻女性公路自行车手，将品牌 {argument name="cycling brand" default="CARRERA"} 进行拟人化呈现。她站在湖畔观景台，身旁靠着一辆蓝、白、黄、黑相间的公路赛车，一只手扶在车座上，另一只手轻触耳边的秀发。她留着深棕色长发，扎成高马尾，几缕发丝随风飘动；她有着明亮的蓝色双眸、淡淡的红晕和友好的微笑；一副蓝色镜面骑行眼镜戴在头顶。为她穿上一套修身的专业骑行服，并印有 {argument name="cycling brand" default="CARRERA"} 品牌标识：共包含 7 件可见的服装/配饰，分别为短袖拉链式白蓝骑行衫、黑蓝背带骑行裤、黑色露指骑行手套、白色骑行鞋、带有蓝/黄条纹的白袜、蓝色反光墨镜以及一个小发圈/发带。骑行衫拉链微敞，内搭黑色运动背心，胸前、袖口、短裤、手套、车座、车架、前叉、座管和轮组上均有清晰的运动风格赞助商图案及重复的品牌 Logo。画面中包含 1 辆公路自行车，配有缠绕白色胶带的弯把、细窄的公路轮胎、清晰可见的前后轮、传动系统、脚踏、水壶架和一个黑色水壶。背景为阳光明媚的夏季湖景：身后是波光粼粼的蓝色湖水，中景处有一道质朴的木栅栏，湖对岸是青山与远山，天空湛蓝，飘浮着朵朵白云。采用竖构图，使用清晰的赛璐珞动漫渲染风格，具备高细节的织物高光、光亮的自行车漆面、明亮的日光、饱和的色彩、细腻的线条，以及时尚的当代日本插画质感。以角色为视觉中心，展现从头部到鞋子的全身形象，整体氛围清新、运动、可爱且充满向往感。
+
+[English]
+Create a polished modern anime-style full-body illustration of a cheerful young female road cyclist anthropomorphizing the brand {argument name="cycling brand" default="CARRERA"}. She is posing beside and partly leaning on a blue, white, yellow, and black racing road bike at a lakeside overlook, with one hand resting on the saddle and the other touching her hair near her ear. She has long dark brown hair in a high ponytail with loose windblown strands, bright blue eyes, a soft blush, and a friendly smile; blue mirrored cycling sunglasses sit on top of her head. Dress her in a fitted pro cycling kit branded with {argument name="cycling brand" default="CARRERA"}: 7 visible clothing/accessory items total, consisting of a short-sleeve zip-front white-and-blue cycling jersey, black-and-blue bib shorts, black fingerless cycling gloves, white cycling shoes, white socks with blue/yellow stripes, blue reflective sunglasses, and a small hair tie/headband. The jersey is slightly unzipped over a black inner sports top, with clean sporty sponsor graphics and repeated brand logos on the chest, sleeves, shorts, gloves, saddle, frame, fork, seatpost, and wheels. Include exactly 1 road bicycle with drop handlebars wrapped in white tape, slim road tires, visible front and rear wheels, drivetrain, pedals, bottle cages, and a black water bottle. The setting is a sunny summer lakeside scene: sparkling blue water behind her, a rustic wooden fence running horizontally across the middle ground, green hills and distant mountains across the lake, and a vivid blue sky filled with fluffy white clouds. Use a vertical portrait composition, crisp cel-shaded anime rendering with high-detail fabric highlights, glossy bike paint, bright daylight, saturated colors, delicate linework, and a fashionable contemporary Japanese illustration feel. Make the character the central focus, show her from head to shoes, and keep the mood fresh, sporty, cute, and aspirational.
+```
+
+**来源：** [@豊玉(ほうぎょく)](https://x.com/ninja_62/status/2096930867717574884) | 2026-09-07
+
+---
+
+### 🏷️ 例 7633：精品电商平铺网格
+
+![精品电商平铺网格](../images/%E7%B2%BE%E5%93%81%E7%94%B5%E5%95%86%E5%B9%B3%E9%93%BA%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+【ブランド・商品情報】
+・ブランド名: {argument name="ブランド名" default="椿、モダン・ジャパン・アパレル"}
+・コレクション名: {argument name="コレクション" default="A/W 2026 COLLECTION"}
+・代表的なアイテム価格: {argument name="価格" default="¥18,000 + TAX"}
+
+【画質・演出・構図指定】
+・スタイル: ミニマルで洗練された日本のファッション・ライフスタイルブランドのECサイト用ルックブック写真。
+・構図: 自然光が差し込むスタジオのフローリングまたはコンクリート床の上に、丁寧に配置されたアパレルアイテム（バッグ、アウター、シューズなど）のフラットレイ（平置き）または整然としたディスプレイ。
+・タイポグラフィの配置（GPT-image / Nano Banana Pro向け）: 画面の隅に控えめに、{argument name="ブランド名" default="椿、モダン・ジャパン・アパレル"}というブランド名や{argument name="コレクション" default="A/W 2026 COLLECTION"}のテキスト、{argument name="価格" default="¥18,000 + TAX"}の価格表記が、極細のフォントで配置されている。
+・照明・色彩: 曇り日の自然光のような非常に柔らかい光、低コントラスト、アースカラー（ベージュ、オリーブ、チャコールグレー、オフホワイト）を基調とした落ち着いたトーン。
+
+【レイアウトおよび出力上の厳格な制約（必須）】
+・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。
+・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・アスペクト比: 「--ar 1:1」または「--ar 4:3」
+```
+
+**来源：** [@AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote/status/2096906819713081810) | 2026-09-07
+
+---
+
+### 🏷️ 例 7646：烹饪速写插画叙事
+
+![烹饪速写插画叙事](../images/%E7%83%B9%E9%A5%AA%E9%80%9F%E5%86%99%E6%8F%92%E7%94%BB%E5%8F%99%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将主体转化为一个视觉故事，通过 {argument name="frame count" default="4–6 个小型插画帧"} 进行呈现。在保持主体可辨识度的同时，将其重新诠释为迷人的手绘序列，展示其食材、准备过程、质地和最终形态。
+
+使用 {argument name="background style" default="暖色调奶油纸背景"}、精致的墨水轮廓、微妙的手写注释、微小的箭头、食材草图、测量标记以及不完美的印刷纹理。
+
+构图应呈现出 {argument name="illustration style" default="古老烹饪速写本"} 页面的质感——充满艺术感、灵动、怀旧且经过精心策划。
+
+不要仅仅复制照片，而是将主体转化为一段插画视觉叙事。
+
+[English]
+Turn the main subject into a visual story told through {argument name="frame count" default="4–6 small illustrated frames"}. Keep the original object recognizable, but reinterpret it as a charming hand-drawn sequence showing its ingredients, preparation, texture, and final form.
+
+Use a {argument name="background style" default="warm cream paper background"}, delicate ink outlines, subtle handwritten annotations, tiny arrows, ingredient sketches, measurement marks, and imperfect print textures.
+
+The composition should feel like a page from an {argument name="illustration style" default="old culinary sketchbook"} — artistic, intelligent, nostalgic, and highly curated.
+
+Do not simply reproduce the photograph. Transform its subject into an illustrated visual narrative.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2096823849702785331) | 2026-09-07
+
+---
+
+### 🏷️ 例 7648：传统服饰夜间人像
+
+![传统服饰夜间人像](../images/%E4%BC%A0%E7%BB%9F%E6%9C%8D%E9%A5%B0%E5%A4%9C%E9%97%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张图片，展示一位 {argument name="subject" default="年轻女性"} 在夜间户外，站在砖砌建筑前的姿态。她身着时尚的 {argument name="outfit" default="白色长款传统服饰，下摆和袖口带有层叠的透明褶边和亮眼的蓝色装饰"}。她的服装领口附近有刺绣图案，并搭配了同色系的白色长裤。她留着深色的齐肩短发，面带温柔的微笑，一只手轻抚发丝，另一只手触碰着装饰性的门或栅栏。{argument name="background element" default="背景是一根在明亮人工照明下的露砖柱子"}。她身旁是一扇精致的棕金色装饰门或木质屏风。在她的右侧，一条铺砌的人行道延伸至昏暗夜色下的城市街道。远处的背景中，可以看到沿路的路灯和模糊的行人身影。整体氛围在主体周围温暖且明亮，与较暗的城市街景形成对比。
+
+[English]
+Create an image shows a young woman posing outdoors at night in front of a brick structure. She is wearing a stylish, long white traditional outfit featuring layered sheer frills and vibrant blue accents along the hemline and cuffs. Her ensemble includes embroidered patterns near the neckline and is paired with matching white trousers. She has dark, shoulder-length hair and is smiling gently while resting one hand near her hair and touching a decorative door or gate with the other.The background consists of a exposed brick pillar illuminated by bright artificial lighting. Adjacent to her is an intricate golden-brown decorative gate or wooden screen. To her right, a paved sidewalk extends down a city street under dim nighttime lighting. In the distant background, streetlights and faint figures of pedestrians can be seen along the pathway. The overall atmosphere is warm and brightly lit around the subject, contrasting with the darker ambient urban street scene.
+```
+
+**来源：** [@ZorviaLux](https://x.com/ZorviaLux/status/2096808121251577958) | 2026-09-07
+
+---
+
+### 🏷️ 例 7651：照片转童书插画分屏效果
+
+![照片转童书插画分屏效果](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E7%AB%A5%E4%B9%A6%E6%8F%92%E7%94%BB%E5%88%86%E5%B1%8F%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅根据上传的照片，创作一幅 3:4 的垂直“照片 + 手绘插画”艺术作品。
+
+仅使用上传的照片作为视觉参考。独立分析照片，并在插画中还原确切的主体、姿势、表情、服装、发型、配饰、物体、比例以及整体瞬间。请勿引入任何先前图像或参考中的元素。
+
+上方 — 原始照片
+
+画布的上半部分（约 50%）用于展示原始照片。
+
+忠实且自然地保留照片：
+- 确保原始主体清晰可辨。
+- 保留面部、表情、发型、服装、配饰、姿势、身体比例及可见物体。
+- 保留原始环境和构图。
+- 请勿对主体进行修图、美化、替换或重新设计。
+- 保持照片的真实感，包括其原始光影、色彩、纹理和细节。
+
+下方 — 手绘插画
+
+画布的下半部分（约 50%）用于展示同一照片的迷人手绘插画。
+
+将照片中的瞬间转化为精致的儿童童书风格手绘艺术品。
+
+插画风格：
+- 柔和的水彩和彩色铅笔质感
+- 温柔的铅笔/墨水轮廓线
+- 略带不完美的手工笔触
+- 温暖、有触感的米白色纹理纸张
+- 柔和的自然阴影
+- 微妙的水彩渲染
+- 可爱、富有表现力、温馨的外观
+- 精致的手工瑕疵
+- 无光泽的数字渲染感
+- 无照片级真实感
+- 无 3D CGI
+- 无动漫或卡通特许经营风格
+
+最重要的是，准确保留照片中的主体：
+- 相同的姿势和身体位置
+- 相同的面部表情
+- 相同的发型
+- 相同的服装和图案
+- 相同的鞋子/配饰
+- 相同的比例
+- 相同的独特视觉细节
+- 相同的整体动作或氛围
+
+大幅简化背景。无需重现每一个背景细节。仅保留对原始环境的微妙暗示，使插画主体保持为视觉焦点。
+
+将插画主体放置得比照片主体稍小，周围留出充足的留白。
+
+极简装饰细节
+
+在插画周围添加少量手绘装饰标记，例如：
+- 小爱心
+- 简单的动态线条
+- 微小的涂鸦
+- 微妙的星星或花朵
+
+保持这些装饰稀疏且有品位。
+
+在插画附近添加一个小巧的手写标题，例如：
+
+“little happy girl ♡”
+
+标题应看起来像自然手写，带有随意的棕色/灰色铅笔或墨水质感。
+
+如果上传的主体不是女孩，请自动调整措辞或完全省略标题。
+
+整体美学
+
+最终的艺术作品应感觉像是一段珍贵的记忆，被转化为了手工制作的儿童绘本中的一页。
+
+构图：
+- 垂直 3:4
+- 照片与插画之间界限清晰
+- 柔和温暖的排版呈现
+- 插画周围有大量留白
+- 极简、优雅、感性
+- 高级手工文具/插画剪贴簿美学
+
+关键规则：
+上传的照片是唯一的真实依据。请勿发明、替换、合并或从其他图像中引入任何人物、服装、物体、背景元素、颜色、姿势或细节。
+
+下方的插画必须清晰地呈现为上方照片中“确切瞬间”的手绘版本。
+
+参考优先级：
+1. 确切的主体和姿势
+2. 面部表情和发型
+3. 服装和配饰
+4. 整体构图
+5. 插画风格
+6. 极简装饰元素
+
+切勿为了艺术风格化而牺牲主体准确性。
+
+[English]
+Create a single vertical 3:4 PHOTO + HAND-DRAWN ILLUSTRATION artwork based ONLY on the uploaded photograph.
+
+Use the uploaded photograph as the ONLY visual reference. Analyze the photograph independently and reproduce the exact subject, pose, expression, clothing, hairstyle, accessories, objects, proportions, and overall moment in the illustration. Do not introduce elements from any previous image or reference.
+
+TOP — ORIGINAL PHOTOGRAPH
+
+Use approximately the upper 50% of the canvas for the original photograph.
+
+Preserve the photograph faithfully and naturally:
+- Keep the original subject exactly recognizable.
+- Preserve the face, expression, hairstyle, clothing, accessories, pose, body proportions, and visible objects.
+- Preserve the original environment and composition.
+- Do not retouch, beautify, replace, or redesign the subject.
+- Keep the photograph realistic with its original lighting, colors, textures, and details.
+
+BOTTOM — HAND-DRAWN ILLUSTRATION
+
+Use approximately the lower 50% for a charming handmade illustration of the SAME photograph.
+
+Transform the photographic moment into a delicate children's storybook-style hand-drawn artwork.
+
+Illustration style:
+- Soft watercolor and colored-pencil texture
+- Gentle pencil/ink outlines
+- Slightly imperfect handmade strokes
+- Warm, tactile off-white textured paper
+- Soft natural shading
+- Subtle watercolor washes
+- Cute, expressive, wholesome appearance
+- Delicate handcrafted imperfections
+- No glossy digital-rendered appearance
+- No photorealism
+- No 3D CGI
+- No anime or cartoon franchise style
+
+Most importantly, accurately preserve the subject from the photograph:
+- Same pose and body position
+- Same facial expression
+- Same hairstyle
+- Same clothing and clothing patterns
+- Same shoes/accessories
+- Same proportions
+- Same distinctive visual details
+- Same overall action or mood
+
+Simplify the background substantially. Do not recreate every background detail. Keep only a very subtle suggestion of the original environment, allowing the illustrated subject to remain the main focus.
+
+Place the illustrated subject slightly smaller than the photograph's subject, surrounded by generous negative space.
+
+MINIMAL DECORATIVE DETAILS
+
+Add a few tiny hand-drawn decorative marks around the illustration, such as:
+- small hearts
+- simple motion lines
+- tiny doodles
+- subtle stars or flowers
+
+Keep these decorations sparse and tasteful.
+
+Add a small handwritten caption near the illustration, such as:
+
+"little happy girl ♡"
+
+The caption should look naturally handwritten with a casual brown/gray pencil or ink texture.
+
+If the uploaded subject is not a girl, automatically adapt the wording appropriately or omit the caption entirely.
+
+OVERALL AESTHETIC
+
+The final artwork should feel like a precious memory transformed into a page from a handmade children's picture book.
+
+Composition:
+- Vertical 3:4
+- Clean separation between photograph and illustration
+- Soft warm editorial presentation
+- Large amount of negative space around the illustration
+- Minimal, elegant, sentimental
+- Premium handmade stationery / illustrated scrapbook aesthetic
+
+CRITICAL RULE:
+The uploaded photograph is the sole source of truth. Do not invent, substitute, merge, or carry over any person, clothing, object, background element, color, pose, or detail from another image.
+
+The bottom illustration must clearly look like a hand-drawn version of the EXACT moment shown in the top photograph.
+
+REFERENCE PRIORITY:
+1. Exact subject and pose
+2. Facial expression and hairstyle
+3. Clothing and accessories
+4. Overall composition
+5. Illustration style
+6. Minimal decorative elements
+
+Never sacrifice subject accuracy for artistic stylization.
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2096806123877835005) | 2026-09-07
+
+---
+
+### 🏷️ 例 7653：复古乡村明信片
+
+![复古乡村明信片](../images/%E5%A4%8D%E5%8F%A4%E4%B9%A1%E6%9D%91%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像作为风景底图，将其转换为竖版复古旅行日记明信片插画。保持原有的乡村构图和视角，但将其重绘为暖色调奶油纹理纸上的柔和彩色铅笔与淡水彩素描，配以手绘轮廓、写意阴影和略显褪色的柔和色彩。在插画风景的上方和下方留出大面积的奶油色空白边距。在顶部添加 1 个手写草书标题：{argument name="title text" default="Sunny Days"}，并带有简单的下划线装饰。在底部添加 1 个较小的手写说明文字：{argument name="caption text" default="— Good time —"}。成品应呈现出宁静、阳光明媚、怀旧且纯手工的质感，如同速写本中的一页或乡村明信片。请勿添加任何人物、车辆、建筑物、徽标或额外文字。
+
+[English]
+Using the provided reference image as the landscape base, transform it into a vertical vintage travel-journal postcard illustration. Keep the same countryside composition and viewpoint, but redraw it as a soft colored-pencil and light watercolor sketch on warm cream textured paper, with hand-drawn outlines, loose shading, and slightly faded pastel colors. Add a large blank cream margin above and below the illustrated landscape. At the top, add exactly 1 handwritten cursive title: {argument name="title text" default="Sunny Days"}, with a simple underline flourish. At the bottom, add exactly 1 smaller handwritten caption: {argument name="caption text" default="— Good time —"}. Make the finished piece feel calm, sunny, nostalgic, and handmade, like a page from a sketchbook or rustic postcard. Do not add any people, vehicles, buildings, logos, or extra text.
+```
+
+**来源：** [@odidotnet](https://x.com/odidotnet/status/2096803482799874316) | 2026-09-07
+
+---
+

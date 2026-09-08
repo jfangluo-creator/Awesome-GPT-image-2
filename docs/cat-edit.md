@@ -4421,3 +4421,39 @@ Create ONE refined PHOTO + MINIMAL INK VIGNETTE artwork based ONLY on the upload
 
 ---
 
+### 🔧 例 7636：日式水彩风景转换
+
+![日式水彩风景转换](../images/%E6%97%A5%E5%BC%8F%E6%B0%B4%E5%BD%A9%E9%A3%8E%E6%99%AF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转换为精致的日式水彩插画。保留原始构图、Starbucks 店面、背景中的富士山、积雪覆盖的景观、高大的常青树、路灯以及大气透视感。使用柔和的手绘水彩渲染、细腻的墨线勾勒，色调采用柔和的冰蓝色、淡白色以及温暖的窗户金光。将精细的摄影细节简化为优雅的绘画形态。添加自然的画纸纹理、略显不均匀的颜料边缘、柔和的色彩晕染，并在主体周围留出大量干净的米白色负空间。简约的日式旅行写生美学，宁静的冬季氛围，精致的编辑插画风格，细腻而优雅，拒绝写实感。将参考照片转换为迷人的手绘水彩插画，同时保留房屋、积雪的屋顶、停放的车辆、常青树、路灯、雪路以及整体构图。重现戏剧性的粉彩冬季日落，使用柔和的腮红粉、薰衣草紫、粉蓝色和暖奶油色进行渲染。运用灵动的水彩笔触、细腻的墨水细节、微妙的纸张纹理、不完美的颜料边缘以及柔和的色彩晕染。将建筑和周围环境简化为优雅的插画形态。保持画面居中，并留出充足的米白色负空间，呈现出高级日式水彩明信片或旅行手账插画的质感。温馨、宁静、怀旧的冬季氛围，低调且富有艺术感，拒绝写实感。
+
+[English]
+Transform the reference photograph into a delicate Japanese watercolor illustration. Preserve the exact composition, Starbucks storefront, Mount Fuji in the background, snow-covered landscape, tall evergreen trees, street lamps, and atmospheric perspective. Use soft hand-painted watercolor washes, subtle ink outlines, muted icy blues, pale whites, and warm golden window light. Simplify fine photographic details into elegant painterly shapes. Add natural watercolor paper texture, slightly uneven pigment edges, gentle color bleeding, and lots of clean off-white negative space around the main subject. Minimalist Japanese travel-sketch aesthetic, peaceful winter atmosphere, sophisticated editorial illustration, delicate and refined, no photorealism. Transform the reference photograph into a charming hand-painted watercolor illustration while preserving the house, snow-covered roof, parked vehicle, evergreen tree, street lamp, snowy road, and overall composition. Recreate the dramatic pastel winter sunset with soft washes of blush pink, lavender, powder blue, and warm cream. Use loose watercolor brushstrokes, delicate ink details, subtle paper grain, imperfect pigment edges, and gentle color bleeding. Simplify the architecture and surroundings into elegant illustrated forms. Keep the artwork centered with generous off-white negative space, like a premium Japanese watercolor postcard or travel journal illustration. Cozy, quiet, nostalgic winter mood, understated and artistic, no photorealism.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2096876402788196838) | 2026-09-07
+
+---
+
+### 🔧 例 7658：波普动漫风街头素描转换
+
+![波普动漫风街头素描转换](../images/%E6%B3%A2%E6%99%AE%E5%8A%A8%E6%BC%AB%E9%A3%8E%E8%A1%97%E5%A4%B4%E7%B4%A0%E6%8F%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的草图作为构图参考，将其转换为精致的风格化动漫插画。保持整体场景不变：左下方坐着一个小女孩，右侧是一条倾斜的街道，身后有墙壁和建筑物，中右侧有一根电线杆，杆旁靠着一辆自行车，墙后是崎岖的远山。将孩子优化为可爱的 Q 版/动漫女孩，表情安静且略带忧伤，蜷缩着身体抱着膝盖。将粗糙的线条转换为干净利落的黑色粗轮廓和扁平赛璐璐风格上色。使用以亮黄色、黑色和亮粉色为主的强烈有限色调，在建筑装饰、阴影、山丘、自行车细节和女孩的服装上加入粉色点缀。添加图形化的道路标记：路面上正好有 3 个黑色矩形虚线，远处还有 2 条细的对角线道路标线。自行车需细节丰富但保持简化，包含两个可见的车轮、车架、车把、车座、踏板和挡泥板。最终图像风格应类似于高对比度的波普动漫专辑封面插画，干净、锐利、色彩饱和且具有海报感，同时保留参考图的布局和透视。
+
+[English]
+Using the provided rough sketch as the composition reference, transform it into a polished stylized anime illustration. Keep the same overall scene: a small girl sitting on the sidewalk at the lower left, a sloping street on the right, a wall and building behind her, a utility pole near the center-right, a bicycle leaning beside the pole, and jagged distant hills behind the wall. Refine the child into a cute chibi/anime girl with a quiet, slightly sad expression, sitting curled up and hugging her knees. Convert the crude lines into clean bold black outlines and flat cel-shaded color. Use an intense limited palette dominated by bright yellow, black, and hot pink, with pink accents on the building trim, shadows, hills, bicycle details, and the girl’s clothing. Add graphic road markings: exactly 3 black rectangular dash marks on the road plus 2 thin diagonal road lines farther back. Make the bicycle detailed but still simplified, with two visible wheels, frame, handlebar, seat, pedals, and fenders. Style the final image like a high-contrast pop-anime album-cover illustration, clean, sharp, saturated, and poster-like, while preserving the reference layout and perspective.
+```
+
+**来源：** [@scuti0](https://x.com/scuti0/status/2096774541066260881) | 2026-09-07
+
+---
+
