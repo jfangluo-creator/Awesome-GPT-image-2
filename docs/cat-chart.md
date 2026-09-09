@@ -4384,3 +4384,45 @@ Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 wide
 
 ---
 
+### 📊 例 7694：8 方向 RPG 英雄角色精灵图表
+
+![8 方向 RPG 英雄角色精灵图表](../images/8%20%E6%96%B9%E5%90%91%20RPG%20%E8%8B%B1%E9%9B%84%E8%A7%92%E8%89%B2%E7%B2%BE%E7%81%B5%E5%9B%BE%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为类塞尔达传说风格的游戏角色创建一套完整的 2D 像素风 RPG 行走精灵图表，可直接切割为动画帧使用。
+
+画布：纯白正方形背景，简洁的精灵图表呈现，均匀分布的网格，无边框，无标签，精灵外部无阴影。采用统一的俯视 45 度 RPG 视角。
+
+布局：将 64 个独立的精灵角色排列在 8 列 8 行的网格中。每一行代表一个行走方向，每一列代表一个动画帧。保持所有单元格的比例一致、居中对齐且间距统一。
+
+方向与帧数：包含 8 个行走方向，每个方向 8 帧：1 正面朝向镜头行走，2 右前斜向，3 右侧面，4 右后斜向，5 背面远离镜头行走，6 左后斜向，7 左侧面，8 左前斜向。角色的身份、比例、服装、发型、面部、披风、小包、靴子和颜色在所有 64 帧中必须保持一致。腿部、手臂、披风摆动和身体起伏的动画应自然流畅，且不得改变角色设计。
+
+角色细节：一位可爱的年轻奇幻冒险男孩，名为 {argument name="character name" default="棕发披风冒险者"}，采用 Q 版比例，大头小身，凌乱的 {argument name="hair color" default="暖棕色"} 头发，蓝色眼睛，白皙皮肤，坚定的中性表情，青色束腰外衣，带金色扣环的棕色皮带，深色长裤，棕色靴子，臀部配有一个棕色小挎包，肩部系着一件飘逸的 {argument name="cape color" default="棕色"} 披风。服装风格应具有经典动作冒险 RPG 英雄的感觉。
+
+视觉风格：高质量像素艺术，边缘清晰，手绘精灵细节，细腻的赛璐珞阴影，温暖的奇幻色调，轮廓清晰，符合小型游戏角色比例，呈现精致的独立游戏 RPG 质感。在每一帧中使用统一的光源和一致的像素密度。
+
+约束条件：总计 64 个精灵，严格 8 行 8 列，无文字，无 UI，无武器，无额外角色，无背景景观，无肢体朝向错误，无配件翻转不一致，帧与帧之间不得改变头部形状或服装，不得裁剪。
+
+[English]
+Goal: Create a complete 2D pixel-art RPG walking sprite sheet for a Zelda-like game character, ready to cut into animation frames.
+
+Canvas: Square white background, clean sprite-sheet presentation, evenly spaced grid with no borders, no labels, no shadows outside the sprites. Use a consistent top-down three-quarter RPG perspective.
+
+Layout: Arrange exactly 64 discrete character sprites in an 8 columns by 8 rows grid. Each row is one walking direction and each column is one animation frame. Keep identical scale, centered alignment, and consistent spacing across all cells.
+
+Directions and frame count: Include exactly 8 walking directions with 8 frames each: 1 front-facing walking toward camera, 2 front-right diagonal, 3 right side profile, 4 back-right diagonal, 5 back-facing walking away, 6 back-left diagonal, 7 left side profile, 8 front-left diagonal. The character identity, proportions, outfit, hair, face, cape, pouch, boots, and colors must remain consistent in all 64 frames. Animate legs, arms, cape swing, and body bob naturally without changing the character design.
+
+Character details: A cute young fantasy adventurer boy named {argument name="character name" default="brown-haired cape adventurer"}, chibi proportions with a large head and small body, tousled {argument name="hair color" default="warm brown"} hair, blue eyes, fair skin, determined neutral expression, teal tunic, brown leather belt with gold buckle, dark trousers, brown boots, small brown satchel pouch at the hip, and a flowing {argument name="cape color" default="brown"} cloak fastened around the shoulders. Outfit style should feel like a classic action-adventure RPG hero.
+
+Visual style: High-quality pixel art with crisp edges, hand-painted sprite detail, subtle cel shading, warm fantasy colors, readable silhouette, small-game-character scale, polished indie RPG look. Use a consistent light source and consistent pixel density across every frame.
+
+Constraints: Exactly 64 sprites total, exactly 8 rows and 8 columns, no text, no UI, no weapon, no extra characters, no background scenery, no duplicated wrong-facing limbs, no flipped-inconsistent accessories, no changes in head shape or outfit between frames, no cropping.
+```
+
+**来源：** [@Futur Lucide](https://x.com/FuturLucide/status/2097416059271664013) | 2026-09-08
+
+---
+

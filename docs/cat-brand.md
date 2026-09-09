@@ -20564,3 +20564,211 @@ Using the provided reference image as the landscape base, transform it into a ve
 
 ---
 
+### 🏷️ 例 7662：一致的 3x3 工作室视图表
+
+![一致的 3x3 工作室视图表](../images/%E4%B8%80%E8%87%B4%E7%9A%84%203x3%20%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A7%86%E5%9B%BE%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色基础，生成一张 16:9 的环绕环境 3x3 视图表，确保人物的身份、服装、姿势活力和身体比例在所有角度下保持一致。
+
+目标：在连贯的摄影工作室环境中，从多个摄像机方向展示同一主体，仿佛围绕着人物拍摄。
+
+画布与布局：创建一个 16:9 的宽幅横向图像，顶部带有深色标题栏，并包含一个整洁的 3x3 网格，由 9 个面板组成，面板间以细白线分隔。在顶部居中添加日语标题 {argument name="title text" default="周辺景観 3x3ビュー"}。
+
+所需的 9 个面板及标签：在每个面板的左上角放置一个黑色圆角标签，并配以白色日文文本。请严格使用以下 9 个标签视图，按从左到右、从上到下的顺序排列：1) 「左後方」，2) 「背面」，3) 「右後方」，4) 「左側面」，5) 「正面」，6) 「右側面」，7) 「左前方」，8) 「俯瞰」，9) 「右前方」。
+
+场景转换：将原始参考图扩展为逼真的幕后工作室场景。保留参考图中的米色无缝背景纸，但展示周围的工作室环境：灯架、柔光箱、三脚架上的相机、灰色混凝土地板、盆栽植物、梯子、带有笔记本电脑/显示器的移动设备推车、线缆和纸箱。这些物体应根据视角在不同角度下保持一致。
+
+主体：保持参考图中同一男性的形象，身穿同样的黑色鸭舌帽、印有白色 {argument name="shirt text" default="20A"} 字样的黑色 T 恤、黑色长裤和黑色运动鞋。保持他蹲姿的活力感和富有表现力的手势，但针对每个标签视图进行自然的旋转。正面视图面板应展示其面部；背面和侧面面板应根据角度正确隐藏或显露面部特征。
+
+风格：照片级真实感、高分辨率工作室摄影、广角纪录片风格、一致的灯光、逼真的透视，无卡通化处理。
+
+约束：9 个视图必须在空间上保持一致，尤其是正面、背面、左侧和右侧。不要添加额外的面板、标签、水印或无关文本。
+
+[English]
+Using REFERENCE_0 as the character base, generate a 16:9 surrounding-environment 3x3 view sheet that keeps the person’s identity, outfit, pose energy, and body proportions consistent across all angles.
+
+Goal: Show the same subject from multiple camera directions in a coherent photo studio environment, as if captured around the person.
+
+Canvas and layout: Create one wide horizontal 16:9 image with a dark header bar and a clean 3x3 grid of exactly 9 panels separated by thin white borders. Add the centered Japanese title {argument name="title text" default="周辺景観 3x3ビュー"} at the top.
+
+Required 9 panels and labels: Place a black rounded label with white Japanese text in the upper-left of each panel. Use exactly these 9 labeled views, arranged left to right, top to bottom: 1) 「左後方」, 2) 「背面」, 3) 「右後方」, 4) 「左側面」, 5) 「正面」, 6) 「右側面」, 7) 「左前方」, 8) 「俯瞰」, 9) 「右前方」.
+
+Scene transformation: Expand the original reference into a realistic behind-the-scenes studio setup. Keep the beige seamless paper backdrop from the reference, but reveal the surrounding studio: light stands, softbox lights, camera on tripod, gray concrete floor, a potted plant, a step ladder, a rolling equipment cart with a laptop/monitor, cables, and cardboard boxes. These objects should appear consistently from different angles according to the viewpoint.
+
+Subject: Keep the same man from the reference wearing the same black cap, black T-shirt with the white {argument name="shirt text" default="20A"} lettering, black pants, and black sneakers. Maintain his crouched energetic stance and expressive hands, but rotate him naturally for each labeled viewpoint. The front-view panels should show his face; the rear and side panels should correctly hide or reveal facial features based on angle.
+
+Style: Photorealistic, high-resolution studio photography, wide-angle documentary look, consistent lighting, realistic perspective, no cartoon styling.
+
+Constraints: The 9 views must be spatially consistent, especially front, back, left, and right. Do not add extra panels, extra labels, watermarks, or unrelated text.
+```
+
+**来源：** [@白井圧＠組長](https://x.com/kumi0708/status/2097471450869629049) | 2026-09-08
+
+---
+
+### 🏷️ 例 7683：未来感浮空城市星云插画
+
+![未来感浮空城市星云插画](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%B5%AE%E7%A9%BA%E5%9F%8E%E5%B8%82%E6%98%9F%E4%BA%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅迷人的数字插画，描绘了一座悬浮在蓬松夜云之上的城市，背景是梦幻般的天空。前景中，密集的摩天大楼群窗户透出温暖的金色灯光，勾勒出闪耀的城市天际线。城市仿佛坐落在厚重、连绵的深蓝色与灰色云层之上，向远方延伸。城市上方，夜空化作了天体奇观：一个巨大且发光的彩色星云环绕着漆黑、星光点点的虚空。星云散发出深紫、电光蓝和炽热橙色的鲜艳色调，点缀着遥远闪烁的恒星与星座，营造出梦幻般超凡脱俗的氛围。这是一幅令人惊叹的垂直视角画面，展现了一座未来都市在黄昏时分优雅地漂浮在无尽、厚重且连绵的深灰色云海之上。广阔的城市天际线拥有众多高耸入云的摩天大楼，发光的窗户将温暖的琥珀色和橙色光芒投射到下方的城市景观中。画面上方是一道壮丽的宇宙环，这是一个由鲜艳紫色、深蓝色和灿烂暖金色组成的圆形发光星云，在漆黑的夜空中洒满了无数闪烁的恒星和遥远的星系。构图平衡且宏伟，下方的深色云层作为基底，与上方璀璨的宇宙现象形成鲜明对比。光影超现实且空灵，将城市灯光的温暖人造光与星云的宇宙光芒融为一体。氛围宁静、令人敬畏且神秘，唤起了一种星际奇观与城市孤寂感。柔软蓬松的云层纹理、摩天大楼光滑的玻璃钢结构以及星光熠熠的宇宙尘埃，共同营造出高对比度、视觉冲击力极强的场景。
+
+[English]
+A breathtaking vertical view of a futuristic metropolis floating gracefully above an endless sea of dense, rolling dark grey clouds at twilight. The sprawling city skyline features numerous towering skyscrapers with glowing windows that cast warm amber and orange lights onto the urban landscape below. Dominating the upper portion of the frame is a magnificent cosmic ring, a glowing circular nebula composed of {argument name="nebula colors" default="vibrant purples, deep blues, and brilliant warm golden hues"}, sprinkled with countless twinkling stars and distant galaxies across the pitch-black night sky. The composition is balanced and majestic, with the dark cloud layer grounding the lower foreground, contrasting sharply with the radiant cosmic phenomenon above. The lighting is surreal and ethereal, blending the warm artificial glow of the city lights with the cosmic luminescence of the nebula. The atmosphere is quiet, awe-inspiring, and mystical, evoking a sense of interstellar wonder and urban isolation. The detailed textures of the soft, voluminous clouds, the sleek glass and steel architecture of the skyscrapers, and the starry cosmic dust create a high-contrast, visually striking scene.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2097435473043931201) | 2026-09-08
+
+---
+
+### 🏷️ 例 7685：一致的 3x3 多角度场景图
+
+![一致的 3x3 多角度场景图](../images/%E4%B8%80%E8%87%B4%E7%9A%84%203x3%20%E5%A4%9A%E8%A7%92%E5%BA%A6%E5%9C%BA%E6%99%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，创建一个包含相同人物和零售仓库环境的连贯多视图场景重构。生成一张比例为 {argument name="aspect ratio" default="16:9"} 的图像，并将其划分为精确的 {argument name="grid layout" default="3x3"} 联系表。在所有 9 个面板中，保持主体身份、服装、太阳镜、展示台和商店设置的一致性，但从不同的摄像机角度和距离重绘周围场景，以确保人物的站立位置和环境在空间上保持合理。
+
+所需的 9 个视图：
+1. 从太阳镜展示台对面拍摄的正面中景。
+2. 显示主体背部及前方展示台的背面视图。
+3. 展示台旁边的右侧侧面视图。
+4. 从靠近展示台位置拍摄的左侧侧面视图。
+5. 与参考图相似的四分之三正面视图。
+6. 带有后方货架的四分之三前右侧视图。
+7. 越过展示台拍摄的后左侧视图。
+8. 主体位于展示台附近中心位置的后四分之三视图。
+9. 展示整个太阳镜展示台、主体及周围仓库过道的广角俯视图。
+
+使用 {argument name="model or style note" default="GPT-image-2.5 Sunburst"} 风格的照片级真实感合成。强调正面、背面、左侧和右侧视图为必选项。请勿添加标题、对话气泡、除简洁白色网格分隔线之外的边框，或任何额外的人物。
+
+[English]
+Using the provided reference image, create a coherent multi-view scene reconstruction with the same person and retail warehouse environment. Generate a {argument name="aspect ratio" default="16:9"} image divided into an exact {argument name="grid layout" default="3x3"} contact sheet. In all 9 panels, keep the subject’s identity, clothing, sunglasses, display table, and store setting consistent, but redraw the surrounding scene from varied camera angles and distances so the person’s standing position and environment remain spatially plausible.
+
+Required 9 views:
+1. Front-facing medium view from across the sunglasses table.
+2. Rear view showing the subject’s back and the table ahead.
+3. Right-side profile view beside the display.
+4. Left-side profile view from closer to the table.
+5. Three-quarter front view similar to the reference.
+6. Three-quarter front/right view with shelves behind.
+7. Rear-left view looking over the table.
+8. Rear three-quarter view with the subject centered near the display.
+9. Wide elevated view showing the full sunglasses table, subject, and surrounding warehouse aisles.
+
+Use {argument name="model or style note" default="GPT-image-2.5 Sunburst"} style photorealistic synthesis. Emphasize front, back, left, and right views as mandatory. Do not add captions, speech bubbles, borders beyond the clean white grid dividers, or any extra people.
+```
+
+**来源：** [@大鹿ニク（AI：M1RA）](https://x.com/M1RA_A_Project/status/2097430099675242744) | 2026-09-08
+
+---
+
+### 🏷️ 例 7691：旋转房间视角联系表
+
+![旋转房间视角联系表](../images/%E6%97%8B%E8%BD%AC%E6%88%BF%E9%97%B4%E8%A7%86%E8%A7%92%E8%81%94%E7%B3%BB%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为房间基础，生成一张包含 {argument name="number of views" default="10"} 个不同摄像机视角的自卫教室联系表拼贴画，模拟摄像机环绕房间拍摄的效果。请保留房间特征、家具、墙面海报文字、训练垫、沙袋、货架、窗户、门、神龛、灯光、色彩以及动漫背景风格。请勿添加人物或新物体。
+
+布局：将视角排列为 {argument name="collage layout" default="2 列 5 行"} 的垂直拼贴画。每个面板应为宽幅室内镜头，保持透视和灯光的一致性，展示同一空间的不同角度，而非不同的房间。
+
+摄像机变化：以小增量环绕房间旋转视角，包括面向窗户、门、海报墙、设备架、沙袋和垫子区域的视图。保持几何结构合理，并确保面板之间的连贯性。
+
+风格约束：匹配参考图中简洁的动漫室内插画风格，包含透过窗户的柔和阳光、天花板荧光灯、抛光的蓝米色垫子、温暖的木质墙板，且除房间内原有的海报外，不得添加任何文字叠加。
+
+[English]
+Using the provided reference image as the exact room base, generate a contact-sheet collage showing {argument name="number of views" default="10"} different camera viewpoints of the same self-defense classroom, as if the camera is rotating around the room. Preserve the room identity, furniture, wall poster text, training mats, punching bag, shelves, window, doors, shrine shelf, lighting, colors, and anime background style. Do not add people or new objects.
+
+Layout: Arrange the views in a vertical collage with {argument name="collage layout" default="2 columns and 5 rows"}. Each panel should be a wide interior shot, with consistent perspective and lighting, showing different angles of the same space rather than different rooms.
+
+Camera variation: Rotate the viewpoint around the room in small increments, including views facing the window, doors, poster wall, equipment shelves, punching bag, and mat area. Keep the geometry believable and maintain continuity between panels.
+
+Style constraints: Match the clean illustrated anime interior look of the reference, with soft sunlight through the window, fluorescent ceiling lights, polished blue-and-cream mats, warm wooden wall paneling, and no text overlays outside the poster already in the room.
+```
+
+**来源：** [@賢木イオ🍀AIイラスト](https://x.com/studiomasakaki/status/2097421256333410776) | 2026-09-08
+
+---
+
+### 🏷️ 例 7700：电影级飞机坠毁海滩生存场景
+
+![电影级飞机坠毁海滩生存场景](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%B5%B7%E6%BB%A9%E7%94%9F%E5%AD%98%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像为基础，重新生成同一个生存惊悚风格的海滩场景，使其呈现出更具超写实感的“好莱坞电影”风格。保留核心主体与故事线：湿透的女性、黑狗、冲浪区坠毁的小型飞机、橙色应急浮具、风暴中的大西洋海滩以及金色的日落氛围。增强戏剧张力与临场感：将摄像机位置降至水面高度，采用浅景深效果；让女性在泡沫翻涌的浪花中前行，而非在干沙滩上行走；让黑狗在右侧溅起的水花中奔跑。强化海洋质感，增加更汹涌的海浪、更多泡沫、湿润的反光沙滩、散落的海藻与碎片，并加强前景的模糊处理。将飞机残骸移至背景中心位置，使其部分没入水中并冒着烟，附近可见一名幸存者。天空左侧调暗并增加压迫感，右侧则让灿烂的低垂阳光穿透云层，形成强烈的镜头光晕，在湿润的海滩上投射出温暖的倒影，远方右侧增加岩石岬角。保留女性痛苦的表情、湿透的衣物以及疲惫的肢体语言，但使构图更宏大、更具动感与电影质感，如同高预算的现代冒险惊悚片画面。无文字，无水印。
+
+[English]
+Using the provided reference image as the base, regenerate the same survival-thriller beach scene in a more ultra-realistic Hollywood cinematic style. Keep the core subjects and story intact: the soaked woman, the black dog, the wrecked small plane in the surf, the orange emergency flotation gear, stormy Atlantic beach, and golden sunset atmosphere. Increase the drama and immediacy: place the camera very low at water level with shallow depth of field, make the woman wade forward through foamy surf instead of walking on dry sand, and make the dog run through splashing water on the right. Intensify the ocean with rougher waves, more foam, wet reflective sand, scattered seaweed and debris, and stronger foreground blur. Move the plane wreck farther into the center background, partially submerged, smoking, with one survivor visible near it. Make the sky darker and more threatening on the left, with a brilliant low sun breaking through clouds on the right, strong lens flare, warm reflections on the wet beach, and a distant rocky headland at the far right. Preserve the woman’s distressed expression, wet clothing, and exhausted body language, but make the composition feel larger, more dynamic, and more cinematic, like a high-budget contemporary adventure thriller frame. No text, no watermark.
+```
+
+**来源：** [@Le PLOUTOS](https://x.com/leploutos/status/2097411209108562221) | 2026-09-08
+
+---
+
+### 🏷️ 例 7701：阳光森林空地照片
+
+![阳光森林空地照片](../images/%E9%98%B3%E5%85%89%E6%A3%AE%E6%9E%97%E7%A9%BA%E5%9C%B0%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 {argument name="scene" default="林间小空地"} 的照片，四周环绕着茂密的 {argument name="foliage color" default="翠绿色"} 植被，采用广角镜头从地面视角拍摄。前景布满了蕨类植物、草丛、小型叶片植物和斑驳的阳光；中景是一片阳光明媚的草地；背景由高大的落叶乔木和深色的常绿针叶树环绕。画面左侧包含一棵显眼的苔藓树干斜入，上方有拱形树枝、茂密的叶冠、透过叶缝可见的明亮蓝天，以及强烈的夏季日光形成的对比鲜明的阴影。使其看起来像是一张写实的高分辨率自然摄影作品，具有高度细节的叶片、树皮、苔藓、林下植被和自然纹理，色彩饱和的绿色，画面中无人、无动物、无路径、无建筑物、无文字、无水印。
+
+[English]
+Photo of a {argument name="scene" default="small clearing in the woods"} surrounded by dense {argument name="foliage color" default="vivid green"} foliage, shot from ground level with a wide-angle lens. The foreground is filled with ferns, grasses, small leafy plants, and dappled sunlight; the middle ground opens into a sunlit grassy patch; the background is enclosed by tall deciduous trees and dark evergreen conifers. Include one prominent mossy tree trunk leaning in from the left edge, arching branches overhead, thick leafy canopy, patches of bright blue sky peeking through the leaves, and strong summer daylight creating high-contrast shadows. Make it look like a realistic high-resolution nature photograph with highly detailed leaves, bark, moss, undergrowth, and natural textures, rich saturated greens, no people, no animals, no path, no buildings, no text, no watermark.
+```
+
+**来源：** [@Mark Kretschmann](https://x.com/mark_k/status/2097411028510179759) | 2026-09-08
+
+---
+
+### 🏷️ 例 7704：雨中巴黎钟表匠场景重构
+
+![雨中巴黎钟表匠场景重构](../images/%E9%9B%A8%E4%B8%AD%E5%B7%B4%E9%BB%8E%E9%92%9F%E8%A1%A8%E5%8C%A0%E5%9C%BA%E6%99%AF%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图为基础场景，将其重新生成为更精致的超写实编辑摄影作品，同时保留复古未来主义的巴黎钟表工作室、雨夜氛围、短发年轻钟表匠、黄铜台灯、挂满时钟的室内环境、小型黄铜机器人助手、湿润的橱窗倒影以及法式店面特征。
+
+场景重构：从更宽、更低的前窗视角重新构图，仿佛从店外透过雨水浸润的玻璃向内看。将钟表匠移至右下/中心位置，使她的双手和手表机械结构成为视觉焦点；将机器人助手放置在工作台左下方，使其向维修区域伸手。通过在左侧窗外展示更多巴黎街道景观来增强景深，包括 1 名撑伞的骑行者、湿漉漉的鹅卵石路面、温暖的咖啡馆灯光以及模糊的汽车尾灯。
+
+文字与招牌：保持主店面文字清晰且居中位于玻璃上方：{argument name="shop name" default="L’ATELIER DU TEMPS"}。保留下方的副标题：{argument name="subtitle text" default="Réparations depuis 1927"}。将“营业中”标志移至副标题下方的窗内，文字显示为 {argument name="open sign text" default="OUVERT"}。
+
+室内添加与布局：在背景中增加更多古董挂钟和架子，强调浓厚的旧世界钟表作坊氛围。室内需清晰可见 5 个时钟表盘：1 个大型圆形挂钟、1 个中型圆形挂钟、1 个小型圆形挂钟、1 个长方形座钟以及 1 个高大的落地钟。保留右侧架子上睡觉的橘猫。在工作台上，展示 4 个整齐排列在手表机械结构旁的小型钟表工具，右侧放置一本打开的素描本，最右侧放一个有缺口的白色咖啡杯。
+
+风格：超写实 4K 编辑摄影，竖构图 {argument name="aspect ratio" default="4:5"}，室内温暖灯光与室外冷色调雨景形成对比，玻璃上有细腻的水珠，柔和的背景虚化，逼真的倒影，浅景深，复古未来主义的黄铜与木质材质，室内无多余人物，无任何 Logo 或水印。
+
+[English]
+Using the provided reference image as the base scene, regenerate it as a more polished hyperrealistic editorial photograph while preserving the same retrofuturistic Paris watchmaker workshop, rainy evening mood, young short-haired watchmaker, brass desk lamp, clock-filled interior, small brass robot assistant, wet shop-window reflections, and French storefront identity.
+
+Transformation: Recompose the scene from a slightly wider, lower, front-window viewpoint, as if looking through rain-streaked glass from just outside the shop. Shift the watchmaker to the lower-right/center, make her hands and the watch mechanism the focal point, and place the robot assistant on the lower-left side of the workbench reaching toward the repair area. Increase the sense of depth by showing more of the Paris street on the left through the window, including exactly 1 cyclist holding an umbrella, wet cobblestones, warm café lights, and blurred car tail lights.
+
+Text and signage: Keep the main storefront text legible and centered high on the glass: {argument name="shop name" default="L’ATELIER DU TEMPS"}. Keep the subtitle below it: {argument name="subtitle text" default="Réparations depuis 1927"}. Move the open sign so it hangs beneath the subtitle inside the window, reading {argument name="open sign text" default="OUVERT"}.
+
+Interior additions and layout: Add more antique wall clocks and shelves in the background, emphasizing a dense old-world horology workshop. Include exactly 5 prominent clock faces visible in the interior: 1 large round wall clock, 1 medium round wall clock, 1 small round wall clock, 1 rectangular mantle clock, and 1 tall cabinet clock. Keep the sleeping orange cat on the right-side shelf. On the workbench, show exactly 4 small watchmaking tools lined up near the watch mechanism, plus an open sketchbook on the right and a chipped white coffee cup at the far right.
+
+Style: Hyperrealistic 4K editorial photography, vertical {argument name="aspect ratio" default="4:5"}, cinematic warm interior light contrasted with cool blue rainy exterior, detailed water droplets on glass, soft bokeh, realistic reflections, shallow depth of field, retrofuturistic brass-and-wood materials, no extra people inside, no logos or watermarks.
+```
+
+**来源：** [@Le PLOUTOS](https://x.com/leploutos/status/2097409785628950872) | 2026-09-08
+
+---
+

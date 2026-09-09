@@ -9294,3 +9294,105 @@ Constraints: Use only the 2 named characters, exactly 5 handwritten note blocks 
 
 ---
 
+### 🧍 例 7676：16 格 Q 版舞蹈动作参考图
+
+![16 格 Q 版舞蹈动作参考图](../images/16%20%E6%A0%BC%20Q%20%E7%89%88%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张正方形角色参考图，展示 {argument name="character name" default="MiniMax H3"} 作为 Q 版动漫女孩的 16 种不同舞蹈动作，并按编号网格排列。
+
+画布：1:1 正方形图像，灰白色纸张背景，用深棕色细线精确划分为 4x4 网格。每个格子简洁明了，中心放置一个全身 Q 版角色。在每个格子的左上角添加 1 到 16 的深红色小数字编号。
+
+角色设计：所有 16 个格子中均为同一个可爱的 Q 版女孩：大头小身，桃金色波波头配齐刘海，头顶有一根长长的弯曲呆毛，紫色眼睛，脸颊红润，带着调皮的小微笑。在角色右侧头发上添加一个装饰性的深棕色花朵与齿轮发饰，刘海附近有一个小圆形齿轮发夹。服装：超大号 {argument name="hoodie color" default="暖棕色"} 连帽衫，长袖，胸前印有浅色徽章，黑色颈圈，叠穿棕色格纹百褶裙，腰间系着格纹衬衫或腰带，黑色过膝袜，厚底黑色乐福鞋。在所有格子中保持颜色和比例的一致性。
+
+视觉风格：精致的卡哇伊 Q 版插画，干净的深棕色粗线条，柔和的赛璐珞阴影，温暖柔和的棕色调，富有表现力的动漫面部，大多数格子中脚下有微妙的粉色椭圆形阴影。在适当位置添加简单的动态线、闪光、花朵、爱心或气泡，但背景保持空白。
+
+布局及 16 个格子的具体内容：
+1. 双腿分开的活力站姿，一只拳头向前举起，表情坚定。
+2. 类似僵尸的松散摇摆，双臂下垂，半眯着眼的困倦表情。
+3. 单膝抬起，一只手臂举过头顶，身体周围有小动态线。
+4. 身体大幅度向侧面倾斜，一只腿交叉在后，双臂在头顶上方弯曲。
+5. 优雅的舞步，闭着眼睛，双臂轻柔伸展，有两个小花朵涂鸦。
+6. 低蹲姿势，双手像爪子一样放在脸颊旁，困惑的表情配一个问号。
+7. 背对旋转姿势，头部微转，一只手臂向前伸展，裙摆飘动。
+8. 单腿可爱姿势，双臂在头顶上方形成圆形，眨眼，有小星星涂鸦。
+9. 深侧弓步，一只手撑地，另一只手臂高高拱起，狡黠的表情。
+10. 单膝抬起，闭眼，双手在头顶上方形成小角或皇冠形状，带有微小的强调符号。
+11. 自信的宽站姿，双手像手指枪一样向外指，周围有闪光。
+12. 困倦的后仰，闭眼，双臂松散下垂，带有气泡和动态弧线。
+13. 害羞的回眸姿势，一只手放在嘴边，侧身，有小爱心涂鸦。
+14. 爬行或低姿势，一条腿轻微抬起，俏皮的侧视，带有动态标记。
+15. 快乐的空中跳跃，双臂张开，闭眼微笑，带有花朵涂鸦和动态线。
+16. 时髦的结束姿势，一只手在眼睛附近比 V 字，另一只手叉腰，单眼眨眼，周围有闪光。
+
+约束条件：必须使用 16 个格子，每个格子仅限一个角色。保持网格编号可见，并按 1 到 16 的顺序排列。在每个动作中保持相同的服装、发型、发饰和配色方案。除面板编号和可选的简单符号（如问号）外，不要添加额外文字。
+
+[English]
+Goal: Create a single square character reference sheet showing {argument name="character name" default="MiniMax H3"} as a chibi anime girl in 16 different dance poses, arranged like a numbered pose grid.
+
+Canvas: Square 1:1 image, off-white paper background, divided into an exact 4 by 4 grid with thin dark brown lines. Each panel is clean and uncluttered, with one full-body chibi character centered in the panel. Add small dark red panel numbers 1 through 16 in the top-left corner of each cell.
+
+Character design: The same cute chibi girl appears in all 16 panels: large head, small body, peach-blonde bob haircut with blunt bangs, one long curved ahoge strand looping above the head, purple eyes, rosy cheeks, small mischievous smile. Add a decorative dark brown flower-and-gear hair ornament on the viewer’s right side of her hair and a small circular gear clip near the bangs. Outfit: oversized {argument name="hoodie color" default="warm brown"} hoodie with long sleeves and a pale emblem printed on the chest, black choker, layered brown plaid pleated skirt with a tied plaid shirt or sash around the waist, black knee-high socks, chunky black loafers. Use consistent colors and proportions across all panels.
+
+Visual style: polished kawaii chibi illustration, clean thick brown line art, soft cel shading, warm muted brown palette, expressive anime face, subtle pink oval shadow under the feet in most panels. Add simple motion lines, sparkles, flowers, hearts, or bubbles where appropriate, but keep the background blank.
+
+Layout and exact 16 panel contents:
+1. Wide-legged energetic stance, one fist raised forward, determined expression.
+2. Loose zombie-like sway, both arms drooping outward, sleepy half-lidded face.
+3. One knee lifted, one arm raised overhead, small motion lines around the body.
+4. Body tilted dramatically sideways with one leg crossed behind, arms bent above and across the head.
+5. Graceful dance step with eyes closed, arms extended softly, two small flower doodles.
+6. Low squat pose, hands held near cheeks like paws, confused expression with one question mark.
+7. Back-facing spin pose, head turned slightly, one arm extended forward, skirt flaring.
+8. One-leg cute pose, both arms overhead forming a rounded shape, winking, small star doodles.
+9. Deep side lunge with one hand on the floor and one arm arched high, sly face.
+10. One knee lifted, eyes closed, both hands forming small horns or a crown shape above the head, tiny accent marks.
+11. Confident wide stance, both hands pointing outward like finger guns, sparkles nearby.
+12. Sleepy backward lean, eyes closed, arms hanging loosely, bubbles and motion arcs.
+13. Shy over-the-shoulder pose, one hand near mouth, hip turned, small heart doodle.
+14. Crawling or low all-fours pose, one leg lifted slightly, playful sideways gaze, motion marks.
+15. Joyful midair jump with both arms spread wide, smiling with closed eyes, flower doodles and motion lines.
+16. Sassy finishing pose, one hand making a V sign near one eye, the other hand on hip, one eye winking, sparkles around her.
+
+Constraints: Use exactly 16 panels and exactly one character per panel. Keep the grid numbering visible and sequential from 1 to 16. Maintain the same outfit, hairstyle, hair accessories, and color palette in every pose. No extra text besides the panel numbers and optional simple symbols like the question mark.
+```
+
+**来源：** [@さんかくてん](https://x.com/sankakuten91256/status/2097452080567111973) | 2026-09-08
+
+---
+
+### 🧍 例 7679：Studio Model 参考图
+
+![Studio Model 参考图](../images/Studio%20Model%20%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张写实的 Studio Model 参考图，主体为 {argument name="model identity" default="一位 20 多岁末期的东亚年轻女性"}，背景为无缝的中性灰色。图像为宽幅横向构图，包含 3 个精确视图：左侧为大尺寸的头部和肩部特写，裁剪至上胸部，正面朝向，自然柔和的微笑，直视镜头；中间为全身正面照，直立站姿，双臂自然垂于身体两侧，赤脚；右侧为全身背面照，保持相同站姿。模特留着 {argument name="hairstyle" default="深棕色短波波头，配有轻薄的空气刘海"}，妆容自然简约，皮肤纹理清晰，面部比例写实。服装：{argument name="top" default="宝蓝色罗纹背心，宽肩带，方领设计"} 以及 {argument name="pants" default="浅色高腰宽松阔腿牛仔裤"}；无首饰，无鞋履，无配饰。采用柔和均匀的专业摄影棚灯光，地面带有细微阴影，背景为柔和的灰色，呈现纪录片式的时尚目录质感，面料纹理细节丰富，肤色自然，无文字，无 Logo，无水印，无过度美颜修饰。
+
+[English]
+Create a realistic studio model reference sheet of {argument name="model identity" default="a young East Asian woman in her late 20s"} on a seamless neutral gray background. The image is a wide horizontal composite with exactly 3 views: on the left, a large close-up head-and-shoulders portrait cropped at the upper chest, facing forward, soft natural smile, direct eye contact; in the middle, a full-body front view standing upright with arms relaxed at her sides and feet bare; on the right, a full-body back view standing in the same pose. She has {argument name="hairstyle" default="short dark brown bob hair with light wispy bangs"}, natural minimal makeup, clear skin texture, and realistic facial proportions. Outfit: {argument name="top" default="royal blue ribbed tank top with wide straps and a square neckline"} and {argument name="pants" default="loose light-wash high-waisted wide-leg jeans"}; no jewelry, no shoes, no accessories. Lighting is soft even professional studio lighting with subtle shadows on the floor, muted gray backdrop, documentary fashion-catalog realism, high detail fabric texture, natural skin tones, no text, no logos, no watermark, no exaggerated beauty retouching.
+```
+
+**来源：** [@タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm/status/2097442870190023135) | 2026-09-08
+
+---
+
+### 🧍 例 7705：双层芝士汉堡角色设定集
+
+![双层芝士汉堡角色设定集](../images/%E5%8F%8C%E5%B1%82%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+キャラシートを作って、{argument name="食物テーマ" default="ダブルチーズバーガー"}をイメージした少女
+```
+
+**来源：** [@NEKA](https://x.com/NEKAkwfw/status/2097409467654775053) | 2026-09-08
+
+---
+

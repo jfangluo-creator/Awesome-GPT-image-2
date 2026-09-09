@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (561)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (570)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1115,11 +1115,29 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7607: 水下河流拓片双联画](cat-ui.md#️-例-7607水下河流拓片双联画)
 
 - [Case 7628: 电影级角色档案设定集](cat-ui.md#️-例-7628电影级角色档案设定集)
+
+- [Case 7665: 燃烧的哥特式洪水逃生](cat-ui.md#️-例-7665燃烧的哥特式洪水逃生)
+
+- [Case 7667: 雨夜的日式公寓](cat-ui.md#️-例-7667雨夜的日式公寓)
+
+- [Case 7670: 动漫 MV 聊天截图](cat-ui.md#️-例-7670动漫-mv-聊天截图)
+
+- [Case 7671: 三组角色资产对比项目](cat-ui.md#️-例-7671三组角色资产对比项目)
+
+- [Case 7678: 极简法文引言文字卡片](cat-ui.md#️-例-7678极简法文引言文字卡片)
+
+- [Case 7681: 月下雨夜城市天桥](cat-ui.md#️-例-7681月下雨夜城市天桥)
+
+- [Case 7687: 从巫师草图到奇幻成图的 UI 设计](cat-ui.md#️-例-7687从巫师草图到奇幻成图的-ui-设计)
+
+- [Case 7697: 深渊海豚 Boss 变身](cat-ui.md#️-例-7697深渊海豚-boss-变身)
+
+- [Case 7711: 深色草图模式怪物涂鸦](cat-ui.md#️-例-7711深色草图模式怪物涂鸦)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (114)
+## 📊 [Charts & Infographics](cat-chart.md) (115)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -1335,11 +1353,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 7416: 纸雕浮雕风格街区网格](cat-chart.md#-例-7416纸雕浮雕风格街区网格)
 
 - [Case 7455: 高级时装角色概念设计图](cat-chart.md#-例-7455高级时装角色概念设计图)
+
+- [Case 7694: 8 方向 RPG 英雄角色精灵图表](cat-chart.md#-例-76948-方向-rpg-英雄角色精灵图表)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1026)
+## 🎴 [Posters & Cards](cat-poster.md) (1033)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3355,11 +3375,25 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7639: 港口暮色摄影与建筑草图海报](cat-poster.md#-例-7639港口暮色摄影与建筑草图海报)
 
 - [Case 7649: 编辑风海报分割插画](cat-poster.md#-例-7649编辑风海报分割插画)
+
+- [Case 7660: 猫咪照片转几何海报](cat-poster.md#-例-7660猫咪照片转几何海报)
+
+- [Case 7663: 日式朋克海报 AI 对比](cat-poster.md#-例-7663日式朋克海报-ai-对比)
+
+- [Case 7668: 法文版 Clio 5 租车传单](cat-poster.md#-例-7668法文版-clio-5-租车传单)
+
+- [Case 7672: 动漫月蚀女剑士海报](cat-poster.md#-例-7672动漫月蚀女剑士海报)
+
+- [Case 7688: iPhone 18 宣传海报](cat-poster.md#-例-7688iphone-18-宣传海报)
+
+- [Case 7690: 复古夜班游戏猫邮票](cat-poster.md#-例-7690复古夜班游戏猫邮票)
+
+- [Case 7702: VOXCAT 复古丝网印刷海报](cat-poster.md#-例-7702voxcat-复古丝网印刷海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2848)
+## 📷 [Photography & Realistic](cat-photo.md) (2859)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -8989,11 +9023,33 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7656: 高管们震惊地发现了安抚奶嘴](cat-photo.md#-例-7656高管们震惊地发现了安抚奶嘴)
 
 - [Case 7657: 男子与狮子自拍](cat-photo.md#-例-7657男子与狮子自拍)
+
+- [Case 7666: 中世纪城市卫星地图](cat-photo.md#-例-7666中世纪城市卫星地图)
+
+- [Case 7669: 复古超现实椅子肖像](cat-photo.md#-例-7669复古超现实椅子肖像)
+
+- [Case 7674: 韩国超市购物抓拍](cat-photo.md#-例-7674韩国超市购物抓拍)
+
+- [Case 7684: 选择性标题布局编辑](cat-photo.md#-例-7684选择性标题布局编辑)
+
+- [Case 7693: 电影感太空自拍肖像](cat-photo.md#-例-7693电影感太空自拍肖像)
+
+- [Case 7696: 发型分析对比肖像](cat-photo.md#-例-7696发型分析对比肖像)
+
+- [Case 7706: 混合媒介街头时尚肖像](cat-photo.md#-例-7706混合媒介街头时尚肖像)
+
+- [Case 7708: 天界琵琶女神肖像](cat-photo.md#-例-7708天界琵琶女神肖像)
+
+- [Case 7709: 电影级影棚肖像双色光摄影](cat-photo.md#-例-7709电影级影棚肖像双色光摄影)
+
+- [Case 7710: 复古合成器波播客主持人](cat-photo.md#-例-7710复古合成器波播客主持人)
+
+- [Case 7712: 溶解的新娘肖像画](cat-photo.md#-例-7712溶解的新娘肖像画)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1000)
+## 🎨 [Illustration & Art](cat-illustration.md) (1007)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -10979,11 +11035,25 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7643: 水彩霍比特人冒险家](cat-illustration.md#-例-7643水彩霍比特人冒险家)
 
 - [Case 7644: 忧郁海滩时尚大片](cat-illustration.md#-例-7644忧郁海滩时尚大片)
+
+- [Case 7686: 赛博朋克风格下在布达佩斯玩耍的约克夏犬](cat-illustration.md#-例-7686赛博朋克风格下在布达佩斯玩耍的约克夏犬)
+
+- [Case 7695: 模拟时钟与汉堡基准测试](cat-illustration.md#-例-7695模拟时钟与汉堡基准测试)
+
+- [Case 7699: 吉翁机动战士插画](cat-illustration.md#-例-7699吉翁机动战士插画)
+
+- [Case 7703: Glass Octopus 模型对比](cat-illustration.md#-例-7703glass-octopus-模型对比)
+
+- [Case 7707: GPT Image 2 与 2.5 太空场景对比](cat-illustration.md#-例-7707gpt-image-2-与-25-太空场景对比)
+
+- [Case 7713: 狗狗咖啡馆和纸胶带拼贴画](cat-illustration.md#-例-7713狗狗咖啡馆和纸胶带拼贴画)
+
+- [Case 7714: 粗粝恐怖朋克拼贴风格](cat-illustration.md#-例-7714粗粝恐怖朋克拼贴风格)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (240)
+## 🧍 [Character Design](cat-character.md) (243)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11449,6 +11519,12 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7565: VALORANT Agent 概念参考图](cat-character.md#-例-7565valorant-agent-概念参考图)
 
 - [Case 7632: Ryder 和 Deshawn 警匪搭档角色设定集](cat-character.md#-例-7632ryder-和-deshawn-警匪搭档角色设定集)
+
+- [Case 7676: 16 格 Q 版舞蹈动作参考图](cat-character.md#-例-767616-格-q-版舞蹈动作参考图)
+
+- [Case 7679: Studio Model 参考图](cat-character.md#-例-7679studio-model-参考图)
+
+- [Case 7705: 双层芝士汉堡角色设定集](cat-character.md#-例-7705双层芝士汉堡角色设定集)
 ---
 
 <a id="3d"></a>
@@ -12163,7 +12239,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (220)
+## 🏛️ [Architecture & Space](cat-architecture.md) (227)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12595,11 +12671,25 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7631: 花园阳台智能手机抓拍](cat-architecture.md#️-例-7631花园阳台智能手机抓拍)
 
 - [Case 7642: 禅意极简夏季插画](cat-architecture.md#️-例-7642禅意极简夏季插画)
+
+- [Case 7664: 天界樱花和服少女](cat-architecture.md#️-例-7664天界樱花和服少女)
+
+- [Case 7675: 粗野主义巨石建筑肖像](cat-architecture.md#️-例-7675粗野主义巨石建筑肖像)
+
+- [Case 7677: 草图转动漫城堡景观](cat-architecture.md#️-例-7677草图转动漫城堡景观)
+
+- [Case 7698: 雨中赛博朋克风格的布拉格街道](cat-architecture.md#️-例-7698雨中赛博朋克风格的布拉格街道)
+
+- [Case 7715: 编辑风美学海报排版](cat-architecture.md#️-例-7715编辑风美学海报排版)
+
+- [Case 7716: 编辑风 PPT 封面设计](cat-architecture.md#️-例-7716编辑风-ppt-封面设计)
+
+- [Case 7717: 复古胶片风格创业档案海报](cat-architecture.md#️-例-7717复古胶片风格创业档案海报)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (272)
+## 🎬 [Comics & Storyboards](cat-comic.md) (275)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13127,11 +13217,17 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 7581: 将照片转换为儿童绘本插画](cat-comic.md#-例-7581将照片转换为儿童绘本插画)
 
 - [Case 7645: 可爱小熊猫儿童插画](cat-comic.md#-例-7645可爱小熊猫儿童插画)
+
+- [Case 7673: 黑白漫画：职场女性与流浪猫](cat-comic.md#-例-7673黑白漫画职场女性与流浪猫)
+
+- [Case 7680: Vocaloid MV 风格角色网格图](cat-comic.md#-例-7680vocaloid-mv-风格角色网格图)
+
+- [Case 7692: 日式百合漫画页面](cat-comic.md#-例-7692日式百合漫画页面)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (838)
+## 🏷️ [Brand & Packaging](cat-brand.md) (845)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -14802,11 +14898,25 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7651: 照片转童书插画分屏效果](cat-brand.md#️-例-7651照片转童书插画分屏效果)
 
 - [Case 7653: 复古乡村明信片](cat-brand.md#️-例-7653复古乡村明信片)
+
+- [Case 7662: 一致的 3x3 工作室视图表](cat-brand.md#️-例-7662一致的-3x3-工作室视图表)
+
+- [Case 7683: 未来感浮空城市星云插画](cat-brand.md#️-例-7683未来感浮空城市星云插画)
+
+- [Case 7685: 一致的 3x3 多角度场景图](cat-brand.md#️-例-7685一致的-3x3-多角度场景图)
+
+- [Case 7691: 旋转房间视角联系表](cat-brand.md#️-例-7691旋转房间视角联系表)
+
+- [Case 7700: 电影级飞机坠毁海滩生存场景](cat-brand.md#️-例-7700电影级飞机坠毁海滩生存场景)
+
+- [Case 7701: 阳光森林空地照片](cat-brand.md#️-例-7701阳光森林空地照片)
+
+- [Case 7704: 雨中巴黎钟表匠场景重构](cat-brand.md#️-例-7704雨中巴黎钟表匠场景重构)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (162)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (166)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15129,6 +15239,14 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7636: 日式水彩风景转换](cat-edit.md#-例-7636日式水彩风景转换)
 
 - [Case 7658: 波普动漫风街头素描转换](cat-edit.md#-例-7658波普动漫风街头素描转换)
+
+- [Case 7659: 无噪点漫画图像修复](cat-edit.md#-例-7659无噪点漫画图像修复)
+
+- [Case 7661: Softmaple 着陆页首屏扩展](cat-edit.md#-例-7661softmaple-着陆页首屏扩展)
+
+- [Case 7682: 破碎的古代陶土花瓶](cat-edit.md#-例-7682破碎的古代陶土花瓶)
+
+- [Case 7689: AI 照片重绘并排对比](cat-edit.md#-例-7689ai-照片重绘并排对比)
 ---
 
 <a id="fun"></a>

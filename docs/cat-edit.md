@@ -4457,3 +4457,111 @@ Using the provided rough sketch as the composition reference, transform it into 
 
 ---
 
+### 🔧 例 7659：无噪点漫画图像修复
+
+![无噪点漫画图像修复](../images/%E6%97%A0%E5%99%AA%E7%82%B9%E6%BC%AB%E7%94%BB%E5%9B%BE%E5%83%8F%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，通过清理并重新生成的方式，制作出更高质量的版本。在去除颗粒感/噪点、压缩伪影、斑点及粗糙纹理的同时，精确保留原始布局、日文文字、漫画插画风格、色彩、光影、角色、物体、边框以及所有可读排版。保持两部分页面结构不变：顶部日文文本面板和底部酒馆插画。请勿重新设计、裁剪、添加元素、翻译文本或更改场景；仅需使其更平滑、更锐利、更清晰，呈现出如同修复后的高分辨率印刷品效果。应用 {argument name="cleanup strength" default="强力去除噪点和伪影并保留墨迹细节"}。
+
+[English]
+Using the provided reference image, clean up and regenerate the same composition as a higher-quality version. Remove the gritty/noisy texture, compression artifacts, speckling, and rough grain while preserving the original layout, Japanese text, manga illustration style, colors, lighting, characters, objects, borders, and all readable typography exactly as in the reference. Keep the two-part page structure unchanged: the top Japanese text panel and the bottom tavern illustration. Do not redesign, crop, add elements, translate text, or change the scene; only make it smoother, sharper, cleaner, and more polished like a restored high-resolution print. Apply {argument name="cleanup strength" default="strong grain and artifact removal with preserved ink detail"}.
+```
+
+**来源：** [@生ビール](https://x.com/wmoto_ai/status/2097473530116108301) | 2026-09-08
+
+---
+
+### 🔧 例 7661：Softmaple 着陆页首屏扩展
+
+![Softmaple 着陆页首屏扩展](../images/Softmaple%20%E7%9D%80%E9%99%86%E9%A1%B5%E9%A6%96%E5%B1%8F%E6%89%A9%E5%B1%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图片作为着陆页基础，保持现有的 softmaple Logo、右上角主题/菜单按钮、左侧徽章、标题、段落以及两个行动号召按钮，使其维持简洁的极简风格并保持大致位置不变。通过在页面右侧添加大型协作写作视觉元素，将构图扩展为更丰富的首屏区域。
+
+添加内容：在右侧创建一个优雅的悬浮 3D 纸张与创意拼贴画：一条半透明的亮面金色丝带在构图中垂直螺旋上升，伴有暖光、柔和阴影以及带有小圆点节点的细金色轨道线。包含 5 个悬浮纸张/照片元素：1 张手写便签，内容为“Ideas feel brighter together.”；1 张黑白山景照片卡片，旁边附有小型垂直文本“A CALMER BRIGHTER PLACE TO THINK TOGETHER,”；1 张中心文本页面，内容为“Same thoughts. Further together.”；1 张带有叶影的暖色照片卡片，附有小字“SMALL STEPS BIGGER IDEAS”；以及 1 个位于中心卡片后方、不显眼的胶带纸碎片。添加 3 个带有姓名标签的协作成员头像：右上角附近的“Mina”、拼贴画左中位置的“Jordan”以及右下角附近的“Taylor”；每个头像都应配有一个小的光标指针装饰。
+
+在下方空白区域添加两个微妙的手写编辑细节：左下角的手写体“Better thinking together.”以及底部中心附近的一组小型堆叠词列表“IDEAS / PEOPLE / PERSPECTIVES / PROGRESS”。在拼贴画右侧添加一个柔和的金色玻璃球。保持背景为米白色，营造通透、高级且具有编辑感的氛围，确保视觉深度真实且不杂乱。
+
+自定义槽位：品牌文本 {argument name="brand text" default="softmaple."}，主标题 {argument name="main headline" default="A little space. For big ideas."}，主要按钮文本 {argument name="primary button text" default="Start writing"}，协作成员姓名 {argument name="collaborator names" default="Mina, Jordan, Taylor"}，便签文本 {argument name="note text" default="Ideas feel brighter together."}。
+
+[English]
+Using the provided reference image as the base landing page, keep the existing softmaple logo, top-right theme/menu buttons, left-side badge, headline, paragraph, and the two call-to-action buttons in the same clean minimal style and approximate positions. Expand the composition into a richer hero section by adding a large collaborative writing visual on the right half of the page.
+
+Additions: Create an elegant floating 3D paper-and-ideas collage on the right: a translucent glossy golden ribbon spiraling vertically through the composition, with warm light, soft shadows, and a thin golden orbit line with small dot nodes. Include exactly 5 floating paper/photo elements: 1 handwritten note reading “Ideas feel brighter together.”, 1 black-and-white mountain photo card with small vertical text beside it reading “A CALMER BRIGHTER PLACE TO THINK TOGETHER,”, 1 central text page reading “Same thoughts. Further together.”, 1 warm photo card with leaf shadows and small text reading “SMALL STEPS BIGGER IDEAS”, and 1 subtle small taped paper fragment behind the center cards. Add exactly 3 collaborator avatars with name pills: “Mina” near the upper right, “Jordan” near the center-left of the collage, and “Taylor” near the lower right; each should have a small cursor pointer accent.
+
+Add two subtle handwritten editorial details in the empty lower area: bottom-left script reading “Better thinking together.” and a tiny stacked word list near the lower center reading “IDEAS / PEOPLE / PERSPECTIVES / PROGRESS”. Add a soft golden glass sphere near the right side of the collage. Keep the background off-white, airy, premium, and editorial, with realistic depth but no clutter.
+
+Customization slots: brand text {argument name="brand text" default="softmaple."}, main headline {argument name="main headline" default="A little space. For big ideas."}, primary button text {argument name="primary button text" default="Start writing"}, collaborator names {argument name="collaborator names" default="Mina, Jordan, Taylor"}, note text {argument name="note text" default="Ideas feel brighter together."}.
+```
+
+**来源：** [@Adam Cheung](https://x.com/zhyd007/status/2097471722165547424) | 2026-09-08
+
+---
+
+### 🔧 例 7682：破碎的古代陶土花瓶
+
+![破碎的古代陶土花瓶](../images/%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%8F%A4%E4%BB%A3%E9%99%B6%E5%9C%9F%E8%8A%B1%E7%93%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张博物馆级的超写实产品摄影照片，主体为单个古代 {argument name="artifact type" default="陶土花瓶"}，置于纯黑色背景中心。器皿呈高挑卵形，底座窄小，肩部圆润，瓶口宽大外翻，由红褐色风化粘土制成，带有厚重的岁月包浆、矿物质沉积、缺口、划痕、白色磨损和细微裂纹。添加雕刻装饰：瓶颈处紧贴瓶口下方有一圈连续的几何纹带，瓶身有凸起的漩涡状藤蔓浮雕图案。右前方有一处巨大的锯齿状垂直裂口，露出中空的内部，开口处仍附着多块破碎的陶片；裂口从上肩部延伸至下腹部，露出内部温暖的铜橙色锤纹凹陷表面，并捕捉光线。使用来自左上方的戏剧性摄影棚布光，并在破碎的空腔内增加微妙的温暖内反射光，以强调粗糙的陶瓷质感、断裂边缘、深度和考古真实感。构图为正面的四分之三产品视角，完整花瓶可见，底部带有轻微阴影，高对比度，焦点清晰，超精细，无标签，无人像，无额外物体，无水印。
+
+[English]
+Create a hyper-realistic museum-style product photograph of a single ancient {argument name="artifact type" default="terracotta ceramic vase"} centered on a pure black background. The vessel is tall and ovoid with a narrow foot, rounded shoulders, and a wide flared rim, made of reddish-brown weathered clay with heavy age patina, mineral deposits, chips, scratches, white abrasions, and fine cracks. Add carved ornamental decoration: one continuous geometric band around the neck just below the rim and raised swirling vine-like relief patterns on the body. The front right side has one large jagged vertical rupture exposing the hollow interior, with multiple broken clay shards still attached around the opening; the opening runs from the upper shoulder down toward the lower body and shows a warm copper-orange hammered, dimpled inner surface catching light. Use dramatic studio lighting from the upper left and subtle warm internal/reflected glow inside the broken cavity, emphasizing rough ceramic texture, fractured edges, depth, and archaeological realism. Composition is a straight-on three-quarter product view, full vase visible with slight shadow at the base, high contrast, sharp focus, ultra-detailed, no labels, no people, no extra objects, no watermark.
+```
+
+**来源：** [@Jaden](https://x.com/23_/status/2097436129033343250) | 2026-09-08
+
+---
+
+### 🔧 例 7689：AI 照片重绘并排对比
+
+![AI 照片重绘并排对比](../images/AI%20%E7%85%A7%E7%89%87%E9%87%8D%E7%BB%98%E5%B9%B6%E6%8E%92%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张方形社交媒体对比图，展示照片重绘质量测试，包含两个并排的图像面板和醒目的标签。
+
+画布：1:1 方形图像，黑色背景，带有微妙的深灰色网格图案。顶部保留黑色页眉区域，底部保留黑色页脚区域。
+
+布局：两个大型垂直照片面板填充中间区域，中间由一条垂直线分隔。左侧面板上方居中显示巨大的加粗白色大写文本 {argument name="left header text" default="ORIGINAL"}。右侧面板上方居中显示巨大的加粗白色大写文本 {argument name="right header text" default="GPT IMAGE 2.5"}。在底部中心位置，放置白色小写品牌文本 {argument name="footer brand text" default="maxfusion"}，其中“f”采用略微风格化的斜体外观。
+
+面板内容：两个面板展示相同的场景概念：一位年轻女性在明亮的客厅里，手持一个微型黑色麦克风靠近嘴边，站在一个超大纯白色长方形盒子后方或手持该盒子。总计包含 2 个人物，每个面板 1 个；总计包含 2 个大型白色盒子，每个面板 1 个；总计包含 2 个小型手持黑色麦克风，每个面板 1 个；总计包含 3 个可见文本标签：“ORIGINAL”、“GPT IMAGE 2.5”和“maxfusion”。
+
+左侧面板细节：低分辨率、略显模糊的休闲 UGC 手机照片外观。一位深棕色头发扎起的年轻女性，戴着超大圆形黑框眼镜，身穿白色短袖 T 恤和浅灰色运动裤，站在室内。她微微抬头看向右侧，带着俏皮的微笑，同时将小麦克风靠近嘴唇。一个巨大的白色长方形盒子占据了前景，底部被裁剪，几乎横跨整个宽度。背景包括中性色调的公寓内部，有吸顶灯/玻璃吊灯、浅色墙壁、门廊、模糊的装饰和柔和的室内光线。
+
+右侧面板细节：同一瞬间更清晰、更精致的 AI 生成重绘图。女性形象更清晰、更逼真，留着 {argument name="hair color" default="dark brown"} 的头发，扎成马尾并系着黑色蝴蝶结，戴着超大黑框眼镜，身穿白色 T 恤和宽松灰色运动裤。她微笑着看向右侧，同时手持麦克风。超大白色长方形盒子横在她的躯干前，透视角度清晰，边缘锐利，带有浅灰色阴影。背景是明亮的现代客厅，配有沙发、地毯、木地板、咖啡桌、窗帘、窗户光线、盆栽植物、墙面艺术画、右侧的电视、编织篮和头顶上方清晰的玻璃球吊灯。
+
+视觉风格：照片级逼真的对比拼贴画，简洁的编辑布局，黑色网格科技演示美学，高对比度白色排版，真实的室内光线，除指定的页脚文本外，不含额外的徽标或水印。
+
+[English]
+Goal: Create a square social-media comparison graphic showing a photo recreation quality test, with two side-by-side image panels and bold labels.
+
+Canvas: 1:1 square image, black background with a subtle dark gray grid pattern. Leave a top black header band and a bottom black footer band.
+
+Layout: Two large vertical photo panels fill the middle, separated by a straight vertical split. The left panel is labeled {argument name="left header text" default="ORIGINAL"} in huge bold white all-caps text centered above it. The right panel is labeled {argument name="right header text" default="GPT IMAGE 2.5"} in huge bold white all-caps text centered above it. At the bottom center, place the white lowercase brand text {argument name="footer brand text" default="maxfusion"}, with a slightly stylized italic-looking “f”.
+
+Panel content: The two panels show the same scene concept: a young woman in a bright living room holding a tiny black microphone near her mouth while standing behind or holding an oversized plain white rectangular box. Count exactly 2 human figures total, one in each panel; count exactly 2 large white boxes total, one in each panel; count exactly 2 small black handheld microphones total, one in each panel; count exactly 3 visible text labels total: “ORIGINAL”, “GPT IMAGE 2.5”, and “maxfusion”.
+
+Left panel details: Low-resolution, slightly blurry casual UGC phone-photo look. A young woman with dark brown hair pulled back, oversized round black glasses, a white short-sleeve T-shirt, and light gray sweatpants stands indoors. She looks slightly upward and to the right with a playful smile while holding the small microphone near her lips. A very large white rectangular box dominates the foreground, cropped at the bottom and extending across almost the full width. Background includes a neutral apartment interior with a ceiling light/glass pendant, pale walls, a doorway, faint decor, and soft indoor lighting.
+
+Right panel details: Sharper, more polished AI-generated recreation of the same moment. The woman is clearer and more realistic, with {argument name="hair color" default="dark brown"} hair tied back in a ponytail with a black bow, oversized black glasses, a white T-shirt, and loose gray sweatpants. She smiles and looks to the right while holding the microphone. The oversized white rectangular box is held across her torso and angled in perspective, with crisp edges and light gray shadows. Background is a bright modern living room with a sofa, rug, wooden floor, coffee table, curtains, window light, potted plants, framed wall art, a TV on the right, a woven basket, and a clear glass globe pendant lamp overhead.
+
+Visual style: Photorealistic comparison collage, clean editorial layout, black grid tech-demo aesthetic, high contrast white typography, realistic indoor lighting, no extra logos or watermarks beyond the specified footer text.
+```
+
+**来源：** [@Stav Zilbershtein](https://x.com/mightyking/status/2097421397282754636) | 2026-09-08
+
+---
+

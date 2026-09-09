@@ -4950,3 +4950,154 @@ A completely natural, photorealistic candid smartphone photo of a {argument name
 
 ---
 
+### 🏛️ 例 7664：天界樱花和服少女
+
+![天界樱花和服少女](../images/%E5%A4%A9%E7%95%8C%E6%A8%B1%E8%8A%B1%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的竖版动漫奇幻插画，场景设定在华丽的天界日式宫殿花园中。画面中心是一位优雅的年轻女性，她拥有 {argument name="hair color" default="飘逸的长款浅粉色秀发"}，发丝向左侧戏剧性地飘动，皮肤白皙，有着柔和的绿色双眸，神情宁静地向上凝视。她优雅地跪在如宝石般反光的地面上，双臂高高伸向头顶上方一颗璀璨发光的球体。为她穿上一套奢华的层叠式 {argument name="outfit" default="多色花卉和服，配有金丝锦缎，包含红、黑、紫、白和翡翠绿等多层设计"}，和服带有宽大的长袖、华丽的刺绣、樱花图案、仙鹤、流苏、丝带以及金属质感的金色镶边。为她添加一个大型花卉发饰，点缀着粉色花朵、垂坠饰品和金色花丝。用令人惊叹的魔法环境包围她：悬挂的灯笼、金色链条、天界圆环、闪烁的粒子、瀑布般的流光，背景是宫殿阳台和宝塔建筑，四周飘满粉色樱花，并点缀着反光的玻璃质感饰品。画面中需包含恰好 5 个显眼的球形装饰：右下角前景处一个大型花卉球，左下角前景处一个紫色半透明球体，左下边缘附近一个小型的深色花卉球，右侧中景基座上一个中型花卉球，以及左上方一个漂浮的紫色气泡。左侧放置一座金色仙鹤雕像，并添加大量飘落的花瓣。使用 {argument name="lighting mood" default="温暖的金色魔法背光，伴随强烈的闪光效果"}，呈现超精细的细节、光泽感高光、浓郁的宝石色调、电影级的景深、明亮的虚化效果、华丽的奇幻写实风格以及奢华的樱花祭氛围。构图为 9:16 竖版，全身四分之三侧视图，无文字，无水印，无现代物品。
+
+[English]
+Create a highly detailed vertical anime fantasy illustration of a graceful young woman in an opulent celestial Japanese palace garden. She has {argument name="hair color" default="long flowing pastel pink hair"} streaming dramatically to the left, pale skin, soft green eyes, and a serene upward gaze. She kneels elegantly on a reflective, jewel-like floor while reaching both arms high toward a radiant glowing orb above her. Dress her in an extravagant layered {argument name="outfit" default="multi-colored floral kimono with gold brocade, red, black, purple, white, and emerald layers"}, with long wide sleeves, ornate embroidery, cherry blossom patterns, cranes, tassels, ribbons, and metallic gold trim. Add a large floral hair arrangement with pink blossoms, dangling ornaments, and gold filigree. Surround her with an overwhelming magical environment: hanging lanterns, golden chains, celestial rings, sparkling particles, waterfall-like lights, palace balconies and pagoda architecture in the background, pink cherry blossoms everywhere, and reflective glassy ornaments. Include exactly 5 prominent spherical ornaments: one large floral globe in the lower right foreground, one purple translucent orb in the lower left foreground, one small dark floral orb near the bottom left edge, one medium floral globe on a pedestal at the right midground, and one floating purple bubble near the upper left. Include one golden crane statue on the left side and many cascading petals. Use {argument name="lighting mood" default="warm golden magical backlight with intense sparkles"}, ultra-intricate details, glossy highlights, rich jewel tones, cinematic depth, luminous bokeh, ornate fantasy realism, and a luxurious sakura festival atmosphere. Composition is vertical 9:16, full-body three-quarter view, no text, no watermark, no modern objects.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2097467359636463735) | 2026-09-08
+
+---
+
+### 🏛️ 例 7675：粗野主义巨石建筑肖像
+
+![粗野主义巨石建筑肖像](../images/%E7%B2%97%E9%87%8E%E4%B8%BB%E4%B9%89%E5%B7%A8%E7%9F%B3%E5%BB%BA%E7%AD%91%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+沙漠粗野主义与巨石土质建筑，{argument name="architecture style" default="Rick Owens 建筑风格"} × {argument name="subject" default="Pedro Pascal"} "{argument name="title" default="赭石巨石"}"
+
+[English]
+Desert Brutalism & Monolithic Earth Architecture, {argument name="architecture style" default="Rick Owens Architectural"} × {argument name="subject" default="Pedro Pascal"} "{argument name="title" default="MONOLITH OCHRE"}"
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2097452682021580912) | 2026-09-08
+
+---
+
+### 🏛️ 例 7677：草图转动漫城堡景观
+
+![草图转动漫城堡景观](../images/%E8%8D%89%E5%9B%BE%E8%BD%AC%E5%8A%A8%E6%BC%AB%E5%9F%8E%E5%A0%A1%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为粗略的儿童画风格布局草图，将其转换为高度精细、精致的奇幻动漫景观插画。将简单的灰色线条解读为左侧前景的大型日式城堡，蓝色轮廓解读为周围的水域或护城河，绿色山脉线条解读为背景中郁郁葱葱的森林山脉，绿色锯齿状形状解读为明亮湖泊上的岛屿或海岸线，棕色网格形状解读为田野和城镇街区，青色线条解读为宽阔的蓝色湖泊或河流。在保留草图整体空间布局的同时，用广阔的鸟瞰全景取代所有粗糙的标记笔触。
+
+风格：充满活力的超高清日本动漫背景艺术，吉卜力工作室风格氛围，复杂的建筑细节，清澈的阳光，丰富的绿色和蓝色，柔和的薄雾，波光粼粼的水面，具有绘画感且干净利落。
+
+场景添加：创建一个拥有许多传统瓦顶建筑、石墙、桥梁、运河、码头、小船、湖上帆船、小路和庭院、茂密森林、散落岛屿、远处层叠山脉、白色夏季云朵以及零星晨雾的堡垒城镇。使用宽阔的俯视视角，俯瞰整个城堡城镇和湖泊。
+
+限制：无可见的草图线条，无文字，无现代物体，无人物作为焦点；使最终图像看起来像是由参考构图衍生出的完整专业奇幻背景。
+
+[English]
+Using REFERENCE_0 as a rough childlike layout sketch, transform it into a highly detailed, polished fantasy anime landscape illustration. Interpret the simple gray drawing as a large Japanese castle on the left foreground, the blue outline as surrounding water or moat, the green mountain lines as lush forested mountain ranges in the background, the green jagged shape as islands or shoreline across a bright lake, the brown grid shapes as fields and town blocks, and the cyan lines as a broad blue lake or river. Preserve the overall spatial arrangement from the sketch, but replace all crude marker strokes with an expansive aerial panorama.
+
+Style: vibrant high-resolution Japanese anime background art, Studio Ghibli-like atmosphere, intricate architectural detail, crisp sunlight, rich greens and blues, soft mist, sparkling water, painterly but clean.
+
+Scene additions: create a fortified castle town with many traditional tiled-roof buildings, stone walls, bridges, canals, docks, small boats, sailboats on the lake, tiny roads and courtyards, dense forests, scattered islands, distant layered mountains, white summer clouds, and patches of low morning mist. Use a wide elevated viewpoint looking down over the castle town and lake.
+
+Constraints: no visible sketch lines, no text, no modern objects, no people as the focus; make the final image look like a complete professional fantasy background derived from the reference composition.
+```
+
+**来源：** [@のとろ](https://x.com/notoro_ai/status/2097450552955441523) | 2026-09-08
+
+---
+
+### 🏛️ 例 7698：雨中赛博朋克风格的布拉格街道
+
+![雨中赛博朋克风格的布拉格街道](../images/%E9%9B%A8%E4%B8%AD%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%B8%83%E6%8B%89%E6%A0%BC%E8%A1%97%E9%81%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实风格的竖构图街拍，背景设定在 {argument name="city" default="布拉格"} 的近未来欧洲老城，时间为黄昏或夜晚。场景呈现出赛博朋克纪录片剧照的质感：湿漉漉的鹅卵石街道反射着温暖的店铺灯光与冷冽的蓝灰色天空，两侧是历史悠久的石质建筑，行人熙熙攘攘，带有动态模糊效果，手中撑着雨伞。在前景偏左的位置，放置一名皮肤苍白、深色湿发的年轻女子，身穿浸湿的橄榄绿色连帽雨衣并围着深色围巾，手扶单肩包带，神情疲惫且严肃地注视着镜头，而周围的人群则匆匆掠过，呈现模糊状态。画面中可见 7 处明显的文字标识：左侧咖啡馆橱窗写着“KÁVA LIDÉ PŘÍBĚHY”，下方有较小的“OD ROKU 2014”字样；一个黑色悬挂招牌写着“AUGMENT”和“BETTER TOGETHER”，并带有三个连锁圆环图案；一个白色小招牌写着“PRAHA STÁLE VAŠE”并配有一个爱心；一个蓝色门牌号“27”；远处一个发光的企业招牌写着“A HIGHER HUMANITY”并配有圆形标志；右侧一个巨大的广告牌写着“ČISTĚJŠÍ VZDUCH JASNĚJŠÍ ZÍTŘKY”和“TerraNet”，并带有叶子标志；以及左侧一个店招写着“AROMA ARCADIA”。在背景中，于古老建筑之上，展现一座高耸入云、隐没在低空云层中的未来主义巨塔，塔身带有明亮的垂直灯带，街道上方横跨着一座高架巨型建筑或空中连廊，一辆悬浮电车或载具悬停在街道上方。使用 {argument name="weather" default="大雨"}、薄雾、水洼、大气霾感、逼真的镜头畸变、高动态范围、浅景深，营造出温暖的钨丝灯光与冷冽暴雨般青灰色环境的对比，质感粗粝，拒绝干净的乌托邦式外观。构图需具备沉浸感，以街头视角呈现，主体位于左下前景，未来主义天际线位于画面中心远景处。
+
+[English]
+Create a cinematic photorealistic vertical street photograph in a rainy near-future European old town, set in {argument name="city" default="Prague"} at dusk/night. The scene looks like a cyberpunk documentary still: wet cobblestone street reflecting warm shop lights and cold blue-gray sky, historic stone buildings on both sides, crowds of pedestrians moving with motion blur and carrying umbrellas. In the foreground, slightly left of center, place one young woman with pale skin and dark wet hair, wearing a soaked olive-green hooded raincoat and dark scarf, holding a shoulder bag strap, staring tiredly and seriously toward the camera while everyone around her blurs past. Count visible prominent text signs as 7: a cafe window on the left reading "KÁVA LIDÉ PŘÍBĚHY" with smaller "OD ROKU 2014"; a black hanging sign reading "AUGMENT" and "BETTER TOGETHER" with three interlocking circles; a small white sign reading "PRAHA STÁLE VAŠE" with a heart; a blue street number plaque "27"; a distant illuminated corporate sign reading "A HIGHER HUMANITY" with a circular logo; a giant right-side billboard reading "ČISTĚJŠÍ VZDUCH JASNĚJŠÍ ZÍTŘKY" and "TerraNet" with a leaf logo; and a storefront sign on the left reading "AROMA ARCADIA". In the background, rising above the old architecture, show a colossal futuristic tower fading into low clouds, with bright vertical light strips, a raised megastructure or skybridge crossing the street, and a hovering tram or vehicle suspended over the avenue. Use {argument name="weather" default="heavy rain"}, mist, puddles, atmospheric haze, realistic lens distortion, high dynamic range, shallow depth of field, warm tungsten lamps against cold stormy cyan-gray ambience, gritty texture, no clean utopian look. Make the composition immersive at street level with the subject occupying the lower-left foreground and the futuristic skyline centered in the distance.
+```
+
+**来源：** [@Dedal](https://x.com/dedal1/status/2097411879601582569) | 2026-09-08
+
+---
+
+### 🏛️ 例 7715：编辑风美学海报排版
+
+![编辑风美学海报排版](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E7%BE%8E%E5%AD%A6%E6%B5%B7%E6%8A%A5%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+以一个明确主题为叙事核心，构成一幅摄影与平面构成相互穿透的编辑视觉作品：用一组真实、可触的主题物件或场景作为情绪锚点，保持自然光下的体积、反射、遮挡与微妙的不对称，让它们像被安置在一个安静的展示现场；再以两到三块具有强烈方向性的纯色几何面切入画面，几何面可以折叠、遮蔽、延伸并越过主体边界，像透明建筑、舞台框架或被拆开的版面，使前景、中景、背景被重新分层，同时留下大块深色或低信息量的呼吸空间。主题的关键轮廓、符号或动作从摄影区域抽象出来，在几何面之间形成一次清晰的视觉事件，保留少量细节让真实感与概念感并存。以一支承担最大视觉重量的窄长字形、标志性字标或主题文字作为结构梁，让文字拥有雕塑般的高度、连续的线条和克制的留白；其余信息以较小、规整、疏朗的编辑文字分布在边缘或空白处，形成主标题、辅助说明与时间地点等不同声部，文字方向可顺应几何切面的轴线，中文、英文或其他书写系统都保持字形个性与信息层级。让主色从主题本身、场景光线或文化意象中提取：一种深沉的结构色稳定背景与阴影，一种明亮的开启色撑起几何面，一种高辨识度的焦点色只落在主题事件或少量文字上，整体以清晰的明暗分区和有限的饱和度控制阅读顺序。表面呈现真实摄影的玻璃、陶瓷、金属、织物或纸张质感，几何面保持干净而有厚度的边缘，交界处用透明度、投影和色彩叠合建立空间，背景保留可辨认但不喧闹的环境线索；最终让信息、物件、色块和空白像同一座临时建筑，产生冷静、神秘、带有展陈仪式感的观看体验。
+
+主题：{argument name="主题" default="International Conference on English and American Studies"}
+用途：{argument name="用途" default="宣传海报"}
+文本：{argument name="语言" default="英语"}
+比例9:16
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2097334284465922470) | 2026-09-08
+
+---
+
+### 🏛️ 例 7716：编辑风 PPT 封面设计
+
+![编辑风 PPT 封面设计](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%20PPT%20%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+@创建图片  
+以主题核心文字或符号构成一枚超大、具有强烈笔触重量的主视觉锚点，让字形像垂直建筑般承担画面骨架，并与主体图像发生尺度对撞、遮叠和局部越界；将主题主体概括为夸张放大的平面轮廓，以刀刻般的反白线条、有限而有层次的色块和清晰的形体边界组织图像，让环境承托形态围绕主体形成前中后景关系，同时保留一处中央呼吸区；采用非对称构图，让高密度主形沿一侧边界形成强裁切，次主体跨越中轴并穿入留白，底部以较宽的承托形稳定视觉重量，阅读动线由高对比锚点经过图像事件自然下行至低位信息区；以深沉低饱和的主题色承担结构重量，以温暖近白打开空间，以同色系偏亮或偏暖的焦点色标记主题事件，以近黑文字建立最高阅读对比；让主题相关的手写、印章感或传统符号成为与主体并置的文化或情绪锚点，细小的标题、说明、诗句和署名作为低声部编辑注释，按文字系统适配字形结构，以尺度、疏密、横竖方向和权重形成主字骨架与辅字呼吸的多声部节奏，令文字主动穿插色块、图像和留白，形成克制、鲜明、具有叙事张力的编辑视觉。
+
+主题：{argument name="主题" default="苏轼的一生"}
+用途：{argument name="用途" default="课件ppt 封面"}。
+一共10张图片
+注意：不要有序列号和编码逻辑，获奖级别课件水平
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2097326027194478693) | 2026-09-08
+
+---
+
+### 🏛️ 例 7717：复古胶片风格创业档案海报
+
+![复古胶片风格创业档案海报](../images/%E5%A4%8D%E5%8F%A4%E8%83%B6%E7%89%87%E9%A3%8E%E6%A0%BC%E5%88%9B%E4%B8%9A%E6%A1%A3%E6%A1%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+把上传图片重构成一张独立的 {argument name="画幅" default="3:4 竖版"}复古胶片档案海报，不是教程卡片，不是普通拼贴。
+
+保留原图里的核心主体、空间关系、真实光线和物件结构。如果原图是桌面、笔记、产品草稿、电脑屏幕或工作区，请保留它们作为“创业现场”的真实证据，不要随意替换成豪华办公室或商业大片。
+
+整体视觉像一份 {argument name="时代风格" default="90 年代到 2000 年代早期"}的私人项目胶片档案：主画面是一张真实照片，边缘叠加 35mm 胶片条、接触印相、拍立得碎片、旧纸文件夹、透明胶带和轻微漏光。画面可以有小的日期戳、编号、手写痕迹和元数据块，但必须全部不可读，只保留档案气息。
+
+构图要有“被保存下来的瞬间”感：{argument name="主图占比" default="主照片占 60%-75%"}，旁边或底部放 2-4 个小胶片切片，切片内容可以是原图中局部细节的再解释，比如咖啡杯、便签、笔记、草图、屏幕光、窗边光影。不要把元素铺满，保留呼吸感。
+
+色彩使用胶片质感：暖琥珀、褪色奶油纸、橄榄灰、炭黑、少量暗红漏光、低饱和青色阴影。颗粒要真实，划痕和灰尘要克制，不要脏到影响主体。
+
+如果原图里有人，只保留姿态和工作氛围，不要强化脸部，不要变成肖像大片。如果原图里有屏幕或笔记，内容必须模糊或抽象，不出现可读文字、品牌、Logo 或真实界面。
+
+最终效果：真实创业现场 + 复古胶片 + 私人档案 + 项目诞生前夜 + 高级叙事感。
+
+避免：商业广告、赛博霓虹、儿童手账、过度怀旧滤镜、密集文字、可读品牌、可读界面、过分凌乱、廉价复古模板、AI 感很重的假胶片边框。
+```
+
+**来源：** [@润之有道](https://x.com/fzrfzr666/status/2097318039226294586) | 2026-09-08
+
+---
+

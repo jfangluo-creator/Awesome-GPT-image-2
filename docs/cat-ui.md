@@ -15755,3 +15755,293 @@ Create a premium cinematic character bible sheet for {argument name="character n
 
 ---
 
+### 🖥️ 例 7665：燃烧的哥特式洪水逃生
+
+![燃烧的哥特式洪水逃生](../images/%E7%87%83%E7%83%A7%E7%9A%84%E5%93%A5%E7%89%B9%E5%BC%8F%E6%B4%AA%E6%B0%B4%E9%80%83%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个 16:9 超宽画幅的电影级黑暗奇幻灾难场景：一座宏伟的 {argument name="building type" default="哥特式大教堂宫殿"} 在深夜被巨大的火海吞没，其尖塔、拱窗、飞扶壁和屋顶骨架在冲天的橙色火焰与黑色浓烟中呈现出剪影。画面下半部分为洪水，倒映着如熔金般波光粼粼的火光。在前景中，准确展示 5 名站在湿石阶上及齐腰深水中的中古难民：最左侧 1 名披着兜帽的人正扛着挂毯或旗帜，1 人在板条箱旁蹲伏，中间 1 名男子向前伸出手并将一面圆形金属盾牌或盘子扔进水中，1 名跪着的兜帽人正在舀水或放下金属水罐，以及最左侧边缘处 1 个模糊的局部剪影。在前景附近的水中准确加入 3 件显眼的散落金属物品：一个圆碗、一个小杯子和一个掉落的水壶。在中景处，增加 3 艘载有黑色剪影的小船，以及沿着被淹码头散布的微小人物，所有这些在燃烧的建筑衬托下显得格外渺小。使用 {argument name="era" default="中古"} 服饰，包括粗布斗篷、皮带、束腰外衣和湿透的织物。光影应具有戏剧性且真实，呈现出烈火带来的强烈背光、空气中的火星、烟雾缭绕、高对比度的明暗对照法、湿润的石材纹理、水花以及体积光火光。摄像机位于水面低位，广角，沉浸式，史诗感，照片级真实，高度细节化，无文字，无现代物品，无水印。
+
+[English]
+Create a cinematic dark-fantasy disaster scene in ultra-wide 16:9 format: a vast {argument name="building type" default="Gothic cathedral-palace"} is engulfed in an enormous inferno at night, its spires, arched windows, flying buttresses, and roof skeleton silhouetted against towering orange flames and black smoke. The lower half of the scene is flooded water reflecting the fire in rippling molten-gold highlights. In the foreground, show exactly 5 medieval refugees on wet stone steps and in waist-deep water: 1 hooded figure at far left carrying a patterned tapestry or banner, 1 crouched person beside crates, 1 central man reaching forward while throwing a round metal shield or platter into the water, 1 kneeling hooded person scooping or dropping a metal jug, and 1 small partial silhouette at the extreme left edge. Include exactly 3 prominent loose metal objects in the water near the foreground: a round bowl, a small cup, and a dropped pitcher. In the middle distance, add exactly 3 small boats carrying dark silhouettes, plus scattered tiny figures along the flooded quay, all dwarfed by the burning architecture. Use {argument name="era" default="medieval"} clothing, rough cloaks, leather belts, tunics, and wet fabric. Lighting should be dramatic and realistic, with intense backlight from the blaze, ember sparks in the air, smoke haze, high contrast chiaroscuro, wet stone texture, water splashes, and volumetric fire glow. Camera is low at water level, wide-angle, immersive, epic scale, photorealistic, highly detailed, no text, no modern objects, no watermark.
+```
+
+**来源：** [@David M. Comfort](https://x.com/DavidmComfort/status/2097466202746495159) | 2026-09-08
+
+---
+
+### 🖥️ 例 7667：雨夜的日式公寓
+
+![雨夜的日式公寓](../images/%E9%9B%A8%E5%A4%9C%E7%9A%84%E6%97%A5%E5%BC%8F%E5%85%AC%E5%AF%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具电影感的超广角夜间外景照片，拍摄对象是一座陈旧的日式公共住宅公寓楼，右上方的墙面上隐约标有“3-2”字样。场景黑暗、阴雨连绵且充满氛围感，前景中湿漉漉的沥青庭院映照着灯光和水洼。建筑是一栋长条形的风化混凝土结构，可见 5 层住宅，排列着小阳台、深色窗户、污渍、管道、栏杆和老旧的立面细节。靠近上方中心位置仅有一间公寓透出温暖的橙色光芒；在那个阳台上站着一个孤独的小身影，{argument name="person action" default="静静地挥动着一只手"}，在灯光下呈现出剪影。在前景中包含 4 个主要物体：左侧一盏发光的街灯，透过薄雾投射出青白色的光；庭院中心附近有一辆小孩的三轮车；右侧停放着两辆轻型货车。两侧添加深色的树木，远左侧隐约可见一个自行车棚，低矮的金属栏杆，以及远右侧一块带有日文社区告示文字的破旧标牌。采用写实的电影剧照风格，营造忧郁的恐怖剧情氛围，低调照明，潮湿的雾气，细微的薄雾，高细节，深阴影，柔和的青灰色调，变形宽银幕构图，宁静而不安的空旷感。自定义场景为 {argument name="location" default="日式公寓庭院"}，时间为 {argument name="time of day" default="雨后的深夜"}，建筑氛围为 {argument name="building condition" default="陈旧、污损且荒废"}，阳台灯光颜色为 {argument name="balcony light color" default="温暖的琥珀色"}。除阳台上的单个人影外，画面中不应有其他人，无文字叠加，无水印。
+
+[English]
+Create a cinematic ultra-wide nighttime exterior shot of an old Japanese public housing apartment block, labeled faintly with “3-2” on the upper right wall. The scene is dark, rainy, and atmospheric, with a wet asphalt courtyard in the foreground reflecting lights and puddles. The building is a long, weathered concrete structure with 5 visible residential floors, rows of small balconies, dark windows, stains, pipes, railings, and aged facade details. Only one apartment near the upper center is warmly lit with an orange glow; on that balcony stands a small solitary figure, {argument name="person action" default="quietly waving one hand"}, silhouetted against the light. In the foreground include exactly 4 main objects: one glowing streetlamp on the left casting greenish-white light through mist, one small child’s tricycle near the center of the empty courtyard, two parked kei vans on the right. Add dark trees on both sides, a bicycle shelter barely visible at far left, low metal railings, and a worn signboard on the far right with Japanese neighborhood notice text. Use a realistic film still style, moody horror-drama atmosphere, low-key lighting, damp haze, subtle fog, high detail, deep shadows, muted green-gray color grading, anamorphic widescreen composition, quiet unsettling emptiness. Customize the setting as {argument name="location" default="a Japanese apartment complex courtyard"}, time as {argument name="time of day" default="late night after rain"}, building mood as {argument name="building condition" default="old, stained, and neglected"}, and balcony light color as {argument name="balcony light color" default="warm amber"}. No people other than the single balcony figure, no text overlays, no watermark.
+```
+
+**来源：** [@川端 一成 | WEIN / BACKSTAGE CAIO](https://x.com/kaz_photon/status/2097462801438744690) | 2026-09-08
+
+---
+
+### 🖥️ 例 7670：动漫 MV 聊天截图
+
+![动漫 MV 聊天截图](../images/%E5%8A%A8%E6%BC%AB%20MV%20%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个竖屏手机截图风格的构图，展示 AI 图像生成对话及其生成的动漫音乐视频项目结果。
+
+画布：高长宽比的手机屏幕，约为 9:16，白色背景，简洁的社交聊天界面外观，最右侧边缘带有细灰色滚动条，底部有小型 UI 图标。
+
+顶部主体区域：在右上角，放置 2 个全身动漫角色站在一起：1 个高挑的紫发女学生和 1 个娇小的粉发吉祥物女孩。女学生留着短尖的薰衣草紫色头发，红色眼睛，戴着金色圆耳环，身穿带有橙色领子和橙色领带的白色水手校服，橙色百褶裙，白色过膝袜和棕色乐福鞋。吉祥物女孩个子矮小，粉色头发，蓝色眼睛，穿着简单的白色连体衣，系着一个小红蝴蝶结，头上戴着两个带有金色尖端的类似天线的发饰；她正开心地挥手。
+
+聊天气泡：在角色下方，稍微偏右居中，绘制一个大的浅灰色圆角消息气泡，其中包含黑色日文文本。使用以下可见文本：{argument name="chat bubble text" default="このキャラクターのボカロmv\nの様々なカットを3x3で出力\nして。16:9"}。保持文本字号较大、简洁，并像手机聊天消息一样对齐。
+
+生成的结果卡片：在聊天气泡下方，创建一个圆角的 16:9 图像卡片，其中包含一个 3x3 的网格，即 9 个电影感的动漫音乐视频画面。网格具有细白色分隔线和柔和的圆角外框。
+
+网格帧数和内容（从左到右，从上到下）：1) 紫发女学生趴在窗边，表情忧郁的特写，温暖的夕阳，带有手写日文歌词；2) 宽广的夕阳屋顶或城市俯瞰，紫发女孩站立，粉发吉祥物在附近，橙粉色天空，带有歌词；3) 粉发吉祥物向观众伸出双手的特写，明亮的樱花粉背景，表情快乐；4) 紫发女孩对着麦克风演唱的演唱会舞台镜头，霓虹蓝和洋红色灯光，一只手伸向观众，带有歌词；5) 两人在纸张或光影碎片中漂浮或跳跃的轻盈蓝白色场景，带有少量歌词；6) 紫发女孩在蓝紫色灯光和发光高光下的戏剧性侧脸特写；7) 两人在温暖的柔和杂物中快乐地躺在一起的舒适俯拍或近景，闭眼微笑；8) 两人坐在星空和银河下的背影，安静的城市剪影，带有歌词；9) 两人比着剪刀手开心地合影的特写，淡蓝色背景，带有少量歌词。
+
+视觉风格：精致的日本动漫，可爱的 2000 年代末生活片段角色设计，柔和的赛璐珞阴影，富有表现力的眼睛，饱和的音乐视频调色，柔和的光晕，干净的线条，多变的摄像机角度，怀旧的 Vocaloid MV 氛围。女学生使用 {argument name="main character hair color" default="薰衣草紫"}，小吉祥物使用 {argument name="mascot hair color" default="粉色"}。校服的主要点缀色为 {argument name="uniform accent color" default="橙色"}。整体生成的项目氛围为 {argument name="music video mood" default="苦乐参半、怀旧且令人振奋"}。
+
+界面细节：在生成的图像卡片周围留出宽敞的白色边距，如同手机 App 截图。在左下角附近添加一个小分享图标，底部附近添加一个三点菜单，并在 3x3 网格的右下角附近添加一个半透明的圆形上传/分享悬浮按钮。不要添加除这 2 个主要角色之外的额外角色。不要添加超过 9 个的额外网格面板。
+
+[English]
+Goal: Create a vertical smartphone screenshot-style composition showing an AI image generation conversation and its generated anime music-video storyboard result.
+
+Canvas: Tall portrait mobile screen, approximately 9:16, white background, clean social-chat interface look, with a thin gray scroll indicator on the far right edge and small bottom UI icons.
+
+Top subject area: In the upper right, place exactly 2 small full-body anime characters standing together: 1 tall purple-haired schoolgirl and 1 tiny pink-haired mascot girl. The schoolgirl has short spiky lavender-purple hair, red eyes, gold round earrings, a white sailor school uniform with orange collar and orange necktie, orange pleated skirt, white knee socks, and brown loafers. The mascot girl is much shorter, pink-haired with blue eyes, wearing a simple white bodysuit with a tiny red bow and two small antenna-like hair accessories with gold tips; she waves cheerfully.
+
+Chat bubble: Under the characters, centered slightly right, draw one large rounded light-gray message bubble containing Japanese text in black. Use the exact visible message: {argument name="chat bubble text" default="このキャラクターのボカロmv\nの様々なカットを3x3で出力\nして。16:9"}. Keep the text large, simple, and aligned like a phone chat message.
+
+Generated result card: Below the chat bubble, create one rounded-corner 16:9 image card containing a 3x3 grid, exactly 9 cinematic anime music-video frames. The grid has thin white dividers and soft rounded outer corners.
+
+Grid frame count and contents, left to right, top to bottom: 1) close-up of the purple-haired schoolgirl leaning on her arms beside a window with melancholic expression, warm sunset light, small handwritten Japanese lyric text. 2) wide sunset rooftop or city overlook, purple-haired girl standing while the tiny pink mascot is nearby, orange-pink sky, lyric text. 3) close-up of the pink mascot reaching both hands toward the viewer, bright sakura-like pink background, happy expression. 4) concert stage shot of the purple-haired girl singing into a microphone, neon blue and magenta lights, one hand extended toward viewer, lyric text. 5) airy white-blue scene with both characters floating or jumping together among papers or light fragments, minimal lyric text. 6) dramatic side-profile close-up of the purple-haired girl against blue-violet lighting and glowing highlights. 7) cozy overhead or close shot of both characters lying together happily amid warm pastel clutter, smiling with eyes closed. 8) back view of both characters sitting under a starry night sky and Milky Way, quiet city silhouette, lyric text. 9) cheerful close-up of both characters posing together with peace signs, pastel blue background, small lyric text.
+
+Visual style: Polished Japanese anime, cute late-2000s slice-of-life character design, soft cel shading, expressive eyes, saturated music-video color grading, gentle bloom, clean line art, varied camera angles, nostalgic Vocaloid MV mood. Use {argument name="main character hair color" default="lavender purple"} for the schoolgirl and {argument name="mascot hair color" default="pink"} for the tiny mascot. The main school uniform accent color is {argument name="uniform accent color" default="orange"}. The overall generated storyboard mood is {argument name="music video mood" default="bittersweet, nostalgic, and uplifting"}.
+
+Interface details: Around the generated image card, leave generous white margins like a mobile app screenshot. Add a small share icon near the lower left, a three-dot menu near the bottom, and a translucent circular upload/share overlay button near the lower right of the 3x3 grid. Do not add extra characters beyond the 2 main characters. Do not add extra grid panels beyond exactly 9.
+```
+
+**来源：** [@布留川英一 / Hidekazu Furukawa](https://x.com/npaka123/status/2097457543333413153) | 2026-09-08
+
+---
+
+### 🖥️ 例 7671：三组角色资产对比项目
+
+![三组角色资产对比项目](../images/%E4%B8%89%E7%BB%84%E8%A7%92%E8%89%B2%E8%B5%84%E4%BA%A7%E5%AF%B9%E6%AF%94%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色背景的对比项目，展示三位职场装扮人物的角色资产表，并排对比两个图像生成系统。
+
+画布：16:9 横向演示图像，分辨率约为 2048×1152，采用深海军蓝黑色背景，简洁的白色字体，以及以 3 行 2 列网格排列的 6 个大型白色图像面板。
+
+标题文本：在左上角放置大号中文标题 {argument name="headline text" default="3组 女生人物资产 · 同提示词对比"}。在其下方添加一行较小的副标题：{argument name="comparison subtitle" default="左：历史 GPT Image 2    右：ChatGPT Images 2.5 网页"}。
+
+布局：使用 6 个带有细间距的矩形白色面板：左列代表旧模型，右列代表新模型。共有 3 行角色：Clara、Julian 和 Evelyn。每一行在左侧面板上方都有一个小的中文行标签：“纯文字角色资产 - Clara”、“纯文字角色资产 - Julian”和“纯文字角色资产 - Evelyn”。6 个面板中的每一个都在白色摄影棚背景下包含 4 个角色描绘：左侧为 1 个大型头部及肩部特写，右侧为 3 个较小的全身转向视图：正面视图、侧面视图和背面视图。可见角色描绘总数：正好 24 个。
+
+第 1 行主体细节：Clara，一位年轻白皙女性，留着长波浪深棕色头发，淡雅自然妆容，表情中性严肃，身穿奶油色罗纹高领毛衣、棕色短款西装外套、高腰阔腿奶油色长裤、黑色腰带，搭配低跟鞋。在每个 Clara 面板中展示 4 个视图：头部特写、全身正面、全身侧面、全身背面。
+
+第 2 行主体细节：Julian，一位年轻苗条白皙男性，留着浅棕色/金色侧分发型，佩戴矩形眼镜，表情冷静严肃，身穿米白色亚麻西装、白色开领衬衫、修身长裤、棕色腰带，搭配棕褐色乐福鞋。在每个 Julian 面板中展示 4 个视图：头部特写、全身正面、全身侧面、全身背面。
+
+第 3 行主体细节：Evelyn，一位中年女性，中等肤色，深色头发梳成低发髻，表情沉稳中性，身穿黑色商务西装、深灰色衬衫，佩戴小金项链、小耳环，黑色长裤，搭配黑色平底鞋。在每个 Evelyn 面板中展示 4 个视图：头部特写、全身正面、全身侧面、全身背面。
+
+视觉风格：写实摄影风格的角色资产表，干净的摄影棚灯光，每个面板内均为白色无缝背景，一致的专业服装造型，中性表情，除深色项目背景和标签外，无装饰性图形。左右两列应看起来相似但不完全相同，如同在对比两个系统的输出。
+
+页脚文本：在左下角添加两条中文注释：{argument name="footer note one" default="历史成品 2048×1152 / 网页新图 1672×941 · 仅排版缩放，无修图、无超分。"} 和 {argument name="footer note two" default="提示词正文相同，两页端仅补充16:9比例。"}。
+
+约束：保持 3 行 2 列的精确对比布局，正好 3 个命名角色，正好 6 个面板，每个面板正好 4 个描绘，无水印，无额外徽标，且无其他角色。
+
+[English]
+Goal: Create a dark-background comparison board showing character asset sheets for three office-dressed people, comparing two image-generation systems side by side.
+
+Canvas: 16:9 landscape presentation image, approximately 2048×1152, with a deep navy-black background, clean white typography, and six large white image panels arranged in a 3-row by 2-column grid.
+
+Header text: At the top left, place the large Chinese title {argument name="headline text" default="3组 女生人物资产 · 同提示词对比"}. Under it, add a smaller subtitle line: {argument name="comparison subtitle" default="左：历史 GPT Image 2    右：ChatGPT Images 2.5 网页"}.
+
+Layout: Use exactly 6 rectangular white panels with thin spacing: left column represents the older model, right column represents the newer model. There are exactly 3 character rows: Clara, Julian, and Evelyn. Each row has a small Chinese row label above the left panel: “纯文字角色资产 - Clara”, “纯文字角色资产 - Julian”, and “纯文字角色资产 - Evelyn”. Each of the 6 panels contains exactly 4 character depictions on a white studio background: 1 large cropped head-and-shoulders portrait on the left, plus 3 smaller full-body turnaround views on the right: front view, side profile view, and back view. Total visible character depictions: exactly 24.
+
+Row 1 subject details: Clara, a young fair-skinned woman with long wavy dark brown hair, soft natural makeup, neutral serious expression, wearing a cream ribbed turtleneck, brown cropped blazer, high-waisted wide-leg cream trousers, a black belt, and low heels. In each Clara panel show 4 views: close portrait, full-body front, full-body side, full-body back.
+
+Row 2 subject details: Julian, a young slim fair-skinned man with light brown/blond swept hair, rectangular glasses, calm serious expression, wearing an off-white linen suit, white open-collar shirt, narrow trousers, brown belt, and tan loafers. In each Julian panel show 4 views: close portrait, full-body front, full-body side, full-body back.
+
+Row 3 subject details: Evelyn, a middle-aged woman with medium tan skin, dark hair pulled back into a low bun, composed neutral expression, wearing a black business suit, dark gray blouse, small gold necklace, small earrings, black trousers, and black flats. In each Evelyn panel show 4 views: close portrait, full-body front, full-body side, full-body back.
+
+Visual style: Realistic photography-like character asset sheets, clean studio lighting, white seamless backgrounds inside each panel, consistent professional wardrobe styling, neutral expressions, no decorative graphics except the dark board and labels. The left and right columns should be visibly similar but not identical, as if comparing outputs from two systems.
+
+Footer text: At the bottom left, add two small Chinese notes: {argument name="footer note one" default="历史成品 2048×1152 / 网页新图 1672×941 · 仅排版缩放，无修图、无超分。"} and {argument name="footer note two" default="提示词正文相同，两页端仅补充16:9比例。"}.
+
+Constraints: Keep the exact 3-row by 2-column comparison layout, exactly 3 named characters, exactly 6 panels, exactly 4 depictions per panel, with no watermark, no extra logos, and no additional characters.
+```
+
+**来源：** [@zheyong](https://x.com/zheyongli/status/2097457293839487328) | 2026-09-08
+
+---
+
+### 🖥️ 例 7678：极简法文引言文字卡片
+
+![极简法文引言文字卡片](../images/%E6%9E%81%E7%AE%80%E6%B3%95%E6%96%87%E5%BC%95%E8%A8%80%E6%96%87%E5%AD%97%E5%8D%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个纯白背景的极简横版社交媒体文字卡片，尺寸约为 1200×637 像素。使用类似于 Arial/Helvetica 的大号黑色无衬线字体，左对齐，留白充裕，无边框、无图标、无水印。文本块应占据左上角和中心区域，行间距宽敞，呈现出类似截图的简洁外观。使用以下确切内容设置法文引言：{argument name="quote text" default="Le mot “complotiste” a souvent été utilisé non\npas pour juger la véracité d’une idée, mais pour\nempêcher sa diffusion et mettre fin à la\nrecherche intellectuelle.\nDans de nombreux cas historiques, si ce mot\nn’avait pas été utilisé, le débat aurait été plus\nouvert et la connaissance plus rapide."}。确保显示为 7 行。对以下 5 个强调部分应用加粗效果：“complotiste”、“empêcher sa diffusion et mettre fin à la”、“recherche intellectuelle.”、“le débat aurait été plus” 以及 “ouvert et la connaissance plus rapide.”。其余文字保持常规字重。使用清晰的高对比度黑色文本，无需任何额外装饰。
+
+[English]
+Create a minimalist landscape social-media text card on a plain white background, approximately 1200×637 pixels. Use large black sans-serif typography similar to Arial/Helvetica, left aligned with generous margins, no borders, no icons, no watermark. The text block should occupy the upper-left and center area with wide line spacing and a clean screenshot-like look. Set the main quote in French using this exact content: {argument name="quote text" default="Le mot “complotiste” a souvent été utilisé non\npas pour juger la véracité d’une idée, mais pour\nempêcher sa diffusion et mettre fin à la\nrecherche intellectuelle.\nDans de nombreux cas historiques, si ce mot\nn’avait pas été utilisé, le débat aurait été plus\nouvert et la connaissance plus rapide."}. Use exactly 7 visible lines. Apply bold weight to exactly 5 emphasized text parts: “complotiste”, “empêcher sa diffusion et mettre fin à la”, “recherche intellectuelle.”, “le débat aurait été plus”, and “ouvert et la connaissance plus rapide.” Keep all other words regular weight. Use crisp high-contrast black text, with no additional decoration.
+```
+
+**来源：** [@Véritiste 𝕏](https://x.com/Veritiste/status/2097448930623516959) | 2026-09-08
+
+---
+
+### 🖥️ 例 7681：月下雨夜城市天桥
+
+![月下雨夜城市天桥](../images/%E6%9C%88%E4%B8%8B%E9%9B%A8%E5%A4%9C%E5%9F%8E%E5%B8%82%E5%A4%A9%E6%A1%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:3 的电影感夜间城市景观宽屏图，视角位于人行天桥上，正对着 {argument name="city" default="安静的日本郊区"} 一条湿漉漉的多车道城市道路。前景主体为蓝灰色的金属天桥护栏，带有竖条、螺栓、混凝土底墙以及沿边缘的雨水反光。护栏外，展示两条完全分隔的行车道：左侧车道车辆背向观众行驶，带有红色尾灯和一辆白色厢式货车；右侧车道车辆面向观众行驶，带有白色前大灯；在两条车道之间设置一个种植带或排水沟，配有高耸的干草和青色围栏。道路两侧包含中层公寓楼、小型商店、路灯、停放的车辆以及透出暖黄色灯光的窗户，左侧前景处设有一栋最高的公寓楼。使用 {argument name="time of night" default="雨后深夜"}，深钴蓝色的天空，零星的云朵，点点繁星，以及右上角高悬的一轮明月。光影应融合冷色调的月光蓝氛围与暖橙色的路灯及窗光，呈现出湿润路面的光亮反光，清晰的透视线条向中心消失点延伸，具备写实的建筑细节，以及精致的高分辨率动画背景/写实插画风格。画面中不包含人物、文字、可读标识及水印。
+
+[English]
+Create a wide 4:3 cinematic night cityscape from the viewpoint of a pedestrian overpass, looking straight down a wet multi-lane urban road in {argument name="city" default="a quiet Japanese suburb"}. The foreground is dominated by a blue-gray metal bridge railing with vertical bars, bolts, a concrete lower wall, and rain-slick reflections along the ledge. Beyond the railing, show exactly two separated directions of traffic: the left roadway carrying cars away from the viewer with red taillights and one white box truck, and the right roadway carrying cars toward the viewer with white headlights; place a planted median or drainage strip between them with tall dry grasses and a teal fence. On both sides of the road, include mid-rise apartment buildings, small shops, streetlamps, parked cars, and warm yellow-lit windows, with the tallest apartment block on the left side near the foreground. Use {argument name="time of night" default="late evening after rain"}, a deep cobalt blue sky, scattered clouds, many small stars, and a bright full moon high in the upper right. Lighting should mix cool moonlit blue ambience with warm orange streetlights and window glow, with glossy wet pavement reflections, crisp perspective lines receding to a vanishing point in the center, realistic architectural detail, and a polished high-resolution anime-background / photoreal illustration style. No people, no text, no signs that are readable, no watermark.
+```
+
+**来源：** [@滝＠不定期投稿中](https://x.com/taki321/status/2097441199489736714) | 2026-09-08
+
+---
+
+### 🖥️ 例 7687：从巫师草图到奇幻成图的 UI 设计
+
+![从巫师草图到奇幻成图的 UI 设计](../images/%E4%BB%8E%E5%B7%AB%E5%B8%88%E8%8D%89%E5%9B%BE%E5%88%B0%E5%A5%87%E5%B9%BB%E6%88%90%E5%9B%BE%E7%9A%84%20UI%20%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个极简的聊天风格图像生成界面截图，展示草图提示词和精致的生成结果。
+
+画布：近乎正方形的浅灰色/米白色背景，尺寸约为 665×677 像素，留有大量空白。采用简洁的现代移动端/网页 UI 美学，使用圆角卡片和柔和的阴影。
+
+布局：放置 3 个主要的 UI 元素：右上角放置 1 张小型草图卡片，其正下方放置 1 个小型圆角文本提示气泡，左下角放置 1 张大型生成图像卡片。大型卡片上方的左侧区域保持大部分留白。
+
+上方草图卡片：一个白色圆角矩形，内含儿童画风格的黑橙色涂鸦。涂鸦包含 6 个橙色星形、中心一座高耸歪斜的黑色塔楼、底部 3 座小型黑色鬼屋、右上角一轮橙色满月，以及 1 个飞过月亮的黑色巫师剪影。草图需保持粗糙、马克笔手绘感、趣味性且简洁。
+
+提示气泡：草图卡片下方的一个淡桃色圆角胶囊形气泡，内含日语文本 {argument name="prompt bubble text" default="闇夜を飛ぶ魔女の画像。"}，使用深棕色小号字体。
+
+生成图像卡片：左下角的一张大型圆角方形图像，采用电影级奇幻风格。描绘深蓝色星空下舒适的哥特式村庄。包含 1 座位于左中位置、带有尖顶的石制钟楼/塔楼，右上角 1 轮巨大的发光金色满月，以及 1 个在月亮前骑扫帚的黑色巫师剪影。前景包含成群的陡峭屋顶房屋，窗户透出温暖的黄色灯光，点缀柔和的闪烁星光、戏剧性的月光云层，底部由深色树梢勾勒。图像应呈现出从粗糙草图到高度精致成图的转化感。
+
+UI 细节：在大型生成图像的左下角内，显示白色日语标签 {argument name="edit label" default="編集"}。在同一图像的右下角，显示 1 个白色分享/导出图标。不显示其他文字。
+
+视觉风格：简单的涂鸦与精致的结果之间形成高对比度；圆角设计；柔和的应用界面间距；无水印；无额外面板；构图需忠实于生成的图像聊天结果。
+
+[English]
+Goal: Create a minimalist chat-style image generation interface screenshot showing a rough sketch prompt and a polished generated result.
+
+Canvas: Square-ish light gray/off-white background, about 665×677 px, with lots of empty space. Use a clean modern mobile/web UI aesthetic with rounded cards and subtle shadows.
+
+Layout: Place exactly 3 main UI elements: 1 small sketch image card in the upper right, 1 small rounded text prompt bubble directly below it, and 1 large generated image card in the lower left. Leave the left side mostly blank above the large card.
+
+Upper sketch card: A white rounded rectangle with a childlike black-and-orange doodle. The doodle contains exactly 6 orange star shapes, a tall crooked black tower in the center, 3 small black haunted houses along the bottom, an orange full moon in the upper right, and 1 black witch silhouette flying across the moon. Keep the sketch rough, marker-like, playful, and sparse.
+
+Prompt bubble: A pale peach rounded pill below the sketch card containing the Japanese text {argument name="prompt bubble text" default="闇夜を飛ぶ魔女の画像。"} in small dark brown type.
+
+Generated image card: A large rounded-corner square image in the lower left, cinematic fantasy style. Depict a cozy gothic village at night beneath a deep navy starry sky. Include exactly 1 tall stone clock/bell tower with a pointed dark roof near the left-center, exactly 1 enormous glowing golden full moon near the upper right, and exactly 1 black witch silhouette riding a broom in front of the moon. Include clustered steep-roof houses with warm yellow-lit windows in the foreground, soft glowing stars, dramatic moonlit clouds, and dark treetops framing the bottom. The image should feel like a highly polished transformation of the crude sketch.
+
+UI details: On the lower-left corner inside the large generated image, show the small white Japanese label {argument name="edit label" default="編集"}. On the lower-right corner inside the same image, show a small white share/export icon. No other visible text.
+
+Visual style: High contrast between the simple doodle and the refined result; rounded corners; soft app-interface spacing; no watermark; no extra panels; keep the composition faithful to a generated-image chat result.
+```
+
+**来源：** [@G2（じーにー）｜AIビジネス翻訳家](https://x.com/aiclass_g2/status/2097426058983449075) | 2026-09-08
+
+---
+
+### 🖥️ 例 7697：深渊海豚 Boss 变身
+
+![深渊海豚 Boss 变身](../images/%E6%B7%B1%E6%B8%8A%E6%B5%B7%E8%B1%9A%20Boss%20%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像作为粗略轮廓和颜色指南，将简单的蓝色海豚草图转化为电影级的暗黑奇幻水下 Boss 战场景。保持相同的正面圆形海豚/鲸鱼状身体、中央背鳍、侧鳍、蓝色上身以及苍白的下颌区域，但将其渲染为巨大的写实海怪，带有龟裂的电蓝色发光纹路、生物发光的蓝色眼睛、湿润粗糙的皮肤、藤壶、污垢，以及从前额延伸下来的华丽古金色纹饰。
+
+场景：将生物置于广阔的深渊废墟城市中，上方有戏剧性的蓝色光束射入，周围漂浮着碎片、气泡、成群的小鱼、破碎的石拱门、柱子、雕像，左侧有废墟沉船的剪影。在左下角添加一个微小的探险家/潜水员形象，以强调怪物的巨大比例。构图采用宽屏并居中，怪物直接向观众逼近。
+
+游戏 UI 添加：在底部中心添加 1 个 Boss 生命值条：一个位于华丽暗金属奇幻边框中的长红色条，并用中文标注 {argument name="boss name" default="深渊歌者"}。请勿添加任何其他 UI 面板。
+
+风格：超精细 AAA 游戏主视觉图，类似《黑暗之魂》的奇幻氛围，水下体积光，高对比度，忧郁的青蓝色调，电影级写实感，宏大的比例，焦点清晰地聚焦在生物面部。
+
+可自定义细节：生物发光颜色 {argument name="glow color" default="电蓝色"}，环境主题 {argument name="environment theme" default="深渊废墟城市"}，氛围 {argument name="mood" default="阴森而史诗"}，长宽比 {argument name="aspect ratio" default="16:9 宽屏"}。
+
+[English]
+Using the provided reference image as the rough silhouette and color guide, transform the simple blue dolphin sketch into a cinematic dark-fantasy underwater boss encounter. Keep the same front-facing rounded dolphin/whale-like body, central dorsal fin, side fins, blue upper body, and pale lower mouth area, but render it as a massive realistic sea monster with cracked glowing electric-blue markings, bioluminescent blue eyes, wet rough skin, barnacles, grime, and ornate ancient-gold markings running down the forehead.
+
+Scene: Place the creature in a vast abyssal ruined city with dramatic blue shafts of light from above, floating debris, bubbles, schools of tiny fish, broken stone arches, pillars, statues, and a ruined shipwreck silhouette on the left. Add a tiny explorer/diver figure near the lower left to emphasize the monster's enormous scale. Make the composition widescreen and centered, with the monster looming directly toward the viewer.
+
+Game UI addition: Add exactly 1 boss health bar at the bottom center: a long red bar in an ornate dark-metal fantasy frame, labeled in Chinese with {argument name="boss name" default="深渊歌者"}. Do not add any other UI panels.
+
+Style: Ultra-detailed AAA game key art, dark souls-like fantasy atmosphere, underwater volumetric lighting, high contrast, moody teal-blue palette, cinematic realism, dramatic scale, sharp focus on the creature's face.
+
+Customizable details: creature glow color {argument name="glow color" default="electric blue"}, environment theme {argument name="environment theme" default="abyssal ruined city"}, mood {argument name="mood" default="ominous and epic"}, aspect ratio {argument name="aspect ratio" default="16:9 widescreen"}.
+```
+
+**来源：** [@森叔](https://x.com/harrisonitsme/status/2097412852848222498) | 2026-09-08
+
+---
+
+### 🖥️ 例 7711：深色草图模式怪物涂鸦
+
+![深色草图模式怪物涂鸦](../images/%E6%B7%B1%E8%89%B2%E8%8D%89%E5%9B%BE%E6%A8%A1%E5%BC%8F%E6%80%AA%E7%89%A9%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个类似截图的深色草图/绘图模式界面，展示一个正在编辑的、故意画得很粗糙的数字涂鸦，就像在图像生成应用的草图工具中一样。
+
+画布：接近 4:3 的方形截图，深炭灰色绘图面板居中，带有圆角，背景是右侧和底部隐约可见的暗色图库/应用界面。
+
+布局：主绘图区占据大部分画面。顶部工具栏悬浮在上方中央，左上角有一个关闭按钮“X”，右上角有撤销/重做图标。左侧有一个带有白色圆形滑块的垂直笔刷大小调节器。底部有一排水平调色板。右下角有一个绿色的圆形确认按钮。
+
+主体草图：画一个粗糙的白色线稿怪物，看起来像一个佝偻的奇幻 Boss 生物，使用粗细不均的笔触绘制。它有一个朝左的长尖喙或吻部、一张锯齿状的张开大嘴、顶部附近有一个潦草的椭圆形眼睛、高耸的拱背、笨重的躯干、弯曲的腿以及右侧一条长长的弯曲尾巴。在左下角添加一朵带茎的青色小花涂鸦，面向怪物。在右上角添加一个橙色的太阳草图或对角线状的树枝射线。
+
+界面细节：包含 6 个可见的顶部工具栏图标：指针/选择箭头、波浪线笔刷图标、字母 T 文本工具、重叠形状/复制图标、橡皮擦/菱形图标，以及周围圆角的工具栏容器。包含 2 个右上角的历史记录图标：撤销和重做。包含 1 个左上角的关闭按钮“X”。包含 1 个带 1 个白色旋钮的垂直滑块。包含 16 个底部色块，从左到右依次为：彩色虹色圆圈、白色、灰色、棕色、红色、橙色、带有蓝色圆环选中的黄橙色、绿色、青绿色、青色、蓝色、靛蓝色、紫罗兰色、紫色、粉色，最右侧有 1 个绿色确认勾选按钮。
+
+视觉风格：粗糙的手绘草图模式，厚重不均匀的笔触，深色 UI，俏皮凌乱的画风，随意的截图美感。使用 {argument name="creature outline color" default="white"}、{argument name="flower color" default="teal"}、{argument name="sun sketch color" default="orange"} 和 {argument name="background panel color" default="dark charcoal"}。无需精致渲染；保持其刻意的潦草和简洁。
+
+[English]
+Goal: Create a screenshot-like image of a dark sketch/drawing mode interface showing a deliberately crude digital doodle being edited, as if in an image-generation app's sketch tool.
+
+Canvas: Square-ish 4:3 screenshot, dark charcoal drawing panel centered with rounded corners over a dimmed gallery/app background barely visible at the right and bottom edges.
+
+Layout: The main drawing area fills most of the frame. A top toolbar floats near the upper center, with a close X at top left and undo/redo icons at top right. A vertical brush-size slider sits on the left side with one white circular handle. A horizontal color palette runs along the bottom. A green circular checkmark confirmation button sits at the bottom right.
+
+Main sketch: Draw a rough white line-art monster resembling a hunched fantasy boss creature, made with thick uneven brush strokes. It has one long pointed beak or snout facing left, a jagged open mouth, one scribbled oval eye near the top, a high arched back, a bulky torso, bent legs, and a long curved tail on the right. Add a small teal flower-like doodle on a stem at the lower left, facing the monster. Add an orange sketch of a sun or diagonal branch-like rays in the upper right corner.
+
+Interface details: Include exactly 6 visible top toolbar icons: pointer/selection arrow, squiggle brush icon, letter T text tool, overlapping shapes/copy icon, eraser/diamond icon, and the surrounding rounded toolbar container. Include exactly 2 top-right history icons: undo and redo. Include exactly 1 close X icon at top left. Include exactly 1 vertical slider with 1 white knob. Include exactly 16 bottom color swatches, from left to right: multicolor rainbow circle, white, gray, brown, red, orange, yellow-orange selected with a blue ring, green, teal-green, cyan, blue, indigo, violet, purple, pink, plus exactly 1 green confirmation check button at the far right.
+
+Visual style: Rough hand-drawn sketch mode, thick uneven strokes, dark UI, playful messy drawing, casual screenshot aesthetic. Use {argument name="creature outline color" default="white"}, {argument name="flower color" default="teal"}, {argument name="sun sketch color" default="orange"}, and {argument name="background panel color" default="dark charcoal"}. No polished rendering; keep it intentionally sloppy and simple.
+```
+
+**来源：** [@ashen](https://x.com/ashen_one/status/2097398184897077699) | 2026-09-08
+
+---
+

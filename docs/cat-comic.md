@@ -9995,3 +9995,123 @@ Create a bright, playful cartoon illustration of {argument name="animal" default
 
 ---
 
+### 🎬 例 7673：黑白漫画：职场女性与流浪猫
+
+![黑白漫画：职场女性与流浪猫](../images/%E9%BB%91%E7%99%BD%E6%BC%AB%E7%94%BB%EF%BC%9A%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7%E4%B8%8E%E6%B5%81%E6%B5%AA%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白日式漫画，讲述一位内向的职场女性在遇到一只流浪猫后逐渐敞开心扉，风格为感性的生活片段（slice-of-life）。使用 {argument name="page format" default="竖版漫画页面，黑白，4:5 比例"}。
+
+画布：全页漫画布局，配有清晰的黑色分镜框、灰度网点纸效果、细腻的墨线、柔和的阴影、写实的城市背景以及克制而富有表现力的人物动作。阅读顺序和对话框应符合日式漫画规范，包含竖排的日语对话与旁白。
+
+主要人物：一位年轻的日本职场女性，{argument name="character name" default="无名女主角"}，20 岁出头，留着齐肩直黑发和刘海，眼神温柔而疲惫，身穿开衫配职场装，背着单肩包。她起初孤独内向，随后变得温暖自信。配角为 1 只黑白流浪猫，圆眼睛，胸口毛茸茸，外表略显凌乱但十分可爱。
+
+布局：使用 9 个独立分镜组成的紧凑漫画网格。
+1. 左上分镜：女性坐在办公桌前，手托腮，在电脑显示器和文件旁显得很疲惫。添加一个思想气泡和竖排旁白。
+2. 右上宽分镜：她走在城市街道上，背景是建筑和行人，手抓着包带，神情矜持。添加两个长条旁白框。
+3. 中左分镜：她蹲在小巷或侧街，将食物放在小碟子里喂给流浪猫。猫在吃东西，她害羞地看着。添加一个对话气泡。
+4. 中右分镜：猫独自坐在小巷的墙边，直视读者。添加一个小猫叫声的拟声词和一个长条旁白框。
+5. 中下左分镜：在公司食堂或工作区，女性与同事交谈时露出微笑；包含办公桌、显示器和背景中的人群。添加一个竖排旁白框和一个来自他人的对话气泡。
+6. 中下右分镜：情感特写分镜，女性闭眼微笑，抚摸着猫，脸颊贴近猫头。添加一个猫叫声的拟声词和两个旁白框。
+7. 左下宽分镜：女性坐在桌前拿着饮料，闭眼灿烂微笑；背景中同事们正在聊天。添加一个小型的竖排对话气泡。
+8. 中下窄分镜：猫脸特写，带有部分手部抚摸的细节，作为反思性的过渡。添加两个窄竖排旁白框。
+9. 右下宽分镜：日落时的屋顶或河边远眺视角；女性坐在猫身旁，两人共同面对城市天际线和戏剧性的霞光云层。添加两个旁白框，一个靠近天空，一个靠近下方中心。
+
+文本内容：在分镜中加入竖排日语漫画文本。核心主题应为 {argument name="story theme" default="一位孤独的普通职场人被一只流浪猫在情感上救赎，并学会了与人建立联系"}。旁白语气参考：“我只是个随处可见的普通职场人”、“我不擅长与人交谈”、“我在公司附近遇到了一只流浪猫”、“起初我只是远远地看着”、“距离一点点拉近了”、“多亏了那个孩子，我变得能够向前看了”、“总有一天，我也想成为能给予他人回报的人”。
+
+视觉风格：正宗青年/少女漫生活片段风格，手绘墨线，细腻的城市与办公背景，灰度色调，微妙的排线，电影般的情感节奏，清晰的留白，无色彩，无水印。确保女性和猫在所有分镜中保持一致，猫共出现在 5 个分镜中：进食、独自坐着、被抚摸、特写、以及在天际线旁陪伴她。
+
+[English]
+Goal: Create a monochrome Japanese manga page about a quiet office woman gradually opening up after meeting a stray cat, in a sentimental slice-of-life style. Use {argument name="page format" default="vertical manga page, black and white, 4:5 aspect ratio"}.
+
+Canvas: Full-page manga layout with clean black panel borders, grayscale screentones, fine ink linework, soft shading, realistic urban backgrounds, and expressive but restrained character acting. The reading direction and text boxes should feel like a Japanese manga page, with vertical Japanese dialogue and narration.
+
+Main subject: A young Japanese office woman, {argument name="character name" default="unnamed heroine"}, early 20s, shoulder-length straight black hair with bangs, gentle tired eyes, wearing a cardigan over office clothes and carrying a shoulder bag. She begins lonely and withdrawn, then becomes warmer and more confident. The supporting subject is exactly 1 black-and-white stray cat with round eyes, a fluffy chest, and a slightly scruffy but cute appearance.
+
+Layout: Use exactly 9 distinct panels arranged in a dense manga grid.
+1. Top-left panel: the woman sits at an office desk, resting her cheek on her hand, looking tired beside a computer monitor and papers. Add a thought bubble and vertical narration.
+2. Top-right wide panel: she walks through a city street with buildings and pedestrians behind her, holding her bag strap, looking reserved. Add two tall narration boxes.
+3. Middle-left panel: she crouches in an alley or side street and offers food in a small dish to the stray cat. The cat eats while she watches shyly. Add a speech bubble.
+4. Middle-right panel: the cat sits alone beside a wall in the alley, looking directly at the viewer. Add a small cat sound effect and a tall narration box.
+5. Lower-middle-left panel: in the office cafeteria or workspace, the woman smiles while talking with coworkers; include desks, monitors, and background people. Add a vertical narration box and a speech bubble from another person.
+6. Lower-middle-right panel: close emotional panel of the woman smiling with closed eyes while petting the cat, cheek close to its head. Add a cat sound effect and two narration boxes.
+7. Bottom-left wide panel: the woman sits at her desk holding a drink, smiling brightly with eyes closed; coworkers chat in the background. Add a small vertical speech bubble.
+8. Bottom-center narrow panel: close-up of the cat’s face with partial hand/petting detail, used as a reflective transition. Add two narrow vertical narration boxes.
+9. Bottom-right wide panel: sunset rooftop or riverside overlook from behind; the woman sits beside the cat, both facing a city skyline and dramatic sunburst clouds. Add two narration boxes, one near the sky and one near the lower center.
+
+Text content: Include Japanese vertical manga text in the panels. The central theme should be {argument name="story theme" default="a lonely ordinary office worker is saved emotionally by a stray cat and learns to connect with people"}. Use narration similar in tone to: “I am an ordinary office worker anywhere,” “I am not good at talking to people,” “I met one stray cat near the company,” “At first I only watched from a distance,” “Little by little the distance closed,” “Thanks to that child, I became able to look forward,” and “Someday I want to become someone who can give something back.”
+
+Visual style: Authentic seinen/shoujo slice-of-life manga, hand-drawn ink, detailed city and office backgrounds, grayscale tones, subtle hatching, cinematic emotional pacing, clean white gutters, no color, no watermark. Keep the woman and cat consistent across all panels, with the cat appearing in exactly 5 panels: eating, sitting alone, being petted, close-up, and sitting beside her at the skyline.
+```
+
+**来源：** [@けいすけ🌈『ぽちペタ』音声入力ソフト開発](https://x.com/kei31/status/2097453957555835344) | 2026-09-08
+
+---
+
+### 🎬 例 7680：Vocaloid MV 风格角色网格图
+
+![Vocaloid MV 风格角色网格图](../images/Vocaloid%20MV%20%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E7%BD%91%E6%A0%BC%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+请用这个角色制作 {argument name="风格" default="Vocaloid（ボカロ）MV"} 风格的各种不同镜头，以 {argument name="宫格" default="3×3"} 九宫格形式输出，画面比例为 {argument name="比例" default="16:9"}。
+```
+
+**来源：** [@兔妹_兔子](https://x.com/tuzi_ai/status/2097441918187675744) | 2026-09-08
+
+---
+
+### 🎬 例 7692：日式百合漫画页面
+
+![日式百合漫画页面](../images/%E6%97%A5%E5%BC%8F%E7%99%BE%E5%90%88%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白日式百合漫画，讲述两名高中女生羞涩地想要一起放学回家的故事。
+
+画布：竖版漫画页面，比例约为 2:3，留有干净的白色页边，粗黑的边框，使用网点纸阴影，高细节墨线稿，页面底部居中标记页码“1”。
+
+视觉风格：专业的少女/青年漫画混合风格，黑白，细腻的面部表情，光泽感发丝渲染，柔和的腮红网点，写实的教室和走廊透视，电影感特写，戏剧性的停顿，无色彩。使用日式竖排对话框和旁白框。
+
+角色：两名身穿深色西装外套、白衬衫、领带和百褶裙的少女。角色 A 为 {argument name="black haired girl name" default="文静的黑发女孩"}，留着非常长的直黑发，齐刘海，害羞地垂下眼帘，带着淡淡的腮红，姿态内敛。角色 B 为 {argument name="blonde girl name" default="短发金发女孩"}，留着层次分明的浅色短发，发根略深，眼神锐利，带有一丝王子气/假小子气质，背着书包，虽然尴尬但试图表现得若无其事。
+
+布局：使用 6 个从上到下排列的漫画分镜：
+1. 顶部宽幅全景分镜：放学后空荡荡的教室，课桌整齐，黑板上写着「また あした」并画有一朵小花，大窗户和窗帘。角色 A 坐在课桌旁，背着书包，角色 B 站在她身边微微前倾。右侧添加一个高大的竖排旁白框，写着「二人きりになると、うまく息ができない。」
+2. 中左特写分镜：角色 A 低头看着，脸颊通红，长长的黑发遮住脸颊。对话框写着「……うん。」
+3. 中右特写分镜：角色 B 脸颊泛红，紧张地微笑着。对话框写着「今日も、一緒に帰る？」
+4. 中下左分镜：角色 B 眼神忧伤或不确定地向下看，眼神柔和，一个空白对话框写着「……」
+5. 中下右细节分镜：角色 A 双手紧紧抓着书包提手的特写，配有小小的拟声词「ぎゅっ」，以及两个竖排旁白框，写着「たった二文字。」和「本当は、ずっと待っていたのに。」
+6. 底部宽幅分镜：带有窗户和透视深度的学校走廊。两个女孩并肩站立；角色 B 害羞地看向别处，抓着书包带，角色 A 看起来很惊讶，脸颊泛红。角色 B 的对话框写着「ねえ。私と帰るの、嫌じゃない？」角色 A 的小矩形反应框写着「え？」
+
+文字限制：保持所有日文原文不变，并在适当位置使用竖排。不要添加额外的对话、拟声词、标志、水印或现代数字 UI 元素。场景应营造出温柔、安静、浪漫且情感克制的氛围。
+
+[English]
+Goal: Create a single black-and-white Japanese yuri manga page about two high school girls awkwardly wanting to walk home together.
+
+Canvas: Vertical manga page, approximately 2:3 aspect ratio, clean white page margin, heavy black panel borders, screentone shading, high-detail ink line art, page number “1” centered at the bottom.
+
+Visual style: Professional shoujo/seinen manga hybrid, monochrome, delicate facial expressions, glossy hair rendering, soft blush screentones, realistic classroom and hallway perspective, cinematic closeups, dramatic pauses, no color. Use Japanese vertical speech bubbles and narration boxes.
+
+Characters: Two teenage schoolgirls in dark blazers, white shirts, neckties, and pleated skirts. Girl A has {argument name="black haired girl name" default="the quiet black-haired girl"}, very long straight black hair with blunt bangs, shy downcast eyes, subtle blush, reserved posture. Girl B has {argument name="blonde girl name" default="the short-haired blonde girl"}, short layered light hair with dark roots, sharper eyes, slightly princely/tomboyish aura, a school bag, embarrassed but trying to act casual.
+
+Layout: Use exactly 6 manga panels arranged from top to bottom:
+1. Wide establishing panel across the top: an empty classroom after school with desks, chalkboard reading 「また あした」 with a small flower doodle, large windows and curtains. Girl A sits at a desk with her bag while Girl B stands beside her leaning forward. Add a tall vertical narration box on the right reading 「二人きりになると、うまく息ができない。」
+2. Middle-left closeup panel: Girl A’s face looking down, intensely blushing, long black hair framing her cheeks. Speech bubble reads 「……うん。」
+3. Middle-right closeup panel: Girl B smiling nervously with flushed cheeks. Speech bubble reads 「今日も、一緒に帰る？」
+4. Lower-middle-left panel: Girl B looking down sadly or uncertainly, eyes softened, with a silent speech bubble reading 「……」
+5. Lower-middle-right detail panel: closeup of Girl A’s hands gripping the handles of a school bag tightly, with small sound effect 「ぎゅっ」 and two vertical narration boxes reading 「たった二文字。」 and 「本当は、ずっと待っていたのに。」
+6. Wide bottom panel: school corridor with windows and perspective depth. The two girls stand side by side; Girl B looks away shyly while holding her bag strap, Girl A looks surprised and blushing. Girl B’s speech bubble reads 「ねえ。私と帰るの、嫌じゃない？」 and Girl A’s small rectangular reaction box reads 「え？」
+
+Text constraints: Keep all Japanese text exactly as written, vertical where appropriate. Do not add extra dialogue, sound effects, logos, watermarks, or modern digital UI elements. The scene should feel tender, quiet, romantic, and emotionally restrained.
+```
+
+**来源：** [@852話(hakoniwa)](https://x.com/8co28/status/2097420278964117732) | 2026-09-08
+
+---
+

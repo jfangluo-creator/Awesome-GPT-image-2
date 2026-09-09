@@ -33722,3 +33722,227 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 
 ---
 
+### 🎴 例 7660：猫咪照片转几何海报
+
+![猫咪照片转几何海报](../images/%E7%8C%AB%E5%92%AA%E7%85%A7%E7%89%87%E8%BD%AC%E5%87%A0%E4%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个垂直双面板设计，将一张温馨的写实猫咪照片转化为极简主义的几何海报插画。
+
+画布：3:4 纵向构图，900 x 1200 尺寸，水平精确分割为 2 个面板。顶部面板占据约 52% 的高度，为暖色调写实摄影；底部面板占据约 48%，为米白色画廊海报插画区域。
+
+顶部面板：展示一只毛茸茸的白猫坐在木质书桌前，身处温馨的家庭办公室。猫咪正对着前方，左侧前景处放置着一台打开的银色笔记本电脑，键盘在底部边缘隐约可见。猫咪双眼上贴着 2 张正方形白纸条，每张纸条上画着一只简单的黑色卡通眼睛和短睫毛，呈现出滑稽的瞪眼表情。背景虚化柔和，猫咪后方正中央有 1 把黑色办公椅，左侧有 1 盆绿植，右侧有 1 个木质书架，上面摆放着模糊的书籍和装饰品。光线呈金色，柔和，浅景深，温馨的室内氛围，写实的毛发细节。
+
+底部面板：在干净的米白色背景上，放置一张受顶部照片启发的小型居中矢量海报插画。插画包含 1 只白色卡通猫、左侧 1 个黑色笔记本电脑轮廓、猫眼上 2 张正方形卡通眼睛纸条，以及猫咪放在键盘上的爪子。使用清晰的橙色轮廓和扁平图形。在插画左上角添加大型垂直标题文本 {argument name="headline text" default="LOOK"}，使用高瘦的压缩橙色字体。在右侧添加一行小型堆叠说明文字 {argument name="side caption" default="GOOD THINGS AHEAD"}，旁边配有一条细黑色垂直线，下方配有一条短下划线。
+
+底部海报中的几何元素：包含 8 个抽象色块点缀：猫咪身后 1 个大型橙色矩形，猫咪右上角后方 1 个黄色圆形，与黄色圆形重叠的 1 个青蓝色正方形，上方 1 个微小的洋红色正方形，左下角 1 个小型青色正方形，其旁边 1 个小型黄色水平矩形，底部 1 条长黄色水平横条，以及该横条右端 1 个微小的蓝色矩形。在标题附近添加一个极简的黑色十字对齐标记。
+
+视觉风格：顶部面板应为写实暖色调摄影；底部面板应为受包豪斯风格启发的简洁几何海报艺术，采用橙色、黄色、青色、洋红色、黑色和白色。底部面板需保留充足的留白，边缘锐利，具有趣味性的编辑设计感，画面中不得出现额外的动物、多余的文字或水印。
+
+[English]
+Goal: Create a vertical two-panel design that transforms a cozy realistic cat photo into a minimalist geometric poster illustration.
+
+Canvas: Portrait 3:4 composition, 900 x 1200 style, split horizontally into exactly 2 panels. The top panel occupies about 52% of the height and is a warm realistic photograph; the bottom panel occupies about 48% and is an off-white gallery-poster illustration area.
+
+Top panel: Show one fluffy white cat sitting at a wooden desk in a warm home office. The cat faces forward behind one open silver laptop positioned on the left foreground, with the keyboard barely visible at the bottom edge. The cat has exactly 2 square white paper notes taped over its eyes, each note drawn with one simple black cartoon eye and short eyelashes, giving a funny wide-eyed look. Background is softly blurred with exactly 1 black office chair centered behind the cat, 1 leafy plant on the left, and 1 wooden bookshelf on the right with indistinct books and decor. Lighting is golden, soft, shallow depth of field, cozy indoor ambience, realistic fur detail.
+
+Bottom panel: On a clean off-white background, place a small centered vector poster illustration inspired by the top photo. The illustration contains exactly 1 white cartoon cat, exactly 1 black laptop silhouette on the left, exactly 2 square cartoon-eye notes over the cat's eyes, and the cat's paws on the keyboard. Use crisp orange outlines and flat graphic shapes. Add the large vertical headline text {argument name="headline text" default="LOOK"} in tall condensed orange letters at the upper left of the illustration. Add a small stacked caption on the right reading {argument name="side caption" default="GOOD THINGS AHEAD"}, with a thin black vertical line beside it and a short underline beneath it.
+
+Geometric elements in the bottom poster: Include exactly 8 abstract color-block accents: 1 large orange rectangle behind the cat, 1 yellow circle behind the top right of the cat, 1 cyan-blue square overlapping the yellow circle, 1 tiny magenta square above, 1 small cyan square at the lower left, 1 small yellow horizontal rectangle beside it, 1 long yellow horizontal bar along the bottom, and 1 tiny blue rectangle at the lower right end of that bar. Add a minimal black plus-sign registration mark near the headline.
+
+Visual style: Top panel should be realistic warm photography; bottom panel should be clean Bauhaus-inspired geometric poster art with orange, yellow, cyan, magenta, black, and white. Keep generous negative space in the bottom panel, sharp vector edges, playful editorial design, no extra animals, no extra text, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2097472773795012706) | 2026-09-08
+
+---
+
+### 🎴 例 7663：日式朋克海报 AI 对比
+
+![日式朋克海报 AI 对比](../images/%E6%97%A5%E5%BC%8F%E6%9C%8B%E5%85%8B%E6%B5%B7%E6%8A%A5%20AI%20%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张并排对比图，展示两张由 AI 生成的日式朋克/嘻哈杂志海报。左侧面板标注为 {argument name="left model label" default="GPT Image 2.0"}，右侧面板标注为 {argument name="right model label" default="GPT Image 2.5"}。画面应呈现出一种戏剧性的测试感，对比旧版图像模型与更具真实感的新版模型。
+
+画布：宽幅 3:2 横向构图，顶部设有黑色标题栏，下方为两个等大的垂直海报面板，中间由细分割线隔开。采用粗糙的灰白色新闻纸纹理、黑色油墨、做旧红色点缀以及高对比度的编辑海报设计。
+
+布局：共包含 2 个海报面板。左侧面板 1 展示一位半身拍摄的日本男歌手，真实感略低，一手将黑色麦克风靠近嘴边，另一手向观众伸出。右侧面板 2 展示相同概念，但具有更强的真实感和电影级景深：一位身穿黑色皮夹克的日本男歌手，表情强烈，麦克风置于嘴边，手部向镜头伸出，带有强烈的透视模糊效果。在右侧标题下方添加小字副标题“Sunburst”。
+
+主体：每个面板各描绘 1 位男歌手，总计 2 位歌手。他留着黑色短发，表情因卖力表演而汗流浃背，身穿黑色皮夹克内搭深色衬衫，佩戴银色戒指，手持黑色麦克风。姿势极具侵略性和沉浸感，仿佛正在舞台上对着观众嘶吼歌词。
+
+文字与排版：在两张海报中填满超大的日式编辑排版文字。布局中重复使用 6 个主要的日文标语元素：1) 顶部巨大的黑色标题 {argument name="main Japanese headline" default="黙ってた分、"}，2) 黑色短语“限界より先に、俺がいる。”，3) 红色短语“正解よりでかい、この声。”，4) 大号红色垂直文字“衝動”，5) 大号黑/红色垂直文字“轟音”，6) 底部巨大的红色标题 {argument name="bottom Japanese headline" default="音になれ。"}。周围环绕大量细小的日文正文栏、注释、箭头和细分割线，呈现出密集的音乐杂志排版风格；细小文字无需可读，但排版需看起来真实可信。
+
+视觉风格：日式地下音乐海报、朋克杂志、粗野主义排版、复印纸颗粒感、油墨晕染、做旧半色调、红色油漆飞溅、撕裂印刷瑕疵、电影级演唱会摄影、右侧面板需具有浅景深效果。左侧面板应看起来更扁平、真实感较弱；右侧面板应看起来更真实、立体且具有视觉冲击力。
+
+调色板：灰白色纸张、深黑色、深红色、细微的灰色阴影、肤色、亮黑色皮夹克高光。
+
+约束：保持双面板对比结构清晰。除两个模型标签和“Sunburst”小副标题外，不要添加额外的歌手、面板、Logo、水印或英文正文。保留日文标语作为海报上的可见文字。
+
+[English]
+Goal: Create a side-by-side comparison graphic showing two AI-generated Japanese punk/hip-hop magazine posters, with the left panel labeled {argument name="left model label" default="GPT Image 2.0"} and the right panel labeled {argument name="right model label" default="GPT Image 2.5"}. The image should feel like a dramatic test comparing an older image model with a newer, more realistic one.
+
+Canvas: Wide horizontal 3:2 composition, black header bar across the top, two equal vertical poster panels below separated by a thin divider. Use gritty off-white newsprint paper texture, black ink, distressed red accents, and high-contrast editorial poster design.
+
+Layout: There are exactly 2 poster panels. Panel 1 on the left shows a Japanese male vocalist photographed from the waist up, slightly lower realism, holding a black microphone near his mouth with one hand and reaching toward the viewer with the other. Panel 2 on the right shows the same concept with stronger realism and more cinematic depth: a Japanese male vocalist in a black leather jacket, intense facial expression, microphone at his mouth, hand thrust toward the camera with strong perspective blur. Add small subtitle text under the right header reading "Sunburst".
+
+Main subject: In each panel, depict exactly 1 male singer, for a total of 2 singers. He has short dark hair, a sweaty intense performance expression, a black leather jacket over a dark shirt, silver rings, and a handheld black microphone. The pose is aggressive and immersive, as if shouting lyrics directly at the viewer on stage.
+
+Text and typography: Fill both posters with oversized Japanese editorial typography. Use exactly 6 major visible Japanese slogan elements repeated across the layout: 1) huge black headline across the top reading {argument name="main Japanese headline" default="黙ってた分、"}, 2) black phrase "限界より先に、俺がいる。", 3) red phrase "正解よりでかい、この声。", 4) large red vertical word "衝動", 5) large black/red vertical word "轟音", 6) enormous red bottom headline {argument name="bottom Japanese headline" default="音になれ。"}. Surround these with many tiny Japanese body-copy columns, notes, arrows, and thin dividing rules like a dense music magazine layout; the tiny text does not need to be readable but should look typographically authentic.
+
+Visual style: Japanese underground music poster, punk zine, brutalist typography, photocopied paper grain, ink bleed, distressed halftone, red paint splatters, torn-print imperfections, cinematic concert photography, shallow depth of field especially on the right panel. Left panel should look flatter and less lifelike; right panel should look more realistic, dimensional, and visceral.
+
+Color palette: off-white paper, deep black, crimson red, subtle gray shadows, skin tones, glossy black leather highlights.
+
+Constraints: Keep the two-panel comparison structure clear. Do not add extra singers, extra panels, logos, watermarks, or English body text beyond the two model labels and the small "Sunburst" subtitle. Preserve the Japanese slogans as visible poster text.
+```
+
+**来源：** [@aicreataro](https://x.com/aicreataro/status/2097469938843959750) | 2026-09-08
+
+---
+
+### 🎴 例 7668：法文版 Clio 5 租车传单
+
+![法文版 Clio 5 租车传单](../images/%E6%B3%95%E6%96%87%E7%89%88%20Clio%205%20%E7%A7%9F%E8%BD%A6%E4%BC%A0%E5%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="NOVADRIVE"} 创建一份高端法文汽车租赁广告传单，推广 {argument name="car model" default="CLIO 5"}。采用现代蓝白企业风格、逼真的汽车摄影和简洁的平面设计。
+
+画布：竖版肖像传单，4:5 比例，高分辨率，设计风格类似于精致的社交媒体广告或印刷版租车传单。背景使用明亮的城市滨水区，配以现代建筑、蓝天和柔和的日光；画面下方中央停放着一辆逼真的亮蓝色紧凑型掀背车，呈现前侧 45 度视角。
+
+布局：左上角为 Logo 区域，品牌名称“NOVADRIVE”采用粗体海军蓝大写字母，下方用细横线隔开并标注“LOCATION”。下方为主标题：非常醒目的粗体法文“LOUEZ”，颜色为深海军蓝，随后是亮蓝色的“LA CLIO 5”。下方为较小的副标题：“Compacte, élégante et idéale au quotidien。”（紧凑、优雅，日常出行的理想之选）。在汽车场景左侧放置一个深海军蓝圆角倾斜价格标签，上方写着“À PARTIR DE”（起价），中间为巨大的“39€”，下方为“/ JOUR”（每天）。在汽车图像左下方添加一行白色手写体小字：“Bien plus qu’une location”（不仅仅是租赁）。
+
+主体：一辆逼真的雷诺风格蓝色紧凑型轿车，配有黑色格栅、锐利的 LED 前大灯、黑银双色轮毂，车牌显示“CLIO 5”，车身反光强烈，停放在水边和现代建筑旁的干净混凝土广场上。确保汽车占据主导地位且具有照片级真实感。
+
+建筑侧文字：在现代建筑立面上添加 3 个小型垂直排版块：1) “PLUS LOIN ENSEMBLE”，2) “LIBERTÉ MOBILITÉ SIMPLICITÉ”，3) “DE MEILLEURS TRAJETS POUR VOS PROJETS”，每项均使用小型大写白色或海军蓝字体，并配有细装饰线。
+
+优势部分：在汽车图像下方，创建一个白色横条，包含 4 个间距均匀的图标与标签列，并用细竖线分隔：1) 盾牌图标，“Assurance incluse”（含保险）；2) 速度计图标，“200 km / jour”（每天 200 公里）；3) 日历图标，“Disponible week-end & longue durée”（周末及长租可用）；4) 快速交车图标，“Livraison possible”（可送车上门）。在这些内容下方，添加一个淡蓝色圆角胶囊形标签，配有小叶子图标和大写文字：“RÉSERVATION RAPIDE • VÉHICULE RÉCENT • FAIBLE CONSOMMATION”（快速预订 • 车辆较新 • 低油耗）。
+
+底部行动呼吁栏：使用深海军蓝页脚，带有微妙的山脉或道路景观纹理。左侧放置一个大型圆角蓝色按钮，文字为 {argument name="call to action" default="RÉSERVEZ MAINTENANT →"}。中右侧显示 3 行带有白色线条图标的联系方式：电话“06 12 34 56 78”、电子邮件“contact@novadrive-location.fr”、Instagram“@novadrive.location”。最左下角为微小的白色文字：“Permis B requis • Caution demandée • Conditions sur demande”（需 B 类驾照 • 需押金 • 条件详询）。最右侧为一个窄框标语：“VOTRE MOBILITÉ EN TOUTE CONFIANCE”（您的出行，值得信赖），配有细装饰线。
+
+视觉风格：时尚的法文租车广告，大胆的几何无衬线字体，深海军蓝与电光蓝配色，高对比度，留白充裕，专业代理机构级布局，图标清晰，照片合成光影逼真，无杂乱元素，无随机装饰圆圈，除指定文字外不包含任何额外信息。
+
+[English]
+Goal: Create a premium French car rental advertising flyer for {argument name="brand name" default="NOVADRIVE"}, promoting {argument name="car model" default="CLIO 5"} with a modern blue-and-white corporate style, realistic automotive photography, and clean graphic design.
+
+Canvas: Vertical portrait flyer, 4:5 ratio, high-resolution, designed like a polished social media ad or printed rental flyer. Use a bright urban waterfront setting with modern architecture, blue sky, soft daylight, and a realistic glossy blue compact hatchback parked front three-quarter view in the lower center.
+
+Layout: Top-left logo area with the brand name “NOVADRIVE” in bold navy uppercase, with “LOCATION” spaced below between thin horizontal lines. Main headline below: very large bold French text “LOUEZ” in dark navy, then “LA CLIO 5” in vivid blue. Under it, smaller subtitle: “Compacte, élégante et idéale au quotidien.” Place a dark navy rounded angled price tag on the left side overlapping the car scene, reading “À PARTIR DE” above a huge “39€” and “/ JOUR” below. Add a small handwritten white script near the lower-left of the car image: “Bien plus qu’une location”.
+
+Main subject: A realistic Renault-style blue compact car with black grille, sharp LED headlights, black-and-silver wheels, license plate reading “CLIO 5”, strong reflections on the bodywork, parked on a clean concrete plaza beside water and modern buildings. Keep the car dominant and photorealistic.
+
+Right-side building text: Add exactly 3 small vertical typographic blocks on the modern building facade: 1) “PLUS LOIN ENSEMBLE”, 2) “LIBERTÉ MOBILITÉ SIMPLICITÉ”, 3) “DE MEILLEURS TRAJETS POUR VOS PROJETS”, each in small uppercase white or navy with thin decorative lines.
+
+Benefits section: Under the car image, create a white horizontal strip containing exactly 4 evenly spaced icon-and-label columns separated by thin vertical dividers: 1) shield icon, “Assurance incluse”; 2) speedometer icon, “200 km / jour”; 3) calendar icon, “Disponible week-end & longue durée”; 4) fast car delivery icon, “Livraison possible”. Below these, add a pale blue rounded pill with a small leaf icon and uppercase text: “RÉSERVATION RAPIDE • VÉHICULE RÉCENT • FAIBLE CONSOMMATION”.
+
+Bottom call-to-action band: Use a dark navy footer with a subtle mountain or road landscape texture. On the left, place a large rounded blue button reading {argument name="call to action" default="RÉSERVEZ MAINTENANT →"}. In the center-right, show exactly 3 contact rows with white line icons: phone “06 12 34 56 78”, email “contact@novadrive-location.fr”, Instagram “@novadrive.location”. At the very bottom-left in tiny white text: “Permis B requis • Caution demandée • Conditions sur demande”. On the far right, a narrow boxed slogan: “VOTRE MOBILITÉ EN TOUTE CONFIANCE” with thin decorative lines.
+
+Visual style: Sleek French rental advertisement, bold geometric sans-serif typography, deep navy and electric blue palette, high contrast, generous spacing, professional agency-grade layout, crisp icons, realistic photo-composite lighting, no clutter, no random decorative circles, no extra information beyond the specified text.
+```
+
+**来源：** [@Light Sekkuchi](https://x.com/LightSkkh/status/2097462055196414034) | 2026-09-08
+
+---
+
+### 🎴 例 7672：动漫月蚀女剑士海报
+
+![动漫月蚀女剑士海报](../images/%E5%8A%A8%E6%BC%AB%E6%9C%88%E8%9A%80%E5%A5%B3%E5%89%91%E5%A3%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="title text" default="月蝕綺譚"} 创作一张电影质感的动漫游戏公告主视觉图，画面主体为一位在暗色月蚀背景前、神情愉悦的年轻女剑士。
+
+画布：16:9 宽屏横向海报，1200x675 构图，深海军蓝夜空背景，搭配高对比度的红色与金色点缀。
+
+布局：将角色置于右半部分，取大腿中部以上构图，身体略微前倾，展现自信活力。左侧放置巨大的金属质感金色书法体日文标题，标题后方衬有红色新月形笔触，标题旁附带小型垂直排列的罗马音“LUNA OCCULTA”。在左下方以金色字体添加发布信息 {argument name="release date text" default="9月19日 正式リリース予定"}。画面中上偏左处展示一个巨大的黑色日蚀/月蚀圆盘，并带有发光的深红色日冕。
+
+主体细节：一位动漫女剑士，年龄在青少年至青年之间，笑容灿烂，棕色大眼睛，皮肤白皙，黑色长发扎成高马尾，向左侧飘逸，系着红色丝带，丝带的两条长尾在风中飘动。身穿鲜艳的粉色短袖和服式忍者/武士上衣，配黑色滚边，腰间系宽大的黑色腰带，并饰有小型金色绳结，下摆处可见深色内衬。双手横握一把武士刀于腰间；刀柄为黑色，带有精致的菱形缠绳，刀身/刀鞘向右下方延伸。
+
+可见元素计数：画面包含 1 名角色、1 把武士刀、1 条带有 2 条飘带尾的红色发带、1 个月蚀、1 个标题后的红色新月笔触、1 个垂直标题块、1 个小型垂直罗马音标签以及 1 行发布日期文字。场景中散布 24 片发光的粉色花瓣，最大的一簇位于右侧，少量花瓣飘落在标题附近；另添加 8 个微小的橙色火星以增加深度。
+
+视觉风格：精致的现代动漫插画，线条清晰，戏剧性的边缘光，饱和的粉色花瓣，亮面黑色发丝高光，微妙的风动感，暗黑奇幻宣传海报氛围，排版清晰易读，无水印，除指定文字外无任何 Logo。
+
+[English]
+Goal: Create a cinematic anime game announcement key visual for {argument name="title text" default="月蝕綺譚"}, featuring a cheerful young swordswoman in front of a dark lunar eclipse.
+
+Canvas: Wide 16:9 horizontal poster, 1200x675 composition, dark navy night-sky background with high contrast red and gold accents.
+
+Layout: Place the character on the right half, cropped from mid-thigh upward, leaning slightly forward with confident energy. Put the large vertical Japanese title on the left in metallic gold calligraphy, with a red crescent brushstroke behind it and small vertical romanization reading “LUNA OCCULTA” beside the title. Add the release line {argument name="release date text" default="9月19日 正式リリース予定"} in gold along the lower left. In the upper center-left, show one large black solar/lunar eclipse disk with a glowing crimson corona.
+
+Subject details: One anime swordswoman, teenage to young adult, bright smile, large brown eyes, fair skin, long black hair in a high ponytail flowing dramatically leftward, tied with a red ribbon whose two long tails stream in the wind. She wears a vivid pink short-sleeved kimono-style ninja/samurai top with black trim, a wide black obi belt tied with a small gold cord bow, black forearm guards, and a short dark underlayer visible at the hem. She grips one katana horizontally across her waist with both hands; the handle is black with subtle diamond wrapping and the blade/scabbard extends toward the lower right.
+
+Visible counted elements: Include exactly 1 character, 1 katana, 1 red hair ribbon with 2 trailing ribbon tails, 1 eclipse, 1 red crescent brushstroke behind the title, 1 vertical title block, 1 small vertical romanization label, and 1 release-date text line. Scatter exactly 24 glowing pink petal shapes across the scene, with the largest cluster on the right side and a few drifting near the title; add exactly 8 tiny orange ember flecks for depth.
+
+Visual style: Polished modern anime illustration, crisp linework, dramatic rim lighting, saturated pink petals, glossy black hair highlights, subtle wind motion, dark fantasy promotional poster atmosphere, clean readable typography, no watermark, no logos other than the specified text.
+```
+
+**来源：** [@🍺 イケハヤ@「月蝕綺譚」開発](https://x.com/IHayato/status/2097456425190711694) | 2026-09-08
+
+---
+
+### 🎴 例 7688：iPhone 18 宣传海报
+
+![iPhone 18 宣传海报](../images/iPhone%2018%20%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+生成 {argument name="产品" default="iphone 18"} 折叠屏手机的出促销海报
+```
+
+**来源：** [@Miko.AI](https://x.com/web4miko/status/2097422173090758982) | 2026-09-08
+
+---
+
+### 🎴 例 7690：复古夜班游戏猫邮票
+
+![复古夜班游戏猫邮票](../images/%E5%A4%8D%E5%8F%A4%E5%A4%9C%E7%8F%AD%E6%B8%B8%E6%88%8F%E7%8C%AB%E9%82%AE%E7%A5%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 1:1 的方形收藏级邮票艺术品，呈现复古印刷海报的美感。邮票展示了一只黑白燕尾服猫的背影及侧面，它坐在书桌前的红黑配色电竞椅上，戴着大型头戴式耳机，正在使用发光的红色机械键盘玩游戏，一只白色的爪子放在鼠标上。猫的前方是一个宽屏显示器，显示着小型的雪地或森林游戏景观，桌上还有一个类似网络摄像头的圆形设备和一个扬声器。左侧窗户可以看到黑暗的松树林和苍白的满月，旁边堆叠的文字写着“GOOD / GAMES / BRIGHTER / DAYS”。右侧堆叠的文字写着“PLAY / EXPLORE / BELONG”。将整张图像设计为带有齿状边缘的陈旧奶油色纸质邮票，具有做旧的墨水质感、半调颗粒感、轻微的套印偏差，以及深炭色阴影，配色采用柔和的奶油色、黑色、灰色和深红色。添加一个细的内部矩形边框。顶部使用醒目的粗体复古板衬线红色字体：{argument name="headline text" default="NIGHT SHIFT"}，下方配以较小的间距黑色文字：{argument name="subtitle text" default="HOME GAMER"}。底部边框处，居中的黑色文字写着 {argument name="bottom motto" default="FOCUSED AFTER DARK"}，两侧饰有红色星形装饰和短横线。在中央插画的右下角，添加面值 {argument name="stamp value" default="85¢"}，使用大号奶油色数字。保持构图如同 20 世纪中叶的纪念邮票，营造舒适的夜间游戏氛围，猫的剪影清晰可辨，无需现代照片级写实风格，不要添加额外角色，不要添加水印。
+
+[English]
+Create a single square 1:1 collectible postage-stamp artwork with a vintage printed-poster aesthetic. The stamp shows a black-and-white tuxedo cat seen from behind and slightly in profile, seated in a red-and-black gaming chair at a desk during nighttime, wearing large over-ear headphones and playing on a glowing red mechanical keyboard with one white paw on a mouse. In front of the cat is a wide monitor showing a small snowy or forest game landscape, with a webcam-like round device and a speaker on the desk. At left, a window reveals a dark pine forest and a pale full moon, with stacked text reading “GOOD / GAMES / BRIGHTER / DAYS.” At right, include stacked text reading “PLAY / EXPLORE / BELONG.” Design the whole image as an aged cream paper postage stamp with perforated scalloped edges, distressed ink texture, halftone grain, slight misregistration, dark charcoal shadows, muted cream, black, gray, and deep red accents. Add a thin inner rectangular border. At the top, use large bold vintage slab-serif red lettering: {argument name="headline text" default="NIGHT SHIFT"}, with smaller spaced black text below: {argument name="subtitle text" default="HOME GAMER"}. At the bottom border, centered black text reads {argument name="bottom motto" default="FOCUSED AFTER DARK"}, flanked by red star ornaments and short horizontal rules. In the lower-right corner of the central illustration, add the denomination {argument name="stamp value" default="85¢"} in large cream numerals. Keep the composition like a mid-century commemorative stamp, cozy nocturnal gaming mood, crisp recognizable cat silhouette, no modern photorealism, no extra characters, no watermark.
+```
+
+**来源：** [@Victor.](https://x.com/victorpfreitas/status/2097421392627073237) | 2026-09-08
+
+---
+
+### 🎴 例 7702：VOXCAT 复古丝网印刷海报
+
+![VOXCAT 复古丝网印刷海报](../images/VOXCAT%20%E5%A4%8D%E5%8F%A4%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="人物"}，复古丝网印刷时装插画 × 独立出版海报 × 几何人物设计 × VOXCAT 品牌视觉。
+
+保留角色最具辨识度的发型轮廓、主色调、服装特征与代表性配件，但重新设计为简洁现代的时装造型。人物比例自然偏修长，采用侧身站立、倚靠、转身、回望、抱臂或手持角色道具等静态 Editorial 姿态，根据角色气质自动适配动作。
+
+画面使用 3～4 种高识别专色，以角色代表色建立主色体系，采用硬边平涂、粗颗粒半调网点、丝网印刷墨层、轻微套印错位、局部油墨堆积与纸张纤维纹理。人物轮廓粗而几何，细节高度概括，以大色块和剪影塑造身体与服装，不使用柔和数字水粉效果。
+
+背景采用非对称几何构成，以大面积圆形、矩形、弧线、裁切色块和留白组织版面，让人物与几何图形产生遮挡、穿插与越界关系，形成 1960s–1970s 复古商业印刷 × 当代独立艺术海报气质。
+
+融入 VOXCAT 品牌元素：左上角加入简洁的 stylized “V” × 猫耳/猫尾几何图形 Logo；右下角加入小型手写艺术家签名 “voxCAT”；人物服装根据造型自然加入一处低调 VOXCAT 织标、刺绣暗纹或微型金属铭牌；版面可加入极少量 “VOXCAT / VC / V×C” 微型印刷编号作为设计元素，与丝网印刷系统统一，不喧宾夺主。
+
+竖版人物主视觉，大面积留白，3～4色专色印刷，粗网点，套印偏移，纸张颗粒，几何色块，强剪影，简洁而具有收藏级独立艺术印刷品质感。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2097410766118977836) | 2026-09-08
+
+---
+

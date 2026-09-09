@@ -20874,3 +20874,169 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ---
 
+### 🎨 例 7686：赛博朋克风格下在布达佩斯玩耍的约克夏犬
+
+![赛博朋克风格下在布达佩斯玩耍的约克夏犬](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E4%B8%8B%E5%9C%A8%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E7%8E%A9%E8%80%8D%E7%9A%84%E7%BA%A6%E5%85%8B%E5%A4%8F%E7%8A%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一只 {argument name="breed" default="约克夏犬"} 正在 {argument name="location" default="布达佩斯"} 玩 {argument name="object" default="它的球"}
+
+[English]
+A {argument name="breed" default="yorkie"} playing with {argument name="object" default="his ball"} in {argument name="location" default="Budapest"}
+```
+
+**来源：** [@Gael Breton](https://x.com/GaelBreton/status/2097427507712528468) | 2026-09-08
+
+---
+
+### 🎨 例 7695：模拟时钟与汉堡基准测试
+
+![模拟时钟与汉堡基准测试](../images/%E6%A8%A1%E6%8B%9F%E6%97%B6%E9%92%9F%E4%B8%8E%E6%B1%89%E5%A0%A1%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个显示 {argument name="time" default="15:32"} 的模拟时钟 [非数字时钟，且不得显示其他时间]，一个带有烤 {argument name="cheese" default="金黄色波萝伏洛干酪"} 的汉堡，以及一杯 {argument name="beverage" default="斟满的红酒"}。
+
+[English]
+Create an analog clock reading {argument name="time" default="15:32"} [Not digital and no other time], a {argument name="food" default="burger with grilled golden provolone cheese"}, and a {argument name="drink" default="glass of red wine filled to the brim"}.
+```
+
+**来源：** [@Federico Lix Klett](https://x.com/FedericoLKG/status/2097413362841784521) | 2026-09-08
+
+---
+
+### 🎨 例 7699：吉翁机动战士插画
+
+![吉翁机动战士插画](../images/%E5%90%89%E7%BF%81%E6%9C%BA%E5%8A%A8%E6%88%98%E5%A3%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="テーマ" default="ジオンのMS"}思いつくだけ描いてみようか！
+```
+
+**来源：** [@ビームマンＰ ver40](https://x.com/BeamManP/status/2097411515318247770) | 2026-09-08
+
+---
+
+### 🎨 例 7703：Glass Octopus 模型对比
+
+![Glass Octopus 模型对比](../images/Glass%20Octopus%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张方形分屏对比图，展示两个照片级逼真的玻璃章鱼雕塑，上下排列，放置在暖色石质底座上，背景为浓郁的橙色，强调昂贵的半透明玻璃质感、焦散光影以及章鱼头部内部微小的礁石细节。
+
+画布：1:1 方形图像，精确分为 2 个等高的水平面板。面板之间无间隙。两个面板均使用相同的暖橙色灰泥质感背景，配有柔和的对角线阳光和阴影图案。
+
+顶部面板：展示一个高度抛光的透明绿松石蓝玻璃章鱼雕塑，放置在米色大理石或石灰岩块上。章鱼必须有 8 条清晰可见的触手，每条触手优雅地卷曲，带有深钴蓝色尖端和成排的圆形透明吸盘。球状头部是一个透明的玻璃水族箱，内含微型珊瑚礁场景：白色分枝珊瑚、红色海扇珊瑚、绿色海草、沙子、贝壳、2 条橙白相间的小丑鱼和 1 条黄色海马。在玻璃中加入许多微小的气泡和明亮的镜面高光。强烈的阳光应在石头上投射出复杂的蓝绿色焦散反射。在石块正面，放置一块刻有文字的小型仿古黄铜铭牌：OCEAN No. 08。在右上角，添加一个带有粗体黑色文字的圆形白色标签：{argument name="top label" default="GPT-2.5"}。
+
+底部面板：展示一个类似的透明绿松石蓝玻璃章鱼雕塑，放置在圆形的米色石质底座上，但造型略显逊色，且布满了珠状吸盘和螺旋状触手。它也必须有 8 条清晰可见的触手，卷曲成环状和螺旋状。玻璃主体应包含微小气泡和蓝色高光。其透明头部包含一个微型礁石场景，内有白色珊瑚、红色海扇珊瑚、绿色海草、沙子、贝壳、1 条橙白相间的小丑鱼和 1 条黄色海马。在石头上添加发光的蓝绿色焦散光，但形状和礁石细节应比顶部面板略显粗糙。在底座正面，包含一块刻有 OCEAN No. 08 的小型黄铜铭牌。在右上角，添加一个带有粗体黑色文字的圆形白色标签：{argument name="bottom label" default="GPT-2.0"}。
+
+视觉风格：超写实微距产品摄影、高端艺术玻璃雕塑、光泽透明硼硅酸盐外观、青色与深蓝色渐变、清晰的反射、昂贵的画廊灯光、浅景深、礁石与石材纹理的高细节表现、暖橙色互补背景。
+
+约束条件：图像必须包含 2 个带标签的面板，总共 2 个玻璃章鱼雕塑，且每条章鱼必须有 8 条清晰可见的触手。两个底座上均需保留铭牌文字 OCEAN No. 08。除指定的小丑鱼和海马外，不得添加其他动物。
+
+[English]
+Goal: Create a square split-screen comparison image showing two photorealistic glass octopus sculptures, one above the other, on warm stone pedestals against a rich orange background, emphasizing expensive translucent glass, caustic light, and tiny reef details inside the octopus head.
+
+Canvas: 1:1 square image, divided into exactly 2 horizontal panels of equal height. No gap between panels. Both panels use the same warm orange plaster-like backdrop with soft diagonal sunlight and shadow patterns.
+
+Top panel: Show a highly polished transparent turquoise-blue glass octopus sculpture on a beige marble or limestone block. The octopus must have exactly 8 visible arms, each curling gracefully with deep cobalt-blue tips and rows of round clear suction cups. The bulbous head is a clear glass aquarium containing a miniature coral reef scene: white branching coral, red sea fan coral, green sea grass, sand, shells, exactly 2 orange-and-white clownfish, and 1 yellow seahorse. Add many tiny air bubbles and bright specular highlights throughout the glass. Strong sunlight should create intricate aqua caustic reflections across the stone. On the front of the stone block, place a small aged brass plaque with engraved text: OCEAN No. 08. In the top-right corner, add a rounded white label with bold black text: {argument name="top label" default="GPT-2.5"}.
+
+Bottom panel: Show a similar transparent turquoise-blue glass octopus sculpture on a rounded beige stone pedestal, but slightly less elegant and more crowded with beaded suction cups and spiraling tentacles. It must also have exactly 8 visible arms, curled into loops and spirals. The glass body should contain tiny bubbles and blue highlights. Its clear head contains a miniature reef scene with white coral, red sea fan coral, green sea grass, sand, shells, exactly 1 orange-and-white clownfish, and 1 yellow seahorse. Add glowing aqua caustic light on the stone, but make the shape and reef slightly less refined than the top panel. On the front of the pedestal, include a small brass plaque reading: OCEAN No. 08. In the top-right corner, add a rounded white label with bold black text: {argument name="bottom label" default="GPT-2.0"}.
+
+Visual style: Ultra-realistic macro product photography, premium art-glass sculpture, glossy transparent borosilicate look, cyan and deep blue gradients, crisp reflections, expensive gallery lighting, shallow depth of field, high detail in the reef and stone texture, warm orange complementary background.
+
+Constraints: The image must contain exactly 2 labeled panels, exactly 2 glass octopus sculptures total, and each octopus must have exactly 8 visible arms. Preserve the plaque text OCEAN No. 08 on both pedestals. Do not add extra animals beyond the specified clownfish and seahorses.
+```
+
+**来源：** [@Ivana](https://x.com/ivanainai/status/2097410244032835933) | 2026-09-08
+
+---
+
+### 🎨 例 7707：GPT Image 2 与 2.5 太空场景对比
+
+![GPT Image 2 与 2.5 太空场景对比](../images/GPT%20Image%202%20%E4%B8%8E%202.5%20%E5%A4%AA%E7%A9%BA%E5%9C%BA%E6%99%AF%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张垂直社交媒体对比图，展示同一科幻场景的两个电影级 AI 生成图像，强调版本之间艺术指导的提升。
+
+画布：2:3 纵向比例，黑色背景，高对比度电影级呈现，带有宽屏遮幅图像条。采用堆叠布局，包含 2 个由粗黑色带分隔的宽屏科幻图像面板。
+
+布局：顶部面板：占据上方的宽屏电影级太空景观。下方的中心带包含大号白色标签“{argument name="top label" default="GPT IMAGE 2"}”。底部面板：占据中下方的第二个宽屏电影级太空景观。底部带包含大号白色标签“{argument name="bottom label" default="GPT IMAGE 2.5"}”。排版需居中，使用高挑的压缩无衬线字体，全大写，白色，简洁，并在黑色背景下略带发光效果。
+
+各面板场景内容：两个面板展示相同的构图：一名男子背对镜头，站在类似月球的岩石表面，望向占据天空右侧的一颗巨大的绿色类地行星。男子位于中左侧，身穿白色短袖衬衫、黑色马甲、深色长裤和白色运动鞋。地形为灰色，布满陨石坑和参差不齐的岩石。背景是深邃的外太空，点缀着恒星、星云、小卫星和零星的陨石。明亮的太阳耀斑出现在巨大绿色行星的右边缘附近。
+
+面板差异：顶部面板应看起来稍暗、更粗糙、精细度较低，带有绿色调，氛围更混乱、打磨感较弱。底部面板应看起来更精致、更锐利、更平衡，具有更丰富的蓝色太空色调、更好的光线方向、更清晰的构图、更锐利的岩石、更强的行星细节以及更具电影感的镜头光晕。
+
+需包含的独立可见元素：共 2 个图像面板；共 2 个文本标签；每个面板 1 个人物，共 2 个人物；每个面板 1 颗大型绿色行星，共 2 颗大型行星；每个面板 2 个社交媒体图标，共 4 个图标。在两个面板中，将两个图标放置在男子左侧：一个红色的 YouTube 播放按钮图标和一个粉紫色 Instagram 相机图标，图标需在太空中略微发光并悬浮。
+
+视觉风格：超宽电影级科幻概念艺术，照片级数字绘景，戏剧性轮廓光，高细节，强景深，黑色遮幅，海报式对比布局，无水印，除两个版本标签外无额外说明文字。使用 {argument name="main color palette" default="翡翠绿行星、蓝黑色太空、灰色月球岩石、白色排版"}。
+
+[English]
+Goal: Create a vertical social-media comparison graphic showing two cinematic AI-image generations of the same sci-fi scene, emphasizing improved art direction between versions.
+
+Canvas: Portrait 2:3 format, black background, high-contrast cinematic presentation with wide letterboxed image strips. Use a stacked layout with exactly 2 panoramic sci-fi image panels separated by thick black bands.
+
+Layout: Top panel: a wide cinematic space landscape occupying the upper third. Center band below it contains the large white label “{argument name="top label" default="GPT IMAGE 2"}”. Bottom panel: a second wide cinematic space landscape occupying the middle-lower third. Bottom band contains the large white label “{argument name="bottom label" default="GPT IMAGE 2.5"}”. Keep the typography centered, tall condensed sans-serif, all caps, white, clean, and glowing slightly against black.
+
+Scene content in each panel: Show the same composition in both panels: one man viewed from behind, standing on a rocky moon-like surface, looking toward a huge green Earth-like planet filling the right side of the sky. The man is centered-left, wearing a white short-sleeve shirt, black vest, dark pants, and white sneakers. The terrain is gray, cratered, and covered with jagged rocks. The background is deep outer space with stars, nebula clouds, small moons, and scattered asteroids. A bright sun flare appears near the right edge of the large green planet.
+
+Panel differences: The top panel should look slightly darker, rougher, less refined, with a greener color cast and a more chaotic, lower-polish atmosphere. The bottom panel should look more polished, sharper, more balanced, with richer blue space tones, better light direction, clearer composition, crisper rocks, stronger planet detail, and a more cinematic lens flare.
+
+Discrete visible elements to include: exactly 2 image panels; exactly 2 text labels; exactly 1 human figure in each panel, for 2 total human figures; exactly 1 large green planet in each panel, for 2 total large planets; exactly 2 social media icons in each panel, for 4 total icons. In both panels, place the two icons to the left of the man: a red YouTube play-button icon and a pink-purple Instagram camera icon, glowing slightly and floating in space.
+
+Visual style: Ultra-wide cinematic sci-fi concept art, photorealistic digital matte painting, dramatic rim lighting, high detail, strong depth, black letterbox bands, poster-like comparison layout, no watermark, no extra captions beyond the two version labels. Use {argument name="main color palette" default="emerald green planets, blue-black space, gray lunar rocks, white typography"}.
+```
+
+**来源：** [@Light Sekkuchi](https://x.com/LightSkkh/status/2097406699627774303) | 2026-09-08
+
+---
+
+### 🎨 例 7713：狗狗咖啡馆和纸胶带拼贴画
+
+![狗狗咖啡馆和纸胶带拼贴画](../images/%E7%8B%97%E7%8B%97%E5%92%96%E5%95%A1%E9%A6%86%E5%92%8C%E7%BA%B8%E8%83%B6%E5%B8%A6%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 垂直比例的剪贴簿和纸胶带拼贴艺术作品，展现温馨的咖啡馆早餐场景。画布：将图像水平分为两半。上半部分为写实的暖色调照片：一只金毛寻回犬将下巴搁在质朴的木桌上，渴望地看着前景中的早餐盘；盘子里有吐司配太阳蛋、叶菜沙拉、红番茄块和牛油果；右侧是一杯透明的冰咖啡，内含冰块和黑色吸管；背景是柔和虚化的居家咖啡馆室内，可见架子、植物、窗光和晨曦。下半部分为米白色纹理的手工纸背景，将同一场景重构为撕纸胶带拼贴画，而非照片的直接复制。每个主要主体使用约 10–18 片可见的撕裂和纸碎片，搭配半透明米色美纹纸胶带条、不规则边缘、层叠纸张纹理和柔和的水彩感色彩。下方的拼贴画中需包含 4 个主要插画元素：1 个从桌缘探出头的金毛寻回犬头部、1 个装有蛋吐司和蔬菜的早餐盘、1 杯带吸管的冰咖啡，以及左侧 1 个写有 {argument name="caption text" default="Good Food"} 的小标签。狗狗应位于中左侧，使用柔和的棕褐色和奶油色纸片，深色纸片表现眼睛和鼻子；盘子应位于下方中心，带有蓝色边缘；饮料应位于右侧，使用棕色咖啡块和深色吸管。在狗狗上方添加 2 个小型米色装饰胶带标记，并在文字附近添加一条水平胶带。风格：极简主义日式手账拼贴、手工撕裂美纹纸胶带、温暖自然光、柔和阴影、触感纸张纹理，充满魅力与温馨感。可通过 {argument name="dog breed" default="golden retriever"}、{argument name="main food" default="sunny-side-up egg on toast with salad"}、{argument name="drink" default="iced coffee with a black straw"} 以及 {argument name="setting" default="sunlit rustic home café"} 自定义场景。约束条件：3:4 垂直构图，上半部分为写实照片，下半部分为纸胶带重构，无额外人物，无水印，保持下方拼贴画简洁，主体周围留有充足的空白纸张。
+
+[English]
+Create a 3:4 vertical scrapbook washi-tape collage artwork from a cozy café breakfast scene. Canvas: split the image into two horizontal halves. The upper half is a realistic warm photo: a golden retriever rests its chin on a rustic wooden table, looking longingly at a breakfast plate in the foreground; the plate contains toast with a sunny-side-up egg, leafy salad, red tomato pieces, and avocado; on the right is a clear glass of iced coffee with ice cubes and a black straw; the background is a softly blurred home café interior with shelves, plants, window light, and morning sunlight. The lower half is an off-white textured handmade-paper background recreating the same scene as a torn paper tape collage, not a direct photo copy. Use about 10–18 visible torn washi-paper fragments per major subject, with semi-transparent beige masking-tape strips, irregular edges, layered paper texture, and muted watercolor-like colors. Include exactly 4 main illustrated components in the lower collage: 1 golden retriever head peeking over the table edge, 1 breakfast plate with egg toast and greens, 1 iced coffee glass with straw, and 1 small text label reading {argument name="caption text" default="Good Food"} on the left. The dog should be centered-left with soft tan and cream paper pieces, dark paper eyes and nose; the plate should sit along the lower center with a blue rim; the drink should stand on the right with brown coffee blocks and a dark straw. Add exactly 2 small beige decorative tape marks above the dog and one horizontal tape strip near the text. Style: minimalist Japanese journal collage, handmade torn masking tape, warm natural lighting, soft shadows, tactile paper grain, charming and cozy. Customize the scene with {argument name="dog breed" default="golden retriever"}, {argument name="main food" default="sunny-side-up egg on toast with salad"}, {argument name="drink" default="iced coffee with a black straw"}, and {argument name="setting" default="sunlit rustic home café"}. Constraints: vertical 3:4 composition, top half realistic photo, bottom half paper-tape reconstruction, no extra people, no watermark, keep the lower collage clean with ample blank paper around the subjects.
+```
+
+**来源：** [@Jacky.Design](https://x.com/face_ui/status/2097355606806155596) | 2026-09-08
+
+---
+
+### 🎨 例 7714：粗粝恐怖朋克拼贴风格
+
+![粗粝恐怖朋克拼贴风格](../images/%E7%B2%97%E7%B2%9D%E6%81%90%E6%80%96%E6%9C%8B%E5%85%8B%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+粗粝的 {argument name="style" default="horror-punk"} 拼贴画，采用新闻纸、撕纸、静电复印颗粒以及 {argument name="color" default="blood-red"} 油漆效果。
+
+[English]
+gritty {argument name="style" default="horror-punk"} collage in newsprint, torn paper, xerox grain, and {argument name="color" default="blood-red"} paint.
+```
+
+**来源：** [@D](https://x.com/D_the_Designer/status/2097354284245426444) | 2026-09-08
+
+---
+

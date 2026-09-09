@@ -68959,3 +68959,225 @@ Create a high-quality cinematic vertical smartphone photo of {argument name="cha
 
 ---
 
+### 📷 例 7666：中世纪城市卫星地图
+
+![中世纪城市卫星地图](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E5%9F%8E%E5%B8%82%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为写实景观/细节基础，以 REFERENCE_1 作为城市布局和草图/世界观构建参考，将场景转换为 {argument name="style request" default="人工卫星から撮影したGoogleマップのような写真。"}。请将其渲染为真实的垂直俯视卫星图像，类似于 Google 地图的截图，而非倾斜的奇幻插画。在保持原有中世纪城市布局的同时，使其看起来具有真实的地理质感。
+
+保留 5 个主要布局元素，确保其可辨识：1) 椭圆形/圆形的城墙轮廓，2) 左上方山丘上的大型城堡区，3) 中央大教堂和放射状广场，4) 右上方/背景区域的湖泊，以及 5) 沿下边缘弯曲并带有桥梁/城门的河流或护城河。
+
+风格：具有自然地形纹理的写实卫星影像，采用柔和的大地色调，包含细小的屋顶网格、街道、植被、水域、田野以及真实的空气清晰度。移除 REFERENCE_0 中近景的塔楼视角，消除绘画感/奇幻透视。最终效果应呈现为一张真实的 {argument name="city type" default="中欧中世纪城墙城市"} 俯视地图照片，具备可信的比例和城市密度。
+
+[English]
+Using REFERENCE_0 as the realistic landscape/detail base and REFERENCE_1 as the city-layout and sketch/worldbuilding reference, transform the scene into {argument name="style request" default="人工衛星から撮影したGoogleマップのような写真。"} Render it as a true vertical top-down satellite image, like a Google Maps capture, not an oblique fantasy illustration. Preserve the invented medieval city arrangement while making it look geographically real.
+
+Keep exactly 5 major layout elements recognizable: 1) the walled oval/rounded city footprint, 2) the large castle district on the upper-left hill, 3) the central cathedral and radial plaza, 4) the lake in the upper-right/background area, and 5) the river or moat curving around the lower edge with a bridge/gate approach.
+
+Style: photorealistic satellite imagery with natural terrain textures, muted earth colors, tiny roof grids, streets, vegetation, water, fields, and realistic atmospheric clarity. Remove the close foreground tower viewpoint from REFERENCE_0 and eliminate painterly/fantasy perspective. The result should feel like an authentic overhead map photo of {argument name="city type" default="a Central European medieval walled city"}, with believable scale and urban density.
+```
+
+**来源：** [@のとろ](https://x.com/notoro_ai/status/2097465187184082953) | 2026-09-08
+
+---
+
+### 📷 例 7669：复古超现实椅子肖像
+
+![复古超现实椅子肖像](../images/%E5%A4%8D%E5%8F%A4%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%A4%85%E5%AD%90%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 REFERENCE_0 作为粗略构图草图，将其转化为一张精致的超现实影棚肖像。保持整体布局不变：一个巨大的圆形有机椅子形状填满画面，中心坐着一个斜倚的人物，草图中标注物体的位置各放置一个小设备。将其渲染为高端复古编辑摄影作品，在深色无缝背景上呈现戏剧性的柔和光影。
+
+主体与构图：在椅子的中心凹陷处放置 1 位坐着的人：{argument name="character description" default="一位穿着薰衣草色西装、神情严肃的中年蓄须男子"}。姿态放松且自信，双腿交叉，向后倚靠在椅子上。
+
+椅子：将草图中的色块替换为 {argument name="chair design" default="一把超大号的毛绒红色雕塑感椅子，形状像嘴唇或心脏，带有圆润的花瓣状靠垫"}。使其呈现天鹅绒质感，柔软且巨大，居中放置，并带有可见的靠垫缝线和深邃的阴影。
+
+添加物体：按照草图位置包含 2 个复古电子设备：椅子左扶手上放置 1 个带有按钮和旋钮的金色控制面板，椅子右扶手上放置 1 个米色小型 CRT 显示器终端。
+
+风格：{argument name="visual style" default="1980 年代超现实时尚编辑摄影"}，逼真的织物纹理，电影级影棚灯光，浓郁的红色，深黑绿色背景，方形至竖向肖像裁剪。
+
+文字：仅在底部中心添加一个微小的签名标签，内容为 {argument name="signature text" default="S_SOUL"}。避免添加多余的文字、Logo 或其他人物。
+
+[English]
+Using REFERENCE_0 as a rough composition sketch, turn it into a polished surreal studio portrait. Keep the same overall layout: a large rounded organic chair shape filling the frame, a single seated figure reclining in the center, and one small device on each side where the sketch indicates objects. Render it as a high-end retro editorial photograph with dramatic soft lighting on a dark seamless background.
+
+Subject and composition: Place exactly 1 seated person in the central hollow of the chair: {argument name="character description" default="a serious bearded middle-aged man in a lavender suit"}. Pose him relaxed and confident, legs crossed, leaning back into the chair.
+
+Chair: Replace the sketched blob with {argument name="chair design" default="an oversized plush red sculptural chair shaped like lips or a heart, with rounded petal-like cushions"}. Make it velvety, soft, enormous, and centered, with visible cushion seams and deep shadows.
+
+Added objects: Include exactly 2 retro electronic devices positioned according to the sketch: 1 gold control panel with buttons and dials on the left arm of the chair, and 1 beige small CRT monitor terminal on the right arm of the chair.
+
+Style: {argument name="visual style" default="1980s surreal fashion editorial photography"}, realistic fabric texture, cinematic studio lighting, rich red color, dark black-green background, square-to-vertical portrait crop.
+
+Text: Add only a tiny bottom-center signature label reading {argument name="signature text" default="S_SOUL"}. Avoid extra text, logos, or additional people.
+```
+
+**来源：** [@Synthetic_soul](https://x.com/Synthetic_Copy/status/2097461076866560320) | 2026-09-08
+
+---
+
+### 📷 例 7674：韩国超市购物抓拍
+
+![韩国超市购物抓拍](../images/%E9%9F%A9%E5%9B%BD%E8%B6%85%E5%B8%82%E8%B4%AD%E7%89%A9%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖屏智能手机风格照片，捕捉在韩国超市购物的抓拍瞬间。一位留着 {argument name="hair color" default="深棕色齐肩发"} 的年轻女性蹲在麦片和格兰诺拉麦片货架旁，戴着一顶压得很低的 {argument name="hat color" default="红色"} 棒球帽，身穿一件略显宽松的白色罗纹长袖亨利衫、浅蓝色阔腿牛仔裤、米色鞋底的白色运动鞋，背着一个纤细的黑色单肩包。她侧身向右看，左臂伸向地上的黑色塑料购物篮；篮子里装着可见的杂货，侧面印有白色的“emart”标志。场景中仅包含一位主要购物者、一个黑色购物篮、两位背景中的购物者、一辆背景中的购物车、一个醒目的上方过道指示牌（标有数字 6 和韩文分类文字）、一个写着“2,980”的价格标签，以及摆满贴有韩文标签的麦片、格兰诺拉麦片、零食和包装食品袋的长货架。采用自然的消费者手机抓拍风格，构图略显随意，呈现真实的室内荧光灯照明、轻微的动态模糊、中性色调、光亮的灰色超市地面反射、深邃的过道透视感以及真实的日常细节。使其看起来像是一张随意的买家秀或超市社交媒体照片，而非摄影棚时尚大片。无美颜灯光，无夸张姿势，无人工痕迹的皮肤质感，无多余人物，无水印。
+
+[English]
+Create a realistic vertical smartphone photo of a candid grocery-store shopping moment in a Korean supermarket. A young woman with {argument name="hair color" default="dark brown shoulder-length hair"} is crouching low beside the cereal and granola aisle, wearing a {argument name="hat color" default="red"} baseball cap pulled low over her face, a slightly loose white ribbed long-sleeve henley top, light blue wide-leg jeans, white sneakers with beige soles, and a slim black shoulder bag. She is turned in side profile looking to the right, with her left arm extended toward a black plastic shopping basket on the floor; the basket contains visible groceries and has the white “emart” logo on the side. The scene contains exactly one main shopper, one black basket, two background shoppers, one shopping cart in the background, one prominent overhead aisle sign with the number 6 and Korean category text, one visible price sign reading “2,980,” and long shelves packed with cereal, granola, snack, and packaged food bags with Korean labels. Use a natural consumer-phone snapshot style, slightly imperfect framing, realistic indoor fluorescent lighting, mild motion softness, neutral colors, glossy gray supermarket floor reflections, deep aisle perspective, and authentic everyday details. Make it look like a casual buyer-show or store social media photo rather than a studio fashion shoot. No glamour lighting, no exaggerated posing, no artificial-looking skin, no extra people, no watermark.
+```
+
+**来源：** [@虎小象](https://x.com/hx831126/status/2097453683609137635) | 2026-09-08
+
+---
+
+### 📷 例 7684：选择性标题布局编辑
+
+![选择性标题布局编辑](../images/%E9%80%89%E6%8B%A9%E6%80%A7%E6%A0%87%E9%A2%98%E5%B8%83%E5%B1%80%E7%BC%96%E8%BE%91.jpg)
+
+**Prompt:**
+
+```text
+{argument name="変更対象" default="見出し"}だけ変えて。写真も切り抜きも本文もそのまま
+```
+
+**来源：** [@🗯️RelaxBeatsLab™︎](https://x.com/RBLabQ/status/2097432676609482789) | 2026-09-08
+
+---
+
+### 📷 例 7693：电影感太空自拍肖像
+
+![电影感太空自拍肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%A4%AA%E7%A9%BA%E8%87%AA%E6%8B%8D%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的方形电影感自拍肖像，主体为 {argument name="subject" default="一位橄榄色皮肤、留着深色凌乱卷发、修剪整齐的黑色胡须和八字胡的年轻男子"}。采用低角度仰拍，画面主体从胸部到前额占据大部分构图，表情严肃中性，双唇紧闭。他戴着超大号透明长方形醋酸纤维墨镜，镜片为绿色镜面，身穿白色圆领 T 恤，外搭黑色战术风格背心或背包背带，可见明显的绑带和搭扣。镜面反射出充满活力的超现实景观，呈现出绿色地形和明亮光线，仿佛墨镜中藏着一个小型的科幻世界。将他置于外太空中，背景是戏剧性的深蓝色星空，点缀着发光的星云、无数小恒星，左下方有一颗巨大的蓝色行星或类似地球的地平线向上弯曲，左上方有一颗暗月，右侧有一颗较小的卫星。使用清晰的照片级皮肤纹理、细腻的胡须细节、墨镜上的光泽反射，强调强烈的电影感对比，行星投射出冷色调的蓝色轮廓光，面部带有微妙的暖色高光，呈现 8k 超高清画质，无文字，无水印，无头盔，无其他人物。
+
+[English]
+Create a hyper-realistic square cinematic selfie portrait of {argument name="subject" default="a young adult man with olive skin, dark wavy messy hair, a full trimmed black beard and mustache"} shot from a low upward angle, filling most of the frame from chest to forehead, with a serious neutral expression and lips closed. He wears oversized transparent rectangular acetate sunglasses with green mirrored lenses, a white crew-neck T-shirt, and a black tactical-style vest or backpack harness with visible straps and buckles. The mirrored lenses reflect a vivid surreal landscape with green terrain and bright light, like a tiny sci-fi world inside the glasses. Place him in outer space against a dramatic deep-blue star field with glowing nebula clouds, countless small stars, one large blue planet or Earth-like horizon curving up from the lower left, one dark moon near the upper left, and one smaller moon on the right. Use crisp photoreal skin texture, detailed beard hairs, glossy reflections on the sunglasses, strong cinematic contrast, cool blue rim lighting from the planets, subtle warm highlights on the face, ultra-detailed 8k look, no text, no watermark, no helmet, no extra people.
+```
+
+**来源：** [@Light Sekkuchi](https://x.com/LightSkkh/status/2097419867037041051) | 2026-09-08
+
+---
+
+### 📷 例 7696：发型分析对比肖像
+
+![发型分析对比肖像](../images/%E5%8F%91%E5%9E%8B%E5%88%86%E6%9E%90%E5%AF%B9%E6%AF%94%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用此肖像创建一个 {argument name="task" default="发型分析图"}。展示并排的 {argument name="subject" default="发型"} 对比，以突出显示哪些 {argument name="plural_subject" default="发型"} 最适合该主体
+
+[English]
+Create a {argument name="task" default="hairstyle analysis graphic"} using this portrait. Show side-by-side {argument name="subject" default="hairstyle"} comparisons to highlight which {argument name="plural_subject" default="hairstyles"} suit the subject best
+```
+
+**来源：** [@Veee](https://x.com/vikktorrrre/status/2097413100677022138) | 2026-09-08
+
+---
+
+### 📷 例 7706：混合媒介街头时尚肖像
+
+![混合媒介街头时尚肖像](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的混合媒介街头时尚拼贴肖像，主角为 {argument name="character description" default="一位自信的年轻女性，留着深棕色长波浪卷发，拥有温暖的小麦色皮肤，佩戴金色圆环耳环，嘴角带着柔和的微笑"}。构图采用中景特写，从大腿中部到头部上方，以略微低角度拍摄，她面向镜头，神情从容自信，一只手插在浅蓝色高腰牛仔裤的口袋里。她穿着 {argument name="outfit" default="一件宽松的纯白色 T 恤，随意塞进浅蓝色牛仔裤中"}。背景设定在阳光明媚的纽约风格城市街道，两侧是高耸的建筑，配有黑色金属防火梯，远处中心是一座玻璃摩天大楼，天空湛蓝，日光强烈，城市背景呈现浅景深效果。使用垂直的 {argument name="aspect ratio" default="9:16"} 画布，展现充满活力的编辑风格。添加手工拼贴叠加效果：角落处有撕纸边缘，点缀白色、青色、亮粉色和黄色的纹理纸屑，以及粗犷的黑色记号笔涂鸦和厚重的笔触图形。包含精确的 8 个可见图形元素：左上方扫过 1 个巨大的亮粉色环形笔触，右下方 1 个亮粉色弯曲笔触环，1 个交替使用亮粉色和青色勾勒出的女性轮廓霓虹描边，头部右侧 3 个短促的青色强调笔触，左侧头发/肩膀附近 3 个短促的亮粉色强调笔触，左侧 1 个黑色小爱心涂鸦，左下方纸屑上 1 个黑色星星涂鸦，以及右上方纸屑上 1 个黑色涂鸦痕迹。在拼贴标记下保持照片的真实感，呈现自然的皮肤纹理、逼真的织物褶皱、阳光下的发丝高光以及清晰的杂志封面构图。避免出现文字、标志、水印、多余人物、解剖结构畸变或皮肤过度平滑的情况。
+
+[English]
+Create a photorealistic mixed-media street-fashion collage portrait of {argument name="character description" default="a confident young woman with long wavy dark brown hair, warm tan skin, gold hoop earrings, and a soft closed-mouth smile"}. Frame her in a medium close-up from mid-thigh to above the head, shot from a slightly low angle as she faces the camera with relaxed confidence, one hand in the pocket of light blue high-waisted jeans. She wears {argument name="outfit" default="an oversized plain white T-shirt tucked loosely into light blue denim jeans"}. Place her on a sunny New York-style city street with tall buildings on both sides, black metal fire escapes, a distant glass skyscraper centered behind her, bright blue sky, strong daylight, and a shallow depth-of-field urban background. Use a vertical {argument name="aspect ratio" default="9:16"} canvas with vibrant editorial energy. Add a handmade collage overlay: cut-paper torn edges in the corners, textured scraps of white, teal, hot pink, and yellow paper, rough black marker doodles, and thick brushstroke graphics. Include exactly 8 visible graphic elements: 1 large hot-pink looped brushstroke sweeping across the upper left, 1 hot-pink curved brushstroke loop at the lower right, 1 neon outline tracing the woman’s silhouette in alternating hot pink and turquoise, 3 short turquoise emphasis strokes near the right side of her head, 3 short hot-pink emphasis strokes near her left hair/shoulder, 1 small black heart doodle on the left, 1 black star doodle on the lower-left paper scrap, and 1 black scribble mark on the upper-right paper scrap. Keep the photo realistic under the collage marks, with natural skin texture, realistic fabric folds, sunlit hair highlights, and crisp magazine-cover composition. Avoid text, logos, watermarks, extra people, distorted anatomy, or over-smoothed skin.
+```
+
+**来源：** [@SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ/status/2097408638050861530) | 2026-09-08
+
+---
+
+### 📷 例 7708：天界琵琶女神肖像
+
+![天界琵琶女神肖像](../images/%E5%A4%A9%E7%95%8C%E7%90%B5%E7%90%B6%E5%A5%B3%E7%A5%9E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 9:16 竖版电影感奇幻肖像，主角是一位超凡脱俗的中国古代女神乐师，{argument name="character name" default="天界琵琶女神"}。采用戏剧性的低角度仰拍视角，她正怀抱一把华丽的琵琶进行演奏。她拥有白皙如瓷的脸庞、平静半阖的双眼、朱唇、精致的红色额饰，以及复杂的黑金发髻，发髻上点缀着白牡丹、珠宝发簪、垂下的金流苏、珍珠和花丝饰品。她身着奢华飘逸的汉服，配色为 {argument name="robe colors" default="象牙白、深朱砂红、深藏青和古金色"}，巨大的层叠袖口和长飘带在画面中呈对角线扫过，带有厚重的刺绣锦缎、珠饰、金属贴花、花卉图案以及类似厚涂法的织物纹理。琵琶雕刻精美，镶嵌金饰与花纹，清晰可见琴弦与品位，她优雅的手指正处于演奏姿态。在她身后，左上方包含一个幽灵般的苍白侍从形象，同样佩戴花卉头饰并身着飘逸长袍，部分被云雾和织物遮掩。背景为黑暗的天界神殿，有着星光璀璨的蓝黑色天空、漂浮的花瓣、红花、矿石般的悬崖、远方发光的宝塔，以及两个巨大的圆形月亮/光环：一个巨大的金色光环直接位于女神头部后方，另一个较小的发光月亮位于右下方远处的宫殿上方。使用 {argument name="lighting style" default="戏剧性的明暗对照法，配以金色轮廓光和冷蓝色阴影"}，超精细高定奇幻风格，巴洛克式华丽，中国神话美学，绘画感与写实感并存，纹理丰富，浅景深，构图灵动，无文字，无水印。
+
+[English]
+Create a vertical 9:16 cinematic fantasy portrait of an ethereal ancient Chinese goddess musician, {argument name="character name" default="celestial pipa goddess"}, viewed from a dramatic low angle as she plays an ornate pipa held upright. She has a pale porcelain face, calm half-lidded eyes, red lips, delicate red forehead ornament, and an elaborate black-gold updo covered with white peonies, jeweled hairpins, dangling gold tassels, pearls, and filigree ornaments. Her costume is a lavish flowing hanfu in {argument name="robe colors" default="ivory white, deep cinnabar red, dark navy, and antique gold"}, with enormous layered sleeves and long ribbons sweeping diagonally across the frame, heavy embroidered brocade, beadwork, metallic appliqué, floral motifs, and textured impasto-like fabric details. The pipa is richly carved with gold and floral inlay, many visible strings and frets, and her elegant fingers are posed mid-performance. Behind her, include exactly one ghostly pale attendant figure on the upper left, also wearing floral headpieces and flowing robes, partially obscured by mist and fabric. The background is a dark celestial temple realm with a starry black-blue sky, floating petals, red flowers, mineral-like cliffs, distant glowing pagodas, and exactly two large circular moon/halo forms: one huge golden halo directly behind the main goddess’s head and one smaller glowing moon near the lower right above the distant palace. Use {argument name="lighting style" default="dramatic chiaroscuro with golden rim light and cool blue shadows"}, ultra-detailed high-fashion fantasy, baroque opulence, Chinese mythological aesthetic, painterly yet photorealistic, rich texture, shallow depth of field, swirling composition, no text, no watermark.
+```
+
+**来源：** [@Mason](https://x.com/mason0x_/status/2097406054615372002) | 2026-09-08
+
+---
+
+### 📷 例 7709：电影级影棚肖像双色光摄影
+
+![电影级影棚肖像双色光摄影](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F%E5%8F%8C%E8%89%B2%E5%85%89%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的影棚特写肖像，主角为 {argument name="subject" default="成年男性"}，表情自信且深邃，采用高端现代编辑风格，取景范围从胸部以上。发型为 {argument name="hair style" default="浓密且打理整齐的黑色短发"}，顶部具有自然蓬松感，两侧修剪利落。留有修剪精致的络腮胡和八字胡，边缘清晰自然。佩戴透明矩形眼镜，镜片上带有影棚灯光的细腻反光。身穿修身黑色高领毛衣，外搭一件剪裁考究、翻领结构感强的黑色西装外套。整体造型极简且为单色，不佩戴任何首饰或多余配饰。姿势设定为身体略微背对镜头，头部轻微向上倾斜，双眼看向画面右上方，营造出冷静、睿智且富有抱负的氛围。使用戏剧性的双色影棚灯光：{argument name="rim light color" default="鲜艳的洋红色/紫色"} 轮廓光照亮其左侧头发和脸部，鲜艳的电光蓝/青色光照亮右侧。保持面部柔和的中性正面补光，以确保皮肤质感逼真、细节丰富且曝光准确。背景为模糊的未来感影棚，呈现从左侧深紫色和洋红色过渡到右侧电光蓝的丰富渐变。在左下角背景中添加一条发光的对角线霓虹洋红色光条，以增加视觉深度。强调逼真的皮肤纹理、细腻的胡须细节、锐利的眼神、自然的眼镜反光、清晰的织物纹理、电影级对比度、浅景深、平滑的彩色虚化效果、高端个人品牌摄影、高端企业编辑美学、超写实摄影、85mm 肖像镜头感、f/1.8 光圈、8K 细节、4:5 竖构图。
+
+[English]
+Create an ultra-realistic close-up studio portrait of an {argument name="subject" default="adult man"} with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him {argument name="hair style" default="thick, neatly styled short black hair"} with natural volume on top and clean tapered sides. Add a well-groomed full beard and mustache with sharp but natural edges. He is wearing transparent rectangular eyeglasses with subtle reflections from the studio lights. Dress him in a fitted black turtleneck sweater layered underneath a sophisticated black tailored blazer with structured lapels. Keep the outfit completely minimal and monochrome with no visible jewelry or unnecessary accessories. Pose him facing slightly away from the camera, with his head gently tilted upward and his eyes looking toward the upper-right side of the frame, creating a calm, intelligent, aspirational mood. Use dramatic dual-tone studio lighting: {argument name="rim light color" default="vivid magenta/purple"} rim light illuminating the left side of his hair and face, and vibrant electric-blue/cyan light illuminating the right side. Keep soft neutral frontal lighting on the face so the skin remains realistic, detailed, and properly exposed. Create a blurred futuristic studio background with a rich gradient transitioning from deep purple and magenta on the left to electric blue on the right. Add a glowing diagonal neon-magenta light bar in the lower-left background for extra visual depth. Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeglass reflections, crisp fabric texture, cinematic contrast, shallow depth of field, smooth colorful bokeh, premium personal-branding photography, high-end corporate editorial aesthetic, ultra-photorealistic, 85mm portrait lens look, f/1.8, 8K detail, vertical 4:5 composition.
+```
+
+**来源：** [@SimplyDera ◻](https://x.com/Simply_Dera1/status/2097404888233779441) | 2026-09-08
+
+---
+
+### 📷 例 7710：复古合成器波播客主持人
+
+![复古合成器波播客主持人](../images/%E5%A4%8D%E5%8F%A4%E5%90%88%E6%88%90%E5%99%A8%E6%B3%A2%E6%92%AD%E5%AE%A2%E4%B8%BB%E6%8C%81%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的 1980 年代复古合成器波播客肖像，画面中是一位面带微笑的 {argument name="host description" default="30 多岁的白人男性主持人，有着蓝色眼睛、凌乱的棕色鲻鱼头短发、淡淡的胡茬和友好的笑容"}，他正坐在桌前靠近镜头，面向前方，双臂交叉，姿态放松。他身穿一件大胆的霓虹色防风外套，配色为 {argument name="jacket colors" default="青色、亮粉色、紫色和黑色的几何拼接"}，内搭一件白色 T 恤，手腕上戴着黑色数字手表。在前景中央放置一个大型复古银色广播麦克风，安装在黑色悬臂支架上，清晰可见 SHURE 品牌标识。背景是一个昏暗的工作室，充满了 1980 年代的怀旧元素：他身后是一个明亮的霓虹灯三角形标志，用粉色草书和青色灯管写着 {argument name="neon sign text" default="Thursday AI"}；左侧堆叠着 4 盒磁带，标签分别为“SYNTHWAVE”、“HITS 1984”、“MIXTAPE”和“GOOD VIBES”；磁带下方是一个复古收音机；右侧是一台旧式 CRT 电视，屏幕上显示着带有棕榈树和蓝色网格地平线的蒸汽波日落画面。在电视上方增加一张带框的闪电海报。使用饱和的洋红色和青色轮廓光，温暖的肤色，浅景深，柔和的胶片颗粒感，轻微的灰尘和划痕，磨损的圆角照片边框，高细节摄影，方形垂直构图，怀旧蒸汽波色调，画面中无其他人物，无现代设备，无水印。
+
+[English]
+Create a photorealistic retro 1980s synthwave podcast portrait of a smiling {argument name="host description" default="white male host in his 30s with blue eyes, short messy brown mullet hair, light stubble, and a friendly grin"} seated close to camera at a desk, facing forward with relaxed crossed arms. He wears a bold neon windbreaker in {argument name="jacket colors" default="teal, hot pink, purple, and black geometric panels"}, a white T-shirt, and a black digital wristwatch. Place a large vintage silver broadcast microphone on a black boom arm centered in the foreground, with small SHURE branding visible. The background is a dim studio filled with 1980s nostalgia: a bright neon triangle sign behind him reading {argument name="neon sign text" default="Thursday AI"} in pink cursive and cyan tube lights, a stack of exactly 4 cassette tapes on the left labeled “SYNTHWAVE”, “HITS 1984”, “MIXTAPE”, and “GOOD VIBES”, a retro boombox beneath them, and on the right an old CRT television showing a vaporwave sunset with palm trees and a blue grid horizon. Add one framed lightning-bolt poster above the TV. Use saturated magenta and cyan rim lighting, warm skin tones, shallow depth of field, soft film grain, slight dust and scratches, worn rounded photo border, high-detail studio photography, square-ish vertical crop, nostalgic vaporwave color palette, no extra people, no modern devices, no watermark.
+```
+
+**来源：** [@Alex Volkov](https://x.com/altryne/status/2097399256240001059) | 2026-09-08
+
+---
+
+### 📷 例 7712：溶解的新娘肖像画
+
+![溶解的新娘肖像画](../images/%E6%BA%B6%E8%A7%A3%E7%9A%84%E6%96%B0%E5%A8%98%E8%82%96%E5%83%8F%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅正在缓慢溶解的画作：{argument name="colors" default="饱和的"} 色彩在顶部向下流淌，形成长长的垂直颜料流痕和细长的水平色带，色彩在底部边缘汇聚，底部的构图依然清晰可见。主体为 {argument name="subject" default="新娘肖像"}，红色颜料顺着脸部流下。2:3 纵横比。
+
+[English]
+A painting slowly dissolving: {argument name="colors" default="saturated"} colors at the top running downward in long vertical pigment streaks, thin horizontal color bands, color gathering at the bottom edge, the composition still readable underneath. A {argument name="subject" default="bride's portrait"}, the reds running down the face. 2:3 aspect ratio.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2097394183560642737) | 2026-09-08
+
+---
+
