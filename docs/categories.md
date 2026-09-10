@@ -1133,6 +1133,38 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7697：深渊海豚 Boss 变身](cat-ui.md#️-例-7697深渊海豚-boss-变身)
 
 - [例 7711：深色草图模式怪物涂鸦](cat-ui.md#️-例-7711深色草图模式怪物涂鸦)
+
+- [例 7720：Miniature World Inside a Tangerine](cat-ui.md#️-例-7720miniature-world-inside-a-tangerine)
+
+- [例 7721：2D Game Animation Sprite Sheet Generator](cat-ui.md#️-例-77212d-game-animation-sprite-sheet-generator)
+
+- [例 7733：Geometric Editorial Portrait Collage](cat-ui.md#️-例-7733geometric-editorial-portrait-collage)
+
+- [例 7736：Golden Hour Sunset Beach Fashion](cat-ui.md#️-例-7736golden-hour-sunset-beach-fashion)
+
+- [例 7745：Cinematic Mural Forced Perspective Illusion](cat-ui.md#️-例-7745cinematic-mural-forced-perspective-illusion)
+
+- [例 7747：Midnight Form Luxury Fashion Poster](cat-ui.md#️-例-7747midnight-form-luxury-fashion-poster)
+
+- [例 7754：1980s Vintage Retro Portrait](cat-ui.md#️-例-77541980s-vintage-retro-portrait)
+
+- [例 7759：雾气弥漫的乡村夜晚与古老农舍](cat-ui.md#️-例-7759雾气弥漫的乡村夜晚与古老农舍)
+
+- [例 7760：雨夜的法国街道](cat-ui.md#️-例-7760雨夜的法国街道)
+
+- [例 7761：奇幻林克拔出大师之剑](cat-ui.md#️-例-7761奇幻林克拔出大师之剑)
+
+- [例 7762：科幻 UFO 劫持场景](cat-ui.md#️-例-7762科幻-ufo-劫持场景)
+
+- [例 7763：在森林溪流边喝水的猫](cat-ui.md#️-例-7763在森林溪流边喝水的猫)
+
+- [例 7790：带有动漫 3x3 分镜的 AI 生成 UI](cat-ui.md#️-例-7790带有动漫-3x3-分镜的-ai-生成-ui)
+
+- [例 7799：日语 AI 对话 Kaiju 截图](cat-ui.md#️-例-7799日语-ai-对话-kaiju-截图)
+
+- [例 7820：Urban Golden Hour Male Portrait](cat-ui.md#️-例-7820urban-golden-hour-male-portrait)
+
+- [例 7831：网红直播场景](cat-ui.md#️-例-7831网红直播场景)
 ---
 
 <a id="chart"></a>
@@ -1355,6 +1387,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7455：高级时装角色概念设计图](cat-chart.md#-例-7455高级时装角色概念设计图)
 
 - [例 7694：8 方向 RPG 英雄角色精灵图表](cat-chart.md#-例-76948-方向-rpg-英雄角色精灵图表)
+
+- [例 7741：NBA 数据信息图提示词](cat-chart.md#-例-7741nba-数据信息图提示词)
+
+- [例 7753：极简手相指南信息图](cat-chart.md#-例-7753极简手相指南信息图)
+
+- [例 7825：忠实复刻日本政策信息图](cat-chart.md#-例-7825忠实复刻日本政策信息图)
+
+- [例 7832：基于对话的角色形象可视化](cat-chart.md#-例-7832基于对话的角色形象可视化)
 ---
 
 <a id="poster"></a>
@@ -3389,6 +3429,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7690：复古夜班游戏猫邮票](cat-poster.md#-例-7690复古夜班游戏猫邮票)
 
 - [例 7702：VOXCAT 复古丝网印刷海报](cat-poster.md#-例-7702voxcat-复古丝网印刷海报)
+
+- [例 7755：高级编辑风格分屏画布海报](cat-poster.md#-例-7755高级编辑风格分屏画布海报)
+
+- [例 7770：Rhode Lip Treatment 对比广告](cat-poster.md#-例-7770rhode-lip-treatment-对比广告)
+
+- [例 7781：秋季温泉美食促销海报](cat-poster.md#-例-7781秋季温泉美食促销海报)
+
+- [例 7792：自然拉面广告海报](cat-poster.md#-例-7792自然拉面广告海报)
+
+- [例 7818：敦煌飞天海报](cat-poster.md#-例-7818敦煌飞天海报)
 ---
 
 <a id="photo"></a>
@@ -9045,6 +9095,68 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7710：复古合成器波播客主持人](cat-photo.md#-例-7710复古合成器波播客主持人)
 
 - [例 7712：溶解的新娘肖像画](cat-photo.md#-例-7712溶解的新娘肖像画)
+
+- [例 7728：夜生活随拍自拍肖像](cat-photo.md#-例-7728夜生活随拍自拍肖像)
+
+- [例 7729：Selective Material Image Editing](cat-photo.md#-例-7729selective-material-image-editing)
+
+- [例 7734：男性电影角色设定图](cat-photo.md#-例-7734男性电影角色设定图)
+
+- [例 7735：女性角色参考图](cat-photo.md#-例-7735女性角色参考图)
+
+- [例 7746：UGC 产品摄影工作流](cat-photo.md#-例-7746ugc-产品摄影工作流)
+
+- [例 7748：超现实巨石夜景](cat-photo.md#-例-7748超现实巨石夜景)
+
+- [例 7749：超现实雾中水库景观](cat-photo.md#-例-7749超现实雾中水库景观)
+
+- [例 7750：真实感 iPhone 夜间闪光灯自拍](cat-photo.md#-例-7750真实感-iphone-夜间闪光灯自拍)
+
+- [例 7751：东京地铁拥挤纪实摄影](cat-photo.md#-例-7751东京地铁拥挤纪实摄影)
+
+- [例 7756：Rustic Cabin Forest Portrait](cat-photo.md#-例-7756rustic-cabin-forest-portrait)
+
+- [例 7766：逼真的电影感海滩肖像](cat-photo.md#-例-7766逼真的电影感海滩肖像)
+
+- [例 7771：精致都市时尚人像](cat-photo.md#-例-7771精致都市时尚人像)
+
+- [例 7772：蒙眼数字先知](cat-photo.md#-例-7772蒙眼数字先知)
+
+- [例 7774：写实卧室自拍人像](cat-photo.md#-例-7774写实卧室自拍人像)
+
+- [例 7777：春日花市时尚大片](cat-photo.md#-例-7777春日花市时尚大片)
+
+- [例 7784：障子门前的低语动漫场景](cat-photo.md#-例-7784障子门前的低语动漫场景)
+
+- [例 7787：编辑级旅行摄影与水彩画分屏效果](cat-photo.md#-例-7787编辑级旅行摄影与水彩画分屏效果)
+
+- [例 7788：三栏式 GPT 图像模型对比](cat-photo.md#-例-7788三栏式-gpt-图像模型对比)
+
+- [例 7793：俏皮眨眼肖像编辑](cat-photo.md#-例-7793俏皮眨眼肖像编辑)
+
+- [例 7801：水彩日落肖像](cat-photo.md#-例-7801水彩日落肖像)
+
+- [例 7802：电影感动漫风格弓道射手](cat-photo.md#-例-7802电影感动漫风格弓道射手)
+
+- [例 7804：超写实红色礼服时尚人像](cat-photo.md#-例-7804超写实红色礼服时尚人像)
+
+- [例 7805：地铁站里的电影感人像：非洲菊与少女](cat-photo.md#-例-7805地铁站里的电影感人像非洲菊与少女)
+
+- [例 7807：时尚影棚人像转换](cat-photo.md#-例-7807时尚影棚人像转换)
+
+- [例 7808：Moody Aesthetic iPhone 自拍人像](cat-photo.md#-例-7808moody-aesthetic-iphone-自拍人像)
+
+- [例 7809：带有“嘘”手势的电影感时尚肖像](cat-photo.md#-例-7809带有嘘手势的电影感时尚肖像)
+
+- [例 7811：日本校园好友抓拍](cat-photo.md#-例-7811日本校园好友抓拍)
+
+- [例 7815：电影感女高中生日常拼贴](cat-photo.md#-例-7815电影感女高中生日常拼贴)
+
+- [例 7821：老德里的电影感时空旅行者](cat-photo.md#-例-7821老德里的电影感时空旅行者)
+
+- [例 7829：唐朝皇家宴会电影感摄影](cat-photo.md#-例-7829唐朝皇家宴会电影感摄影)
+
+- [例 7834：纽约观景台人像](cat-photo.md#-例-7834纽约观景台人像)
 ---
 
 <a id="illustration"></a>
@@ -11052,6 +11164,48 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7713：狗狗咖啡馆和纸胶带拼贴画](cat-illustration.md#-例-7713狗狗咖啡馆和纸胶带拼贴画)
 
 - [例 7714：粗粝恐怖朋克拼贴风格](cat-illustration.md#-例-7714粗粝恐怖朋克拼贴风格)
+
+- [例 7719：面条波浪渔船超现实主义](cat-illustration.md#-例-7719面条波浪渔船超现实主义)
+
+- [例 7723：冰川温室概念](cat-illustration.md#-例-7723冰川温室概念)
+
+- [例 7726：Transparent Background Removal](cat-illustration.md#-例-7726transparent-background-removal)
+
+- [例 7727：AI Self-Portrait with Version Tag](cat-illustration.md#-例-7727ai-self-portrait-with-version-tag)
+
+- [例 7730：剪影阴影插画](cat-illustration.md#-例-7730剪影阴影插画)
+
+- [例 7732：珠宝与配饰设计搭配](cat-illustration.md#-例-7732珠宝与配饰设计搭配)
+
+- [例 7738：Girl Breaking Through Wall](cat-illustration.md#-例-7738girl-breaking-through-wall)
+
+- [例 7739：Ultra Realistic Studio Fashion Portrait](cat-illustration.md#-例-7739ultra-realistic-studio-fashion-portrait)
+
+- [例 7743：Photo to Gouache Travel Illustration](cat-illustration.md#-例-7743photo-to-gouache-travel-illustration)
+
+- [例 7752：Two-Panel Editorial Travel Diary Poster](cat-illustration.md#-例-7752two-panel-editorial-travel-diary-poster)
+
+- [例 7757：虚拟试穿服装迁移](cat-illustration.md#-例-7757虚拟试穿服装迁移)
+
+- [例 7758：Katana 细节优化](cat-illustration.md#-例-7758katana-细节优化)
+
+- [例 7767：Realistic iPhone Cafe Portrait](cat-illustration.md#-例-7767realistic-iphone-cafe-portrait)
+
+- [例 7779：深色皮肤暗狐少女角色](cat-illustration.md#-例-7779深色皮肤暗狐少女角色)
+
+- [例 7783：Character Motion Sprite Sheet](cat-illustration.md#-例-7783character-motion-sprite-sheet)
+
+- [例 7785：角色战斗动作精灵图](cat-illustration.md#-例-7785角色战斗动作精灵图)
+
+- [例 7786：Spatial Subject Arrangement](cat-illustration.md#-例-7786spatial-subject-arrangement)
+
+- [例 7791：Cybernetic Horror Portrait](cat-illustration.md#-例-7791cybernetic-horror-portrait)
+
+- [例 7800：昼夜海滩沙漏](cat-illustration.md#-例-7800昼夜海滩沙漏)
+
+- [例 7819：高分辨率森林空地照片](cat-illustration.md#-例-7819高分辨率森林空地照片)
+
+- [例 7828：华丽的粉发武士公主](cat-illustration.md#-例-7828华丽的粉发武士公主)
 ---
 
 <a id="character"></a>
@@ -11528,6 +11682,14 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7679：Studio Model 参考图](cat-character.md#-例-7679studio-model-参考图)
 
 - [例 7705：双层芝士汉堡角色设定集](cat-character.md#-例-7705双层芝士汉堡角色设定集)
+
+- [例 7725：Alan 与 T-Rex 的电影级角色设定集](cat-character.md#-例-7725alan-与-t-rex-的电影级角色设定集)
+
+- [例 7768：Pixel Art Sprite Sheet Generation](cat-character.md#-例-7768pixel-art-sprite-sheet-generation)
+
+- [例 7803：兔绅士角色设定图](cat-character.md#-例-7803兔绅士角色设定图)
+
+- [例 7826：卡通角色 GIF 精灵图 (Sprite Sheet)](cat-character.md#-例-7826卡通角色-gif-精灵图-sprite-sheet)
 ---
 
 <a id="3d"></a>
@@ -12238,6 +12400,20 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7555：地中海村庄手绘微缩模型](cat-3d.md#-例-7555地中海村庄手绘微缩模型)
 
 - [例 7624：色彩鲜艳的 3D 女孩角色设计图](cat-3d.md#-例-7624色彩鲜艳的-3d-女孩角色设计图)
+
+- [例 7718：3D Diagrams and Visual Layouts](cat-3d.md#-例-77183d-diagrams-and-visual-layouts)
+
+- [例 7731：3D 动画角色工作室风格](cat-3d.md#-例-77313d-动画角色工作室风格)
+
+- [例 7776：Miniature 3D Landmark Diorama](cat-3d.md#-例-7776miniature-3d-landmark-diorama)
+
+- [例 7796：3D 表情贴纸合集](cat-3d.md#-例-77963d-表情贴纸合集)
+
+- [例 7810：Plush Whale Tokyo Design Studio](cat-3d.md#-例-7810plush-whale-tokyo-design-studio)
+
+- [例 7813：AI 产品草图转台灯渲染图](cat-3d.md#-例-7813ai-产品草图转台灯渲染图)
+
+- [例 7824：Q 版吉祥物战斗动作精灵图表](cat-3d.md#-例-7824q-版吉祥物战斗动作精灵图表)
 ---
 
 <a id="architecture"></a>
@@ -12688,6 +12864,14 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7716：编辑风 PPT 封面设计](cat-architecture.md#️-例-7716编辑风-ppt-封面设计)
 
 - [例 7717：复古胶片风格创业档案海报](cat-architecture.md#️-例-7717复古胶片风格创业档案海报)
+
+- [例 7794：基于草图生成的写实风格房间推广渲染图](cat-architecture.md#️-例-7794基于草图生成的写实风格房间推广渲染图)
+
+- [例 7814：东方禅意极简壁纸](cat-architecture.md#️-例-7814东方禅意极简壁纸)
+
+- [例 7816：日式走廊窗户详图图纸](cat-architecture.md#️-例-7816日式走廊窗户详图图纸)
+
+- [例 7833：未来感建筑改造](cat-architecture.md#️-例-7833未来感建筑改造)
 ---
 
 <a id="comic"></a>
@@ -13226,6 +13410,12 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7680：Vocaloid MV 风格角色网格图](cat-comic.md#-例-7680vocaloid-mv-风格角色网格图)
 
 - [例 7692：日式百合漫画页面](cat-comic.md#-例-7692日式百合漫画页面)
+
+- [例 7724：Vocaloid MV 项目分镜网格](cat-comic.md#-例-7724vocaloid-mv-项目分镜网格)
+
+- [例 7773：电影感哥特萝莉 3x3 动漫剧照](cat-comic.md#-例-7773电影感哥特萝莉-3x3-动漫剧照)
+
+- [例 7775：透明窗口 Alpha 演示](cat-comic.md#-例-7775透明窗口-alpha-演示)
 ---
 
 <a id="brand"></a>
@@ -14915,6 +15105,40 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7701：阳光森林空地照片](cat-brand.md#️-例-7701阳光森林空地照片)
 
 - [例 7704：雨中巴黎钟表匠场景重构](cat-brand.md#️-例-7704雨中巴黎钟表匠场景重构)
+
+- [例 7722：Glowing Maple Leaf Digital Art](cat-brand.md#️-例-7722glowing-maple-leaf-digital-art)
+
+- [例 7737：基于 Logo 自动生成品牌周边设计](cat-brand.md#️-例-7737基于-logo-自动生成品牌周边设计)
+
+- [例 7742：Oversized T-Shirt Branding Mockup](cat-brand.md#️-例-7742oversized-t-shirt-branding-mockup)
+
+- [例 7744：斯堪的纳维亚水彩插画风格艺术作品](cat-brand.md#️-例-7744斯堪的纳维亚水彩插画风格艺术作品)
+
+- [例 7764：跳伞动作自拍](cat-brand.md#️-例-7764跳伞动作自拍)
+
+- [例 7765：城市环境中的老人在园艺](cat-brand.md#️-例-7765城市环境中的老人在园艺)
+
+- [例 7778：Camera Dome 48-Point View Setup](cat-brand.md#️-例-7778camera-dome-48-point-view-setup)
+
+- [例 7780：浮世绘风格：奥尔菲斯山径](cat-brand.md#️-例-7780浮世绘风格奥尔菲斯山径)
+
+- [例 7782：河童女孩与稻草人女巫](cat-brand.md#️-例-7782河童女孩与稻草人女巫)
+
+- [例 7789：Polaroid Gallery Installation Portrait](cat-brand.md#️-例-7789polaroid-gallery-installation-portrait)
+
+- [例 7795：1980 年代迈阿密生活方式时尚人像](cat-brand.md#️-例-77951980-年代迈阿密生活方式时尚人像)
+
+- [例 7797：极简水彩编辑风格插画](cat-brand.md#️-例-7797极简水彩编辑风格插画)
+
+- [例 7798：爆炸式透明人工心脏](cat-brand.md#️-例-7798爆炸式透明人工心脏)
+
+- [例 7812：Studio Portrait with Vintage Glasses](cat-brand.md#️-例-7812studio-portrait-with-vintage-glasses)
+
+- [例 7817：精致玫瑰美甲修图](cat-brand.md#️-例-7817精致玫瑰美甲修图)
+
+- [例 7823：复古武侠幕后花絮剧照](cat-brand.md#️-例-7823复古武侠幕后花絮剧照)
+
+- [例 7827：天空中的巨鸟之门](cat-brand.md#️-例-7827天空中的巨鸟之门)
 ---
 
 <a id="edit"></a>
@@ -15250,6 +15474,16 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7682：破碎的古代陶土花瓶](cat-edit.md#-例-7682破碎的古代陶土花瓶)
 
 - [例 7689：AI 照片重绘并排对比](cat-edit.md#-例-7689ai-照片重绘并排对比)
+
+- [例 7740：通用风格迁移模板](cat-edit.md#-例-7740通用风格迁移模板)
+
+- [例 7769：微积分教材页面重绘](cat-edit.md#-例-7769微积分教材页面重绘)
+
+- [例 7806：水下 AI 模型对比](cat-edit.md#-例-7806水下-ai-模型对比)
+
+- [例 7822：男性视角设计转换](cat-edit.md#-例-7822男性视角设计转换)
+
+- [例 7830：高分辨率图像修复指令](cat-edit.md#-例-7830高分辨率图像修复指令)
 ---
 
 <a id="fun"></a>

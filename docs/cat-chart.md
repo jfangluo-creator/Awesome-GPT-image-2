@@ -4426,3 +4426,63 @@ Constraints: Exactly 64 sprites total, exactly 8 rows and 8 columns, no text, no
 
 ---
 
+### 📊 例 7741：NBA 数据信息图提示词
+
+![NBA 数据信息图提示词](../images/NBA%20%E6%95%B0%E6%8D%AE%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+生成一个{argument name="球员" default="哈登"}从进入NBA到现在，{argument name="主题" default="历届抢七大战的数据分析"}信息图。
+```
+
+**来源：** [@Alex Zhang](https://x.com/jojogh_007/status/2097678119314575676) | 2026-09-09
+
+---
+
+### 📊 例 7753：极简手相指南信息图
+
+![极简手相指南信息图](../images/%E6%9E%81%E7%AE%80%E6%89%8B%E7%9B%B8%E6%8C%87%E5%8D%97%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以{argument name="背景颜色" default="米白色"}背景呈现，整体采用{argument name="视觉风格" default="干净、极简、奢雅的杂志编辑风格"}。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。
+```
+
+**来源：** [@haha🌈.eth](https://x.com/hahazwei/status/2097628383362597075) | 2026-09-09
+
+---
+
+### 📊 例 7825：忠实复刻日本政策信息图
+
+![忠实复刻日本政策信息图](../images/%E5%BF%A0%E5%AE%9E%E5%A4%8D%E5%88%BB%E6%97%A5%E6%9C%AC%E6%94%BF%E7%AD%96%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅以 REFERENCE_0 为唯一来源，将日本霞关风格的政策信息图忠实复刻为清晰、高分辨率的 16:9 Slides。尽可能保留原始的整体布局、密集的信息结构、蓝色标题栏、黄色/红色强调带、箭头、标注框、插图化的景观/商业图标以及所有可见的日语标签。通过使图像更清晰、更明亮、减少压缩并提高可读性来优化输出，使用更整洁的矢量风格文本框和更清晰的小型插图，同时保持与官方政府演示文稿相同的密集美学。保留顶部标题文本为 {argument name="headline text" default="地域循环共生圈（日本发起的脱碳与 SDGs 构想）"}，保留版本标签为 {argument name="version label" default="Ver. 26"}，并保留主要中心标签 {argument name="central concept label" default="地域循环共生圈"}。请勿简化图表，请勿使其现代化，请勿删除小标签，也不要添加任何新的品牌标识、水印、人物或不相关的装饰元素。
+
+[English]
+Using REFERENCE_0 as the sole source, faithfully recreate the Japanese Kasumigaseki-style policy infographic as a clean, high-resolution 16:9 slide. Preserve the original overall layout, dense information structure, blue title bar, yellow/red emphasis bands, arrows, callout boxes, illustrated landscape/business icons, and all visible Japanese labels as closely as possible. Improve the output by making it sharper, brighter, less compressed, and more legible, with cleaner vector-like text boxes and clearer small illustrations, while keeping the same crowded official-government presentation aesthetic. Keep the top title text as {argument name="headline text" default="地域循環共生圏（日本発の脱炭素化・SDGs構想）"}, keep the version label as {argument name="version label" default="Ver. 26"}, and retain the main central label {argument name="central concept label" default="地域循環共生圏"}. Do not simplify the diagram, do not modernize it, do not remove small labels, and do not add new branding, watermarks, people, or unrelated decorative elements.
+```
+
+**来源：** [@チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen/status/2097509616989143355) | 2026-09-09
+
+---
+
+### 📊 例 7832：基于对话的角色形象可视化
+
+![基于对话的角色形象可视化](../images/%E5%9F%BA%E4%BA%8E%E5%AF%B9%E8%AF%9D%E7%9A%84%E8%A7%92%E8%89%B2%E5%BD%A2%E8%B1%A1%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+{argument name="ソース" default="私のチャット履歴"}から、私がどういう人物なのか想像してください、そしてそれをimage2.5で画像にして、あなたが私をどう思ってるのか知りたい
+```
+
+**来源：** [@荒井健一 AK](https://x.com/aarai666/status/2097504782672158869) | 2026-09-09
+
+---
+

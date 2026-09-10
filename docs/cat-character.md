@@ -9396,3 +9396,93 @@ Create a realistic studio model reference sheet of {argument name="model identit
 
 ---
 
+### 🧍 例 7725：Alan 与 T-Rex 的电影级角色设定集
+
+![Alan 与 T-Rex 的电影级角色设定集](../images/Alan%20%E4%B8%8E%20T-Rex%20%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="characters" default="ALAN & T-REX"} 创建一份高质量的电影级角色设定集。请将上传的角色设定图作为两个角色的严格视觉参考，不得更改任何角色的外观。
+布局：分屏搭档格式。画面由一条醒目的分割线一分为二
+
+[English]
+Create a premium cinematic character bible sheet for {argument name="characters" default="ALAN & T-REX"}. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.
+LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2097738632941461886) | 2026-09-09
+
+---
+
+### 🧍 例 7768：Pixel Art Sprite Sheet Generation
+
+![Pixel Art Sprite Sheet Generation](../images/Pixel%20Art%20Sprite%20Sheet%20Generation.jpg)
+
+**Prompt:**
+
+```text
+为这个角色制作一个128px的简化像素艺术{argument name="动作" default="战斗"}动作的精灵图集。请做到透明。以4x4的格式排列
+```
+
+**来源：** [@睿奇Re7](https://x.com/Re7_AI/status/2097595063153090824) | 2026-09-09
+
+---
+
+### 🧍 例 7803：兔绅士角色设定图
+
+![兔绅士角色设定图](../images/%E5%85%94%E7%BB%85%E5%A3%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位英俊的兔绅士"} 设计一份优雅的动漫角色设定图，角色为拥有银白色长发和高耸白兔耳的男性，展现出带有月亮与时钟元素的精致奇幻贵族形象。
+
+画布：宽幅横向角色参考图，背景为柔和的薰衣草灰，装饰有精致的天体 UI 边框、纤细的白色几何线条、悬挂的星星、月亮、时钟圆环以及叶片植物剪影，配色采用海军蓝、象牙白、薰衣草紫、银色和柔和紫色的淡雅色调。
+
+布局：左侧使用 3 个全身转面图：1 个向左的侧面图、1 个正面图和 1 个背面图。右侧包含 2 个大型肖像面板：上方肖像表现冷静、冷峻的表情，手持怀表链靠近脸部；下方肖像表现害羞脸红的表情，一只手靠近颈部，一只兔耳向前垂下。在全身图与肖像之间，包含 6 个垂直细节特写面板：1 个领口的领巾与胸针、1 个耳朵与耳环细节、1 个怀表与表链细节、1 个袖口刺绣细节、1 个外套下摆刺绣细节，以及 1 个蓬松尾巴加靴子细节。最左侧添加 1 条垂直色板，包含 6 个圆形色块：深蓝、灰白、薰衣草紫、炭黑、淡粉和白色，下方带有小型新月图标。
+
+主体细节：角色为身材高挑、优雅的年轻男性，皮肤白皙，留着凌乱的 {argument name="hair color" default="银白色"} 长发，拥有狭长的薰衣草灰色眼睛、柔软的睫毛，以及内侧带有淡粉色绒毛的长白兔耳。表情冷漠、忧郁且俊美。身着正式的奇幻服装：深海军蓝长燕尾服配银色滚边，一侧披着不对称的象牙白肩披，高领白色荷叶边衬衫，系着带有椭圆形宝石胸针的淡薰衣草色领巾，炭灰色马甲，修身黑色长裤，白色手套，黑色及膝高跟靴，装饰性链条，怀表，钟面装饰，新月与星星点缀，以及沿袖口和外套下摆的叶片刺绣。背面图必须展示披肩、开叉燕尾、类似背带的腰部束带以及一个小巧圆润的白色蓬松兔尾。
+
+视觉风格：高精细度日式动漫插画，角色设定图 / 概念艺术展示，线条细腻，干净的赛璐璐阴影融合柔和的绘画渐变，瓷器般的皮肤，复杂的服装装饰，优雅的乙女游戏美学，梦幻的月光氛围，柔和的淡雅光影，特写面板细节清晰。
+
+文字内容：不包含可读的标题文字或标签；仅使用装饰条和类似界面的形状。
+
+约束：保持图像为单一连贯的角色参考图，而非漫画。保留视图、肖像面板、细节面板和色块的精确数量。避免出现额外角色，避免现代街头服饰，避免高饱和度色彩，且不要添加水印或 Logo。
+
+[English]
+Goal: Create an elegant anime character design sheet for {argument name="character name" default="a handsome rabbit gentleman"}, a pale silver-haired male with tall white rabbit ears, shown as a refined fantasy noble with moon-and-clock motifs.
+
+Canvas: Wide horizontal character reference sheet, soft lavender-gray background, delicate celestial UI-frame decorations, thin white geometric lines, dangling stars, moons, clock circles, leafy botanical silhouettes, and a pastel palette of navy, ivory, lavender, silver, and muted violet.
+
+Layout: Use exactly 3 full-body turnaround views on the left: 1 side profile facing left, 1 front view, and 1 back view. On the right, include exactly 2 large portrait panels: the upper portrait shows a calm, cool expression while holding a pocket-watch chain near his face; the lower portrait shows a shy blushing expression with one hand near his neck and one rabbit ear drooping forward. Between the full-body views and portraits, include exactly 6 vertical detail close-up panels: 1 cravat and brooch at the collar, 1 ear and earring detail, 1 pocket watch and chain detail, 1 cuff embroidery detail, 1 coat hem embroidery detail, and 1 fluffy tail plus boot detail. Add exactly 1 vertical color palette strip on the far left with 6 round swatches: deep blue, off-white, lavender, charcoal black, pale pink, and white, plus small crescent icons below it.
+
+Subject details: The character is a slim, tall, elegant young man with very pale skin, long messy layered {argument name="hair color" default="silver-white"} hair, narrow lavender-gray eyes, soft eyelashes, and long white rabbit ears with pale pink inner fur. His expression is aloof, melancholic, and beautiful. He wears a formal fantasy outfit: a dark navy long tailcoat with silver piping, asymmetrical ivory shoulder cape draped over one side, high white ruffled shirt, pale lavender cravat tied with an oval gemstone brooch, charcoal vest, fitted black trousers, white gloves, black knee-high heeled boots, decorative chains, a pocket watch, clock-face ornaments, crescent and star accents, and leaf embroidery along the cuffs and lower coat panels. The back view must show the cape, split coat tails, harness-like waist straps, and a small round white fluffy rabbit tail.
+
+Visual style: Highly polished Japanese anime illustration, character sheet / concept art presentation, delicate linework, clean cel shading blended with soft painterly gradients, porcelain skin, intricate clothing ornamentation, elegant otome-game aesthetic, dreamy moonlit atmosphere, muted pastel lighting, crisp details in the close-up panels.
+
+Text content: No readable title text or labels; use decorative bars and interface-like shapes only.
+
+Constraints: Keep the image as a single cohesive character reference sheet, not a comic. Preserve the exact counts of views, portrait panels, detail panels, and color swatches. Avoid extra characters, avoid modern streetwear, avoid heavy saturated colors, and do not add watermark or logo.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2097545150608417251) | 2026-09-09
+
+---
+
+### 🧍 例 7826：卡通角色 GIF 精灵图 (Sprite Sheet)
+
+![卡通角色 GIF 精灵图 (Sprite Sheet)](../images/%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%20GIF%20%E7%B2%BE%E7%81%B5%E5%9B%BE%20(Sprite%20Sheet).jpg)
+
+**Prompt:**
+
+```text
+为我生成图中角色的{argument name="风格" default="卡通Line风格"}的半身像GIF表情包每一帧的图片，注意头饰和发型要正确。使用 4行x4列 布局共生成16个小图片。16个小图片为“{argument name="动作" default="飞吻"}”动画的连贯的拆分动作，使用这16张可以组成一个完整的、循环动画，动作流畅逼真，最后一帧应流畅地循环回到第一帧。16张图片里都使用跟图片搭配的字体写着汉字“{argument name="文字" default="爱你哦"}”。16个小图片之间需要有足够留白方便后续切割，每张图片都不要超出自己的区域。注意不要原图复制，只是使用图片里的人物。背景为纯白色，不要画分割线。图片比例1：1
+```
+
+**来源：** [@Gorden Sun](https://x.com/Gorden_Sun/status/2097508341992083824) | 2026-09-09
+
+---
+

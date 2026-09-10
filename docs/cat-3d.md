@@ -9093,3 +9093,181 @@ Constraints: Keep proportions consistent between all 4 depictions, preserve the 
 
 ---
 
+### 🧸 例 7718：3D Diagrams and Visual Layouts
+
+![3D Diagrams and Visual Layouts](../images/3D%20Diagrams%20and%20Visual%20Layouts.jpg)
+
+**Prompt:**
+
+```text
+あなたは、情報編集者・図解デザイナー・3Dアートディレクターです。
+・内容に合う視覚表現を3案比較し、最も直感的な1案を採用する。
+・題材固有の物や素材で説明する。古典なら本・竹簡・紙、製造なら部品・組立など。
+・上品なマット素材、柔らかな光、自然な奥行き。立体表現で順序・関係・変化を伝える。
+```
+
+**来源：** [@あきらパパ【生成AI活用エンジニア&３児のパパ】](https://x.com/akira_papa_IT/status/2097832162586407176) | 2026-09-09
+
+---
+
+### 🧸 例 7731：3D 动画角色工作室风格
+
+![3D 动画角色工作室风格](../images/3D%20%E5%8A%A8%E7%94%BB%E8%A7%92%E8%89%B2%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+现代动画工作室风格的 3D 动画角色
+
+[English]
+Stylized 3D animated character in the style of a modern feature-animation studio
+```
+
+**来源：** [@Lucas | Ecom IA](https://x.com/Lucas_IA_/status/2097705366666543179) | 2026-09-09
+
+---
+
+### 🧸 例 7776：Miniature 3D Landmark Diorama
+
+![Miniature 3D Landmark Diorama](../images/Miniature%203D%20Landmark%20Diorama.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cute miniature 3D diorama of {argument name="landmark" default="the Eiffel Tower"}, {argument name="location" default="Paris, France"}. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.
+
+Include minimal, tasteful text:
+{argument name="landmark" default="the Eiffel Tower"}
+{argument name="location" default="Paris, France"}
+Famous for: {argument name="description" default="its iconic iron lattice tower on the Champ de Mars"}
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2097580884098764800) | 2026-09-09
+
+---
+
+### 🧸 例 7796：3D 表情贴纸合集
+
+![3D 表情贴纸合集](../images/3D%20%E8%A1%A8%E6%83%85%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+基于我上传的图片，设计一套 {argument name="风格" default="3D 表情包"} 1:1 透明贴纸页，包含 {argument name="表情包数量" default="9"} 个各不相同的贴纸，按 3X3 网格排列每个贴纸呈现不同的表情、姿势或反应。贴纸之间留出较宽且完全透明的间隔。无背景、阴影或重叠元素，融入{argument name="表情符号" default="🚀🎉🥳🤟"}
+```
+
+**来源：** [@币安小说🍄 头](https://x.com/BAXSCTO/status/2097554076494102704) | 2026-09-09
+
+---
+
+### 🧸 例 7810：Plush Whale Tokyo Design Studio
+
+![Plush Whale Tokyo Design Studio](../images/Plush%20Whale%20Tokyo%20Design%20Studio.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张 3:4 竖版电影感视觉海报，场景设定在东京高层建筑顶楼的未来主义设计工作室，时间为大雨过后的蓝调时刻，主角是一只正在设计机械蝴蝶的毛绒鲸鱼角色。
+
+画布：3:4 竖构图，超精细电影级写实风格，浅景深，光泽反射，温暖的桌面灯光与冷色调的雨中城市蓝光形成对比。镜头略微俯视，越过杂乱的设计师桌面看向落地窗。
+
+主体：一只巨大的可爱毛绒 {argument name="character name" default="蓝鲸"} 吉祥物坐在桌前的黑色办公椅上，身穿带有白色抽绳的深灰色连帽衫。它有着柔软蓬松的蓝色皮毛、白色的腹部和口鼻部、小而有光泽的黑色眼睛、侧鳍以及头顶的一个小圆鳍。角色手持触控笔，正在大型数位屏上绘图。
+
+场景与环境：角色身后，巨大的雨水覆盖的窗户展现出绚丽的东京夜景，玻璃湿润，霓虹灯光呈现出虚化效果，摩天大楼林立，远处的东京塔散发着橙色光芒。逼真的雨滴顺着玻璃滑落。添加室内绿植、置物架、台灯和金属质感的工作室设备。在左侧墙上，放置一张极简主义海报，上面印有黑色圆形标志和中文文字「更快・更锐利・更智能」。
+
+桌面物品：包含确切 9 种不同的桌面物品：1 台显示着蝴蝶概念草图的大型数位屏、1 个黑色键盘、1 个透明玻璃水杯、3 张鲸鱼角色的拍立得照片、1 本打开的笔记本、1 支放在笔记本前的黑色钢笔，以及 1 个黑色圆柱形笔筒。三张拍立得照片应分别显示：戴墨镜的鲸鱼、戴红帽的鲸鱼，以及正在喝水的鲸鱼。
+
+蝴蝶设计：展示确切 2 只显眼的机械蝴蝶：一只较大的发光橙色玻璃蝴蝶悬浮在数位屏前，另一只较小的透明玻璃翅膀蝴蝶显示在悬浮的 UI 卡片中。较大的蝴蝶应具有金属橙色身体、带有机械脉络结构的精致透明翅膀、温暖的 LED 高光以及闪烁的反射效果。数位屏上还应显示蝴蝶设计的多个绘制阶段，包括铅笔线条草图和彩色机械渲染图。
+
+界面叠加：在右侧添加确切 2 个悬浮半透明 UI 气泡。上方气泡包含一个鲸鱼的小圆图标和中文文字：「只把蝴蝶翅膀改成透明玻璃，其他部分保持不变。」下方气泡包含较小的玻璃翅膀蝴蝶预览。使用圆角矩形、细腻的蓝灰色磨砂玻璃效果和柔和的发光感。
+
+笔记本文字：在右下角前景中打开的笔记本上，写上醒目的手写中文文字：「想象，不止于提示词。」并在下方写上 “GPT-Image 2.5”。
+
+视觉风格：超写实 3D 电影级广告海报，完美的材质渲染，湿润的玻璃，抛光的黑色桌面，金属边缘，水滴，柔软的毛绒皮毛，透明玻璃翅膀，橙色霓虹闪光，蓝色环境城市光，体积光灯效，高对比度但画面整洁，几乎没有噪点。
+
+约束：保留确切的计数项目和文字位置，确保所有文字清晰可辨，不要添加额外角色，避免卡通扁平化，除描述的墙上海报和笔记本文字外，避免任何水印或 Logo 叠加。
+
+[English]
+Goal: Create a 3:4 vertical cinematic visual poster of a futuristic design studio on the top floor of a Tokyo high-rise during blue hour after heavy rain, featuring a plush whale character designing a mechanical butterfly.
+
+Canvas: Vertical 3:4 composition, ultra-detailed cinematic realism, shallow depth of field, glossy reflections, warm desk lights contrasted with cool rainy blue city light. The camera looks slightly downward across a cluttered designer’s desk toward floor-to-ceiling windows.
+
+Main subject: A large cute plush {argument name="character name" default="blue whale"} mascot sits in a black office chair at the desk, wearing a dark gray hoodie with white drawstrings. It has soft fuzzy blue fur, a white belly and muzzle, small black glossy eyes, side fins, and a small rounded fin on top. The character holds a stylus and draws on a large pen-display tablet.
+
+Scene and environment: Behind the character, huge rain-covered windows show a vivid Tokyo night skyline with wet glass, bokeh neon reflections, skyscrapers, and Tokyo Tower glowing orange in the distance. Realistic raindrops streak down the glass. Add indoor plants, shelves, desk lamps, and metallic studio equipment. On the left wall, place a minimalist poster with a black circular logo and Chinese text reading 「更快・更锐利・更智能」.
+
+Desk contents: Include exactly 9 distinct desk items: 1 large pen-display tablet showing butterfly concept sketches, 1 black keyboard, 1 transparent glass mug of water, 3 Polaroid photos of the whale character, 1 open notebook, 1 black pen lying in front of the notebook, and 1 black cylindrical pen cup. The three Polaroids should show: the whale wearing sunglasses, the whale wearing a red cap, and the whale drinking from a cup.
+
+Butterfly design: Show exactly 2 prominent mechanical butterflies: one larger glowing orange-and-glass butterfly floating in front of the tablet, and one smaller transparent glass-wing butterfly shown in a floating UI card. The larger butterfly should have a metallic orange body, delicate transparent wings with mechanical vein structures, warm LED highlights, and sparkling reflections. The tablet screen should also show multiple drawn stages of the butterfly design, including pencil line sketches and colored mechanical renderings.
+
+Interface overlay: Add exactly 2 floating translucent UI bubbles on the right side. The top bubble contains a small round icon of the whale and Chinese text: 「只把蝴蝶翅膀改成透明玻璃，其他部分保持不变。」 The lower bubble contains the smaller glass-wing butterfly preview. Use rounded rectangles, subtle blue-gray glassmorphism, and soft glow.
+
+Notebook text: On the open notebook in the lower right foreground, write large handwritten Chinese text: 「想象，不止于提示词。」 and below it write “GPT-Image 2.5”.
+
+Visual style: Hyperrealistic 3D cinematic advertising poster, immaculate material rendering, wet glass, polished black tabletop, metal edges, water droplets, soft plush fur, transparent glass wings, orange neon glints, blue ambient city light, volumetric lamp glow, high contrast but clean, almost no noise.
+
+Constraints: Preserve the exact counted items and text placements, keep all text legible, do not add extra characters, avoid cartoon flatness, avoid watermark or logo overlays beyond the described wall poster and notebook text.
+```
+
+**来源：** [@Fini.Yang](https://x.com/FiniYang/status/2097529600947753247) | 2026-09-09
+
+---
+
+### 🧸 例 7813：AI 产品草图转台灯渲染图
+
+![AI 产品草图转台灯渲染图](../images/AI%20%E4%BA%A7%E5%93%81%E8%8D%89%E5%9B%BE%E8%BD%AC%E5%8F%B0%E7%81%AF%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个整洁、照片级真实感的产品设计工作区场景，展示 AI 辅助从草图到成品的转化过程。使用 16:9 的宽幅画布，配以柔和的自然日光、淡薄荷绿墙面、窗光投下的写实阴影，以及现代化的创客工作室美学。在左侧，放置一张竖立在蓝色网格切割垫上的粗糙灰白色纹理绘图纸，顶部用一小条橙色胶带固定；纸上展示了一张 {argument name="product type" default="蘑菇形陶瓷台灯"} 的详细石墨结构草图，包括垂直和水平辅助线、圆顶灯罩、短灯颈、圆润的球形底座、阴影排线以及地面投影。草图前方放置 2 件绘图工具：一支斜放的黑色铅笔和一块白色长方形橡皮擦。在画面中央，添加半透明的未来感 UI 可视化效果：从左至右排列 4 块半透明玻璃面板，每块面板展示台灯从粗糙草图到精细渲染再到简化 3D 形态的演变过程，带有淡青色轮廓和微妙的蓝色光晕。添加 3 个界面叠加层：左下角一个带有三个水平滑块控件的圆角矩形，右上角一个围绕圆顶预览的矩形裁剪/选择框，以及一个指向台灯演变过程的亮蓝色发光光标箭头。在右侧，将最终的 {argument name="product color and material" default="光泽暖白色陶瓷"} 成品台灯放置在一个长方形斑点石材平台上：平滑的半球形圆顶灯罩、小型黄铜灯杆、灯罩下柔和发出的暖光，以及与草图相呼应的圆润球形底座。场景周围布置工作室道具：左上角和右上角隐约可见的绿叶植物，最右侧放有画笔的白色杯子，右下角一个装有红橙色块的小圆托盘，以及左下角堆叠的样本项目或笔记本。蓝色切割垫应覆盖桌面并显示精确的网格线，以强化设计原型制作的环境感。画面中无可见文字、无 Logo、无水印；强调通过透明的 AI 编辑层将手绘草图转化为成品这一概念。
+
+[English]
+Create a clean, photorealistic product-design workspace scene showing an AI-assisted transformation from sketch to finished object. Use a wide 16:9 canvas with soft natural daylight, pastel mint-green wall, realistic shadows from window light, and a modern maker-studio aesthetic. On the left, place a sheet of rough off-white textured drawing paper standing upright on a blue gridded cutting mat, held at the top with one small strip of orange tape; the paper shows a detailed graphite construction sketch of a {argument name="product type" default="mushroom-shaped ceramic table lamp"}, including vertical and horizontal guide lines, a domed shade, a short neck, rounded bulbous base, hatch shading, and a ground shadow. In front of the sketch are exactly 2 drawing tools: one black pencil angled diagonally and one white rectangular eraser. Across the center, add a translucent futuristic UI visualization: exactly 4 semi-transparent glass panels receding from left to right, each showing the lamp evolving from rough sketch to cleaner render to simplified 3D form, with pale cyan outlines and a subtle blue glow. Add exactly 3 interface overlays: one bottom-left rounded rectangle with three horizontal slider controls, one upper-right rectangular crop/selection frame around a dome preview, and one bright blue glowing cursor arrow pointing at the lamp evolution. On the right, place the final physical {argument name="product color and material" default="glossy warm-white ceramic"} lamp on a rectangular speckled stone platform: a smooth hemispherical dome shade, small brass stem, softly glowing warm light under the shade, and a round bulbous base matching the sketch. Surround the scene with studio props: leafy green plants partially visible at the upper left and upper right, a white cup holding paintbrushes at the far right, a small round tray with a red-orange block in the lower right, and stacked sample boards or notebooks in the lower left. The blue cutting mat should cover the tabletop with precise grid lines, reinforcing a design-prototyping environment. No visible text, no logos, no watermark; emphasize the concept of turning a hand sketch into a finished product through transparent AI editing layers.
+```
+
+**来源：** [@AI产品第一打假](https://x.com/ManuTrrsCmps10/status/2097527875318464917) | 2026-09-09
+
+---
+
+### 🧸 例 7824：Q 版吉祥物战斗动作精灵图表
+
+![Q 版吉祥物战斗动作精灵图表](../images/Q%20%E7%89%88%E5%90%89%E7%A5%A5%E7%89%A9%E6%88%98%E6%96%97%E5%8A%A8%E4%BD%9C%E7%B2%BE%E7%81%B5%E5%9B%BE%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为可爱的吉祥物角色创建一个清晰的 3D Q 版战斗动画精灵图表，适用于制作循环 GIF。
+
+画布：1:1 正方形画布，约 1200 x 1200 像素，以浅灰色棋盘格显示透明背景预览。将精灵图排列在均匀分布的 4 列 4 行网格中，共计 16 个独立的动画帧。在每个角色周围留出充足的间距，并保持所有帧的比例一致。
+
+角色：一个玩具般的亮面 3D Q 版吉祥物，拥有桃色圆形洋葱/水滴状头部和顶部小尖角、微小的笑嘴、红润的脸颊、超大的黑色太阳镜，额头上印有黑色数字 {argument name="forehead number" default="29"}。身体小巧且具有英雄气概，身穿鲜艳的 {argument name="suit color" default="blue"} 长袖紧身衣，配有白色腰带条纹、颈部红色围巾/小披肩、胸前有白色电路状徽章、红色手套或圆润的拳头，以及闪亮的红色靴子。使用柔和的摄影棚灯光、光滑的塑料/乙烯基玩具材质、圆润的比例以及自信愉快的表情。
+
+精灵动作：描绘 16 帧简单的战斗动作序列，全部主要面向前方，带有轻微的 3/4 侧身。按从左到右、从上到下的顺序排列并显示这些帧：1 双拳举起的标准防御姿势；2 更宽的防御姿势；3 右臂直拳开始；4 右臂直拳完全伸展；5 重置防御姿势；6 身体略微倾斜的防御姿势；7 身体横向长直拳；8 回到防御姿势；9 左膝抬起准备；10 更高的膝盖抬起；11 向右侧完全伸展的侧踢；12 侧踢第二帧；13 膝盖抬起恢复；14 标准防御姿势；15 标准防御姿势变体；16 最终标准防御姿势。
+
+视觉风格：高质量可爱 3D 渲染，任天堂风格的吉祥物玩具美学，边缘清晰，饱和的原色，柔和的阴影，一致的摄像机角度，一致的角色尺寸，无动态模糊，除自然 3D 阴影外无轮廓线。
+
+约束：除额头数字外，不得包含任何文字标签。不要添加武器、背景、UI 元素、帧边框、水印或额外角色。在每一帧后面保持棋盘格透明预览可见。
+
+[English]
+Goal: Create a clean 3D chibi fighting animation sprite sheet for a cute mascot character, suitable for making a looping GIF.
+
+Canvas: Square 1:1 canvas, about 1200 x 1200 px, with a transparent-background preview shown as a light gray checkerboard. Arrange the sprites in an evenly spaced 4 columns by 4 rows grid, for exactly 16 separate animation frames. Leave generous padding around each character and keep all frames at a consistent scale.
+
+Character: A toy-like glossy 3D chibi mascot with a peach-colored round onion/droplet-shaped head and a small pointed top, tiny smiling mouth, rosy cheeks, oversized black sunglasses, and the black number {argument name="forehead number" default="29"} printed on the upper forehead. The body is small and heroic, wearing a bright {argument name="suit color" default="blue"} long-sleeve bodysuit with a white belt stripe, a red scarf/capelet at the neck, a small white circuit-like emblem on the chest, red gloves or rounded fists, and shiny red boots. Use soft studio lighting, smooth plastic/vinyl toy material, rounded proportions, and a cheerful confident expression.
+
+Sprite actions: Depict exactly 16 frames of a simple battle motion sequence, all facing mostly forward with slight 3/4 turns. Count and show these frames in order from left to right, top to bottom: 1 neutral guard stance with both fists raised; 2 wider guard stance; 3 right-arm straight punch beginning; 4 right-arm punch fully extended; 5 reset guard stance; 6 guard stance leaning slightly; 7 long straight punch across the body; 8 return to guard; 9 left knee lift preparation; 10 higher knee lift; 11 side kick fully extended to the right; 12 second extended side kick frame; 13 knee lift recovery; 14 neutral guard stance; 15 neutral guard stance variation; 16 final neutral guard stance.
+
+Visual style: High-quality cute 3D render, Nintendo-like mascot toy aesthetic, crisp edges, saturated primary colors, soft shadows, consistent camera angle, consistent character size, no motion blur, no outlines except natural 3D shading.
+
+Constraints: No text labels other than the forehead number. Do not add weapons, backgrounds, UI elements, frame borders, watermarks, or extra characters. Keep the checkerboard transparency preview visible behind every frame.
+```
+
+**来源：** [@にく](https://x.com/29meat_ai/status/2097511262477603307) | 2026-09-09
+
+---
+

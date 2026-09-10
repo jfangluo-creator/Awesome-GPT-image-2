@@ -4565,3 +4565,213 @@ Visual style: Photorealistic comparison collage, clean editorial layout, black g
 
 ---
 
+### 🔧 例 7740：通用风格迁移模板
+
+![通用风格迁移模板](../images/%E9%80%9A%E7%94%A8%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个图像，内容如 {argument name="content source" default="[image 1]"} 所示，但需采用与 {argument name="style source" default="[image 2]"} 相同的媒介、调色板、氛围、渲染技术、饱和度、纹理和整体风格。目标：将风格从 {argument name="source ID" default="[image 1]"} 迁移至 {argument name="target ID" default="[image 2]"}
+
+[English]
+Create an image of the content as shown in {argument name="content source" default="[image 1]"} but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of {argument name="style source" default="[image 2]"}. Objective: Style transfer from {argument name="source ID" default="[image 1]"} to {argument name="target ID" default="[image 2]"}
+```
+
+**来源：** [@Finn McKenty](https://x.com/thefinnmckenty/status/2097681378657911195) | 2026-09-09
+
+---
+
+### 🔧 例 7769：微积分教材页面重绘
+
+![微积分教材页面重绘](../images/%E5%BE%AE%E7%A7%AF%E5%88%86%E6%95%99%E6%9D%90%E9%A1%B5%E9%9D%A2%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+使用场景：科学教育类图片
+
+素材类型：
+高清竖版教材页面重绘
+
+主要要求：
+将参考图片中的中文微积分教材页面重新绘制成清晰、精致、排版锐利的教育页面。保留原图的双栏结构、内容层级和整体布局，但需要重新绘制所有内容，而不是简单增强或修复扫描图片。
+
+输入图片：
+图片 1 是唯一的内容、排版和构图参考，同时也是需要重绘的目标图片。
+
+风格与媒介：
+现代中文版大学数学教材风格。使用干净的白色纸张背景、清晰的印刷排版、专业的数学公式排版，以及精确、接近矢量图效果的函数图像。
+
+页面构图：
+采用竖版页面。
+
+左上角显示页码“{argument name="页码" default="214"}”，右上角显示章节名称“{argument name="章节名称" default="第 4 章 导数的应用"}”。
+
+页面主体首先显示蓝色标题：
+
+“{argument name="标题" default="4.3 切线与线性近似"}”
+
+标题下方依次包括：
+
+1. 章节介绍文字；
+2. 浅黄色的定义框；
+3. 左侧的函数曲线与切线示意图；
+4. 右侧的浅绿色例题框；
+5. 蓝色标题“4.4 求面积与累积量的应用”；
+6. 定积分面积示意图；
+7. 浅黄色的定理框。
+
+保持合理的页边距、内容间距和视觉平衡。
+
+必须包含的数学内容：
+
+切线方程：
+
+y = f(a) + f'(a)(x-a)
+
+线性化公式：
+
+L(x) = f(a) + f'(a)(x-a)
+
+例题函数：
+
+f(x) = √x
+
+在 x = 4 处进行线性近似：
+
+L(x) = 2 + 1/4(x-4) = 1/4 x + 1
+
+近似计算：
+
+√4.1 ≈ 2.025
+
+页面下方的定积分图形应包含：
+
+A = ∫ₐᵇ f(x) dx
+
+并使用颜色填充曲线下方从 a 到 b 的面积区域。
+
+第一幅函数图要求：
+
+- 使用黑色的 x 轴 and y 轴；
+- 绘制一条平滑的蓝色曲线 y=f(x)；
+- 绘制一条红色切线；
+- 使用蓝色圆点标出点 (a,f(a))；
+- 从该点向 x 轴绘制一条竖直虚线；
+- 在 x 轴上标注 a；
+- 正确标注函数曲线和切线公式。
+
+第二幅定积分图要求：
+
+- 使用黑色的 x 轴 and y 轴；
+- 绘制一条平滑的蓝色函数曲线；
+- 使用浅蓝色填充从 a 到 b 的曲线下面积；
+- 在 a 和 b 处绘制竖直虚线；
+- 正确显示积分公式和相关标注。
+
+配色方案：
+
+- 章节标题使用深钴蓝色；
+- 侧边栏使用浅蓝色背景；
+- 定义框和定理框使用浅米黄色或暖黄色背景，并添加金黄色细边框；
+- 例题框使用浅薄荷绿色背景；
+- 正文使用黑色；
+- 函数曲线使用蓝色；
+- 切线使用红色。
+
+限制条件：
+
+- 所有中文文字必须清晰、易读；
+- 所有数学公式和符号必须准确；
+- 保留参考图片的教学含义、章节结构和视觉层级；
+- 不要使用手写字体；
+- 不要出现扫描阴影或纸张褶皱；
+- 不要出现透视变形；
+- 不要添加水印；
+- 不要添加新 Logo；
+- 不要添加无关插图或装饰；
+- 最终效果应像一张全新排版、可用于印刷的中文版大学数学教材页面。
+```
+
+**来源：** [@俊哥AI](https://x.com/jungeAGI/status/2097594643907006499) | 2026-09-09
+
+---
+
+### 🔧 例 7806：水下 AI 模型对比
+
+![水下 AI 模型对比](../images/%E6%B0%B4%E4%B8%8B%20AI%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅并排对比图，展示同一场景的两张水下浮潜照片，如同对比模型输出结果一样。
+
+画布：水平 2:1 宽高比，采用灰白色背景，放置两个大的矩形照片面板，中间由狭窄的垂直间隙隔开。在面板上方添加黑色粗体小标签：左侧标签为 {argument name="left label" default="GPT Image 2"}，右侧标签为 {argument name="right label" default="GPT Image 2.5"}。
+
+布局：使用 2 个照片面板。左侧面板占据左半部分，右侧面板占据右半部分。将标签对齐在每个面板的左上角附近。除灰白色背景边距和中心间隙外，不添加其他边框。
+
+主体细节：两个面板均展示一张逼真的水下广角运动相机照片，背景为清澈的热带绿松石色水域。主体为 {argument name="subject" default="一名年轻女性浮潜者"}，身穿黑色潜水服或防晒衣，佩戴黑色浮潜面罩和黑色脚蹼。她正水平游向镜头，位于波光粼粼的水面下方。阳光在浅色沙质海底投射出明亮的焦散图案。蓝色的水中可见小鱼，边缘处有珊瑚或岩礁。
+
+左侧面板：浮潜者位于中心且靠近镜头，面向前方，双臂向后收拢，身体呈流线型，黑色面罩占据面部主体。水色为明亮的青色，沙质底部较浅，带有阳光波纹，左下角前景处有一块小礁石。整体外观简洁、略显人工感且对称。
+
+右侧面板：浮潜者从左下向左上呈对角线倾斜，一只手臂以自拍视角伸向镜头。她的脚蹼可见于左上角附近，右侧有较大的礁石。水色对比度更丰富，表面闪烁感更强，背景中有更多鱼类，构图更具动态广角效果。
+
+视觉风格：照片级真实感水下摄影，自然阳光，细节清晰，GoPro 风格广角镜头，高清晰度，逼真的水折射，生动的海蓝色和沙白色调。
+
+约束：包含 2 个带标签的面板和 2 个可见文本标签。不要添加额外的说明文字、水印、UI 元素、箭头或装饰性图形。
+
+[English]
+Goal: Create a wide side-by-side comparison image showing two underwater snorkeling photos of the same scene, as if comparing model outputs.
+
+Canvas: Horizontal 2:1 aspect ratio on an off-white background, with two large rectangular photo panels placed side by side and separated by a narrow vertical gutter. Add small black bold labels above the panels: left label reads {argument name="left label" default="GPT Image 2"}, right label reads {argument name="right label" default="GPT Image 2.5"}.
+
+Layout: Use exactly 2 photo panels. The left panel occupies the left half and the right panel occupies the right half. Keep the labels aligned near the upper-left corner of each panel. No borders other than the off-white background margin and the central gap.
+
+Subject details: Both panels show a realistic underwater wide-angle action-camera photograph in clear tropical turquoise water. The subject is {argument name="subject" default="a young woman snorkeler"} wearing a black wetsuit or rash guard, a large black snorkel mask, and black fins. She is swimming horizontally toward the camera just below the rippling water surface. Sunlight creates bright caustic patterns across the shallow sandy seabed. Small fish are visible in the blue water, and coral or rocky reef formations appear near the edges.
+
+Left panel: The snorkeler is centered and closer to the camera, facing forward with arms tucked back, body streamlined, black mask dominating the face. The water is bright cyan, the sandy bottom is shallow and patterned with sun ripples, and a small reef rock sits in the lower-left foreground. The overall look is clean, slightly artificial, and symmetrical.
+
+Right panel: The snorkeler is angled diagonally from lower center toward upper left, with one arm extended toward the camera in a selfie-like perspective. Her fins are visible behind her near the top-left area, and larger reef rocks appear on the right side. The water has richer color contrast, stronger surface shimmer, more fish in the background, and a more dynamic wide-angle composition.
+
+Visual style: Photorealistic underwater photography, natural sunlight, crisp details, GoPro-style wide-angle lens, high clarity, realistic water refraction, vivid aquamarine and sandy white tones.
+
+Constraints: Include exactly 2 labeled panels and exactly 2 visible text labels. Do not add extra captions, watermarks, UI elements, arrows, or decorative graphics.
+```
+
+**来源：** [@zero](https://x.com/twoclipping/status/2097538898465263792) | 2026-09-09
+
+---
+
+### 🔧 例 7822：男性视角设计转换
+
+![男性视角设计转换](../images/%E7%94%B7%E6%80%A7%E8%A7%86%E8%A7%92%E8%AE%BE%E8%AE%A1%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="元デザイン" default="右"}の構成・世界観は維持したまま、男性視点で作りかえて。文字は全て変更する
+```
+
+**来源：** [@ぽんず | AI映像](https://x.com/ponzponz15/status/2097513870969688188) | 2026-09-09
+
+---
+
+### 🔧 例 7830：高分辨率图像修复指令
+
+![高分辨率图像修复指令](../images/%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E4%BF%AE%E5%A4%8D%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+この低解像度の画像を高解像度化してください。
+
+一切のアーティファクトの生成を許可しません。元の画像の画風、色の塗り、構図を完全に維持したまま、ノイズが生まれている箇所などを徹底的に潰し鮮明な画像にしてください。
+```
+
+**来源：** [@松丸 彗吾(keigo matsumaru)](https://x.com/k_matsumaru/status/2097506834659893340) | 2026-09-09
+
+---
+

@@ -16045,3 +16045,412 @@ Visual style: Rough hand-drawn sketch mode, thick uneven strokes, dark UI, playf
 
 ---
 
+### 🖥️ 例 7720：Miniature World Inside a Tangerine
+
+![Miniature World Inside a Tangerine](../images/Miniature%20World%20Inside%20a%20Tangerine.jpg)
+
+**Prompt:**
+
+```text
+Macro cinematic photography inside a {argument name="fruit" default="peeled tangerine"} resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
+{argument name="occupants" default="Three figures, each about two centimeters tall"}, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
+A {argument name="lighting" default="single low-angle sun"} is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
+Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
+Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
+Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+```
+
+**来源：** [@Johnny Wang](https://x.com/JohnnyWang8802/status/2097800514633429315) | 2026-09-09
+
+---
+
+### 🖥️ 例 7721：2D Game Animation Sprite Sheet Generator
+
+![2D Game Animation Sprite Sheet Generator](../images/2D%20Game%20Animation%20Sprite%20Sheet%20Generator.jpg)
+
+**Prompt:**
+
+```text
+このキャラクターを参照して、ゲーム用の2Dアニメーションスプライトシートを作成して。
+内容は「{argument name="アクション" default="アクションを記入"}」
+
+1つの連続したアクションを、4列×4行の合計16フレームで表現する。
+
+【スプライトシート仕様】 ・正方形キャンバス ・4列×4行、合計16フレーム ・16個のセルは完全に同じ大きさ ・各セルの上下左右に最低10pxの余白を確保する ・枠線、グリッド線、数字、文字、記号、UIは一切不要 ・背景は全フレームで統一された単色の白 ・各フレームは左上から右へ、上段から下段へ、時間順に並べる
+
+【最重要：サイズと位置の固定】 ・16フレームすべてでキャラクターの表示倍率を統一する ・カメラのズームイン、ズームアウトは禁止 ・足元の接地面の基準線を同じ高さに固定する ・キャラクターの中心位置がフレームの前後で大きく移動しない・動きに必要な範囲だけポーズを変える
+
+【最重要：セル内に完全に収める】 ・髪、服、手足、武器、小物、エフェクト、残光、粒子を含むすべてを各セルの内部だけに収める ・隣のセルにはみ出さない ・余白10pxの安全領域を侵さない ・アクションが大きくなっても、キャラクターを縮小して調整しない ・必要ならエフェクトや腕の振り幅を控えめにして、セル内に収める
+
+【描画方針】 ・2Dゲーム用スプライトとして読みやすい、明快なシルエット ・フレーム間で自然につながる動き ・1枚絵ではなく、アニメーション素材として破綻のない連続性を重視 ・各フレームの描き込み密度、線、塗り、陰影を統一する
+```
+
+**来源：** [@SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136) | 2026-09-09
+
+---
+
+### 🖥️ 例 7733：Geometric Editorial Portrait Collage
+
+![Geometric Editorial Portrait Collage](../images/Geometric%20Editorial%20Portrait%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 3:4 vertical editorial poster using the uploaded photo.
+
+Split the canvas exactly 50/50 horizontally.
+
+TOP: Preserve the original photo and subject exactly, including identity, pose, proportions, lighting, texture and colour. Apply only subtle premium editorial colour grading. Extend the environment naturally if needed to fit 3:4. Never distort or alter the subject.
+
+BOTTOM: Reimagine the photo as a minimalist modular geometric collage. Preserve the subject’s most recognisable features, silhouette, pose and visual identity using large rectangles, squares, rounded shapes, ellipses, triangles and irregular blocks.
+
+Use fewer, larger shapes rather than fragmented pieces. Simplify unnecessary details and backgrounds while keeping the illustration instantly connected to the original photo.
+
+Extract 2–4 key colours from the photo and refine them into a sophisticated, slightly softened palette. Use flat colour blocks with subtle paper grain, print texture and a handmade cut-paper feel.
+
+Keep the subject relatively small with generous negative space, strong visual hierarchy and an elegant asymmetrical editorial composition.
+
+Optional: add minimal, small typography related to the subject, such as a short title, location or number. Keep text understated.
+
+Overall style: premium art magazine, modernist geometric collage, large modular blocks, soft sophisticated colours, paper texture, generous negative space, clean and refined.
+
+Avoid realistic tracing, excessive fragmentation, childish collage, cartoon styling, 3D rendering, glossy vectors, dense backgrounds, cheap poster templates, excessive text or unrelated elements.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097700805075669465) | 2026-09-09
+
+---
+
+### 🖥️ 例 7736：Golden Hour Sunset Beach Fashion
+
+![Golden Hour Sunset Beach Fashion](../images/Golden%20Hour%20Sunset%20Beach%20Fashion.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic cinematic editorial fashion portrait of a {argument name="subject" default="young elegant woman"} on a quiet beach during golden hour sunset. Use the reference image as inspiration for the pose, mood, and composition. Keep the same dreamy ocean atmosphere but create a more unique high-fashion pose. She is wearing a flowing {argument name="dress color" default="ivory champagne-colored"} luxury chiffon and lace gown with long soft sleeves, elegant covered neckline, delicate fabric texture, and a graceful silhouette. The dress should flow naturally with the sea breeze and touch the shallow water. Pose: She is sitting gracefully on wet reflective sand near the waves, body slightly turned sideways, one leg folded naturally, one hand gently touching the water, the other hand raised in an {argument name="pose style" default="artistic dance-like movement"} near her face. Create a graceful, emotional pose inspired by classical dance and luxury fashion photography. Expression: peaceful, dreamy, elegant, looking toward the horizon. Hair: long natural dark waves moving softly with the ocean breeze. Lighting: warm golden sunset backlight, soft glowing rim light around hair and dress, cinematic shadows, pastel sky tones. Color palette: ivory, champagne, soft beige, warm gold, muted peach, and ocean blue. Camera: professional fashion magazine photography, 85mm lens, shallow depth of field, ultra detailed fabric, realistic skin texture, natural beauty, high-end luxury editorial style. Composition: full body shot, centered subject, reflection on wet sand, ocean waves around her, minimal clean background. Style: Vogue-inspired luxury beach editorial, dreamy cinematic photography, viral Instagram aesthetic, realistic, 8K quality. No text, no watermark, no extra people, no accessories overload.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2097696733740560470) | 2026-09-09
+
+---
+
+### 🖥️ 例 7745：Cinematic Mural Forced Perspective Illusion
+
+![Cinematic Mural Forced Perspective Illusion](../images/Cinematic%20Mural%20Forced%20Perspective%20Illusion.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, hairstyle, and overall appearance naturally. Create a creative cinematic street portrait featuring the same adult man standing in front of a large black brick wall covered with a massive {argument name="mural subject" default="photorealistic monochrome mural of himself"}. The mural should dominate almost the entire background. Show a huge black-and-white waist-up portrait of the man wearing subtle rectangular eyeglasses and a dark button-up shirt. In the mural, he is looking downward while holding a large vintage stainless-steel kettle in one raised hand, tilted forward as if {argument name="mural action" default="pouring a drink"}. Make the mural realistically integrated into the brick texture, with the brick pattern subtly visible through the printed artwork. In the foreground, place the real-life version of the same man at the lower-right area of the composition. Show him full-body, standing casually with one hand inside his trouser pocket while the other hand holds a transparent plastic cup filled with iced coffee. Position the cup directly beneath the kettle spout so that a realistic stream of coffee appears to pour from the giant mural kettle into the small cup, creating a clever forced-perspective optical illusion. Dress the foreground subject in: {argument name="outfit" default="olive-green bomber jacket, plain black crew-neck T-shirt, slim dark charcoal jeans, clean white low-top sneakers"}. Pose him looking upward toward the giant mural with a relaxed, slightly amused expression. Use a dark urban environment with a black painted brick wall, simple concrete pavement, soft natural overcast lighting, realistic shadows, muted cinematic colors, and strong contrast between the monochrome mural and the colored foreground subject. Maintain believable scale, accurate perspective, realistic liquid physics, natural anatomy, detailed fabric textures, realistic skin texture, sharp facial details, professional photography quality, subtle depth of field, premium editorial street-photography aesthetic, highly photorealistic. Composition: vertical 4:5, giant mural filling approximately 80% of the frame, foreground subject positioned lower-right, kettle and cup perfectly aligned to create the pouring illusion.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097655236689056039) | 2026-09-09
+
+---
+
+### 🖥️ 例 7747：Midnight Form Luxury Fashion Poster
+
+![Midnight Form Luxury Fashion Poster](../images/Midnight%20Form%20Luxury%20Fashion%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium, hyper-realistic luxury men’s fashion editorial poster using my uploaded male face as the ONLY identity reference for the main male model.
+
+Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize/masculinize, age, de-age, or alter my facial features.
+
+Concept: “{argument name="concept" default="MIDNIGHT FORM"}”
+
+Create an original high-end contemporary fashion campaign with a sophisticated {argument name="color palette" default="deep emerald-green and charcoal"} color palette, completely different from the reference composition.
+
+The male model is standing confidently in a minimalist architectural studio with dark green textured walls, subtle dramatic shadows, polished concrete flooring, and soft cinematic lighting. He wears a {argument name="outfit" default="luxury oversized cream bomber jacket, fitted black knit top, tailored charcoal wide-leg trousers, premium black leather sneakers, a minimalist silver watch, and subtle silver rings"}.
+
+Pose: full-body fashion pose, standing slightly angled toward camera, one hand casually inside the jacket pocket while the other adjusts the cuff, shoulders relaxed, chin slightly raised, confident editorial expression. Natural realistic body proportions.
+
+Photography: high-end European fashion magazine photography, full-body composition, 85mm lens aesthetic, realistic skin pores, detailed fabric texture, soft directional studio lighting, subtle rim light, cinematic shadows, shallow depth of field, premium color grading, photorealistic, ultra-detailed, sophisticated and expensive visual atmosphere.
+
+Typography & Layout
+
+Add elegant editorial typography integrated into the poster:
+
+MIDNIGHT
+FORM
+
+Small headline:
+AUTUMN / WINTER 2026
+
+Supporting copy:
+QUIET CONFIDENCE.
+MODERN STRUCTURE.
+
+Product callouts:
+OVERSIZED BOMBER
+Relaxed. Refined. Essential.
+
+TAILORED TROUSERS
+Fluid silhouette. Modern movement.
+
+LEATHER SNEAKERS
+Minimal. Bold. Versatile.
+
+Bottom section:
+NEW SEASON
+01 / 26
+DESIGNED FOR THE MODERN MAN
+
+Use sophisticated high-fashion serif typography mixed with clean minimalist sans-serif text, carefully balanced around the model. Keep typography elegant, spacious, and editorial rather than cluttered.
+
+Composition: vertical 9:16, full-body model clearly visible, premium magazine-cover aesthetic, original layout, no copied branding, no logos, no watermark, no distorted hands, no extra fingers, no duplicated body parts, extremely realistic fashion photography.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2097650261330460818) | 2026-09-09
+
+---
+
+### 🖥️ 例 7754：1980s Vintage Retro Portrait
+
+![1980s Vintage Retro Portrait](../images/1980s%20Vintage%20Retro%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Using my uploaded photo, show me what I would have looked like around {argument name="year" default="1985"}. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine {argument name="year" default="1985"} photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s {argument name="date stamp color" default="red-orange"} date stamp in the lower corner. No modern objects or text.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2097622013946875951) | 2026-09-09
+
+---
+
+### 🖥️ 例 7759：雾气弥漫的乡村夜晚与古老农舍
+
+![雾气弥漫的乡村夜晚与古老农舍](../images/%E9%9B%BE%E6%B0%94%E5%BC%A5%E6%BC%AB%E7%9A%84%E4%B9%A1%E6%9D%91%E5%A4%9C%E6%99%9A%E4%B8%8E%E5%8F%A4%E8%80%81%E5%86%9C%E8%88%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一条迷失在 {argument name="location" default="法国乡村"} 的小路，深处深夜，笼罩在 {argument name="weather" default="浓雾"} 之中。田野、一棵大树，以及远处一间仍亮着一扇窗户的古老农舍。
+
+[English]
+une petite route perdue dans la {argument name="lieu" default="campagne française"}, au beau milieu de la nuit et sous une {argument name="météo" default="épaisse brume"}. Des champs, un grand arbre et une vieille ferme au loin avec une seule fenêtre encore éclairée.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612940916531338) | 2026-09-09
+
+---
+
+### 🖥️ 例 7760：雨夜的法国街道
+
+![雨夜的法国街道](../images/%E9%9B%A8%E5%A4%9C%E7%9A%84%E6%B3%95%E5%9B%BD%E8%A1%97%E9%81%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+傍晚时分，{argument name="location" default="法国街道"} 在 {argument name="weather" default="绵绵细雨"} 下的景象。画面包含行人、雨伞、汽车、灯火通明的商店，以及湿漉漉路面上的倒影。
+
+[English]
+une scène de {argument name="lieu" default="rue française"} sous une {argument name="météo" default="pluie soutenue"} en début de soirée. Passants, parapluies, voitures, commerces éclairés et reflets sur la chaussée détrempée.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612933404520569) | 2026-09-09
+
+---
+
+### 🖥️ 例 7761：奇幻林克拔出大师之剑
+
+![奇幻林克拔出大师之剑](../images/%E5%A5%87%E5%B9%BB%E6%9E%97%E5%85%8B%E6%8B%94%E5%87%BA%E5%A4%A7%E5%B8%88%E4%B9%8B%E5%89%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="character" default="林克"} 从 {argument name="location" default="古老的海拉鲁森林圣地"} 中心的基座上拔出 {argument name="object" default="大师之剑"}。
+
+[English]
+{argument name="personnage" default="Link"} qui retire la {argument name="objet" default="Master Sword"} de son piédestal au cœur d’un {argument name="lieu" default="ancien sanctuaire forestier d’Hyrule"}.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612917105418246) | 2026-09-09
+
+---
+
+### 🖥️ 例 7762：科幻 UFO 劫持场景
+
+![科幻 UFO 劫持场景](../images/%E7%A7%91%E5%B9%BB%20UFO%20%E5%8A%AB%E6%8C%81%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="subject" default="孤独的男子"} 站在田野中央，上方一架 {argument name="object" default="巨大的飞碟"} 正危险地降落，仿佛要将他带走。
+
+[English]
+Un {argument name="sujet" default="homme seul"} au milieu d’un champ et une {argument name="objet" default="immense soucoupe volante"} qui descend dangereusement au-dessus de lui, comme si elle était sur le point de l’emporter.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612896062554272) | 2026-09-09
+
+---
+
+### 🖥️ 例 7763：在森林溪流边喝水的猫
+
+![在森林溪流边喝水的猫](../images/%E5%9C%A8%E6%A3%AE%E6%9E%97%E6%BA%AA%E6%B5%81%E8%BE%B9%E5%96%9D%E6%B0%B4%E7%9A%84%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一只 {argument name="animal" default="年幼的灰色虎斑猫"} 正在 {argument name="environment" default="郁郁葱葱的森林"} 中，直接从 {argument name="water source" default="一条小溪"} 里喝水。
+
+[English]
+un {argument name="animal" default="jeune chat gris tigré"} qui boit directement dans {argument name="source d'eau" default="un petit ruisseau"} au milieu d’une {argument name="environnement" default="forêt verdoyante"}.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612889209114957) | 2026-09-09
+
+---
+
+### 🖥️ 例 7790：带有动漫 3x3 分镜的 AI 生成 UI
+
+![带有动漫 3x3 分镜的 AI 生成 UI](../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%BC%AB%203x3%20%E5%88%86%E9%95%9C%E7%9A%84%20AI%20%E7%94%9F%E6%88%90%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的社交媒体截图，展示一个 AI 图像生成界面，其中包含已完成的动漫音乐视频分镜请求及其 3x3 输出网格。
+
+画布：横向截图，尺寸约为 1200x884 像素，白色/浅灰色背景，留有大量空白边距。使用现代简约的 Web 应用 UI 风格，带有圆角卡片、柔和阴影和灰色系统文本。
+
+顶部区域：在上方中心附近，显示一张带有细微阴影的矩形参考图像预览。预览包含一个动漫角色：一位短发中性化年轻人，拥有 {argument name="hair color" default="深灰棕色波波头，直刘海"}，皮肤白皙，戴着细圆框眼镜，一只眼睛闭着眨眼，另一只蓝色眼睛可见，身穿白色高领礼袍，配有项链和红色流苏。背景是黑暗奇幻的大教堂城市，带有发光的金色圆形拱门和蓝色漩涡状月亮天空。
+
+提示词气泡：在预览下方，放置一个宽大的黑色圆角对话气泡，内含白色日语文本，内容为 {argument name="prompt text" default="このキャラクターのボカロmvの様々なカットを3x3で出力して 16:9　トンマナ合わせて"}。气泡应横跨中心大部分宽度，并具有大圆角。
+
+状态文本：在气泡下方，输出网格的左上方，添加灰色文本 {argument name="status text" default="耗时 1 分 7 秒"}。
+
+输出网格：在一个大的圆角矩形内，展示精确排列成 3 列 3 行的 9 个电影感分镜，圆角经过裁剪。每个分镜均为 16:9，由细白色网格线分隔，共享相同的色调：深蓝色、黑色、白色和暖金色，呈现光泽感的动漫/Vocaloid MV 美学，戏剧性光影，大教堂废墟，漂浮的羽毛或火花，湿润的反光地面，发光的金色圆环，蓝色漩涡天空。这 9 个分镜分别是：
+1. 左上：角色在发光金色拱门下的正面半身像，表情平静，戴眼镜，穿白袍。
+2. 中上：侧面特写，头发飘动，闭眼，黑暗大教堂背景中有蓝色灯光。
+3. 右上：动态四分之三侧身镜头，角色向观众伸出一只白色袖子，背景为金色拱门和蓝色漩涡。
+4. 左中：低角度广角镜头，角色向前倾斜或伸手，白色袖子飘动，周围是大教堂塔楼。
+5. 中中：全身居中镜头，站在反光湿地面上，由高大的拱门和远处的发光圆环构图。
+6. 右中：角色向镜头伸手特写，一只眼闭着，前景有手部透视缩短效果。
+7. 左下：角色走进发光拱门下大教堂环境的后方广角镜头。
+8. 中下：情感特写，角色闭眼，双手靠近嘴部或胸前，周围环绕着蓝色火花。
+9. 右下：废墟哥特式塔楼的超广角定场镜头，带有发光的圆形拱门、蓝色漩涡天空，远处有微小的人物或角色。
+
+叠加控件：在网格下部添加 3 个圆形界面控件：左下角一个标有 {argument name="edit button text" default="编辑"} 的深色圆形按钮，中右侧附近一个带有向下箭头的浅灰色圆形下载按钮，以及右下角一个带有向上箭头的深色圆形分享按钮。
+
+风格限制：整张图片应看起来像真实的 Web UI 截图，而非海报。保持界面文本清晰，网格被底部边缘轻微裁剪，动漫分镜需高细节、电影感，且角色设计和色彩分级保持一致。
+
+[English]
+Goal: Create a clean social-media screenshot of an AI image generation interface showing a completed anime music-video storyboard request and its 3x3 output grid.
+
+Canvas: Horizontal screenshot, approximately 1200x884 px, white/light-gray background with lots of empty margin. Use a modern minimal web-app UI style with rounded cards, soft shadows, and gray system text.
+
+Top area: Near the upper center, show one rectangular reference image preview with a subtle shadow. The preview contains an anime character: a short-haired androgynous young person with {argument name="hair color" default="dark ash-brown bob haircut with straight bangs"}, pale skin, thin round glasses, one eye closed in a wink, one blue visible eye, wearing a white high-collar ceremonial robe with necklaces and a red tassel. Behind them is a dark fantasy cathedral city with a glowing golden circular arch and a blue vortex moon-like sky.
+
+Prompt bubble: Below the preview, place a wide black rounded speech bubble with white Japanese text, reading exactly {argument name="prompt text" default="このキャラクターのボカロmvの様々なカットを3x3で出力して 16:9　トンマナ合わせて"}. The bubble should span most of the center width and have large rounded corners.
+
+Status text: Under the bubble, aligned left above the output grid, add gray text reading {argument name="status text" default="Worked for 1m 7s"}.
+
+Output grid: Show exactly 9 cinematic panels arranged in a 3 columns by 3 rows grid, inside one large rounded rectangle with clipped rounded corners. Each panel is 16:9, separated by thin white grid lines, all sharing the same tone: dark blue, black, white, and warm gold, glossy anime/Vocaloid MV aesthetic, dramatic lighting, cathedral ruins, floating feathers or sparkles, wet reflective floor, glowing golden ring, blue vortex sky. The 9 panels are:
+1. Top-left: frontal bust shot of the character under the glowing golden arch, calm expression, glasses, white robe.
+2. Top-center: side-profile close-up with hair blowing, eyes closed, blue lights in the dark cathedral background.
+3. Top-right: dynamic three-quarter shot, character extending a white sleeve toward the viewer, golden arch and blue vortex behind.
+4. Middle-left: low-angle wide shot, character leaning or reaching forward with billowing white sleeves, cathedral towers around them.
+5. Middle-center: full-body centered shot standing on a reflective wet floor, framed by a tall archway and distant glowing ring.
+6. Middle-right: close shot of character reaching a hand toward the camera, one eye closed, foreshortened hand in foreground.
+7. Bottom-left: rear wide shot of the character walking into the cathedral environment beneath the glowing arch.
+8. Bottom-center: emotional close-up, character with eyes closed and hands near mouth or chest, surrounded by blue sparkles.
+9. Bottom-right: very wide establishing shot of ruined gothic towers, glowing circular arch, blue vortex sky, tiny figure or distant character.
+
+Overlay controls: Add exactly 3 circular interface controls over the lower part of the grid: a dark circular button at bottom-left labeled {argument name="edit button text" default="編集"}, a light gray circular download button with a downward arrow near the lower center-right, and a dark circular share button with an upward arrow at bottom-right.
+
+Style constraints: The whole image should look like a real captured web UI, not a poster. Keep the interface text crisp, the grid slightly cropped by the bottom edge of the screenshot, and the anime panels high-detail, cinematic, consistent in character design and color grading.
+```
+
+**来源：** [@でぷれ｜売上直結マーケ特化型AI活用術](https://x.com/ai_depression/status/2097566289934086170) | 2026-09-09
+
+---
+
+### 🖥️ 例 7799：日语 AI 对话 Kaiju 截图
+
+![日语 AI 对话 Kaiju 截图](../images/%E6%97%A5%E8%AF%AD%20AI%20%E5%AF%B9%E8%AF%9D%20Kaiju%20%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的截图风格聊天界面，展示日语指令后的 AI 图像生成结果。
+
+画布：宽屏横向画布，约 1200×1000 像素，背景为极浅的灰白色，右侧留有大量空白。主要的生成图像卡片位于中心偏左位置，用户消息气泡位于右上角附近。
+
+文本内容：在右上角包含 1 个淡蓝色圆角消息气泡，其中包含日语文本 {argument name="instruction text" default="真正面直立にしてください。"}。保持文本为深海军蓝色，使用简洁的无衬线字体，在气泡内垂直居中。
+
+主图像卡片：左侧显示 1 张大型圆角白色图像卡片，带有柔和的圆角和淡淡的灰色阴影。卡片内部是一个正面、全身的卡通怪兽，绘制风格类似可爱的贴纸：一个蹲姿直立的爬行动物/Kaiju，有着圆圆的大脑袋、愤怒的斜眼、粗黑的轮廓线、棕色斑点皮肤、黄色腹部、带有黑色爪子的短手臂、粗壮的腿部和黑色脚趾甲，以及向左延伸的弯曲尾巴。生物正面直立，姿势僵硬。它有一条红色的分叉舌头从锯齿状的嘴里伸出，有小鼻孔点，头部、手臂、身体、腿部和尾巴上散布着深色斑点。使用手绘记号笔或水彩纹理，填充略有不均。角色颜色：{argument name="body color" default="泥棕色"}，{argument name="belly color" default="暖黄色"}，{argument name="tongue color" default="红色"}，并带有粗黑轮廓线。
+
+覆盖控件：在图像卡片的下边缘，包含 2 个半透明圆形控件：左下角是一个标有白色「編集」字样的灰色圆圈，右下角是一个带有白色上传/分享箭头图标的灰色圆圈。在这些控件背后的图像卡片底部，呈现出淡淡的灰色渐变。
+
+底部工具栏：在卡片下方，左对齐排列 5 个小型灰色轮廓图标，顺序如下：复制/重复图标、点赞图标、点踩图标、分享/上传图标以及水平省略号图标。保持图标简洁且无填充。
+
+风格约束：整个场景应看起来像一张裁剪过的现代 AI 聊天应用截图，而非海报。请严格保留指定的日语文本。不要添加额外的消息、标题、水印、边框或其他字符。
+
+[English]
+Goal: Create a clean screenshot-style chat interface showing an AI image generation result after a Japanese instruction.
+
+Canvas: Wide landscape canvas, about 1200×1000 px, with a very light gray-white background and lots of empty space on the right. The main generated image card sits left of center, with a user message bubble near the upper right.
+
+Text content: Include exactly 1 pale blue rounded message bubble in the upper right containing the Japanese text {argument name="instruction text" default="真正面直立にしてください。"}. Keep the text dark navy, simple sans-serif, centered vertically in the bubble.
+
+Main image card: Show exactly 1 large rounded white image card on the left, with soft corners and a subtle gray shadow. Inside it is a front-facing, full-body cartoon monster drawn like a cute sticker: a squat upright reptile/kaiju with a big rounded head, angry slanted eyes, thick black outlines, brown spotted skin, a yellow belly, short arms with black claws, chunky legs with black toenails, and a curved tail extending to the left. The creature faces straight forward in a rigid standing pose. It has a red forked tongue hanging from a jagged mouth, small nostril dots, and dark spots scattered over the head, arms, body, legs, and tail. Use a hand-drawn marker or watercolor texture with slightly uneven fills. Character colors: {argument name="body color" default="muddy brown"}, {argument name="belly color" default="warm yellow"}, {argument name="tongue color" default="red"}, with thick black outlines.
+
+Overlay controls: On the lower edge of the image card, include exactly 2 semi-transparent circular controls: a gray circle at bottom left labeled 「編集」 in white, and a gray circle at bottom right with a white upload/share arrow icon. A faint gray gradient appears along the bottom of the image card behind these controls.
+
+Bottom toolbar: Beneath the card, aligned left, include exactly 5 small gray outline icons in this order: copy/duplicate icon, thumbs-up icon, thumbs-down icon, share/upload icon, and horizontal ellipsis icon. Keep them minimal and unfilled.
+
+Style constraints: The whole scene should look like a cropped modern AI chat app screenshot, not a poster. Preserve the Japanese text exactly where specified. Do not add extra messages, captions, watermarks, borders, or additional characters.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2097551408040227003) | 2026-09-09
+
+---
+
+### 🖥️ 例 7820：Urban Golden Hour Male Portrait
+
+![Urban Golden Hour Male Portrait](../images/Urban%20Golden%20Hour%20Male%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded image as the main facial identity and composition reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and natural appearance accurately.
+
+Create a photorealistic urban lifestyle portrait of {argument name="subject" default="an adult man"} standing outdoors in a modern city during {argument name="time of day" default="golden hour"}. Frame him from about the chest upward in a relaxed three-quarter pose, facing slightly to one side with a calm, confident expression.
+
+Dress him in {argument name="outfit" default="a light blue washed denim jacket layered over a plain black crew-neck T-shirt"}. Add a simple black baseball cap and stylish black rectangular sunglasses with subtle reflections in the lenses. Keep the styling clean, modern, masculine, and minimal, with no chain or unnecessary accessories.
+
+Place him beside a tall black street pole, with modern glass skyscrapers and city architecture softly blurred in the background. Capture warm sunset light glowing between the buildings, creating golden highlights, soft rim lighting, and atmospheric city bokeh.
+
+Use shallow depth of field, realistic skin texture, natural facial details, crisp denim fabric texture, cinematic golden-hour lighting, soft background blur, premium street-fashion photography, DSLR realism, 85mm portrait-lens look, high detail, vertical 9:16 composition.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097516592502579498) | 2026-09-09
+
+---
+
+### 🖥️ 例 7831：网红直播场景
+
+![网红直播场景](../images/%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="平台" default="抖音"}直播界面，两个{argument name="角色" default="中国女性 influencers"}在连麦
+```
+
+**来源：** [@LinearUncle](https://x.com/LinearUncle/status/2097506201621942396) | 2026-09-09
+
+---
+

@@ -10115,3 +10115,99 @@ Text constraints: Keep all Japanese text exactly as written, vertical where appr
 
 ---
 
+### 🎬 例 7724：Vocaloid MV 项目分镜网格
+
+![Vocaloid MV 项目分镜网格](../images/Vocaloid%20MV%20%E9%A1%B9%E7%9B%AE%E5%88%86%E9%95%9C%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+输出该 {argument name="character" default="character"} 的 Vocaloid MV 的各种剪辑画面，以 3x3 网格形式呈现，比例为 16:9。
+
+[English]
+この{argument name="キャラクター" default="キャラクター"}のボカロmvの様々なカットを3x3で出力して　16:9
+```
+
+**来源：** [@テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo/status/2097756013583900701) | 2026-09-09
+
+---
+
+### 🎬 例 7773：电影感哥特萝莉 3x3 动漫剧照
+
+![电影感哥特萝莉 3x3 动漫剧照](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%93%A5%E7%89%B9%E8%90%9D%E8%8E%89%203x3%20%E5%8A%A8%E6%BC%AB%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影感动漫风格的 3x3 联系表，主角为 {argument name="character name" default="一位甜美的棕发哥特萝莉女主角"}，场景设定在优雅的玫瑰宫殿内部，每个分镜看起来都像是同一部浪漫奇幻电影的剧照。
+
+画布：宽屏 16:9 图像，划分为 3 列 3 行，共 9 个等大的矩形分镜。分镜之间使用细白线间隔。每个分镜都带有精致的装饰性胶片边框，配有微小的玫瑰图案、边角花纹、淡淡的引导线和装饰性标记，呈现出顶级动漫关键视觉图的效果。
+
+角色设计：一位年轻的动漫少女，留着非常长的波浪卷 {argument name="hair color" default="暖栗棕色"} 头发，琥珀金色的眼睛，面带红晕，表情开朗温柔。她身穿酒红色与奶油色相间的哥特萝莉裙：短款酒红色夹克或开衫，象牙白荷叶边衬衫，领口配有带玫瑰胸针的大红蝴蝶结，层叠的奶油色蕾丝裙摆，外罩酒红色格纹裙，配有蝴蝶结、丝带、褶边、白色蕾丝袜和深色厚底玛丽珍鞋。增加一个带有金链和垂坠三叶草饰品的酒红色玫瑰丝带发饰。整体色调：{argument name="color palette" default="暖玫瑰红、象牙奶油色、金色、柔和棕色以及发光的桃色光影"}。
+
+场景与氛围：奢华的教堂式宫殿大厅或温室，布满玫瑰、高大的拱形窗户、吊灯、大理石地板、华丽的家具、蜡烛和金色阳光。红色玫瑰花瓣在每个分镜中飘浮。光影梦幻、温暖、背光，具有浅景深、柔和的焦外成像效果，呈现出高度精致的动漫插画品质。
+
+分镜布局，共 9 个镜头：
+1. 左上：全身远景，少女站在宏伟的拱形大厅中央，裙装清晰可见，周围环绕着玫瑰和阳光。
+2. 上中：正面特写，明媚微笑并向观众伸出一只手，发丝飘动，前景有花瓣飘落。
+3. 右上：侧脸半身像，面向右侧，马尾辫和长发在窗外淡雅的城市或宫殿天际线背景下飘动。
+4. 中左：背部四分之三侧身镜头，强调长发和酒红色服装的质感与卷度，背景是模糊的金色宫殿内部。
+5. 中中：坐姿或倚靠在桌边的肖像，托腮微笑，背景有书籍、玫瑰、画框和烛光装饰。
+6. 中右：动态舞蹈或旋转镜头，双眼幸福地闭着，裙摆大幅度张开，单臂伸展，花瓣扫过画面。
+7. 下左：发饰的极近距离细节：附着在头发上的酒红色玫瑰、缎带、金链和垂坠饰品。
+8. 下中：腿部及鞋子的近距离细节，走在光亮的大理石地面上，穿着带蝴蝶结的白袜和深色厚底玛丽珍鞋，地面反射着散落的玫瑰花瓣。
+9. 下右：过肩特写，她回眸看向观众，带着温柔的微笑，背景是玫瑰和温暖的灯光。
+
+视觉风格：高端日本动漫插画，电影预告片剧照，细腻的线条，复杂的服装细节，透亮的皮肤，丝滑的发丝渲染，柔和的电影感景深，温暖的浪漫奇幻氛围，优雅且精致，如同宣传 PV 的分镜脚本。
+
+约束条件：在所有 9 个分镜中保持角色、服装、发型和配饰的一致性。不要添加对话、标题、Logo、字幕、水印或额外角色。保持连贯的电影剧照序列，而非 9 张不相关的插画。使用 {argument name="render quality" default="超精细、电影感、柔焦动漫关键视觉图"}。
+
+[English]
+Goal: Create a cinematic anime movie-style 3x3 contact sheet featuring {argument name="character name" default="a sweet brown-haired gothic lolita heroine"} in an elegant rose-filled palace interior, with each panel looking like a still frame from the same romantic fantasy film.
+
+Canvas: Wide 16:9 image divided into exactly 9 equal rectangular panels in a 3 columns by 3 rows grid. Use thin white gutters between panels. Each panel has a delicate ornamental film-frame border with tiny rose motifs, corner flourishes, faint guide lines, and small decorative marks, like premium anime key visuals.
+
+Character design: A young anime girl with very long wavy {argument name="hair color" default="warm chestnut brown"} hair, amber-gold eyes, soft blush, and a cheerful gentle expression. She wears a burgundy and cream gothic lolita dress: cropped burgundy jacket or cardigan, ivory ruffled blouse, large red ribbon at the collar with a rose brooch, layered cream lace skirt with burgundy plaid overskirt, bows, ribbons, frills, white lace socks, and dark platform Mary Jane shoes. Add a large burgundy rose-and-ribbon hair ornament with gold chains and dangling clover-like charms. Overall palette: {argument name="color palette" default="warm rose red, ivory cream, gold, soft brown, and glowing peach light"}.
+
+Setting and mood: A luxurious cathedral-like palace hall or conservatory filled with roses, tall arched windows, chandeliers, marble floors, ornate furniture, candles, and golden sunlight. Red rose petals float through the air in every panel. Lighting is dreamy, warm, backlit, shallow depth of field, soft bokeh, highly polished anime illustration quality.
+
+Panel layout, exactly 9 shots:
+1. Top-left: full-body establishing shot of the girl standing centered in a grand arched hall, dress fully visible, roses and sunlight around her.
+2. Top-center: close-up front portrait, smiling brightly and reaching one hand toward the viewer, hair flowing, petals in foreground.
+3. Top-right: side-profile bust shot facing right, ponytail and long hair streaming behind her against a pale city or palace skyline through the windows.
+4. Middle-left: rear three-quarter shot from behind, emphasizing the volume and curls of her long hair and burgundy outfit, golden palace interior blurred behind.
+5. Middle-center: seated or leaning-at-table portrait, chin resting on hand, gentle smile, books, roses, framed paintings, and candlelit decor behind her.
+6. Middle-right: dynamic dancing or twirling shot, eyes happily closed, skirt flaring wide, one arm extended, petals sweeping across the frame.
+7. Bottom-left: extreme close-up detail of the hair ornament: burgundy rose, satin ribbon, gold chains, and dangling charms attached to her hair.
+8. Bottom-center: close-up detail of her lower legs and shoes walking on glossy marble, white socks with bows, dark platform Mary Janes, scattered rose petals reflected on the floor.
+9. Bottom-right: close-up over-the-shoulder portrait, she turns back toward the viewer with a soft smile, roses and warm lights behind her.
+
+Visual style: High-end Japanese anime illustration, movie trailer stills, delicate linework, intricate clothing detail, luminous skin, silky hair rendering, soft cinematic depth of field, warm romantic fantasy atmosphere, elegant and polished like a promotional PV storyboard.
+
+Constraints: Keep the same character, outfit, hairstyle, and accessories consistent across all 9 panels. Do not add dialogue, captions, logos, subtitles, watermarks, or extra characters. Maintain a cohesive film-still sequence rather than nine unrelated illustrations. Use {argument name="render quality" default="ultra-detailed, cinematic, soft-focus anime key visual"}.
+```
+
+**来源：** [@びーぐる / Beagle Works](https://x.com/beagle_dog_inu/status/2097586729993814160) | 2026-09-09
+
+---
+
+### 🎬 例 7775：透明窗口 Alpha 演示
+
+![透明窗口 Alpha 演示](../images/%E9%80%8F%E6%98%8E%E7%AA%97%E5%8F%A3%20Alpha%20%E6%BC%94%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在黑色画布上创建一张简洁的演示图像，展示带有透明效果的四格白色窗框图形。主体是一个略微偏左、正对着的写实窗户，配有厚实的亮面白色窗框、斜角边缘、将玻璃分为 4 个矩形格的横竖十字档，以及底部的一个小窗台。窗户后方及透过窗户可见灰色的棋盘格透明图案，玻璃部分应呈现约 50% 的透明度（Alpha 值），并带有淡淡的蓝色调、柔和的反光以及两条对角线光束。在窗户周围，包含一个更大的半透明棋盘格矩形，背景为黑色，交替出现深灰色方块以清晰标识透明度。在右上角，添加一个圆角蓝色气泡标签，其中包含白色无衬线字体的日语文本 {argument name="instruction text" default="窓枠と窓の画像、背景透過、窓の部分は50%のアルファ値とする"}。在棋盘格区域的左下角，添加一个标有「編集」的小型深色圆角按钮；在右下角，添加一个带有白色上传/分享箭头图标的小型深色圆形按钮。保持构图简洁，无额外物体，无水印，呈现清晰的 UI 风格。
+
+[English]
+Create a clean demonstration image on a black canvas showing a white-framed four-pane window graphic with transparency effects. The main subject is a realistic front-facing window centered slightly left, with a thick glossy white frame, beveled edges, a horizontal and vertical crossbar dividing the glass into exactly 4 rectangular panes, and a small sill at the bottom. Behind and through the window is a gray checkerboard transparency pattern, and the glass panes should show the checkerboard faintly with about 50% alpha, plus subtle bluish tint, soft reflections, and two diagonal light streaks. Around the window, include a larger semi-transparent checkerboard rectangle with alternating dark gray squares on the black background to clearly indicate transparency. At the top right, add one rounded blue speech-bubble label containing the Japanese text {argument name="instruction text" default="窓枠と窓の画像、背景透過、窓の部分は50%のアルファ値とする"} in white sans-serif type. At the bottom left of the checkerboard area, add one small dark rounded button labeled 「編集」, and at the bottom right add one small circular dark button with a white upload/share arrow icon. Keep the composition minimal, with no extra objects, no watermark, and crisp UI-like presentation.
+```
+
+**来源：** [@とらの](https://x.com/TlanoAI/status/2097582873964609698) | 2026-09-09
+
+---
+

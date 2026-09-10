@@ -33946,3 +33946,173 @@ Create a single square 1:1 collectible postage-stamp artwork with a vintage prin
 
 ---
 
+### 🎴 例 7755：高级编辑风格分屏画布海报
+
+![高级编辑风格分屏画布海报](../images/%E9%AB%98%E7%BA%A7%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%88%86%E5%B1%8F%E7%94%BB%E5%B8%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为每张上传的照片创作一张高级编辑艺术海报，将每张图像视为独立的构图，切勿将多张照片合并。使用严格的 3:4 竖向比例，并将画布水平平分为两部分：上半部分应保持原始图像的忠实写实呈现，保留主体确切的身份、面部特征、比例、姿势、服装、物体、构图、光影、氛围和自然色彩，仅在必要时通过精致的编辑级调色和无缝的环境扩展进行增强；下半部分应将视觉叙事转化为完全不同的艺术诠释——一个 {argument name="art style" default="精致、构图考究的手工混合媒介艺术品"}，置于大面积的 {argument name="background color" default="暖象牙白"} 留白中心，占据下半部分不超过 {argument name="image scale" default="10–20%"} 的空间，运用表现力强的墨水素描、层叠的水粉色块、细腻的拼贴纹理、撕纸边缘、不完美的笔触、可见的纤维、柔和的颜料变化以及迷人的人文瑕疵，同时保留原始照片中最具辨识度的轮廓、色彩和核心视觉元素。
+
+[English]
+Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a {argument name="art style" default="tiny, carefully composed handmade mixed-media artwork"} centered within expansive {argument name="background color" default="warm ivory"} negative space, occupying no more than {argument name="image scale" default="10–20%"} of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, colors, and core visual elements of the original photograph.
+```
+
+**来源：** [@Sarmad Tahir](https://x.com/itxsarmadd/status/2097617414783647861) | 2026-09-09
+
+---
+
+### 🎴 例 7770：Rhode Lip Treatment 对比广告
+
+![Rhode Lip Treatment 对比广告](../images/Rhode%20Lip%20Treatment%20%E5%AF%B9%E6%AF%94%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅对比图，展示两张为 Peptide Lip Treatment (Watermelon Slice 口味) 生成的 rhode beauty 静态广告，采用黑色背景，并将两个方形广告样机并排呈现。
+
+画布：16:9 横向画幅，黑色背景，高对比度，简洁的社交媒体对比布局。
+
+布局：将两个圆角方形广告图水平居中放置，并留出充足间距。左侧面板上方用亮橙色文字标注：“GPT-Image-2”。右侧面板上方用同样的亮橙色文字标注：“GPT-Image-2.5”。在底部中央添加一行小的斜体橙色说明文字，内容为“prompt in comments”。
+
+广告面板：使用 2 个方形美容广告面板。
+1. 左侧面板：柔和的粉色背景，圆角设计，优雅的编辑类美容广告构图。左上角为大号衬线字体标题“A SLICE OF GLOSS.”，下方配有较小的“Peptide Lip Treatment”文字。一支粉色的 rhode Peptide Lip Treatment 唇膏管从右上角向左下角斜向悬浮，带有垂直的白色“rhode”品牌标识。周围环绕着光泽的粉色凝胶漩涡、透明的溅射水滴和西瓜切片。西瓜元素数量：3 片可见切片或楔形块——底部一片大西瓜切片、管身背后右侧一片切片、以及右上角一片小楔形块。保持产品居中且醒目。
+2. 右侧面板：同一 rhode 广告的更具动感、更明亮、细节更丰富的版本。粉色背景，圆角设计，左上角为衬线标题“A SLICE OF GLOSS.”及较小的“Peptide Lip Treatment”。一支更大的粉色 rhode 唇膏管在中心附近斜向悬浮，周围环绕着富有戏剧性的半透明粉色光泽溅射丝带、大量气泡和水滴，以及西瓜切片。西瓜元素数量：5 片可见块——底部一条大的前景西瓜条、左中位置一片楔形块、右中位置一片楔形块、右上角一片小楔形块，以及中心溅射效果后方的一片局部切片。产品应比左侧面板看起来更清晰、更具光泽感且更高端。
+
+视觉风格：精致的产品广告，鲜艳的西瓜粉色和红色，光泽的液体质感，影棚灯光，高端化妆品宣传，清晰的排版，饱和的色彩，逼真的 3D 产品渲染与超现实溅射摄影相结合。
+
+文本与自定义：使用顶部标签 {argument name="left model label" default="GPT-Image-2"} 和 {argument name="right model label" default="GPT-Image-2.5"}。使用广告标题 {argument name="headline text" default="A SLICE OF GLOSS."}。使用管身上的品牌名 {argument name="brand name" default="rhode"}。使用底部说明文字 {argument name="bottom caption" default="prompt in comments"}。
+
+约束：保持 2 个对比面板，2 个橙色模型标签，以及 1 个底部说明文字。不要添加额外的徽标、水印、UI 界面元素或指定标签及广告文案之外的任何额外文本。
+
+[English]
+Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.
+
+Canvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.
+
+Layout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.
+
+Ad panels: Use exactly 2 square beauty advertisement panels.
+1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.
+2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.
+
+Visual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.
+
+Text and customization: Use the top labels {argument name="left model label" default="GPT-Image-2"} and {argument name="right model label" default="GPT-Image-2.5"}. Use the ad headline {argument name="headline text" default="A SLICE OF GLOSS."}. Use the brand on the tube {argument name="brand name" default="rhode"}. Use the bottom caption {argument name="bottom caption" default="prompt in comments"}.
+
+Constraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.
+```
+
+**来源：** [@HeyOz](https://x.com/HeyOz_AI/status/2097590858564726955) | 2026-09-09
+
+---
+
+### 🎴 例 7781：秋季温泉美食促销海报
+
+![秋季温泉美食促销海报](../images/%E7%A7%8B%E5%AD%A3%E6%B8%A9%E6%B3%89%E7%BE%8E%E9%A3%9F%E4%BF%83%E9%94%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张奢华的正方形日本旅行广告，用于秋季温泉与美食之旅的促销，旨在社交媒体推广。
+
+画布：1:1 正方形海报，高分辨率，采用深红、金、琥珀、奶油色和深棕色的浓郁暖秋色调。采用高端旅行社传单风格，结合分层照片拼贴、对角线切割、精致和纸纹理、金色点缀以及细腻的投影效果。
+
+布局：构建一个紧凑的拼贴画，包含 6 个主要照片区域：1) 左上角大型户外露天温泉，水面蒸汽缭绕，配有天然岩石、灯笼、鲜艳的红枫、远处的湖泊与群山；2) 右上角特写，黑色托盘中盛放的豪华螃蟹料理，伴有蒸汽和配菜；3) 中右侧特写，筷子夹起的雪花和牛，旁边是栗子或银杏饭碗；4) 左下角舒适的日式旅馆客房，配有榻榻米、矮桌、坐垫、暖色灯光、障子门，窗外可见秋景；5) 右下角风景秀丽的湖泊与秋山景观；6) 顶部附近的小型背景食物/季节细节面板，展示蘑菇和蔬菜。用简洁的奶油色或金色对角线边框分隔各面板。
+
+中央排版：在中心放置一个大型奶油色和纸多边形标签。在其上，使用超大号日式书法风格标题文本，内容为 {argument name="headline text" default="秋の食と温泉旅セール"}。将“秋”设为红橙渐变，“食”设为金色渐变，其余字符设为深棕色。在标题周围添加两片装饰性枫叶。下方添加较小的日文文本：“秋限定のごほうび旅”，两侧配有细横线。
+
+优惠区：在中央标签下方，创建一个带有金色饰边的深红色图案价格横幅。显示一个小的圆形框，内容为 {argument name="trip length" default="2泊3日"}。旁边以闪亮的金色衬线数字显示大号价格 {argument name="price" default="39,800円〜"}，并带有白色高光和深色阴影。在价格附近添加小的金色强调符号。
+
+福利与行动号召：在价格下方，添加一个带有叉子、刀和温泉图标的奶油色圆形牌匾，随后是文本“食事付き・温泉満喫”。在底部中心，添加一个带有金色轮廓的亮红色圆形按钮，内容为 {argument name="button text" default="予約受付中 ＞"}。
+
+其他日文文案：在海报周围包含 5 个辅助文本块：左上角白色手写体“この秋、心もおなかも満たされる。”并带有细下划线；右上角奶油色长条上的竖排文字“旬を味わう、贅沢なひととき”；旅馆面板左侧的竖排文字“特別な秋を、旅へ。”；左下角白色小字“日本の美しい秋に、会いに行こう。”；右下角白色文字“行きたかったあの場所へ。”，上方配有简单的白色旅行社标志和标语“もっと、心が動く旅を。”，以及微小的英文文本“TRAVEL for a richer tomorrow”。
+
+视觉风格：照片级真实的旅行摄影与精致的日本广告设计相结合。强调温泉和热食升腾的蒸汽、光泽感的食物质感、清脆的秋叶、温暖的室内灯光、优雅的日式书法以及高端的金红色促销图形。
+
+约束：保持所有日文文本清晰可读，并按描述放置。画面中不出现人物。不要添加额外的价格、标志、二维码或不相关的文本。保持平衡的奢华旅游构图，并具有强烈的中心层级感。
+
+[English]
+Goal: Create a luxurious square Japanese travel advertisement for an autumn hot spring and gourmet tour sale, aimed at social media promotion.
+
+Canvas: 1:1 square poster, high-resolution, rich warm autumn palette of crimson, gold, amber, cream, and deep brown. Use a premium travel-agency flyer style with layered photo collage panels, diagonal cuts, ornate Japanese paper textures, gold accents, and subtle drop shadows.
+
+Layout: Build a dense collage with exactly 6 main photo areas: 1) upper-left large outdoor rotenburo hot spring with steaming water, natural rocks, a lantern, vivid red maple trees, a lake and mountains in the distance; 2) upper-right close-up of a lavish crab dish in a black tray with steam and side dishes; 3) mid-right close-up of marbled wagyu beef being lifted by chopsticks beside a rice bowl with chestnuts or gingko nuts; 4) lower-left cozy ryokan guest room with tatami, low table, cushions, warm lamps, shoji screens, and autumn scenery outside; 5) lower-right scenic lake and autumn mountain landscape; 6) small background food/seasonal detail panels near the top with mushrooms and vegetables. Separate the panels with clean diagonal cream or gold borders.
+
+Central typography: Place a large cream washi-paper polygon label in the center. On it, use oversized Japanese calligraphy-style headline text reading {argument name="headline text" default="秋の食と温泉旅セール"}. Make “秋” red-to-orange gradient, “食” gold gradient, and the remaining characters dark brown. Add two decorative maple leaves around the headline. Beneath it, add smaller Japanese text: 「秋限定のごほうび旅」 with thin horizontal lines on both sides.
+
+Offer area: Under the central label, create a deep red patterned price banner with gold trim. Show a small rounded box reading {argument name="trip length" default="2泊3日"}. Next to it, display the large price {argument name="price" default="39,800円〜"} in shiny gold serif numerals with white highlights and dark shadow. Add small gold emphasis marks near the price.
+
+Benefits and call-to-action: Below the price, add a cream rounded plaque with fork, knife, and hot spring icons, followed by text 「食事付き・温泉満喫」. At the bottom center, add a glossy red rounded button with gold outline reading {argument name="button text" default="予約受付中 ＞"}.
+
+Additional Japanese copy: Include exactly 5 supporting text blocks around the poster: upper-left white handwritten text 「この秋、心もおなかも満たされる。」 with a thin underline; upper-right vertical text on a cream strip 「旬を味わう、贅沢なひととき」; left vertical text over the ryokan panel 「特別な秋を、旅へ。」; lower-left small white text 「日本の美しい秋に、会いに行こう。」; lower-right white text 「行きたかったあの場所へ。」 above a simple white travel-agency logo mark and tagline 「もっと、心が動く旅を。」 plus tiny English text “TRAVEL for a richer tomorrow”.
+
+Visual style: Photorealistic travel photography blended with polished Japanese advertising design. Emphasize steam rising from the hot spring and hot foods, glossy food textures, crisp autumn foliage, warm indoor lighting, elegant Japanese calligraphy, and premium gold-red sale graphics.
+
+Constraints: Keep all Japanese text legible and placed as described. Use no people. Do not add extra prices, logos, QR codes, or unrelated text. Maintain a balanced luxury-tourism composition with strong central hierarchy.
+```
+
+**来源：** [@タツキ](https://x.com/gibkun1/status/2097574516205703594) | 2026-09-09
+
+---
+
+### 🎴 例 7792：自然拉面广告海报
+
+![自然拉面广告海报](../images/%E8%87%AA%E7%84%B6%E6%8B%89%E9%9D%A2%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+ラーメン広告ポップ。写真は{argument name="雰囲気" default="AIぽさを除いて、自然な雰囲気"}にと指示した。
+```
+
+**来源：** [@新清士@AIコンテンツ開発者](https://x.com/kiyoshi_shin/status/2097558667059155070) | 2026-09-09
+
+---
+
+### 🎴 例 7818：敦煌飞天海报
+
+![敦煌飞天海报](../images/%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张以敦煌飞天为灵感的博物馆级竖版时尚海报，将写实的敦煌神话舞者与超大号中文字体相结合。
+
+画布：9:16 竖版海报，暖象牙色纸张背景，留白简洁，无边框或水印。
+
+布局：放置四个巨大的深青色中文字符，采用粗体块状海报字体：顶行包含 2 个字符，{argument name="top headline text" default="敦煌"}，几乎横跨整个宽度；底行包含 2 个字符，{argument name="bottom headline text" default="飞天"}，字体超大，部分位于人物后方或前方，营造出层叠的编辑视觉效果。在左下角添加一个小标语块，包含 2 行简短的深青色中文文本：{argument name="slogan text" default="穿越千年的\n飞天之美。"}。
+
+主体细节：一位优雅的 {argument name="main subject" default="敦煌飞天舞者"} 从左下角向右上角对角线漂浮，躯干和面部朝向右侧，一只手臂向左水平伸展。她拥有瓷器般的肌肤、宁静向上的目光、红唇、精致的五官，以及梳着高双髻并饰有金色花卉发饰的黑色秀发。她佩戴着古金耳环、手镯、臂钏和装饰性项链，身着短款青色与铁锈红相间的丝绸上衣，以及层叠的半透明飘逸长裙。
+
+织物与动态：使用 3 组主要的飘逸丝带：一条青色丝带在伸展的手臂后方掠过，一条铁锈红丝带从左侧横跨至中心，另一条长长的铁锈红丝带向下卷曲至底部边缘。半透明的裙摆在左下角铺开，呈现出画家笔触般的米色、青色和陶土色纹理，展现出风与飞行的动感。
+
+视觉风格：高端当代中国文化海报，电影级写实 3D 时尚摄影与敦煌壁画配色方案相结合，柔和的自然光，精致的阴影，哑光纸质感，青色排版，陶土色与玉色织物，优雅的构图，人物与字体之间戏剧性的比例对比。
+
+约束条件：保持排版清晰且占据主导地位，保留四个大标题字符和一行两段式小标语，避免多余文字，避免现代配饰，避免面部被裁切，避免背景杂乱。
+
+[English]
+Goal: Create a vertical museum-style fashion poster inspired by Dunhuang flying apsaras, combining a realistic mythic dancer with oversized Chinese typography.
+
+Canvas: Tall vertical 9:16 poster, warm ivory paper background, clean negative space, no border or watermark.
+
+Layout: Place four huge dark teal Chinese characters in bold blocky poster type: top row has exactly 2 characters, {argument name="top headline text" default="敦煌"}, spanning nearly the full width; bottom row has exactly 2 characters, {argument name="bottom headline text" default="飞天"}, oversized and partially behind/in front of the figure for a layered editorial look. Add one small slogan block at the lower left with exactly 2 short lines of dark teal Chinese text: {argument name="slogan text" default="穿越千年的\n飞天之美。"}.
+
+Subject details: A single elegant {argument name="main subject" default="Dunhuang flying apsara dancer"} floats diagonally from lower left toward upper right, torso and face visible on the right side, one arm extended horizontally to the left. She has porcelain skin, serene upward gaze, red lips, delicate facial features, and ornate black hair in high double buns with gold floral hair ornaments. She wears antique gold earrings, bracelets, armlets, and a decorative necklace, plus a cropped teal-and-rust silk top and layered translucent flowing skirts.
+
+Fabric and motion: Use exactly 3 major flowing silk ribbon groups: one teal ribbon sweeping behind the extended arm, one rust-red ribbon crossing from left to center, and one long rust-red ribbon curling down toward the bottom edge. The translucent skirt spreads across the lower left with painterly beige, teal, and terracotta textures, suggesting wind and flight.
+
+Visual style: High-end contemporary Chinese cultural poster, cinematic realistic 3D fashion photography mixed with Dunhuang mural color palette, soft natural light, refined shadows, matte paper texture, teal typography, terracotta and jade fabrics, elegant composition, dramatic scale contrast between figure and type.
+
+Constraints: Keep the typography legible and dominant, preserve exactly four large headline characters and one two-line small slogan, avoid extra text, avoid modern accessories, avoid cropped face, avoid cluttered background.
+```
+
+**来源：** [@踏雪寻仙](https://x.com/TaXue2025/status/2097519362743898515) | 2026-09-09
+
+---
+

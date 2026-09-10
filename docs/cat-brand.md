@@ -20772,3 +20772,389 @@ Style: Hyperrealistic 4K editorial photography, vertical {argument name="aspect 
 
 ---
 
+### 🏷️ 例 7722：Glowing Maple Leaf Digital Art
+
+![Glowing Maple Leaf Digital Art](../images/Glowing%20Maple%20Leaf%20Digital%20Art.jpg)
+
+**Prompt:**
+
+```text
+An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere. A majestic, ethereal maple leaf made of translucent, crystalline material floats delicately above a serene dark pond. The leaf is intricately detailed with glowing veins and is embedded with small, soft pink cherry blossom flowers and buds that seem to grow directly from its structure. Golden, shimmering magical dust particles swirl around the leaf, casting a warm, radiant glow. The tip of the leaf stem gently touches the water surface, creating perfect concentric ripples that reflect the light. The background features a dreamy, out-of-focus forest landscape at dusk, with hints of silhouetted trees and a soft gradient sky ranging from deep twilight blues to pale pinks. Floating pink lotus flowers rest on the calm water surface in the foreground and mid-ground. The lighting is soft, cinematic, and magical, highlighting the glassy textures and bioluminescent quality of the scene. The composition is centered, vertical, and symmetrical, evoking a sense of tranquility, mystical nature, and fairy-tale beauty, rendered with hyper-realistic digital art precision.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2097784050660376617) | 2026-09-09
+
+---
+
+### 🏷️ 例 7737：基于 Logo 自动生成品牌周边设计
+
+![基于 Logo 自动生成品牌周边设计](../images/%E5%9F%BA%E4%BA%8E%20Logo%20%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%93%81%E7%89%8C%E5%91%A8%E8%BE%B9%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+请以【{argument name="品牌 Logo" default="品牌 Logo 参考图"}】作为唯一核心视觉输入，为该品牌自动设计并输出一整套完整、统一、可真实生产落地的品牌周边产品系统。
+
+【唯一输入】
+Image A = 【{argument name="品牌 Logo" default="品牌 Logo 参考图"}】
+```
+
+**来源：** [@逸尘](https://x.com/gengdaJ/status/2097696046260609314) | 2026-09-09
+
+---
+
+### 🏷️ 例 7742：Oversized T-Shirt Branding Mockup
+
+![Oversized T-Shirt Branding Mockup](../images/Oversized%20T-Shirt%20Branding%20Mockup.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 3D oversized T-shirt branding mockup inspired by the reference image. Display two floating T-shirts, one showing the front view and the other showing the back view, slightly overlapping at different depths. Use a rich {argument name="fabric color" default="electric violet/purple"} fabric color with realistic cotton texture, natural folds, soft highlights, subtle shadows, and clean oversized streetwear proportions. Front T-shirt: Place the name {argument name="brand name" default="ABKR"} prominently on the upper chest in a stylish modern editorial typeface. Add a smaller supporting custom logo/monogram beside or beneath the name. In the lower-left section of the shirt, create an elegant abstract geometric line pattern made from repeated curved/intersecting lines. Back T-shirt: Place the brand name in {argument name="typography style" default="large elegant typography"} across the upper back. Underneath, add the custom logo/monogram at a very large scale, using a bold geometric design with clean negative space and a modern fashion-brand aesthetic. Use white or warm ivory for strong contrast against the fabric. Present both shirts floating above a clean light-gray seamless studio background, with soft diffused lighting and realistic shadows beneath them. Style: premium streetwear identity, modern fashion branding, editorial typography, geometric custom logo, realistic 3D apparel mockup, clean studio lighting, high-end Behance presentation, ultra-detailed, photorealistic, sharp 4K render.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097669333061177688) | 2026-09-09
+
+---
+
+### 🏷️ 例 7744：斯堪的纳维亚水彩插画风格艺术作品
+
+![斯堪的纳维亚水彩插画风格艺术作品](../images/%E6%96%AF%E5%A0%AA%E7%9A%84%E7%BA%B3%E7%BB%B4%E4%BA%9A%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的照片，创作一幅高级极简水彩插画作品。保留照片中完全一致的主体、身份、姿势、服装、物体、环境、光影、色彩、构图和氛围。
+保持照片的完全写实感，并带有微妙的高级编辑质感、自然电影光效、柔和色调及逼真细节。
+底部 — 水彩诠释：将同一场景重构为精致的手绘水彩与精细墨线插画。运用灵动的渲染、微妙的墨线、柔和的纸张纹理、不规则的边缘、柔和的粉彩色调以及充足的留白。
+添加一句优雅的手写笔触短语，下方配以极简的小字副标题。
+风格：{argument name="style" default="斯堪的纳维亚编辑风格，静谧奢华，怀旧旅行日志，柔和水彩，精致墨线，手工纸张纹理，高级极简主义"}。
+照片与插画必须呈现完全相同的瞬间与场景。禁止添加新元素，禁止使用卡通风格、粗重轮廓、高饱和色彩或杂乱元素。
+针对不同照片，仅需修改文字短语。
+
+[English]
+Create a Premium Minimal watercolor vignette artwork based entirely on the uploaded photograph. Preserve the exact subject, identity, pose, clothing, objects, environment, lighting, colors, composition, and mood.
+Keep the photograph fully photorealistic with a subtle premium editorial finish, natural cinematic light, soft tones, and realistic detail.
+BOTTOM — WATERCOLOR INTERPRETATION: Recreate the exact same scene as a delicate hand-painted watercolor and fine-ink illustration. Use loose washes, subtle ink lines, soft paper texture, imperfect edges, muted pastel tones, and plenty of clean negative space.
+Add a short elegant handwritten brush-script phrase with a tiny minimalist subtitle underneath.
+STYLE: {argument name="style" default="Scandinavian editorial, quiet luxury, nostalgic travel journal, soft watercolor, delicate ink, handmade paper texture, sophisticated minimalism"}.
+The photo and illustration must show the same exact moment and scene. No new elements, cartoon style, heavy outlines, saturated colors, or clutter.
+For different photos, change only the text phrase.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2097659617614655719) | 2026-09-09
+
+---
+
+### 🏷️ 例 7764：跳伞动作自拍
+
+![跳伞动作自拍](../images/%E8%B7%B3%E4%BC%9E%E5%8A%A8%E4%BD%9C%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张处于 {argument name="action" default="首次跳伞"} 过程中的自拍。画面前景是跳伞者，{argument name="instructor" default="身后紧跟着他们的教练"}，以及天空中更远处 {argument name="airplane" default="他们刚刚跳出的飞机"}。
+
+[English]
+un selfie en plein {argument name="action" default="premier saut en parachute"}. La personne au premier plan, {argument name="instructeur" default="son moniteur juste derrière"} et, beaucoup plus loin dans le ciel, {argument name="avion" default="l’avion depuis lequel ils viennent de sauter"}.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612881936183683) | 2026-09-09
+
+---
+
+### 🏷️ 例 7765：城市环境中的老人在园艺
+
+![城市环境中的老人在园艺](../images/%E5%9F%8E%E5%B8%82%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E8%80%81%E4%BA%BA%E5%9C%A8%E5%9B%AD%E8%89%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="person" default="一位老人"} 在 {argument name="location" default="社区花园"} 进行园艺劳作，背景可见 {argument name="background" default="公寓楼和住宅大厦"}。
+
+[English]
+{argument name="personne" default="un homme âgé"} qui jardine dans {argument name="lieu" default="un jardin partagé"} en plein cœur d’une ville, avec {argument name="arrière-plan" default="les immeubles et les tours HLM"} visibles au loin.
+```
+
+**来源：** [@René Cotton](https://x.com/_Re_/status/2097612869130997894) | 2026-09-09
+
+---
+
+### 🏷️ 例 7778：Camera Dome 48-Point View Setup
+
+![Camera Dome 48-Point View Setup](../images/Camera%20Dome%2048-Point%20View%20Setup.jpg)
+
+**Prompt:**
+
+```text
+カメラドームで{argument name="リング数" default="３"}リング、１リング当たり{argument name="ポイント数" default="１６"}ポイント、合計{argument name="合計ポイント" default="４８"}ポイントの画像作って
+```
+
+**来源：** [@あかぽろ@日曜技術](https://x.com/redpolo999/status/2097578056655474836) | 2026-09-09
+
+---
+
+### 🏷️ 例 7780：浮世绘风格：奥尔菲斯山径
+
+![浮世绘风格：奥尔菲斯山径](../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E9%A3%8E%E6%A0%BC%EF%BC%9A%E5%A5%A5%E5%B0%94%E8%8F%B2%E6%96%AF%E5%B1%B1%E5%BE%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽幅横向、受浮世绘启发的神话景观插画，采用陈旧的木版画风格，呈现明显的纸张纹理、柔和的墨迹质感、细腻的黑色线条，以及由靛蓝色山脉、朦胧灰蓝色山谷、褪色的鲑鱼粉色天空和柔和奶油色高光组成的暗色调。在前景中央放置一位年轻的希腊诗人或旅行者，{argument name="character name" default="Orpheus"}，留着深色卷发，头戴月桂花环，神情忧虑地回头张望，身穿浅色长袍，外披红色斗篷，身侧拿着一把小竖琴。在左侧，从阴影笼罩的悬崖和迷雾中，展现一位半透明的幽灵女子，身着飘逸的白色长袍，留着长长的深色头发，正向他伸出一只手，显得空灵且部分融入雾气之中。画面上方天空中有且仅有两只飞翔的仙鹤，右上角有一轮硕大的苍白太阳，远处的山顶上有一座红色鸟居，一条蜿蜒的浅色石径从右下角前景穿过朦胧的山峦向鸟居延伸。左上角和左下角用覆盖着粉色花朵的深色樱花树枝装点，许多散落的粉色花瓣在整个构图中呈对角线飘落。添加两块垂直的日式纸质标题牌：左上角一块写着 {argument name="left plaque text" default="冥より暁へ"}，右侧中部一块写着 {argument name="right plaque text" default="音の道"}，字符下方配有一枚红色小印章。将日本浮世绘构图与微妙的古希腊神话主题相结合，呈现电影感但扁平的版画效果，忧郁而梦幻，无现代物品，无写实摄影感，无额外人物，无额外鸟类，无水印。
+
+[English]
+Create a wide horizontal ukiyo-e inspired mythic landscape illustration in aged woodblock print style, with visible paper grain, muted ink texture, fine black linework, and a dusky palette of indigo mountains, misty gray-blue valleys, faded salmon pink sky, and soft cream highlights. In the center foreground place one young Greek poet or traveler, {argument name="character name" default="Orpheus"}, with curly dark hair, a laurel wreath, a worried backward glance, a red draped cloak over a pale tunic, and a small lyre held at his side. On the left, emerging from shadowy cliffs and mist, show one translucent ghostly woman in flowing white robes with long dark hair, reaching toward him with one hand, ethereal and partially faded into the fog. The scene contains exactly two flying cranes in the upper sky, one large pale sun near the upper right, one red torii gate on a distant mountaintop, and one winding pale stone path climbing from the lower right foreground through misty mountains toward the gate. Frame the upper left and lower left with dark cherry tree branches covered in pink blossoms, with many loose pink petals drifting diagonally across the whole composition. Add exactly two narrow vertical Japanese paper title plaques: one at the upper left reading {argument name="left plaque text" default="冥より暁へ"}, and one at the right middle reading {argument name="right plaque text" default="音の道"} with a small red seal below the characters. Blend Japanese ukiyo-e composition with a subtle ancient Greek mythological subject, cinematic but flat-print, melancholic and dreamlike, no modern objects, no photorealism, no extra people, no extra birds, no watermark.
+```
+
+**来源：** [@Dhruval](https://x.com/dhruvalgolakiya/status/2097574706228703374) | 2026-09-09
+
+---
+
+### 🏷️ 例 7782：河童女孩与稻草人女巫
+
+![河童女孩与稻草人女巫](../images/%E6%B2%B3%E7%AB%A5%E5%A5%B3%E5%AD%A9%E4%B8%8E%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%A5%B3%E5%B7%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅明亮的竖构图动漫插画，背景是金色的麦田，天空湛蓝，点缀着柔软的白云，远处可见青翠的山峦。在前景中，展示 {argument name="main character" default="一位受惊的河童主题女孩"}：一位留着深青色短波波头、有着琥珀色大眼睛、脸颊泛红、张嘴受惊的动漫小女孩。她穿着一件亮面淡绿色连帽雨衣，雨衣造型像河童，兜帽上有黄色的鸭嘴、顶部有卡通大眼睛，还有深青色的叶状发饰、深色纽扣、袖口装饰、两个前口袋，以及胸前的一枚白色小名牌，上面写着 {argument name="name tag text" default="かっぱ"}。给她加上黄色手套和黄色雨靴，双手举起做出受惊的姿势。在她身后右侧，展示 {argument name="second character" default="一位微笑的稻草人女巫女孩"}：一位身材苗条的动漫女孩，留着凌乱的深棕色短发，有着粉紫色眼睛，面带温暖的微笑，穿着破旧的黑色乡村连衣裙，配有泡泡袖、绳索腰带、领口丝带蝴蝶结、草编袖口，以及一顶带有深色羽毛的宽大磨损草帽；她像友好的稻草人一样挥手。画面中包含 2 个角色：前方的河童装束女孩和后方的稻草人女巫女孩。包含 3 个清晰可见的文字/强调元素：稻草人上方的一个大对话气泡，写着 {argument name="speech bubble text" default="こんにちは〜！どこ行きますか?"}；河童女孩头部附近的一组黄色标点符号“!?”；以及雨衣上写着“かっぱ”的小标签。采用动态漫画风格的线条、富有表现力的面部表情、高细节的衣物褶皱、温暖的阳光、极度前景中麦秆虚化的浅景深，营造出欢快的田园冒险氛围。构图采用竖向，河童女孩位于左下前景，稻草人女孩位于右上中景。请务必保留指定的日语文本，并确保字体清晰易读。
+
+[English]
+Create a bright vertical anime illustration of two cute girls in a golden wheat field under a vivid blue sky with soft white clouds and distant green mountains. In the foreground, show {argument name="main character" default="a surprised kappa-themed girl"}: a small young anime girl with short dark teal bob hair, huge amber eyes, flushed cheeks, and an open startled mouth. She wears a glossy pale-green hooded raincoat shaped like a kappa, with a ducklike yellow beak on the hood, big cartoon eyes on top, dark teal leaf-like hair decorations, dark buttons, cuff trim, two front pockets, and a small white chest name tag reading {argument name="name tag text" default="かっぱ"}. Add yellow gloves and yellow rain boots, with her hands raised in a frightened pose. Behind her to the right, show {argument name="second character" default="a smiling scarecrow witch girl"}: a slender anime girl with short messy dark brown hair, pink-purple eyes, and a warm smile, wearing a tattered black rustic dress with puff sleeves, rope belt, ribbon bow at the collar, straw cuffs, and a wide frayed straw hat with a dark feather; she waves with one hand like a friendly scarecrow. Include exactly 2 characters: the kappa-costumed girl in front and the scarecrow witch girl behind. Include exactly 3 visible text/emphasis elements: 1 large speech bubble above the scarecrow saying {argument name="speech bubble text" default="こんにちは〜！どこ行きますか?"}, 1 yellow punctuation mark cluster “!?” near the kappa girl’s head, and 1 small label on the raincoat reading “かっぱ”. Use dynamic manga-style linework, expressive faces, high-detail clothing folds, warm sunlight, shallow depth of field with blurred wheat stalks in the extreme foreground, and a cheerful pastoral adventure mood. Make the composition portrait-oriented, with the kappa girl occupying the lower-left foreground and the scarecrow girl in the upper-right midground. Preserve the Japanese text exactly where specified, with clean readable lettering.
+```
+
+**来源：** [@お茶会WCH](https://x.com/ochakaiwch/status/2097574098146857435) | 2026-09-09
+
+---
+
+### 🏷️ 例 7789：Polaroid Gallery Installation Portrait
+
+![Polaroid Gallery Installation Portrait](../images/Polaroid%20Gallery%20Installation%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded image as the main composition, pose, wardrobe, lighting, and environment reference. Create a photorealistic full-body editorial portrait of an {argument name="subject" default="adult man"} standing confidently inside a creative photography installation covered entirely with instant-film photographs. Position the subject in the center of the frame, facing directly toward the camera with a calm, composed expression. Keep his posture relaxed and natural, with one hand casually inside his trouser pocket while the other hangs beside his body. Dress him in a {argument name="clothing" default="relaxed gray short-sleeve button-up overshirt"}, worn open over a fitted black-and-white horizontal striped T-shirt. Pair it with loose-fitting black cargo trousers and clean white low-top sneakers. Add subtle clear-frame eyeglasses and a minimal bracelet for a contemporary casual-streetwear look. Create a striking corner-room environment where both walls and the entire floor are densely covered with hundreds of overlapping Polaroid-style instant photographs. Most images should be monochrome black-and-white portraits, landscapes, street photography, and artistic lifestyle shots, with occasional muted color photographs scattered naturally throughout. Arrange the prints organically at different angles and heights, creating a textured photography-gallery atmosphere. Use bright, soft studio lighting with balanced exposure, realistic skin texture, crisp clothing details, natural shadows, and excellent depth. Keep the subject sharply focused while maintaining enough detail in the surrounding photographs to emphasize the immersive installation. Style: contemporary editorial photography, artistic gallery installation, minimalist streetwear fashion, realistic DSLR quality, clean composition, subtle cinematic grading, ultra-detailed, natural proportions. Camera: eye-level full-body shot, 35–50mm lens, moderate depth of field. Aspect ratio: 2:3 vertical.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097568182710276539) | 2026-09-09
+
+---
+
+### 🏷️ 例 7795：1980 年代迈阿密生活方式时尚人像
+
+![1980 年代迈阿密生活方式时尚人像](../images/1980%20%E5%B9%B4%E4%BB%A3%E8%BF%88%E9%98%BF%E5%AF%86%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为构图、造型、姿势、光影和环境的主要参考。创作一张 1980 年代风格的迈阿密生活方式时尚人像，展示一名成年男子站在一辆闪亮的 {argument name="car color" default="黑色"} 复古 {argument name="car type" default="敞篷车"} 旁，拍摄时间为黄金时刻。取景范围约为大腿中部以上，他随意地靠在打开的驾驶座车门旁，表情轻松自信，看向镜头。一只手自然地放在车旁，拿着一副经典的飞行员太阳镜，另一只手随意插在西裤口袋里。为他穿上一套优雅的米色/灰白色亚麻西装，搭配宽松剪裁的西装外套和高腰打褶长裤。内搭一件黑色开领衬衫，解开上方纽扣，营造出精致的复古感。搭配一条带有抛光金扣的细黑色皮带和一块经典金色腕表。造型保持精致、阳刚、简约，并忠实于 1980 年代的风格。场景设置在充满魅力的迈阿密海滩风格大道上，周围环绕着高大的棕榈树、柔和色调的装饰艺术风格建筑、露天咖啡馆、复古汽车以及远处模糊的行人。背景中放置一栋粉白相间的装饰艺术风格酒店建筑，以增强复古的南海滩氛围。使用温暖的午后阳光、人物周围的金色轮廓光、柔和的阴影、微妙的镜头光晕、反射在黑色汽车上的电影级高光，以及温暖的怀旧胶片色调。添加逼真的皮肤纹理、自然的脸部细节、清晰的亚麻面料质感、浅景深、柔和的氛围虚化、细腻的胶片颗粒感，呈现高端编辑摄影效果。在右上角添加手写的奶油色文字“{argument name="overlay text" default="1980’s"}”，并带有随意的下划线。风格：复古奢华时尚大片、1980 年代迈阿密美学、电影级编辑摄影、温暖的模拟胶片感、逼真的单反画质、50mm 镜头、浅景深、超精细、自然比例、照片级真实感。长宽比：4:5 竖屏。
+
+[English]
+Use the uploaded image as the main composition, styling, pose, lighting, and environment reference. Create a photorealistic 1980s-inspired Miami lifestyle fashion portrait of an {argument name="subject" default="adult man"} standing beside a {argument name="car" default="glossy black vintage convertible"} during golden hour.
+
+Frame him from approximately mid-thigh upward, leaning casually against the open driver-side door with a relaxed, confident expression while looking toward the camera. One hand rests naturally near the car while holding a pair of classic aviator sunglasses, and the other hand is casually tucked into his trouser pocket.
+
+Dress him in an elegant {argument name="outfit" default="cream/off-white linen suit"} with a relaxed tailored blazer and high-waisted pleated trousers. Underneath, add a black open-collar shirt with the top buttons undone for a sophisticated retro look. Add a slim black leather belt with a polished gold buckle and a classic gold-tone wristwatch. Keep the styling refined, masculine, minimal, and authentic to the 1980s.
+
+Place the scene on a glamorous Miami Beach–inspired boulevard, surrounded by tall palm trees, pastel Art Deco architecture, outdoor cafés, vintage cars, and softly blurred pedestrians in the distance. Position a pastel pink-and-white Art Deco hotel building in the background to enhance the vintage South Beach atmosphere.
+
+Use warm late-afternoon sunlight, golden rim lighting around the subject, soft shadows, subtle lens flare, cinematic highlights reflecting across the black car, and a warm nostalgic film color grade. Add realistic skin texture, natural facial details, crisp linen fabric texture, shallow depth of field, soft atmospheric bokeh, subtle film grain, and premium editorial photography.
+
+Add handwritten cream-colored text “{argument name="text" default="1980’s"}” in the upper-right corner with a loose underline stroke.
+
+Style: vintage luxury fashion campaign, 1980s Miami aesthetic, cinematic editorial photography, warm analog film look, realistic DSLR quality, 50mm lens, shallow depth of field, ultra-detailed, natural proportions, photorealistic.
+
+Aspect ratio: 4:5 vertical.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2097554719078060043) | 2026-09-09
+
+---
+
+### 🏷️ 例 7797：极简水彩编辑风格插画
+
+![极简水彩编辑风格插画](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的照片，创作一幅精致、高端的“照片 + 极简水彩插画”艺术作品。仅使用该照片作为视觉参考，并精准保留主体、构图、环境、服饰、物体、光影、色彩和氛围。
+
+格式：3:4 竖版编辑构图。
+
+上半部分 — 原始照片：
+将原始照片放置在画布上方 55%–60% 的区域。保持照片的真实感和自然细节。不要改变人物身份、姿势、比例、物体、建筑、场景或任何重要的视觉细节。赋予其细腻的高端编辑摄影质感，采用自然电影感光效和柔和的色调平衡。
+
+下半部分 — 手绘艺术诠释：
+将同一场景转化为精致的极简水彩与精细墨线插画。重现照片中的主体、姿势、透视、关键物体及可辨识的背景元素。使用灵动的水彩晕染、细腻的铅笔/墨水轮廓、不规则的手绘边缘、柔和的纸张纹理以及克制的柔和色调。保持插画的通透感、优雅感，呈现出一种非数字化的手绘质感。
+
+插画应呈现出时尚/生活方式杂志速写本的质感，留有充足的负空间，并采用暖白色纹理纸背景。请勿添加任何新的主体或细节。
+
+排版：
+在插画部分下方或自然融入其中，添加一段优雅的手写笔触短语，类似于高端生活方式编辑海报。在其下方，添加一行极简的小写衬线/无衬线副标题。排版应保持低调、精致、纤细，并与艺术作品达到平衡。
+
+美学风格：
+斯堪的纳维亚编辑设计、静谧奢华、怀旧旅行日记、柔和水彩、细腻墨线绘图、手工纸质纹理、低饱和自然色调、高级极简主义、情感叙事、高端艺术画册排版。
+
+重要提示：照片与插画必须清晰地表现出完全相同的瞬间和场景。严禁无关图像拼贴、严禁大幅度重新设计、严禁过度使用水彩、严禁卡通化、严禁粗重的轮廓线、严禁高饱和色彩、严禁画面杂乱。
+
+输出：上方为写实照片，下方为匹配的精致水彩插画，无缝衔接的高端编辑构图，3:4 竖版，高细节。
+
+针对不同的照片，只需更改文本短语：{argument name="caption" default="Good Days — a kinder me"}
+
+[English]
+Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects, lighting, colors, and mood.
+
+FORMAT: Vertical {argument name="aspect ratio" default="3:4"} editorial composition.
+
+TOP SECTION — ORIGINAL PHOTOGRAPH:
+Place the original photograph in the upper 55–60% of the canvas. Keep it photorealistic and naturally detailed. Do not alter the identity, pose, proportions, objects, architecture, scenery, or important visual details. Give it a subtle premium editorial photography finish with natural cinematic light and gentle tonal balance.
+
+BOTTOM SECTION — HAND-PAINTED INTERPRETATION:
+Transform the same exact scene into a delicate minimal watercolor and fine-ink illustration. Recreate the main subject, pose, perspective, key objects, and recognizable background elements from the photograph. Use loose watercolor washes, subtle pencil/ink outlines, imperfect hand-painted edges, soft paper texture, and restrained pastel tones. Keep the illustration airy, elegant, and slightly imperfect rather than digitally polished.
+
+The illustration should feel like a fashion/lifestyle magazine sketchbook page, with plenty of clean negative space and a warm off-white textured paper background. Do not introduce new subjects or details.
+
+TYPOGRAPHY:
+Add a short elegant handwritten brush-script phrase underneath or integrated naturally into the illustrated section, similar to a premium lifestyle editorial poster. Underneath it, add a tiny minimalist lowercase serif/sans-serif subtitle. Typography should be subtle, sophisticated, thin, and balanced with the artwork.
+
+AESTHETIC:
+Scandinavian editorial design, quiet luxury, nostalgic travel journal, soft watercolor, delicate ink drawing, handmade paper texture, muted natural palette, sophisticated minimalism, emotional storytelling, premium art-book layout.
+
+IMPORTANT: The photograph and illustration must clearly represent the same exact moment and scene. No collage of unrelated images, no dramatic redesign, no excessive watercolor, no cartoon appearance, no heavy outlines, no saturated colors, no clutter.
+
+Output: photorealistic upper section + matching delicate watercolor illustration below, seamless premium editorial composition, vertical {argument name="aspect ratio" default="3:4"}, high detail.
+
+For different photos, just change the text phrase
+
+Examples:
+•{argument name="phrase" default="Good Days — a kinder me"}
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2097552949862097218) | 2026-09-09
+
+---
+
+### 🏷️ 例 7798：爆炸式透明人工心脏
+
+![爆炸式透明人工心脏](../images/%E7%88%86%E7%82%B8%E5%BC%8F%E9%80%8F%E6%98%8E%E4%BA%BA%E5%B7%A5%E5%BF%83%E8%84%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超写实的未来医学工程可视化图像，展示一颗爆炸式透明人工心脏，呈现出高端生物工程产品渲染效果，并配有技术标注。
+
+画布：4:3 横向图像，深色实验室背景，光面黑色反射地板，电影级轮廓光，浅景深，冷蓝色高光与暖琥珀色内部辉光。心脏悬浮在地面中心上方，下方带有柔和的倒影。
+
+主体：一颗透明的生物力学解剖心脏，标注为 {argument name="device concept" default="下一代生物工程人工心脏"}。心脏主体由透明的类玻璃生物相容性聚合物制成，可见内部管道、阀门、微流控通道、电路走线、微型机械泵、红色与蓝色发光血管通路以及琥珀色照明的电子模块。使用逼真的折射、焦散、铬合金螺丝、抛光金属环和黑色碳纤维结构组件。
+
+爆炸式布局：在心脏中心周围精确展示 13 个主要的独立组件组：1 中心透明心脏腔室；2 左侧外部透明弧形外壳；3 左侧黑色碳纤维肋板；4 左侧内部透明弧形支撑层；5 左上主动脉连接环组件；6 上方中央透明主动脉及血管塔；7 右上肺动脉连接环组件；8 右侧圆柱形端口及接口环；9 右侧黑色碳纤维肋板；10 右侧带有琥珀色辉光的透明电路接口模块；11 右侧外部透明弧形外壳；12 最右侧小型透明盖/透镜；13 围绕爆炸部件排列的多个小型悬浮螺丝和螺栓。保持所有部件悬浮在精确的水平层中，如同为了检查而拆解开一样。
+
+技术标注：添加细白/灰色引导线和小型大写科幻字体。包含 7 个可见标注标签：1 “AORTA”（主动脉），副标题“HIGH-FLOW / BIOCOMPATIBLE / POLYMER”（高流量 / 生物相容性 / 聚合物）；2 “RIGHT ATRIUM”（右心房），副标题“MICRO-FLUIDIC / CHANNELS”（微流控 / 通道）；3 “CARBON-FIBER RIB STRUCTURE”（碳纤维肋骨结构），副标题“ULTRA-LIGHT / HIGH-STRENGTH”（超轻 / 高强度）；4 “VENTRICLE”（心室），副标题“BIO-MIMETIC / PUMP CHAMBER”（仿生 / 泵腔）；5 “PULMONARY ARTERY”（肺动脉），副标题“PRESSURE REGULATING / VALVE”（压力调节 / 阀门）；6 “BIO-CIRCUIT INTERFACE”（生物电路接口），副标题“NEURAL SYNC / WIRELESS POWER / REAL-TIME MONITORING”（神经同步 / 无线供电 / 实时监控）；7 “MICRO-FLUID CHANNELS”（微流控通道），副标题“NANO-SCALE / SELF-CLEANING / FLOW OPTIMIZATION”（纳米级 / 自清洁 / 流量优化）。将这些标签放置在心脏周围，且不遮挡关键细节。
+
+页脚文字：左下角为小型间距字体，内容为 {argument name="left footer text" default="HUMANITY\nA STRONGER TOMORROW"}（人类\n更强大的明天）。右下角添加一个微小的示意性线条图标和文字 {argument name="right footer text" default="BIOENGINEERING\nFOR A HEALTHIER WORLD"}（生物工程\n为了更健康的世界）。
+
+视觉风格：超精细写实 3D 渲染，奢华工业设计，透明医疗设备，碳纤维纹理，铬合金五金，玻璃折射，发光的红蓝管道，琥珀色电路灯光，高对比度，简洁的未来感界面字体，技术图表美学，8k 画质。
+
+约束条件：无人像，无手部，无血液或血腥内容，无卡通风格，无杂乱背景，无超大标题。保持解剖结构可识别为人类心脏，同时强调透明的未来工程感。
+
+[English]
+Goal: Create a hyper-realistic futuristic medical engineering visualization of an exploded transparent artificial human heart, presented like a premium bioengineering product render with technical callouts.
+
+Canvas: 4:3 horizontal image, dark laboratory background, glossy black reflective floor, cinematic rim lighting, shallow depth of field, cool blue highlights and warm amber internal glow. The heart floats centered above the floor with a soft reflection beneath it.
+
+Main subject: A transparent biomechanical anatomical heart labeled as {argument name="device concept" default="next-generation bioengineered artificial heart"}. The central heart body is made of clear glass-like biocompatible polymer, with visible internal tubes, valves, microfluidic channels, circuit traces, miniature mechanical pumps, red and blue glowing vascular pathways, and amber illuminated electronic modules. Use realistic refraction, caustics, chrome screws, polished metal rings, and black carbon-fiber structural components.
+
+Exploded layout: Show exactly 13 major separated component groups around the central heart: 1 central transparent heart chamber; 2 left outer clear curved shell; 3 left black carbon-fiber rib panel; 4 left inner transparent curved support layer; 5 upper-left aorta connector ring assembly; 6 upper central transparent aorta and vessel towers; 7 upper-right pulmonary artery connector ring assembly; 8 right-side cylindrical port and interface rings; 9 right black carbon-fiber rib panel; 10 right transparent circuit-interface module with amber glow; 11 right outer clear curved shell; 12 far-right small transparent cap/lens; 13 multiple small floating screws and bolts aligned around the exploded parts. Keep all parts suspended in precise horizontal layers, as if disassembled for inspection.
+
+Technical annotations: Add thin white/gray leader lines and small uppercase sci-fi typography. Include exactly 7 visible callout labels: 1 “AORTA” with subtext “HIGH-FLOW / BIOCOMPATIBLE / POLYMER”; 2 “RIGHT ATRIUM” with subtext “MICRO-FLUIDIC / CHANNELS”; 3 “CARBON-FIBER RIB STRUCTURE” with subtext “ULTRA-LIGHT / HIGH-STRENGTH”; 4 “VENTRICLE” with subtext “BIO-MIMETIC / PUMP CHAMBER”; 5 “PULMONARY ARTERY” with subtext “PRESSURE REGULATING / VALVE”; 6 “BIO-CIRCUIT INTERFACE” with subtext “NEURAL SYNC / WIRELESS POWER / REAL-TIME MONITORING”; 7 “MICRO-FLUID CHANNELS” with subtext “NANO-SCALE / SELF-CLEANING / FLOW OPTIMIZATION”. Place these labels around the heart without covering key details.
+
+Footer text: In the bottom left, small spaced lettering reads {argument name="left footer text" default="HUMANITY\nA STRONGER TOMORROW"}. In the bottom right, add a tiny schematic line icon and text reading {argument name="right footer text" default="BIOENGINEERING\nFOR A HEALTHIER WORLD"}.
+
+Visual style: Ultra-detailed photorealistic 3D render, luxury industrial design, transparent medical device, carbon fiber texture, chrome hardware, glass refraction, glowing red and blue tubes, amber circuit light, high contrast, clean futuristic interface typography, technical diagram aesthetic, 8k quality.
+
+Constraints: No people, no hands, no blood or gore, no cartoon styling, no messy background, no extra large titles. Keep the anatomy recognizable as a human heart while emphasizing transparent futuristic engineering.
+```
+
+**来源：** [@关木](https://x.com/ZeroZ_JQ/status/2097551650156368331) | 2026-09-09
+
+---
+
+### 🏷️ 例 7812：Studio Portrait with Vintage Glasses
+
+![Studio Portrait with Vintage Glasses](../images/Studio%20Portrait%20with%20Vintage%20Glasses.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic professional studio portrait of a {argument name="subject" default="handsome Caucasian man in his late 30s"}, short neatly styled dark brown hair with a subtle side sweep, light stubble and a well-defined jawline, wearing large rectangular {argument name="accessories" default="vintage-inspired transparent brown/amber eyeglasses"}. He has a calm, confident, serious expression, looking directly at the camera. Dressed in a {argument name="clothing" default="minimalist beige/taupe bomber jacket over a plain off-white crew-neck T-shirt"}. Upper-body composition, shoulders and chest visible, centered symmetrical framing. Warm neutral color palette, soft diffused studio lighting, subtle shadows, clean off-white background, natural skin texture, realistic facial details, premium fashion editorial photography, 85mm portrait lens, shallow depth of field, crisp focus on eyes and face, cinematic yet natural, high-end commercial photography, ultra realistic, 4K detail.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2097528315271843950) | 2026-09-09
+
+---
+
+### 🏷️ 例 7817：精致玫瑰美甲修图
+
+![精致玫瑰美甲修图](../images/%E7%B2%BE%E8%87%B4%E7%8E%AB%E7%91%B0%E7%BE%8E%E7%94%B2%E4%BF%AE%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为底图，进行极其细腻的产品级修图：仅将手持草莓处可见的指甲修改为精致的 {argument name="nail design" default="淡粉色玫瑰主题美甲，配有微型花卉美甲艺术和亮面质感"}。保持整体构图、面部、姿势、服饰、软帽、花束、草莓、玫瑰、壁纸、光影、色调以及标题文字 {argument name="headline text" default="PINK EDEN"} 与参考图尽可能一致。请勿更改人物、背景、排版、裁剪或整体氛围。此次修图应仅影响 2 处可见的指甲区域：主拇指指甲及其旁边部分可见的小指甲；所有其他细节应保持不变。
+
+[English]
+Using REFERENCE_0 as the base image, perform an extremely subtle product-style edit: change only the visible fingernails on the hand holding the strawberries into a delicate {argument name="nail design" default="pale pink rose-themed manicure with tiny floral nail art and a glossy finish"}. Keep the entire composition, face, pose, dress, bonnet, bouquet, strawberries, roses, wallpaper, lighting, color palette, and the headline text {argument name="headline text" default="PINK EDEN"} as close to the reference as possible. Do not alter the character, background, typography, cropping, or overall mood. The edit should affect exactly 2 visible nail areas: the main thumb nail and the small partially visible fingernail beside it; all other details should remain unchanged.
+```
+
+**来源：** [@のえる](https://x.com/elle_elle_e/status/2097521726594978239) | 2026-09-09
+
+---
+
+### 🏷️ 例 7823：复古武侠幕后花絮剧照
+
+![复古武侠幕后花絮剧照](../images/%E5%A4%8D%E5%8F%A4%E6%AD%A6%E4%BE%A0%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的复古幕后电影剧照，画面中 {argument name="character name" default="一位年轻的东亚女侠"} 以低蹲姿势坐在古老质朴的庭院或古装剧片场的陈旧石阶上。她留着 {argument name="hair color" default="凌乱的黑发"}，头发松散地盘起，几缕发丝垂落，面色苍白疲惫，妆容极简，神情桀骜且面无表情地直视镜头。她身穿一套脏兮兮的纯黑色古风侠客装，服装包含 5 个清晰可见的部件：叠层裹袍、质感皮革风肩甲、深色护臂、宽松长裤以及磨损的黑色靴子。姿势设定为左手抬起对着镜头竖中指，右手拿着 1 个咬了一半的馒头或肉包。在她右脚靴子旁放置 1 个揉皱的棕色纸质食品袋。背景应呈现模糊的石阶、米色灰泥墙、深色木柱以及质朴的布景，营造出武侠或历史剧拍摄间隙的氛围。采用柔和的深褐色调、柔和的自然日光、浅景深、真实的皮肤质感、抓拍构图、轻微的动态瑕疵，并呈现出陈旧照片的质感，包括可见的胶片颗粒、灰尘斑点、划痕、褪色的对比度、磨损的白色圆角边框以及折痕。画面中不得包含文字或水印，除食品袋外不得出现任何现代物品，整体风格保持粗粝、自然、未经修饰，避免光鲜亮丽的质感。
+
+[English]
+Create a square, retro behind-the-scenes film still of {argument name="character name" default="a young East Asian woman warrior"} sitting in a low squat on worn stone steps in an old rustic courtyard or period village set. She has {argument name="hair color" default="messy black hair"} tied loosely up with flyaway strands, a pale tired face, minimal makeup, and a defiant deadpan expression while staring directly into the camera. She wears a dirty all-black ancient martial-arts rogue costume with exactly 5 visible outfit components: layered wrap robe, textured leather-like shoulder vest, dark forearm wraps, loose trousers, and worn black boots. Pose her with her left hand raised toward the camera giving the middle finger and her right hand holding exactly 1 half-eaten steamed bun or meat bun. Place exactly 1 crumpled brown paper food bag on the ground beside her right boot. The background should show blurred stone steps, beige plaster walls, dark wooden posts, and rustic set dressing, suggesting a wuxia or historical drama filming location during a break. Use muted sepia-brown color grading, soft natural daylight, shallow depth of field, realistic skin texture, candid snapshot framing, slight motion imperfection, and an aged photographic print look with visible film grain, dust specks, scratches, faded contrast, worn white rounded borders, and creased corners. No text, no watermark, no modern objects except the food bag, and keep the image gritty, natural, and unpolished rather than glossy.
+```
+
+**来源：** [@探路AI](https://x.com/TanLuAI/status/2097513378067755035) | 2026-09-09
+
+---
+
+### 🏷️ 例 7827：天空中的巨鸟之门
+
+![天空中的巨鸟之门](../images/%E5%A4%A9%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%B7%A8%E9%B8%9F%E4%B9%8B%E9%97%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个黄金时刻的超现实电影级空中场景：无数小鸟组成了一个巨大的垂直椭圆形门洞或传送门，鸟群在边缘密集排列，中心留出一片清晰的空隙，露出闪烁的云层和远处的景观。使用 {argument name="bird species" default="椋鸟和燕子"} 作为鸟类主体，画面中包含数百个微小的剪影，以及约 25 只在前景和中景不同深度飞行、清晰可见的大型鸟类。在画面边缘（尤其是左侧、右侧和底部）添加几只非常巨大、失焦的鸟类和模糊的翅膀，以营造深度和动感。在鸟群之门的底部内缘，放置一个身穿 {argument name="figure clothing" default="简单白袍"} 的微小坐姿人物，以突显比例感和奇幻氛围。在传送门下方，展示从高空俯瞰的广阔乡村拼贴景观，包括田野、树林、河流和小路。天空布满了温暖的桃色云彩、蓝色的空隙以及从右侧射入的低角度阳光，呈现出逼真的相机级光影、体积雾、翅膀轮廓光、浅景深、近处鸟类的动态模糊，以及史诗般的梦幻氛围。采用方形构图，超精细照片级真实奇幻风格，广角镜头视角，高动态范围，无文字，无水印。
+
+[English]
+Create a surreal cinematic aerial scene at golden hour: countless small birds form a gigantic vertical oval doorway or portal in the sky, with the flock densely packed around the rim and leaving a clear open center that reveals glowing clouds and distant landscape beyond. Use {argument name="bird species" default="starlings and swallows"} as the birds, with hundreds of tiny silhouettes plus about 25 larger, readable birds flying at different depths in the foreground and midground. Add several very large out-of-focus birds and blurred wings crossing the extreme edges of the frame to create depth and motion, especially along the left, right, and bottom borders. At the bottom inner edge of the bird-portal, place one tiny seated human figure in {argument name="figure clothing" default="a simple white robe"}, emphasizing scale and wonder. Below the portal, show a vast patchwork countryside of fields, tree lines, rivers, and small roads seen from high altitude. The sky is filled with warm peach clouds, blue openings, and low sun rays from the right, with realistic camera-like lighting, volumetric haze, rim light on wings, shallow depth of field, motion blur on nearby birds, and an epic dreamlike atmosphere. Use a square composition, ultra-detailed photorealistic fantasy, wide-angle lens perspective, high dynamic range, no text, no watermark.
+```
+
+**来源：** [@XiaoLei Liu](https://x.com/leo_xiaolei/status/2097507966240935971) | 2026-09-09
+
+---
+

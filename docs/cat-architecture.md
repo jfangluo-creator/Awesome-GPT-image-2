@@ -5101,3 +5101,100 @@ Create a cinematic photorealistic vertical street photograph in a rainy near-fut
 
 ---
 
+### 🏛️ 例 7794：基于草图生成的写实风格房间推广渲染图
+
+![基于草图生成的写实风格房间推广渲染图](../images/%E5%9F%BA%E4%BA%8E%E8%8D%89%E5%9B%BE%E7%94%9F%E6%88%90%E7%9A%84%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E6%88%BF%E9%97%B4%E6%8E%A8%E5%B9%BF%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+做一张房间实景宣传图片，用来向我的租户进行宣传我的房间，主题是房间布局，左边大落地窗，很好的太阳和采光，落地窗旁边有猫窝，上面躺着一只{argument name="宠物" default="橘猫"}，卧室房间内有一张很大的办公桌面，桌面放置着电脑键盘鼠标手机等日常使用的事物，有一名中国年轻男性坐在一个人体工学椅上进行操作电脑。电脑桌右边有一张单人床。整体位置关系如草图所示，光线与材质像用手机实拍的卧室画面。硬要求：必须出现草图内画的所有物品，包括窗外的太阳。需要避免的问题：不要出现任何违背真实日常生活的元素和现象。其余比例，房间内其他事物，以及图片其他要求由你自行决定，以达到自然真实而不过于刻意的效果
+```
+
+**来源：** [@安伈XinAn](https://x.com/AnXin_37/status/2097554757506539972) | 2026-09-09
+
+---
+
+### 🏛️ 例 7814：东方禅意极简壁纸
+
+![东方禅意极简壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="风格主题" default="东方禅意极简插画"}
+风格分支：女性审美明快型
+主体内容：{argument name="主体内容" default="一位手持圆形团扇的古风女子站在白墙竹影前"}
+情绪母题：轻盈、明媚、夏日风感
+场景与意象：圆形团扇、西柚粉花影、青竹绿竹影、白墙、女子
+构图与空间：{argument name="画幅比例" default="9:16"} 竖版构图，人物位于下方偏一侧，圆扇靠近视觉中心，顶部与另一侧保留整洁留白
+色彩控制：奶油白作为背景基底，青竹绿用于竹影和少量植物，西柚粉用于花影和扇面点睛，人物服装用浅白或浅粉；避免红绿过满和全图粉绿滤镜化
+光线与质感：明亮柔光，边缘清晰，画面干净清爽，现代东方插画感
+画幅比例：9:16
+补充要求：整体要轻快、鲜活、女性审美强，适合小红书高颜值封面
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2097526256770154529) | 2026-09-09
+
+---
+
+### 🏛️ 例 7816：日式走廊窗户详图图纸
+
+![日式走廊窗户详图图纸](../images/%E6%97%A5%E5%BC%8F%E8%B5%B0%E5%BB%8A%E7%AA%97%E6%88%B7%E8%AF%A6%E5%9B%BE%E5%9B%BE%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为建筑参考源，将其重组为一张更简洁、更聚焦的日式走廊窗户构造技术图纸。保持原有的主题和手绘建筑插图风格，但简化页面布局，并将构造细节重绘为推导出的测量详图，而非宽泛的说明性项目。
+
+目标：创建一张详细图纸，标题为 {argument name="main title" default="廊下 窓まわり詳細図"}，副标题为 {argument name="subtitle" default="(断面図・展開図・部分詳細図)"}。将所有尺寸视为基于参考图/照片的估算值，并注明单位为 {argument name="unit note" default="mm"}。
+
+布局：使用精确的 4 个绘图区域：左侧为 1 个大型 A-A 剖面详图，右上角为 1 个室内立面图，右下角为 2 个小型局部构造图。以左侧剖面为视觉中心，并在其顶部包含一个小型的索引平面图/剖面标记。
+
+左侧主剖面：以 S=1/10 的比例重绘走廊窗户剖面，要求构造层次清晰，并使用橙色尺寸线。左侧显示室外绿植和室外地面，中间为高木窗框/玻璃开口，右侧为室内走廊侧。标注内容包括：室外侧、室内侧、天花板、钢柱、木窗框、双层玻璃、砖窗台/窗基、砖砌外墙、角钢/托架、楼板构造、现有钢筋混凝土板/基础、GL ±0 和 FL ±0。强调估算尺寸，包括开口高度约 2100、窗基约 300、砖砌高度 180、砖台宽度 350、室外通道约 600、墙体 100、窗台/长凳 350 以及走廊宽度约 1200。
+
+右上角图纸：创建室内立面图，标注为 {argument name="elevation label" default="内観立面図（廊下側） S=1/50"}。展示走廊侧的窗墙，包含重复的垂直木框、玻璃窗格、砖砌/长凳基座、钢柱、透过玻璃可见的室外绿植，以及橙色的 A-A 剖面标记。
+
+右下角细节：添加 2 个标注为 a 和 b 的局部构造图：a. 上部/窗楣细节，展示天花板、石膏板基层/涂料饰面、木窗框和双层玻璃；b. 下部/窗台细节，展示砖饰面、砂浆基层、砖支撑以及角钢加托架，并标注橙色尺寸 350、约 300 和 180。
+
+风格与约束：保持参考图简洁的日式建筑表现风格：细黑色线条、浅灰色填充、柔和的木材和砖块色调、橙色尺寸标注、白色背景、精确的引出线，以及专业的测量图外观。在指定位置使用日文技术标签，但避免过于拥挤。在底部添加注意事项 {argument name="caution note" default="※寸法は写真からの推定です。実施設計時は現地調査のうえ決定してください。"}。不要添加无关的照片、室内人物、装饰性图标或额外的绘图面板。
+
+[English]
+Using REFERENCE_0 as the architectural source, reorganize it into a cleaner, more focused Japanese technical drawing sheet for the corridor window assembly. Keep the same subject and hand-drafted architectural illustration style, but simplify the page and redraw the construction details as an inferred measured detail rather than a broad explanatory board.
+
+Goal: Create a detailed drawing titled {argument name="main title" default="廊下 窓まわり詳細図"} with subtitle {argument name="subtitle" default="(断面図・展開図・部分詳細図)"}. Treat all dimensions as estimates from the reference/photo and note that the unit is {argument name="unit note" default="mm"}.
+
+Layout: Use exactly 4 drawing areas: 1 large A-A section detail on the left, 1 interior elevation view at the upper right, and 2 small partial detail diagrams at the lower right. Make the left section the dominant focus and include a small key plan/section marker at the top of it.
+
+Left main section: Redraw the corridor window section at S=1/10 with clearer construction layers and orange dimension lines. Show exterior planting and exterior ground on the left, the tall wood sash/glass opening in the center, and the interior corridor side on the right. Include labels for exterior side, interior side, ceiling, steel column, wood sash, double glass, brick sill/window base, brick exterior wall, steel angle/bracket, floor build-up, existing RC slab/foundation, GL ±0 and FL ±0. Emphasize estimated dimensions including opening height about 2100, window base about 300, brick rise 180, brick ledge width 350, exterior passage about 600, wall 100, sill/bench 350, and corridor width about 1200.
+
+Upper-right drawing: Create an interior elevation view labeled {argument name="elevation label" default="内観立面図（廊下側） S=1/50"}. Show the corridor-side window wall with repeated vertical wooden frames, glass panes, brick/bench base, steel columns, exterior planting visible through the glass, and orange A-A section markers.
+
+Lower-right details: Add exactly 2 partial detail diagrams labeled a and b: a. upper/head detail showing ceiling, PB substrate/paint finish, wood sash, and double glass; b. lower/sill detail showing brick finish, mortar substrate, brick support, and steel angle plus bracket, with orange dimensions 350, about 300, and 180.
+
+Style and constraints: Maintain the reference’s clean Japanese architectural presentation: thin black linework, light gray hatching, muted wood and brick tones, orange dimensions, white background, precise leader lines, and a professional measured-drawing look. Use Japanese technical labels where shown, but avoid overcrowding. Add a bottom caution note {argument name="caution note" default="※寸法は写真からの推定です。実施設計時は現地調査のうえ決定してください。"}. Do not add unrelated photos, people in the interior, decorative icons, or extra drawing panels.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2097523271302599071) | 2026-09-09
+
+---
+
+### 🏛️ 例 7833：未来感建筑改造
+
+![未来感建筑改造](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%BB%BA%E7%AD%91%E6%94%B9%E9%80%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 {argument name="target" default="it"} 转换为 {argument name="style" default="未来建筑"} 风格
+
+[English]
+turn {argument name="target" default="it"} into a {argument name="style" default="future building"}
+```
+
+**来源：** [@zdhpeter](https://x.com/peter6759/status/2097503664789430530) | 2026-09-09
+
+---
+
