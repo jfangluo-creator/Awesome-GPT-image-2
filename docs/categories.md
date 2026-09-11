@@ -1165,6 +1165,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7820：Urban Golden Hour Male Portrait](cat-ui.md#️-例-7820urban-golden-hour-male-portrait)
 
 - [例 7831：网红直播场景](cat-ui.md#️-例-7831网红直播场景)
+
+- [例 7840：咖啡杯中的微缩城市](cat-ui.md#️-例-7840咖啡杯中的微缩城市)
+
+- [例 7847：不死吸血鬼国王宝座](cat-ui.md#️-例-7847不死吸血鬼国王宝座)
+
+- [例 7851：Technical Product Infographic Overlay](cat-ui.md#️-例-7851technical-product-infographic-overlay)
+
+- [例 7857：古风美人角色创建游戏](cat-ui.md#️-例-7857古风美人角色创建游戏)
+
+- [例 7861：Ultra-Realistic Neon Portrait](cat-ui.md#️-例-7861ultra-realistic-neon-portrait)
 ---
 
 <a id="chart"></a>
@@ -3439,6 +3449,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7792：自然拉面广告海报](cat-poster.md#-例-7792自然拉面广告海报)
 
 - [例 7818：敦煌飞天海报](cat-poster.md#-例-7818敦煌飞天海报)
+
+- [例 7835：温布尔登动态双联海报](cat-poster.md#-例-7835温布尔登动态双联海报)
+
+- [例 7838：云朵朋友剪贴簿海报](cat-poster.md#-例-7838云朵朋友剪贴簿海报)
+
+- [例 7839：雪中日本公交站双联画](cat-poster.md#-例-7839雪中日本公交站双联画)
+
+- [例 7856：国潮风城市宣传海报](cat-poster.md#-例-7856国潮风城市宣传海报)
+
+- [例 7860：时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
 ---
 
 <a id="photo"></a>
@@ -9157,6 +9177,20 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7829：唐朝皇家宴会电影感摄影](cat-photo.md#-例-7829唐朝皇家宴会电影感摄影)
 
 - [例 7834：纽约观景台人像](cat-photo.md#-例-7834纽约观景台人像)
+
+- [例 7842：韩系夏日生活感人像](cat-photo.md#-例-7842韩系夏日生活感人像)
+
+- [例 7843：《The Last Train Home》电影感场景](cat-photo.md#-例-7843the-last-train-home电影感场景)
+
+- [例 7844：欧洲秋季时尚大片](cat-photo.md#-例-7844欧洲秋季时尚大片)
+
+- [例 7862：涂鸦照片拼贴海报](cat-photo.md#-例-7862涂鸦照片拼贴海报)
+
+- [例 7863：黄金时刻剪影肖像](cat-photo.md#-例-7863黄金时刻剪影肖像)
+
+- [例 7866：克什米尔迷雾中的电影感肖像](cat-photo.md#-例-7866克什米尔迷雾中的电影感肖像)
+
+- [例 7867：日出时的自然肖像](cat-photo.md#-例-7867日出时的自然肖像)
 ---
 
 <a id="illustration"></a>
@@ -11206,6 +11240,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7819：高分辨率森林空地照片](cat-illustration.md#-例-7819高分辨率森林空地照片)
 
 - [例 7828：华丽的粉发武士公主](cat-illustration.md#-例-7828华丽的粉发武士公主)
+
+- [例 7853：Serene Four-Panel Woman Portrait](cat-illustration.md#-例-7853serene-four-panel-woman-portrait)
+
+- [例 7864：Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
 ---
 
 <a id="character"></a>
@@ -12414,6 +12452,16 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7813：AI 产品草图转台灯渲染图](cat-3d.md#-例-7813ai-产品草图转台灯渲染图)
 
 - [例 7824：Q 版吉祥物战斗动作精灵图表](cat-3d.md#-例-7824q-版吉祥物战斗动作精灵图表)
+
+- [例 7836：金鹿晨曦羊毛毡艺术转化](cat-3d.md#-例-7836金鹿晨曦羊毛毡艺术转化)
+
+- [例 7848：未来感天空跑酷机器人](cat-3d.md#-例-7848未来感天空跑酷机器人)
+
+- [例 7850：高级时尚 3D 角色概念图](cat-3d.md#-例-7850高级时尚-3d-角色概念图)
+
+- [例 7854：女性与同款 3D 大头公仔](cat-3d.md#-例-7854女性与同款-3d-大头公仔)
+
+- [例 7868：巴基斯坦与菲律宾奢华立体模型](cat-3d.md#-例-7868巴基斯坦与菲律宾奢华立体模型)
 ---
 
 <a id="architecture"></a>
@@ -12872,6 +12920,10 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7816：日式走廊窗户详图图纸](cat-architecture.md#️-例-7816日式走廊窗户详图图纸)
 
 - [例 7833：未来感建筑改造](cat-architecture.md#️-例-7833未来感建筑改造)
+
+- [例 7841：“遗失明日博物馆”概念场景](cat-architecture.md#️-例-7841遗失明日博物馆概念场景)
+
+- [例 7845：文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
 ---
 
 <a id="comic"></a>
@@ -15139,6 +15191,18 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7823：复古武侠幕后花絮剧照](cat-brand.md#️-例-7823复古武侠幕后花絮剧照)
 
 - [例 7827：天空中的巨鸟之门](cat-brand.md#️-例-7827天空中的巨鸟之门)
+
+- [例 7837：水下孔版印刷双联画](cat-brand.md#️-例-7837水下孔版印刷双联画)
+
+- [例 7852：Hand-drawn travel journal illustration](cat-brand.md#️-例-7852hand-drawn-travel-journal-illustration)
+
+- [例 7855：High Fashion Studio Portrait](cat-brand.md#️-例-7855high-fashion-studio-portrait)
+
+- [例 7858：Photo to Watercolor Travel Illustration](cat-brand.md#️-例-7858photo-to-watercolor-travel-illustration)
+
+- [例 7859：Venus Soap Holder Bathroom Interior Design](cat-brand.md#️-例-7859venus-soap-holder-bathroom-interior-design)
+
+- [例 7865：Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
 ---
 
 <a id="edit"></a>
@@ -15484,6 +15548,10 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7822：男性视角设计转换](cat-edit.md#-例-7822男性视角设计转换)
 
 - [例 7830：高分辨率图像修复指令](cat-edit.md#-例-7830高分辨率图像修复指令)
+
+- [例 7846：复古肖像照片修复](cat-edit.md#-例-7846复古肖像照片修复)
+
+- [例 7849：季节性街景风格转换器](cat-edit.md#-例-7849季节性街景风格转换器)
 ---
 
 <a id="fun"></a>

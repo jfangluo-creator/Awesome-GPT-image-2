@@ -16454,3 +16454,81 @@ Use shallow depth of field, realistic skin texture, natural facial details, cris
 
 ---
 
+### 🖥️ 例 7840：咖啡杯中的微缩城市
+
+![咖啡杯中的微缩城市](../images/%E5%92%96%E5%95%A1%E6%9D%AF%E4%B8%AD%E7%9A%84%E5%BE%AE%E7%BC%A9%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超现实且具有超写实感的图像，主体是一个 {argument name="subject" default="微缩城市"}，构建在 {argument name="vessel" default="咖啡杯"} 之中。泡沫和液体应形成地形、街道和微小的发光建筑，并配有小桥和走动的小人。展示戏剧性升腾的蒸汽，以及洒在场景上的温暖晨光。使其充满奇思妙想、高度精细且视觉丰富，呈现出高端商业概念图的效果。
+
+[English]
+Create a surreal yet photorealistic image of a {argument name="subject" default="miniature city"} built inside a {argument name="vessel" default="cup of coffee"}. The foam and liquid should form terrain, streets, and tiny glowing buildings, with little bridges and small people moving around. Show steam rising dramatically and warm morning light hitting the scene. Make it whimsical, highly detailed, and visually rich, like a premium commercial concept.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2098099843382042647) | 2026-09-10
+
+---
+
+### 🖥️ 例 7847：不死吸血鬼国王宝座
+
+![不死吸血鬼国王宝座](../images/%E4%B8%8D%E6%AD%BB%E5%90%B8%E8%A1%80%E9%AC%BC%E5%9B%BD%E7%8E%8B%E5%AE%9D%E5%BA%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超精细的黑暗奇幻哥特式插画，描绘 {argument name="character name" default="一位不死吸血鬼国王"} 端坐在废弃教堂的宝座室中。核心人物是一位面色苍白、如尸体般的君主，留着飘逸的 {argument name="hair color" default="白色长发"}，双眼闪烁红光，嘴角流血，头戴锯齿状黑色王冠。他身穿华丽的黑色盔甲，上面布满了骷髅、尖刺、锁链、红色宝石以及破烂的深红色与黑色皇家袍服。他傲慢地坐在镶嵌着骷髅的石制宝座上，一只手搭在扶手上，另一只手紧握一把长长的仪式剑，剑柄饰有骷髅，配有哥特式十字护手、红色宝石和苍白的剑刃。在他周围布置 9 个清晰可见的超自然人物或生物：1 个巨大的半透明幽灵战士手持长剑悬浮在他身后，1 个较小的漂浮幽灵靠近月光下的拱门，4 个朦胧的人类灵魂位于中景的楼梯和阳台上，2 个身穿盔甲的幽灵士兵在右下方手持武器，以及 1 只在左下方前景咆哮的幽灵狼。场景设定在一座巨大的黑色石砌教堂中，配有破损的尖拱、高耸的柱子、蜡烛、锁链、开裂的台阶、骷髅和破烂的红色旗帜。包含 3 条清晰可辨的旗帜或石刻铭文：左侧悬挂的旗帜写着 {argument name="left banner text" default="BLOOD BEYOND DEATH"}，右侧悬挂的旗帜写着 {argument name="right banner text" default="KINGS DIE BUT LEGENDS HAUNT FOREVER"}，左下方的石块上写着 {argument name="stone inscription" default="SWORDS REMEMBER WHAT MEN FORGET"}。透过巨大的拱门，展现远处的哥特式尖顶城堡、拱桥、飞行的蝙蝠、风暴云、寒冷的薄雾和一轮巨大的深红色血月。采用电影级低角度构图，超写实数字绘画，复杂精细的概念艺术细节，冷蓝灰色雾气与深红色调形成对比，戏剧性的月光，烛光，体积雾，锐利的盔甲高光，恐怖的皇家氛围，无现代物品，非卡通风格。
+
+[English]
+Create an ultra-detailed dark fantasy gothic illustration of {argument name="character name" default="an undead vampire king"} enthroned inside a ruined cathedral throne room. The central figure is a pale, corpse-like monarch with long flowing {argument name="hair color" default="white hair"}, glowing red eyes, blood running from the mouth, and a jagged black crown. He wears ornate blackened armor covered in skulls, spikes, chains, red jewels, and torn crimson-black royal robes. He sits arrogantly on a skull-encrusted stone throne, one hand resting on the armrest and the other gripping a long ceremonial sword with a skull pommel, gothic crossguard, red gem, and pale blade. Surround him with exactly 9 clearly visible supernatural figures or creatures: 1 large translucent ghostly warrior hovering behind him with a sword, 1 smaller floating ghost near the moonlit archway, 4 misty human spirits on the stairs and balcony in the midground, 2 armored spectral soldiers at the lower right holding weapons, and 1 snarling ghost wolf in the lower left foreground. Set the scene in a vast black stone cathedral with broken pointed arches, towering columns, candles, chains, cracked steps, skulls, and tattered red banners. Include exactly 3 readable banner or stone inscriptions: left hanging banner says {argument name="left banner text" default="BLOOD BEYOND DEATH"}, right hanging banner says {argument name="right banner text" default="KINGS DIE BUT LEGENDS HAUNT FOREVER"}, and the stone block near the lower left says {argument name="stone inscription" default="SWORDS REMEMBER WHAT MEN FORGET"}. Through the huge archway, show a distant spired gothic castle, an arched bridge, flying bats, storm clouds, cold mist, and a huge crimson blood moon. Use cinematic low-angle composition, hyperreal digital painting, intricate concept-art detail, cold blue-gray fog contrasted with deep crimson accents, dramatic moonlight, candle glow, volumetric mist, sharp armor highlights, macabre regal atmosphere, no modern objects, no cartoon style.
+```
+
+**来源：** [@Lee Penkman](https://x.com/LeeLeepenkman/status/2097966510111432791) | 2026-09-10
+
+---
+
+### 🖥️ 例 7851：Technical Product Infographic Overlay
+
+![Technical Product Infographic Overlay](../images/Technical%20Product%20Infographic%20Overlay.jpg)
+
+**Prompt:**
+
+```text
+Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2097925502493508013) | 2026-09-10
+
+---
+
+### 🖥️ 例 7857：古风美人角色创建游戏
+
+![古风美人角色创建游戏](../images/%E5%8F%A4%E9%A3%8E%E7%BE%8E%E4%BA%BA%E8%A7%92%E8%89%B2%E5%88%9B%E5%BB%BA%E6%B8%B8%E6%88%8F.jpg)
+
+**Prompt:**
+
+```text
+你是一款互动式古代美人捏人游戏。通过8步决定人物核心特征，其余细节由AI补全。少解释，多互动，始终保存当前角色状态。【流程】①朝代 → ②身材 → ③气质 → ④发式 → ⑤服饰 → ⑥妆容 → ⑦场景 → ⑧神态 → 完成。严格按顺序，一次只展示一个项目。用户选择后立即保存并进入下一项，不询问“下一步”，不重复确认。开始时只展示①。【选择界面】每项6～10个选项。使用紧凑视觉卡：视觉示例＋编号＋名称＋一句短解析。解析突出选项特点或视觉效果，尽量控制在10字以内。2～3列，一屏显示。支持点击时优先点击；无法点击时使用编号或名称。【捏人项目】①朝代：先秦｜秦汉｜魏晋南北朝｜隋唐｜五代十国｜宋｜辽金元｜明｜清。②身材：娇小纤秀｜纤细柔婉｜自然匀称｜高挑修长｜柔婉丰润｜丰姿婀娜。③气质：清雅｜温婉｜明艳｜灵秀｜端庄｜妩媚｜清冷｜娇憨。④发式：根据朝代提供6～8种有历史依据的女性传统发式。⑤服饰：根据朝代提供6～8种有文物、绘画、考古或文献依据的女性传统服饰形制。禁止现代新中式、泛中国风、影视架空服饰。⑥妆容：根据朝代提供6～8种有历史依据的女性妆容。⑦场景：根据朝代提供6～8种符合时代建筑、生活方式和社会环境的女性生活场景。⑧神态：根据①～⑦已确定的全部设定，动态生成8种最符合当前人物、场景和情境的神态。8种神态须有明显区别，避免重复、冲突和泛化。⑧不使用固定选项池。【朝代联动】④发式、⑤服饰、⑥妆容、⑦场景必须与①朝代一致。辽金元需分别处理，不得混合三个时期。修改①朝代，只重新处理④⑤⑥⑦；②③保持不变。修改④～⑦任一项目后，检查后续项目是否与最新设定冲突，有冲突则重新处理；⑧始终根据最新①～⑦重新生成。【状态与操作】始终保存已选项目。“随机”：随机当前项目，已锁定则无效。“换一个”：重新提供当前项目选项，已锁定则无效。“锁定”：锁定当前项目，限制随机、换一个和全部随机改变该项目。“修改设定”：用户明确指定修改时，可以修改已锁定项目。“返回”：回到上一项目并立即显示该项目，重新选择后继续向后推进，其他状态保留；若后续项目与最新设定冲突，则重新处理受影响项目，并重新生成⑧神态。“全部随机”：随机所有未锁定项目，已锁定项目保持不变，从①开始；遇到已锁定项目直接保留并进入下一项。完成①～⑦后，根据最新设定重新生成⑧神态。“重新捏人”：清空全部设定，从①开始。支持直接说“换成明代”“发式换一个”“改成浅笑”等，根据语义执行。【AI自动补全】除8个捏人项目外，其余全部由AI自动完成，包括动作、手势、具体发饰、首饰、颜色、纹样、材质、鞋履、道具、环境、人物关系、构图、镜头、光影、时令、天气等。时令：春｜夏｜秋｜冬。天气：晴｜阴｜薄雾｜细雨｜雪。所有自动补全必须符合人物、朝代、服饰、发式、妆容和场景。【固定人物】成年女性；身材自然；比例协调；真实肤质。【固定摄影】手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。摄影风格固定，不作为选择项目，不改变历史语境。【完成】完成⑧神态后，必须依次输出：【完整角色设定】①朝代：当前选择、②身材：当前选择、③气质：当前选择、④发式：当前选择、⑤服饰：当前选择、⑥妆容：当前选择、⑦场景：当前选择、⑧神态：当前选择。【最终图片提示词】完整整合8项设定，并自动补全动作、手势、发饰、首饰、服装细节、颜色、纹样、材质、鞋履、道具、环境、人物关系、时令、天气、构图、镜头和光影。保持历史一致性，并加入：手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。最终提示词必须完整、连贯、可直接复制用于图片生成，不得只输出关键词或省略已选设定。提示词最后加入：左下签名“● DeepBlue”；“●”为纯 #0B3D91 深蓝色实心圆点，“DeepBlue”为白色自然手写字体。然后显示：① 生成图片 ② 修改设定 ③ 重新捏人。【生成】输入“1”“生成”或“出图”，立即根据最终图片提示词生成图片。【修改】输入“2”后指定项目并重新选择。修改后重新输出完整角色设定和最终图片提示词，再显示①②③。【重新捏人】输入“3”或“重新捏人”，清空角色，从①开始。【再来一个】保留8项核心设定和固定摄影。只重新演绎动作、环境、时令、天气、构图、镜头和光影。不得改变8项核心设定或固定摄影。生成新的最终图片提示词并立即生成。【最终规则】这是连续捏人游戏，不是普通问答。一次一个项目；选择后立即推进；始终保存状态；朝代变化自动联动；修改④～⑦后检查后续一致性；⑧神态始终根据最新①～⑦动态生成；摄影固定；不得要求下一步；不得重复确认。完成⑧后必须：输出完整角色设定 → 输出完整图片提示词 → 显示①②③。不得跳过完整图片提示词。点击不可用时，立即降级为编号或名称选择，不得中断流程。现在开始，只展示①朝代。
+```
+
+**来源：** [@DeepBlue深藍](https://x.com/DeepBlueX0/status/2097897602356306361) | 2026-09-10
+
+---
+
+### 🖥️ 例 7861：Ultra-Realistic Neon Portrait
+
+![Ultra-Realistic Neon Portrait](../images/Ultra-Realistic%20Neon%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic close-up portrait of a {argument name="subject" default="young adult man"} use image for face reference , laughing naturally with a wide genuine smile, head slightly tilted upward, looking just past the camera. Dramatic studio portrait photography against a completely black background. Strong dual-color neon lighting: vivid {argument name="left light color" default="magenta/purple"} rim light from the left side and intense {argument name="right light color" default="cyan/teal"} light from the right, creating a striking split-light effect across the face, beard, neck, and black crewneck sweatshirt. Highly detailed skin texture, realistic pores, individual beard hairs, sharp expressive eyes, natural teeth, soft specular highlights, shallow depth of field, high contrast, moody nightclub aesthetic, professional fashion/editorial photography, 85mm lens, f/1.8, close framing from chest up, centered composition, photorealistic, HDR, ultra-detailed, 4K.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2097884434016211066) | 2026-09-10
+
+---
+

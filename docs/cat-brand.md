@@ -21158,3 +21158,119 @@ Create a surreal cinematic aerial scene at golden hour: countless small birds fo
 
 ---
 
+### 🏷️ 例 7837：水下孔版印刷双联画
+
+![水下孔版印刷双联画](../images/%E6%B0%B4%E4%B8%8B%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅宁静的双联视觉研究作品，通过色块、充足的留白和可见的印刷纹理，以安静治愈的美学风格，对比呈现水下场景与诗意的抽象印刷诠释。
+
+画布：宽幅 16:9 横向构图，由一条细白线精确分割为 2 个竖向面板。在整张图像周围添加极细的浅色边框。
+
+左侧面板：充满整个左半部分的柔和、略带模糊的水下摄影风格场景。展示浅绿松石色的水域，水面有波光粼粼的倒影，底部有沙质海床、海草和类似珊瑚的植物，以及 6 条清晰可见的鱼：3 条较大的鱼从左向右游过中左侧，1 条浅色小鱼靠近中右侧，1 条深色小鱼靠近右侧中部，以及 1 条深色鱼的局部靠近右下边缘。使用青色、蓝绿色、海绿色、灰色和阴影蓝黑色调，带有梦幻般的动态模糊和斑驳的阳光。
+
+右侧面板：暖米白色纸张上的极简主义编辑海报插画。使用手工剪裁的拼贴形状、孔版/丝网印刷颗粒、透明重叠色块和粗糙的油墨纹理。描绘一个抽象的水下世界，包含 6 条清晰可见的鱼：中心左侧 1 条大型青色鱼，中心 1 条大型橄榄灰色鱼，中心右上侧 1 条中型青色鱼，最右侧 1 条小型青色鱼，右下方 1 条小型浅青色鱼，以及靠近下部中心 1 条微小的浅色鱼或标记。在右上角添加 3 条宽大的青绿色笔触水流形状，留下不规则的白色空隙。底部创建由青色、水绿色、深绿色和浅灰色组成的层叠几何海床块，并在中右下方添加一簇向上生长的垂直海草；包含约 15 片混合了青色和柔和绿色的独立植物叶片。
+
+文本内容：在右侧面板、主要鱼群的左侧放置一首小型的斜体衬线诗句，内容必须为：“where light\nbecomes water,\nwe learn to drift.”（光化为水，我们学会漂浮）。在诗句下方添加一条细横线。
+
+风格：诗意、宁静、沉思、现代艺术画册排版；右侧面板具有强烈的负空间；柔和的水生色调 {argument name="main color palette" default="绿松石色、青色、海绿色、柔和橄榄色、浅灰色、暖象牙白"}；纹理纸张颗粒和不完美的印刷边缘；受水下自然光启发的柔和、平衡的构图。
+
+可定制细节：使用诗句文本 {argument name="poem text" default="where light\nbecomes water,\nwe learn to drift."}，保持主题为 {argument name="visual theme" default="水下漂浮的鱼和海草"}，将左侧面板风格设置为 {argument name="left panel style" default="梦幻水下摄影"}，并将右侧面板风格设置为 {argument name="right panel style" default="抽象孔版印刷拼贴海报"}。
+
+约束：保持精确的双面板分割，保持右侧面板的通透感和大量留白，避免额外的标签或徽标，避免右侧出现超写实风格，且不要添加超过每个面板中计数的 6 条鱼。
+
+[English]
+Goal: Create a calm two-panel visual study contrasting an underwater scene with a poetic abstract print interpretation, in a quiet healing aesthetic using color blocks, generous white space, and visible printmaking texture.
+
+Canvas: Wide horizontal 16:9 composition, split exactly into 2 vertical panels by a thin white divider. Add a very thin pale border around the full image.
+
+Left panel: A soft, slightly blurred underwater photograph-style scene filling the entire left half. Show shallow turquoise water with rippled reflections on the surface, sandy seabed, sea grass and coral-like plants near the bottom, and 6 visible fish: 3 larger fish swimming from left to right across the middle-left, 1 small pale fish near the center-right, 1 dark small fish near the right middle, and 1 partial dark fish near the lower-right edge. Use teal, cyan, sea green, gray, and shadowy blue-black tones, with dreamy motion blur and dappled sunlight.
+
+Right panel: A minimalist editorial poster illustration on warm off-white paper. Use hand-cut collage shapes, risograph/screen-print grain, transparent overlapping color blocks, and rough ink texture. Depict an abstract underwater world with 6 visible fish: 1 large teal fish left of center, 1 large olive-gray fish in the center, 1 medium teal fish upper-right of center, 1 small teal fish at far right, 1 small pale teal fish below-right, and 1 tiny pale fish or mark near the lower center. Add 3 broad turquoise brush-stroke water-current shapes across the upper-right, leaving irregular white gaps. At the bottom, create layered geometric seabed blocks in teal, aqua, dark green, and pale gray, plus a cluster of vertical sea plants rising from the lower center-right; include about 15 individual plant blades in mixed teal and muted green.
+
+Text content: Place a small italic serif poem on the right panel, left of the main fish group, reading exactly: "where light\nbecomes water,\nwe learn to drift." Add a thin horizontal line beneath the poem.
+
+Style: Poetic, quiet, contemplative, modern art-book layout; strong negative space on the right panel; muted aquatic palette of {argument name="main color palette" default="turquoise, teal, sea green, muted olive, pale gray, warm ivory"}; textured paper grain and imperfect printed edges; gentle, balanced composition inspired by natural light underwater.
+
+Customizable details: Use the poem text {argument name="poem text" default="where light\nbecomes water,\nwe learn to drift."}, keep the theme as {argument name="visual theme" default="underwater drifting fish and sea grass"}, set the left panel style to {argument name="left panel style" default="dreamy underwater photograph"}, and set the right panel style to {argument name="right panel style" default="abstract risograph collage poster"}.
+
+Constraints: Preserve the exact two-panel split, keep the right panel airy with large blank space, avoid extra labels or logos, avoid hyperrealism on the right, and do not add more fish than the 6 counted in each panel.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2098110986809200982) | 2026-09-10
+
+---
+
+### 🏷️ 例 7852：Hand-drawn travel journal illustration
+
+![Hand-drawn travel journal illustration](../images/Hand-drawn%20travel%20journal%20illustration.jpg)
+
+**Prompt:**
+
+```text
+Transform the reference photograph into a delicate {argument name="style" default="hand-drawn travel journal illustration"} while preserving the original composition, architecture, people, trees, grass, road, and overall perspective. Use a traditional colored-pencil and watercolor sketch aesthetic on warm, slightly aged cream paper. Keep the buildings recognizable but simplify them into expressive hand-drawn shapes, with visible pencil strokes, loose watercolor washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Preserve the peaceful {argument name="atmosphere" default="rainy-day"} atmosphere, soft overcast sky, warm beige and muted buildings, fresh green lawn, scattered people walking with umbrellas, wet pavement, trees, benches, puddles, and distant cars. Use a muted vintage travel-sketch palette with natural imperfections and understated colors. Place the illustration in the lower portion of the page with generous cream-colored negative space around it. Add elegant handwritten typography above: ‘{argument name="heading" default="Rainy Days"}’, and below: — Quiet moments —. Minimal, nostalgic, artistic travel magazine aesthetic, analog photography transformed into a personal sketchbook memory, sophisticated and authentic, no photorealism.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2097923838449516732) | 2026-09-10
+
+---
+
+### 🏷️ 例 7855：High Fashion Studio Portrait
+
+![High Fashion Studio Portrait](../images/High%20Fashion%20Studio%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+High-fashion studio portrait of an elegant {argument name="ethnicity" default="East Asian"} woman with wavy short dark hair wearing a wide brimmed {argument name="hat style" default="black velvet top hat"} decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band She is dressed in a sleeveless tailored dark vest with silver swirl patterns, paired with long dark navy velvet opera gloves Wearing luxurious jewelry sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.
+```
+
+**来源：** [@Lavinia](https://x.com/laviniavelle/status/2097915920392089761) | 2026-09-10
+
+---
+
+### 🏷️ 例 7858：Photo to Watercolor Travel Illustration
+
+![Photo to Watercolor Travel Illustration](../images/Photo%20to%20Watercolor%20Travel%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Create a refined editorial {argument name="location atmosphere" default="European"} travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate {argument name="watercolor style" default="hand-painted watercolor illustration"}. Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography. Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic. Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant {argument name="caption" default="handwritten caption"} near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath. Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene. Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2097897075409383855) | 2026-09-10
+
+---
+
+### 🏷️ 例 7859：Venus Soap Holder Bathroom Interior Design
+
+![Venus Soap Holder Bathroom Interior Design](../images/Venus%20Soap%20Holder%20Bathroom%20Interior%20Design.jpg)
+
+**Prompt:**
+
+```text
+生成一张16:9横版浴室设计展示图。左侧放{argument name="艺术作品" default="《维纳斯的诞生》"}中人物头像与金色长发的局部画作参考，中间是同款贝壳肥皂托的铅笔草图，右侧是洗手台上的使用效果。一只宽而浅的扇贝形白瓷皂盘，有放射状纹理，后缘站着一尊小巧的维纳斯人物，金色长发，身着完整覆盖身体的白色古典衣袍。盘中放一块用过的{argument name="主体颜色" default="淡桃色"}肥皂，边角圆润，表面和盘内有少量水珠与薄薄的皂液。表现珍珠白釉面、细微材质不均匀和真实接触阴影，旁边有亚麻毛巾与水龙头一角。草图与物件一致，不加文字、Logo或URL。
+```
+
+**来源：** [@Cell 细胞](https://x.com/cellinlab/status/2097894087420793124) | 2026-09-10
+
+---
+
+### 🏷️ 例 7865：Mondrian Style Storage Cabinet Design
+
+![Mondrian Style Storage Cabinet Design](../images/Mondrian%20Style%20Storage%20Cabinet%20Design.jpg)
+
+**Prompt:**
+
+```text
+生成一张16:9横版桌面设计展示图。左侧放 {argument name="艺术参考" default="蒙德里安《红、蓝、黄的构成》"} 的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放 {argument name="收纳物品" default="耳机与卷好的线"}；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。
+```
+
+**来源：** [@Cell 细胞](https://x.com/cellinlab/status/2097875217100296362) | 2026-09-10
+
+---
+

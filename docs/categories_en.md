@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (586)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (591)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1165,6 +1165,16 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7820: Urban Golden Hour Male Portrait](cat-ui.md#️-例-7820urban-golden-hour-male-portrait)
 
 - [Case 7831: 网红直播场景](cat-ui.md#️-例-7831网红直播场景)
+
+- [Case 7840: 咖啡杯中的微缩城市](cat-ui.md#️-例-7840咖啡杯中的微缩城市)
+
+- [Case 7847: 不死吸血鬼国王宝座](cat-ui.md#️-例-7847不死吸血鬼国王宝座)
+
+- [Case 7851: Technical Product Infographic Overlay](cat-ui.md#️-例-7851technical-product-infographic-overlay)
+
+- [Case 7857: 古风美人角色创建游戏](cat-ui.md#️-例-7857古风美人角色创建游戏)
+
+- [Case 7861: Ultra-Realistic Neon Portrait](cat-ui.md#️-例-7861ultra-realistic-neon-portrait)
 ---
 
 <a id="chart"></a>
@@ -1399,7 +1409,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1038)
+## 🎴 [Posters & Cards](cat-poster.md) (1043)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3439,11 +3449,21 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7792: 自然拉面广告海报](cat-poster.md#-例-7792自然拉面广告海报)
 
 - [Case 7818: 敦煌飞天海报](cat-poster.md#-例-7818敦煌飞天海报)
+
+- [Case 7835: 温布尔登动态双联海报](cat-poster.md#-例-7835温布尔登动态双联海报)
+
+- [Case 7838: 云朵朋友剪贴簿海报](cat-poster.md#-例-7838云朵朋友剪贴簿海报)
+
+- [Case 7839: 雪中日本公交站双联画](cat-poster.md#-例-7839雪中日本公交站双联画)
+
+- [Case 7856: 国潮风城市宣传海报](cat-poster.md#-例-7856国潮风城市宣传海报)
+
+- [Case 7860: 时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2890)
+## 📷 [Photography & Realistic](cat-photo.md) (2897)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9157,11 +9177,25 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7829: 唐朝皇家宴会电影感摄影](cat-photo.md#-例-7829唐朝皇家宴会电影感摄影)
 
 - [Case 7834: 纽约观景台人像](cat-photo.md#-例-7834纽约观景台人像)
+
+- [Case 7842: 韩系夏日生活感人像](cat-photo.md#-例-7842韩系夏日生活感人像)
+
+- [Case 7843: 《The Last Train Home》电影感场景](cat-photo.md#-例-7843the-last-train-home电影感场景)
+
+- [Case 7844: 欧洲秋季时尚大片](cat-photo.md#-例-7844欧洲秋季时尚大片)
+
+- [Case 7862: 涂鸦照片拼贴海报](cat-photo.md#-例-7862涂鸦照片拼贴海报)
+
+- [Case 7863: 黄金时刻剪影肖像](cat-photo.md#-例-7863黄金时刻剪影肖像)
+
+- [Case 7866: 克什米尔迷雾中的电影感肖像](cat-photo.md#-例-7866克什米尔迷雾中的电影感肖像)
+
+- [Case 7867: 日出时的自然肖像](cat-photo.md#-例-7867日出时的自然肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1028)
+## 🎨 [Illustration & Art](cat-illustration.md) (1030)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11203,6 +11237,10 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7819: 高分辨率森林空地照片](cat-illustration.md#-例-7819高分辨率森林空地照片)
 
 - [Case 7828: 华丽的粉发武士公主](cat-illustration.md#-例-7828华丽的粉发武士公主)
+
+- [Case 7853: Serene Four-Panel Woman Portrait](cat-illustration.md#-例-7853serene-four-panel-woman-portrait)
+
+- [Case 7864: Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
 ---
 
 <a id="character"></a>
@@ -11691,7 +11729,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (366)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (371)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12411,11 +12449,21 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 7813: AI 产品草图转台灯渲染图](cat-3d.md#-例-7813ai-产品草图转台灯渲染图)
 
 - [Case 7824: Q 版吉祥物战斗动作精灵图表](cat-3d.md#-例-7824q-版吉祥物战斗动作精灵图表)
+
+- [Case 7836: 金鹿晨曦羊毛毡艺术转化](cat-3d.md#-例-7836金鹿晨曦羊毛毡艺术转化)
+
+- [Case 7848: 未来感天空跑酷机器人](cat-3d.md#-例-7848未来感天空跑酷机器人)
+
+- [Case 7850: 高级时尚 3D 角色概念图](cat-3d.md#-例-7850高级时尚-3d-角色概念图)
+
+- [Case 7854: 女性与同款 3D 大头公仔](cat-3d.md#-例-7854女性与同款-3d-大头公仔)
+
+- [Case 7868: 巴基斯坦与菲律宾奢华立体模型](cat-3d.md#-例-7868巴基斯坦与菲律宾奢华立体模型)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (231)
+## 🏛️ [Architecture & Space](cat-architecture.md) (233)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12869,6 +12917,10 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7816: 日式走廊窗户详图图纸](cat-architecture.md#️-例-7816日式走廊窗户详图图纸)
 
 - [Case 7833: 未来感建筑改造](cat-architecture.md#️-例-7833未来感建筑改造)
+
+- [Case 7841: “遗失明日博物馆”概念场景](cat-architecture.md#️-例-7841遗失明日博物馆概念场景)
+
+- [Case 7845: 文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
 ---
 
 <a id="comic"></a>
@@ -13417,7 +13469,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (862)
+## 🏷️ [Brand & Packaging](cat-brand.md) (868)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15136,11 +15188,23 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7823: 复古武侠幕后花絮剧照](cat-brand.md#️-例-7823复古武侠幕后花絮剧照)
 
 - [Case 7827: 天空中的巨鸟之门](cat-brand.md#️-例-7827天空中的巨鸟之门)
+
+- [Case 7837: 水下孔版印刷双联画](cat-brand.md#️-例-7837水下孔版印刷双联画)
+
+- [Case 7852: Hand-drawn travel journal illustration](cat-brand.md#️-例-7852hand-drawn-travel-journal-illustration)
+
+- [Case 7855: High Fashion Studio Portrait](cat-brand.md#️-例-7855high-fashion-studio-portrait)
+
+- [Case 7858: Photo to Watercolor Travel Illustration](cat-brand.md#️-例-7858photo-to-watercolor-travel-illustration)
+
+- [Case 7859: Venus Soap Holder Bathroom Interior Design](cat-brand.md#️-例-7859venus-soap-holder-bathroom-interior-design)
+
+- [Case 7865: Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (171)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (173)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15481,6 +15545,10 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7822: 男性视角设计转换](cat-edit.md#-例-7822男性视角设计转换)
 
 - [Case 7830: 高分辨率图像修复指令](cat-edit.md#-例-7830高分辨率图像修复指令)
+
+- [Case 7846: 复古肖像照片修复](cat-edit.md#-例-7846复古肖像照片修复)
+
+- [Case 7849: 季节性街景风格转换器](cat-edit.md#-例-7849季节性街景风格转换器)
 ---
 
 <a id="fun"></a>

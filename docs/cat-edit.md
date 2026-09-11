@@ -4775,3 +4775,35 @@ Constraints: Include exactly 2 labeled panels and exactly 2 visible text labels.
 
 ---
 
+### 🔧 例 7846：复古肖像照片修复
+
+![复古肖像照片修复](../images/%E5%A4%8D%E5%8F%A4%E8%82%96%E5%83%8F%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以上传的图片作为主要的修复和身份参考。将这张严重受损的 {argument name="subject type" default="老旧肖像"} 转换为一张干净、完全修复的现代照片，同时保留原始外观、姿势和构图。修复照片中所有缺失和受损的区域，包括撕裂处、褪色部分、划痕、污渍、裂纹、乳剂剥落、变色以及烧毁或曝光过度的区域。完整地重建 {argument name="subjects" default="男女二人"}，使两位主体看起来完整、自然且清晰可见。保持原有的排列方式：女性站在前方，手中拿着 {argument name="prop" default="一大束鲜花"}，男性站在她身后稍远一点的位置。保留他们的面部特征、表情、身体比例、姿势和优雅的正式服装，但对所有细节进行润色，使其看起来精致、逼真且完整。将图片从古董棕褐色受损照片转变为高质量的现代肖像，具备：干净自然的肤色、逼真的面部细节、清晰的对焦、平衡的布光、柔和的摄影棚背景、提升后的清晰度与质感，以及逼真的现代照片质感。最终图像应呈现出专业修复后的现代肖像感，仿佛这对夫妇是用现代相机清晰拍摄的，同时仍保留原始场景中经典的正式优雅感。风格：照片级真实感、高细节、修复肖像、现代摄影棚摄影、干净、优雅、自然色彩、清晰且逼真。
+
+[English]
+Use the uploaded image as the main restoration and identity reference. Convert this severely damaged {argument name="subject type" default="old portrait"} into a clean, fully restored modern-looking photo while preserving the original appearance, pose, and composition. Restore all missing and damaged areas of the photograph, including torn sections, faded parts, scratches, stains, cracks, peeling emulsion, discoloration, and burned or washed-out regions. Reconstruct the {argument name="subjects" default="man and woman"} completely so both subjects appear whole, natural, and clearly visible. Keep the same arrangement: the woman standing in front holding a {argument name="prop" default="large bouquet of flowers"}, and the man standing slightly behind her. Preserve their facial features, expressions, body proportions, posture, and elegant formal clothing, but refine everything to look polished, realistic, and complete. Transform the image from an antique sepia damaged print into a high-quality modern portrait with: clean natural skin tones, realistic facial details, sharp focus, balanced lighting, soft studio background, improved clarity and texture, realistic modern photo finishing. The final image should feel like a professionally restored contemporary portrait, as if the same couple was photographed clearly with a modern camera, while still keeping the classic formal elegance of the original scene. Style: photorealistic, high detail, restored portrait, modern studio photography, clean, elegant, natural colors, sharp and realistic.
+```
+
+**来源：** [@SimplyDera ◻](https://x.com/Simply_Dera1/status/2097971097031299459) | 2026-09-10
+
+---
+
+### 🔧 例 7849：季节性街景风格转换器
+
+![季节性街景风格转换器](../images/%E5%AD%A3%E8%8A%82%E6%80%A7%E8%A1%97%E6%99%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+换一个{argument name="季节" default="秋季"}{argument name="地点" default="欧洲街道"}的街景
+```
+
+**来源：** [@黄小木](https://x.com/ai_xiaomu/status/2097930567509840199) | 2026-09-10
+
+---
+

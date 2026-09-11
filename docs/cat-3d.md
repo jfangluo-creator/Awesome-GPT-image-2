@@ -9271,3 +9271,157 @@ Constraints: No text labels other than the forehead number. Do not add weapons, 
 
 ---
 
+### 🧸 例 7836：金鹿晨曦羊毛毡艺术转化
+
+![金鹿晨曦羊毛毡艺术转化](../images/%E9%87%91%E9%B9%BF%E6%99%A8%E6%9B%A6%E7%BE%8A%E6%AF%9B%E6%AF%A1%E8%89%BA%E6%9C%AF%E8%BD%AC%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个双面板水平对比图像，展示从写实自然照片到极简主义羊毛毡插画的转化。
+
+画布：16:9 宽屏画布，垂直平分为左右两等份，中间有清晰的直线分割。
+
+左侧面板：一张写实的黄金时刻森林草地照片。前景中准确展示 5 只鹿：最左侧 1 只正在行走，左中 1 只正在吃草，正中 1 只正在吃草，中右侧 1 只小鹿直立，最右侧 1 只较大的鹿站立。草地上覆盖着带露水的绿草，伴有温暖的黄色阳光和柔和的晨雾。背景中，深色的常绿树木形成浓密的森林剪影，右上角有额外的枝叶。强烈的阳光从右上角斜射穿过树林，营造出宁静的电影感氛围。
+
+右侧面板：同一场景的柔和手工羊毛毡重新演绎，背景为温暖的米白色纹理纸，留有充足的空白。将羊毛毡场景水平居中于中上方区域。展示 5 只与左侧面板布局完全对应的小羊毛毡鹿：最左侧 1 只站立的鹿，左中 1 只吃草的鹿，正中 1 只橙棕色吃草的鹿，中右侧 1 只直立的小鹿，以及最右侧 1 只较大的站立鹿。将它们放置在一条细长的浅绿色毛毡草地上。在它们上方，加入一个简单的圆形毛毡太阳和 2 片柔和的水平毛毡云朵。在毛毡草地下方，添加手写文字 {argument name="caption text" default="A kinder morning ♡"}，字体采用精致的灰褐色手写体。
+
+视觉风格：结合温暖治愈的美学、充足的留白、舒适的羊毛毡质感、柔和的边缘、柔和的大地色调以及宁静诗意的氛围。左侧应呈现摄影感和氛围感；右侧应呈现带有可见纤维和极简构图的手工毛毡插画感。
+
+约束条件：保持分屏布局，每侧恰好 5 只鹿，不得有额外动物，无边框，无水印，除标题外不得添加任何额外文字。
+
+[English]
+Goal: Create a two-panel horizontal comparison image showing a real-life nature photo transformed into a minimalist needle-felt illustration.
+
+Canvas: Wide 16:9 canvas split vertically into two equal halves with a clean straight division down the center.
+
+Left panel: A realistic golden-hour forest meadow photograph. Show exactly 5 deer in the foreground: 1 deer walking at far left, 1 deer grazing left-center, 1 deer grazing center, 1 small deer standing upright center-right, and 1 larger deer standing at far right. The meadow is covered in dewy green grass, with warm yellow sunlight and soft morning mist. In the background, dark evergreen trees form a dense forest silhouette, with additional leafy branches at the upper right. Strong sunbeams stream diagonally through the trees from the upper right, creating a serene cinematic atmosphere.
+
+Right panel: A soft handmade needle-felt wool reinterpretation of the same scene on a warm off-white textured paper background with generous blank space. Center the felt scene horizontally in the upper-middle area. Show exactly 5 small felt deer matching the left panel arrangement: 1 standing deer at far left, 1 grazing deer left-center, 1 orange-brown grazing deer center, 1 small upright deer center-right, and 1 larger standing deer at far right. Place them on a thin strip of fuzzy pale green felt grass. Above them, include a simple round felt sun and 2 soft horizontal felt cloud wisps. Under the felt grass, add handwritten text reading {argument name="caption text" default="A kinder morning ♡"} in a delicate gray-brown script.
+
+Visual style: Combine warm healing aesthetics, generous white space, cozy wool-felt texture, soft edges, muted earthy colors, and a calm poetic mood. The left side should look photographic and atmospheric; the right side should look like a handcrafted felt illustration with visible fibers and a minimal composition.
+
+Constraints: Keep the split-screen layout, exactly 5 deer on each side, no extra animals, no border, no watermark, no additional text beyond the caption.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2098125338484342869) | 2026-09-10
+
+---
+
+### 🧸 例 7848：未来感天空跑酷机器人
+
+![未来感天空跑酷机器人](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%A4%A9%E7%A9%BA%E8%B7%91%E9%85%B7%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的 3D 风格化无尽跑酷游戏概念图，采用 16:9 电影级宽画幅。画面展示一个可爱的类人机器人吉祥物，从后方略侧的角度捕捉其跳跃瞬间，它正在云端之上的未来感漂浮平台上奔跑。机器人拥有光亮的白色圆形头盔、黑色面部屏幕、青色发光眼睛、小型天线、米色与灰色相间的节段式四肢、蓝色手套和超大号蓝色靴子，以及一条随风飘动的 {argument name="scarf color" default="金黄色"} 围巾。世界背景设定为一个欢快的未来感 {argument name="city setting" default="受东京启发的空中城市"}，时间为 {argument name="time of day" default="温暖的日出"}，拥有柔和的金色光线、湛蓝的天空、风格化的蓬松云朵以及远处的城市天际线。左侧地平线上包含一座积雪的 {argument name="background landmark" default="富士山"}，左侧轨道上有一列流线型的高架子弹头列车正在转弯，右侧设有一个巨大的红白相间鸟居平台。跑酷路径由干净的米色漂浮平台组成，配有青蓝色瓷砖面板、圆润的边缘以及从云层中伸出的彩色支撑柱。在机器人前方的路径上放置七颗漂浮的可收集水晶宝石：中心附近一颗大型粉色钻石水晶、一颗橙色水晶、一颗蓝色水晶、一颗洋红色水晶、一颗小型淡黄色水晶、一颗小型橙色水晶，以及远处一颗微小的青色水晶。采用精致的皮克斯风格游戏美术，柔和的全局光照，饱和的色彩，清脆的玩具质感，动态视角，强烈的运动感，且画面中不包含任何文字、UI、标志或水印。
+
+[English]
+Create a vibrant 3D stylized endless-runner game concept image in a wide 16:9 cinematic frame. Show one cute humanoid robot mascot mid-jump from behind and slightly to the side, running across floating futuristic platforms high above the clouds. The robot has a glossy white rounded helmet with a black face screen and cyan glowing eyes, small antenna, segmented cream-and-gray limbs, blue gloves and oversized blue boots, plus a flowing {argument name="scarf color" default="golden yellow"} scarf trailing dramatically in the wind. The world is a cheerful futuristic {argument name="city setting" default="Tokyo-inspired sky city"} at {argument name="time of day" default="warm sunrise"}, with soft golden light, bright blue sky, stylized puffy clouds, and a distant skyline. Include one snow-capped {argument name="background landmark" default="Mount Fuji"} on the left horizon, one sleek elevated bullet train curving along a rail on the left, and one large red-and-white torii gate platform on the right. The runner path is made of clean cream-colored floating platforms with turquoise-blue tile panels, rounded edges, and colorful support pillars emerging from clouds. Place exactly seven floating collectible crystal gems ahead of the robot along the path: one large pink diamond crystal near the center, one orange crystal, one blue crystal, one magenta crystal, one small pale yellow crystal, one small orange crystal, and one tiny cyan crystal farther into the distance. Use a polished Pixar-like game art style, soft global illumination, saturated colors, crisp toy-like materials, dynamic perspective, strong sense of motion, and no text, UI, logos, or watermarks.
+```
+
+**来源：** [@野生の男](https://x.com/yasei_no_otoko/status/2097948657018720560) | 2026-09-10
+
+---
+
+### 🧸 例 7850：高级时尚 3D 角色概念图
+
+![高级时尚 3D 角色概念图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%203D%20%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级、现代的高级时尚角色概念艺术图，采用 {argument name="aspect ratio" default="16:9 宽屏"} 布局，背景为 {argument name="background" default="纯白色背景"}。遵循此精确的结构化构图和视觉美学：[风格]：{argument name="style" default="超写实 3D CGI 收藏级手办"}
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a {argument name="aspect ratio" default="16:9 widescreen"} layout on a {argument name="background" default="pure white background"}. Follow this exact structured composition and visual aesthetic: [STYLE]: {argument name="style" default="hyper-realistic 3D CGI collectible-figurine"}
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2097927369399128321) | 2026-09-10
+
+---
+
+### 🧸 例 7854：女性与同款 3D 大头公仔
+
+![女性与同款 3D 大头公仔](../images/%E5%A5%B3%E6%80%A7%E4%B8%8E%E5%90%8C%E6%AC%BE%203D%20%E5%A4%A7%E5%A4%B4%E5%85%AC%E4%BB%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高分辨率、超写实的摄影棚构图，比例为 4:5 竖屏，画面中仅包含两个主体：一位真实的年轻女性，以及站在她身旁、与她形象一致的 3D 大头公仔。真实的女性身材高挑，位于画面右侧，留着深棕色长波浪卷发，带有轻盈的空气刘海，佩戴圆形细框眼镜，表情冷静但略带责备，姿态随性自信。她身穿浅蓝色短袖 Polo 衫，领口有小排扣，搭配高腰宽松白色阔腿裤、白袜和白色运动鞋。她的左手叉腰，手中拿着一顶纯白色棒球帽，右臂向前弯曲，食指指向身旁的公仔。公仔位于左侧，高度约为真人女性的三分之一，拥有超大的头部和娇小的身体，戴着同款圆形眼镜，大而有光泽的眼睛充满表现力，留着同样的深棕色长波浪卷发和空气刘海，面带可爱顽皮的微笑，双手背在身后，姿态略显羞涩。公仔穿着同样的服装：浅蓝色 Polo 衫、白色高腰裤和白色运动鞋。使用 {argument name="character appearance" default="一位留着深棕色长波浪卷发、空气刘海并佩戴圆形眼镜的年轻东亚女性"}，{argument name="shirt color" default="浅蓝色"}，{argument name="pants color" default="白色"}，{argument name="real woman pose" default="站立姿势，一手叉腰拿着白色帽子，另一只手向下指"}，以及 {argument name="caricature expression" default="可爱顽皮的微笑，向上仰望"}。场景设定在干净的无缝灰色摄影棚中，背景带有柔和的渐变效果，地面为平滑的混凝土，两人脚下有细腻的阴影，采用写实的摄影布光，呈现清晰的织物细节、自然的皮肤纹理以及精致的高级编辑风格。大头公仔需具备风格化特征，但要呈现为具有真实感的优质 3D 模型，同时保持真人女性的写实感。画面中无文字、无 Logo、无多余人物、无水印。
+
+[English]
+Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio showing exactly two subjects: one real young woman and one 3D bobblehead caricature version of the same woman standing beside her. The real woman is tall and positioned on the right, with long slightly messy dark brown wavy hair, wispy bangs, round thin-rimmed eyeglasses, a calm but mildly scolding expression, and a casual confident pose. She wears a light blue short-sleeve polo shirt with a small button placket, high-waisted loose white wide-leg pants, white socks, and white sneakers. Her left hand rests at her hip while holding a plain white baseball cap, and her right arm bends forward with her index finger pointing down toward the caricature. The caricature stands on the left at about one-third the real woman’s height, with an oversized head, tiny body, large glossy expressive eyes behind matching round glasses, the same long dark wavy hair and bangs, a cute mischievous smile, and a slightly bashful pose with both hands tucked behind her back. Dress the caricature in the same outfit: light blue polo shirt, white high-waisted pants, and white sneakers. Use {argument name="character appearance" default="a young East Asian woman with long dark brown wavy hair, wispy bangs, and round glasses"}, {argument name="shirt color" default="light blue"}, {argument name="pants color" default="white"}, {argument name="real woman pose" default="standing with one hand on hip holding a white cap and the other hand pointing down"}, and {argument name="caricature expression" default="cute mischievous smile looking upward"}. Set the scene in a clean seamless gray studio with soft gradient background, smooth concrete floor, subtle shadows under both figures, realistic photographic lighting, crisp fabric detail, natural skin texture, and a polished premium editorial look. Make the bobblehead stylized but physically present and rendered as a high-quality 3D figure, while the real woman remains photorealistic. No text, no logos, no extra people, no watermark.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2097920554074562834) | 2026-09-10
+
+---
+
+### 🧸 例 7868：巴基斯坦与菲律宾奢华立体模型
+
+![巴基斯坦与菲律宾奢华立体模型](../images/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A5%A2%E5%8D%8E%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端精致的奢华旅行海报杰作，将 {argument name="country one" default="巴基斯坦 ❈"} 与 {argument name="country two" default="菲律宾 ❈"} 融合成一幅无缝衔接的原创构图，采用 3:4 竖屏格式。参考参考图，创作一个全新的高端 3D 微缩旅行立体模型，将景观、建筑、文化和自然美景融合为一个连贯的世界，而非分屏或简单的拼贴。
+目的地标识
+巴基斯坦 ❈ — 从山脉到海洋 — 呈现白雪皑皑的喜马拉雅山脉和喀喇昆仑山峰、吉尔吉特-巴尔蒂斯坦、斯卡杜、罕萨和斯瓦特山谷，以及绿松石般的湖泊、松林、河流和山村。自然过渡到伊斯兰堡的费萨尔清真寺、历史悠久的拉合尔及其巴德夏希清真寺和莫卧儿建筑，随后是白沙瓦、奎达、木尔坦，最后是拥有瓜达尔和卡拉奇的绿松石色阿拉伯海、海岸悬崖、船只和棕榈树环绕的海滨。
+菲律宾 ❈ — 岛屿、自然与探险 — 呈现绿松石色的泻湖、壮观的石灰岩悬崖、热带森林、棕榈覆盖的岛屿、白色沙滩、色彩斑斓的沿海村庄、豪华度假村、历史悠久的教堂、石堡、游艇、传统船只和清澈见底的海水。
+构图
+创造一个连续的微缩世界，展示从巴基斯坦雪山和历史名城到其阿拉伯海海岸线的视觉旅程，并自然地流入菲律宾的热带岛屿。
+采用高视角的电影感透视，具有强烈的近景、中景和远景深度。包括微缩山脉、湖泊、河流、清真寺、教堂、堡垒、村庄、道路、桥梁、船只、游艇、棕榈树和细节丰富的植被。
+使整个场景看起来像是一个展示在优雅雕塑平台上的、细节极其丰富的顶级地理收藏模型。
+排版
+使用优雅的复古现代奢华旅行字体，并留出充足的负空间。
+巴基斯坦 • 菲律宾
+两国风情 • 无尽之美
+山脉 • 文化 • 岛屿 • 探险
+“从最高峰到热带海洋。”
+包含准确的巴基斯坦 ❈ 和菲律宾 ❈ 国旗、精致的衬线字体、细腻的装饰线条以及简洁专业的排版。
+艺术指导
+高端国际奢华旅行宣传，超写实 3D 微缩立体模型，精致的建筑可视化，逼真的地理地形，细节丰富的文化地标，电影级旅行摄影，逼真的山脉，热带岛屿，清澈的海水，以及高端收藏级明信片美学。
+将巴基斯坦的壮丽之美与菲律宾的热带天堂融为一种和谐的艺术体验。
+色彩系统
+使用暖象牙色、羊皮纸奶油色、雪白色、喜马拉雅蓝、绿松石色、翡翠绿、砂岩色、赤陶色、热带绿和柔和的金色阳光。
+保持色彩的自然衔接，从冷色调的山脉过渡到温暖的沙漠以及充满活力的热带海岸色彩。
+灯光与氛围
+电影级黄金时刻灯光
+
+[English]
+Premium sophisticated luxury travel-poster masterpiece combining {argument name="country one" default="Pakistan ❈"} and {argument name="country two" default="the Philippines ❈"} into one seamless original composition, 3:4 vertical format. Create a completely new high-end 3D miniature travel diorama inspired by the reference images, blending landscapes, architecture, culture and natural beauty into one connected world, not a split screen or simple collage.
+DESTINATION IDENTITY
+Pakistan ❈ — From Mountains to the Sea — Feature snow-covered Himalayan and Karakoram peaks, Gilgit-Baltistan, Skardu, Hunza and Swat Valley with turquoise lakes, pine forests, rivers and mountain villages. Naturally transition toward Islamabad with Faisal Mosque, historic Lahore with Badshahi Mosque and Mughal architecture, then Peshawar, Quetta, Multan and finally the turquoise Arabian Sea with Gwadar and Karachi, coastal cliffs, boats and palm-lined waterfronts.
+Philippines ❈ — Islands, Nature & Adventure — Feature turquoise lagoons, dramatic limestone cliffs, tropical forests, palm-covered islands, white beaches, colorful coastal villages, luxury resorts, historic churches, stone forts, yachts, traditional boats and crystal-clear ocean water.
+COMPOSITION
+Create one continuous miniature world showing a visual journey from Pakistan's snowy mountains and historic cities to its Arabian Sea coastline, naturally flowing into the tropical islands of the Philippines.
+Use an elevated cinematic perspective with strong foreground, middle-ground and background depth. Include miniature mountains, lakes, rivers, mosques, churches, forts, villages, roads, bridges, boats, yachts, palm trees and detailed vegetation.
+Make the entire scene look like an extraordinarily detailed premium collectible geographical model displayed on an elegant sculpted platform.
+TYPOGRAPHY
+Use elegant vintage-modern luxury travel typography with generous negative space.
+PAKISTAN • PHILIPPINES
+TWO NATIONS • ENDLESS BEAUTY
+MOUNTAINS • CULTURE • ISLANDS • ADVENTURE
+‘From the Highest Peaks to Tropical Seas.’
+Include accurate Pakistan ❈ and Philippines ❈ flags, refined serif lettering, subtle decorative lines and clean professional typography.
+ART DIRECTION
+Premium international luxury travel campaign, hyper-realistic 3D miniature diorama, sophisticated architectural visualization, realistic geographical terrain, detailed cultural landmarks, cinematic travel photography, realistic mountains, tropical islands, crystal-clear water and premium collectible postcard aesthetic.
+Blend the majestic beauty of Pakistan with the tropical paradise of the Philippines into one harmonious artistic experience.
+COLOR SYSTEM
+Use warm ivory, parchment cream, snowy white, Himalayan blue, turquoise, emerald green, sandstone, terracotta, tropical green and soft golden sunlight.
+Keep the colors naturally connected, transitioning from cool mountain tones into warm desert and vibrant tropical coastal colors.
+LIGHTING & ATMOSPHERE
+Cinematic golden-hour lighting
+```
+
+**来源：** [@KrishnaG](https://x.com/KrishnaBio1/status/2097853092880613845) | 2026-09-10
+
+---
+

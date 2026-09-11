@@ -69795,3 +69795,182 @@ Create an ultra-realistic square travel portrait of a young woman on a high-rise
 
 ---
 
+### 📷 例 7842：韩系夏日生活感人像
+
+![韩系夏日生活感人像](../images/%E9%9F%A9%E7%B3%BB%E5%A4%8F%E6%97%A5%E7%94%9F%E6%B4%BB%E6%84%9F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实户外生活感人像，主角为 {argument name="subject" default="站在安静林荫道上的年轻女性"}，背景是明媚的夏日。她留着一头丝滑的深棕色长发，带有自然的柔和波浪卷，配有轻薄的八字刘海，几缕发丝垂在脸颊旁。她五官精致年轻，皮肤清透自然，棕色眼眸柔和，妆容淡雅，表情俏皮可爱，嘴唇轻抿。
+她穿着 {argument name="clothing" default="一件修身的白色无袖方领连衣裙，风格简约干净"}。手臂上随意搭着一件米色针织开衫。她挎着一个小巧优雅的白色菱格纹手提包，配有金色链条和五金件。佩戴着精致的吊坠项链和简约戒指。
+她双手捧着 {argument name="drink" default="一杯装有淡绿色冰抹茶的透明塑料杯"} 靠近嘴边，仿佛正准备饮用。杯子上贴着简约的手写风格咖啡馆标签。
+背景是茂密的绿树、安静的铺装路面、优雅的石材与金属围栏，透过枝叶隐约可见柔和的建筑细节。明亮的自然光穿过树木，在场景中投下斑驳的光影和柔和的阴影。
+韩系极简时尚摄影，抓拍街拍美学，柔和夏日氛围，自然光，真实的皮肤质感，细腻的发丝，逼真的布料与手提包质感，微妙的暖色调，浅景深，柔和的背景虚化，真实的手机摄影感，照片级真实，高分辨率，自然的身材比例，竖向 4:5 构图。
+卡通，动漫，CGI，塑料感皮肤，浓妆，扭曲的面部，不对称的眼睛，畸形的手，多余的手指，扭曲的饮料杯，变形的手提包，不真实的发型，不自然的身材比例，色彩过饱和，生硬的阴影，主体模糊，过度修图，文字伪影，水印。
+
+[English]
+Ultra-realistic outdoor lifestyle portrait of a {argument name="subject" default="young woman standing on a quiet tree-lined street"} on a bright summer day. She has long, silky dark-brown hair with soft natural waves, subtle curtain bangs, and loose strands framing her face. She has delicate youthful facial features, clear natural skin, soft brown eyes, subtle makeup, and a cute playful expression with gently pursed lips.\nShe is wearing a {argument name="clothing" default="fitted white sleeveless square-neck dress with a clean minimalist style"}. A soft beige knitted cardigan is draped casually over one arm. She carries a small elegant white quilted handbag with a gold chain and gold hardware. She wears a delicate pendant necklace and a simple ring.\nShe holds a {argument name="drink" default="clear plastic cup filled with a pale green iced matcha drink"} near her mouth with both hands, as if about to take a sip. The cup has a simple handwritten-style café label.\nBackground features lush mature green trees, a quiet paved walkway, elegant stone-and-metal fencing, and soft architectural details partially visible through the foliage. Bright natural daylight filters through the trees, creating beautiful dappled sunlight and soft shadows across the scene.\nKorean-inspired minimalist fashion photography, candid street-style aesthetic, soft summer atmosphere, natural daylight, realistic skin texture, detailed hair strands, realistic fabric and handbag textures, subtle warm color grading, shallow depth of field, gentle background bokeh, authentic smartphone photography, photorealistic, high resolution, natural body proportions, vertical 4:5 composition.\n cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, distorted drink cup, warped handbag, unrealistic hair, unnatural body proportions, oversaturated colors, harsh shadows, blurry subject, excessive retouching, text artifacts, watermark.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2098034850599240044) | 2026-09-10
+
+---
+
+### 📷 例 7843：《The Last Train Home》电影感场景
+
+![《The Last Train Home》电影感场景](../images/%E3%80%8AThe%20Last%20Train%20Home%E3%80%8B%E7%94%B5%E5%BD%B1%E6%84%9F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{
+  "title": "The Last Train Home",
+  "image_description": "A breathtaking cinematic scene at an {argument name=\"location\" default=\"abandoned train station lost in the mountains\"}. Thick fog rolls across the empty platform. Vintage lamps cast warm golden light through the mist. A lone traveler wearing a dark wool coat stands beside an old leather suitcase. An ancient train slowly emerges from the fog. Every window glows softly. Snow falls silently around the station. Above the platform hangs a weathered sign that reads: HOME. The traveler's eyes fill with emotion as he realizes the train should not exist.",
+  "story_element": {
+    "twist": "The train only appears once, exactly one hour before a person dies."
+  },
+  "environment": {
+    "location": "Forgotten mountain railway station",
+    "weather": "Snowfall and dense fog",
+    "time": "Midnight"
+  },
+  "cinematography": {
+    "shot_type": "Wide cinematic shot",
+    "camera": "ARRI Alexa 65",
+    "lens": "50mm anamorphic",
+    "composition": "Symmetrical storytelling frame"
+  },
+  "lighting": {
+    "type": "Warm vintage lamps mixed with cold moonlight",
+    "effects": [
+      "Volumetric fog",
+      "Snow particles",
+      "Atmospheric glow"
+    ]
+  },
+  "mood": [
+    "Emotional",
+    "Mysterious",
+    "Bittersweet",
+    "Nostalgic"
+  ],
+  "quality": {
+    "style": "Award-winning cinematic masterpiece",
+    "realism": "Ultra photorealistic",
+    "resolution": "8K",
+    "IMAX_quality": true,
+    "film_grain": true
+  }
+}
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2098002802375303462) | 2026-09-10
+
+---
+
+### 📷 例 7844：欧洲秋季时尚大片
+
+![欧洲秋季时尚大片](../images/%E6%AC%A7%E6%B4%B2%E7%A7%8B%E5%AD%A3%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感欧洲秋季时尚大片，画面主体为一位 {argument name="subject" default="20 出头的帅气年轻男子"} 独自漫步在 {argument name="setting" default="一条被高大的橙色、铜色和金色树木环绕的狭窄鹅卵石路上"}。他留着浓密自然的黑色波浪卷发，有着深邃传神的棕色眼睛、浓密的眉毛、突出的颧骨、轮廓分明的男性下颌线以及淡淡的自然胡茬。他身着 {argument name="clothing" default="一件驼色长款双排扣大衣、黑色高领毛衣、修身黑色长裤、擦得锃亮的切尔西皮靴"}，并佩戴着一块经典的复古腕表。他单手随意地提着一个深色皮质公文包。落叶铺满了道路，微风拂过，几片落叶在他身边盘旋。温暖的黄金时刻阳光穿过树木，营造出戏剧性的光束和长长的电影感阴影。远处有淡淡的薄雾，散发着优雅的欧洲乡村气息，呈现出精致的“老钱风”审美、静奢质感和从容自信，采用时尚杂志构图，具备真实的皮肤纹理、清晰的发丝细节、自然的比例，浅景深，85mm 镜头，电影胶片颗粒感，HDR，照片级真实感，垂直 9:16，无文字，无水印，非 AI 感面孔。
+
+[English]
+Ultra-realistic cinematic European autumn fashion editorial of a {argument name="subject" default="handsome young man in his early 20s"} walking alone along a {argument name="setting" default="narrow cobblestone road surrounded by towering orange, copper, and golden trees"}. He has thick naturally wavy jet-black hair, expressive dark-brown eyes, strong eyebrows, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a {argument name="clothing" default="long camel-colored double-breasted overcoat, black turtleneck, tailored black trousers, polished leather Chelsea boots"}, and a classic vintage wristwatch. He carries a dark leather briefcase casually in one hand. Fallen autumn leaves cover the road while a gentle breeze sends a few leaves swirling around him. Warm golden-hour sunlight shines through the trees, creating dramatic light rays and long cinematic shadows. Slight mist in the distance, elegant European countryside atmosphere, sophisticated old-money aesthetic, quiet luxury, effortless confidence, editorial magazine composition, realistic skin texture, individual hair strands, natural proportions, shallow depth of field, 85mm lens, cinematic film grain, HDR, photorealistic, vertical 9:16, no text, no watermark, no AI-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2097996880148111855) | 2026-09-10
+
+---
+
+### 📷 例 7862：涂鸦照片拼贴海报
+
+![涂鸦照片拼贴海报](../images/%E6%B6%82%E9%B8%A6%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 {argument name="构图" default="3:4 竖版构图"}，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分只提取照片中最具识别性的主体、轮廓、结构、姿态与叙事关系，重构为 {argument name="风格" default="手绘涂鸦式摄影拼贴 / Hand-drawn Doodle Photo Collage"}。不要完整复制照片，不要保留全部对象 and 背景，而是删去无关细节，只选取最能代表原图主题与视觉记忆点的少量照片碎片，通过裁切、缩放、重组与留白重新表达，使人一眼识别它与上方照片之间的对应关系。
+
+下半部分需重新做美术判断。哪怕原图构图差、背景乱、主体小，也要主动通过删减、重组、裁切、尺度变化和留白把它救成一张成立的作品，真正赋予模型重新导演画面的权力。
+
+构图采用小尺度拼贴群组 + 大片空场的方法。下半部分只保留一组较小的照片拼贴单元，像被安放在白纸上的一簇视觉笔记，可偏心、贴边、悬置或局部裁切；整体不铺满，不做大场景复刻。留白不是空背景，而是画面的一部分，要与照片碎片、手绘线条、符号和文字共同形成呼吸感、空间感、停顿感与非对称平衡。宁可少，也不要满。
+
+画面语言采用摄影拼贴 + 手绘涂鸦 + 平面版式设计的混合媒介方式。照片碎片可按不规则网格、错位模块或松散编排组织；边缘可带有粗糙、随手画出的黑色手绘边框。可加入少量自由手绘的太阳、星星、笑脸、括号、箭头、杯子、线条、符号或涂鸦式注记，增强 scrapbook / zine / editorial collage 的私人记录感与杂志感，但必须克制，不可喧宾夺主。
+
+背景保持 {argument name="背景颜色" default="干净白底或极浅暖白底"}，大面积空白，像速写本、剪贴簿或独立杂志页面。整体气质轻松、日常、聪明、松弛，但版式要精致、平衡、耐看。
+
+配色从上方照片中提取 2–4 种最具辨识度、最有情绪价值的颜色，用于下半部分照片碎片、手绘元素和少量点缀，使整体色彩统一、柔和、自然，不杂乱、不脏灰。
+
+文字只作极少量编辑性介入，不限制语种。可根据主体、地点、动作、情绪或隐喻生成少量字词或短句，像手帐、独立杂志或 zine 中的随手注记一样，轻巧地分布在留白区域，与照片碎片和涂鸦共同形成精致图文关系。
+
+整体呈现白底大片空场、小尺度摄影拼贴、黑色手绘涂鸦线条、杂志感版式与私人记录气质共同构成的高级视觉效果。避免完整复刻原图、背景保留过多、画面填满、复杂场景、厚重装饰、商业模板感、廉价手帐感和过度花哨。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2097884271780466940) | 2026-09-10
+
+---
+
+### 📷 例 7863：黄金时刻剪影肖像
+
+![黄金时刻剪影肖像](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%89%AA%E5%BD%B1%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感特写，右侧面侧影肖像，拍摄对象为 {argument name="subject" default="年轻南亚男性"}，场景位于户外，时间为 {argument name="time of day" default="温暖的黄金时刻日落"}。请使用我上传的面部参考图作为严格的身份匹配参考，100% 还原我的真实面容、面部比例、胡须、八字胡、皮肤纹理和发型，禁止美颜、禁止美白、禁止重塑脸型。仅复制总统参考图中的姿势和构图。画面包含上胸部及肩部以上，身体完全侧向右方，头部保持平直，下巴微抬，双眼轻闭，嘴唇放松，表情平和。{argument name="clothing" default="纯色超大款哑光黑色圆领 T 恤"}。背景为极简的开阔日落天空，呈现自然的桃橙色与暖琥珀色渐变，地平线微弱模糊。强烈的日落逆光营造出深沉的剪影效果；面部必须保持暗色，不可过亮或进行正面补光。纤细的暖金色轮廓光勾勒出头发、额头、鼻子、嘴唇、胡须、下颌线和肩部轮廓。85mm 单反镜头，f/1.8 光圈，浅景深，低调曝光，深邃阴影，细腻胶片颗粒感，电影级调色，超写实 12k 分辨率，自然摄影风格，3:4 竖构图肖像。
+
+[English]
+Ultra-realistic cinematic close-up right-facing side-profile portrait of a {argument name="ethnicity" default="young South Asian man"} outdoors during {argument name="lighting context" default="warm golden-hour sunset"}. Use my uploaded face reference as the strict identity reference-match my exact face, facial proportions, beard, mustache, skin texture and hairstyle 100%, no beautification, no skin whitening, no face reshaping. Copy only the pose and composition from the pose reference. Upper chest and shoulders upward, body fully sideways to the right, head straight with chin slightly raised, eyes gently closed, relaxed lips and peaceful emotional expression. {argument name="clothing" default="Plain oversized matte-black crew-neck T-shirt"}. Minimal open sunset sky with natural peach-orange and warm amber gradient, subtle blurred horizon. Strong sunset backlight creating a dark moody silhouette; face must remain dark, not bright or front-lit. Thin warm golden rim light outlining hair, forehead, nose, lips, beard, jawline and shoulders. 85mm DSLR, f/1.8, shallow depth of field, low-key exposure, deep shadows, subtle film grain, cinematic color grading, hyper realistic 12k resolution, natural photo, 3:4 vertical portrait.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2097883811053031584) | 2026-09-10
+
+---
+
+### 📷 例 7866：克什米尔迷雾中的电影感肖像
+
+![克什米尔迷雾中的电影感肖像](../images/%E5%85%8B%E4%BB%80%E7%B1%B3%E5%B0%94%E8%BF%B7%E9%9B%BE%E4%B8%AD%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感编辑摄影作品，一位外形出众的 {argument name="subject" default="20 岁出头的年轻男子"} 站在 {argument name="location" default="克什米尔"} 宁静的山路上，背景是迷雾缭绕的清晨。他留着浓密且自然的波浪状乌黑头发，眉毛浓密且轮廓分明，深邃而富有表现力的深褐色眼睛，鼻梁挺拔，颧骨突出，下颌线线条硬朗，留着淡淡的天然胡茬。他身着精致的传统与现代融合风格克什米尔服饰——炭灰色剪裁考究的 pheran 外套，内搭干练的奶油色 kurta，下身穿着修身深色长裤和优雅的皮靴，将永恒的克什米尔传统与当代时尚完美融合。他神情平静而深邃，自信地站立着，一只手自然地插在口袋里。在他身后，雄伟的喜马拉雅山脉、松林覆盖的山坡和远处的山谷逐渐消失在层层浓郁的白色晨雾中。挂满露珠的草地，淡淡的薄雾在路上飘散，柔和的大地色调，清冷的晨间氛围，柔和的漫射晨光穿透薄雾，电影级景深，真实的织物纹理，自然的皮肤毛孔，大气透视，浅景深，85mm 镜头，照片级真实感，8K HDR，奢华时尚编辑美学，构图戏剧性且宁静，地道的克什米尔景观，无人工痕迹的脸部，无文字，无水印。竖构图 9:16。
+
+[English]
+Ultra-realistic cinematic editorial photograph of a strikingly handsome {argument name="subject" default="young man in his early 20s"} standing on a quiet mountain road in {argument name="location" default="Kashmir"} during a misty early morning. He has thick, naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated traditional-modern Kashmiri outfit — a beautifully tailored charcoal pheran layered over a crisp cream kurta, slim dark trousers, and elegant leather boots, blending timeless Kashmiri heritage with contemporary fashion. He stands confidently with a calm, thoughtful expression, one hand resting naturally in his pocket. Behind him, majestic Himalayan mountains, pine-covered slopes, and distant valleys gradually disappear into thick layers of soft white morning fog. Dew-covered grass, subtle mist drifting across the road, muted earthy tones, cool morning atmosphere, soft diffused sunrise light breaking gently through the fog, cinematic depth, realistic fabric texture, natural skin pores, atmospheric perspective, shallow depth of field, 85mm lens, photorealistic, 8K HDR, luxury fashion editorial aesthetic, dramatic yet peaceful composition, authentic Kashmir landscape, no artificial-looking face, no text, no watermark. Vertical 9:16 composition.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2097872296048496687) | 2026-09-10
+
+---
+
+### 📷 例 7867：日出时的自然肖像
+
+![日出时的自然肖像](../images/%E6%97%A5%E5%87%BA%E6%97%B6%E7%9A%84%E8%87%AA%E7%84%B6%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个写满岁月痕迹的 {argument name="subject" default="面孔"}。没有磨皮，没有摄影棚背景。只有日出前 {argument name="setting" default="屋顶电台"} 的真实场景。
+
+[English]
+A {argument name="subject" default="face"} with a lifetime in it. No polished skin, no studio backdrop. Just a {argument name="setting" default="rooftop radio"} before sunrise.
+```
+
+**来源：** [@Morphed](https://x.com/morphedai/status/2097867664861384778) | 2026-09-10
+
+---
+

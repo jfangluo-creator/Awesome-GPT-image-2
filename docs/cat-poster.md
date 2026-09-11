@@ -34116,3 +34116,206 @@ Constraints: Keep the typography legible and dominant, preserve exactly four lar
 
 ---
 
+### 🎴 例 7835：温布尔登动态双联海报
+
+![温布尔登动态双联海报](../images/%E6%B8%A9%E5%B8%83%E5%B0%94%E7%99%BB%E5%8A%A8%E6%80%81%E5%8F%8C%E8%81%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于温布尔登网球赛的宽幅体育双联画，左侧为写实的比赛场景，右侧为粗糙的剪纸风格插画海报。
+
+画布：16:9 横向构图，精确平分为 2 个等大的垂直面板。左侧面板为明亮日光下拥挤的室外草地网球场；右侧面板为带有大量留白的米白色纹理海报页。
+
+左侧面板：展示一张写实、略带油画感的摄影风格温布尔登草地网球对打场景。画面中共有 2 名可见的网球运动员：1 名位于前景的球员身穿全白运动服，正向右侧网前冲刺并俯冲，球拍伸展；另 1 名位于背景的对手身穿白色运动服，在远端底线附近等待。包含横跨画面中下部的黑色球网、带有白色球场线的磨损绿草地、深绿色球场墙壁、身穿深色制服的球童和裁判，以及看台上密集的观众。添加一个中央深绿色记分牌，带有 Rolex 品牌标识和可读的比赛详情：“Marin CILIC”位于“Roger FEDERER”上方，比分显示 Cilic 2 0 和 Federer 2 30，以及较小的比赛数据行。保持前景球员动态，重心较低，佩戴白色发带，身穿白色衬衫和短裤，白色袜子和鞋子带有红色小点缀。
+
+右侧面板：在纹理奶油色纸张上创作一张极简主义复古网球海报。在右上部中央，放置巨大的粗糙笔触字体 {argument name="headline text" default="Still in Motion"}，颜色为深森林绿，带有倾斜和手绘的磨损边缘。下方绘制一名单面拼贴风格的白色网球运动员，正向右侧冲刺，身体水平拉伸，一只手臂向后，持拍手臂向一颗黄色小网球伸展。使用棱角分明的撕纸形状、可见的纸张纹理、棕褐色皮肤碎片、灰色阴影以及脚下深绿色的草地笔触。添加 2 个小型排版块：在插画球员左侧，堆叠文本 {argument name="left small text" default="Same\nGame\nA Deeper\nYou"}，下方有一条短横线；在插画球员右侧，堆叠文本 {argument name="right small text" default="TENNIS\nLIVES\nDIFFERENTLY\nHERE."}，下方有一条短横线。
+
+视觉风格：左侧对比细腻的纪实网球摄影，右侧采用粗犷的插画美学。使用温布尔登配色：深绿色、草绿色、白色、奶油色、柔和黄色、棕褐色和黑色。强调运动感、竞技张力、纹理草地、磨损纸张、不完美的笔触排版以及拼贴般的几何感。
+
+约束：写实的左侧面板中必须包含 2 名主要网球运动员，右侧面板中必须包含 1 名插画网球运动员。保持清晰的分屏布局，除左侧 Rolex 风格记分牌外无额外标志，无水印，无现代 UI 元素。
+
+[English]
+Goal: Create a wide editorial sports diptych about Wimbledon tennis, with a realistic match scene on the left and a rough paper-cut illustration poster on the right.
+
+Canvas: Horizontal 16:9 composition, split exactly into 2 equal vertical panels. Left panel is a crowded outdoor grass tennis stadium in bright daylight; right panel is an off-white textured poster page with generous negative space.
+
+Left panel: Show a realistic, slightly painterly photograph-style Wimbledon grass-court rally. There are exactly 2 visible tennis players: 1 foreground player in all white sprinting and lunging left-to-right toward the net with racket extended, and 1 background opponent in white waiting near the far baseline. Include a black net across the lower middle, worn green grass with white court lines, dark green stadium walls, ball kids and officials in dark uniforms, and a dense crowd of spectators filling the upper stands. Add a central dark green scoreboard with Rolex branding and readable match details: “Marin CILIC” above “Roger FEDERER”, scores suggesting Cilic 2 0 and Federer 2 30, plus smaller match-stat lines. Keep the foreground player dynamic, low to the ground, with white headband, white shirt and shorts, white socks and shoes with small red accents.
+
+Right panel: Create a minimalist vintage tennis poster on textured cream paper. At the upper center-right, place large rough brush lettering reading {argument name="headline text" default="Still in Motion"} in dark forest green, tilted and hand-painted with distressed edges. Below it, draw a single faceted collage-style tennis player in white, mid-sprint to the right, stretched horizontally with one arm back and the racket arm extended toward a small yellow tennis ball. Use angular torn-paper shapes, visible paper grain, tan skin fragments, gray shadows, and dark green grass-stroke marks under the feet. Add exactly 2 small typography blocks: on the left of the illustrated player, stacked text reading {argument name="left small text" default="Same\nGame\nA Deeper\nYou"} with a short horizontal line beneath; on the right of the illustrated player, stacked text reading {argument name="right small text" default="TENNIS\nLIVES\nDIFFERENTLY\nHERE."} with a short horizontal line beneath.
+
+Visual style: Contrast a detailed, documentary tennis photograph on the left with a rough illustrated aesthetic on the right. Use Wimbledon colors: deep green, grass green, white, cream, muted yellow, tan, and black. Emphasize motion, athletic tension, textured grass, distressed paper, imperfect brush typography, and collage-like geometry.
+
+Constraints: Use exactly 2 main tennis players in the realistic left panel and exactly 1 illustrated tennis player in the right panel. Preserve the clean split-screen layout, no extra logos except the Rolex-style scoreboard on the left, no watermark, no modern UI elements.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2098134017929568309) | 2026-09-10
+
+---
+
+### 🎴 例 7838：云朵朋友剪贴簿海报
+
+![云朵朋友剪贴簿海报](../images/%E4%BA%91%E6%9C%B5%E6%9C%8B%E5%8F%8B%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于可爱云朵角色的奇趣双层美学海报，上方结合真实的蓝天摄影场景，下方为手绘剪贴簿指南。
+
+画布：3:4 竖版海报。上半部分为真实的户外天空摄影；下半部分为带有柔和颗粒质感的米色纸张插画板。
+
+上方场景：明亮的蓝色日间天空，点缀着几朵小白云。画面中心，一朵蓬松的白云被设计成友好的角色，使用简单的黑色图形特征：正好 2 个圆点眼睛、1 个弯曲的微笑嘴巴，以及 2 只从左右两侧向上抬起的骨头状手臂。氛围轻松、轻盈、惬意且充满童趣。使用自然光，保持天空的开阔感。
+
+下方板块标题：顶部居中手写标题：{argument name="title text" default="Cloud Friend"}。标题左侧添加一颗蓝色小星星，右侧添加一颗红色爱心，周围点缀蓝色小火花，标题下方画一条蓝色波浪线。
+
+下方布局：以松散的 3x3 网格排列 9 个小型插画项目，每个项目下方配有手写编号说明。风格应呈现出暖白色纸张上的彩色铅笔、蜡笔和墨水质感。
+
+九个项目及说明：
+1. “hello!” — 一个带有两只黑色手臂和一颗红色小爱心的微笑云朵角色，置于粗糙的蓝色涂鸦色块中。
+2. “happy face” — 由 2 个黑色圆点眼睛、1 个黑色微笑嘴巴和 2 个柔和粉色腮红圆圈组成的简单表情。
+3. “arms up” — 两只分开的黑色骨头状手臂，呈欢呼姿势，带有蓝色动态线条和红色涂鸦装饰。
+4. “very blue” — 一个带有蓝色蜡笔纹理的圆角矩形天空，内含正好 2 朵小白云。
+5. “soft & fluffy” — 一个浅灰色铅笔勾勒的蓬松云朵轮廓，配有一颗红色小爱心。
+6. “warm sun” — 一个带有短放射状光芒的黄橙色圆形太阳。
+7. “gentle breeze” — 浅蓝色流动的风线，带有小漩涡和红色涂鸦装饰。
+8. “daydream view” — 一个微小的极简景观，包含正好 2 棵绿树、一条绿色地平线和一个红色屋顶的小房子轮廓。
+9. “good mood” — 一组欢快的涂鸦组合，包含 1 颗蓝色星星、1 颗粉色爱心、1 朵薄荷绿云朵、小圆点和红色装饰线。
+
+页脚文字：底部居中手写小字：{argument name="footer quote" default="Look up. Little joys are floating around."}，后跟一颗红色小爱心和蓝色圆点。
+
+视觉风格：上半部分混合真实摄影，下半部分采用稚拙的手绘日记风格。使用柔和的蓝色、米色、黑色、淡粉色、黄色、薄荷绿和红色作为点缀。所有文字保持手写感，不完美、随意且迷人。
+
+约束：保留精确的双层构图、9 个编号项目的确切数量，以及友好的极简云朵表情。避免多余的角色、Logo、水印或密集的文字。
+
+[English]
+Goal: Create a whimsical two-part aesthetic poster about a cute cloud character, combining a real-sky photo scene on top with a hand-drawn scrapbook guide below.
+
+Canvas: Vertical 3:4 poster. The top half is a realistic outdoor sky photograph; the bottom half is a cream paper illustration panel with a soft grainy texture.
+
+Top scene: A bright blue daytime sky with a few small white clouds. In the center, one fluffy white cloud is turned into a friendly character using simple black graphic features: exactly 2 dot eyes, 1 curved smiling mouth, and 2 raised bone-like arms angled upward from the left and right sides. The mood is light, airy, relaxed, and childlike. Use natural sunlight and keep the sky spacious.
+
+Bottom panel title: Handwritten title centered near the top: {argument name="title text" default="Cloud Friend"}. Add a small blue star to the left, a red heart to the right, tiny blue sparkles, and a wavy blue underline beneath the title.
+
+Bottom layout: Arrange exactly 9 small illustrated vignettes in a loose 3-by-3 grid, each with a handwritten numbered caption underneath. The style should look like colored pencil, crayon, and ink on warm off-white paper.
+
+Nine vignettes and captions:
+1. “hello!” — a small smiling cloud character inside a rough blue scribble patch, with two black arms and a tiny red heart.
+2. “happy face” — a simple face made of 2 black dot eyes, 1 black smile, and 2 soft pink blush circles.
+3. “arms up” — two separate black bone-like arms raised like a cheering gesture, with small blue motion marks and a red doodle accent.
+4. “very blue” — a rounded rectangle of textured blue crayon sky containing exactly 2 small white clouds.
+5. “soft & fluffy” — a pale gray pencil sketch of one fluffy cloud outline, with a small red heart.
+6. “warm sun” — a yellow-orange circular sun with short radiating rays.
+7. “gentle breeze” — light blue flowing wind lines with a small swirl and red doodle accent.
+8. “daydream view” — a tiny simple landscape with exactly 2 green trees, a green ground line, and a small red-roof house outline.
+9. “good mood” — a cheerful doodle cluster containing 1 blue star, 1 pink heart, 1 mint green cloud, small dots, and red accent lines.
+
+Footer text: Centered along the bottom in small handwritten lettering: {argument name="footer quote" default="Look up. Little joys are floating around."} followed by a small red heart and blue dots.
+
+Visual style: Mix realistic photography in the top half with naive hand-drawn journaling in the bottom half. Use soft blue, cream, black, pastel pink, yellow, mint, and red accents. Keep all text handwritten, imperfect, casual, and charming.
+
+Constraints: Preserve the exact two-panel composition, the exact count of 9 numbered vignettes, and the friendly minimalist cloud face. Avoid extra characters, logos, watermarks, or dense text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2098107456379662554) | 2026-09-10
+
+---
+
+### 🎴 例 7839：雪中日本公交站双联画
+
+![雪中日本公交站双联画](../images/%E9%9B%AA%E4%B8%AD%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个关于宁静雪中日本公交站的双联视觉研究，上方结合写实冬季摄影，下方呈现极简纸艺灯箱海报风格。
+
+画布：垂直 3:4 构图，水平平分为两个等大的面板。上半部分为写实摄影场景；下半部分为带有暖米色灯光和精致浮雕工艺美感的米白色纹理纸海报。
+
+上方面板：大雪过后写实风格的日本乡村冬季小镇场景。中心设有一个小型玻璃公交候车亭，标牌上写有「やまの湯」及小号罗马字母“Yamano-yu”。候车亭内站着一名孤独的人，身穿深色长外套，戴着黑色帽子、围巾，背着背包，穿着靴子，身体略微朝右。候车亭内仅放置一张木质长椅。候车亭右侧放置一个橙白相间的公交站牌，顶部写有「バス」，下方写有「やまの湯」，以及一盏灯头积雪、散发着温暖琥珀色光芒的高大弧形路灯。周围环绕着厚厚的积雪、前景中潮湿反光的道路、金属护栏、架空电线、电线杆、低矮的房屋，背景为覆盖着积雪的森林山脉。氛围宁静、寒冷、阴天、静谧、具有电影感，呈现自然的灰蓝色冬季色调，路灯散发着微弱的暖光。
+
+下方面板：将同一个公交站重构为柔和的纸雕/剪纸立体模型，放置在大型空白米色纸张区域的右侧。使用分层剪纸雪堆、半透明背光候车亭面板、温暖的金色内部光线、柔和的阴影以及背景中淡淡的压印山脉。立体模型中包含五个主要的插画元素：1) 标有「やまの湯」和“Yamano-yu”的玻璃候车亭，2) 同一个孤独的包裹严实的人，3) 一个标有「バス」和「やまの湯」的橙色公交站牌，4) 一盏发光的弧形路灯，5) 候车亭旁的一棵冬季枯树。保持纸艺场景的宁静、极简、优雅和柔和的照明。
+
+下方面板的文本内容：左侧设置大号精致的衬线标题，分行排版为“{argument name="headline text" default="Some Places Stay in Quiet"}”。下方较小的衬线正文写着“{argument name="body text" default="Snow slows time, and ordinary stops become memorable."}”。在左下角附近，添加一条短细的水平线，下方是小号大写字母间距排版的文本“{argument name="tagline" default="A SMALL STOP A BRIGHTER TOMORROW"}”。使用柔和的暖棕色字体，宽敞的间距，以及编辑海报式的排版布局。
+
+风格：融合日本乡村怀旧感、冬季旅行海报设计、纸雕、半透明纸张、柔和背光、极简米色背景、精致衬线字体、从写实到手工工艺的转化、平静的诗意氛围。
+
+约束：保持精确的两个水平面板；除指定内容外，不得添加额外的人、公交车、汽车、动物或标识。准确保留日本公交站的标签。上方面板为摄影风格，下方面板为带有暖光的纯手工纸艺风格。
+
+[English]
+Goal: Create a two-part visual study of a quiet snowy Japanese bus stop, combining realistic winter photography on top and a minimalist paper-cut illuminated poster interpretation below.
+
+Canvas: Vertical 3:4 composition, split horizontally into two equal panels. The top half is a realistic photo scene; the bottom half is an off-white textured paper poster with warm beige lighting and delicate relief craft aesthetics.
+
+Top panel: Photorealistic rural Japanese winter town scene after heavy snow. Center a small glass bus shelter labeled 「やまの湯」 with small roman text “Yamano-yu” on the sign. Inside the shelter stands one solitary person in a dark long coat, black hat, scarf, backpack, and boots, facing slightly right. Include exactly one wooden bench inside the shelter. To the right of the shelter place exactly one orange-and-white bus stop sign with 「バス」 at the top and 「やまの湯」 beneath it, and exactly one tall curved streetlamp glowing warm amber with snow piled on its lamp head. Surround the stop with deep snowbanks, a wet reflective road in the foreground, metal guardrails, overhead power lines, utility poles, low houses, and a forested mountain covered in snow in the background. Mood is still, cold, overcast, quiet, cinematic, with natural gray-blue winter tones and a small warm glow from the lamp.
+
+Bottom panel: Recreate the same bus stop as a soft paper sculpture / paper-cut diorama, placed on the right side of a large blank cream paper field. Use layered cut-paper snowdrifts, translucent backlit shelter panels, warm golden internal light, soft shadows, and faint embossed mountains in the background. Include exactly five main illustrated elements in the diorama: 1) the glass bus shelter labeled 「やまの湯」 and “Yamano-yu”, 2) the same solitary bundled person, 3) one orange bus stop sign labeled 「バス」 and 「やまの湯」, 4) one glowing curved streetlamp, 5) one bare winter tree beside the shelter. Keep the paper scene quiet, minimal, elegant, and softly illuminated.
+
+Text content in the bottom panel: On the left, set a large refined serif headline in stacked lines reading “{argument name="headline text" default="Some Places Stay in Quiet"}”. Beneath it, smaller serif body copy reads “{argument name="body text" default="Snow slows time, and ordinary stops become memorable."}”. Near the lower left, add a short thin horizontal line, then small uppercase spaced text reading “{argument name="tagline" default="A SMALL STOP A BRIGHTER TOMORROW"}”. Use muted warm brown typography, generous spacing, and an editorial poster layout.
+
+Style: Blend Japanese rural nostalgia, winter travel poster design, paper carving, translucent paper, soft backlighting, minimal cream background, refined serif typography, realistic-to-crafted transformation, calm poetic atmosphere.
+
+Constraints: Maintain exactly two horizontal panels; do not add extra people, buses, cars, animals, or signage beyond those specified. Preserve the Japanese bus stop labels accurately. Make the top panel photographic and the bottom panel handmade paper-cut with warm light.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2098099996910661920) | 2026-09-10
+
+---
+
+### 🎴 例 7856：国潮风城市宣传海报
+
+![国潮风城市宣传海报](../images/%E5%9B%BD%E6%BD%AE%E9%A3%8E%E5%9F%8E%E5%B8%82%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请为{argument name="城市名" default="城市名"}生成竖版城市宣传海报。不要套用固定模板，要先提炼这座城市最独特的文化背景、地理环境、产业发展和城市理念，再据此设计画面结构。画面必须让人一眼看出这是{argument name="城市名" default="城市名"}：选取该城市最具辨识度的历史文化符号、自然地理符号、现代地标、产业特征、生活气质和未来愿景。构图不固定，可根据城市特色自由安排前景、中景、远景和动势元素。要求体现： 历史文化：该城市的传统建筑、地域文化、民俗、历史记忆或精神象征。 当下发展：现代天际线、产业特色、交通、商业、科技、金融、港口、生态等。 城市理念：用视觉隐喻表现这座城市的精神，比如开放、创新、烟火气、国际化、山水人文、未来科技等。 海报质感：竖版 9:16，高端国潮城市宣传海报，写实数字绘景与水墨/光影融合，电影级光影，高细节，商业海报排版。 文字：城市名“{argument name="城市名" default="城市名"}”可作为书法主标题，另加一句符合城市气质的宣传语；避免大量小字乱码。 不要通用城市拼贴，不要错误地标，不要廉价旅游广告感，不要卡通风，不要水印。
+```
+
+**来源：** [@探路AI](https://x.com/TanLuAI/status/2097903828771463603) | 2026-09-10
+
+---
+
+### 🎴 例 7860：时尚广告 4 格拼贴 Prompt
+
+![时尚广告 4 格拼贴 Prompt](../images/%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%204%20%E6%A0%BC%E6%8B%BC%E8%B4%B4%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+添付した4枚の女性の全身画像を参照し、ファッション映像の素材となる、正方形の4パネル画像を1枚生成してください。
+
+【完成形】
+全体のアスペクト比は1:1。画面を均等な2×2に分割し、各パネルも正方形にする。各パネルに女性を1人ずつ配置し、合計4人。添付順に、1枚目＝左上、2枚目＝右上、3枚目＝左下、4枚目＝右下とする。外枠、パネル間の隙間、立体的な額縁は不要。
+
+要素の種類を絞りながら、文字の大小、塗りと輪郭、重なりと余白に強いメリハリを持たせた、現代的なファッションキャンペーン。人物の領域はすっきりと保ち、文字の領域はアートディレクションされた豊かな構成にする。これは完成した映像素材として使用するポスター画像。仮レイアウトではなく、この静止画だけでも魅力的な完成デザインに仕上げる。4枚がそれぞれ完成したポスターとして成立し、全体でも統一感を持つこと。
+
+【参照人物の維持：配置より優先する条件】
+これはユーザーが都度用意する女性4人の全身画像に対応する共通指示書である。特定の顔、体型、衣装、髪型をあらかじめ設定しない。各パネルの人物情報は、そのパネルに対応する添付画像だけから取得する。4人の特徴を混ぜず、共通の顔や共通のモデル体型にそろえない。
+
+各人物の顔の輪郭、目・鼻・口の形と配置、表情、年齢感、肌色、髪型、髪色を参照どおりに維持する。頭身、頭部と身体の大きさの比率、首の長さ、肩幅、胴の長さと幅、腰幅、腕と脚の長さ・太さ、手足の大きさを維持する。顔を小さくする、胴を細くする、脚を長くする、身体を縦長・横長に変形するなどの体型補正は行わない。参照人物の姿勢、顔と身体の向き、視線、腕・手・脚の位置、足の開き方、重心と接地状態をそのまま維持する。左右反転もしない。衣装・靴・アクセサリーの形、色、素材感、丈、ゆとり、着用状態、姿勢に伴う主要なしわやシルエットを引き継ぐ。ゆったりした衣装の輪郭を身体の輪郭だと解釈して体型を作り変えない。参照写真の背景、文字、枠は引き継がない。
+
+【人物をスペースへ配置する方法】
+人物と衣装を一体として扱い、縦横同じ倍率で全体を拡大縮小し、位置を移して配置する。顔、胴体、脚、衣装などの部分ごとに異なる倍率を適用しない。ポーズや体型を枠に合わせて描き直すのではなく、元の全身シルエットを保って配置を調整する。頭頂から靴底、髪、指先、衣装の裾までを含む外形全体がパネル内に収まるようにする。人物の高さはパネルの約80〜85％を基本目安とする。ただし固定条件にはしない。参照人物の腕の広がりや衣装の幅が大きい場合は、人物全体を同じ比率で縮小して収める。身体を細くしたり、手足を移動したり、裾を切ったりして収めない。4人の表示サイズは可能な範囲で整えるが、全員を同じ頭身・同じ肩幅・同じ体型にそろえない。各パネルの上端をy=0％、下端をy=100％とする、パネル内の座標で配置を判断する。人物の外形を収める上側の配置ガイドをy=7.5％、下側の配置ガイドをy=92.5％に設定する。これは構図を決めるための見えないガイドであり、完成画像に線や数値を描かない。髪・頭頂・指先・衣装・靴を含む人物全体を、必ずこの上下ガイドの内側へ配置する。ガイド間の高さはパネル高さの85％である。人物全体の外形の中心をパネルの高さ50％に合わせ、縦横同倍率で収める。横幅の制約でさらに縮小する場合は、上下中央の配置を維持する。顔や靴が画面内に見えているだけでは余白を確保したことにしない。頭上と靴底の下に、背景だけの空間がはっきり見えること。手や衣装の外側にも余白を確保し、パネル端に接触させない。頭や足だけを移動したり、身体を圧縮したりして余白を作らない。人物の姿勢や輪郭を変更しない範囲で明るさと色調をなじませ、足元に控えめで自然な接地影を付ける。立体感を作るために顔や体型を描き替えない。
+
+【人物と文字の棲み分け】
+各パネルの左側約35％をタイポグラフィの領域、右側約65％を人物の領域とする。領域を区切る線は描かない。人物は右側、文字と図形は左側に置き、顔・髪・身体・衣装・手足に重ねない。人物と文字の間には明確な余白を設ける。文字を優先して人物の身体を変形させない。収まりが難しい場合は、人物全体の等比縮小と位置調整を優先する。
+
+【タイポグラフィの共通設計】
+同じコンデンスド・サンセリフの書体ファミリーを使用し、極太の塗り文字と、太めの輪郭線だけのアウトライン文字を組み合わせる。文字の形を装飾で崩さず、大小と重なりでデザインする。使用する言葉は、左上{argument name="左上文字" default="BOLD"}、右上{argument name="右上文字" default="COOL"}、左下{argument name="左下文字" default="PURE"}、右下{argument name="右下文字" default="EDGE"}。各パネルの主見出しは一つ。主見出しは全字が読める状態にする。同じ単語のアウトライン反復を一つだけ補助要素として加える。別の単語や小さな説明文は加えない。主見出しと補助文字には明確なサイズ差をつける。補助文字は主見出しの約1.3〜1.5倍の大きさとし、淡いスレートグレーの輪郭で描く。補助文字の一部はパネル外周で意図的に見切れてよい。隣のパネルには侵入させない。文字や図形同士の重なりは左の文字領域内だけで行い、人物との間にはパネル幅の約4％を目安とした空白を残す。すべての文字は正立。極端な遠近変形、立体化、ノイズによる文字崩しは行わない。細かな説明文、数字、パネル番号、ロゴ、バーコードは追加しない。
+
+【背景・配色】
+全パネルを明るい背景にする。左上：明るいアイボリー。右上：明るいクールグレー。左下：ごく淡いブルーグレー。右下：明るいウォームグレー。4色の明度をそろえ、背景の色差は控えめにする。暗い背景、大きな黒い背景面は使わない。人物の背後は単色を基本とし、文字、柄、帯を置かない。参照人物の髪や衣装の色に合わせ、背景の明度と暖冷だけを淡色の範囲で微調整し、全身の輪郭が背景から自然に分離するようにする。白い衣装では背景をごく薄いグレー側へ調整する。黒い衣装では十分明るい背景を維持する。輪郭を分離するために参照衣装の色を変更したり、人物へ縁取り線や発光を付けたりしない。主見出しはインクブラックを基本に、バーミリオンレッドをアクセントとして使用する。アウトラインは背景から見分けられる淡いスレートグレー。細すぎて消える線にはしない。赤は全パネルで同じ色を使う。衣装の色は参照画像を優先する。
+
+【4パネルの文字とグラフィックの構成】
+図形は、赤い長方形と細い黒の直線に絞る。人物と文字の領域分離を厳守する。全パネルに同じ下線を繰り返さず、各パネルに異なる構成と重心を作る。
+
+左上・BOLD：大きな塗り文字と、ずれた輪郭の重なり。主見出しはBO／LDの2行。黒い極太文字で、文字領域の上から中段を大きく使う。背後に同じ2行組みのアウトラインBOLDを一つ置き、左上へ少しずらす。輪郭の一部はパネル左
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2097893924673343594) | 2026-09-10
+
+---
+

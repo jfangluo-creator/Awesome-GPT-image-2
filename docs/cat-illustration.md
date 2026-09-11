@@ -21363,3 +21363,31 @@ Create an ultra-detailed vertical anime fantasy illustration of exactly one eleg
 
 ---
 
+### 🎨 例 7853：Serene Four-Panel Woman Portrait
+
+![Serene Four-Panel Woman Portrait](../images/Serene%20Four-Panel%20Woman%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+This image presents a serene {argument name="layout" default="four-panel photo collage"} featuring a {argument name="subject" default="young woman"} with {argument name="hair style" default="long, dark wavy hair"} and soft bangs, dressed in a light, sheer garment. In the top-left panel, she faces forward with a gentle, warm smile, her eyes engaging the camera directly. The top-right panel captures her glancing back over her shoulder against a background dappled with soft, abstract light patterns. In the bottom-left panel, she is depicted in a peaceful moment with her eyes gently closed, highlighting a calm and contemplative mood. Finally, the bottom-right panel shows her looking thoughtfully toward the side with a soft expression, completing a cohesive visual narrative centered on grace, natural beauty, and tranquility.
+```
+
+**来源：** [@Aniya Intelligence](https://x.com/aniyaintel/status/2097923059147804833) | 2026-09-10
+
+---
+
+### 🎨 例 7864：Research Paper Academic Poster
+
+![Research Paper Academic Poster](../images/Research%20Paper%20Academic%20Poster.jpg)
+
+**Prompt:**
+
+```text
+{argument name="大会名" default="2026年の神経科学大会"}で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+**来源：** [@Daichi Konno / 紺野 大地](https://x.com/_daichikonno/status/2097880100587135480) | 2026-09-10
+
+---
+

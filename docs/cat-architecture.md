@@ -5198,3 +5198,115 @@ turn {argument name="target" default="it"} into a {argument name="style" default
 
 ---
 
+### 🏛️ 例 7841：“遗失明日博物馆”概念场景
+
+![“遗失明日博物馆”概念场景](../images/%E2%80%9C%E9%81%97%E5%A4%B1%E6%98%8E%E6%97%A5%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E6%A6%82%E5%BF%B5%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "title": "遗失明日博物馆",
+  "image_description": "一座宏大的 {argument name=\"location\" default=\"隐藏在被遗忘城市之下的地下博物馆\"}。建筑令人叹为观止，无尽的大理石走廊被透过巨大玻璃天花板洒下的温暖金光照亮。成千上万个玻璃展柜向远方无限延伸。每个展柜里都装着一个从未发生的未来。其中一个装着一件从未穿过的婚纱。另一个装着一枚从未获得的诺贝尔奖章。还有一个展示着一把布满灰尘的吉他，旁边是一张属于一位过早放弃的音乐家的售罄世界巡演海报。参观者们在博物馆中沉默地行走，眼中含泪地注视着这些展品。",
+  "main_subject": {
+    "character": "一个独自站立的年轻人",
+    "appearance": "深色大衣，略显磨损的鞋子，疲惫的双眼",
+    "expression": "震惊且充满情感",
+    "focus": "清晰对焦"
+  },
+  "story_element": {
+    "twist": "在博物馆的尽头，他发现了一个专门陈列他自己被遗弃梦想的房间。",
+    "question": "如果你能看到你本可能拥有的生活，你会怎么做？"
+  },
+  "environment": {
+    "location": "地下博物馆",
+    "lighting": "金色电影级灯光",
+    "atmosphere": "静谧、感人、神圣"
+  },
+  "cinematography": {
+    "camera": "ARRI Alexa 65",
+    "lens": "50mm 变形镜头",
+    "shot_type": "广角电影镜头",
+    "depth_of_field": "浅景深",
+    "composition": "获奖级叙事构图"
+  },
+  "mood": [
+    "令人心碎",
+    "发人深省",
+    "忧郁",
+    "唯美"
+  ],
+  "style": {
+    "reference": "Christopher Nolan 与 Denis Villeneuve 的风格融合",
+    "quality": "超写实",
+    "resolution": "8K",
+    "film_grain": true,
+    "volumetric_lighting": true
+  }
+}
+
+[English]
+{
+  "title": "The Museum of Lost Tomorrows",
+  "image_description": "A vast {argument name=\"location\" default=\"underground museum hidden beneath a forgotten city\"}. The architecture is breathtaking, with endless marble hallways illuminated by warm golden light filtering through giant glass ceilings. Thousands of glass display cases stretch endlessly into the distance. Inside each case is a future that never happened. One contains a wedding dress that was never worn. Another holds a Nobel Prize medal that was never earned. Another displays a dusty guitar beside a sold-out world tour poster from a musician who gave up too soon. Visitors walk silently through the museum, staring at the exhibits with tears in their eyes.",
+  "main_subject": {
+    "character": "A young man standing alone",
+    "appearance": "Dark overcoat, slightly worn shoes, tired eyes",
+    "expression": "Shocked and emotional",
+    "focus": "Sharp focus"
+  },
+  "story_element": {
+    "twist": "At the end of the museum, he discovers an entire room dedicated to his own abandoned dreams.",
+    "question": "What would you do if you could see the life you almost lived?"
+  },
+  "environment": {
+    "location": "Underground Museum",
+    "lighting": "Golden cinematic lighting",
+    "atmosphere": "Silent, emotional, sacred"
+  },
+  "cinematography": {
+    "camera": "ARRI Alexa 65",
+    "lens": "50mm anamorphic",
+    "shot_type": "Wide cinematic shot",
+    "depth_of_field": "Shallow",
+    "composition": "Award-winning storytelling frame"
+  },
+  "mood": [
+    "Heartbreaking",
+    "Thought-provoking",
+    "Melancholic",
+    "Beautiful"
+  ],
+  "style": {
+    "reference": "Christopher Nolan meets Denis Villeneuve",
+    "quality": "Ultra photorealistic",
+    "resolution": "8K",
+    "film_grain": true,
+    "volumetric_lighting": true
+  }
+}
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2098078552193384859) | 2026-09-10
+
+---
+
+### 🏛️ 例 7845：文艺复兴风格油画肖像
+
+![文艺复兴风格油画肖像](../images/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4%E9%A3%8E%E6%A0%BC%E6%B2%B9%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅充满质感的超写实油画，采用 {argument name="art style" default="文艺复兴风格"}，描绘了整张图片中的模特。她的皮肤白皙，带有 {argument name="skin detail" default="红润的肤色和细微的雀斑"}，双唇呈现深红色。背景为带有淡淡拱门图案的灰绿色石质建筑面板，质感丰富。光线柔和且具有方向性，突显了织物和皮肤的丰富纹理。画布质感清晰可见。
+
+[English]
+A textured, hyper-realistic oil painting in the {argument name="art style" default="Renaissance style"}, depicting the model shown across the entire image. Her skin is pale with a {argument name="skin detail" default="rosy flush and subtle freckles"}, and her lips are a crimson hue. The background is a textured, greenish-gray stone architectural panel featuring a faint arch motif. The lighting is soft and directional, emphasizing the rich textures of the fabric and skin. Canvas texture is visible.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2097974862409089528) | 2026-09-10
+
+---
+
