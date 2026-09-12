@@ -16532,3 +16532,59 @@ Ultra-realistic cinematic close-up portrait of a {argument name="subject" defaul
 
 ---
 
+### 🖥️ 例 7875：Galaxy Rail 标题界面
+
+![Galaxy Rail 标题界面](../images/Galaxy%20Rail%20%E6%A0%87%E9%A2%98%E7%95%8C%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="game title" default="GALAXY RAIL"} 的轨道射击游戏创建一个复古 2D 竖版街机标题界面，采用太空与铁路主题，并包含日文 UI 文字。
+
+画布：竖屏手游启动画面，9:16 比例，像素艺术风格但呈现清晰的矢量插画感，深海军蓝外太空背景，点缀着许多细小的白色和淡黄色星星。
+
+布局：标题居中置于中上方。在标题后方的左侧放置一颗巨大的、部分被裁剪的类地蓝色行星，占据约三分之一的画面高度，带有简单的绿色陆地和半透明云纹。添加 3 条从上到下贯穿的垂直铁轨：左侧轨道部分覆盖在行星上，中间一条，右侧一条；每条轨道均有灰色钢轨和许多棕色枕木。在下方的中间轨道上放置 2 辆小型列车/玩家载具，垂直堆叠，带有圆润的白色车身、蓝色车窗、黄色轮廓，顶部车辆配有黄色前灯。
+
+文字内容：主标题分为两行：“GALAXY” 为巨大的白色板状衬线字体，带有深海军蓝描边；下方 “RAIL” 为巨大的金黄色板状衬线字体，带有深海军蓝描边。标题下方显示亮青色的日文标语 {argument name="tagline" default="銀河を、レールで切り拓く"}。在其下方添加小型灰色功能文字：“RAIL SHOOTER / 2D VERTICAL / 3 STAGES”。在下三分之一处，添加一个带有细蓝色边框的半透明深蓝色说明面板。面板内显示三行日文说明：“←→↑↓ / WASD：移動（レールから自動ジャンプ）”、“Z / SPACE：短押し＝単発 / 長押し＝2連射” 以及 “時間経過で最寄りのレールへ強制着地”。在面板下方添加一行红色警告文字：“赤いサークル＝瞬着攻撃の予兆。収束前に発生源を倒せ！”。在最底部居中显示淡灰色提示文字：{argument name="start prompt" default="PRESS Z SPACE OR CLICK TO START"}。
+
+视觉风格：复古街机标题界面，简单的 2D 游戏模型，形状清晰，略带像素感的字体，高对比度，深空配色方案（海军蓝、白、青、黄、灰、红）。构图应呈现出竖版轨道射击游戏原型启动画面的感觉。
+
+约束：使用 3 条全高垂直轨道，2 辆列车，左侧一颗行星，一个说明面板，不包含角色或其他额外 UI 窗口。保持所有文字清晰且居中，无任何标志或水印。
+
+[English]
+Goal: Create a retro 2D vertical arcade game title screen for a rail shooter called {argument name="game title" default="GALAXY RAIL"}, with a space-and-railroad theme and Japanese UI text.
+
+Canvas: Portrait mobile game splash screen, 9:16 aspect ratio, pixel-art inspired but clean vector-like illustration, dark navy outer-space background filled with many small white and pale yellow stars.
+
+Layout: Center the title in the upper-middle. Place a large partially cropped Earth-like blue planet on the left behind the title, occupying about one third of the image height, with simple green landmasses and translucent cloud streaks. Add exactly 3 vertical railroad tracks running from top to bottom: one left track partly over the planet, one center track, and one right track; each track has gray rails and many brown sleepers. Put exactly 2 small train/player cars on the lower center track, stacked vertically with rounded white bodies, blue windows, yellow outlines, and a yellow headlight on the top car.
+
+Text content: Main title text is two lines: “GALAXY” in large white slab-serif letters with a dark navy outline, and “RAIL” below in large golden yellow slab-serif letters with a dark navy outline. Under the title, show the Japanese tagline {argument name="tagline" default="銀河を、レールで切り拓く"} in bright cyan. Beneath it, add small gray feature text: “RAIL SHOOTER / 2D VERTICAL / 3 STAGES”. In the lower third, add a translucent dark blue rectangular instruction panel with a thin blue border. Inside the panel, show three Japanese instruction lines: “←→↑↓ / WASD：移動（レールから自動ジャンプ）”, “Z / SPACE：短押し＝単発 / 長押し＝2連射”, and “時間経過で最寄りのレールへ強制着地”. Below the panel, add a small red warning line: “赤いサークル＝瞬着攻撃の予兆。収束前に発生源を倒せ！” At the very bottom, centered, show pale gray prompt text: {argument name="start prompt" default="PRESS Z SPACE OR CLICK TO START"}.
+
+Visual style: Retro arcade title screen, simple 2D game mockup, crisp shapes, slightly pixelated typography, high contrast, deep-space palette of navy, white, cyan, yellow, gray, and red. The composition should feel like a vertical rail shooter prototype splash screen.
+
+Constraints: Use exactly 3 full-height vertical tracks, exactly 2 train cars, one planet on the left, one instruction panel, and no characters or extra UI windows. Keep all text legible and centered, with no logos or watermarks.
+```
+
+**来源：** [@⛩🧙‍♂️ゲーム仙人かいぽん⚔️ぱぱら快刀🌻💙](https://x.com/kenji_kaido/status/2098306732330258927) | 2026-09-11
+
+---
+
+### 🖥️ 例 7876：黄昏时分的动漫列车与富士山
+
+![黄昏时分的动漫列车与富士山](../images/%E9%BB%84%E6%98%8F%E6%97%B6%E5%88%86%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%88%97%E8%BD%A6%E4%B8%8E%E5%AF%8C%E5%A3%AB%E5%B1%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影感动漫风格插画，展现黄昏时分安静的列车车厢，营造出忧郁而梦幻的氛围。场景视角位于几乎空无一人的通勤列车内部，横跨长长的深蓝色长椅和大型矩形车窗。一位娇小的少女坐在长椅右侧附近，双手交叠放在膝上，神情平静而孤独，微微侧头凝视。她身着全黑哥特风格服饰：黑色贝雷帽、带有丝带细节的深色衬衫、黑色长裙、深色长袜和黑色系带靴；她的 {argument name="hair color" default="黑色"} 头发编成两条长辫，皮肤白皙，有着精致的动漫五官。透过车窗，展现宁静的日本湖畔景观，远处的 {argument name="mountain" default="富士山"} 位于画面中心，柔和地倒映在水中，岸边有小巧的宝塔剪影和树梢。窗外天空呈现粉彩色的暮色，带有薰衣草蓝的色调、粉色的云朵，左上方窗户附近悬挂着一轮巨大的圆形 {argument name="sun or moon" default="粉色落日"}；左上角点缀着几枝粉色的樱花和花瓣。列车内部光线极其昏暗且清冷，少女大部分处于阴影中，与窗外明亮的景色形成对比。画面包含天花板附近清晰可见的三个吊环、长椅后方的一扇大型多格窗户，以及右侧一扇带有狭长窗户的列车门。采用 16:9 宽画幅构图，使用柔和的赛璐珞动漫渲染风格，内部阴影为柔和的深蓝色，外部光线为粉彩粉色与蓝色，无文字，无水印，无其他乘客。
+
+[English]
+Create a cinematic anime-style illustration of a quiet train interior at dusk, with a melancholic, dreamlike atmosphere. The scene is viewed from inside an almost empty commuter train, looking across a long dark blue bench seat and large rectangular windows. A single petite teenage girl sits near the right side of the bench, hands folded in her lap, gazing slightly to the side with a calm, lonely expression. She wears an all-black gothic-inspired outfit: black beret, dark blouse with ribbon details, long black skirt, dark socks, and black lace-up boots; her {argument name="hair color" default="black"} hair is styled in two long braids, and she has pale skin and delicate anime facial features. Through the train windows, show a serene Japanese lakeside landscape with {argument name="mountain" default="Mount Fuji"} centered in the distance, reflected softly in the water, with small pagoda silhouettes and treetops along the shore. The sky outside is pastel twilight with lavender-blue tones, pink clouds, and one large round {argument name="sun or moon" default="pink setting sun"} glowing near the upper left window; include a few pink cherry blossom branches and petals near the top left. Inside the train, keep the lighting very dim and cool, with the girl mostly in shadow against the glowing scenery outside. Include exactly three visible hanging train straps near the ceiling, one large multi-pane window set behind the bench, and one train door with tall narrow windows on the right. Use a wide 16:9 composition, soft painterly cel-shaded anime rendering, muted navy interior shadows, pastel pink and blue exterior light, no text, no watermark, no extra passengers.
+```
+
+**来源：** [@Chiyo](https://x.com/Chiyo_memo_/status/2098304867223687367) | 2026-09-11
+
+---
+

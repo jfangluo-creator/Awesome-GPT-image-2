@@ -21274,3 +21274,21 @@ Create a refined editorial {argument name="location atmosphere" default="Europea
 
 ---
 
+### 🏷️ 例 7871：UGC 风格营销面板网格
+
+![UGC 风格营销面板网格](../images/UGC%20%E9%A3%8E%E6%A0%BC%E8%90%A5%E9%94%80%E9%9D%A2%E6%9D%BF%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 GPT Image 2 创建一个 3x3 的全页网格，展示此 {argument name="category" default="便利店"} 的逼真 UGC 风格面板。将视频分为 3 个连续部分。每个面板必须包含一个电影级视觉画面，以及直接印在面板内的清晰制作说明。目标不仅仅是展示产品，而是帮助客户构思购买理由。企业名称为 {argument name="business name" default="Zioraa Ventures"}。将企业名称嵌入背景中。
+
+[English]
+Create a full-sheet 3x3 grid of realistic UGC-style panels featuring this {argument name="category" default="provision store"} using GPT Image 2. Split the video into 3 continuous sections. Each panel must contain a cinematic visual frame plus readable production notes printed directly inside the panel. The goal isn't just to show the product. It’s to help customers imagine a reason to buy it. The business name is {argument name="business name" default="Zioraa Ventures"}. Embedded the business name in the background.
+```
+
+**来源：** [@Olatunde AI](https://x.com/OlatundeAI/status/2098409803273879657) | 2026-09-11
+
+---
+

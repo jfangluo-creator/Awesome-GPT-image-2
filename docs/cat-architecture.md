@@ -5310,3 +5310,37 @@ A textured, hyper-realistic oil painting in the {argument name="art style" defau
 
 ---
 
+### 🏛️ 例 7870：编辑级铁线莲花园立体模型
+
+![编辑级铁线莲花园立体模型](../images/%E7%BC%96%E8%BE%91%E7%BA%A7%E9%93%81%E7%BA%BF%E8%8E%B2%E8%8A%B1%E5%9B%AD%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为植物素材，将原本随意的花园特写照片转化为精致的编辑级产品风格场景。保留铁线莲藤蔓的原始特征、洋红色花朵、绿叶、花蕾、种子头以及质朴木质花架的质感，并将它们重新构图，组合成一个精心布置的微型花园。
+
+目标：根据参考照片创作一个优雅的摄影棚植物立体模型。
+构图：将植物直立放置在方形米色石质花盆底座上，盆内填满土壤并点缀少量绿植，木质花架立于其后。采用等轴测四分之三视角，使底座、花架、花朵和藤蔓清晰可见。
+花卉结构：保留 3 朵盛开的洋红色铁线莲作为核心视觉焦点，并自然排布未开放的花蕾和种子头。
+背景：将杂乱的真实花园背景替换为无缝的暖米白色摄影棚背景。
+光影：采用柔和的自然编辑级光影，呈现细腻的阴影，展现花瓣和叶片的真实质感，营造出精致的杂志静物摄影风格。
+风格：照片级真实感，简洁，高端植物编辑风格，细节丰富且布局清爽。
+限制：请勿添加文字、标签、人物、昆虫、花瓶或其他装饰性道具。在确保植物与 REFERENCE_0 保持一致的前提下，使场景呈现出精心布置的专业摄影效果。
+
+[English]
+Using the provided reference image as the botanical source, transform the old close-up garden photo into a polished editorial product-style scene. Preserve the same clematis vine identity, magenta flowers, green leaves, buds, seed heads, and rustic wooden trellis character, but cleanly recompose them into a staged miniature garden arrangement.
+
+Goal: Create an elegant studio botanical diorama from the reference photo.
+Composition: Place the plant upright on a square cream stone planter base filled with soil and small greenery, with the wooden trellis standing behind it. Use an isometric three-quarter view so the base, trellis, flowers, and vines are all clearly visible.
+Floral structure: Keep exactly 3 large open magenta clematis flowers as the main focal blooms, plus visible unopened buds and seed heads arranged naturally around them.
+Background: Replace the busy real garden background with a seamless warm off-white studio backdrop.
+Lighting: Use soft natural editorial lighting with gentle shadows, realistic texture on petals and leaves, and a refined magazine still-life look.
+Style: Photorealistic, clean, high-end botanical editorial, detailed but uncluttered.
+Constraints: Do not add text, labels, people, insects, vases, or extra decorative props. Keep the plant recognizable from REFERENCE_0 while making the scene look intentionally staged and professionally photographed.
+```
+
+**来源：** [@MTkapi](https://x.com/mtkapi/status/2098453895123001749) | 2026-09-11
+
+---
+

@@ -1175,6 +1175,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7857：古风美人角色创建游戏](cat-ui.md#️-例-7857古风美人角色创建游戏)
 
 - [例 7861：Ultra-Realistic Neon Portrait](cat-ui.md#️-例-7861ultra-realistic-neon-portrait)
+
+- [例 7875：Galaxy Rail 标题界面](cat-ui.md#️-例-7875galaxy-rail-标题界面)
+
+- [例 7876：黄昏时分的动漫列车与富士山](cat-ui.md#️-例-7876黄昏时分的动漫列车与富士山)
 ---
 
 <a id="chart"></a>
@@ -3459,6 +3463,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7856：国潮风城市宣传海报](cat-poster.md#-例-7856国潮风城市宣传海报)
 
 - [例 7860：时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
+
+- [例 7872：撕纸风格阅读海报](cat-poster.md#-例-7872撕纸风格阅读海报)
 ---
 
 <a id="photo"></a>
@@ -9191,6 +9197,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7866：克什米尔迷雾中的电影感肖像](cat-photo.md#-例-7866克什米尔迷雾中的电影感肖像)
 
 - [例 7867：日出时的自然肖像](cat-photo.md#-例-7867日出时的自然肖像)
+
+- [例 7874：奢华时尚午夜天台人像](cat-photo.md#-例-7874奢华时尚午夜天台人像)
+
+- [例 7877：阳光下的车内抓拍自拍](cat-photo.md#-例-7877阳光下的车内抓拍自拍)
+
+- [例 7878：时尚男装编辑人像](cat-photo.md#-例-7878时尚男装编辑人像)
+
+- [例 7879：电影感奢华时尚肖像](cat-photo.md#-例-7879电影感奢华时尚肖像)
 ---
 
 <a id="illustration"></a>
@@ -11244,6 +11258,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7853：Serene Four-Panel Woman Portrait](cat-illustration.md#-例-7853serene-four-panel-woman-portrait)
 
 - [例 7864：Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
+
+- [例 7869：迷幻科幻实验室丝网印刷画](cat-illustration.md#-例-7869迷幻科幻实验室丝网印刷画)
 ---
 
 <a id="character"></a>
@@ -11728,6 +11744,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7803：兔绅士角色设定图](cat-character.md#-例-7803兔绅士角色设定图)
 
 - [例 7826：卡通角色 GIF 精灵图 (Sprite Sheet)](cat-character.md#-例-7826卡通角色-gif-精灵图-sprite-sheet)
+
+- [例 7873：写实蜂蜜色调美妆肖像](cat-character.md#-例-7873写实蜂蜜色调美妆肖像)
 ---
 
 <a id="3d"></a>
@@ -12924,6 +12942,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7841：“遗失明日博物馆”概念场景](cat-architecture.md#️-例-7841遗失明日博物馆概念场景)
 
 - [例 7845：文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
+
+- [例 7870：编辑级铁线莲花园立体模型](cat-architecture.md#️-例-7870编辑级铁线莲花园立体模型)
 ---
 
 <a id="comic"></a>
@@ -15203,6 +15223,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7859：Venus Soap Holder Bathroom Interior Design](cat-brand.md#️-例-7859venus-soap-holder-bathroom-interior-design)
 
 - [例 7865：Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
+
+- [例 7871：UGC 风格营销面板网格](cat-brand.md#️-例-7871ugc-风格营销面板网格)
 ---
 
 <a id="edit"></a>

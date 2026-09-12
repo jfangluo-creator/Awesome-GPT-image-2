@@ -69974,3 +69974,79 @@ A {argument name="subject" default="face"} with a lifetime in it. No polished sk
 
 ---
 
+### 📷 例 7874：奢华时尚午夜天台人像
+
+![奢华时尚午夜天台人像](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%8D%88%E5%A4%9C%E5%A4%A9%E5%8F%B0%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实电影感奢华时尚摄影作品，画面中一位 {argument name="subject" default="20 出头、英俊迷人的年轻男子"} 自信地站在 {argument name="location" default="午夜的高层天台"} 上，俯瞰着充满摩天大楼灯光的壮丽现代城市天际线。他留着浓密自然、微卷的乌黑头发，在夜风中略显凌乱，眉毛浓密有型，深邃的深褐色眼睛极具表现力，鼻梁挺拔，颧骨突出，下颌线轮廓分明，留着淡淡的自然胡茬。他身着 {argument name="outfit" default="全黑廓形穿搭"} —— 一件高档黑色廓形夹克、宽松黑色长裤和时髦的黑色靴子 —— 营造出一种神秘的现代街头奢华美感。清冷的银色月光照亮了他的一侧脸庞，而背景中色彩斑斓的城市灯光形成了柔和的氛围感光斑。他的头发和衣物在风中自然摆动，增添了电影般的动态感与真实感。深邃的午夜蓝天空，明亮的满月在薄云后若隐若现，远处的摩天大楼，精致的天台细节，大气薄雾，戏剧性的轮廓光，深邃的阴影，真实的皮肤纹理与毛孔，自然的脸部比例，精致的杂志大片构图，忧郁的夜间氛围，高级时尚杂志美学，使用 85mm 镜头拍摄，浅景深，电影级调色，HDR，超精细，照片级真实感，8K，无文字，无水印，无人工痕迹的脸部。长宽比：9:16，竖构图。
+
+[English]
+Ultra-realistic cinematic luxury fashion photograph of a {argument name="subject" default="strikingly handsome young man in his early 20s"} standing confidently on a {argument name="location" default="high-rise rooftop at midnight"}, overlooking a breathtaking modern city skyline filled with glowing skyscraper lights. He has thick naturally wavy jet-black hair with subtle tousled volume, dramatically wind-blown by the night breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an {argument name="outfit" default="oversized all-black outfit"} — a premium oversized black jacket, loose black trousers, and sleek black boots — creating a mysterious contemporary street-luxury aesthetic. Cold silver moonlight illuminates one side of his face while the colorful city lights create soft atmospheric bokeh behind him. His hair and clothing move naturally in the wind, adding cinematic motion and realism. Dark midnight-blue sky, bright full moon partially visible behind thin clouds, distant skyscrapers, subtle rooftop details, atmospheric haze, dramatic rim lighting, deep shadows, realistic skin texture and pores, natural facial proportions, sophisticated editorial composition, moody nocturnal atmosphere, high-fashion magazine aesthetic, shot on an 85mm lens, shallow depth of field, cinematic color grading, HDR, ultra-detailed, photorealistic, 8K, no text, no watermark, no artificial-looking face. Aspect ratio: 9:16, vertical composition.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2098366515267653748) | 2026-09-11
+
+---
+
+### 📷 例 7877：阳光下的车内抓拍自拍
+
+![阳光下的车内抓拍自拍](../images/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%BD%A6%E5%86%85%E6%8A%93%E6%8B%8D%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的抓拍自拍，主角是一位坐在 {argument name="location" default="车内"} 的 {argument name="subject" default="年轻女性"}，由智能手机从略微低角度的前置摄像头拍摄。她留着一头柔顺的深棕色长直发，自然地垂在双肩上，脸颊旁有几缕细碎的发丝，五官精致年轻，皮肤白皙自然，深棕色眼眸，妆容清淡，带着俏皮可爱的抿嘴微笑。她穿着一件超大款白色印花 T 恤，戴着精致的银色手链。她的一只手臂抬向镜头，用拇指和食指在眼睛周围比出一个俏皮的手势，其余手指向上伸展。她透过手势微微眯起一只眼睛，自然地微笑着，展现出一种有趣、无忧无虑的表情。明亮的直射阳光透过车窗射入，照亮了她的脸庞，并在她的头发和皮肤上形成了强烈的金色高光。她周围是深色的车内环境，可以看到黑色真皮座椅和车窗边框。透过敞开的侧窗，可以看到湛蓝的天空和柔软的白云。自然的阳光与深邃的室内阴影形成了强烈的对比。真实的手机摄影，休闲社交媒体自拍美学，自然的皮肤纹理，逼真的发丝，写实的手部和手指，温暖的阳光，高动态范围，细微的镜头瑕疵，青春抓拍氛围，照片级真实感，高度细节，面部清晰，比例自然，垂直 4:5 构图。
+
+[English]
+Ultra-realistic candid selfie of a {argument name="subject" default="young woman"} sitting inside a {argument name="location" default="car"}, captured from a slightly low front-facing smartphone camera angle. She has long, straight, silky dark-brown hair falling naturally over both shoulders, soft wispy strands around her face, delicate youthful features, fair natural skin, dark brown eyes, subtle makeup, and a cute playful closed-mouth smile. She is wearing an oversized white graphic T-shirt and a delicate silver bracelet. One arm is raised toward the camera, forming a playful hand gesture around one eye using her thumb and index finger, while the other fingers extend upward. She slightly squints one eye through the hand gesture and smiles naturally, creating a fun, carefree expression. Bright direct sunlight enters through the car window, illuminating her face and creating strong golden highlights across her hair and skin. Dark car interior surrounds her, with black leather seats and window frames visible. Through the open side window, a vivid blue sky with soft white clouds is visible. Natural sunlight and deep interior shadows create strong contrast. Authentic smartphone photography, casual social-media selfie aesthetic, natural skin texture, realistic hair strands, realistic hands and fingers, warm sunlight, high dynamic range, subtle lens imperfections, candid youthful atmosphere, photorealistic, highly detailed, sharp face, natural proportions, vertical 4:5 composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2098252202582372525) | 2026-09-11
+
+---
+
+### 📷 例 7878：时尚男装编辑人像
+
+![时尚男装编辑人像](../images/%E6%97%B6%E5%B0%9A%E7%94%B7%E8%A3%85%E7%BC%96%E8%BE%91%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真的时尚编辑人像，拍摄对象是一位英俊的 {argument name="subject" default="年轻男性"}，留着浓密且打理得当的深棕色短发，修剪整齐的短胡须，面带温暖自信的微笑，五官轮廓具有自然的男性魅力。他正对着镜头站立，双臂交叉，身穿奢华的 {argument name="clothing" default="深酒红色粗棒针高领毛衣"}，佩戴一块经典黑色奢华腕表。戏剧性的自然阳光从侧面射入，在他身后极简的白灰色墙面上投下强烈的几何阴影。干净精致的摄影棚/公寓环境，高端时尚男装广告美学，温暖的自然肤色，逼真的皮肤纹理，细腻的针织面料质感，锐利的面部细节，电影级布光，浅景深，微妙的对比度，高级杂志摄影风格，85mm 人像镜头，f/2.8，超写实，高分辨率，竖构图，居中取景。
+
+[English]
+Photorealistic editorial fashion portrait of a handsome {argument name="subject" default="young adult man"} with thick, neatly styled dark brown hair, short well-groomed beard and mustache, warm confident smile, and natural masculine features. He is standing facing the camera with his arms crossed, wearing a luxurious {argument name="clothing" default="dark burgundy chunky-knit turtleneck sweater"} and a classic black luxury wristwatch. Dramatic natural sunlight enters from the side, creating strong geometric shadows on a minimalist white and light-gray wall behind him. Clean sophisticated studio/apartment setting, high-fashion menswear campaign aesthetic, warm natural skin tones, realistic skin texture, detailed knit fabric, sharp facial details, cinematic lighting, shallow depth of field, subtle contrast, premium magazine photography, 85mm portrait lens, f/2.8, ultra-realistic, high resolution, vertical composition, centered framing.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2098250202075533588) | 2026-09-11
+
+---
+
+### 📷 例 7879：电影感奢华时尚肖像
+
+![电影感奢华时尚肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感奢华时尚摄影，主角为一位 {argument name="subject" default="20 出头、英俊迷人的年轻男子"}，正自信地在 {argument name="setting" default="一间纯净的极简主义白色卧室"} 中放松。他留着浓密自然的波浪状乌黑短发，眉毛浓密且轮廓分明，深邃而富有表现力的深褐色双眸，鼻梁笔挺，颧骨突出，下颌线线条硬朗，并带有淡淡的自然胡茬。他身着 {argument name="clothing" default="一件优雅随性的象牙白针织毛衣，搭配剪裁得体的米色长裤"}，营造出精致的单色调“老钱风”审美。
+
+卧室背景为清爽的白墙，配有柔软的白色亚麻床品、极简风格家具、落地透明窗帘，温暖的自然光透过窗帘柔和地洒入室内，在房间里投射出细腻的光影斑驳。他站在窗边的床旁，一只手随意地搭在窗帘上，神情平静而内敛，正静静地望向阳光。
+
+清晨柔和的氛围，通透的构图，温暖的高光，微妙的阴影，自然的皮肤纹理，写实的织物细节，精致的杂志大片造型，奢华生活方式杂志审美，电影级景深，85mm 镜头，f/1.8 光圈，柔和虚化，照片级真实感，HDR，超高细节，8K 分辨率，优雅的中性色调，宁静而永恒的意境，无人工修饰的皮肤质感，无夸张的五官，无文字，无水印。
+
+[English]
+Ultra-realistic cinematic luxury fashion photograph of a {argument name="subject" default="strikingly handsome young man in his early 20s"} relaxing confidently in a {argument name="setting" default="pristine minimalist white bedroom"}. He has thick naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an {argument name="clothing" default="effortlessly elegant ivory knit sweater with tailored cream trousers"}, creating a refined monochromatic old-money aesthetic.\n\nThe bedroom features crisp white walls, soft white linen bedding, minimalist furniture, sheer floor-to-ceiling curtains, and warm natural sunlight gently streaming through the curtains, creating delicate patterns of light and shadow across the room. He stands beside the bed near the window, one hand casually resting on the curtain, gazing calmly toward the sunlight with a peaceful, introspective expression.\n\nSoft morning atmosphere, airy composition, warm highlights, subtle shadows, natural skin texture, realistic fabric details, sophisticated editorial styling, luxury lifestyle magazine aesthetic, cinematic depth of field, 85mm lens, f/1.8, soft bokeh, photorealistic, HDR, ultra-detailed, 8K, elegant neutral tones, serene and timeless mood, no artificial-looking skin, no exaggerated features, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2098229495706832938) | 2026-09-11
+
+---
+

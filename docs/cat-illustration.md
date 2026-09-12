@@ -21391,3 +21391,21 @@ This image presents a serene {argument name="layout" default="four-panel photo c
 
 ---
 
+### 🎨 例 7869：迷幻科幻实验室丝网印刷画
+
+![迷幻科幻实验室丝网印刷画](../images/%E8%BF%B7%E5%B9%BB%E7%A7%91%E5%B9%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅方形复古科幻实验室插画，采用 20 世纪 60 年代末大胆的迷幻丝网印刷和孔版印刷风格。前景需精确包含两名人类：左侧是一位戴着眼镜、身穿白大褂的秃顶老年男科学家，正俯身操作一台大型橙色控制台；右侧是一位神情平静的受试者，身穿宽松的白色临床服装，被束缚或连接在一把沉重的木质金属椅上，头部配有圆形装置，身后拖着粗大的黑色线缆。背景的高架平台围栏后需精确包含三个站立的人形轮廓，均匀分布在吊灯下方。顶部区域需包含三个大型铬合金圆顶加热灯，以及三个较小的悬挂式装置。中央控制台应包含五个小型矩形显示屏，显示头部/侧面影像，下方配有多个旋钮、开关和一个小屏幕。左下角前景处，加入一个独立的复古电子设备，配有示波器风格的显示屏，显示锯齿状的黄色波形，并带有圆形刻度盘和拨动开关。背景填充扭曲的光学节奏图案：荧光洋红色、亮橙色、柠檬黄、深钴蓝色和黑色的波浪带。使用海报化的色调块、粗糙的半色调网点、墨点、做旧纸张纹理、刻意的色彩套印偏差、粗糙的丝网印刷边缘以及极简的透视深度。使画面呈现出迷幻精神控制或脑波实验海报的质感，具备高对比度、密集的线缆和发光的灯具，且不含任何可读文字或水印。
+
+[English]
+Create a square retro science-fiction laboratory illustration in a bold late-1960s psychedelic screen-print and risograph style. Show exactly two foreground humans: an elderly bald male scientist in glasses and a white lab coat leaning over a large orange control console on the left, and a calm seated test subject on the right wearing loose white clinical clothing, strapped or connected to a heavy wooden-and-metal chair with a circular head apparatus and thick black cables trailing behind him. Include exactly three standing humanoid figures in the background on a raised platform behind a railing, evenly spaced under hanging lamps. Include exactly three large chrome dome heat lamps across the upper area, plus exactly three smaller hanging pendant devices. The central control console should contain exactly five small rectangular monitor panels showing head/profile imagery, with many knobs, switches, and a small screen below. In the lower left foreground, include one separate vintage electronics unit with an oscilloscope-style display showing a jagged yellow waveform, plus round dials and toggle switches. Fill the background with warped optical rhythm patterns: wavy bands of fluorescent magenta, hot orange, lemon yellow, deep cobalt blue, and black. Use posterized tonal blocks, coarse halftone dots, ink speckling, grunge paper texture, deliberate color misregistration, rough screen-print edges, and minimal perspective depth. Make the scene feel like a psychedelic mind-control or brainwave experiment poster, with high contrast, dense cables, glowing lamps, and no readable text or watermark.
+```
+
+**来源：** [@D](https://x.com/D_the_Designer/status/2098473383575052305) | 2026-09-11
+
+---
+

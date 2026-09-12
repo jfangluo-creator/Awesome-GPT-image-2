@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (591)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (593)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1175,6 +1175,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7857: 古风美人角色创建游戏](cat-ui.md#️-例-7857古风美人角色创建游戏)
 
 - [Case 7861: Ultra-Realistic Neon Portrait](cat-ui.md#️-例-7861ultra-realistic-neon-portrait)
+
+- [Case 7875: Galaxy Rail 标题界面](cat-ui.md#️-例-7875galaxy-rail-标题界面)
+
+- [Case 7876: 黄昏时分的动漫列车与富士山](cat-ui.md#️-例-7876黄昏时分的动漫列车与富士山)
 ---
 
 <a id="chart"></a>
@@ -1409,7 +1413,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1043)
+## 🎴 [Posters & Cards](cat-poster.md) (1044)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3459,11 +3463,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7856: 国潮风城市宣传海报](cat-poster.md#-例-7856国潮风城市宣传海报)
 
 - [Case 7860: 时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
+
+- [Case 7872: 撕纸风格阅读海报](cat-poster.md#-例-7872撕纸风格阅读海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2897)
+## 📷 [Photography & Realistic](cat-photo.md) (2901)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9191,11 +9197,19 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7866: 克什米尔迷雾中的电影感肖像](cat-photo.md#-例-7866克什米尔迷雾中的电影感肖像)
 
 - [Case 7867: 日出时的自然肖像](cat-photo.md#-例-7867日出时的自然肖像)
+
+- [Case 7874: 奢华时尚午夜天台人像](cat-photo.md#-例-7874奢华时尚午夜天台人像)
+
+- [Case 7877: 阳光下的车内抓拍自拍](cat-photo.md#-例-7877阳光下的车内抓拍自拍)
+
+- [Case 7878: 时尚男装编辑人像](cat-photo.md#-例-7878时尚男装编辑人像)
+
+- [Case 7879: 电影感奢华时尚肖像](cat-photo.md#-例-7879电影感奢华时尚肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1030)
+## 🎨 [Illustration & Art](cat-illustration.md) (1031)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11241,11 +11255,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7853: Serene Four-Panel Woman Portrait](cat-illustration.md#-例-7853serene-four-panel-woman-portrait)
 
 - [Case 7864: Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
+
+- [Case 7869: 迷幻科幻实验室丝网印刷画](cat-illustration.md#-例-7869迷幻科幻实验室丝网印刷画)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (247)
+## 🧍 [Character Design](cat-character.md) (248)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11725,6 +11741,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7803: 兔绅士角色设定图](cat-character.md#-例-7803兔绅士角色设定图)
 
 - [Case 7826: 卡通角色 GIF 精灵图 (Sprite Sheet)](cat-character.md#-例-7826卡通角色-gif-精灵图-sprite-sheet)
+
+- [Case 7873: 写实蜂蜜色调美妆肖像](cat-character.md#-例-7873写实蜂蜜色调美妆肖像)
 ---
 
 <a id="3d"></a>
@@ -12463,7 +12481,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (233)
+## 🏛️ [Architecture & Space](cat-architecture.md) (234)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12921,6 +12939,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7841: “遗失明日博物馆”概念场景](cat-architecture.md#️-例-7841遗失明日博物馆概念场景)
 
 - [Case 7845: 文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
+
+- [Case 7870: 编辑级铁线莲花园立体模型](cat-architecture.md#️-例-7870编辑级铁线莲花园立体模型)
 ---
 
 <a id="comic"></a>
@@ -13469,7 +13489,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (868)
+## 🏷️ [Brand & Packaging](cat-brand.md) (869)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15200,6 +15220,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7859: Venus Soap Holder Bathroom Interior Design](cat-brand.md#️-例-7859venus-soap-holder-bathroom-interior-design)
 
 - [Case 7865: Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
+
+- [Case 7871: UGC 风格营销面板网格](cat-brand.md#️-例-7871ugc-风格营销面板网格)
 ---
 
 <a id="edit"></a>

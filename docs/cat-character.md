@@ -9486,3 +9486,73 @@ Constraints: Keep the image as a single cohesive character reference sheet, not 
 
 ---
 
+### 🧍 例 7873：写实蜂蜜色调美妆肖像
+
+![写实蜂蜜色调美妆肖像](../images/%E5%86%99%E5%AE%9E%E8%9C%82%E8%9C%9C%E8%89%B2%E8%B0%83%E7%BE%8E%E5%A6%86%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图创建一张高度写实的专业美妆肖像。
+严格的面部特征与身份锁定：
+保留参考图中完全一致的面部特征、面部比例、自然特征、鼻子、嘴唇、眼睛、眉毛、下颌线、皮肤纹理及整体外观。请勿进行美化、重塑或改变脸型。保持相同的自然表情和写实解剖结构。
+发型：
+保持与参考图完全一致的发型、发长、发色、发质、中分以及零散的发丝。
+服装：
+将黑色上衣替换为一件干净、优雅的无袖上衣，颜色为 {argument name="clothing color" default="PURE HONEY"} —— 温暖的金色蜂蜜色 / 柔和的琥珀金色。面料应看起来高级、自然且写实，并带有细腻的纹理。保持与参考图相同的领口、无袖剪裁、版型及整体服装形状。不要添加任何图案、Logo、印花或配饰。
+
+姿势与构图：
+保持与参考图相同的三角度美妆构图：
+
+1. 顶部为正面/四分之三特写肖像。
+
+2. 左下角为左侧面侧影肖像。
+
+3. 右下角为略微向右的四分之三肖像。
+
+保持相同的取景、头部位置、肩部位置、相机视角以及中性的摄影棚背景。
+
+光影与写实感：
+柔和的自然摄影棚光线，写实的毛孔和皮肤纹理，细微的自然瑕疵，真实的发丝，精准的面部解剖结构，柔和的阴影，写实的单反摄影效果，高端专业美妆作品集品质。
+
+颜色：
+服装必须清晰呈现为 {argument name="clothing color" default="PURE HONEY"} / 金色蜂蜜色，而非黄色、橙色、米色、棕色或芥末色。
+
+负面提示词：
+请勿改变面部特征、脸型、眼睛、鼻子、嘴唇、眉毛、发型、肤色、年龄、表情、身体比例或姿势。禁止过度化妆、塑料感皮肤、美颜滤镜、面部畸变、额外配饰、珠宝、图案、Logo、文字或看起来不自然的人造皮肤。
+
+[English]
+Create a highly realistic professional beauty portrait using the provided reference image.
+STRICT IDENTITY & FACE LOCK:
+Preserve the exact facial identity, facial proportions, natural features, nose, lips, eyes, eyebrows, jawline, skin texture, and overall appearance from the reference image. Do not beautify, reshape, or alter the face. Keep the same natural expression and realistic anatomy.
+HAIR:
+Keep the exact same hairstyle, hair length, hair color, hair texture, center parting, and loose strands as shown in the reference.
+CLOTHING:
+Replace the black top with a clean, elegant sleeveless top in a {argument name="clothing color" default="PURE HONEY"} color — warm golden honey / soft amber-gold tone. The fabric should look premium, natural, and realistic with subtle texture. Keep the same neckline, sleeveless cut, fit, and overall clothing shape as the reference. No patterns, logos, prints, or accessories.
+
+POSE & COMPOSITION:
+Maintain the same three-angle beauty reference composition:
+
+1. Front/three-quarter close-up portrait at the top.
+
+2. Left-side profile portrait at the bottom left.
+
+3. Three-quarter portrait facing slightly right at the bottom right.
+
+Keep the same framing, head position, shoulder placement, camera perspective, and neutral studio background.
+
+LIGHTING & REALISM:
+Soft natural studio lighting, realistic skin pores and texture, subtle natural imperfections, authentic hair strands, accurate facial anatomy, gentle shadows, realistic DSLR photography, high-end professional beauty portfolio quality.
+
+COLOR:
+The clothing must be clearly {argument name="clothing color" default="PURE HONEY"} / GOLDEN HONEY, not yellow, orange, beige, brown, or mustard.
+
+NEGATIVE PROMPT:
+Do not change facial identity, face shape, eyes, nose, lips, eyebrows, hairstyle, skin tone, age, expression, body proportions, or pose. No excessive makeup, plastic skin, beauty filter, face distortion, extra accessories, jewelry, patterns, logos, text, or artificial-looking skin.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2098384883978772619) | 2026-09-11
+
+---
+
