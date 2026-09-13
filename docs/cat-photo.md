@@ -70050,3 +70050,49 @@ Ultra-realistic cinematic luxury fashion photograph of a {argument name="subject
 
 ---
 
+### 📷 例 7882：复古杂志风肖像拼贴
+
+![复古杂志风肖像拼贴](../images/%E5%A4%8D%E5%8F%A4%E6%9D%82%E5%BF%97%E9%A3%8E%E8%82%96%E5%83%8F%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的 2×2 杂志风肖像拼贴画，主角为同一位虚构的年轻男性模特，四个画幅中的面部特征与发型保持一致。他留着整洁的深色侧分发型，五官轮廓分明，面部剃须干净，表情严肃且深沉。忧郁的 {argument name="era" default="1970 年代风格"} 企业时尚摄影，{argument name="background color" default="蓝绿色"} 影棚背景，戏剧性的定向光，细腻的胶片颗粒感，深邃的阴影，柔和的色调，真实的皮肤质感，高端时尚杂志美学。
+左上：特写肖像，身穿 {argument name="suit color" default="深森林绿"} 定制西装，搭配白色衬衫和酒红色领带，单手整理领带，可见复古腕表。
+右上：坐在木椅上，身体前倾，神情沉思，手托下巴，身穿同款绿色西装、白衬衫和酒红色领带，黑色长裤，可见腕表。
+左下：自信站立，绿色西装外套搭在肩上，袖口卷起，白衬衫搭配酒红色领带，脖子上挂着复古胶片相机，黑色长裤。
+右下：身穿白衬衫搭配酒红色领带，袖口卷起，绿色西装外套搭在手臂上，单手穿过头发，表情沉思。
+对称的 2×2 网格布局，画幅间有细白线分割，角色一致性，写实摄影，50mm 镜头感，浅景深，电影级灯光，细腻的模拟胶片质感，精致的复古氛围，超精细，照片级真实，4K。
+
+[English]
+Create a cinematic 2×2 editorial portrait collage of the same fictional young male model, with consistent facial features and hairstyle across all four panels. He has neatly styled dark side-parted hair, sharp masculine features, clean-shaven face, and a serious, thoughtful expression. Moody {argument name="era" default="1970s-inspired"} corporate fashion photography, {argument name="background color" default="teal-blue"} studio background, dramatic directional lighting, subtle film grain, deep shadows, muted colors, realistic skin texture, high-end fashion editorial aesthetic.
+Top-left: close-up portrait, wearing a {argument name="suit color" default="dark forest-green"} tailored suit, white dress shirt and burgundy tie, adjusting his tie with one hand, vintage wristwatch visible.
+Top-right: seated on a wooden chair, leaning forward thoughtfully with one hand near his chin, wearing the same green suit, white shirt and burgundy tie, black trousers, wristwatch visible.
+Bottom-left: standing confidently with the green suit jacket draped over one shoulder, sleeves rolled up, white shirt and burgundy tie, vintage film camera hanging around his neck, black trousers.
+Bottom-right: standing in the white shirt and burgundy tie with sleeves rolled up, green suit jacket over one arm, one hand running through his hair, contemplative expression.
+Symmetrical 2×2 grid layout, thin white dividers between panels, consistent character identity, realistic photography, 50mm lens look, shallow depth of field, cinematic lighting, subtle analog film texture, sophisticated vintage atmosphere, ultra-detailed, photorealistic, 4K.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2098617202719228006) | 2026-09-12
+
+---
+
+### 📷 例 7883：巴黎咖啡馆街头抓拍
+
+![巴黎咖啡馆街头抓拍](../images/%E5%B7%B4%E9%BB%8E%E5%92%96%E5%95%A1%E9%A6%86%E8%A1%97%E5%A4%B4%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感街头摄影，画面中一位 {argument name="subject" default="20 出头的年轻东亚女性"} 独自坐在 {argument name="location" default="迷人的巴黎老式人行道咖啡馆"}，从繁忙的步行街对面进行抓拍。她拥有自然美，五官精致，皮肤质感真实细腻，妆容淡雅，留着深棕色长发，自然微卷并带有轻盈的空气刘海。她穿着一件优雅的 {argument name="dress" default="端庄的深巧克力色长袖连衣裙"}，剪裁流畅，内搭米色柔和半身裙，搭配经典的米色尖头高跟鞋和精致的手表。她自然地坐在复古藤编咖啡椅上，身旁是一张圆形大理石小桌，正安静地阅读着手写纸质菜单。桌上放着一个小巧的白色瓷咖啡杯和碟子、一个新鲜出炉的羊角面包，以及一个插着精致干花的小玻璃花瓶。她的表情平静、沉思且略带梦幻，完全沉浸在当下的时刻。构图：竖构图人像摄影，全身环境人像，主体居中但自然地融入场景，从街道视角透过行人拍摄。前景中有多人快速经过镜头，营造出强烈的自然动态模糊，部分遮挡了画面边缘，而女性主体保持清晰对焦。背景呈现微妙的动态模糊，浅景深，主体与环境之间具有电影级的空间感。环境：地道的巴黎复古咖啡馆外观，深色木质店面，陈旧的黑色边框窗户，手写法语黑板菜单，透过玻璃可见温暖的咖啡馆内景，经典藤编小酒馆椅，狭窄的欧洲人行道，古老的石板路，亲切的欧洲街头氛围。光影：温暖的午后黄金阳光，柔和的定向阳光自然地洒在女性和咖啡桌上，温暖的琥珀色高光，深邃的自然阴影，窗户上的微妙反射，充满氛围感的黄金时刻光泽。摄影：使用全画幅专业相机拍摄，50mm 镜头，f/1.8 光圈，真实的物理景深，电影级曝光，自然的胶片颗粒感，微妙的光晕，柔和的高光过渡，真实的动态模糊，浓郁的暖棕色和琥珀色调，色彩略微柔和，高动态范围，真实的胶片美学，时尚杂志摄影风格，纪实抓拍感，极其细腻的皮肤细节，逼真的发丝，真实的织物纹理，物理精确的光影，无人工 CGI 感。氛围：安静、浪漫、怀旧、精致、亲密、梦幻的巴黎午后，仿佛摄影师路过咖啡馆时偶然捕捉到的画面。负面提示词：CGI，3D 渲染，插画，动漫，塑料感皮肤，过度平滑的脸，浓妆，美颜滤镜，畸形的解剖结构，多余的手指，畸形的手，重影人物，不自然的姿势，过度锐化，过度 HDR，人工虚化，不真实的动态模糊，文字伪影，水
+
+[English]
+Ultra-photorealistic cinematic street photography of a {argument name="subject" default="young East Asian woman in her early 20s"} sitting alone at a {argument name="location" default="charming old Parisian sidewalk café"}, captured candidly from across a busy pedestrian street. She has natural beauty, delicate facial features, soft realistic skin texture, subtle makeup, and long dark brown hair styled in loose natural waves with wispy bangs. She wears an elegant, {argument name="dress" default="modest dark chocolate-brown long-sleeve dress"} with a flowing silhouette, layered over a soft cream-colored skirt, paired with classic beige pointed-toe heels and a delicate wristwatch. She sits naturally on a vintage woven rattan café chair beside a small round marble café table, quietly reading a handwritten paper menu. On the table are a small white porcelain coffee cup and saucer, a freshly baked croissant, and a simple glass vase filled with tiny delicate dried flowers. Her expression is calm, thoughtful and slightly dreamy, completely absorbed in the moment. Composition: vertical portrait photography, full-body environmental portrait, subject centered but naturally integrated into the scene, photographed from street level through moving pedestrians. Multiple people pass very close to the camera in the foreground, creating strong natural motion blur and partially obscuring the edges of the frame, while the woman remains sharply focused. Subtle background motion blur, shallow depth of field, cinematic separation between subject and surroundings. Environment: authentic vintage Parisian café exterior, dark wooden storefront, aged black-framed windows, handwritten French chalkboard menus, warm café interior visible through glass, classic woven bistro chairs, narrow European sidewalk, old stone pavement, intimate European street atmosphere. Lighting: warm late-afternoon golden sunlight, soft directional sunlight falling naturally onto the woman and café table, warm amber highlights, deep natural shadows, subtle reflections in the windows, atmospheric golden-hour glow. Photography: shot on a full-frame professional camera, 50mm lens, f/1.8, realistic optical depth of field, cinematic exposure, natural film grain, subtle halation, soft highlight roll-off, realistic motion blur, rich warm brown and amber tones, slightly muted colors, high dynamic range, authentic analog-film aesthetic, editorial fashion photography, candid documentary feeling, extremely detailed skin, realistic hair strands, realistic fabric texture, physically accurate lighting, no artificial CGI appearance. Mood: quiet, romantic, nostalgic, sophisticated, intimate, dreamy Parisian afternoon, as if captured spontaneously by a photographer walking past the café. Negative prompt: CGI, 3D render, illustration, anime, plastic skin, overly smooth face, excessive makeup, beauty filter, distorted anatomy, extra fingers, malformed hands, duplicate people, unnatural poses, oversharpening, excessive HDR, artificial bokeh, unrealistic motion blur, text artifacts, wat
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2098614363020218648) | 2026-09-12
+
+---
+

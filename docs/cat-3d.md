@@ -9425,3 +9425,21 @@ Cinematic golden-hour lighting
 
 ---
 
+### 🧸 例 7881：舒适露营车与银河之夜
+
+![舒适露营车与银河之夜](../images/%E8%88%92%E9%80%82%E9%9C%B2%E8%90%A5%E8%BD%A6%E4%B8%8E%E9%93%B6%E6%B2%B3%E4%B9%8B%E5%A4%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实、舒适且高度细节的照片，画面中一位 {argument name="subject" default="扎着随性发髻的年轻东亚女性"} 舒适地坐在 {argument name="setting" default="夜晚温暖的露营车"} 内。她裹着一条 {argument name="clothing" default="厚实的毛绒花纹粉色被子，身穿舒适的粉色毛绒抓绒毛衣"}，双手捧着一个粉色陶瓷杯，带着温柔宁静的微笑望向露营车的大窗户。窗外，令人惊叹的深邃夜空中，璀璨的银河横跨在远处的山峦剪影之上。车内装饰着温暖的串灯、摆放着小型家居装饰的温馨木质搁架、相框照片以及可爱的毛绒玩具——一只白兔和一只小黄鸭。温暖的环境光，电影质感，8k 分辨率，照片级真实，梦幻氛围。
+
+[English]
+A realistic cozy highly detailed photograph of a {argument name="subject" default="young East Asian woman with her hair in a soft casual bun"} sitting comfortably inside a {argument name="setting" default="warm camper van at night"}. She is wrapped in a {argument name="clothing" default="thick plush floral-patterned pink quilt wearing a cozy pink fuzzy fleece sweater"} holding a pink ceramic mug with both hands looking out the large van window with a gentle serene smile Outside the window, a breathtaking dark night sky reveals a vivid star filled Milky Way galaxy over distant mountain silhouettes The interior of the van is filled with warm string fairy lights cozy wooden shelves with small house decor framed photos and cute plush stuffed animals a white bunny and a yellow duckling Warm, ambient lighting, cinematic, 8k resolution, photorealistic, dreamy atmosphere.
+```
+
+**来源：** [@Lavinia](https://x.com/laviniavelle/status/2098631695855669712) | 2026-09-12
+
+---
+

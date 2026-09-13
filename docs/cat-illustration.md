@@ -21409,3 +21409,21 @@ Create a square retro science-fiction laboratory illustration in a bold late-196
 
 ---
 
+### 🎨 例 7880：身着传统纱丽的南亚女性
+
+![身着传统纱丽的南亚女性](../images/%E8%BA%AB%E7%9D%80%E4%BC%A0%E7%BB%9F%E7%BA%B1%E4%B8%BD%E7%9A%84%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的年轻 {argument name="subject" default="南亚女性"}，身着优雅的 {argument name="outfit" default="传统红色纱丽，配有华丽的金色刺绣边饰和微妙的青柠色点缀"}，优雅地站在 {argument name="background" default="质朴的米色纹理石墙"} 旁。她留着一头浓密、自然波浪卷的深棕色长发，垂在一侧肩头；拥有温暖的小麦色肤色、柔和的自然妆容、富有表现力的深色双眸、修剪整齐的眉毛、精致的金色圆环耳环，以及温柔自信的微笑。她的一只手轻轻触碰着头发，另一只手拿着一枝鲜艳的粉色三角梅。温暖的黄金时刻阳光，柔和的自然阴影，浪漫的印度美学，抓拍时尚肖像，真实的皮肤质感，细腻的纱丽面料与刺绣，浅景深，电影级摄影，85mm 肖像镜头，柔和焦外成像，照片级真实感，高度细节，自然色彩，优雅且女性化的构图，竖构图肖像，4:5 纵横比
+
+[English]
+A beautiful young {argument name="subject" default="South Asian woman"} wearing an elegant {argument name="outfit" default="traditional red saree with a rich golden embroidered border and subtle lime-green accents"}, standing gracefully beside a {argument name="background" default="rustic textured beige stone wall"}. She has long, voluminous, naturally wavy dark brown hair flowing over one shoulder, warm medium skin tone, soft natural makeup, expressive dark eyes, neatly shaped eyebrows, delicate golden hoop earrings, and a gentle confident smile. She is lightly touching her hair with one hand while holding a branch of vibrant pink bougainvillea flowers with the other hand. Warm golden-hour sunlight, soft natural shadows, romantic Indian aesthetic, candid fashion portrait, realistic skin texture, detailed saree fabric and embroidery, shallow depth of field, cinematic photography, 85mm portrait lens, soft bokeh, photorealistic, highly detailed, natural colors, elegant and feminine composition, vertical portrait, 4:5 aspect ratio
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2098653604181610695) | 2026-09-12
+
+---
+

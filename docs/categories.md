@@ -9205,6 +9205,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7878：时尚男装编辑人像](cat-photo.md#-例-7878时尚男装编辑人像)
 
 - [例 7879：电影感奢华时尚肖像](cat-photo.md#-例-7879电影感奢华时尚肖像)
+
+- [例 7882：复古杂志风肖像拼贴](cat-photo.md#-例-7882复古杂志风肖像拼贴)
+
+- [例 7883：巴黎咖啡馆街头抓拍](cat-photo.md#-例-7883巴黎咖啡馆街头抓拍)
 ---
 
 <a id="illustration"></a>
@@ -11260,6 +11264,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7864：Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
 
 - [例 7869：迷幻科幻实验室丝网印刷画](cat-illustration.md#-例-7869迷幻科幻实验室丝网印刷画)
+
+- [例 7880：身着传统纱丽的南亚女性](cat-illustration.md#-例-7880身着传统纱丽的南亚女性)
 ---
 
 <a id="character"></a>
@@ -11746,6 +11752,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7826：卡通角色 GIF 精灵图 (Sprite Sheet)](cat-character.md#-例-7826卡通角色-gif-精灵图-sprite-sheet)
 
 - [例 7873：写实蜂蜜色调美妆肖像](cat-character.md#-例-7873写实蜂蜜色调美妆肖像)
+
+- [例 7884：带有涂鸦墙绘的写实生活照](cat-character.md#-例-7884带有涂鸦墙绘的写实生活照)
 ---
 
 <a id="3d"></a>
@@ -12480,6 +12488,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7854：女性与同款 3D 大头公仔](cat-3d.md#-例-7854女性与同款-3d-大头公仔)
 
 - [例 7868：巴基斯坦与菲律宾奢华立体模型](cat-3d.md#-例-7868巴基斯坦与菲律宾奢华立体模型)
+
+- [例 7881：舒适露营车与银河之夜](cat-3d.md#-例-7881舒适露营车与银河之夜)
 ---
 
 <a id="architecture"></a>

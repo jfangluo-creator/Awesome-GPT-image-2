@@ -3469,7 +3469,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2901)
+## 📷 [Photography & Realistic](cat-photo.md) (2903)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9205,11 +9205,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7878: 时尚男装编辑人像](cat-photo.md#-例-7878时尚男装编辑人像)
 
 - [Case 7879: 电影感奢华时尚肖像](cat-photo.md#-例-7879电影感奢华时尚肖像)
+
+- [Case 7882: 复古杂志风肖像拼贴](cat-photo.md#-例-7882复古杂志风肖像拼贴)
+
+- [Case 7883: 巴黎咖啡馆街头抓拍](cat-photo.md#-例-7883巴黎咖啡馆街头抓拍)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1031)
+## 🎨 [Illustration & Art](cat-illustration.md) (1032)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11257,11 +11261,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7864: Research Paper Academic Poster](cat-illustration.md#-例-7864research-paper-academic-poster)
 
 - [Case 7869: 迷幻科幻实验室丝网印刷画](cat-illustration.md#-例-7869迷幻科幻实验室丝网印刷画)
+
+- [Case 7880: 身着传统纱丽的南亚女性](cat-illustration.md#-例-7880身着传统纱丽的南亚女性)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (248)
+## 🧍 [Character Design](cat-character.md) (249)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11743,11 +11749,13 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7826: 卡通角色 GIF 精灵图 (Sprite Sheet)](cat-character.md#-例-7826卡通角色-gif-精灵图-sprite-sheet)
 
 - [Case 7873: 写实蜂蜜色调美妆肖像](cat-character.md#-例-7873写实蜂蜜色调美妆肖像)
+
+- [Case 7884: 带有涂鸦墙绘的写实生活照](cat-character.md#-例-7884带有涂鸦墙绘的写实生活照)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (371)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (372)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12477,6 +12485,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 7854: 女性与同款 3D 大头公仔](cat-3d.md#-例-7854女性与同款-3d-大头公仔)
 
 - [Case 7868: 巴基斯坦与菲律宾奢华立体模型](cat-3d.md#-例-7868巴基斯坦与菲律宾奢华立体模型)
+
+- [Case 7881: 舒适露营车与银河之夜](cat-3d.md#-例-7881舒适露营车与银河之夜)
 ---
 
 <a id="architecture"></a>
