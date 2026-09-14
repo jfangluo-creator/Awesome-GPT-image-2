@@ -1413,7 +1413,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1044)
+## 🎴 [Posters & Cards](cat-poster.md) (1046)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3465,11 +3465,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7860: 时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
 
 - [Case 7872: 撕纸风格阅读海报](cat-poster.md#-例-7872撕纸风格阅读海报)
+
+- [Case 7886: GPT Image 2 极简主义仪式感海报提示词](cat-poster.md#-例-7886gpt-image-2-极简主义仪式感海报提示词)
+
+- [Case 7892: 好莱坞日食时尚海报](cat-poster.md#-例-7892好莱坞日食时尚海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2903)
+## 📷 [Photography & Realistic](cat-photo.md) (2907)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9209,6 +9213,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7882: 复古杂志风肖像拼贴](cat-photo.md#-例-7882复古杂志风肖像拼贴)
 
 - [Case 7883: 巴黎咖啡馆街头抓拍](cat-photo.md#-例-7883巴黎咖啡馆街头抓拍)
+
+- [Case 7885: GPT Image 2 赛博朋克骷髅肖像提示词](cat-photo.md#-例-7885gpt-image-2-赛博朋克骷髅肖像提示词)
+
+- [Case 7888: 高山湖泊日出人像](cat-photo.md#-例-7888高山湖泊日出人像)
+
+- [Case 7889: 夜晚街道白裙人像](cat-photo.md#-例-7889夜晚街道白裙人像)
+
+- [Case 7890: Y2K 拼贴人像提示词](cat-photo.md#-例-7890y2k-拼贴人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -12491,7 +12503,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (234)
+## 🏛️ [Architecture & Space](cat-architecture.md) (235)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12951,6 +12963,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7845: 文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
 
 - [Case 7870: 编辑级铁线莲花园立体模型](cat-architecture.md#️-例-7870编辑级铁线莲花园立体模型)
+
+- [Case 7887: GPT Image 2 提示词：复古粉色搅拌机](cat-architecture.md#️-例-7887gpt-image-2-提示词复古粉色搅拌机)
 ---
 
 <a id="comic"></a>
@@ -13499,7 +13513,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (869)
+## 🏷️ [Brand & Packaging](cat-brand.md) (870)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15232,6 +15246,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7865: Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
 
 - [Case 7871: UGC 风格营销面板网格](cat-brand.md#️-例-7871ugc-风格营销面板网格)
+
+- [Case 7891: GPT Image 2 黑白纤维流 Logo 提示词](cat-brand.md#️-例-7891gpt-image-2-黑白纤维流-logo-提示词)
 ---
 
 <a id="edit"></a>

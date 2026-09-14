@@ -5344,3 +5344,21 @@ Constraints: Do not add text, labels, people, insects, vases, or extra decorativ
 
 ---
 
+### 🏛️ 例 7887：GPT Image 2 提示词：复古粉色搅拌机
+
+![GPT Image 2 提示词：复古粉色搅拌机](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E5%A4%8D%E5%8F%A4%E7%B2%89%E8%89%B2%E6%90%85%E6%8B%8C%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高端写实特写照片，展示放置在现代厨房台面上的复古风格淡粉色搅拌机。该搅拌机拥有光泽感十足的粉色复古机身，搭配抛光镀铬装饰件、带透明手柄的玻璃搅拌杯，以及带有发光红色指示灯的圆形前置控制旋钮。杯内正在混合淡粉色和白色的食材，形成平滑的漩涡状动态效果。一只女性的手正轻柔地握住右侧的镀铬侧手柄。背景为优雅的现代厨房，包含深色拱形门廊、装裱好的极简主义艺术画作、柔和温暖的室内灯光、浅景深效果，以及镀铬和玻璃表面上的逼真反射。整体呈现奢华的产品摄影风格，构图具有电影感，细节高度丰富，纹理自然，采用垂直 9:16 比例。
+
+[English]
+A premium photorealistic close-up of a vintage-style pastel pink blender on a modern kitchen countertop. The blender has a glossy pink retro body with polished chrome accents, a transparent glass jar with a clear handle, and a round front control dial with a glowing red indicator light. Inside the jar, pale pink and white ingredients are being blended, creating a smooth swirling motion. A woman’s hand is gently holding the chrome side handle on the right. Elegant modern kitchen background with dark arched doorway, framed minimalist artwork, soft warm indoor lighting, shallow depth of field, realistic reflections on the chrome and glass, luxury product photography, cinematic composition, highly detailed, natural textures, vertical 9:16.
+```
+
+**来源：** [@Dua Fatima](https://x.com/DuaFatimaAi/status/2099094038012100890) | 2026-09-13
+
+---
+

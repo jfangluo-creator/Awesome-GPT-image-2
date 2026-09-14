@@ -70096,3 +70096,105 @@ Ultra-photorealistic cinematic street photography of a {argument name="subject" 
 
 ---
 
+### 📷 例 7885：GPT Image 2 赛博朋克骷髅肖像提示词
+
+![GPT Image 2 赛博朋克骷髅肖像提示词](../images/GPT%20Image%202%20%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%AA%B7%E9%AB%85%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极度特写的超现实赛博朋克骷髅肖像，头部向上倾斜，嘴巴大张仿佛在无声尖叫。骷髅主体以粗颗粒感的黑白摄影风格呈现，并与镀铬机械植入物、外露的管道、螺栓、通风口、尖刺及工业硬件融合在一起。炽热的粉色、酸性绿、钴蓝色、橙色和黄色的霓虹图形图案在面部和下颌处爆发式展开，混合了锯齿形、条纹、线框网格和手绘几何母题。背景中，锐利的黑色星爆状图形和棱角分明的波普艺术形状在纯白背景上向外辐射。整体呈现高对比度的拼贴美学，融合了 1980 年代地下海报设计、早期赛博朋克身体改造意象、朋克杂志能量、喷绘金属质感、复印机纹理效果，光滑的镀铬与粗糙的灰度骨骼形成鲜明对比，构图混乱却充满刻意感，属于极繁主义复古未来主义平面艺术作品。
+
+[English]
+A surreal cyber-punk skull portrait in extreme close-up, tilted upward with its mouth stretched open in a silent scream. The skull is rendered mostly in gritty black-and-white photography, then fused with chrome mechanical implants, exposed tubing, bolts, vents, spikes, and industrial hardware. Neon graphic patterns explode across the face and jaw in hot pink, acid green, cobalt blue, orange, and yellow, mixing zigzags, stripes, wireframe grids, and hand-drawn geometric motifs. Behind it, sharp black starbursts and angular pop-art shapes radiate across a stark white background. High-contrast collage aesthetic, 1980s underground poster design, early cyberpunk body-mod imagery, punk zine energy, airbrushed metal, photocopied texture, glossy chrome against rough grayscale bone, chaotic but intentional composition, maximalist retro-futurist graphic art.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2099233287776419911) | 2026-09-13
+
+---
+
+### 📷 例 7888：高山湖泊日出人像
+
+![高山湖泊日出人像](../images/%E9%AB%98%E5%B1%B1%E6%B9%96%E6%B3%8A%E6%97%A5%E5%87%BA%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级奢华自然摄影作品，画面中一位二十岁出头、英俊非凡的年轻男子在日出时分平静地坐在一面如镜般平静的高山湖泊旁。他拥有一头浓密自然的黑色波浪卷发，略带凌乱的蓬松感；眉毛浓密且轮廓分明；深邃富有表现力的深棕色眼睛；挺直雕塑般的鼻子；突出的颧骨；棱角分明的男性下颌线；以及淡淡的自然胡茬。他身穿一件精致的深色户外夹克，内搭简约的中性色毛衣，下身是休闲长裤和高端登山靴。他坐在水边一块光滑的岩石上，静静地凝视着湖面。完全静止的水面形成了令人惊叹的镜面倒影，映照出男子、周围的山脉、松树和金色的日出天空。柔和的晨雾漂浮在湖面上，温暖的金色阳光轻轻照亮他的脸庞和头发，远处白雪皑皑的山峰在第一缕晨光中熠熠生辉，营造出宁静的荒野氛围，具有微妙的电影景深、自然的皮肤纹理和毛孔、逼真的织物细节、照片级真实感、8K HDR、电影级色彩分级、85mm 镜头、浅景深、戏剧性而宁静的构图、高端户外编辑摄影风格，无其他人物，无文字，无水印，无人工或 AI 生成的面部痕迹。
+
+[English]
+Ultra-realistic cinematic luxury nature photograph of a strikingly handsome young man in his early 20s sitting peacefully beside a perfectly calm alpine lake at sunrise. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark outdoor jacket over a simple neutral sweater, relaxed trousers, and premium hiking boots. He sits on a smooth rock at the water’s edge, quietly gazing across the lake. The perfectly still water creates a stunning mirror-like reflection of the man, surrounding mountains, pine trees, and golden sunrise sky. Soft morning mist floats above the lake, warm golden sunlight gently illuminates his face and hair, distant snow-capped mountains glowing in the first light, peaceful atmospheric wilderness, subtle cinematic depth, natural skin texture and pores, realistic fabric details, photorealistic, 8K HDR, cinematic color grading, 85mm lens, shallow depth of field, dramatic yet serene composition, high-end outdoor editorial photography, no other people, no text, no watermark, no artificial or AI-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2099065589453259252) | 2026-09-13
+
+---
+
+### 📷 例 7889：夜晚街道白裙人像
+
+![夜晚街道白裙人像](../images/%E5%A4%9C%E6%99%9A%E8%A1%97%E9%81%93%E7%99%BD%E8%A3%99%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+夕街の白いワンピース
+
+主体：
+夕暮れの商店街で、成人女性が金属の歩道柵へ腰掛ける白いミニワンピース姿の縦長全身写真。 人物は画面中央を基準に配置する。
+
+人物・表情：
+腰近くまでの濃茶のストレート髪と薄い前髪。卵形輪郭、横長の茶色い目、自然な眉、小ぶりな鼻、桃色の艶唇。上体をひねってカメラを見返す。 顔を肩越しにカメラへ向ける。 落ち着いた表情。
+
+服装・ポーズ：
+白いノースリーブの身体に沿うミニワンピース、灰褐色の膝丈ハイヒールブーツは側面に二本のバックル、白いキルティング風チェーンリュック。柵へ浅く座り両脚を歩道へ下ろす。
+
+背景・光：
+店の看板、車、歩行者、街路灯が奥へ連なる夜街。正面フラッシュが白い服と脚を明るくし、背景灯は橙色の玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。
+
+構図・カメラ：
+3:4の縦構図、カメラはやや低い後方斜めの全身写真。人物を中央、両ブーツを下まで収め、柵を水平に通す。人物に焦点、街は大きくぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。
+
+質感・スタイル：
+フォトリアルな夜間スナップ。白い布、キルティング、灰褐色ブーツ、金属柵を硬いフラッシュで明瞭に写す。
+
+ネガティブ：
+両方の膝丈バックルブーツを画面外へ切らない
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2099037111731319219) | 2026-09-13
+
+---
+
+### 📷 例 7890：Y2K 拼贴人像提示词
+
+![Y2K 拼贴人像提示词](../images/Y2K%20%E6%8B%BC%E8%B4%B4%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个垂直 9:16 比例的 Y2K 风格拼贴画，包含 3 个清晰分隔、大小相等的垂直堆叠面板。同一位成年日本女性出现在所有三个面板中，具有完全相同的面部特征和身份。
+
+顶部面板：特写自拍，一只眼睛眨眼。
+
+中间面板：回眸姿势，身体背对镜头，回头直视相机，长发自然飘动。
+
+底部面板：靠近镜头的特写，头发遮住一只眼睛，带有可爱微妙的撅嘴表情。
+
+[English]
+Create a vertical 9:16 Y2K collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.
+
+TOP PANEL: close-up selfie, one eye winking.
+
+MIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.
+
+BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2099024315383697899) | 2026-09-13
+
+---
+

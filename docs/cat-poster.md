@@ -34361,3 +34361,37 @@ Visual style: Japanese magazine cover, poetic paper collage, tactile torn paper,
 
 ---
 
+### 🎴 例 7886：GPT Image 2 极简主义仪式感海报提示词
+
+![GPT Image 2 极简主义仪式感海报提示词](../images/GPT%20Image%202%20%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+围绕任意主题内容构成极简典礼感信息海报，第一眼必须是大片温白空场中被精确居中的主标题与三枚主题符号发生庄重对位：主题提供核心名称、参与者或关键词，转化为上方大号细笔画标题、中央一组可识别的抽象标志和两侧纯色方块，语义可变但秩序不变。画面保留高比例留白、纵向中轴、上下分区和细黑横线的停顿感，所有元素像展览目录或国际机构年鉴一样被克制排布；主文字采用高反差细衬线或等效字形构造，字腔开阔、笔画纤细、端点尖净、节奏疏朗，换成任何文字系统时都保持修长骨架、宽松字距、清晰识别和冷静呼吸，而不是复制某种特定拉丁字体。色彩由主题抽取两枚高纯度代表色做硬边方块，中间标志只用黑线与少量实心几何，背景为轻微纸感温白，避免渐变、阴影和装饰纹理。底部以更低重心放置副标题与小号说明文字，页脚三点式微型信息压住边缘，形成宏大主题被博物馆式留白驯服的反差；失败症状是元素变满、颜色变花、字体变厚、图标写实或海报失去冷峻仪式秩序。
+
+将主题设为“城市公共图书馆开放日”，用于公共文化机构活动主海报：以靛蓝与朱砂红作为两枚高纯度方块色，中央用黑线抽象出展开的书页与门拱，符号组沿纵向中轴从标题下方稳稳落下；主标题置于上半区正中，副标题与日期在下方形成稀疏的两级信息层级，保留大面积温白留白与细黑横线停顿；画幅为竖版 3:4。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2099183233166614915) | 2026-09-13
+
+---
+
+### 🎴 例 7892：好莱坞日食时尚海报
+
+![好莱坞日食时尚海报](../images/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%97%A5%E9%A3%9F%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位受好莱坞风格启发的模特位于镜头更近处，背景是未来主义沙漠中巨大的日食。采用中景拍摄，面部细节清晰可见，身着黑色飘逸服装，沙尘飞扬，长长的戏剧性阴影，橙色与深黑色的电影级调色，IMAX 氛围，高端时尚海报。在右下角添加一个带圆角的画中画截图叠加层，垂直 3:4 宽高比，展示同一模特和环境从略微不同的角度呈现的画面。在嵌入框中，角色必须从头到脚完全可见，优雅站立，整个轮廓清晰可见。叠加层应类似智能手机截图或相机预览，具有微妙的边框和高端编辑风格。超写实，高端时尚摄影，构图简洁。
+
+[English]
+Hollywood-inspired model positioned closer to the camera beneath a massive solar eclipse in a futuristic desert. Medium shot with clear facial details, black flowing outfit, flying sand particles, long dramatic shadows, orange and deep black cinematic color grading, IMAX atmosphere, premium fashion poster. Add a small rounded-corner picture-in-picture screenshot overlay in the bottom-right corner with a vertical 3:4 aspect ratio, showing the same model and environment from a slightly different angle. In the inset frame, the character must be fully visible from head to toe, standing elegantly with the entire silhouette clearly seen. The overlay should resemble a smartphone screenshot or camera preview with subtle borders and premium editorial styling. Ultra-realistic, high-end fashion photography, clean composition.
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2098994021284917485) | 2026-09-13
+
+---
+

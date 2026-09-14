@@ -3465,6 +3465,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7860：时尚广告 4 格拼贴 Prompt](cat-poster.md#-例-7860时尚广告-4-格拼贴-prompt)
 
 - [例 7872：撕纸风格阅读海报](cat-poster.md#-例-7872撕纸风格阅读海报)
+
+- [例 7886：GPT Image 2 极简主义仪式感海报提示词](cat-poster.md#-例-7886gpt-image-2-极简主义仪式感海报提示词)
+
+- [例 7892：好莱坞日食时尚海报](cat-poster.md#-例-7892好莱坞日食时尚海报)
 ---
 
 <a id="photo"></a>
@@ -9209,6 +9213,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7882：复古杂志风肖像拼贴](cat-photo.md#-例-7882复古杂志风肖像拼贴)
 
 - [例 7883：巴黎咖啡馆街头抓拍](cat-photo.md#-例-7883巴黎咖啡馆街头抓拍)
+
+- [例 7885：GPT Image 2 赛博朋克骷髅肖像提示词](cat-photo.md#-例-7885gpt-image-2-赛博朋克骷髅肖像提示词)
+
+- [例 7888：高山湖泊日出人像](cat-photo.md#-例-7888高山湖泊日出人像)
+
+- [例 7889：夜晚街道白裙人像](cat-photo.md#-例-7889夜晚街道白裙人像)
+
+- [例 7890：Y2K 拼贴人像提示词](cat-photo.md#-例-7890y2k-拼贴人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -12954,6 +12966,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7845：文艺复兴风格油画肖像](cat-architecture.md#️-例-7845文艺复兴风格油画肖像)
 
 - [例 7870：编辑级铁线莲花园立体模型](cat-architecture.md#️-例-7870编辑级铁线莲花园立体模型)
+
+- [例 7887：GPT Image 2 提示词：复古粉色搅拌机](cat-architecture.md#️-例-7887gpt-image-2-提示词复古粉色搅拌机)
 ---
 
 <a id="comic"></a>
@@ -15235,6 +15249,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7865：Mondrian Style Storage Cabinet Design](cat-brand.md#️-例-7865mondrian-style-storage-cabinet-design)
 
 - [例 7871：UGC 风格营销面板网格](cat-brand.md#️-例-7871ugc-风格营销面板网格)
+
+- [例 7891：GPT Image 2 黑白纤维流 Logo 提示词](cat-brand.md#️-例-7891gpt-image-2-黑白纤维流-logo-提示词)
 ---
 
 <a id="edit"></a>
