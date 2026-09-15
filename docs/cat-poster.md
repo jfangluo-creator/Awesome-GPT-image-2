@@ -34395,3 +34395,76 @@ Hollywood-inspired model positioned closer to the camera beneath a massive solar
 
 ---
 
+### 🎴 例 7895：禅意东方秋日封面提示词
+
+![禅意东方秋日封面提示词](../images/%E7%A6%85%E6%84%8F%E4%B8%9C%E6%96%B9%E7%A7%8B%E6%97%A5%E5%B0%81%E9%9D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：明亮通透型
+主体内容：一位古风少年旅人站在浅色长阶中段，微微侧身，右手轻持一柄米色油纸伞
+情绪母题：轻松、清朗、秋日明媚感
+场景与意象：红枫叶、白色台阶、晴空蓝背景、少年、少量树影
+构图与空间：9:16 竖版构图，长阶从下方向上延伸形成视觉引导，人物位于中下部，顶部保留大面积干净标题区
+色彩控制：奶白作为高明度基底，枫叶朱红用于落叶和局部点睛，晴空蓝用于远景天空色块，人物服装用浅米白或淡青灰；避免全图脏黄滤镜化
+光线与质感：明亮日光，边缘清晰，轻平面海报感，极轻纸面质感即可
+画幅比例：9:16
+补充要求：整体要明快、通透、有呼吸感，台阶结构要简洁高级，适合做高颜值封面
+```
+
+**来源：** [@Andy](https://x.com/Andy4aicreate/status/2099540020822692265) | 2026-09-14
+
+---
+
+### 🎴 例 7898：中秋排版海报
+
+![中秋排版海报](../images/%E4%B8%AD%E7%A7%8B%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为中秋节创建一张极简、高对比度的排版海报。设计应为单色（白底黑字），并呈现精致的中文字体与英文标签布局。
+
+布局与文本内容：
+1. 顶部区域：突出显示两个巨大的粗衬线体中文字符“月光”。在其左侧，包含小写大写的无衬线字体文本“MID-AUTUMN FESTIVAL”，上方有一条细水平线，随后是两行较小的中文文本：“当月光升起”和“所有的思念都有了归处”。
+2. 中部区域：展示两个大的中文字符“来信”。在这些字符的右侧，放置大写无衬线字体的英文文本“LETTER FROM THE MOON”，通过一条垂直线与一列三个简短的中文短语分隔开：“中秋夜”、“桂香”和“家的方向”。
+3. 底部区域：一条水平线将主体内容与最后一行中等大小的中文文本“把思念寄给圆月”分开。在此之下，位于最底部边缘的是小写大写字母的文本“LETTER FROM THE MOON”。
+
+视觉风格：使用干净、现代的编辑美学。主要中文字体应为厚重优雅的衬线体（宋体风格），而次要文本使用轻量无衬线体。确保充足的负空间以保持平衡的构图。
+
+[English]
+Create a minimalist, high-contrast typography poster for the Mid-Autumn Festival. The design should be monochromatic (black text on a white background) and feature a sophisticated layout of Chinese characters and English labels.
+
+Layout & Text Content:
+1. Top Section: Feature two massive, bold serif-style Chinese characters '月光' (Moonlight). To their left, include small uppercase sans-serif text 'MID-AUTUMN FESTIVAL' above a thin horizontal line, followed by two lines of smaller Chinese text: '当月光升起' and '所有的思念都有了归处'.
+2. Middle Section: Display two large Chinese characters '来信' (Letter/Incoming Mail). To the right of these, place the English text 'LETTER FROM THE MOON' in uppercase sans-serif, separated by a vertical line from a column of three short Chinese phrases: '中秋夜', '桂香', and '家的方向'.
+3. Bottom Section: A horizontal line separates the main body from a final row of medium-sized Chinese text '把思念寄给圆月'. Below this, at the very bottom edge, is the text 'LETTER FROM THE MOON' in small uppercase letters.
+
+Visual Style: Use a clean, modern editorial aesthetic. The primary Chinese font should be a heavy, elegant serif (Songti style), while secondary text uses a light sans-serif. Ensure ample negative space to maintain a balanced composition.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2099466489137107283) | 2026-09-14
+
+---
+
+### 🎴 例 7903：优雅的春分海报
+
+![优雅的春分海报](../images/%E4%BC%98%E9%9B%85%E7%9A%84%E6%98%A5%E5%88%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直双联画构图。上半部分是一张电影感的照片，展示了一位身着飘逸浅绿色汉服、头戴竹帽的女子背影，她正伸手触碰树枝上的白色樱花，身旁站着一匹备好的白马。柔和的阳光透过树木洒下，花瓣飘落。下半部分是大面积的米色纹理纸张留白（liubai）。在右下象限，有一幅精致的小插图或剪影，呼应上方的场景：女子与马在树枝下的微小身影。在这小景旁边是竖排中文文字“春分”，以及一句关于携花漫步的诗句对联。
+
+[English]
+A vertical diptych composition. The top half is a cinematic photograph of a woman in flowing pale green Hanfu and a bamboo hat, seen from behind, reaching up to touch white cherry blossoms on a branch while standing next to a saddled white horse. Soft sunlight filters through the trees with falling petals. The bottom half features a vast expanse of textured beige paper negative space (liubai). In the lower right quadrant, there is a small, delicate illustration or cutout echoing the scene above: the tiny figure of the woman and horse under a branch. Next to this small vignette is vertical Chinese text reading "Spring Equinox" and a poetic couplet about walking with flowers.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2099385632305090994) | 2026-09-14
+
+---
+

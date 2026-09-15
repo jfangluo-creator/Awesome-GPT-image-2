@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (593)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (594)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1179,11 +1179,13 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7875: Galaxy Rail 标题界面](cat-ui.md#️-例-7875galaxy-rail-标题界面)
 
 - [Case 7876: 黄昏时分的动漫列车与富士山](cat-ui.md#️-例-7876黄昏时分的动漫列车与富士山)
+
+- [Case 7897: 巨型东京警用机器人封锁街道](cat-ui.md#️-例-7897巨型东京警用机器人封锁街道)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (119)
+## 📊 [Charts & Infographics](cat-chart.md) (120)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -1409,11 +1411,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 7825: 忠实复刻日本政策信息图](cat-chart.md#-例-7825忠实复刻日本政策信息图)
 
 - [Case 7832: 基于对话的角色形象可视化](cat-chart.md#-例-7832基于对话的角色形象可视化)
+
+- [Case 7896: 污水处理厂信息图](cat-chart.md#-例-7896污水处理厂信息图)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1046)
+## 🎴 [Posters & Cards](cat-poster.md) (1049)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3469,11 +3473,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7886: GPT Image 2 极简主义仪式感海报提示词](cat-poster.md#-例-7886gpt-image-2-极简主义仪式感海报提示词)
 
 - [Case 7892: 好莱坞日食时尚海报](cat-poster.md#-例-7892好莱坞日食时尚海报)
+
+- [Case 7895: 禅意东方秋日封面提示词](cat-poster.md#-例-7895禅意东方秋日封面提示词)
+
+- [Case 7898: 中秋排版海报](cat-poster.md#-例-7898中秋排版海报)
+
+- [Case 7903: 优雅的春分海报](cat-poster.md#-例-7903优雅的春分海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2907)
+## 📷 [Photography & Realistic](cat-photo.md) (2914)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9221,11 +9231,25 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7889: 夜晚街道白裙人像](cat-photo.md#-例-7889夜晚街道白裙人像)
 
 - [Case 7890: Y2K 拼贴人像提示词](cat-photo.md#-例-7890y2k-拼贴人像提示词)
+
+- [Case 7893: 写实冬季人像提示词](cat-photo.md#-例-7893写实冬季人像提示词)
+
+- [Case 7899: 巴黎上空巨人 Prompt](cat-photo.md#-例-7899巴黎上空巨人-prompt)
+
+- [Case 7900: 复古双色丝网印刷肖像](cat-photo.md#-例-7900复古双色丝网印刷肖像)
+
+- [Case 7901: GPT Image 2 提示词：巴黎咖啡馆人像](cat-photo.md#-例-7901gpt-image-2-提示词巴黎咖啡馆人像)
+
+- [Case 7904: 奢华时尚摄影棚肖像](cat-photo.md#-例-7904奢华时尚摄影棚肖像)
+
+- [Case 7906: 数字油画人像](cat-photo.md#-例-7906数字油画人像)
+
+- [Case 7908: 电影感时空穿越城市人像](cat-photo.md#-例-7908电影感时空穿越城市人像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1032)
+## 🎨 [Illustration & Art](cat-illustration.md) (1033)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11275,6 +11299,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7869: 迷幻科幻实验室丝网印刷画](cat-illustration.md#-例-7869迷幻科幻实验室丝网印刷画)
 
 - [Case 7880: 身着传统纱丽的南亚女性](cat-illustration.md#-例-7880身着传统纱丽的南亚女性)
+
+- [Case 7902: 戴蟹壳帽的鸭子](cat-illustration.md#-例-7902戴蟹壳帽的鸭子)
 ---
 
 <a id="character"></a>
@@ -12503,7 +12529,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (235)
+## 🏛️ [Architecture & Space](cat-architecture.md) (236)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12965,11 +12991,13 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7870: 编辑级铁线莲花园立体模型](cat-architecture.md#️-例-7870编辑级铁线莲花园立体模型)
 
 - [Case 7887: GPT Image 2 提示词：复古粉色搅拌机](cat-architecture.md#️-例-7887gpt-image-2-提示词复古粉色搅拌机)
+
+- [Case 7905: 日本城市街景插画提示词](cat-architecture.md#️-例-7905日本城市街景插画提示词)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (278)
+## 🎬 [Comics & Storyboards](cat-comic.md) (280)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13509,11 +13537,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 7773: 电影感哥特萝莉 3x3 动漫剧照](cat-comic.md#-例-7773电影感哥特萝莉-3x3-动漫剧照)
 
 - [Case 7775: 透明窗口 Alpha 演示](cat-comic.md#-例-7775透明窗口-alpha-演示)
+
+- [Case 7907: 真人涂鸦影子提示词](cat-comic.md#-例-7907真人涂鸦影子提示词)
+
+- [Case 7909: 德黑兰老城冒险漫画插画](cat-comic.md#-例-7909德黑兰老城冒险漫画插画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (870)
+## 🏷️ [Brand & Packaging](cat-brand.md) (871)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15248,6 +15280,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7871: UGC 风格营销面板网格](cat-brand.md#️-例-7871ugc-风格营销面板网格)
 
 - [Case 7891: GPT Image 2 黑白纤维流 Logo 提示词](cat-brand.md#️-例-7891gpt-image-2-黑白纤维流-logo-提示词)
+
+- [Case 7894: 高端品牌吉祥物角色生成](cat-brand.md#️-例-7894高端品牌吉祥物角色生成)
 ---
 
 <a id="edit"></a>

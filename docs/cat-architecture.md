@@ -5362,3 +5362,53 @@ A premium photorealistic close-up of a vintage-style pastel pink blender on a mo
 
 ---
 
+### 🏛️ 例 7905：日本城市街景插画提示词
+
+![日本城市街景插画提示词](../images/%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%B8%82%E8%A1%97%E6%99%AF%E6%8F%92%E7%94%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅受参考图像启发的垂直编辑风格插画，以高度风格化的深海军蓝与暖象牙色单色线条艺术美学，描绘一个密集的日本城市街景。
+
+展示一条从高处俯瞰的狭窄日本城市街道，两侧是紧密排列的高楼，包含层叠的店面、阳台、窗户、悬挂招牌、日文排版、电线杆、交错的架空电缆、路灯、遮阳篷、栏杆、自行车以及细小的建筑细节。街道应自然延伸至远方，营造出强烈的纵深感和透视效果。
+
+画面中需包含若干小尺寸的行人自然地穿行于场景中——有人提着包，有人查看手机，有人过马路，有人结伴而行。保持人物形象简化但富有表现力，轮廓清晰，面部细节极简。
+
+所有轮廓线、阴影、招牌、电缆、窗户及建筑细节均使用深靛蓝/海军蓝墨水绘制，与温暖的奶油色/米白色纸张背景形成对比。强烈的图形化阴影和大面积的实心海军蓝色块应营造出大胆的丝网印刷/海报视觉效果。
+
+对于第二个场景，请描绘一个从略微抬高的侧面视角看到的日本火车站站台。展示详细的钢结构屋顶、横梁、电气电缆、架空指示牌、站台标记、瓷砖地面、铁轨、立柱、栏杆、售票区结构，以及几位正在等待或行走时看手机的通勤者。保持相同的视觉语言：精准的建筑线条、简化的人物形象、深海军蓝阴影、奶油色纸张背景以及密集的城市细节。
+
+风格：日本城市速写本 + 建筑墨水插画 + 复古旅行海报 + 丝网印刷 + 漫画风格的环境线条，错综复杂的手绘细节，干净的透视，大胆的留白，略带不完美的墨水质感，精致的编辑构图，怀旧的模拟印刷感。
+
+配色方案：仅使用深海军蓝、柔和的蓝灰色和暖象牙色/奶油色。不使用鲜艳色彩。
+
+构图：高度详细，视觉密集，前景/中景/背景平衡，强烈的消失点，电影般的取景，清晰的线条，微妙的纸张纹理，高端艺术画册插画质感。
+
+宽高比：4:5 纵向。
+
+[English]
+Create a vertical editorial illustration inspired by the reference images, depicting a dense Japanese urban scene in a highly stylized navy-blue and warm ivory monochrome line-art aesthetic.
+
+Show a narrow Japanese city street viewed from an elevated perspective, with tall tightly packed buildings on both sides, layered storefronts, balconies, windows, hanging signs, Japanese typography, utility poles, tangled overhead power cables, street lamps, awnings, railings, bicycles, and small architectural details. The street should lead naturally into the distance, creating strong depth and perspective.
+
+Include several small pedestrians naturally walking through the scene—people carrying bags, checking phones, crossing the street, and walking in pairs. Keep them simplified but expressive, with clean silhouettes and minimal facial detail.
+
+Use deep indigo/navy ink for all outlines, shadows, signs, cables, windows, and architectural details, contrasted against a warm cream/off-white paper background. Strong graphic shadows and large solid navy areas should create a bold screen-print/poster effect.
+
+For the second scene, depict a Japanese railway station platform from a slightly elevated side perspective. Show detailed steel roof structures, beams, electrical cables, overhead signage, platform markings, tiled flooring, railway tracks, columns, railings, ticket-area structures, and several commuters waiting or walking while looking at their phones. Preserve the same visual language: precise architectural linework, simplified human figures, deep navy shadows, cream paper, and dense urban detail.
+
+Style: Japanese urban sketchbook + architectural ink illustration + vintage travel poster + screen printing + manga-inspired environmental linework, intricate hand-drawn details, clean perspective, bold negative space, slightly imperfect ink texture, sophisticated editorial composition, nostalgic analog print feel.
+
+Color palette: only deep navy blue, muted blue-gray, and warm ivory/cream. No bright colors.
+
+Composition: highly detailed, visually dense, balanced foreground/midground/background, strong vanishing points, cinematic framing, crisp linework, subtle paper grain, premium art-book illustration.
+
+Aspect ratio: 4:5 vertical.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2099363471326618061) | 2026-09-14
+
+---
+

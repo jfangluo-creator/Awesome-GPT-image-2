@@ -70198,3 +70198,157 @@ BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.
 
 ---
 
+### 📷 例 7893：写实冬季人像提示词
+
+![写实冬季人像提示词](../images/%E5%86%99%E5%AE%9E%E5%86%AC%E5%AD%A3%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实自然智能手机摄影，竖屏 3:4，一位年轻东亚女性在现代山城建筑外的巨大雪堆中舒适坐着的冬季旅行抓拍肖像。
+她留着中长深棕色头发，扎成两个松散的低马尾，柔和的发丝修饰着脸庞。她戴着一顶蓬松的奶油白冬季帽子，内衬为柔和粉色，脖子上围着一条厚实的超大号粉白条纹围巾，温暖包裹。她拥有自然青春的面部特征，因寒冷而脸颊红润，正对着镜头发出明亮真诚的笑声。
+她身穿温暖的象牙白羽绒服和宽松的奶油白阔腿冬季长裤。手上戴着厚实的棕色针织手套，脚穿舒适的棕褐色冬季雪地靴，靴口有奶油色绒毛装饰。她坐在雪中，双手自然地合拢在膝盖之间，双腿向前伸展。
+新鲜深厚的积雪完全覆盖地面，在她周围形成巨大的柔软雪堆。雪花在空中轻轻飘落，在她的衣物和背景中可见细小的雪花。
+她身后是一栋被部分积雪覆盖的现代多层建筑，具有深色金属外部楼梯、大窗户、绿色店面遮阳篷、户外自动售货机、栏杆、光秃的冬季树木，以及沿着物业边缘堆积的厚雪。
+柔和的阴天冬季日光，寒冷的雪景氛围，逼真的雪的纹理，微妙的阴影，自然的环境照明，宁静的雪度假场景。
+RAW 格式智能手机摄影美学，超写实的皮肤纹理，自然的面部细节，逼真的发丝，真实的冬季服装质感，物理准确的雪，真实的人体比例，自然的抓拍姿势，轻微的智能手机镜头柔焦效果，无美颜滤镜，无塑料感皮肤，无 CGI 外观，高度详细的环境，真实的冬季旅行摄影，竖屏 3:4 构图。
+
+[English]
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid winter travel portrait of a young East Asian woman sitting comfortably in a huge snowbank outside a modern mountain-town building.
+She has medium-length dark brown hair styled in two loose low pigtails with soft strands framing her face. She wears a fluffy cream-white winter hat with a soft pink inner lining and a thick oversized pink-and-white striped scarf wrapped warmly around her neck. She has natural youthful features, rosy cheeks from the cold, and a bright genuine laugh while looking directly at the camera.
+She is dressed in a warm ivory-white puffer jacket and loose cream-white wide-leg winter pants. She wears thick brown knitted gloves and cozy tan winter snow boots with cream-colored fleece cuffs. Her hands are clasped together naturally between her knees while she sits in the snow, with both legs extending forward.
+Fresh deep snow completely covers the ground, forming large soft snowdrifts around her. Snowflakes are gently falling through the air, with small flakes visible against her clothing and in the background.
+Behind her is a modern multi-story building partially covered in snow, featuring dark metal exterior staircases, large windows, green storefront awnings, outdoor vending machines, railings, bare winter trees, and thick accumulated snow along the edges of the property.
+Soft overcast winter daylight, cool snowy atmosphere, realistic snow texture, subtle shadows, natural ambient lighting, peaceful snowy vacation setting.
+RAW smartphone photography aesthetic, ultra-realistic skin texture, natural facial details, realistic hair strands, authentic winter clothing textures, physically accurate snow, realistic proportions, natural candid pose, slight smartphone lens softness, no beauty filter, no plastic skin, no CGI appearance, highly detailed environment, authentic winter travel photography, vertical 3:4 composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2099634726416101620) | 2026-09-14
+
+---
+
+### 📷 例 7899：巴黎上空巨人 Prompt
+
+![巴黎上空巨人 Prompt](../images/%E5%B7%B4%E9%BB%8E%E4%B8%8A%E7%A9%BA%E5%B7%A8%E4%BA%BA%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感超现实时尚摄影作品，画面中一位二十岁出头、英俊非凡的年轻男子以巨大的体型随意地坐在巴黎上空的高处，整座城市在他脚下显得渺小遥远。他拥有一头浓密自然的乌黑波浪卷发，略带凌乱却富有层次感；眉毛浓密且轮廓分明；深邃迷人的深棕色眼睛；挺括雕塑般的鼻子；高颧骨；棱角分明的男性下颌线；以及淡淡的自然胡茬。
+
+他身穿一件奢华的午夜蓝麂皮飞行员夹克，内搭挺括的象牙白衬衫，下身是剪裁考究的炭灰色阔腿长裤，脚踩高品质黑色皮革切尔西靴。整体造型呈现现代欧洲奢华街头风格，精致而阳刚，与参考服装完全不同。
+
+他以放松自信的姿态坐在一座宏伟的历史石质屋顶上，一只巨大的靴子夸张地伸向镜头前景，营造出极端的强制透视巨人效果。另一条腿自然地垂在边缘附近。一只手臂随意地搭在抬起的膝盖上，目光平静而自信地望向地平线方向。
+
+在他下方远处，巴黎全景铺展在整个背景中，埃菲尔铁塔在远方清晰可见，奥斯曼式建筑、林荫大道、微小的汽车、公交车和行人进一步凸显了他巨大的体型。温暖的午后阳光，湛蓝的天空点缀着柔和的云彩，真实的大气雾霭与景深感。
+
+低角度超广角视角，戏剧性的前景靴子，逼真的巨型比例错觉，电影级构图，奢华时尚杂志摄影风格，照片级真实的皮肤纹理与毛孔，根根分明的发丝细节，真实的织物与麂皮质感，自然阴影，物理准确的光照，8K HDR，高动态范围，锐利的面部细节，精致的色彩分级，24mm 广角镜头，极致细节，无面部或手部畸变，无文字，无水印。
+
+[English]
+Ultra-realistic cinematic surreal fashion photograph of a strikingly handsome young man in his early 20s sitting casually at an enormous giant scale high above Paris, with the entire city far below him. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble.
+He wears a luxurious midnight-blue suede bomber jacket, layered over a crisp ivory shirt, tailored charcoal-gray wide-leg trousers, and premium black leather Chelsea boots. Modern European luxury streetwear, sophisticated and masculine, completely different from the reference outfit.
+He is sitting in a relaxed, confident pose on a grand historic stone rooftop, with one enormous boot extending dramatically toward the camera in extreme foreground, creating an exaggerated forced-perspective giant effect. His other leg rests naturally near the edge. One arm rests casually on his raised knee while he looks slightly toward the horizon with a calm, confident expression.
+Far below, Paris stretches across the entire background, with the Eiffel Tower clearly visible in the distance, Haussmannian buildings, tree-lined avenues, tiny cars, buses and pedestrians emphasizing his gigantic scale. Warm late-afternoon sunlight, brilliant blue sky with soft clouds, realistic atmospheric haze and depth.
+Low-angle ultra-wide perspective, dramatic foreground boot, realistic giant-scale illusion, cinematic composition, luxury fashion editorial photography, photorealistic skin texture and pores, individually detailed hair strands, realistic fabric and suede texture, natural shadows, physically accurate lighting, 8K HDR, high dynamic range, sharp facial details, sophisticated color grading, 24mm wide-angle lens, extremely detailed, no distortion of face or hands, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2099425293278577009) | 2026-09-14
+
+---
+
+### 📷 例 7900：复古双色丝网印刷肖像
+
+![复古双色丝网印刷肖像](../images/%E5%A4%8D%E5%8F%A4%E5%8F%8C%E8%89%B2%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅采用复古双色丝网印刷海报风格的数字图形插画。画面为模特的垂直特写肖像，深色长发动态地掠过她的脸庞。作品融合了漫画艺术和雕刻风格，利用精细的墨线勾勒面部特征、眼睛和嘴唇。引人注目的有限色彩调色板由青色和焦橙色组成，背景为带有纹理的陈旧纸张效果，右侧饰有抽象排版条带。图像呈现出现代独立海报美学、高对比度以及做旧的印刷质感。
+
+[English]
+A digital graphic illustration in a retro, duotone, screen-printed poster style. A vertical close-up portrait of the model, featuring long strands of dark hair sweeping dynamically across her face. It combines comic book art and engraving styles, utilizing detailed ink lines to define facial features, eyes, and lips. The striking, limited color palette consists of cyan and burnt orange set against a textured, aged-paper background, with bands of abstract typography on the right. The image features a modern indie poster aesthetic, high contrast, and a distressed print texture.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2099418877234950383) | 2026-09-14
+
+---
+
+### 📷 例 7901：GPT Image 2 提示词：巴黎咖啡馆人像
+
+![GPT Image 2 提示词：巴黎咖啡馆人像](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E5%B7%B4%E9%BB%8E%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的东亚年轻女性坐在户外一家温馨、质朴的巴黎咖啡馆桌旁。她留着长长的波浪状棕色头发，梳成半扎发型，并用一个大号米色缎带蝴蝶结系住。她用手托着下巴，带着柔和自然的妆容，若有所思地望向远方。她身穿一件奶油色罗纹针织开衫毛衣和一条棕色格纹复古半身裙。深色圆形木桌上放着一束用新闻纸包裹的赤陶橙色菊花和一本打开的杂志。温暖的午后黄金时刻阳光在背景中营造出柔和的光晕和散景效果。电影感摄影，浅景深，暖色调，美学风格，高分辨率，8k。
+
+[English]
+A beautiful East Asian young woman sitting outdoors at a cozy, rustic Parisian cafe table. She has long, wavy brown hair styled in a half-updo tied with a large beige satin ribbon bow. She rests her chin on her hand, looking thoughtfully into the distance with gentle, natural makeup. She is wearing a cream-colored ribbed knit cardigan sweater and a brown plaid vintage skirt. On the dark round wooden table sits a bouquet of terracotta-orange chrysanthemums wrapped in newsprint paper and an open magazine. Warm late-afternoon golden hour sunlight creates soft glows and bokeh in the background. Cinematic photography, shallow depth of field, warm color palette, aesthetic, high resolution, 8k.
+```
+
+**来源：** [@Julia](https://x.com/juliaevee/status/2099402030057951331) | 2026-09-14
+
+---
+
+### 📷 例 7904：奢华时尚摄影棚肖像
+
+![奢华时尚摄影棚肖像](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张高度逼真的全身摄影棚肖像，主角是一位优雅的成年女性，身穿精致的黑色长袖正式中长裙，具有修身腰身、优质面料和微妙纹理。佩戴极简珠宝，穿着优雅的尖头高跟鞋，头发光滑整洁，妆容自然柔和，表情自信温和。背景为奢华时尚摄影棚，采用柔和漫射光，呈现真实皮肤质感、自然比例、电影级杂志摄影风格，使用 85mm 镜头，超细节，8K 分辨率，无文字，无水印。
+
+[English]
+Create a highly photorealistic full-body studio portrait of an elegant adult woman wearing a sophisticated black midi formal dress with long sleeves, a tailored waist, premium fabric, and subtle texture. Minimal jewelry, elegant pointed heels, sleek polished hair, soft natural makeup, confident gentle expression. Luxury fashion studio backdrop, soft diffused lighting, realistic skin texture, natural proportions, cinematic editorial photography, 85mm lens, ultra-detailed, 8K, no text, no watermark.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2099370474455396482) | 2026-09-14
+
+---
+
+### 📷 例 7906：数字油画人像
+
+![数字油画人像](../images/%E6%95%B0%E5%AD%97%E6%B2%B9%E7%94%BB%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅高度精细的数字油画风格肖像，描绘了一位粗犷英俊的男子。使用图像作为面部参考，他戴着浅绿色椭圆形太阳镜，配有细银色镜框。自然的微笑，神情若有所思，直视观众。他在深色粗犷夹克内穿着一件略微敞开的白色或浅灰色翻领衬衫。头肩构图，居中取景，写实的面部解剖结构，富有表现力的眼睛，自然的皮肤纹理，温暖的肤色，戏剧性的柔和光线，绘画般的笔触，面部和衣物上可见明显的纹理笔触。背景为柔和抽象垂直形状的冷灰蓝色建筑场景，浅景深，电影般的氛围，精致的人物研究肖像，写实而具有绘画感，高细节，柔和边缘，微妙的高光，4K 数字艺术作品。
+
+[English]
+A highly detailed digital oil-painting style portrait of a rugged, handsome man use image for face reference with wearing light green oval sunglasses with thin silver frame .Natural smile thoughtful expression, looking directly at the viewer. He is wearing a slightly open white/light-gray collared shirt underneath a dark rugged jacket. Head-and-shoulders composition, centered framing, realistic facial anatomy, expressive eyes, natural skin texture, warm skin tones, dramatic soft lighting, painterly brush strokes, visible textured strokes throughout the face and clothing. Muted cool gray-blue architectural background with soft abstract vertical shapes, shallow depth of field, cinematic atmosphere, sophisticated character-study portrait, realistic yet painterly, high detail, soft edges, subtle highlights, 4K digital artwork.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2099350239698428169) | 2026-09-14
+
+---
+
+### 📷 例 7908：电影感时空穿越城市人像
+
+![电影感时空穿越城市人像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%B6%E7%A9%BA%E7%A9%BF%E8%B6%8A%E5%9F%8E%E5%B8%82%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感奇幻摄影作品，画面中一位二十岁出头、容貌出众的英俊年轻男子自信地穿行于一座令人叹为观止的城市，多条历史时间线在同一条街道上无缝交织。他拥有一头浓密自然的乌黑波浪卷发，略带凌乱的蓬松感；眉毛浓密且轮廓分明；深邃富有表现力的深棕色双眸；挺直雕塑般的鼻梁；高颧骨；棱角分明的男性下颌线；以及若隐若现的自然胡茬。他身着一件精致的深色现代长款大衣，带有优雅的复古细节设计，搭配剪裁合体的黑色长裤、皮靴和经典腕表。
+他周围的城市被划分为重叠的时间线：古老的罗马风格街道，大理石柱和石砌建筑逐渐融入拥有城堡和马车的中世纪欧洲集市，进而过渡到点缀着煤气灯和优雅建筑的维多利亚时代大道，而背景中则耸立着未来的摩天大楼和发光的霓虹全息招牌。来自不同世纪的人们自然地在他周围行走，营造出一种时间碰撞的超现实景象。一个神秘的发光时空传送门在他身后闪烁，空气中漂浮着微妙的金色粒子和钟表机械碎片。
+戏剧性的黄金时刻光线与冷色调的未来派霓虹光混合，体积光效，大气雾霭，电影级景深，湿润鹅卵石路面上的逼真反射，错综复杂的历史建筑，高度细节化的面料和皮肤纹理，自然的面部比例，照片级真实感，8K HDR，超高细节，85mm 镜头，浅景深，史诗般的电影构图，写实摄影，无文字，无水印，无 AI 生成的面部特征。
+
+[English]
+Ultra-realistic cinematic fantasy photograph of a strikingly handsome young man in his early 20s walking confidently through a breathtaking city where multiple historical eras seamlessly overlap in the same street. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark modern long coat with elegant vintage-inspired details, tailored black trousers, leather boots, and a classic wristwatch.
+The city around him is divided into overlapping timelines: an ancient Roman-style street with marble columns and stone buildings merging into a medieval European marketplace with castles and horse-drawn carriages, blending into a Victorian-era boulevard with gas lamps and elegant architecture, while futuristic skyscrapers and glowing holographic signs rise in the background. People from different centuries walk naturally around him, creating a surreal collision of time periods. A mysterious glowing temporal portal shimmers behind him, with subtle golden particles and fragments of clockwork floating through the air.
+Dramatic golden-hour lighting mixed with cool futuristic neon, volumetric light rays, atmospheric mist, cinematic depth, realistic reflections on wet cobblestones, intricate historical architecture, highly detailed fabrics and skin texture, natural facial proportions, photorealistic, 8K HDR, ultra-detailed, 85mm lens, shallow depth of field, epic cinematic composition, realistic photography, no text, no watermark, no AI-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2099321585345958267) | 2026-09-14
+
+---
+

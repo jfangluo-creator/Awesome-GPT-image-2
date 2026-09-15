@@ -10211,3 +10211,55 @@ Create a clean demonstration image on a black canvas showing a white-framed four
 
 ---
 
+### 🎬 例 7907：真人涂鸦影子提示词
+
+![真人涂鸦影子提示词](../images/%E7%9C%9F%E4%BA%BA%E6%B6%82%E9%B8%A6%E5%BD%B1%E5%AD%90%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考图像作为严格的身份和服装参考。准确保留面部、五官特征、肤色、发型、发色、配饰、服装以及整体氛围。
+创作一幅高质量垂直比例（4:5 或 9:16）的混合媒介肖像，包含：
+一个写实的全身体现人物。旁边墙上有一个该人物的黑色手绘涂鸦影子。
+
+真人应显得可爱、略带尴尬、俏皮，并在每次生成时自然地模仿一个新的随机顽皮姿势。涂鸦影子应以更夸张、混乱、卡通化的方式执行相同的姿势创意，并带有漫画动感线、星星、爱心和闪光效果。
+
+使用干净的白色/奶油色工作室墙面，极简背景，柔和的自然光，并确保两个人物完全可见。涂鸦影子应通过发型、配饰、服装轮廓和姿势清晰地与真人相似。
+
+负面提示词：服装变化、身份变化、写实的第二个人物、正常阴影、恐怖、动漫人类、杂乱背景、重复的指向或手指枪姿势、僵硬姿势、多余的肢体/手指、扭曲的身体、文字、水印、标志、AI 伪影。
+
+[English]
+Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.
+Create a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:
+A realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.
+
+The real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.
+
+Use a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.
+
+Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.
+```
+
+**来源：** [@Sarmad Tahir](https://x.com/itxsarmadd/status/2099334317306761376) | 2026-09-14
+
+---
+
+### 🎬 例 7909：德黑兰老城冒险漫画插画
+
+![德黑兰老城冒险漫画插画](../images/%E5%BE%B7%E9%BB%91%E5%85%B0%E8%80%81%E5%9F%8E%E5%86%92%E9%99%A9%E6%BC%AB%E7%94%BB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅采用经典冒险漫画和图像小说风格的数字插画。在右侧前景中，模型完全按照附图呈现——保持相同的姿势和服装——自信地看向镜头。场景设定在德黑兰老城阳光明媚的街道上，特色包括石质建筑、陶罐和一扇巨大的木门。高对比度的日光与锐利的阴影；温暖的大地色调配以蓝绿色点缀。细致的墨线勾勒与电影般的氛围。请使用以下配色方案：建筑和阴影以沙色和浅赭石色 (#D9C3A3) 为主的温暖大地色调，以及深棕色 (#593E2F) 的建筑阴影；人物服装采用冷调钢蓝色/绿松石色点缀 (#3A6B7E)；天空为尘土蓝 (#7DA0B2)。高对比度日光。
+
+[English]
+A digital illustration in the style of classic adventure comics and graphic novels. In the right foreground, the model appears exactly as in the attached image—maintaining the same pose and outfit—looking confidently toward the camera. The setting is a sunlit street in Tehran's Old City, featuring stone buildings, clay vessels, and a large wooden door. High-contrast daylight with sharp shadows; a warm, earthy color palette with bluish accents. Detailed ink lines and a cinematic atmosphere. Use the following color palette: warm, earthy tones dominated by sand and light ochre (#D9C3A3) on the buildings and deep browns (#593E2F) for architectural shadows; cool steel-blue/greenish accents (#3A6B7E) on the character's clothing; ; and a dusty blue sky (#7DA0B2). High-contrast daylight.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2099304121149125089) | 2026-09-14
+
+---
+
