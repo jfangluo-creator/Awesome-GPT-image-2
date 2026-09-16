@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (594)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (595)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1181,11 +1181,13 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7876: 黄昏时分的动漫列车与富士山](cat-ui.md#️-例-7876黄昏时分的动漫列车与富士山)
 
 - [Case 7897: 巨型东京警用机器人封锁街道](cat-ui.md#️-例-7897巨型东京警用机器人封锁街道)
+
+- [Case 7923: 九角度风格化男性头像网格](cat-ui.md#️-例-7923九角度风格化男性头像网格)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (120)
+## 📊 [Charts & Infographics](cat-chart.md) (121)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -1413,11 +1415,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 7832: 基于对话的角色形象可视化](cat-chart.md#-例-7832基于对话的角色形象可视化)
 
 - [Case 7896: 污水处理厂信息图](cat-chart.md#-例-7896污水处理厂信息图)
+
+- [Case 7910: 奇幻制图师与爱犬](cat-chart.md#-例-7910奇幻制图师与爱犬)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1049)
+## 🎴 [Posters & Cards](cat-poster.md) (1050)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3479,11 +3483,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7898: 中秋排版海报](cat-poster.md#-例-7898中秋排版海报)
 
 - [Case 7903: 优雅的春分海报](cat-poster.md#-例-7903优雅的春分海报)
+
+- [Case 7922: 巴黎咖啡馆复古人像](cat-poster.md#-例-7922巴黎咖啡馆复古人像)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2914)
+## 📷 [Photography & Realistic](cat-photo.md) (2923)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9245,11 +9251,29 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7906: 数字油画人像](cat-photo.md#-例-7906数字油画人像)
 
 - [Case 7908: 电影感时空穿越城市人像](cat-photo.md#-例-7908电影感时空穿越城市人像)
+
+- [Case 7912: 蒙马特漫画肖像](cat-photo.md#-例-7912蒙马特漫画肖像)
+
+- [Case 7914: 电影感日落海滩人像](cat-photo.md#-例-7914电影感日落海滩人像)
+
+- [Case 7916: 黄金时刻人像拼贴提示词](cat-photo.md#-例-7916黄金时刻人像拼贴提示词)
+
+- [Case 7917: 南亚女性肖像提示词](cat-photo.md#-例-7917南亚女性肖像提示词)
+
+- [Case 7918: 帅气男士电影感肖像提示词](cat-photo.md#-例-7918帅气男士电影感肖像提示词)
+
+- [Case 7919: 南亚新娘 Lehenga 肖像](cat-photo.md#-例-7919南亚新娘-lehenga-肖像)
+
+- [Case 7920: 电影感男性人像参考](cat-photo.md#-例-7920电影感男性人像参考)
+
+- [Case 7921: 雨天咖啡馆人像提示词](cat-photo.md#-例-7921雨天咖啡馆人像提示词)
+
+- [Case 7925: GPT Image 2 提示词：时尚杂志剪贴簿](cat-photo.md#-例-7925gpt-image-2-提示词时尚杂志剪贴簿)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1033)
+## 🎨 [Illustration & Art](cat-illustration.md) (1034)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11301,11 +11325,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7880: 身着传统纱丽的南亚女性](cat-illustration.md#-例-7880身着传统纱丽的南亚女性)
 
 - [Case 7902: 戴蟹壳帽的鸭子](cat-illustration.md#-例-7902戴蟹壳帽的鸭子)
+
+- [Case 7924: 弥敦道上的可爱水彩女孩](cat-illustration.md#-例-7924弥敦道上的可爱水彩女孩)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (249)
+## 🧍 [Character Design](cat-character.md) (250)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11789,6 +11815,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7873: 写实蜂蜜色调美妆肖像](cat-character.md#-例-7873写实蜂蜜色调美妆肖像)
 
 - [Case 7884: 带有涂鸦墙绘的写实生活照](cat-character.md#-例-7884带有涂鸦墙绘的写实生活照)
+
+- [Case 7913: 双联肖像画](cat-character.md#-例-7913双联肖像画)
 ---
 
 <a id="3d"></a>
@@ -12529,7 +12557,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (236)
+## 🏛️ [Architecture & Space](cat-architecture.md) (238)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -12993,6 +13021,10 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7887: GPT Image 2 提示词：复古粉色搅拌机](cat-architecture.md#️-例-7887gpt-image-2-提示词复古粉色搅拌机)
 
 - [Case 7905: 日本城市街景插画提示词](cat-architecture.md#️-例-7905日本城市街景插画提示词)
+
+- [Case 7911: 手工纸插画](cat-architecture.md#️-例-7911手工纸插画)
+
+- [Case 7915: 写实专业头像提示词](cat-architecture.md#️-例-7915写实专业头像提示词)
 ---
 
 <a id="comic"></a>

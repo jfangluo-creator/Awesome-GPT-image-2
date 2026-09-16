@@ -34468,3 +34468,21 @@ A vertical diptych composition. The top half is a cinematic photograph of a woma
 
 ---
 
+### 🎴 例 7922：巴黎咖啡馆复古人像
+
+![巴黎咖啡馆复古人像](../images/%E5%B7%B4%E9%BB%8E%E5%92%96%E5%95%A1%E9%A6%86%E5%A4%8D%E5%8F%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张垂直构图的全景照片，展示了一位时尚的年轻东亚女性坐在复古户外咖啡馆的桌旁，低头看着一本打开的杂志，面带柔和的微笑。她身穿一件米色长袖罗纹开衫和一条长款多色棕色格纹百褶裙。她的棕色长卷发半扎起，系着一个米色蝴蝶结。圆形木桌上放着一束用报纸包裹的铁锈橙色干花。她脚穿米色高跟鞋，坐在一把木椅上。背景是深色巴黎风格咖啡馆的外立面，温暖的室内灯光透过玻璃散发出来，柔和的自然日光，怀旧氛围，细节丰富，写实风格，8k 分辨率。
+
+[English]
+A vertical, full-body photograph of a stylish young East Asian woman sitting at a vintage outdoor café table, looking down at an open magazine with a soft smile. She is wearing a cream-colored long-sleeved ribbed cardigan and a long, pleated multi-colored brown plaid skirt. Her long wavy brown hair is half-up in a beige bow. On the round wooden table sits a bouquet of dried rust-orange flowers wrapped in newspaper. She wears cream-colored high heels, seated on a wooden chair. The background features a dark Parisian-style café exterior with warm indoor lights glowing through the glass, soft natural daylight, nostalgic atmosphere, highly detailed, photorealistic, 8k resolution.
+```
+
+**来源：** [@Julia](https://x.com/juliaevee/status/2099684987511648391) | 2026-09-15
+
+---
+

@@ -70352,3 +70352,282 @@ Dramatic golden-hour lighting mixed with cool futuristic neon, volumetric light 
 
 ---
 
+### 📷 例 7912：蒙马特漫画肖像
+
+![蒙马特漫画肖像](../images/%E8%92%99%E9%A9%AC%E7%89%B9%E6%BC%AB%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的人像照片作为主要身份参考。尽可能准确地保留人物可识别的面部特征，包括脸型、显性年龄、发际线或发型、眉毛、眼型、鼻子、嘴巴、下颌线、花白胡须图案、肤色、表情以及整体个性特征。
+
+在巴黎蒙马特一个安静迷人的角落，创建一个电影级、写实的 4:3 比例肖像场景。展示与上传照片中相同的人物，坐在或站在一条宁静旅游街道上的经典巴黎咖啡馆外。场景应呈现出真实的蒙马特氛围，包含鹅卵石街道、古老的奶油色建筑、咖啡椅、红色咖啡遮阳篷、柔和的日光、艺术街头气息，以及背景中隐约可见的圣心大教堂（Sacré-Cœur）。
+
+人物应在画面中清晰可见，并以写实风格拍摄，穿着简单的深色衬衫或夹克。他身旁拿着一块大的白色画板，面向镜头。
+
+纸上绘有同一人物的夸张法国街头漫画，采用蒙马特旅游艺术家经典的旧式风格绘制。漫画应呈现为在白纸上使用黑色墨水或钢笔线条手绘的效果。它应当被戏剧性地夸张和幽默化，同时保持清晰可辨为同一个人物。
+
+戏剧性地突出面部特征：过大或形状奇特的鼻子、夸张的下颌线、放大的耳朵、富有表现力的眉毛、扭曲的面部比例、宽阔顽皮的微笑、强烈强调的胡须形状，以及俏皮、极致的表情。保持漫画迷人、有趣且具有艺术感，而非怪诞。
+
+重要提示：在单张图片中清晰展示两个版本：
+
+真实、写实的人物
+纸上同一人物的漫画绘图
+
+使用逼真的光照、干净的构图、高细节、自然的皮肤纹理、可信的手持纸张动作、平静的背景，以及俏皮的复古巴黎旅游纪念品氛围。
+
+宽高比：4:3。
+
+[English]
+Use the uploaded portrait photo as the primary identity reference. Preserve the person’s recognizable facial identity as accurately as possible, including their face shape, apparent age, receding hairline or hairstyle, eyebrows, eye shape, nose, mouth, jawline, salt and pepper beard pattern, skin tone, expression, and overall individual character.
+
+Create a cinematic, photorealistic 4:3 portrait scene in a quiet, charming corner of Montmartre, Paris. Show the same person from the uploaded photograph sitting or standing outside a classic Parisian café on a peaceful tourist street. The setting should feel authentically Montmartre, with a cobblestone street, old cream-colored buildings, café chairs, a red café awning, soft daylight, an artistic street atmosphere, and the Sacré-Cœur softly visible in the background.
+
+The person should be clearly visible within the frame and photographed realistically, wearing a simple dark shirt or jacket. He holds a large white drawing pad beside him, facing the camera.
+
+The paper features an exaggerated French street caricature of the same person, drawn in the classic old-school style of a Montmartre tourist artist. The caricature should appear hand-drawn using black ink or pen lines on white paper. It should be dramatically exaggerated and humorous while remaining clearly recognizable as the same person.
+
+Push the facial features theatrically: an oversized or unusually shaped nose, an exaggerated jawline, enlarged ears, expressive eyebrows, distorted facial proportions, a broad mischievous smile, a strongly emphasized beard shape, and a playful, over-the-top expression. Keep the caricature charming, funny, and artistic rather than grotesque.
+
+Important: clearly show both versions within a single image:
+
+The real, photorealistic person
+The caricature drawing of the same person on the paper
+
+Use realistic lighting, a clean composition, high detail, natural skin texture, believable hands holding the paper, a calm background, and a playful vintage Parisian tourist-souvenir atmosphere.
+
+Aspect ratio: 4:3.
+```
+
+**来源：** [@Shine by Nous ✨](https://x.com/Shinebynous/status/2099887409257177093) | 2026-09-15
+
+---
+
+### 📷 例 7914：电影感日落海滩人像
+
+![电影感日落海滩人像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%A5%E8%90%BD%E6%B5%B7%E6%BB%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感日落人像，画面中一位二十岁出头、英俊非凡的年轻男子站在黄金时刻的宁静海滩上，采用与参考构图相似的侧后方四分之三视角拍摄。他拥有一头浓密自然的黑色波浪卷发，略显凌乱，在海风中自由飘动；眉毛浓密且轮廓分明，深褐色的双眸深邃迷人，鼻梁挺直如雕塑般精致，颧骨突出，下颌线锋利而充满男性魅力，脸上带着淡淡的自然胡茬。他神情若有所思且神秘，平静地凝视着海面上发光的落日。
+他身穿一件优雅的宽松米白色亚麻衬衫，领口微微敞开，搭配剪裁合体的休闲米色长裤，轻盈的面料随海风自然摆动。他的姿态放松而自信，一侧肩膀微微转向镜头。温暖的夕阳余晖在他的头发和肩膀周围勾勒出美丽的金色轮廓光。
+在他身后，柔和的海浪涌向安静的沙滩，反射着橙金色的阳光。天空中布满了戏剧性的柔和粉色、桃色、薰衣草紫和暖橙色云朵。电影般的氛围雾霭、自然的皮肤纹理、逼真的发丝细节、微妙的风吹动态、浅景深、柔和的背景虚化、逼真的海面倒影、精致的编辑类摄影风格、情感丰富且梦幻的氛围、85mm 镜头、f/1.8 光圈、HDR、超高细节、8K 分辨率、写实摄影、自然色彩分级、无人工感的皮肤、无文字、无水印。
+
+[English]
+Ultra-realistic cinematic sunset portrait of a strikingly handsome young man in his early 20s standing on a peaceful beach at golden hour, captured from a three-quarter rear profile similar to the reference composition. He has thick naturally wavy jet-black hair, slightly tousled and flowing freely in the ocean breeze, strong well-defined eyebrows, deep dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He gazes calmly toward the glowing sunset over the ocean with a thoughtful, mysterious expression.
+He wears an elegant loose cream-white linen shirt, slightly open at the collar, with relaxed tailored beige trousers, the lightweight fabric naturally moving in the sea breeze. His posture is relaxed and confident, one shoulder subtly turned toward the camera. Warm sunset light creates a beautiful golden rim light around his hair and shoulders.
+Behind him, gentle ocean waves roll toward a quiet sandy beach, reflecting the orange-gold sunlight. The sky is filled with dramatic soft pink, peach, lavender, and warm orange clouds. Cinematic atmospheric haze, natural skin texture, realistic hair strands, subtle wind movement, shallow depth of field, soft bokeh, photorealistic ocean reflections, sophisticated editorial photography, emotional and dreamy mood, 85mm lens, f/1.8, HDR, ultra-detailed, 8K, realistic photography, natural color grading, no artificial-looking skin, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2099802724078629360) | 2026-09-15
+
+---
+
+### 📷 例 7916：黄金时刻人像拼贴提示词
+
+![黄金时刻人像拼贴提示词](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E4%BA%BA%E5%83%8F%E6%8B%BC%E8%B4%B4%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{
+"face": {
+"preserve_original": true,
+"reference_match": true,
+"description": "Maintain the same facial structure, skin tone, eye shape, and natural expressions across all frames, with consistent identity in each pose."
+},
+
+"photo_style": {
+"type": "golden hour portrait collage",
+"camera_angle": "varied close-up and medium portrait angles",
+"lighting": "warm golden hour sunlight casting soft window shadows",
+"mood": "soft, calm, intimate, aesthetic",
+"texture": "natural skin texture, soft highlights, gentle contrast",
+"focus": "sharp focus on face with smooth background falloff"
+},
+
+"subject": {
+"poses": [
+"looking upward toward light",
+"soft smile facing camera",
+"side profile with downward gaze",
+"over-the-shoulder glance",
+"direct close-up with relaxed lips",
+"hand in hair casual pose",
+"head tilted back toward light",
+"clean side profile portrait",
+"thoughtful pose with hand near chin"
+],
+"expression": "natural, minimal, relaxed, emotionally subtle",
+"hair": {
+"style": "long straight hair worn loose",
+"color": "light to medium brown",
+"details": "natural shine with soft light highlights"
+},
+"clothing": {
+"type": "casual minimalist outfit",
+"details": "simple dark t-shirt with no visible branding"
+}
+},
+
+"composition": {
+"layout": "3x3 grid collage",
+"consistency": "uniform lighting and background across all frames",
+"framing": "clean portrait framing with slight pose variation"
+},
+
+"environment": {
+"setting": "indoor space near a window",
+"background": "plain wall with warm sunlight and shadow patterns",
+"atmosphere": "quiet, minimal, artistic indoor ambiance"
+},
+
+"aesthetic": {
+"style": "Instagram aesthetic portrait set",
+"features": [
+"golden hour light",
+"window shadow patterns",
+"minimal makeup",
+"natural expressions",
+"clean editorial portrait look"
+]
+}
+}
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2099733908011282670) | 2026-09-15
+
+---
+
+### 📷 例 7917：南亚女性肖像提示词
+
+![南亚女性肖像提示词](../images/%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位迷人的年轻南亚女性优雅地坐在窗边，沐浴在柔和的自然阳光下。她留着中分的长直深棕色秀发，几缕发丝轻柔地修饰着脸庞；拥有富有表现力的杏仁状棕色眼睛、柔和自然的眉毛、精致的鼻子和一抹美丽含蓄的微笑。她身穿一件华丽的红粉相间花卉印花传统印度 lehenga choli（长裙上衣套装），搭配无袖上衣，一条相配的花卉图案 dupatta（披肩）优雅地垂搭在颈部并覆盖在一侧肩膀上，佩戴着精致的传统银色 jhumka（铃铛形耳环）。
+她以放松而优雅的姿势坐着，身体微微转向镜头，一只手臂自然放置，目光直视镜头，带着温柔迷人的微笑。皮肤呈现自然光泽，妆容极简，嘴唇呈柔和粉色，面部细节逼真。
+背景是一个明亮舒适的阳台或窗边区域，配有奶油色墙壁、深色窗框、绿叶植物以及美丽的温暖日光。柔和的阳光自然地洒在她的脸上和头发上，电影感摄影，浅景深，奶油般柔美的散景效果，逼真的皮肤纹理，DSLR 人像摄影，85mm 镜头，f/1.8 光圈，高细节，自然色彩，超写实，4K 画质，时尚编辑风格人像，垂直构图，9:16 宽高比。
+重要提示：保持与参考图像相同的整体构图、坐姿、服装风格、发型、光线和自然美感
+
+[English]
+A stunning young South Asian woman sitting gracefully near a window in soft natural sunlight. She has long, silky, dark brown hair with a middle part, gentle face framing strands, expressive almond-shaped brown eyes, soft natural eyebrows, a delicate nose, and a beautiful subtle smile. She is wearing a gorgeous red and pink floral printed traditional Indian lehenga choli with a sleeveless blouse, a matching floral dupatta draped elegantly around her neck and over one shoulder, and delicate traditional silver jhumka earrings.
+She is sitting in a relaxed, elegant pose with her body slightly turned toward the camera, one arm resting naturally, looking directly into the camera with a soft, charming smile. Natural glowing skin, minimal makeup, soft pink lips, realistic facial details.
+The background is a bright, cozy balcony or window area with cream-colored walls, a dark window frame, green leafy plants, and beautiful warm daylight. Soft sunlight falling naturally on her face and hair, cinematic photography, shallow depth of field, creamy bokeh, realistic skin texture, DSLR portrait photography, 85mm lens, f/1.8, high detail, natural colors, ultra-realistic, 4K quality, editorial fashion portrait, vertical composition, 9:16 aspect ratio.
+Important: Preserve the same overall composition, sitting pose, outfit style, hairstyle, lighting, and natural aesthetic as the reference imag
+```
+
+**来源：** [@Zorvia](https://x.com/ZorviaLux/status/2099729570413076599) | 2026-09-15
+
+---
+
+### 📷 例 7918：帅气男士电影感肖像提示词
+
+![帅气男士电影感肖像提示词](../images/%E5%B8%85%E6%B0%94%E7%94%B7%E5%A3%AB%E7%94%B5%E5%BD%B1%E6%84%9F%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感特写肖像：一位二十岁出头、英俊非凡的年轻男子，拥有一头浓密自然的乌黑波浪卷发，造型蓬松柔和，略带凌乱的侧分刘海；眉毛浓密轮廓分明，深棕色双眸深邃迷人，鼻梁挺直如雕塑，颧骨突出，下颌线锋利阳刚，留有淡淡的自然胡茬。他目光略微向上并向侧面凝视，神情平静、自信且神秘。
+他身穿极简风格的深炭灰色圆领衬衫，一只耳朵佩戴着时尚的单边无线耳机。四分之三侧面视角，头部微微上扬，肩膀放松。戏剧性的单光源侧光在他的额头、颧骨、鼻子和下颌处形成强烈高光，同时让部分面部处于深沉的电影感阴影中。微妙的暖色调肤色与深海军蓝黑色的纹理摄影棚背景形成对比。
+精致阳刚的编辑类摄影风格，情绪化奢华美学，逼真的皮肤质感和毛孔，自然的面部瑕疵，细节丰富的发丝，电影级对比度，柔和的氛围阴影，浅景深，85mm 人像镜头，f/1.8，专业摄影棚拍摄，细微胶片颗粒，HDR，超高细节，照片级真实感，8K 画质，高端时尚大片美学，无文字，无水印，无标志，无夸张肌肉，无塑料感皮肤，无 AI 生成感面孔。
+
+[English]
+Ultra-realistic cinematic close-up portrait of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair styled with soft volume and a slightly tousled side sweep, strong well-defined eyebrows, deep dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He gazes slightly upward and toward the side with a calm, confident, mysterious expression.
+He wears a minimalist dark charcoal crew-neck shirt and a single sleek wireless earbud in one ear. Three-quarter profile, head slightly tilted upward, shoulders relaxed. Dramatic single-source side lighting creates strong highlights across his forehead, cheekbone, nose and jaw while leaving part of his face in deep cinematic shadow. Subtle warm skin tones contrast against a dark navy-black textured studio background.
+Sophisticated masculine editorial photography, moody luxury aesthetic, realistic skin texture and pores, natural facial imperfections, detailed hair strands, cinematic contrast, soft atmospheric shadows, shallow depth of field, 85mm portrait lens, f/1.8, professional studio photography, subtle film grain, HDR, ultra-detailed, photorealistic, 8K quality, premium fashion campaign aesthetic, no text, no watermark, no logos, no exaggerated muscles, no plastic-looking skin, no AI-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2099716764380869037) | 2026-09-15
+
+---
+
+### 📷 例 7919：南亚新娘 Lehenga 肖像
+
+![南亚新娘 Lehenga 肖像](../images/%E5%8D%97%E4%BA%9A%E6%96%B0%E5%A8%98%20Lehenga%20%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的、高端编辑风格的肖像，描绘一位身着优雅淡粉色刺绣 lehenga choli（南亚传统女装）的年轻南亚女性，服装上饰有精致的花卉线绣和细腻的亮片，搭配一条带有精美粉色镶边的浅蓝色透明 dupatta（披肩）。她留着一头浓密自然的深色长卷发，垂落在单侧肩上。佩戴传统印度新娘珠宝：华丽的金珠项链、配套的长款吊灯耳环以及精致的 maang tikka（额饰）。妆容自然，柔和的粉色唇妆，淡淡的眼线，真实的皮肤质感，优雅温柔的微笑，目光略微看向一侧。
+使用温暖的米色工作室背景，配合柔和的漫射光线和微妙的阴影，呈现精致的奢华时尚摄影风格，强调逼真的面料纹理、细节丰富的刺绣、自然的比例、清晰的面部细节、浅景深效果、单反相机级别的真实感，构图优雅且永恒。无文字，无水印，无人工痕迹的皮肤，无过度修图
+
+[English]
+Create an ultra-realistic, high-end editorial portrait of a young South Asian woman wearing an elegant pastel blush-pink embroidered lehenga choli with intricate floral threadwork, delicate sequins, and a sheer light-blue dupatta featuring a beautifully embellished pink border. She has long, voluminous, naturally wavy dark hair cascading over one shoulder. Add traditional Indian bridal jewelry: an ornate gold-and-pearl choker necklace, matching long chandelier earrings, and a delicate maang tikka. Natural makeup, soft pink lips, subtle kajal, realistic skin texture, graceful gentle smile, looking slightly to the side.
+Use a warm beige studio background with soft diffused lighting, subtle shadows, sophisticated luxury fashion photography, realistic fabric texture, detailed embroidery, natural proportions, sharp facial details, shallow depth of field, photorealistic DSLR quality, elegant and timeless composition. No text, no watermark, no artificial-looking skin, no excessive retouchi
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2099715293597589871) | 2026-09-15
+
+---
+
+### 📷 例 7920：电影感男性人像参考
+
+![电影感男性人像参考](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%94%B7%E6%80%A7%E4%BA%BA%E5%83%8F%E5%8F%82%E8%80%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真的电影感年轻成年男性特写人像，使用图像作为面部参考以保持自然皮肤质感。他身穿纯色黑色圆领 T 恤和白色无线耳机。低角度拍摄视角，头部和肩部充满画面，眼神略微向上并看向镜头外，表情严肃自信。来自右上方的戏剧性定向光在面部形成强烈高光，并在另一侧投下深邃阴影。深炭蓝色摄影棚背景，情绪化的高对比度氛围，真实的毛孔和胡须细节，眼睛和面部清晰对焦，浅景深，专业编辑级摄影，85mm 人像镜头，f/2 光圈，自然肤色，电影级色彩分级，超精细，照片级真实感，4:5 竖构图。
+
+[English]
+Photorealistic cinematic close-up portrait of a young adult man use image for face reference with natural skin texture. He is wearing a plain black crew-neck T-shirt and white wireless earbuds. Low-angle camera perspective, head and shoulders filling the frame, looking slightly upward and off-camera with a serious, confident expression. Dramatic directional lighting from the upper right side creates strong highlights on the face and deep shadows on the opposite side. Dark charcoal-blue studio background, moody high-contrast atmosphere, realistic pores and beard detail, sharp focus on the eyes and face, shallow depth of field, professional editorial photography, 85mm portrait lens, f/2, natural skin tones, cinematic color grading, ultra-detailed, photorealistic, vertical 4:5 composition.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2099700561805197675) | 2026-09-15
+
+---
+
+### 📷 例 7921：雨天咖啡馆人像提示词
+
+![雨天咖啡馆人像提示词](../images/%E9%9B%A8%E5%A4%A9%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的户外抓拍人像，画面中一位年轻女性站在雨后温馨的城市咖啡馆外。她留着深棕色长发，随意地扎成低马尾，几缕柔和的发丝自然地垂落在脸庞两侧。她目光温柔地望向一侧，神情平静而梦幻。
+
+她身穿一件温暖的米色宽松针织毛衣，内搭精致的白色衬衫，下身搭配一条深棕色长款百褶裙。一个深酒红色的单肩包自然地挂在她的肩上。她一手撑着透明雨伞，另一只手轻轻整理着脸颊旁的发丝。
+
+她站在被雨水打湿的咖啡馆步道旁，周围是湿润的路面、翠绿的小植物、透着暖光的咖啡馆窗户、隐约可见的城市建筑以及背景中柔和发光的路灯。雨伞上清晰可见细小的雨滴，温暖灯光的倒影在湿漉漉的地面上闪烁着美丽的光泽。
+
+自然智能手机摄影风格，生活化抓拍美学，柔和的雨日氛围，真实的皮肤质感，细致的发丝纹理，逼真的针织与面料细节，自然的反射效果，浅景深，电影感环境光效，轻微的复古胶片颗粒感，以大地色系为主的柔和色调并点缀咖啡馆暖光，柔和的大气对比度，宁静浪漫的氛围，高度写实，4:5 竖构图。
+
+[English]
+A photorealistic candid outdoor portrait of a young woman standing outside a cozy urban café on a rainy afternoon. She has long dark-brown hair styled in a loose low ponytail, with a few soft face-framing strands naturally falling across her face. She gazes gently toward the side with a calm, dreamy expression.
+
+She wears a warm beige oversized knit sweater layered over a delicate white blouse, paired with a long dark-brown pleated skirt. A deep burgundy-red shoulder bag hangs naturally from her shoulder. She holds a transparent umbrella in one hand while the other hand gently adjusts a strand of hair near her face.
+
+She stands beside a rain-covered café walkway, surrounded by wet pavement, small green plants, warm café windows, subtle city buildings, and softly glowing street lights in the background. Tiny raindrops are visible on the umbrella, while reflections of the warm lights shimmer beautifully across the wet ground.
+
+Natural smartphone photography, candid lifestyle aesthetic, soft rainy-day atmosphere, realistic skin texture, detailed individual hair strands, authentic knit and fabric textures, natural reflections, shallow depth of field, cinematic ambient lighting, gentle vintage film grain, muted earthy color palette with warm café highlights, soft atmospheric contrast, peaceful romantic mood, highly photorealistic, vertical 4:5 composition.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2099695088435888248) | 2026-09-15
+
+---
+
+### 📷 例 7925：GPT Image 2 提示词：时尚杂志剪贴簿
+
+![GPT Image 2 提示词：时尚杂志剪贴簿](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%89%AA%E8%B4%B4%E7%B0%BF.jpg)
+
+**Prompt:**
+
+```text
+コルクボードに添付画像の人物の写真が日本の女性ファッション誌のスクラップ調でたくさん貼られてるのつくって
+コルクボードを画面いっぱいに表示すること
+```
+
+**来源：** [@モヒにゃぱん](https://x.com/nyapan_mohy/status/2099654540102652111) | 2026-09-15
+
+---
+

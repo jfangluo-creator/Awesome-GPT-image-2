@@ -9574,3 +9574,33 @@ Create a highly realistic, warm and artistic lifestyle photograph inspired by th
 
 ---
 
+### 🧍 例 7913：双联肖像画
+
+![双联肖像画](../images/%E5%8F%8C%E8%81%94%E8%82%96%E5%83%8F%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为角色基础，生成一幅横向双联肖像画。请严格保留主体的身份、面部特征以及标志性的银色 jhumka 耳环，确保其与参考图像完全一致。
+
+布局：采用分割构图，中间有一条细垂直分隔线区分两个面板。整个画布背景为纹理米色纸张，边缘饰有手绘黑色墨水植物藤蔓插图，环绕在两个面板的外侧。
+
+左侧面板（柔和情绪）：描绘主体身穿带有精致蓝色花卉刺绣的白色 kurta。她用手托着下巴，目光向右上方凝视。背景是一面温暖的尘粉色墙壁，左侧有柔和的窗光射入。
+
+右侧面板（大胆情绪）：描绘主体身穿结构感强的黑色西装外套，内搭黑色上衣。她神情自信，目光向右上方凝视。背景为冷色调的石板蓝摄影棚设置，头部后方有一个大型柔和的圆形聚光灯效果。
+
+[English]
+Using the provided reference image as the character base, generate a horizontal two-panel diptych portrait. Preserve the subject's identity, facial features, and signature silver jhumka earrings exactly as they appear in the reference.
+
+Layout: A split composition with a thin vertical divider line separating the two panels. The entire canvas has a textured beige paper background featuring hand-drawn black ink botanical vine illustrations that frame the outer edges of both panels.
+
+Left Panel (Soft Mood): Depict the subject wearing a white kurta with delicate blue floral embroidery. She is resting her chin on her hand, looking upward to the right. The background is a warm, dusty pink wall with soft window light coming from the left.
+
+Right Panel (Bold Mood): Depict the subject wearing a structured black blazer over a black top. She is looking upward to the right with a confident expression. The background is a cool slate-blue studio setting with a large, soft circular spotlight effect behind her head.
+```
+
+**来源：** [@boB](https://x.com/b0BRude/status/2099860408752599328) | 2026-09-15
+
+---
+

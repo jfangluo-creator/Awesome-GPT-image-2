@@ -5412,3 +5412,147 @@ Aspect ratio: 4:5 vertical.
 
 ---
 
+### 🏛️ 例 7911：手工纸插画
+
+![手工纸插画](../images/%E6%89%8B%E5%B7%A5%E7%BA%B8%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成前请上传一张或多张照片。
+
+主提示词
+将每张上传的照片转换为极简高端手工纸插画，仅将其作为身份、姿势、比例、服装、配饰、颜色和可识别细节的唯一参考。
+仅创建插画。不包含原始照片或摄影部分。
+
+格式锁定 — 不可协商
+严格垂直 3:4 比例。
+单幅全画幅极简编辑风格艺术作品。
+主体小、居中且克制，占据画布的 10–20%，留有大量负空间。
+
+身份与参考锁定
+保留：
+面部身份和结构、脸型与发型、肤色、身体比例、服装与配饰、姿势或手势、重要物体、主导颜色、整体视觉特征
+保持主体立即 recognizable（可识别）。不要改变身份、解剖结构、发型、服装，或添加无关元素。
+
+下半部分 — 极简手绘纸插画
+创建一个小型、居中、高度可识别的手工插画。
+在保留基本特征的同时进行激进简化。
+使用精致不完美的线条、极简的表现性线条、少量丙烯风格的平涂色块、可见的笔触痕迹、不规则的有机边缘、微妙的颜料变化、触觉纸张纤维以及自然的手工瑕疵。
+它必须看起来像是在纹理纸上物理绘制和绘画而成，而非数字生成。
+
+背景
+极简粗糙白色、温暖米白色或带有微妙纤维和颗粒感的浅色天然纸张。
+保持极度空旷。仅允许少量极简线条或形状暗示原始环境。
+无详细或装饰性背景。
+
+色彩系统
+从照片中提取颜色。
+最多使用四种主色。
+保持调色板克制、精致、和谐，并与照片紧密相连。
+使用带有纸张纹理、干刷质感和颜料变化的平涂丙烯风格色块。
+
+构图与负空间
+将插画精确居中，比例为 10–20%。
+周围留有大量负空间。
+氛围：安静、诗意、精致、奢华、编辑风格、深思熟虑、优雅、极简、高端。
+
+排版 — 严格禁止
+零文本。
+无单词、字母、数字、标题、说明、标签、日期、标志、签名、水印或可读符号。
+视觉语言
+安静、诗意、精致、极简、纯真、放松、艺术、深思熟虑、优雅、可识别、高端。
+
+输出风格
+高端当代编辑风格 / 现代艺术书籍插画。
+触觉手工纸、手绘艺术作品、精致的视觉叙事。
+无数字矢量美学。
+
+最终结果
+仅有一张小型、居中、高度可识别的手工纸插画，源自上传的照片，周围环绕着大量纹理纸张负空间。
+最多四种颜色。无照片。无摄影部分。无文本。
+
+负面提示词
+无照片、摄影部分、分屏、上半部分、拼贴、多张图片、sec
+
+[English]
+Upload one or multiple photos before generating.
+
+MAIN PROMPT
+Transform each uploaded photograph into a minimalist premium handmade paper illustration, using it as the sole reference for identity, pose, proportions, clothing, accessories, colors, and recognizable details.
+Create ONLY the illustration. No original photograph or photographic section.
+
+FORMAT LOCK — NON-NEGOTIABLE
+Strict vertical 3:4.
+Single full-frame minimalist editorial artwork.
+Subject small, centered, and restrained, occupying 10–20% of the canvas with generous negative space.
+
+IDENTITY & REFERENCE LOCK
+Preserve:
+Facial identity and structure, Face shape and hairstyle, Skin tone, Body proportions, Clothing and accessories, Pose or gesture, Important objects, Dominant colors, Overall visual character
+Keep the subject immediately recognizable. Do not alter identity, anatomy, hairstyle, clothing, or add unrelated elements.
+
+BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION
+Create a small, centered, highly recognizable handmade illustration.
+Simplify aggressively while preserving essential features.
+Use delicate imperfect lines, minimal expressive linework, few acrylic-style flat color shapes, visible brush marks, irregular organic edges, subtle pigment variation, tactile paper fibers, and natural handmade imperfections.
+It must look physically painted and drawn on textured paper, not digitally generated.
+
+BACKGROUND
+Minimal rough white, warm off-white, or pale natural paper with subtle fibers and grain.
+Keep it overwhelmingly empty. Only a few minimal lines or shapes may suggest the original environment.
+No detailed or decorative background.
+
+COLOR SYSTEM
+Extract colors from the photograph.
+Use maximum four main colors.
+Keep the palette restrained, sophisticated, harmonious, and photographically connected.
+Use flat acrylic-style shapes with paper grain, dry-brush texture, and pigment variation.
+
+COMPOSITION & NEGATIVE SPACE
+Keep the illustration precisely centered at 10–20% scale.
+Surround it with generous negative space.
+Mood: quiet, poetic, refined, luxurious, editorial, thoughtful, elegant, minimal, premium.
+
+TYPOGRAPHY — STRICTLY PROHIBITED
+ZERO TEXT.
+No words, letters, numbers, titles, captions, labels, dates, logos, signatures, watermarks, or readable symbols.
+VISUAL LANGUAGE
+Quiet, poetic, refined, minimal, innocent, relaxed, artistic, thoughtful, elegant, recognizable, premium.
+
+OUTPUT STYLE
+Premium contemporary editorial / modern art-book illustration.
+Tactile handmade paper, hand-drawn artwork, sophisticated visual storytelling.
+No digital vector aesthetic.
+
+FINAL RESULT
+ONLY one small, centered, highly recognizable handmade paper illustration derived from the uploaded photograph, surrounded by generous textured-paper negative space.
+Maximum four colors. No photograph. No photographic section. No text.
+
+NEGATIVE PROMPT
+No photograph, photographic section, split-screen, upper half, collage, multiple images, seco
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2099887480526823929) | 2026-09-15
+
+---
+
+### 🏛️ 例 7915：写实专业头像提示词
+
+![写实专业头像提示词](../images/%E5%86%99%E5%AE%9E%E4%B8%93%E4%B8%9A%E5%A4%B4%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+基于输入照片生成真实、自然、亲和的专业头像，高度保持人物身份一致性、五官比例、脸型、发际线、年龄感与原有性别表达，不改变长相。1:1方形构图，胸部以上取景，采用非对称视觉平衡：人物略偏右，头顶保留约18%画面高度，左侧与左上形成主要负空间，避免证件照式居中和紧裁切。肩线自然，头部轻微侧倾，直视镜头，表情放松、自信、友善，可自然微笑或露齿笑。
+
+服装采用简洁深色圆领或极简上装，根据人物原有风格自然适配；女性保留自然发型、妆容与适量首饰，男性保留胡茬、发型等真实特征，不做刻板性别化造型。背景为真实暖色墙面：顶部低明度红棕/焦糖暖灰，中部灰米杏，下部奶油米白，由自然光衰减、墙面反射和轻微暗角形成非线性纵向渐变；加入细小、低幅度、高频随机颗粒，暗部略明显，模拟早期数码传感器与轻微JPEG质感。
+
+使用大面积柔和窗光，低光比、低局部对比，无轮廓光和商业棚拍塑形。肤色保持真实色相差异与自然血色，女性避免瓷白磨皮，男性避免过度强调粗糙纹理；降低高频皮肤细节与clarity，保留中低频面部结构，使皮肤柔和但真实。整体低饱和暖调、柔和高光、轻微抬黑、减少蓝青色，呈现2000s–2010s早期数码头像质感：聪明、可信、轻松、自然、有亲和力，而非现代高端商业肖像。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2099758539665490371) | 2026-09-15
+
+---
+
