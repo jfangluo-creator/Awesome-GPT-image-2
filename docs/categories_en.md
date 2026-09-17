@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (595)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (597)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1183,6 +1183,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7897: 巨型东京警用机器人封锁街道](cat-ui.md#️-例-7897巨型东京警用机器人封锁街道)
 
 - [Case 7923: 九角度风格化男性头像网格](cat-ui.md#️-例-7923九角度风格化男性头像网格)
+
+- [Case 7938: 幼儿与服务员互动](cat-ui.md#️-例-7938幼儿与服务员互动)
+
+- [Case 7940: 迷你猕猴桃岛屿度假村](cat-ui.md#️-例-7940迷你猕猴桃岛屿度假村)
 ---
 
 <a id="chart"></a>
@@ -1421,7 +1425,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1050)
+## 🎴 [Posters & Cards](cat-poster.md) (1053)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3485,11 +3489,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7903: 优雅的春分海报](cat-poster.md#-例-7903优雅的春分海报)
 
 - [Case 7922: 巴黎咖啡馆复古人像](cat-poster.md#-例-7922巴黎咖啡馆复古人像)
+
+- [Case 7926: 日式面馆招牌](cat-poster.md#-例-7926日式面馆招牌)
+
+- [Case 7928: 克劳德·德彪西《贝加莫组曲》海报](cat-poster.md#-例-7928克劳德德彪西贝加莫组曲海报)
+
+- [Case 7934: 旅行志向混合媒介海报](cat-poster.md#-例-7934旅行志向混合媒介海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2923)
+## 📷 [Photography & Realistic](cat-photo.md) (2930)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9269,6 +9279,20 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7921: 雨天咖啡馆人像提示词](cat-photo.md#-例-7921雨天咖啡馆人像提示词)
 
 - [Case 7925: GPT Image 2 提示词：时尚杂志剪贴簿](cat-photo.md#-例-7925gpt-image-2-提示词时尚杂志剪贴簿)
+
+- [Case 7929: 复古胶片摄影：奔跑的女性](cat-photo.md#-例-7929复古胶片摄影奔跑的女性)
+
+- [Case 7930: 双重曝光山峦晨曦人像](cat-photo.md#-例-7930双重曝光山峦晨曦人像)
+
+- [Case 7932: 电影感红色烟雾海报](cat-photo.md#-例-7932电影感红色烟雾海报)
+
+- [Case 7933: 夜间闪光灯牡丹花束](cat-photo.md#-例-7933夜间闪光灯牡丹花束)
+
+- [Case 7935: 电影质感天鹅绒西装人像](cat-photo.md#-例-7935电影质感天鹅绒西装人像)
+
+- [Case 7937: 高级时尚编辑风双重曝光](cat-photo.md#-例-7937高级时尚编辑风双重曝光)
+
+- [Case 7939: Tiny Chefs 魔法微型烘焙坊场景](cat-photo.md#-例-7939tiny-chefs-魔法微型烘焙坊场景)
 ---
 
 <a id="illustration"></a>
@@ -13577,7 +13601,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (871)
+## 🏷️ [Brand & Packaging](cat-brand.md) (874)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15314,6 +15338,12 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7891: GPT Image 2 黑白纤维流 Logo 提示词](cat-brand.md#️-例-7891gpt-image-2-黑白纤维流-logo-提示词)
 
 - [Case 7894: 高端品牌吉祥物角色生成](cat-brand.md#️-例-7894高端品牌吉祥物角色生成)
+
+- [Case 7927: 紫发时尚人像](cat-brand.md#️-例-7927紫发时尚人像)
+
+- [Case 7931: 航拍蒸汽朋克工坊改造](cat-brand.md#️-例-7931航拍蒸汽朋克工坊改造)
+
+- [Case 7936: 超写实户外时尚人像：紫发女子与猫咪](cat-brand.md#️-例-7936超写实户外时尚人像紫发女子与猫咪)
 ---
 
 <a id="edit"></a>

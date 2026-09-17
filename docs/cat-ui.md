@@ -16624,3 +16624,39 @@ Create a 3x3 grid of nine stylized digital portrait avatars on a clean white bac
 
 ---
 
+### 🖥️ 例 7938：幼儿与服务员互动
+
+![幼儿与服务员互动](../images/%E5%B9%BC%E5%84%BF%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%91%98%E4%BA%92%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张垂直构图的逼真电影感照片，展示了一个可爱的幼儿站在城市人行道上，面前是一家敞开的餐厅大门。孩子抬头看着一位面带微笑的女性，她看起来像是服务员或领位员，穿着米色纽扣衬衫和围裙。这一场景捕捉到了互动的瞬间，孩子似乎正在说话或做出有趣的表情。单词 "Knock" 以粗体白色文字叠加在画面中心附近。温暖的自然光线，浅景深，高分辨率。
+
+[English]
+A vertical, realistic cinematic shot of a cute toddler standing on a city sidewalk in front of an open restaurant door. The child is looking up at a smiling woman who appears to be a server or hostess, wearing a beige button-down shirt and apron. The scene captures a moment of interaction where the child seems to be speaking or reacting with a funny expression. The word "Knock" is overlaid in bold white text near the center. Warm natural lighting, shallow depth of field, high resolution.
+```
+
+**来源：** [@Adnan](https://x.com/Adnan_Ai4/status/2100061425360376189) | 2026-09-16
+
+---
+
+### 🖥️ 例 7940：迷你猕猴桃岛屿度假村
+
+![迷你猕猴桃岛屿度假村](../images/%E8%BF%B7%E4%BD%A0%E7%8C%95%E7%8C%B4%E6%A1%83%E5%B2%9B%E5%B1%BF%E5%BA%A6%E5%81%87%E6%9D%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度细节化的电影感奇幻微缩世界，构建在一个巨大的半切猕猴桃内部。猕猴桃变成了一座被波光粼粼的水面环绕的微型热带岛屿度假村。顶部有一座美丽的乡村风格竹制茅草屋，挂着写有 "Kiwi Relax Resort" 的木牌。一位身穿米色服装的女士正躺在系于小屋的吊床上放松，手中拿着一杯绿色饮品。在她身旁的小木平台上坐着一只杰克罗素梗犬。小屋左侧有一根高大的木制指示牌，列出了五个打勾项："Good Day ✓", "Good Food ✓", "Less Stress ✓", "More Sleep ✓", "Happy Me ✓"。在猕猴桃表面的右侧，有一个由猕猴桃汁制成的小游泳池，一把条纹躺椅置于提基伞下，还有一块写着 "Good Night ♡" 的黑板标牌。一座木桥连接着各个区域。猕猴桃切片被放置在周围作为桌子或装饰。一道绿色的猕猴桃汁瀑布从猕猴桃边缘倾泻入周围的水中。在前景左下角，有一盏灯笼和一块写着 "Small Moments Big Happiness ♡" 的木牌。右下角漂浮着一艘小木船，上面写着 "Tiny Adventures"。背景是海面上的日落景象，远处有岛屿点缀。光线温暖，呈现黄金时刻的氛围。
+
+[English]
+Create a highly detailed cinematic fantasy miniature world built inside a giant half-cut kiwi fruit. The kiwi becomes a tiny tropical island resort surrounded by sparkling water. At the top, there is a beautiful rustic bamboo and thatch hut with a wooden sign reading "Kiwi Relax Resort". A woman in a beige outfit is relaxing in a hammock attached to the hut, holding a green drink. Beside her on a small wooden platform sits a Jack Russell terrier dog. To the left of the hut, a tall wooden signpost lists five checkmarks: "Good Day ✓", "Good Food ✓", "Less Stress ✓", "More Sleep ✓", "Happy Me ✓". On the right side of the kiwi surface, there is a small swimming pool made of kiwi juice, a striped lounge chair under a tiki umbrella, and a chalkboard sign saying "Good Night ♡". A wooden bridge connects the areas. Kiwi slices are placed around as tables or decor. A waterfall of green kiwi juice pours from the edge of the kiwi into the surrounding water. In the foreground bottom left, there is a lantern and a wooden sign reading "Small Moments Big Happiness ♡". In the bottom right, a small wooden boat floats with the text "Tiny Adventures". The background features a sunset over the ocean with distant islands. The lighting is warm and golden hour.
+```
+
+**来源：** [@Arzoo Ai](https://x.com/Arzoo12sh/status/2100037462932475947) | 2026-09-16
+
+---
+

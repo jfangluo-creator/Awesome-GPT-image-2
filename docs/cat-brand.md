@@ -21398,3 +21398,73 @@ Low quality, blurry, distorted anatomy, extra limbs, extra fingers, malformed ha
 
 ---
 
+### 🏷️ 例 7927：紫发时尚人像
+
+![紫发时尚人像](../images/%E7%B4%AB%E5%8F%91%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的低角度全身时尚人像，主体为参考图中的同一位年轻女性。保留她鲜艳的 {argument name="hair color" default="violet-purple"} 齐下巴波波头及直刘海、白皙如瓷的肌肤、自然的雀斑、淡褐色/浅棕色眼睛、精致的五官、光泽感的嘴唇以及纤细的身材。
+她随意地坐在石阶上，双膝弯曲并分开，双手放在大腿附近，头部微微后仰，目光看向镜头之外。她身穿一件宽松的鲜艳 {argument name="jacket color" default="orange"} 西装外套，内搭修身白色罗纹背心，下身穿着脚踝处卷起的宽松白色阔腿裤，搭配白袜和厚底白色运动鞋，并佩戴圆形 {argument name="glasses tint" default="orange-tinted"} 墨镜。
+背景使用带有清晰网格线的大型棕色纹理石墙。强烈的黄金时刻阳光营造出戏剧性的对角线阴影和高对比度。温暖的电影色调，真实的皮肤和织物质感，细节锐利，具有编辑风格的街头时尚摄影感，照片级真实，8K 分辨率。
+
+[English]
+Create a hyper-realistic low-angle full-body fashion portrait of the same young woman from the reference image, preserving her vivid {argument name="hair color" default="violet-purple"} chin-length bob with straight bangs, fair porcelain skin, natural freckles, hazel/light-brown eyes, delicate features, glossy lips, and slim physique.
+She sits casually on a stone ledge with knees bent and apart, hands resting near her lap, head slightly tilted back while looking away from the camera. She wears an oversized vibrant {argument name="jacket color" default="orange"} blazer over a fitted white ribbed tank top, loose white baggy trousers rolled at the ankles, white socks, chunky white sneakers, and round {argument name="glasses tint" default="orange-tinted"} sunglasses.
+Use a large brown textured stone wall with clean grid lines as the background. Harsh golden-hour sunlight creates dramatic diagonal shadows and strong contrast. Warm cinematic tones, realistic skin and fabric, sharp details, editorial street-fashion photography, photorealistic, 8K.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2100222128834703614) | 2026-09-16
+
+---
+
+### 🏷️ 例 7931：航拍蒸汽朋克工坊改造
+
+![航拍蒸汽朋克工坊改造](../images/%E8%88%AA%E6%8B%8D%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%B7%A5%E5%9D%8A%E6%94%B9%E9%80%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于提供的参考图像，将人物肖像转化为高度细节化的俯拍视角，展示主体人物在杂乱无章的蒸汽朋克发明家工坊中工作的场景。保留三位人物的面部特征和服装颜色（穿白色 T 恤的男子、穿米色衣服的老年女性以及穿无袖米色连衣裙的年轻女性），并将他们重新布置在一张大木桌周围。桌面上铺满陈旧的羊皮纸蓝图，上面绘有华丽机器的技术草图，并散落着黄铜齿轮、精密绘图工具和放大镜。场景由上方悬挂的一盏温暖发光的灯泡照亮。在构图的外边缘应用鲜艳的水彩泼溅效果，将红色、蓝色和黄色等多彩颜料融入纹理纸张背景中。
+
+[English]
+Using the provided reference image, transform the portrait into a highly detailed, top-down aerial view of the subjects working in a cluttered steampunk inventor's workshop. Preserve the exact facial features and clothing colors of the three individuals (the man in the white t-shirt, the older woman in cream, and the younger woman in a sleeveless cream dress) while repositioning them around a large wooden table. Populate the table with aged parchment blueprints featuring technical sketches of an ornate machine, scattered brass gears, precision drafting tools, and a magnifying glass. The scene should be illuminated by a warm, glowing hanging light bulb from above. Apply a vibrant watercolor splash effect to the outer edges of the composition, blending colorful pigments like red, blue, and yellow into a textured paper background.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2100118111504752947) | 2026-09-16
+
+---
+
+### 🏷️ 例 7936：超写实户外时尚人像：紫发女子与猫咪
+
+![超写实户外时尚人像：紫发女子与猫咪](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%88%B7%E5%A4%96%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%EF%BC%9A%E7%B4%AB%E5%8F%91%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%8C%AB%E5%92%AA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的全身户外时尚人像，主角为参考图中的同一位年轻女性角色。保留她的标志性外观特征：鲜艳的紫罗兰色齐下巴直发波波头，搭配柔和的齐刘海；白皙如瓷的肌肤，鼻梁和脸颊上清晰可见自然的雀斑；杏仁状的淡褐色/浅棕色眼睛；小巧挺直的鼻子；精致的面部轮廓；光泽自然的嘴唇；以及纤细优雅的身材。
+
+她随意地靠在一面质感粗糙的混凝土墙上，面向镜头，带着温柔的微笑，姿态放松，身体微微后仰。双手自然地插在牛仔裤的前口袋里。她身穿一件红色长袖格纹法兰绒衬衫，下摆塞进高腰宽松版型的蓝色牛仔工装裤中，裤子前侧有明显的贴袋设计，袖子卷至前臂，脚穿干净的白色低帮运动鞋。
+
+在她身旁的地面上坐着一只真实的灰白相间猫咪，脖子上系着红色格纹三角巾，正抬头望向墙面上俏皮的涂鸦艺术作品。混凝土墙面上绘有可爱的卡通阴影艺术：一个比着剪刀手的女孩、一只跳舞的卡通猫插画，以及小型涂鸦细节、爱心图案和随性的街头艺术元素。
+
+使用温暖的黄金时刻阳光，在墙面和主体上投下柔和但清晰的阴影。营造自然的户外氛围，呈现温暖的混凝土色调，展现逼真的皮肤和头发纹理，细致刻画牛仔布和面料质感，还原真实的猫咪毛发细节，具备电影级景深效果、微妙的胶片颗粒感、高端街头时尚摄影风格、舒适的都市美学、照片级真实感、超高细节、8K 分辨率及专业编辑级画质。
+
+[English]
+Create a hyper-realistic full-body outdoor fashion portrait of the same young adult female character from the reference image. Preserve her signature appearance: vivid violet-purple chin-length straight bob haircut with soft straight bangs, fair porcelain skin, natural freckles clearly visible across her nose and cheeks, almond-shaped hazel/light-brown eyes, small straight nose, delicate facial features, glossy natural lips, and slim elegant physique.
+
+She stands casually against a textured concrete wall, facing the camera with a gentle smile and relaxed posture, leaning slightly backward. Both hands are naturally tucked into the front pockets of her jeans. She wears a red long-sleeve plaid flannel shirt tucked into high-waisted loose-fit blue denim cargo jeans with prominent front patch pockets, sleeves rolled to the forearms, and clean white low-top sneakers.
+
+Beside her on the ground sits a real grey-and-white cat wearing a red plaid bandana, looking upward toward the playful wall artwork. The concrete wall features cute cartoon shadow art of a girl making a peace sign, a dancing cartoon cat illustration, small graffiti details, hearts, and casual street-art elements.
+
+Use warm golden-hour sunlight creating soft but distinct shadows across the wall and subject. Natural outdoor atmosphere, warm concrete tones, realistic skin and hair texture, detailed denim and fabric, authentic cat fur, cinematic depth of field, subtle film grain, premium street-fashion photography, cozy urban aesthetic, photorealistic, ultra-detailed, 8K, professional editorial quality.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2100065010076840182) | 2026-09-16
+
+---
+

@@ -34486,3 +34486,81 @@ A vertical, full-body photograph of a stylish young East Asian woman sitting at 
 
 ---
 
+### 🎴 例 7926：日式面馆招牌
+
+![日式面馆招牌](../images/%E6%97%A5%E5%BC%8F%E9%9D%A2%E9%A6%86%E6%8B%9B%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的照片，展示了日式餐厅的外立面，其中包含两个不同的招牌元素。背景中，安装在深色木质柜台上方粉色墙壁上的是一块大型菜单板，分为垂直的颜色编码列（黄色、白色、蓝色、红色）。这些列中的文字列出了诸如“狸猫乌冬面”、“拌乌冬面”、“油荞麦面”和“蘸面”等面条菜品，价格标注为 380 日元。前景中，立在人行道上的是一个黑色 A 型立式广告牌，以 2x2 网格形式展示了四款促销套餐。每个象限都配有诱人的食物碗照片（面条和猪肉饭），并伴有醒目的文字，宣传将面条与“猪肉盖饭”结合的“500 日元”套餐。光线为自然日光，捕捉了街道背景下招牌的鲜艳色彩。
+
+[English]
+A realistic photograph of a Japanese restaurant exterior featuring two distinct signage elements. In the background, mounted on a pink wall above a dark wooden counter, is a large menu board divided into vertical color-coded columns (yellow, white, blue, red). The text in these columns lists noodle dishes like 'Tanuki Udon', 'Bukkake Udon', 'Abura Soba', and 'Tsuke Men' with prices marked as 380 yen. In the foreground, standing on the pavement, is a black A-frame sandwich board displaying four promotional meal sets arranged in a 2x2 grid. Each quadrant features appetizing photos of food bowls (noodles and pork rice) alongside bold text advertising a '500 Yen' price point for sets combining noodles with a 'Butadon' (pork bowl). The lighting is natural daylight, capturing the vibrant colors of the signs against the street setting.
+```
+
+**来源：** [@Torishima / INTP](https://x.com/izutorishima/status/2100233876388053345) | 2026-09-16
+
+---
+
+### 🎴 例 7928：克劳德·德彪西《贝加莫组曲》海报
+
+![克劳德·德彪西《贝加莫组曲》海报](../images/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E5%BE%B7%E5%BD%AA%E8%A5%BF%E3%80%8A%E8%B4%9D%E5%8A%A0%E8%8E%AB%E7%BB%84%E6%9B%B2%E3%80%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张具有电影感的深色模式数字拼贴海报，右侧展示了克劳德·德彪西的复古黑白侧面肖像。他留着胡须，身着燕尾服并佩戴领结。在他头部后方，一轮明亮的大满月倒映在平静的水面上。左下角前景中，钢琴琴键向远处延伸。一条打孔的自动钢琴纸卷穿过画面中心，从琴键处向右下方蜿蜒。最右侧覆盖着褪色的羊皮纸纹理，上面显示着手写乐谱以及湖边教堂或城堡的小剪影。整体色调为深邃的午夜蓝、炭灰色和奶油色。排版：左上角为小号无衬线大写字母“CLAUDE DEBUSSY”。大号衬线标题“SUITE BERGAMASQUE”分两行堆叠排列。其下方为西班牙语文字：“Debussy nunca grabó su obra más célebre. Sí grabó 14 piezas al piano. Pero esta no. Existe una razón.” 左下角小字：“MÚSICA SILENCIO BELLEZA AÚN HABLA”。右下角小字：“ALGUNAS OBRAS VIVEN MEJOR SIN SER GRABADAS”。右上角标注“1/4”。
+
+[English]
+A cinematic, dark-mode digital collage poster featuring a vintage black-and-white profile portrait of Claude Debussy on the right side. He has a beard and wears a tuxedo with a bow tie. Behind his head is a large, luminous full moon reflecting over a calm body of water. In the lower left foreground, piano keys stretch into the distance. A perforated player-piano roll winds through the center of the image, transitioning from the piano keys towards the bottom right. On the far right, a faded parchment texture overlays the scene, showing handwritten musical notes and a small silhouette of a church or castle by a lake. The overall color palette is deep midnight blue, charcoal, and cream. Typography: Top left in small sans-serif caps 'CLAUDE DEBUSSY'. Large serif title 'SUITE BERGAMASQUE' stacked in two lines. Below that, Spanish text: 'Debussy nunca grabó su obra más célebre. Sí grabó 14 piezas al piano. Pero esta no. Existe una razón.' Bottom left corner small text: 'MÚSICA SILENCIO BELLEZA AÚN HABLA'. Bottom right corner small text: 'ALGUNAS OBRAS VIVEN MEJOR SIN SER GRABADAS'. Top right corner '1/4'.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2100215230752051290) | 2026-09-16
+
+---
+
+### 🎴 例 7934：旅行志向混合媒介海报
+
+![旅行志向混合媒介海报](../images/%E6%97%85%E8%A1%8C%E5%BF%97%E5%90%91%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为主要视觉参考。重现相同的整体构图、相机角度、取景、姿势、环境、排版位置、色调、灯光以及电影般的编辑美学。
+
+创作一张超写实且富有艺术感的混合媒介时尚海报，主角是一位穿着黑色矩形眼镜、黑色超大号技术夹克和黑色背包的时尚年轻男子。他自然地坐在/倚靠在现代办公桌前，神情平静自信，目光略微朝向镜头。保持真实的面部比例、自然的皮肤纹理、细致的头发、眼镜反光以及高端时尚摄影的质量。
+
+背景应结合充满活力的旅行与志向拼贴画：壮丽的山脉景观、现代摩天大楼、天空中飞行的飞机、微妙的日式图形元素、旅行方向指示牌、地图、笔记本、护照、咖啡杯、笔记本电脑、书籍以及围绕主体自然摆放的商务/旅行物品。
+
+采用大胆的编辑杂志海报构图，包含深海军蓝/黑色阴影、绿松石蓝、暖橙红、奶油色和米白色图形形状。添加做旧纸张纹理、墨迹飞溅、粗糙笔触、手绘元素、微妙颗粒感和分层拼贴细节，同时保持主体的高度写实。
+
+在设计中融入励志排版，例如左上角的“A Better Tomorrow”（更美好的明天）和底部附近大号表现力绿松石色手写体“Impact”（影响力）。添加小型编辑短语，如“Same Person, Bigger Dream”（同一个人，更大的梦想）、“Good People, Brighter Places”（好人，更光明的地方）、“A Good Life Creates A Better World”（美好生活创造更好世界）、“Plans / People / Opportunities / Progress”（计划 / 人 / 机会 / 进步），以及旅行方向指示牌，如“Japan / Vietnam / World.”（日本 / 越南 / 世界。）
+
+最终图像应感觉像是一张高端国际旅行、生活方式和个人成长活动海报——具有电影感、令人向往、精致、年轻、略带粗犷、视觉丰富且极其细致。
+
+垂直 9:16 构图，高端广告质量，写实主体 + 艺术图形拼贴，细节清晰，电影级灯光，真实纹理，平衡的排版，无标志，无水印。
+
+[English]
+Use the uploaded image as the primary visual reference. Recreate the same overall composition, camera angle, framing, pose, environment, typography placement, color palette, lighting, and cinematic editorial aesthetic.
+
+Create a photorealistic yet artistic mixed-media fashion poster featuring a stylish young man wearing black rectangular glasses, a black oversized technical jacket, and a black backpack. He is seated/leaning naturally at a modern desk, looking slightly toward the camera with a calm, confident expression. Preserve realistic facial proportions, natural skin texture, detailed hair, glasses reflections, and premium fashion photography quality.
+
+The background should combine a vibrant travel-and-ambition collage: dramatic mountain landscapes, modern skyscrapers, an airplane flying across the sky, subtle Japanese-inspired graphic elements, travel direction signs, maps, notebooks, passport, coffee mug, laptop, books, and business/travel objects arranged naturally around the subject.
+
+Use a bold editorial magazine-poster composition with deep navy/black shadows, turquoise blue, warm orange-red, cream and off-white graphic shapes. Add distressed paper textures, ink splashes, rough brush strokes, hand-painted elements, subtle grain, and layered collage details while keeping the main subject highly realistic.
+
+Include motivational typography integrated into the design, such as “A Better Tomorrow” at the upper left and “Impact” in large expressive turquoise handwritten lettering near the bottom. Add small editorial phrases like “Same Person, Bigger Dream”, “Good People, Brighter Places”, “A Good Life Creates A Better World”, “Plans / People / Opportunities / Progress”, and travel direction signs such as “Japan / Vietnam / World.”
+
+The final image should feel like a high-end international travel, lifestyle, and personal-growth campaign poster — cinematic, aspirational, sophisticated, youthful, slightly gritty, visually rich, and extremely detailed.
+
+Vertical 9:16 composition, premium advertising quality, realistic subject + artistic graphic collage, sharp details, cinematic lighting, authentic textures, balanced typography, no logos, no watermark.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2100076831420649717) | 2026-09-16
+
+---
+

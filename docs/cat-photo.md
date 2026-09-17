@@ -70631,3 +70631,187 @@ Natural smartphone photography, candid lifestyle aesthetic, soft rainy-day atmos
 
 ---
 
+### 📷 例 7929：复古胶片摄影：奔跑的女性
+
+![复古胶片摄影：奔跑的女性](../images/%E5%A4%8D%E5%8F%A4%E8%83%B6%E7%89%87%E6%91%84%E5%BD%B1%EF%BC%9A%E5%A5%94%E8%B7%91%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位年轻的亚洲女性以侧影姿态优雅地穿过开阔的草地，手中握着一束长茎红玫瑰。她身穿复古风格的服装，包括一件亮黄色长袖纽扣衬衫、一条深红色及膝 A 字裙、配套的红色高筒袜、黄色圆头高跟鞋，长发呈深色波浪状飘逸，头上系着黄色头巾/方巾，并佩戴醒目的黄色圆形夸张耳环。图像呈现出 1980 年代或 1990 年代的复古胶片摄影美学，色彩对比丰富，户外自然光线柔和，背景为情绪化的深绿色田野，并带有细腻的胶片颗粒感。
+
+[English]
+A young Asian woman running gracefully through an open grassy field in side profile, holding a bouquet of long-stemmed red roses. She is wearing a vintage-style outfit featuring a bright yellow button-up long-sleeve shirt, a deep red knee-length A-line skirt, matching red high socks, yellow round heel pumps, a yellow headscarf/bandana over long flowing dark wavy hair, and bold yellow circular statement earrings. The image has a retro 1980s or 1990s film photography aesthetic with rich color contrast, soft natural outdoor lighting, moody dark green field background, and fine film grain.
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2100126303534072187) | 2026-09-16
+
+---
+
+### 📷 例 7930：双重曝光山峦晨曦人像
+
+![双重曝光山峦晨曦人像](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E5%B1%B1%E5%B3%A6%E6%99%A8%E6%9B%A6%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将主体人像转化为高分辨率的双重曝光艺术作品。保持女性的面部、表情和姿势与原图一致，但将其服装和背景替换为黎明时分的壮丽山脉。山脉应覆盖着白雪，沐浴在穿透云层的温暖金色阳光中。在右上方天空中叠加一个由星星组成的发光星座鸟（类似凤凰）作为次要元素。添加微妙的颗粒质感和电影级布光，使两张图像无缝融合。
+
+[English]
+Using the provided reference image, transform the subject's portrait into a high-resolution double exposure artwork. Keep the woman's face, expression, and pose consistent with the original, but replace her clothing and the background with a majestic mountain range at dawn. The mountains should be covered in snow and bathed in warm golden sunlight breaking through the clouds. Overlay a secondary element of a glowing constellation bird (phoenix-like) formed by stars in the upper right sky. Add a subtle grain texture and cinematic lighting to blend the two images seamlessly.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2100124589452087593) | 2026-09-16
+
+---
+
+### 📷 例 7932：电影感红色烟雾海报
+
+![电影感红色烟雾海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BA%A2%E8%89%B2%E7%83%9F%E9%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张具有电影质感的风格化海报图像，展现了一位自信的南亚女性在戏剧性背景下的三个不同姿态，背景中弥漫着翻滚的红色烟雾和飞溅效果。中心人物是一张全身照，女性双手插兜站立，身穿剪裁利落的白色西装套装（包括西装外套和长裤），内搭白色纽扣衬衫，脚穿白色运动鞋，佩戴带有红色镜片的圆形飞行员墨镜。她留着一头蓬松的棕色长发。在她两侧是两张大幅特写肖像：左侧为佩戴同款墨镜的侧面轮廓；右侧为未戴墨镜的正面肖像，目光直视观众。背景充满了从底部升腾而起的浓烈红色烟雾云，营造出炽热的氛围。地面具有反射效果，倒映出红色烟雾和人物的双脚。高对比度，专业布光，焦点清晰。
+
+[English]
+A cinematic movie poster featuring a confident South Asian woman in a triple-exposure composition. The central figure is full-body, standing with legs apart and hands in pockets, wearing a crisp white pantsuit (blazer and trousers) over a white button-down shirt, white sneakers, and round red-tinted aviator sunglasses. Flanking her are two large headshots: on the left, a profile view wearing the same red sunglasses; on the right, a frontal portrait without glasses, showing natural makeup and wavy brown hair. The background is an explosion of vibrant red smoke and powder clouds against a stark white backdrop, creating a dramatic contrast. The floor is reflective, mirroring the red smoke and the subject's shoes. High-contrast lighting, sharp focus, 8k resolution.
+```
+
+**来源：** [@AiHua](https://x.com/aihua_art/status/2100108059498688933) | 2026-09-16
+
+---
+
+### 📷 例 7933：夜间闪光灯牡丹花束
+
+![夜间闪光灯牡丹花束](../images/%E5%A4%9C%E9%97%B4%E9%97%AA%E5%85%89%E7%81%AF%E7%89%A1%E4%B8%B9%E8%8A%B1%E6%9D%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+保持 100% 相似度：不要改变面部特征、比例、鼻子/嘴唇/眼睛的形状，或头发的颜色和质感。面部必须保持可识别。
+
+一张自发的夜间抓拍，捕捉运动中的瞬间。使用 iPhone 在夜间以直射闪光灯拍摄。呈现随性夜景美学。
+
+姿势：女孩位于画面的右下方。她的头部急剧转向一侧，倾向巨大的花束——由于头部运动导致面部和头发出现运动模糊，目光投向花朵，同时面部仍保持清晰可辨。一只手拿着巨大的 XXL 白色和粉色牡丹花束，另一只手臂向侧面伸展，触碰汽车。
+
+发型：随意盘起，脸颊周围的散发因运动而模糊。
+
+服装：一件宽松的白色 T 恤，穿着随意。
+
+环境：夜间的汽车旁。广阔的黑色夜空占据画面上部的大部分区域。直射内置闪光灯强烈照亮女孩和花束，周围环绕着深邃的阴影，背景陷入黑暗。白色 T 恤和牡丹花瓣上有过曝的闪光灯高光。
+
+复古胶片感：明显的模拟颗粒感，色彩略微褪色，微妙的暗角，温暖的肤色。图像填满整个画面边缘，无白色边框，全出血效果。手持拍摄，构图略有不完美。原始未修图的照片，无润色处理。
+
+--ar 9:16 --raw --style motion 50
+
+[English]
+PRESERVE 100% LIKENESS: do not change the facial features, proportions, shape of the nose/lips/eyes, or the color and texture of the hair. The face must remain recognizable.
+
+A spontaneous nighttime shot, a candid moment caught in motion. Shot on an iPhone at night with direct flash. Candid night aesthetic.
+
+POSE: the girl is positioned in the lower-right part of the frame. Her head is sharply turning to the side, leaning toward a huge bouquet — motion blur on the face and hair caused by the head movement, her gaze directed toward the flowers, while the face remains recognizable. One hand holds a huge XXL bouquet of white and pink peonies, while the other arm is extended to the side, touching the car.
+
+HAIR: casually tied up, with loose strands around the face blurred by motion.
+
+CLOTHING: an oversized white T-shirt, casually worn.
+
+ENVIRONMENT: nighttime beside a car. A vast expanse of black night sky occupies most of the upper frame. The direct built-in flash sharply illuminates the girl and the bouquet, with deep dark shadows surrounding them and the background falling into darkness. Overexposed flash highlights on the white T-shirt and peony petals.
+
+Vintage film: noticeable analog grain, slightly faded colors, subtle vignette, warm skin tone. The image fills the entire frame edge-to-edge, NO white border, full-bleed. Handheld, slightly imperfect framing. Raw, unedited shot with no retouching.
+
+--ar 9:16 --raw --style motion 50
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2100082691375071525) | 2026-09-16
+
+---
+
+### 📷 例 7935：电影质感天鹅绒西装人像
+
+![电影质感天鹅绒西装人像](../images/%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E5%A4%A9%E9%B9%85%E7%BB%92%E8%A5%BF%E8%A3%85%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感全身时尚人像，一位极具魅力的年轻男子，二十岁出头，自信地坐在黑暗工作室中一张简约的哑光黑色长方形凳子上。他留着浓密自然的波浪状乌黑头发，带有柔和的纹理体积感；眉毛浓密且轮廓分明；深邃富有表现力的深棕色眼睛；挺括雕塑般的鼻子；突出的颧骨；锋利阳刚的下颌线；以及细微自然的胡茬。他的表情平静、自信、严肃且神秘，直视镜头。
+
+他身穿剪裁完美的深午夜蓝天鹅绒西装，搭配结构感强的西装外套和配套长裤，内搭一件领口微敞的挺括白色正装衬衫，脚穿优雅的黑色皮鞋，佩戴极简精致的配饰。他的姿态放松而有力，身体微微前倾，手肘自然放在大腿上，双手在身前松散地交握。
+
+黑暗极简主义的电影工作室环境，背景从黑色渐变为炭灰色并完全融入黑暗，戏剧性的氛围烟雾和柔和雾气在他身后缭绕。来自上方略偏后方的强烈冷白色聚光灯透过烟雾营造出光环效果，而微妙的侧光则勾勒出他的面部和西装轮廓。深沉的阴影，高对比度，头发和肩膀周围有美丽的边缘光，现实的工作室地板投影。
+
+以高端男装编辑大片风格拍摄，全身构图，相机位置略低于视线水平，85mm 人像镜头，浅景深，真实的皮肤毛孔和面部纹理，自然的解剖结构，详细的天鹅绒和织物纹理，抛光皮鞋，电影级 HDR，精致奢华的美学，忧郁的黑色电影氛围，微妙的胶片颗粒，专业工作室摄影，照片级真实感，超高细节，8K 画质。
+
+无女性，无文字，无标志，无水印，无香烟，无夸张肌肉，无塑料皮肤，无人工感面孔，无扭曲的手部，无多余手指。
+
+[English]
+Ultra-realistic cinematic full-body fashion portrait of a strikingly handsome young man in his early 20s, seated confidently on a simple matte-black rectangular stool in a dark studio. He has thick naturally wavy jet-black hair with soft textured volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. His expression is calm, confident, serious, and mysterious, gazing directly into the camera.
+
+He wears a perfectly tailored deep midnight-blue velvet suit with a structured blazer and matching trousers, paired with a crisp white dress shirt slightly open at the collar, elegant black leather dress shoes, and minimal refined accessories. His posture is relaxed yet powerful, leaning slightly forward with elbows resting naturally on his thighs and both hands loosely interlocked in front of him.
+
+Dark minimalist cinematic studio environment, black-to-charcoal background completely fading into darkness, dramatic atmospheric smoke and soft mist swirling behind him. A strong cool-white spotlight from above and slightly behind creates a glowing halo through the smoke, while subtle side lighting sculptes his face and suit. Deep shadows, high contrast, beautiful rim lighting around his hair and shoulders, realistic shadow cast onto the studio floor.
+
+Shot as a high-end editorial menswear campaign, full-body composition, camera positioned slightly below eye level, 85mm portrait lens, shallow depth of field, realistic skin pores and facial texture, natural anatomy, detailed velvet and fabric texture, polished leather shoes, cinematic HDR, sophisticated luxury aesthetic, moody noir atmosphere, subtle film grain, professional studio photography, photorealistic, ultra-detailed, 8K quality.
+
+No women, no text, no logo, no watermark, no cigarette, no exaggerated muscles, no plastic skin, no artificial-looking face, no distorted hands, no extra fingers.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2100065236224966805) | 2026-09-16
+
+---
+
+### 📷 例 7937：高级时尚编辑风双重曝光
+
+![高级时尚编辑风双重曝光](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E9%A3%8E%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影感的高级时尚编辑肖像，描绘一位英俊的男士回头望向镜头（使用图像作为面部参考）。他留着短而略显凌乱的纹理发型，蓄着修剪整齐的浓密胡须，五官轮廓深邃且充满男性魅力，佩戴着一副未来感十足的黑色墨镜。他身穿一件复古蓝色牛仔夹克，展现出逼真的褪色质感、缝线细节以及磨损的面料纹理。
+在他身后，创建一个巨大的半透明重影双重曝光效果，呈现同一位男士略微朝向相反方向的姿态，为构图增添神秘的运动轨迹感。背景采用浓郁发光的焦橙色/琥珀色摄影棚渐变色调，伴有微妙的大气雾感和温暖的电影级布光。强烈的暖色轮廓光勾勒出头发和肩部的线条，柔和的方向性光线则照亮面部和牛仔面料的质感。
+高端时尚杂志美学，照片级真实的皮肤和头发，极其细腻的面料细节，戏剧性的对比度，浅景深，微妙的胶片颗粒感，精致的色彩分级，清晰的面部焦点，体积光，精致的商业摄影，奢华眼镜广告大片，动态分层构图，人像摄影，4:5 竖屏比例，无文字，无标志，无水印。
+
+[English]
+Create a cinematic high-fashion editorial portrait of a handsome man use image for face reference looking over his shoulder toward the camera. He has short, slightly messy textured hair, a full neatly groomed beard, strong masculine facial features, and wears futuristic n black sunglasses. He is dressed in a vintage blue denim jacket with realistic faded texture, stitching, and worn fabric details.
+Behind him, create a large semi-transparent ghosted double exposure of the same man, facing slightly toward the opposite direction, giving the composition a mysterious motion-trail effect. The background is a rich glowing burnt-orange/amber studio gradient with subtle atmospheric haze and warm cinematic lighting. Strong warm rim light outlines the hair and shoulders, while soft directional light illuminates the face and denim texture.
+Premium fashion magazine aesthetic, photorealistic skin and hair, extremely detailed fabric, dramatic contrast, shallow depth of field, subtle film grain, sophisticated color grading, sharp facial focus, volumetric light, polished commercial photography, luxury eyewear campaign, dynamic layered composition, portrait photography, 4:5 vertical aspect ratio, no text, no logos, no watermark.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2100063290093375640) | 2026-09-16
+
+---
+
+### 📷 例 7939：Tiny Chefs 魔法微型烘焙坊场景
+
+![Tiny Chefs 魔法微型烘焙坊场景](../images/Tiny%20Chefs%20%E9%AD%94%E6%B3%95%E5%BE%AE%E5%9E%8B%E7%83%98%E7%84%99%E5%9D%8A%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实、细节丰富的电影感竖屏 4:5 人像，展现名为 “Tiny Chefs” 的魔法温馨微型烘焙坊，画面充满温暖、甜蜜、创意与欢乐的能量。在场景中央，展示一位开朗的年轻女面包师，她身穿白色长袖衬衫，系着印有 “Tiny Chefs” 字样和小爱心图案的棕色围裙，穿着黑白格纹裤子，戴着红色领巾，头发梳成凌乱的丸子头。她右手高举金属打蛋器，张大嘴巴开怀大笑，正向前奔跑。在她周围是五个幼儿大小的迷你厨师（Q 版婴儿），每位都戴着印有爱心和 “Tiny Chef” 字样的超大蓬松厨师帽，身着粉色或蓝色的围兜/围裙搭配格纹服装，脸颊上沾着面粉，笑容灿烂，手持巨大的烘焙道具：一个拿着巨型草莓，一个拿着大块巧克力，一个拿着擀面杖，一个拿着裱花袋，一个拿着装满彩色糖珠的玻璃罐。地板上散落着溢出的面粉，形成手写文字 “Sweet People Make a Brighter World ♡”，此外还有糖果球、鸡蛋、巧克力块和碗。
+
+背景细节：
+- 顶部中央：悬挂的木制招牌写着 “Tiny Chefs – Bake a Happier World ♡”，配有厨师帽图标。
+- 左侧：黑板标题为 “Ingredients for Today:”，复选框列出 Love, Creativity, Kindness, Sweet Treats, Happy People，末尾有一个爱心；下方是标有 FLOUR, SUGAR, COCOA 的玻璃罐和一个倾倒出面粉的麻布袋。
+- 右侧：第二块黑板列出 Small Bites / Big Happiness / Sweet People / Brighter Days / Same Team / Bigger Dreams，配有一个爱心；旁边是一个标有 SPRINKLES 且装满多彩糖果的玻璃罐。
+- 远景透过拱形门廊：温暖的阳光、悬挂的吊灯、摆满烘焙食品的架子，以及架子上一个撒满糖珠的巨大粉色糖霜甜甜圈，还有一个小招牌写着 “Donut Happiness Lives Here ♡”。
+
+光影与风格：来自后方的黄金时刻暖光倾泻而下，柔和的背景虚化，色彩浓郁饱和，浅景深聚焦于面包师，木材、织物、面粉尘埃和光泽糖果具有超精细纹理。营造童话绘本与电影现实主义相结合的奇幻氛围。
+
+[English]
+Create an ultra-realistic, highly detailed cinematic vertical 4:5 portrait of a magical cozy miniature bakery called “Tiny Chefs”, filled with warmth, sweetness, creativity, and joyful energy. In the center of the scene, show a cheerful young female baker wearing a white shirt, red neckerchief, brown apron with "Tiny Chefs" written on it, and black-and-white checkered trousers, running forward with an excited expression while holding a whisk in her right hand. She is leading a parade of five tiny toddler chefs who are following closely behind her. Each toddler wears a puffy chef's hat labeled "Tiny Chef", has flour-dusted cheeks, and holds a specific oversized baking ingredient: from left to right, one holds a giant strawberry, another a large chocolate bar, one carries a rolling pin, another holds a piping bag, and the last one clutches a jar of sprinkles.
+
+The environment is a rustic, sunlit bakery interior. Above the main archway hangs a wooden sign reading "Tiny Chefs - Bake a Happier World" with a chef hat icon. To the left, there is a chalkboard titled "Ingredients for Today:" listing checkboxes for Love, Creativity, Kindness, Sweet Treats, and Happy People, next to glass jars labeled FLOUR, SUGAR, and COCOA. To the right, another chalkboard lists phrases like Small Bites Big Happiness, Sweet People Brighter Days, and Same Team Bigger Dreams, next to a jar labeled SPRINKLES. In the background through the door, a giant pink donut sculpture is visible. The floor is covered in scattered flour, colorful candies, and chocolate chunks, with the phrase "Sweet People Make a Brighter World" written in the flour dust at the bottom center.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2100050753276817452) | 2026-09-16
+
+---
+
