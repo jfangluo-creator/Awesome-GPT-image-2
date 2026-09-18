@@ -5556,3 +5556,57 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
+### 🏛️ 例 7941：夏日和服庭院场景提示词
+
+![夏日和服庭院场景提示词](../images/%E5%A4%8F%E6%97%A5%E5%92%8C%E6%9C%8D%E5%BA%AD%E9%99%A2%E5%9C%BA%E6%99%AF%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+夏の浴衣と水音
+
+主体：
+画面右、木造の和風家屋に面した小さな庭で若い女性が白砂利の上に膝を折って座り、手前左の黒い石の水鉢へ右手の指先を触れる。左には竹筒の水口、奥に青竹、庭石、植木、右に木の格子戸がある。
+
+人物・表情：
+ダークブラウンの髪を低い丸いシニヨンにまとめ、ピンクと白の小花飾りを添え、額と頬に細い後れ毛を残す。長い睫毛、自然な眉、淡い頬と唇。顔を左下の水面へ向け、伏し目で小さく微笑む穏やかな表情。
+
+服装・ポーズ：
+ワンピース状に全身を包む伝統的な一枚仕立ての浴衣。透け感のある白地に青、空色、ピンクの朝顔と紫陽花のような大花を散らした浴衣、襟と縁に淡い水色、腰に太い桃色の帯。右膝を前、左膝を後ろに折って低く座り、上体を水鉢へ前傾し、右腕を伸ばして指先を水へ触れ、左手は膝付近へ置く。
+
+背景・光：
+背景は画面右の木格子、中央の竹と庭石、画面左の緑と黒い水鉢、前景の白砂利で構成された静かな和風庭園。左上方の木立を主光源に柔らかな木漏れ日が差し、髪と肩、浴衣の花柄、水面に細かな光斑を作り、奥は穏やかな緑のボケになる。
+
+構図・カメラ：
+3:4の縦構図、座った人物より少し高いカメラ位置の標準レンズで全身を頭頂から裾、水鉢までを収める。人物を画面右、黒い水鉢を左前景に大きく置き、伸ばした腕で両者をつなぐ。顔と指先にピント、水鉢の前端と奥の庭は浅い被写界深度。
+
+質感・スタイル：
+フォトリアルな実写写真。まとめ髪と花飾り、薄い浴衣布、鮮やかな花柄、帯、濡れた黒石、水面の波紋、竹と葉を高精細にし、清涼感のある夏の色調にする。
+
+ネガティブ：
+浴衣の白地と青桃の花柄変更；指先が水面から離れること
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2100709129283129607) | 2026-09-17
+
+---
+
+### 🏛️ 例 7952：玫瑰园中接水的女子
+
+![玫瑰园中接水的女子](../images/%E7%8E%AB%E7%91%B0%E5%9B%AD%E4%B8%AD%E6%8E%A5%E6%B0%B4%E7%9A%84%E5%A5%B3%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张逼真的高分辨率人像照片，画面中一位年轻女子站在郁郁葱葱的花园里，周围盛开着粉色和白色的玫瑰花。她留着长长的湿黑发，发丝紧贴在皮肤上，身穿一件奶油色罗纹针织纽扣背心和白色短裤。她仰着头，闭着眼睛，神情愉悦，正俏皮地伸出舌头去接右手拿着的黑色花园水管喷嘴喷出的水花。光线温暖而金黄，暗示着午后阳光透过树叶洒下，营造出一种梦幻般的氛围，空气中悬浮着清晰可见的水滴。
+
+[English]
+A photorealistic, high-resolution portrait of a young woman standing in a lush garden filled with blooming pink and white roses. She has long, wet black hair that clings to her skin and is wearing a cream-colored ribbed knit button-down tank top paired with white shorts. Her head is tilted back, eyes closed in joy, and she is playfully sticking her tongue out to catch the spray of water coming from a black garden hose nozzle held in her right hand. The lighting is warm and golden, suggesting late afternoon sun filtering through the trees, creating a dreamy atmosphere with visible water droplets suspended in the air.
+```
+
+**来源：** [@One Breath｜AI Portrait](https://x.com/OneBreath00/status/2100382476413583422) | 2026-09-17
+
+---
+

@@ -70815,3 +70815,137 @@ The environment is a rustic, sunlit bakery interior. Above the main archway hang
 
 ---
 
+### 📷 例 7943：自然 iPhone 照片挑战
+
+![自然 iPhone 照片挑战](../images/%E8%87%AA%E7%84%B6%20iPhone%20%E7%85%A7%E7%89%87%E6%8C%91%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+挑战：让 AI 生成的图像看起来像是在 iPhone 上意外拍摄的，没有美化效果，没有人像模式，也没有电影感外观。
+
+[English]
+التحدي: جعل صورة AI تبدو كأنها التُقطت بالصدفة على iPhone وبدون تجميل وبدون Portrait Mode وبدون مظهر سينمائي.
+```
+
+**来源：** [@FAEIZ](https://x.com/Faeiz4Ai/status/2100613692802969909) | 2026-09-17
+
+---
+
+### 📷 例 7944：适用于 GPT Image 2 的电影感沙漠人像提示词
+
+![适用于 GPT Image 2 的电影感沙漠人像提示词](../images/%E9%80%82%E7%94%A8%E4%BA%8E%20GPT%20Image%202%20%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%99%E6%BC%A0%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的电影感全身肖像，描绘了一位二十岁出头、英俊非凡的年轻男子，自信地行走在广阔金色的沙漠沙丘中，正值日落时分。他拥有一头浓密自然卷曲的乌黑头发，呈现出柔和蓬松的质感；眉毛浓密且轮廓分明，深邃富有表现力的深棕色眼睛，挺直雕塑般的鼻子，突出的颧骨，棱角分明的男性化下颌线，以及淡淡的自然胡茬。他的表情平静、尊贵、自信且神秘。
+
+他穿着精致的传统中东风格服饰：一件奢华飘逸的象牙白长袍（thobe），带有微妙的刺绣细节；一件完美垂坠的深酒红色斗篷（bisht），饰有优雅的金色镶边；精致的皮革凉鞋；以及一条传统米色头巾（keffiyeh），自然地环绕在他的头部和肩部。织物在温暖的沙漠微风中轻轻飘动。
+
+无尽雕刻般的沙丘延伸至远方，在戏剧性的黄金时刻夕阳下熠熠生辉。温暖的阳光在沙地上投下长长的电影感阴影，大气中的尘埃颗粒在空中轻柔漂浮。远处雄伟的沙漠山脉剪影为地平线增添了深度。
+
+高端时尚编辑摄影，电影构图，自然的皮肤纹理和可见毛孔，逼真的织物细节，物理准确的光照，体积感的金色阳光，微妙的胶片颗粒，浅景深，丰富的暖色调，戏剧性的天空，照片级真实感，8K HDR，超高细节，使用 85mm 镜头拍摄，顶级杂志美学，无人工痕迹的面部，无文字，无水印。
+
+[English]
+Ultra-realistic cinematic full-body portrait of a strikingly handsome young man in his early 20s walking confidently through vast golden desert dunes at sunset. He has thick naturally wavy jet-black hair with soft tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. His expression is calm, regal, confident, and mysterious.
+
+He wears sophisticated traditional Middle Eastern-inspired clothing: a luxurious flowing ivory thobe with subtle embroidered detailing, a perfectly draped deep-burgundy bisht with elegant gold trim, refined leather sandals, and a traditional cream-colored keffiyeh styled naturally around his head and shoulders. The fabric moves gently in the warm desert breeze.
+
+Endless sculpted sand dunes stretch into the distance, glowing under a dramatic golden-hour sunset. Warm sunlight creates long cinematic shadows across the sand, with atmospheric dust particles floating softly in the air. A majestic distant desert mountain silhouette adds depth to the horizon.
+
+Luxury editorial fashion photography, cinematic composition, natural skin texture and visible pores, realistic fabric details, physically accurate lighting, volumetric golden sunlight, subtle film grain, shallow depth of field, rich warm tones, dramatic sky, photorealistic, 8K HDR, ultra-detailed, shot on an 85mm lens, premium magazine aesthetic, no artificial-looking face, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2100553654071968133) | 2026-09-17
+
+---
+
+### 📷 例 7946：嘉年华奇幻夜景
+
+![嘉年华奇幻夜景](../images/%E5%98%89%E5%B9%B4%E5%8D%8E%E5%A5%87%E5%B9%BB%E5%A4%9C%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张具有电影质感和超写实风格的广角镜头，呈现充满活力的夜间嘉年华场景。前景中，四位年轻人（两男两女）抬头仰望，脸上洋溢着惊奇与喜悦的表情。中间的女性留着深色长发，身穿白色花卉上衣，面带柔和微笑。她左侧的男子穿着连帽衫，正向上凝视。在他们身后，另一位女性和男性也注视着天空。背景充满了巨大的摩天轮和旋转木马结构散发的令人目眩的、失焦的光斑，闪烁着强烈的霓虹蓝、紫和橙色光芒。一匹旋转木马马神秘地漂浮在右上方的空中，脱离了游乐设施，沐浴在魔法般的光辉中。整体氛围如梦似幻且充满张力。
+
+[English]
+A cinematic, hyper-realistic wide shot of a vibrant night carnival scene. In the foreground, four young adults (two men and two women) stand looking up with expressions of wonder and joy. The central woman has long dark hair and wears a white floral top; she is smiling softly. To her left, a man in a hoodie looks upward. Behind them, another woman and man are also gazing at the sky. The background is filled with dazzling, out-of-focus bokeh lights from a massive Ferris wheel and carousel structures, glowing in intense neon blues, purples, and oranges. A single carousel horse floats mysteriously in the upper right air, detached from the ride, bathed in magical light. The atmosphere is dreamlike and electric.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2100507464320077836) | 2026-09-17
+
+---
+
+### 📷 例 7947：电影感牛仔夹克人像
+
+![电影感牛仔夹克人像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%89%9B%E4%BB%94%E5%A4%B9%E5%85%8B%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的电影感人像摄影作品，画面中是一位美丽的年轻女性，拥有一头浓密、自然卷曲的深棕色长发，中分发型，脸颊两侧有柔和的发丝修饰脸型。她五官精致柔美，皮肤白皙透亮，嘴唇呈自然的粉色，眉毛自然，眼神深邃动人（深棕色）。她直视镜头，表情平静、温柔且略带严肃。
+她身穿一件时尚黑色牛仔夹克，内搭修身黑色上衣，下身搭配黑色牛仔裤，腰间系着一条带有银色矩形扣环的黑色皮带。脖子上佩戴着一条精致的银色项链，挂着一个小吊坠。抬起的手腕上戴着一款经典黑色皮表带手表，表盘为银色。
+姿势：特写至半身人像，站在室内豪华现代走廊中。一只手轻轻触碰并撩起头部一侧的头发，另一只手臂自然下垂。身体面向镜头，姿态放松而自信。
+背景：优雅高档的酒店或豪华公寓走廊，墙壁呈暖米色，地面抛光反光，天花板灯光柔和，远处呈现奶油般的金色散景效果。背景虚化柔和，营造出高端电影氛围。
+光线：柔和温暖的室内照明，面部受自然漫射光照射，发丝上有微妙的高光，皮肤纹理真实，阴影柔和，整体色调温暖奢华。
+摄影风格：超写实专业时尚摄影，电影感人像，时尚杂志编辑风格，85mm 镜头，f/1.8 光圈，浅景深，发丝细节逼真，皮肤毛孔自然，黑色牛仔布料纹理清晰，高动态范围，柔和散景，专业色彩分级。
+构图：垂直 2:3 人像比例，平视相机角度，主体居中，突出头部和上半身，细节丰富，照片级真实感，8K 画质。
+负面提示词：卡通，动漫，插画，CGI，塑料质感皮肤，过度磨皮的脸部，模糊的眼睛，扭曲的手部，多余的手指，变形的脸部，不自然的头发，过饱和的颜色，刺眼的光线，低分辨率，水印，文字。
+
+[English]
+Create an ultra-realistic cinematic portrait photograph of a beautiful young woman with long, voluminous, naturally wavy dark brown hair, parted in the middle with soft face-framing strands. She has delicate feminine facial features, clear fair skin, soft pink lips, natural eyebrows, and expressive dark brown eyes. She is looking directly into the camera with a calm, gentle, slightly serious expression.
+She is wearing a stylish black denim jacket over a fitted black top, paired with black jeans and a black leather belt with a silver rectangular buckle. A delicate silver necklace with a small pendant rests around her neck. She is wearing a classic black leather wristwatch with a silver case on her raised wrist.
+Pose: Close-up to medium portrait, standing indoors in a luxurious modern hallway. One hand is gently touching and lifting her hair near the side of her head, while the other arm rests naturally. Her body is facing the camera, with a relaxed and confident posture.
+Background: An elegant upscale hotel or luxury apartment corridor with warm beige walls, polished reflective flooring, soft ceiling lights, and beautiful creamy golden bokeh in the distance. The background is softly blurred, creating a premium cinematic atmosphere.
+Lighting: Soft warm indoor lighting, natural diffused light on her face, subtle highlights on her hair, realistic skin texture, gentle shadows, and a warm luxurious color palette.
+Photography style: Ultra-realistic professional fashion photography, cinematic portrait, editorial fashion magazine style, 85mm lens, f/1.8 aperture, shallow depth of field, realistic hair strands, natural skin pores, detailed black denim texture, high dynamic range, soft bokeh, professional color grading.
+Composition: Vertical 2:3 portrait, eye-level camera angle, centered subject, head and upper body prominently framed, highly detailed, photorealistic, 8K quality.
+Negative prompt: cartoon, anime, illustration, CGI, plastic skin, over-smoothed face, blurry eyes, distorted hands, extra fingers, deformed face, unnatural hair, oversaturated colors, harsh lighting, low resolution, watermark, text.
+```
+
+**来源：** [@Zorvia](https://x.com/ZorviaLux/status/2100456702823030825) | 2026-09-17
+
+---
+
+### 📷 例 7949：GPT-Image-2 电影感人像提示词
+
+![GPT-Image-2 电影感人像提示词](../images/GPT-Image-2%20%E7%94%B5%E5%BD%B1%E6%84%9F%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+年轻男性的电影级超写实人像，使用图像作为面部参考，侧脸朝左，身穿简单的黑色圆领衬衫。采用戏剧性的低调照明，单一暖金色光源仅照亮其部分面部、额头、鼻子、嘴唇、下颌线、颈部和肩部，而其余面部和身体则隐入深邃的黑色阴影中。强烈的明暗对照法（Chiaroscuro），神秘黑暗的氛围，黑色背景，头发上有微妙的轮廓光，细节丰富的男性面部特征，短而整洁的深色发型，自然的皮肤纹理，沉思的表情，高对比度，温暖的琥珀色高光，深黑色调，情绪化的编辑摄影风格，浅景深，85mm 人像镜头，电影级色彩分级，照片级真实感，垂直构图，极简背景，戏剧性剪影，4K。
+
+[English]
+Cinematic ultra-realistic portrait of a young man use image for face reference in side profile, facing left, wearing a simple black crew-neck shirt. Dramatic low-key lighting with a single warm golden light source illuminating only {argument name="percentage" default="of his face"}, forehead, nose, lips, jawline, neck and shoulder, while the rest of his face and body disappear into deep black shadows. Strong chiaroscuro, mysterious dark atmosphere, black background, subtle rim lighting on the hair, detailed masculine facial features, short neatly styled dark hair, natural skin texture, contemplative expression, high contrast, warm amber highlights, deep blacks, moody editorial photography, shallow depth of field, 85mm portrait lens, cinematic color grading, photorealistic, vertical composition, minimal background, dramatic silhouette, 4K.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2100429164914557427) | 2026-09-17
+
+---
+
+### 📷 例 7951：Art Deco 翻新自拍
+
+![Art Deco 翻新自拍](../images/Art%20Deco%20%E7%BF%BB%E6%96%B0%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的广角自拍，主角是一位留着深棕色长卷发、面带温暖微笑的年轻女性。她身穿深灰色长袖亨利衫和蓝色牛仔裤，右臂伸向镜头进行拍摄。背景是一座正在进行戏剧性翻新或改造的宏伟历史 Art Deco 建筑。室内拥有挑高的天花板，装饰着精致的金箔线条，巨大的钢制支撑梁矗立其中，左侧可见脚手架。地面上散落着建筑废料、破碎的石膏以及零星的建筑图纸。电光蓝与金色的流光丝带在她周围的空气中盘旋飞舞，营造出一种神奇而充满未来感的氛围，与周围破败的环境形成鲜明对比。电影级的灯光突出了金色细节和动态的能量轨迹。
+
+[English]
+A hyper-realistic, wide-angle selfie of a young woman with long, wavy dark brown hair and a warm smile. She is wearing a dark grey, long-sleeved henley shirt and blue jeans, with her right arm extended toward the camera to take the photo. The setting is a grand, historic Art Deco building undergoing a dramatic renovation or transformation. The interior features high ceilings with intricate gold-leaf moldings, large steel support beams, and scaffolding on the left side. The floor is covered in debris, broken plaster, and scattered architectural plans. Swirling ribbons of electric blue and golden light streak through the air around her, creating a magical, futuristic atmosphere that contrasts with the dilapidated surroundings. The lighting is cinematic, highlighting the gold accents and the dynamic energy trails.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2100404842808393991) | 2026-09-17
+
+---
+

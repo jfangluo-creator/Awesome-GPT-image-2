@@ -3495,6 +3495,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7928：克劳德·德彪西《贝加莫组曲》海报](cat-poster.md#-例-7928克劳德德彪西贝加莫组曲海报)
 
 - [例 7934：旅行志向混合媒介海报](cat-poster.md#-例-7934旅行志向混合媒介海报)
+
+- [例 7945：中秋节排版海报提示词](cat-poster.md#-例-7945中秋节排版海报提示词)
+
+- [例 7948：冰川冰洞家庭海报](cat-poster.md#-例-7948冰川冰洞家庭海报)
+
+- [例 7950：双段式月光海报提示词](cat-poster.md#-例-7950双段式月光海报提示词)
 ---
 
 <a id="photo"></a>
@@ -9293,6 +9299,18 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7937：高级时尚编辑风双重曝光](cat-photo.md#-例-7937高级时尚编辑风双重曝光)
 
 - [例 7939：Tiny Chefs 魔法微型烘焙坊场景](cat-photo.md#-例-7939tiny-chefs-魔法微型烘焙坊场景)
+
+- [例 7943：自然 iPhone 照片挑战](cat-photo.md#-例-7943自然-iphone-照片挑战)
+
+- [例 7944：适用于 GPT Image 2 的电影感沙漠人像提示词](cat-photo.md#-例-7944适用于-gpt-image-2-的电影感沙漠人像提示词)
+
+- [例 7946：嘉年华奇幻夜景](cat-photo.md#-例-7946嘉年华奇幻夜景)
+
+- [例 7947：电影感牛仔夹克人像](cat-photo.md#-例-7947电影感牛仔夹克人像)
+
+- [例 7949：GPT-Image-2 电影感人像提示词](cat-photo.md#-例-7949gpt-image-2-电影感人像提示词)
+
+- [例 7951：Art Deco 翻新自拍](cat-photo.md#-例-7951art-deco-翻新自拍)
 ---
 
 <a id="illustration"></a>
@@ -12580,6 +12598,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7868：巴基斯坦与菲律宾奢华立体模型](cat-3d.md#-例-7868巴基斯坦与菲律宾奢华立体模型)
 
 - [例 7881：舒适露营车与银河之夜](cat-3d.md#-例-7881舒适露营车与银河之夜)
+
+- [例 7942：GPT Image 2 剪纸插画提示词](cat-3d.md#-例-7942gpt-image-2-剪纸插画提示词)
 ---
 
 <a id="architecture"></a>
@@ -13052,6 +13072,10 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7911：手工纸插画](cat-architecture.md#️-例-7911手工纸插画)
 
 - [例 7915：写实专业头像提示词](cat-architecture.md#️-例-7915写实专业头像提示词)
+
+- [例 7941：夏日和服庭院场景提示词](cat-architecture.md#️-例-7941夏日和服庭院场景提示词)
+
+- [例 7952：玫瑰园中接水的女子](cat-architecture.md#️-例-7952玫瑰园中接水的女子)
 ---
 
 <a id="comic"></a>

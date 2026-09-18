@@ -34564,3 +34564,59 @@ Vertical 9:16 composition, premium advertising quality, realistic subject + arti
 
 ---
 
+### 🎴 例 7945：中秋节排版海报提示词
+
+![中秋节排版海报提示词](../images/%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+由任意未来主题提供核心概念、短句信息和少量辅助说明，将主题转译为一个极端放大的文字或符号主体：第一眼必须是几乎撑满画面的粗重无衬线字形横向压入版面，字身像结构梁一样占据中心，局部被裁切或越界，使阅读先成为强烈的形体事件，再在其边缘读到副标题。背景保持大面积冷白留空，叠加极细、浅暖色的构图线、基准线和竖向分栏线，线条像设计稿未隐藏的骨架而非装饰。主色只用高饱和橙红承担全部视觉重量，灰色用于小段说明文字，避免多彩和渐变。信息模块稀疏地贴在网格交点和边缘：小图标由简单几何角、点、短横构成，标题短促加粗，正文窄列轻灰，整体呈现精确、克制、实验性的版式教学感。字形构造要求低对比、厚笔画、大开放内白、平直端点、紧密字距，标点和附属符号也服从网格节奏；若换成其他文字系统，保持同等的粗块量、内外空间关系、裁切压力和横向阅读动势。禁止插画化背景、阴影、纹理纸感、居中卡片、圆润可爱化、商业海报光效和过度排满信息。
+
+——————
+主题：{argument name="theme" default="乐"}
+比例：{argument name="aspect_ratio" default="9:16"}
+注意：适当的中秋元素
+字体颜色：{argument name="font_color" default="古驰安可拉红"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2100526246707024323) | 2026-09-17
+
+---
+
+### 🎴 例 7948：冰川冰洞家庭海报
+
+![冰川冰洞家庭海报](../images/%E5%86%B0%E5%B7%9D%E5%86%B0%E6%B4%9E%E5%AE%B6%E5%BA%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影风格的竖版海报，画面中一家四口带着他们的狗站在一个巨大的古老冰洞内。环境以高耸、半透明的蓝色冰川晶体为主，这些晶体构成了墙壁和天花板，明亮的灯光从上方透射下来。几根巨大的水晶柱上刻有发光的白色符文符号，包括太阳、三角形和波浪线。在前景左侧，一只金毛寻回犬坐着，抬头望向右方。它旁边站着一位留着棕色长发的年轻女子，身穿图案针织毛衣和深色牛仔裤，双手插兜，仰头凝视。她身后是一位留着胡须的男子，戴着黑色无檐便帽，穿着厚重的冬季夹克。右侧是两个孩子：一个男孩戴着灰色无檐便帽，穿着羽绒服；另一个女孩戴着奶油色无檐便帽，围着围巾，两人都敬畏地向上仰望。雪花在空中飘落，捕捉着光线。色调以冷蓝色、白色和灰色为主，与狗的毛发和女子的毛衣的暖色调形成对比。
+
+[English]
+A cinematic, vertical movie poster featuring a family of four and their dog standing inside a massive, ancient ice cave. The environment is dominated by towering, translucent blue glacier crystals that form the walls and ceiling, with bright light filtering through from above. Etched into several large crystal pillars are glowing white runic symbols, including suns, triangles, and wavy lines. In the foreground left, a golden retriever sits looking up to the right. Beside it stands a young woman with long brown hair wearing a patterned knit sweater and dark jeans, hands in pockets, gazing upward. Behind her is a man with a beard wearing a black beanie and heavy winter jacket. To the right are two children: a boy in a grey beanie and puffer jacket, and a girl in a cream beanie and scarf, both looking up in awe. Snowflakes drift through the air, catching the light. The color palette is cool blues, whites, and greys, contrasting with the warm tones of the dog's fur and the woman's sweater.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2100446766827237481) | 2026-09-17
+
+---
+
+### 🎴 例 7950：双段式月光海报提示词
+
+![双段式月光海报提示词](../images/%E5%8F%8C%E6%AE%B5%E5%BC%8F%E6%9C%88%E5%85%89%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 比例的垂直电影感艺术作品，灵感源自两张参考图片。将构图优雅地分为两个部分：上半部分展现写实而梦幻的江南水乡夜景，巨大的金色满月在柳树和黑瓦屋顶后熠熠生辉，一座温暖的小木屋水边茶馆亮着灯光，平静的运河水面倒映着月光，一艘载有两人的小木船，远处的飞鸟，以及宁静的星空；下半部分展示一幅精美的手绘水彩/水墨风格插画，描绘了平静湖畔旁的雪山，山后有一轮金色满月，湖面上有一艘载着一人的小船，水中有着柔和的倒影。保持构图平衡、宁静、魔幻且富有艺术感，上半部分场景采用温暖的金色调，下半部分场景采用冷蓝白色调，带有微妙的纸张纹理，优雅的极简排版区域，高端海报设计，细节丰富，电影级布光，梦幻的月光氛围，构图整洁，上半部分为写实场景 + 下半部分为细腻的水彩插画，无 Logo，无水印。
+
+[English]
+Create a vertical 2:3 cinematic artwork inspired by the two reference images. Divide the composition into two elegant sections: the top section shows a realistic dreamy Jiangnan water-town night, with a huge glowing golden full moon behind willow trees and black-tile roofs, a small warm wooden waterside teahouse with glowing lights, calm canal water reflecting the moonlight, a small wooden boat with two people, distant birds, and peaceful starry sky; the bottom section shows a beautiful hand-painted watercolor/ink illustration of a snowy mountain beside a calm lake, a golden full moon behind the mountain, a tiny boat with one person on the lake, and soft reflections in the water. Keep the composition balanced, peaceful, magical and artistic, with warm golden tones in the top scene and cool blue-white tones in the bottom scene, subtle paper texture, elegant minimal typography area, premium poster design, highly detailed, cinematic lighting, dreamy moonlight atmosphere, clean composition, realistic top scene + delicate watercolor illustration bottom scene, no logos, no watermark.
+```
+
+**来源：** [@Andy](https://x.com/Andy4aicreate/status/2100411989634011356) | 2026-09-17
+
+---
+
