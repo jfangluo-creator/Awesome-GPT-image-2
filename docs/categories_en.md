@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (597)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (599)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1187,6 +1187,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7938: 幼儿与服务员互动](cat-ui.md#️-例-7938幼儿与服务员互动)
 
 - [Case 7940: 迷你猕猴桃岛屿度假村](cat-ui.md#️-例-7940迷你猕猴桃岛屿度假村)
+
+- [Case 7960: 奢华地中海时尚大片提示词](cat-ui.md#️-例-7960奢华地中海时尚大片提示词)
+
+- [Case 7965: 静谧书写时刻的柔焦双联画](cat-ui.md#️-例-7965静谧书写时刻的柔焦双联画)
 ---
 
 <a id="chart"></a>
@@ -3505,7 +3509,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2936)
+## 📷 [Photography & Realistic](cat-photo.md) (2943)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9311,11 +9315,25 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7949: GPT-Image-2 电影感人像提示词](cat-photo.md#-例-7949gpt-image-2-电影感人像提示词)
 
 - [Case 7951: Art Deco 翻新自拍](cat-photo.md#-例-7951art-deco-翻新自拍)
+
+- [Case 7955: GPT Image 2 真人角色街拍](cat-photo.md#-例-7955gpt-image-2-真人角色街拍)
+
+- [Case 7956: 烟雾缭绕的超写实电影感肖像](cat-photo.md#-例-7956烟雾缭绕的超写实电影感肖像)
+
+- [Case 7957: 超写实时尚人像提示词](cat-photo.md#-例-7957超写实时尚人像提示词)
+
+- [Case 7958: 写实旅行人像提示词](cat-photo.md#-例-7958写实旅行人像提示词)
+
+- [Case 7959: 女子眨眼手持迷你自行车钥匙扣](cat-photo.md#-例-7959女子眨眼手持迷你自行车钥匙扣)
+
+- [Case 7963: 电影感健身宣传摄影](cat-photo.md#-例-7963电影感健身宣传摄影)
+
+- [Case 7964: 巴黎咖啡馆女子与猫提示词](cat-photo.md#-例-7964巴黎咖啡馆女子与猫提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1034)
+## 🎨 [Illustration & Art](cat-illustration.md) (1037)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11369,6 +11387,12 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7902: 戴蟹壳帽的鸭子](cat-illustration.md#-例-7902戴蟹壳帽的鸭子)
 
 - [Case 7924: 弥敦道上的可爱水彩女孩](cat-illustration.md#-例-7924弥敦道上的可爱水彩女孩)
+
+- [Case 7953: 动漫角色设计表：剑之女王](cat-illustration.md#-例-7953动漫角色设计表剑之女王)
+
+- [Case 7954: 巨型警用机器人捕获熊](cat-illustration.md#-例-7954巨型警用机器人捕获熊)
+
+- [Case 7961: 书店阅读照片提示词](cat-illustration.md#-例-7961书店阅读照片提示词)
 ---
 
 <a id="character"></a>
@@ -15372,7 +15396,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (173)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (174)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15717,6 +15741,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7846: 复古肖像照片修复](cat-edit.md#-例-7846复古肖像照片修复)
 
 - [Case 7849: 季节性街景风格转换器](cat-edit.md#-例-7849季节性街景风格转换器)
+
+- [Case 7962: 手绘时尚插画风格转换](cat-edit.md#-例-7962手绘时尚插画风格转换)
 ---
 
 <a id="fun"></a>

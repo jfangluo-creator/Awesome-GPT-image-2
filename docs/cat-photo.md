@@ -70949,3 +70949,180 @@ A hyper-realistic, wide-angle selfie of a young woman with long, wavy dark brown
 
 ---
 
+### 📷 例 7955：GPT Image 2 真人角色街拍
+
+![GPT Image 2 真人角色街拍](../images/GPT%20Image%202%20%E7%9C%9F%E4%BA%BA%E8%A7%92%E8%89%B2%E8%A1%97%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+【角色名】，真人版本，忠于角色核心识别。
+一组都市街拍摄影 × 时尚角色街头快照 × 自然生活感。
+角色真实出现在现代城市街头，以一组街拍影像的方式呈现。根据角色气质自动决定街景、现代穿搭转译、动作、站姿、回头瞬间、机位、景别与构图。
+保留发型、代表色、标志性配饰与身份气质，不照搬原作服装。
+真实街道、橱窗、咖啡店、巷口、斑马线、路牌、路人虚化背景，空间纵深自然。
+自然光或城市环境光，轻抓拍感，高级街拍感，真实摄影质感，人物清晰，背景有景深。
+不要 UI，不要截图感，不要多余文字。
+左上 stylized “V” + 猫元素 logo，右下 voxCAT 签名。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2100890040100626480) | 2026-09-18
+
+---
+
+### 📷 例 7956：烟雾缭绕的超写实电影感肖像
+
+![烟雾缭绕的超写实电影感肖像](../images/%E7%83%9F%E9%9B%BE%E7%BC%AD%E7%BB%95%E7%9A%84%E8%B6%85%E5%86%99%E5%AE%9E%E7%94%B5%E5%BD%B1%E6%84%9F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于参考图像，创作同一位年轻成年女性角色的全身超写实电影感肖像，保留其标志性外观：鲜艳的紫罗兰色齐下巴直发波波头搭配柔和刘海，白皙如瓷的皮肤，鼻子和脸颊上自然的雀斑，榛子色/浅棕色杏仁状眼睛，小巧笔挺的鼻子，精致的面部特征，光泽自然的嘴唇，以及纤细的身材。
+
+她坐在一把质朴的木椅上，一只膝盖屈起靠近胸口，同时用手调整抬起那只脚的鞋带。她身体微微前倾，头部朝向镜头，神情平静放松。她身穿一件宽松的大码橄榄绿短袖 T 恤，浅蓝色牛仔裤裤脚卷起，深色帆布 Converse 风格运动鞋配白色鞋底，黑色圆框眼镜，以及一个米色小号斜挎包/腰包。
+
+将场景设定在户外风化的石头和砖块废墟中，一座古老的石拱门构成画面框架，前景中有干枯的植物和枝叶，木椅放置在泥土大地上。背景充满浓厚的浅橙色和桃色烟雾，营造出梦幻而戏剧性的朦胧氛围。
+
+使用柔和忧郁的自然光线，搭配温暖的粉彩烟雾色调，逼真的阴影，电影感的景深，细腻的皮肤和头发细节，真实的牛仔布和织物纹理，大气朦胧感，照片级真实品质，超高清 8K 细节，高端编辑摄影风格，梦幻乡村美学。
+
+[English]
+Create a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.
+
+She is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.
+
+Set the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.
+
+Use soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2100839251294446037) | 2026-09-18
+
+---
+
+### 📷 例 7957：超写实时尚人像提示词
+
+![超写实时尚人像提示词](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+-
+超写实时尚人像，一位美丽的女性被飘逸的半透明白色织物环绕，柔和的风自然地吹动头发，优雅的白色无袖连衣裙，极简单色美学，轻盈的丝绸织物包裹着画面，梦幻般的电影感灯光，柔和漫射的自然光，奢华杂志摄影风格，空灵的氛围，精致的皮肤纹理，柔和的阴影，高级时装 Vogue 风格，居中构图，干净的白色背景，优雅的动作，85mm 镜头，浅景深，超高细节，高端美容广告，柔和哑光色调，自然的面部表情，漂浮的织物动态，精致的女性化美学
+
+[English]
+-
+Ultra realistic fashion portrait of a beautiful woman surrounded by flowing translucent white fabric, soft wind blowing hair naturally, elegant white sleeveless dress, minimal monochrome aesthetic, airy silk fabric wrapping around the frame, dreamy cinematic lighting, soft diffused daylight, luxury editorial photography, ethereal atmosphere, delicate skin texture, soft shadows, high fashion Vogue style, centered composition, clean white background, graceful movement, 85mm lens, shallow depth of field, ultra detailed, premium beauty campaign, soft matte tones, natural facial expression, floating fabric motion, sophisticated feminine aesthetic
+```
+
+**来源：** [@Marcos](https://x.com/arsalannazir07/status/2100812124109091018) | 2026-09-18
+
+---
+
+### 📷 例 7958：写实旅行人像提示词
+
+![写实旅行人像提示词](../images/%E5%86%99%E5%AE%9E%E6%97%85%E8%A1%8C%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的高分辨率旅行人像，描绘一位年轻女性优雅地坐在欧洲城市一座历史悠久的河畔石桥旁的石阶上。她留着深棕色的长直发，搭配柔和的空气刘海，五官自然，皮肤纹理真实，面带温柔含蓄的微笑，直视镜头。
+
+她身穿一件挺括的宽松白色纽扣衬衫，袖子随意卷起，下身搭配深海军蓝阔腿裤。身旁放着一个棕色小皮革斜挎包，配有金色链条，肩带自然地跨过她的衬衫。手腕上戴着简单的中性色发圈。
+
+她身后是一盏装饰华丽的黑色铸铁桥灯柱，细节繁复精致，背景是平静的河流、欧式历史建筑和清澈淡蓝色的天空。温暖的午后阳光柔和地照亮了她的脸庞和头发。
+
+自然抓拍风格的旅行摄影，比例真实，皮肤质感逼真，柔和日光，浅景深，背景轻微虚化，面料和头发细节高度清晰，阴影真实，专业单反相机拍摄，50mm 镜头，色彩自然，具有电影感但不过度处理，垂直 9:16 构图。
+
+负面提示词：塑料感皮肤，过度美颜修图，面部扭曲，不真实的眼睛，多余手指，畸形手部，物体重复，CGI 风格，卡通画，色彩过饱和，面部模糊，水印，文字，标志。
+
+[English]
+Create an ultra-realistic high-resolution travel portrait of a young woman sitting gracefully on a stone ledge beside a historic riverside bridge in a European city. She has long, straight dark-brown hair with soft curtain bangs, natural facial features, realistic skin texture, and a gentle subtle smile while looking directly at the camera.
+
+She is wearing a crisp oversized white button-down shirt with the sleeves casually rolled up, paired with dark navy wide-leg trousers. A small brown leather crossbody handbag with a gold chain rests beside her, with the strap crossing naturally over her shirt. She wears simple neutral-colored scrunchies on her wrist.
+
+Behind her is an ornate black cast-iron bridge lamp post with intricate decorative details, a calm river, historic European architecture, and a clear pale-blue sky. Warm late-afternoon sunlight softly illuminates her face and hair.
+
+Natural candid travel photography, realistic proportions, authentic skin texture, soft daylight, shallow depth of field, subtle background blur, highly detailed fabric and hair, realistic shadows, professional DSLR photography, 50mm lens, natural colors, cinematic but not overly processed, vertical 9:16 composition.
+
+Negative prompt: plastic skin, excessive beauty retouching, face distortion, unrealistic eyes, extra fingers, malformed hands, duplicated objects, CGI look, cartoon, oversaturated colors, blurry face, watermark, text, logo.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2100809390274298011) | 2026-09-18
+
+---
+
+### 📷 例 7959：女子眨眼手持迷你自行车钥匙扣
+
+![女子眨眼手持迷你自行车钥匙扣](../images/%E5%A5%B3%E5%AD%90%E7%9C%A8%E7%9C%BC%E6%89%8B%E6%8C%81%E8%BF%B7%E4%BD%A0%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%92%A5%E5%8C%99%E6%89%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的人像照片，背景为温馨的书店环境。画面中的年轻亚洲女性留着深棕色长发和空气刘海，身穿一件宽松的淡紫色粗针织毛衣。她俏皮地对着镜头眨眼，一只手托着下巴，另一只手举着一个蓝色迷你平衡车钥匙扣，该车配有黄色轮胎以及橙色车把和座椅。背景是虚化的木质书架，上面摆满了书籍，悬挂的灯具散发出温暖的环境光。附近的一块标牌上可见文字“A Brighter You”。
+
+[English]
+A realistic, high-resolution photograph of a young Asian woman in a cozy bookstore setting. She has long, dark brown hair styled in a messy half-up bun with loose strands framing her face. She is wearing a chunky, lavender-colored knit sweater. Her expression is playful and cute; she is winking with one eye closed and smiling gently while resting her chin on her left hand. In her raised right hand, she holds up a miniature keychain shaped like a blue balance bike with yellow wheels and an orange seat. The background features blurred wooden bookshelves filled with books, warm ambient lighting, and a sign that reads 'Good Books Better Days'. On the table in front of her are a few stacked magazines or books.
+```
+
+**来源：** [@LBan](https://x.com/LBan2049/status/2100807398751711408) | 2026-09-18
+
+---
+
+### 📷 例 7963：电影感健身宣传摄影
+
+![电影感健身宣传摄影](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%81%A5%E8%BA%AB%E5%AE%A3%E4%BC%A0%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感健身宣传照片，主角是一位英俊的年轻男性运动员，二十岁出头，正在昏暗的工业风健身房中，将沉重的杠铃直接举至镜头上方。采用极端的低角度仰拍视角，相机位于他正下方，使运动员和杠铃在观众头顶显得极具压迫感和戏剧性。
+
+他留着浓密自然的黑色波浪卷发，蓬松而凌乱有型；眉毛浓密且轮廓分明；深棕色眼眸深邃；鼻梁挺直如雕塑；颧骨突出；下颌线锋利阳刚；脸上带有细微的自然胡茬；皮肤纹理高度逼真，可见毛孔和汗水。
+
+他的肌肉线条自然清晰，体格健硕，肩部、手臂、胸部和核心肌群充满力量感。表情专注而坚定。当他用力将沉重杠铃向上推起时，双手间爆发出一团白色的镁粉尘雾，悬浮颗粒在电影感的顶光照射下弥漫于空气中。
+
+环境是一个粗犷昏暗的工业风健身房，配有黑色钢铁器械、混凝土墙壁、金属质感表面、微妙的大气雾霭、深邃阴影以及富有戏剧性的定向光照。强烈的轮廓光勾勒出他的身形，体积光束穿透充满镁粉的空气。
+
+添加醒目的文字 "{argument name="text" default="FORGED"}" 作为高端健身宣传排版，字体巨大有力，自然地融入构图之中，不遮挡运动员的面部或身体。采用工业风压缩大写字体，展现坚韧的运动美学，并带有轻微的做旧纹理。
+
+极端低角度，动态透视，电影级构图，宏大尺度感，高对比度，逼真的汗水与镁粉颗粒，浅景深，85mm 摄影美学，超高细节，照片级真实感，8K HDR，高端健身广告摄影。
+
+无女性，无人群，无多余人物，无 Logo，无水印，无解剖结构扭曲，无多余手指，无人工痕迹明显的脸部。
+
+[English]
+Ultra-realistic cinematic fitness campaign photograph of a strikingly handsome young male athlete in his early 20s lifting a massive heavy barbell directly above the camera in a dark industrial gym. Extreme ground-level low-angle perspective, with the camera positioned directly beneath him, making the athlete and barbell tower dramatically above the viewer.
+He has thick naturally wavy jet-black hair with soft tousled volume, strong well-defined eyebrows, deep dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, subtle natural stubble, and highly realistic skin texture with visible pores and sweat.
+His muscular physique is naturally defined and athletic, with powerful shoulders, arms, chest, and core. His expression is intensely focused and determined. As he drives the heavy barbell upward, a dramatic explosion of white chalk dust bursts from his hands, filling the air with suspended particles illuminated by cinematic overhead lighting.
+The environment is a rugged dark industrial gym with black steel equipment, concrete walls, metal textures, subtle atmospheric haze, deep shadows, and dramatic directional lighting. Strong rim light outlines his physique while volumetric light beams cut through the chalk-filled air.
+Add the bold word "{argument name="text" default="FORGED"}" as premium gym campaign typography, large and powerful, integrated naturally into the composition without covering the athlete's face or body. Industrial condensed uppercase lettering, rugged athletic aesthetic, subtle distressed texture.
+Extreme low angle, dynamic perspective, cinematic composition, dramatic scale, high contrast, realistic sweat and chalk particles, shallow depth of field, 85mm photography aesthetic, ultra-detailed, photorealistic, 8K HDR, premium fitness advertising photography.
+No women, no crowd, no extra people, no logos, no watermark, no distorted anatomy, no extra fingers, no artificial-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2100779246247641102) | 2026-09-18
+
+---
+
+### 📷 例 7964：巴黎咖啡馆女子与猫提示词
+
+![巴黎咖啡馆女子与猫提示词](../images/%E5%B7%B4%E9%BB%8E%E5%92%96%E5%95%A1%E9%A6%86%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%8C%AB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张抓拍肖像，描绘了一位美丽的年轻女子在一个阳光明媚的下午坐在巴黎咖啡馆的户外小酒馆桌旁。她留着深色头发，梳成松散优雅的发髻，几缕柔和的发丝垂在脸侧，身穿米色风衣、奶油色针织毛衣和白色长裤。她怀里抱着一只毛茸茸的长毛虎斑白猫，手托着下巴，带着温柔的微笑若有所思地望向镜头外。圆形大理石台面的小酒馆桌上放着一杯带有拉花的卡布奇诺、一本小书和一个插着小白花的玻璃花瓶。温暖的自然阳光，柔和的阴影，舒适的美学风格，使用 35mm 镜头拍摄，景深效果，照片级真实感，8k 分辨率。
+
+[English]
+A candid portrait of a beautiful young woman sitting at an outdoor bistro table in a Parisian cafe on a bright sunny afternoon. She has dark hair styled in a loose, elegant updo with soft framing strands, wearing a beige trench coat, a cream knit sweater, and white trousers. She is holding a fluffy, long-haired tabby and white cat in her lap while resting her chin on her hand, gazing thoughtfully off-camera with a gentle smile. On the round marble-top bistro table sits a cup of cappuccino with latte art, a small book, and a glass vase with small white flowers. Warm natural sunlight, soft shadows, cozy aesthetic, shot on 35mm lens, depth of field, photorealistic, 8k resolution.
+```
+
+**来源：** [@Julia](https://x.com/juliaevee/status/2100755425050177894) | 2026-09-18
+
+---
+

@@ -16660,3 +16660,41 @@ Create a highly detailed cinematic fantasy miniature world built inside a giant 
 
 ---
 
+### 🖥️ 例 7960：奢华地中海时尚大片提示词
+
+![奢华地中海时尚大片提示词](../images/%E5%A5%A2%E5%8D%8E%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真风格的奢华时尚大片，主角是一位三十岁出头、极具魅力的地中海男士，留着深色波浪卷发和修剪整齐的络腮胡，佩戴圆形复古墨镜，身穿一套精致的酒红色/勃艮第红亚麻西装，搭配剪裁宽松的长裤和一件挺括的白色亚麻衬衫，衬衫领口微敞，脚踩棕色麂皮乐福鞋。他随意地倚靠在一堵古老风化的石灰岩墙上，双腿自然交叉，双手插在裤兜里，神情自信而放松，目光略微向上并避开镜头。
+戏剧性的地中海海岸场景，背景是令人屏息的绿松石色大海和崎岖的石灰岩悬崖，优雅的半山建筑，温暖的午后金色阳光，柔和的电影感阴影，浅景深效果，背景优美虚化，自然的皮肤质感，真实的织物纹理，营造出精致的意大利里维埃拉 / 阿马尔菲海岸氛围。全身时尚摄影，竖构图，主体突出取景，85mm 镜头，f/2.8 光圈，高端奢华杂志大片风格，电影级调色，温暖的大地色调，超写实摄影，面部细节清晰锐利，比例自然，带有微妙的胶片颗粒感，顶级时尚广告美学，8K 高清细节。
+
+[English]
+Photorealistic luxury fashion editorial of a stylish Mediterranean man in his early 30s, dark wavy hair, neatly trimmed full beard, wearing round vintage sunglasses, dressed in a sophisticated burgundy/wine-colored linen suit with relaxed tailored trousers and a crisp white linen shirt, shirt slightly unbuttoned, brown suede loafers. He is leaning casually against an old weathered limestone stone wall, one leg crossed naturally over the other, hands in trouser pockets, confident relaxed expression, looking slightly upward and away from camera.
+Dramatic Mediterranean coastal setting, breathtaking turquoise-blue sea and rugged limestone cliffs in the background, elegant hillside architecture, warm late-afternoon golden sunlight, soft cinematic shadows, shallow depth of field, beautifully blurred background, natural skin texture, realistic fabric texture, sophisticated Italian Riviera / Amalfi Coast atmosphere. Full-body fashion photography, vertical composition, subject prominently framed, 85mm lens, f/2.8, high-end luxury magazine editorial, cinematic color grading, warm earthy tones, ultra-realistic photography, sharp facial details, natural proportions, subtle film grain, premium fashion campaign aesthetic, 8K detail.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2100795233747476490) | 2026-09-18
+
+---
+
+### 🖥️ 例 7965：静谧书写时刻的柔焦双联画
+
+![静谧书写时刻的柔焦双联画](../images/%E9%9D%99%E8%B0%A7%E4%B9%A6%E5%86%99%E6%97%B6%E5%88%BB%E7%9A%84%E6%9F%94%E7%84%A6%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一幅包含两个并排面板的双联画图像。左侧面板展示了一位留着深色短发的年轻女子，坐在大窗户旁的桌前，低头在笔记本上书写或绘画。她身穿一件深色花卉图案的上衣。前景左侧有绿叶植物作为框架，部分遮挡了视线。上方悬挂着一盏温暖的吊灯。右侧面板是同一场景的极度柔焦、朦胧且梦幻的版本——女子呈现为明亮漫射光下的模糊剪影，表面投射着淡淡的树叶阴影。在右侧面板的右上角，优雅的衬线字体写着：“A Quieter Day”，下方是较小的文字“Small moments also make a bright life.”。其下有一条细横线。在右下角，非常小的全大写文字写着：“STILL HERE STILL GOOD”。整体氛围：温柔、治愈、宁静、怀旧。色调：柔和的绿色、暖白色、浅灰色、低饱和度。风格：日式美学摄影、胶片颗粒感、浅景深、高光过曝。
+
+[English]
+Create a diptych image with two side-by-side panels. The left panel shows a young woman with short dark hair sitting at a table by a large window, looking down and writing or drawing in a notebook. She wears a dark floral-patterned top. Green leafy plants frame the foreground on the left, partially obscuring the view. A warm pendant lamp hangs above. The right panel is an extremely soft-focus, hazy, dreamlike version of the same scene — the woman appears as a blurred silhouette against bright diffused light, with faint shadows of leaves cast across the surface. In the upper right corner of the right panel, elegant serif text reads: "A Quieter Day" followed by smaller text "Small moments also make a bright life." Below that, a thin horizontal line. In the bottom right corner, very small uppercase text reads: "STILL HERE STILL GOOD". Overall mood: gentle, healing, quiet, nostalgic. Color palette: muted greens, warm whites, soft grays, low saturation. Style: Japanese aesthetic photography, film grain, shallow depth of field, overexposed highlights.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2100740400063656209) | 2026-09-18
+
+---
+

@@ -21495,3 +21495,103 @@ Visual style: Use a sketchy, artistic aesthetic with visible pencil lines and wa
 
 ---
 
+### 🎨 例 7953：动漫角色设计表：剑之女王
+
+![动漫角色设计表：剑之女王](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E8%A1%A8%EF%BC%9A%E5%89%91%E4%B9%8B%E5%A5%B3%E7%8E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为 {argument name="character name" default="RU RIO"} 的动漫风格女性战士创建一张高度详细且专业的角色设计表。布局应在深色背景上划分为不同的区域，使用金色和白色文字。
+
+**左上角（档案）：** 标题为 "CHARACTER PROFILE" 的页眉，配有带翼徽章。下方是大号衬线字体的名字 "RU RIO"，副标题为 "SWORD QUEEN"。包含数据列表：年龄 (22)，身高 (172cm)，职业 (Sword Queen)，所属势力 (The Royal Court of Elysion)，头衔 (Heir to the Radiant Throne)，元素属性 (Light)，武器 (Regal Longsword "Lumina Regalia")。添加一个 "PERSONALITY" 部分，描述她冷静且坚定不移，以及一个 "LIKES/DISLIKES" 部分。以一句引言结尾："A queen's blade shall never waver."
+
+**顶部中央（主图）：** 角色略微仰视的大型高质量半身肖像。她留着黑色短发，灰色眼睛，身穿带有金色细丝装饰和高领的精致银色板甲。
+
+**右上角（三视图与分析）：** 标记为 "ORTHOGRAPHIC TURNAROUND" 的区域，展示角色站立的五个全身视图：正面 (FRONT)、3/4 侧面 (3/4 FRONT)、侧面 (SIDE)、3/4 背面 (3/4 BACK) 和背面 (BACK)。其右侧是一个 "PROPORTIONAL ANALYSIS" 图表，显示带有水平网格线的正面视图，标记头身比例（Head x 1, Head to Chin 等）。
+
+**中间条带（表情）：** 标记为 "EXPRESSION ANCHORS" 的一行，包含八个方形面板，展示角色面部特写及不同情绪：中性 (NEUTRAL)、平静 (CALM)、坚定 (DETERMINED)、骄傲 (PROUD)、温柔微笑 (SOFT SMILE)、甜美微笑 (SWEET SMILE)、关切/处理中 (CONCERN/HANDLING) 和战斗呐喊 (BATTLE CRY)。
+
+**左下角（服装）：** 标题为 "WARDROBE & ACCESSORIES BREAKDOWN" 的部分。它在人体模型上展示全套服装，随后是隔离展示的单品，标签包括：斗篷 (CLOAK)、躯干护甲 (TORSO ARMOR)、护手 (GAUNTLETS)、腿部护甲 (LEG ARMOR)、靴子 (BOOTS)，以及各种小配件如腰带和珠宝。
+
+**底部中央（材质与细节）：** 两行内容。上一行是 "MATERIAL PALETTE"，展示银色钢 (SILVER STEEL)、午夜缎面 (MIDNIGHT SATIN)、浆洗上衣 (STARCHED TOP)、皇家皮革 (ROYAL LEATHER) 和镀金饰边 (GILDED TRIM) 的色样。下一行是 "DETAIL CLOSE-UPS"，展示肩部护肩 (SHOULDER PAULDRON)、胸部装饰 (CHEST ORNAMENT)、大腿绑带与链条 (THIGH STRAP & CHAIN)、大腿竖琴与链条 (THIGH HARP & CHAIN) 以及剑柄细节 (SWORD HILT DETAIL) 的微距镜头。
+
+**右下角（技术）：** 一列 "TECHNICAL NOTES"，列出关于轮廓和面料的要点。在其下方，是一条 "COLOR SCHEME" 带，包含菱形色样。最后，是一个 "RIG & MOVEMENT REFERENCE" 部分，展示角色的三个小型线框/骨架图。
+
+[English]
+Create a highly detailed, professional character design sheet for an anime-style female warrior named {argument name="character name" default="RU RIO"}. The layout should be organized into distinct sections on a dark background with gold and white text.
+
+**Top Left (Profile):** A header titled "CHARACTER PROFILE" featuring a winged emblem. Below it, the name "RU RIO" in large serif font, subtitle "SWORD QUEEN". Include a data list: AGE (22), HEIGHT (172cm), OCCUPATION (Sword Queen), AFFILIATION (The Royal Court of Elysion), TITLE (Heir to the Radiant Throne), ELEMENT (Light), WEAPON (Regal Longsword "Lumina Regalia"). Add a "PERSONALITY" section describing her as calm and unwavering, and a "LIKES/DISLIKES" section. End with a quote: "A queen's blade shall never waver."
+
+**Top Center (Main Art):** A large, high-quality bust portrait of the character looking slightly upward. She has short black hair, grey eyes, and wears intricate silver plate armor with gold filigree and a high collar.
+
+**Top Right (Turnaround & Analysis):** A section labeled "ORTHOGRAPHIC TURNAROUND" showing five full-body views of the character standing straight: FRONT, 3/4 FRONT, SIDE, 3/4 BACK, and BACK. To the right of this is a "PROPORTIONAL ANALYSIS" diagram showing the front view with horizontal grid lines marking head-to-foot ratios (Head x 1, Head to Chin, etc.).
+
+**Middle Band (Expressions):** A row labeled "EXPRESSION ANCHORS" containing eight square panels showing close-ups of the character's face with different emotions: NEUTRAL, CALM, DETERMINED, PROUD, SOFT SMILE, SWEET SMILE, CONCERN/HANDLING, and BATTLE CRY.
+
+**Bottom Left (Wardrobe):** A section titled "WARDROBE & ACCESSORIES BREAKDOWN". It displays the full outfit on a mannequin, followed by isolated items labeled: CLOAK, TORSO ARMOR, GAUNTLETS, LEG ARMOR, BOOTS, and various small accessories like belts and jewelry.
+
+**Bottom Center (Materials & Details):** Two rows. The top row is "MATERIAL PALETTE" showing swatches for SILVER STEEL, MIDNIGHT SATIN, STARCHED TOP, ROYAL LEATHER, and GILDED TRIM. The bottom row is "DETAIL CLOSE-UPS" showing macro shots of SHOULDER PAULDRON, CHEST ORNAMENT, THIGH STRAP & CHAIN, THIGH HARP & CHAIN, and SWORD HILT DETAIL.
+
+**Bottom Right (Technical):** A column with "TECHNICAL NOTES" listing bullet points about the silhouette and fabrics. Below that, a "COLOR SCHEME" strip with diamond-shaped color swatches. Finally, a "RIG & MOVEMENT REFERENCE" section showing three small wireframe/skeleton diagrams of the character.
+```
+
+**来源：** [@GenAIPractice](https://x.com/kkm27889/status/2101015598843220445) | 2026-09-18
+
+---
+
+### 🎨 例 7954：巨型警用机器人捕获熊
+
+![巨型警用机器人捕获熊](../images/%E5%B7%A8%E5%9E%8B%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%95%E8%8E%B7%E7%86%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的高分辨率图像，展示了一个巨大的双足警用机器人站在郁郁葱葱森林边缘的碎石空地上。这个机器人体型庞大，高耸于周围的车辆和人群之上，拥有黑白相间的装甲底盘，其胸部和肩甲上印有日文“警視庁”（东京都警视厅）和英文“MPD”。它的肩膀和头部闪烁着红光。机器人的双手正握着一个大型金属笼，里面关着一头活棕熊。在机器人的右侧停着一辆白色小型平板卡车，突显了机器人的巨大规模。两名身穿深蓝色制服、头戴头盔的人类警察站在卡车附近，仰望着机器人；他们背对镜头，夹克上印有“警視庁 MPD”。前景左侧有一个木制指示牌，上面有日文和英文文字：“大雪山国立公園 Daisetsuzan National Park”、“登山口 Trailhead”、“駐車場 Parking”，以及一个带有熊图标的警告标志，写着“クマ出没注意 Beware of Bears”。最右侧的另一条垂直横幅上写着“人と野生動物の共生を”（人与野生动物共存）。背景是茂密的树木和山峰，天空湛蓝，点缀着几朵白云。光线为自然日光，投射出逼真的阴影。
+
+[English]
+A photorealistic, high-resolution image of a giant bipedal police robot standing in a gravel clearing at the edge of a lush green forest. The robot is massive, towering over the surrounding vehicles and people, with a white and black armored chassis featuring Japanese text "警視庁" (Metropolitan Police Department) and English text "MPD" on its chest and shoulder plates. It has glowing red lights on its shoulders and head. The robot's hands are holding a large metal cage containing a live brown bear. To the right of the robot stands a small white flatbed truck, emphasizing the robot's immense scale. Two human police officers in dark blue uniforms and helmets stand near the truck, looking up at the robot; their backs are to the camera, showing "警視庁 MPD" on their jackets. In the foreground left, there is a wooden signpost with Japanese and English text: "大雪山国立公園 Daisetsuzan National Park", "登山口 Trailhead", "駐車場 Parking", and a warning sign with a bear icon reading "クマ出没注意 Beware of Bears". Another vertical banner on the far right reads "人と野生動物の共生を" (Coexistence between humans and wildlife). The background features dense trees and a mountain peak under a bright blue sky with scattered clouds. The lighting is natural daylight, casting realistic shadows.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2100918626996154589) | 2026-09-18
+
+---
+
+### 🎨 例 7961：书店阅读照片提示词
+
+![书店阅读照片提示词](../images/%E4%B9%A6%E5%BA%97%E9%98%85%E8%AF%BB%E7%85%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+本棚の隣で読む
+
+主体：
+画面右下、明るい大型書店の料理本コーナーで若い女性が木の床に座り、本棚へ背を預けて開いた本を持つ。右側いっぱいに白い背表紙の日本語書籍、左奥に低い木製平台と本の展示、さらに奥に大きな窓と観葉樹が見える。
+
+人物・表情：
+顎下で内側へ収まるダークブラウンのボブ、目の上でそろう薄い前髪、大きな茶色の瞳、繊細な睫毛、淡いピンクの頬、少し開いたコーラルの唇。顔を正面へ向け、首を本棚側へわずかに傾けてカメラを見る穏やかな表情。
+
+服装・ポーズ：
+小さな前ボタンと深い丸首の白い半袖リブトップ、黒いデニムショートパンツ、黒い厚底トングサンダル。床に腰を下ろして両膝を高く曲げ、脚を前で軽く重ね、両手で日本語の開いた本を胸前に持つ。
+
+背景・光：
+明るい木床と木製棚、白い本、中央奥の緑が並ぶ開放的な書店。左奥の大窓と天井照明から柔らかな昼の拡散光が入り、人物の顔と脚、本のページを均一に照らし、棚の奥へ穏やかな陰影を作る。
+
+構図・カメラ：
+3:4の縦構図、座った人物より少し高いカメラ位置の広角寄りレンズで全身を頭頂からサンダルまでを収める。人物を右下、本棚を右の縦面、左半分に書店通路の広い余白を配置。足先まで画面内に入れ、顔と本にピント、奥は中程度の被写界深度。
+
+質感・スタイル：
+フォトリアルな実写写真。短い髪、白いリブ、黒デニム、本の紙と木目、床の反射を精細にし、自然な書店スナップの明るい暖色調にする。背景の本は日本語の縦書き背表紙として見える範囲を自然に描く。
+
+ネガティブ：
+本を持つ床座り姿勢の変更；書店の本棚と木床の欠落
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2100783368342487101) | 2026-09-18
+
+---
+
