@@ -71126,3 +71126,29 @@ A candid portrait of a beautiful young woman sitting at an outdoor bistro table 
 
 ---
 
+### 📷 例 7967：电影级影棚人像提示词
+
+![电影级影棚人像提示词](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BD%B1%E6%A3%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建同一位男性的电影级超写实影棚人像，保留其面部身份、面部结构、发型、胡须、肤色及独特特征。
+
+他直视镜头，眼神强烈，表情严肃、自信且具威慑力。身穿挺括的白色正装衬衫，领口微开。纹身的双臂搭在深色表面上，双手在前景中自然交握。添加一款精致奢华的腕表。
+
+使用来自单侧的戏剧性暖色侧光，营造深邃的电影感阴影和轮廓分明的面部特征，同时保留真实的皮肤纹理、毛孔和胡须细节
+
+[English]
+Create a cinematic, ultra-realistic studio portrait of the same man, preserving his facial identity, facial structure, hairstyle, beard, skin tone, and distinctive features.
+
+He is staring intensely directly into the camera with a serious, confident, intimidating expression. He wears a crisp white dress shirt, slightly open at the collar. His tattooed forearms rest on a dark surface, with both hands naturally clasped together in the foreground. Add a sophisticated luxury wristwatch.
+
+Use dramatic warm side lighting from one direction, creating deep cinematic shadows and sculpted facial features while retaining realistic skin texture, pores, beard detail
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2101153881220907439) | 2026-09-19
+
+---
+

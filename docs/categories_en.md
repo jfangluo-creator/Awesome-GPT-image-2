@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (599)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (600)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1191,6 +1191,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7960: 奢华地中海时尚大片提示词](cat-ui.md#️-例-7960奢华地中海时尚大片提示词)
 
 - [Case 7965: 静谧书写时刻的柔焦双联画](cat-ui.md#️-例-7965静谧书写时刻的柔焦双联画)
+
+- [Case 7966: 水做的动漫少女](cat-ui.md#️-例-7966水做的动漫少女)
 ---
 
 <a id="chart"></a>
@@ -3509,7 +3511,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2943)
+## 📷 [Photography & Realistic](cat-photo.md) (2944)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9329,6 +9331,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7963: 电影感健身宣传摄影](cat-photo.md#-例-7963电影感健身宣传摄影)
 
 - [Case 7964: 巴黎咖啡馆女子与猫提示词](cat-photo.md#-例-7964巴黎咖啡馆女子与猫提示词)
+
+- [Case 7967: 电影级影棚人像提示词](cat-photo.md#-例-7967电影级影棚人像提示词)
 ---
 
 <a id="illustration"></a>
