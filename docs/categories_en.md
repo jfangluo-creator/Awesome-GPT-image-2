@@ -1431,7 +1431,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1056)
+## 🎴 [Posters & Cards](cat-poster.md) (1058)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3507,11 +3507,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7948: 冰川冰洞家庭海报](cat-poster.md#-例-7948冰川冰洞家庭海报)
 
 - [Case 7950: 双段式月光海报提示词](cat-poster.md#-例-7950双段式月光海报提示词)
+
+- [Case 7972: GPT Image 2 分屏旅行海报提示词](cat-poster.md#-例-7972gpt-image-2-分屏旅行海报提示词)
+
+- [Case 7973: 青少年走过巨型工具箱的超现实拼贴画](cat-poster.md#-例-7973青少年走过巨型工具箱的超现实拼贴画)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2944)
+## 📷 [Photography & Realistic](cat-photo.md) (2954)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9333,6 +9337,26 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7964: 巴黎咖啡馆女子与猫提示词](cat-photo.md#-例-7964巴黎咖啡馆女子与猫提示词)
 
 - [Case 7967: 电影级影棚人像提示词](cat-photo.md#-例-7967电影级影棚人像提示词)
+
+- [Case 7968: GPT Image 2 晨光人像提示词](cat-photo.md#-例-7968gpt-image-2-晨光人像提示词)
+
+- [Case 7969: 橙色屋顶时尚摄影提示词](cat-photo.md#-例-7969橙色屋顶时尚摄影提示词)
+
+- [Case 7970: 高速水珠人像](cat-photo.md#-例-7970高速水珠人像)
+
+- [Case 7971: 白毛巾温泉自拍](cat-photo.md#-例-7971白毛巾温泉自拍)
+
+- [Case 7974: 奢华香水明暗对照法肖像](cat-photo.md#-例-7974奢华香水明暗对照法肖像)
+
+- [Case 7975: 韩国女孩黄金时刻人像提示词](cat-photo.md#-例-7975韩国女孩黄金时刻人像提示词)
+
+- [Case 7976: 巴黎咖啡馆人像提示词](cat-photo.md#-例-7976巴黎咖啡馆人像提示词)
+
+- [Case 7977: GPT Image 2 电影感男性人像提示词](cat-photo.md#-例-7977gpt-image-2-电影感男性人像提示词)
+
+- [Case 7978: 纽约蓝调时刻街拍人像](cat-photo.md#-例-7978纽约蓝调时刻街拍人像)
+
+- [Case 7979: GPT Image 2 提示词：红色跑车内饰](cat-photo.md#-例-7979gpt-image-2-提示词红色跑车内饰)
 ---
 
 <a id="illustration"></a>

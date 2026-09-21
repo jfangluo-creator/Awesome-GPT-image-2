@@ -34620,3 +34620,51 @@ Create a vertical 2:3 cinematic artwork inspired by the two reference images. Di
 
 ---
 
+### 🎴 例 7972：GPT Image 2 分屏旅行海报提示词
+
+![GPT Image 2 分屏旅行海报提示词](../images/GPT%20Image%202%20%E5%88%86%E5%B1%8F%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张垂直分屏旅行海报，上半部分为摄影视角，下半部分为同一场景的 3D 分层纸艺插画。
+
+上半部分（写实摄影）：一张广角、高细节、色彩鲜艳的照片，展示 {argument name="location scenery" default="宁静的瑞士阿尔卑斯山谷与现代蓝色列车"}。光线为 {argument name="lighting style" default="温暖的黄金时刻光线"}。构图呈现 {argument name="main subject action" default="在轨道上转弯的列车"}。
+
+下半部分（纸艺艺术）：一幅精致、多层的 3D 剪纸插画，重现上方照片中的确切场景。手工制作的立体纸层营造出深度感，可见有纹理的纸张边缘和阴影。背景山脉、树木、建筑和主体等元素均由不同颜色的剪纸构成。插画背后的背景纸为温暖、有质感的米白色奶油色。
+
+排版与布局：简洁、极简主义的旅行海报设计。主标题采用优雅的深色衬线字体：“{argument name="title text" default="Alpine Journey"}”。较小的无衬线文本右对齐或侧对齐：“SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW”。极简风格的说明文字和细对齐线置于奶油色纸张背景上。
+
+[English]
+A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.
+
+Top Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name="location scenery" default="a serene Swiss alpine valley with a modern blue train"}. The lighting is {argument name="lighting style" default="warm golden hour light"}. The composition shows {argument name="main subject action" default="a train curving on tracks"}.
+
+Bottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.
+
+Typography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: "{argument name="title" default="Alpine Journey"}". Smaller sans-serif text aligned to the right or side: "{argument name="subtitles" default="SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW"}". Minimalist captions and thin alignment lines placed on the cream paper background.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2101555686060536233) | 2026-09-20
+
+---
+
+### 🎴 例 7973：青少年走过巨型工具箱的超现实拼贴画
+
+![青少年走过巨型工具箱的超现实拼贴画](../images/%E9%9D%92%E5%B0%91%E5%B9%B4%E8%B5%B0%E8%BF%87%E5%B7%A8%E5%9E%8B%E5%B7%A5%E5%85%B7%E7%AE%B1%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这幅超现实的混合媒介拼贴画展示了两名青少年挽臂走过条纹表面。左侧的女孩留着长长的棕色波浪卷发，身穿深灰色开衫，内搭白色上衣和蓝色牛仔裤，肩背米色托特包。右侧的男孩有着棕色卷发，穿着深灰色抓绒套头衫和蓝色牛仔裤，背着双肩包。两人深情地对视着。在他们右侧矗立着一个巨大的红色金属工具箱，箱盖打开，露出一个内部呈现山景的门户。背景由撕裂的纸张纹理构成，隐约可见报纸印刷、混凝土以及红、蓝、黑、白相间的对角线条纹层叠效果。整幅图像具有复古的颗粒质感，边缘粗糙。
+
+[English]
+A surreal mixed-media collage featuring two teenagers walking arm-in-arm across a striped surface. The girl on the left has long wavy brown hair, wearing a dark grey cardigan over a white top and blue jeans with a beige tote bag. The boy on the right has curly brown hair, wearing a dark grey fleece pullover and blue jeans with a backpack. They are looking at each other affectionately. To their right stands a giant red metal toolbox, open to reveal a portal showing a mountain landscape inside. The background is composed of torn paper textures revealing layers of newspaper print, concrete, and diagonal stripes in red, blue, black, and white. The entire image has a vintage, grainy texture with rough edges.
+```
+
+**来源：** [@Tiyashi](https://x.com/TiyashiAI/status/2101546399544557788) | 2026-09-20
+
+---
+
