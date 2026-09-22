@@ -21595,3 +21595,17 @@ A photorealistic, high-resolution image of a giant bipedal police robot standing
 
 ---
 
+### 🎨 例 7982：Madonna & Angels Oil Painting Meets Paper Cutout
+
+![Madonna & Angels Oil Painting Meets Paper Cutout](../images/Madonna%20%26%20Angels%20Oil%20Painting%20Meets%20Paper%20Cutout.jpg)
+
+**Prompt:**
+
+```text
+A vertical two-panel image. The top panel is a classical oil painting of the Madonna and Child surrounded by three angels in a lush garden setting, with soft natural lighting and rich colors. The bottom panel shows a hand holding a handmade paper cutout version of the same scene, rendered in a delicate watercolor style on textured off-white paper. To the left of the cutout, handwritten blue text reads 'A quieter world for tender things', and to the right, it says 'Music keeps love near'. A small gold star icon appears above the left text, and a green olive branch illustration sits below the right text. The overall aesthetic blends fine art tradition with modern craft sensibility.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2101955568781119532) | 2026-09-21
+
+---
+

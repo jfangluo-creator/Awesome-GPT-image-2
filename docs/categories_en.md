@@ -3515,7 +3515,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2954)
+## 📷 [Photography & Realistic](cat-photo.md) (2959)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9357,11 +9357,21 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7978: 纽约蓝调时刻街拍人像](cat-photo.md#-例-7978纽约蓝调时刻街拍人像)
 
 - [Case 7979: GPT Image 2 提示词：红色跑车内饰](cat-photo.md#-例-7979gpt-image-2-提示词红色跑车内饰)
+
+- [Case 7980: 日式剪纸日落拼贴](cat-photo.md#-例-7980日式剪纸日落拼贴)
+
+- [Case 7983: 天堂玻璃平台奢华大片](cat-photo.md#-例-7983天堂玻璃平台奢华大片)
+
+- [Case 7985: 电影感男性肖像提示词](cat-photo.md#-例-7985电影感男性肖像提示词)
+
+- [Case 7986: GPT-Image-2 空灵双生肖像效果提示词](cat-photo.md#-例-7986gpt-image-2-空灵双生肖像效果提示词)
+
+- [Case 7987: 柑橘园自然抓拍人像提示词](cat-photo.md#-例-7987柑橘园自然抓拍人像提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1037)
+## 🎨 [Illustration & Art](cat-illustration.md) (1038)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11421,6 +11431,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7954: 巨型警用机器人捕获熊](cat-illustration.md#-例-7954巨型警用机器人捕获熊)
 
 - [Case 7961: 书店阅读照片提示词](cat-illustration.md#-例-7961书店阅读照片提示词)
+
+- [Case 7982: Madonna & Angels Oil Painting Meets Paper Cutout](cat-illustration.md#-例-7982madonna--angels-oil-painting-meets-paper-cutout)
 ---
 
 <a id="character"></a>
@@ -12653,7 +12665,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (240)
+## 🏛️ [Architecture & Space](cat-architecture.md) (241)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13125,6 +13137,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7941: 夏日和服庭院场景提示词](cat-architecture.md#️-例-7941夏日和服庭院场景提示词)
 
 - [Case 7952: 玫瑰园中接水的女子](cat-architecture.md#️-例-7952玫瑰园中接水的女子)
+
+- [Case 7984: GPT Image 2 提示词：花园斑驳光影](cat-architecture.md#️-例-7984gpt-image-2-提示词花园斑驳光影)
 ---
 
 <a id="comic"></a>
@@ -13677,7 +13691,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (874)
+## 🏷️ [Brand & Packaging](cat-brand.md) (875)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15420,6 +15434,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 7931: 航拍蒸汽朋克工坊改造](cat-brand.md#️-例-7931航拍蒸汽朋克工坊改造)
 
 - [Case 7936: 超写实户外时尚人像：紫发女子与猫咪](cat-brand.md#️-例-7936超写实户外时尚人像紫发女子与猫咪)
+
+- [Case 7981: 凌乱公寓中绝望的女性](cat-brand.md#️-例-7981凌乱公寓中绝望的女性)
 ---
 
 <a id="edit"></a>

@@ -9357,6 +9357,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7978：纽约蓝调时刻街拍人像](cat-photo.md#-例-7978纽约蓝调时刻街拍人像)
 
 - [例 7979：GPT Image 2 提示词：红色跑车内饰](cat-photo.md#-例-7979gpt-image-2-提示词红色跑车内饰)
+
+- [例 7980：日式剪纸日落拼贴](cat-photo.md#-例-7980日式剪纸日落拼贴)
+
+- [例 7983：天堂玻璃平台奢华大片](cat-photo.md#-例-7983天堂玻璃平台奢华大片)
+
+- [例 7985：电影感男性肖像提示词](cat-photo.md#-例-7985电影感男性肖像提示词)
+
+- [例 7986：GPT-Image-2 空灵双生肖像效果提示词](cat-photo.md#-例-7986gpt-image-2-空灵双生肖像效果提示词)
+
+- [例 7987：柑橘园自然抓拍人像提示词](cat-photo.md#-例-7987柑橘园自然抓拍人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -11424,6 +11434,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 7954：巨型警用机器人捕获熊](cat-illustration.md#-例-7954巨型警用机器人捕获熊)
 
 - [例 7961：书店阅读照片提示词](cat-illustration.md#-例-7961书店阅读照片提示词)
+
+- [例 7982：Madonna & Angels Oil Painting Meets Paper Cutout](cat-illustration.md#-例-7982madonna--angels-oil-painting-meets-paper-cutout)
 ---
 
 <a id="character"></a>
@@ -13128,6 +13140,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7941：夏日和服庭院场景提示词](cat-architecture.md#️-例-7941夏日和服庭院场景提示词)
 
 - [例 7952：玫瑰园中接水的女子](cat-architecture.md#️-例-7952玫瑰园中接水的女子)
+
+- [例 7984：GPT Image 2 提示词：花园斑驳光影](cat-architecture.md#️-例-7984gpt-image-2-提示词花园斑驳光影)
 ---
 
 <a id="comic"></a>
@@ -15423,6 +15437,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7931：航拍蒸汽朋克工坊改造](cat-brand.md#️-例-7931航拍蒸汽朋克工坊改造)
 
 - [例 7936：超写实户外时尚人像：紫发女子与猫咪](cat-brand.md#️-例-7936超写实户外时尚人像紫发女子与猫咪)
+
+- [例 7981：凌乱公寓中绝望的女性](cat-brand.md#️-例-7981凌乱公寓中绝望的女性)
 ---
 
 <a id="edit"></a>

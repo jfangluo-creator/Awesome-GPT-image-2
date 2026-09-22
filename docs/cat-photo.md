@@ -71382,3 +71382,133 @@ A medium full-length street style portrait of a stylish young brunette woman wal
 
 ---
 
+### 📷 例 7980：日式剪纸日落拼贴
+
+![日式剪纸日落拼贴](../images/%E6%97%A5%E5%BC%8F%E5%89%AA%E7%BA%B8%E6%97%A5%E8%90%BD%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一幅垂直拼贴风格的图像，结合写实摄影与剪纸插画。上半部分是一张高分辨率的海滨日落场景照片：天空中布满戏剧性的紫色和粉色云彩，金色的太阳正沉入海平线。左侧是延伸入水的岩石海岸线，轻柔的波浪拍打着沙滩。远处的城市灯光沿着海岸线闪烁，水面上隐约可见一艘小船。下半部分是在米色纹理纸背景上的日式剪纸艺术（kirigami）风格插画。该部分包括柔和蓝色和粉色调的分层纸云、由纹理纸制成的圆形橙色太阳、岸边深棕色的撕纸岩石以及精致的白色纸浪。包含优雅的日文排版：左上角是大字文本“やさしい、夜のはじまり”（温柔的夜晚开始），其下方是描述海洋与光线的较小诗意文本，右上角则是关于明日联结的额外文本。使用微妙的投影以在纸张层之间创造深度，保持摄影写实感与手工纸艺之间的审美平衡。
+
+[English]
+Create a vertical collage-style image combining a realistic photograph and a paper-cut illustration. The top half is a high-resolution photograph of a coastal sunset scene: dramatic purple and pink clouds fill the sky, with a golden sun setting over the ocean horizon. A rocky shoreline extends into the water on the left, with gentle waves lapping against sandy beach. Distant city lights twinkle along the coastline, and a small boat is visible on the water. The bottom half features a Japanese paper-cut art style (kirigami) illustration on cream-colored textured paper background. This section includes layered paper clouds in soft blue and pink tones, a circular orange sun made from textured paper, dark brown torn-paper rocks along the shore, and delicate white paper waves. Include elegant Japanese typography: large text reading "やさしい、夜のはじまり" (Gentle beginning of night) in the upper left, smaller poetic text below it describing the sea and light, and additional text in the upper right corner about tomorrow's connections. Use subtle drop shadows to create depth between paper layers, maintaining an aesthetic balance between photographic realism and handcrafted paper art.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102087832332632517) | 2026-09-21
+
+---
+
+### 📷 例 7983：天堂玻璃平台奢华大片
+
+![天堂玻璃平台奢华大片](../images/%E5%A4%A9%E5%A0%82%E7%8E%BB%E7%92%83%E5%B9%B3%E5%8F%B0%E5%A5%A2%E5%8D%8E%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级奢华摄影作品：一位英俊非凡、二十岁出头的年轻男子自信地站立在悬浮于浩瀚云海之上的透明玻璃平台上。他拥有浓密自然的黑色波浪卷发，眉毛浓密有力，深棕色眼眸深邃迷人，下颌线条轮廓分明，留有细微自然的胡茬，皮肤质感真实，毛孔和面部细节清晰可见。他身穿剪裁精致的优雅米白色西装，搭配奢华丝绸衬衫，配饰极简，整体造型低调而高级。
+在他身后，巨大的雪山山脉穿透云层拔地而起，向地平线无限延伸。令人屏息的柔和金色日出照亮了山脉与云朵，形成细腻的光束、微妙的大气雾霭以及环绕主体的神圣光晕。脚下的玻璃平台反射着天空、云朵和温暖的日出光芒，营造出他仿佛伫立于天堂的错觉。
+空灵奢华的美学风格，梦幻般的氛围，电影构图，宏伟的尺度，柔和的体积阳光，逼真的云层形态，大气透视效果，自然反射，高端时尚编辑摄影，精致的色彩分级，浅景深，HDR，8K，超高细节，照片级真实皮肤，逼真光照，85mm 镜头，焦点清晰地落在男子身上，令人惊叹的广阔环境，无其他人物，无文字，无水印，无人工痕迹的面部。
+
+[English]
+Ultra-realistic cinematic luxury photograph of a strikingly handsome young man in his early 20s standing confidently on a transparent glass platform floating high above a vast ocean of soft white clouds. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores and fine facial details. He wears an elegant cream-white tailored suit with a luxurious silk shirt, minimal accessories, and premium understated styling.
+Behind him, an enormous snow-capped mountain range rises through the clouds, stretching endlessly toward the horizon. A breathtaking soft golden sunrise illuminates the mountains and clouds, creating delicate rays of light, subtle atmospheric haze, and a heavenly glow around the subject. The glass platform reflects the sky, clouds, and warm sunrise beneath his feet, creating the illusion that he is standing in heaven.
+Ethereal luxury aesthetic, dreamlike atmosphere, cinematic composition, majestic scale, soft volumetric sunlight, realistic cloud formations, atmospheric perspective, natural reflections, premium fashion editorial photography, sophisticated color grading, shallow depth of field, HDR, 8K, ultra-detailed, photorealistic skin, realistic lighting, 85mm lens, sharp focus on the man, breathtaking wide environment, no other people, no text, no watermark, no artificial-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2101876484873064463) | 2026-09-21
+
+---
+
+### 📷 例 7985：电影感男性肖像提示词
+
+![电影感男性肖像提示词](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感特写肖像，一位英俊的年轻男子身着精致的黑色定制西装和挺括的白色正装衬衫，浓密的深棕色波浪发向后梳理，呈现自然蓬松感，面部轮廓清晰阳刚，留有淡淡的胡茬，下颌线分明，目光坚定自信地直视镜头，采用四分之三侧面姿势，神情优雅而神秘。戏剧性的影棚布光，左侧带有温暖的琥珀色/橙色轮廓光，背景为深邃的冷调海军蓝，对比强烈，面部高光与阴影层次丰富且立体，浅景深，奢华时尚杂志美学，高端电影级调色，皮肤纹理高度细腻，发丝真实可见，毛孔自然，眼神锐利，专业摄影，85mm 人像镜头，f/1.8，柔和散景，HDR，照片级真实感，超高细节，8K，竖构图，精致的好莱坞风格肖像。
+
+[English]
+Ultra-realistic cinematic close-up portrait of a handsome young man in a sophisticated black tailored suit and crisp white dress shirt, thick dark brown wavy hair styled back with natural volume, clean masculine features, subtle stubble, strong jawline, intense confident gaze toward the camera, three-quarter profile pose, elegant and mysterious expression. Dramatic studio lighting with warm amber/orange rim light from the left and deep cool navy-blue background, strong contrast, beautifully sculpted facial highlights and shadows, shallow depth of field, luxury fashion editorial aesthetic, premium cinematic color grading, highly detailed skin texture, realistic hair strands, natural pores, sharp eyes, professional photography, 85mm portrait lens, f/1.8, soft bokeh, HDR, photorealistic, ultra-detailed, 8K, vertical composition, sophisticated Hollywood-style portrait.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2101872495544648189) | 2026-09-21
+
+---
+
+### 📷 例 7986：GPT-Image-2 空灵双生肖像效果提示词
+
+![GPT-Image-2 空灵双生肖像效果提示词](../images/GPT-Image-2%20%E7%A9%BA%E7%81%B5%E5%8F%8C%E7%94%9F%E8%82%96%E5%83%8F%E6%95%88%E6%9E%9C%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+请基于我上传的一张人物照片，生成一张3:4竖版“上下双生海报”。
+
+整体上下两个区域严格1:1分割，各占画面50%。
+
+上半部分：
+保留原始照片的主体身份、五官、发型、服装、姿态、构图和环境关系，仅做轻微高级调色。
+保持真实摄影质感，不要改变人物，不要增加额外角色。
+
+下半部分：
+仍然基于同一张照片中的同一人物，保持人物身份、脸部特征、服装、姿态、机位和场景不变。
+在人物身后、侧后方或身体边缘，生成一个“灵体伴生体”。
+
+这个伴生体应当像人物隐藏气质、情绪或力量的具象化分身，
+由【烟雾 / 光线 / 墨迹 / 数据颗粒 / 水流 / 花瓣 / 火焰 / 透明能量 / 半透明动物轮廓】构成。
+伴生体必须与人物有明确关系，像从人物身上延伸、生长或浮现出来。
+
+要求：
+伴生体是画面的视觉重点之一，但不能遮挡人物主体识别。
+整体仍然保持高级、真实、具有电影感的摄影效果。
+不是恐怖鬼怪，不要血腥，不要怪兽化，不要二次元卡通，不要夸张游戏特效。
+下半部分要像“现实中真的拍到了另一个隐形的自己”。
+
+整体风格：
+上半现实纪实，下半现实摄影基础上的超现实伴生呈现。
+画面需要有清晰的上下反差，但仍属于同一套视觉系统。
+```
+
+**来源：** [@Derek Wen｜德里克文](https://x.com/derek_wall90176/status/2101871682650775787) | 2026-09-21
+
+---
+
+### 📷 例 7987：柑橘园自然抓拍人像提示词
+
+![柑橘园自然抓拍人像提示词](../images/%E6%9F%91%E6%A9%98%E5%9B%AD%E8%87%AA%E7%84%B6%E6%8A%93%E6%8B%8D%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的户外自然抓拍人像，画面中一位年轻女性坐在郁郁葱葱的柑橘园里的质朴木质平台上。她留着深棕色长卷发，发丝自然地垂落在肩头和背部，几缕精致的碎发轻拂脸颊。她头上松松地裹着一条柔和的米色头巾或宽布发带。
+她抬头望向镜头，神情俏皮欢快，一只眼睛眨着，涂着柔和珊瑚红唇膏的嘴唇绽放出灿烂笑容。她的姿态放松而随性，一只手臂弯曲置于身侧，一只手轻轻搭在腰间附近。
+她身穿一件修身的白色无袖纹理上衣，带有精致细节，搭配高腰蓝色牛仔短裤。手腕上戴着一根简单的黑色发圈。
+她身旁放着一个大编织柳条篮，其弯曲的手柄和天然稻草纹理清晰可见。她身下的木质平台呈现出温暖的天然木纹和质朴质感。
+她周围环绕着茂密的绿色花园，长满青草、绿叶植物，还有一棵成熟的柑橘树，树上挂满了无数小巧成熟的橙色果实。粗壮的枝干和鲜绿的叶片填满了背景上方，形成美丽的天然华盖。
+构图：垂直 4:5 人像比例，略微俯视的高角度视角，主体位于画面下方中央，面部清晰可见，篮子在她身旁部分可见，柑橘树填满背景，呈现自然的抓拍框架。
+光线：柔和温暖的自然日光，头发和面部有轻柔的高光，阴影真实，绿植新鲜充满活力，色调略带暖色。
+摄影风格：超写实智能手机摄影，韩式/亚洲生活方式美学，自然皮肤质感，逼真的发丝，详细的柳条和木材纹理，真实的户外色彩，轻微的广角透视，微妙的景深，柔和的胶片颗粒感，高细节，4K。
+负面提示词：动漫，卡通，插画，CGI，3D 渲染，塑料皮肤，过度美颜滤镜，不真实的面部，解剖结构扭曲，畸形手部，多余手指，缺失手指，融合手指，多余肢体，不自然姿势，变形篮子，人造头发，过饱和色彩，刺眼演播室灯光，模糊面部，低分辨率，文字，水印，标志。
+
+[English]
+A photorealistic candid outdoor portrait of a young woman sitting on a rustic wooden platform in a lush citrus garden. She has long, dark brown wavy hair flowing naturally over her shoulders and down her back, with a few delicate strands framing her face. She wears a soft beige headscarf or wide fabric headband wrapped loosely around her head.
+She is looking up toward the camera with a playful, cheerful expression, winking with one eye and smiling brightly with soft coral-red lips. Her pose is relaxed and spontaneous, with one arm bent beside her body and one hand resting near her waist.
+She is wearing a fitted white sleeveless textured top with delicate detailing, paired with high-waisted blue denim shorts. A simple black hair tie is worn around her wrist.
+She is sitting beside a large woven wicker basket, with its curved handles and natural straw texture clearly visible. The wooden platform beneath her has warm natural wood grain and rustic character.
+Surrounding her is a dense green garden filled with lush grass, leafy plants, and a mature citrus tree covered with numerous small ripe orange fruits. Thick branches and vibrant green leaves fill the upper background, creating a beautiful natural canopy.
+Composition: vertical 4:5 portrait, slightly high-angle overhead perspective, subject positioned in the lower-center of the frame, face clearly visible, basket partially visible beside her, citrus tree filling the background, natural candid framing.
+Lighting: soft warm natural daylight, gentle highlights on her hair and face, realistic shadows, fresh vibrant greenery, subtle warm color tones.
+Photography style: ultra-realistic smartphone photography, candid Korean/Asian lifestyle aesthetic, natural skin texture, realistic hair strands, detailed wicker and wood textures, authentic outdoor colors, slight wide-angle perspective, subtle depth of field, soft film grain, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped basket, artificial hair, oversaturated colors, harsh studio lighting, blurry face, low resolution, text, watermark, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2101861630657359924) | 2026-09-21
+
+---
+
