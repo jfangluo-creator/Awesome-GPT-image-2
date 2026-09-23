@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (600)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (602)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1193,6 +1193,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 7965: 静谧书写时刻的柔焦双联画](cat-ui.md#️-例-7965静谧书写时刻的柔焦双联画)
 
 - [Case 7966: 水做的动漫少女](cat-ui.md#️-例-7966水做的动漫少女)
+
+- [Case 7992: 雨窗畔阅读的男子](cat-ui.md#️-例-7992雨窗畔阅读的男子)
+
+- [Case 7996: 燕尾服猫照片与线条画双联图](cat-ui.md#️-例-7996燕尾服猫照片与线条画双联图)
 ---
 
 <a id="chart"></a>
@@ -1431,7 +1435,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1058)
+## 🎴 [Posters & Cards](cat-poster.md) (1061)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3511,11 +3515,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 7972: GPT Image 2 分屏旅行海报提示词](cat-poster.md#-例-7972gpt-image-2-分屏旅行海报提示词)
 
 - [Case 7973: 青少年走过巨型工具箱的超现实拼贴画](cat-poster.md#-例-7973青少年走过巨型工具箱的超现实拼贴画)
+
+- [Case 7990: 纸艺揭秘海报](cat-poster.md#-例-7990纸艺揭秘海报)
+
+- [Case 7997: 极简主义石膏银河艺术](cat-poster.md#-例-7997极简主义石膏银河艺术)
+
+- [Case 8001: GPT Image 2 编辑风格美食海报提示词](cat-poster.md#-例-8001gpt-image-2-编辑风格美食海报提示词)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2959)
+## 📷 [Photography & Realistic](cat-photo.md) (2961)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9367,11 +9377,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 7986: GPT-Image-2 空灵双生肖像效果提示词](cat-photo.md#-例-7986gpt-image-2-空灵双生肖像效果提示词)
 
 - [Case 7987: 柑橘园自然抓拍人像提示词](cat-photo.md#-例-7987柑橘园自然抓拍人像提示词)
+
+- [Case 8000: 迪拜天际线黄金时刻人像](cat-photo.md#-例-8000迪拜天际线黄金时刻人像)
+
+- [Case 8002: 电影感蓝色背光人像](cat-photo.md#-例-8002电影感蓝色背光人像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1038)
+## 🎨 [Illustration & Art](cat-illustration.md) (1039)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11433,6 +11447,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 7961: 书店阅读照片提示词](cat-illustration.md#-例-7961书店阅读照片提示词)
 
 - [Case 7982: Madonna & Angels Oil Painting Meets Paper Cutout](cat-illustration.md#-例-7982madonna--angels-oil-painting-meets-paper-cutout)
+
+- [Case 7993: 可爱对话气泡吉祥物头像图标](cat-illustration.md#-例-7993可爱对话气泡吉祥物头像图标)
 ---
 
 <a id="character"></a>
@@ -12665,7 +12681,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (241)
+## 🏛️ [Architecture & Space](cat-architecture.md) (243)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13139,11 +13155,15 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7952: 玫瑰园中接水的女子](cat-architecture.md#️-例-7952玫瑰园中接水的女子)
 
 - [Case 7984: GPT Image 2 提示词：花园斑驳光影](cat-architecture.md#️-例-7984gpt-image-2-提示词花园斑驳光影)
+
+- [Case 7988: 晨间厨房围裙人像](cat-architecture.md#️-例-7988晨间厨房围裙人像)
+
+- [Case 7989: GPT Image 2 提示词：晨间厨房围裙](cat-architecture.md#️-例-7989gpt-image-2-提示词晨间厨房围裙)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (280)
+## 🎬 [Comics & Storyboards](cat-comic.md) (281)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13687,6 +13707,8 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 7907: 真人涂鸦影子提示词](cat-comic.md#-例-7907真人涂鸦影子提示词)
 
 - [Case 7909: 德黑兰老城冒险漫画插画](cat-comic.md#-例-7909德黑兰老城冒险漫画插画)
+
+- [Case 7991: 喧闹的捕虾人闯入酒馆](cat-comic.md#-例-7991喧闹的捕虾人闯入酒馆)
 ---
 
 <a id="brand"></a>
@@ -15440,7 +15462,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (174)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (178)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15787,6 +15809,14 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7849: 季节性街景风格转换器](cat-edit.md#-例-7849季节性街景风格转换器)
 
 - [Case 7962: 手绘时尚插画风格转换](cat-edit.md#-例-7962手绘时尚插画风格转换)
+
+- [Case 7994: 高质量体素游戏素材表](cat-edit.md#-例-7994高质量体素游戏素材表)
+
+- [Case 7995: 日落照片转蜡笔画分屏](cat-edit.md#-例-7995日落照片转蜡笔画分屏)
+
+- [Case 7998: 多洛米蒂湖泊照片转极简艺术](cat-edit.md#-例-7998多洛米蒂湖泊照片转极简艺术)
+
+- [Case 7999: GPT Image 2 怀旧编辑风剪贴簿转换](cat-edit.md#-例-7999gpt-image-2-怀旧编辑风剪贴簿转换)
 ---
 
 <a id="fun"></a>

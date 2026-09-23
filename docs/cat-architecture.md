@@ -5646,3 +5646,57 @@ A photorealistic, high-resolution portrait of a young woman standing in a lush g
 
 ---
 
+### 🏛️ 例 7988：晨间厨房围裙人像
+
+![晨间厨房围裙人像](../images/%E6%99%A8%E9%97%B4%E5%8E%A8%E6%88%BF%E5%9B%B4%E8%A3%99%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张写实风格的中景照片，展现了一位年轻的亚洲女性站在明亮温馨的厨房中，正值清晨时分。她留着带刘海的黑色长发，双臂举至脑后，正在将头发扎成马尾。她身穿一件黑白格纹围裙，白色肩带露出光洁的肩膀，佩戴着精致的金色项链和小巧耳环。她的神情平静，目光直视镜头。前景的木质台面上摆放着新鲜食材，包括一把绿叶蔬菜、三颗藤上红番茄、一把厨师刀和一个不锈钢搅拌碗。背景是温暖的木质橱柜、一台白色冰箱，以及一扇透入柔和自然阳光的窗户，照亮了整个场景。
+
+[English]
+A photorealistic medium shot of a young Asian woman standing in a bright, cozy kitchen during the morning. She has long black hair with bangs and is posing with both arms raised behind her head, tying her hair into a ponytail. She wears a black-and-white gingham check apron with white straps over bare shoulders, accessorized with a delicate gold necklace and small earrings. Her expression is calm and she looks directly at the camera. In the foreground on a wooden countertop, there are fresh ingredients including a bunch of green leafy vegetables, three red tomatoes on the vine, a chef's knife, and a stainless steel mixing bowl. The background features warm wooden cabinetry, a white refrigerator, and a window letting in soft natural sunlight that illuminates the scene.
+```
+
+**来源：** [@One Breath｜AI Portrait](https://x.com/OneBreath00/status/2102533983292793075) | 2026-09-22
+
+---
+
+### 🏛️ 例 7989：GPT Image 2 提示词：晨间厨房围裙
+
+![GPT Image 2 提示词：晨间厨房围裙](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E6%99%A8%E9%97%B4%E5%8E%A8%E6%88%BF%E5%9B%B4%E8%A3%99.jpg)
+
+**Prompt:**
+
+```text
+主題：
+格子エプロンの髪結び
+
+主体：
+画面中央、明るいキッチンで両腕を上げて髪を結ぶ若い女性。黒白の細かなギンガムチェックのホルターエプロン、前腰の大きな結び、手前の野菜が主役。
+
+人物・表情：
+小さな卵形の顔、細い顎、大きな濃茶の瞳、細い眉、整った鼻、艶のある桃色の唇を少し開く。顔をわずかに右へ向け、正面のカメラへ視線を合わせた落ち着いた表情。濃茶の髪は薄い前髪と顔脇の後れ毛を残し、両手で後頭部に低いポニーテールを作る。
+
+服装・ポーズ：
+黒白の極小ギンガムチェック、白い太いホルター肩紐、胸を直線的に包むギャザー入りエプロンワンピース、腰前の大きな共布リボン。金の小粒ピアスと細いペンダント。立って両肘を左右上へ大きく曲げ、両手で後頭部の髪をまとめる。
+
+背景・光：
+前景の木製調理台に金属ボウルの葉野菜、赤いトマト、包丁、胡椒瓶。背景左に冷蔵庫と木棚、中央に流し台、画面右に大窓と緑。右上の窓から硬い朝日が顔、腕、胸へ入り、台へ明るい影を作る。
+
+構図・カメラ：
+3:4の縦構図、調理台越しの胸と同じ高さの正面カメラで頭頂から腰下までを収める上半身ポートレート。人物を中央へ大きく、上げた両腕で上部を囲み、野菜を下端へ配置。肘は左右端で裁切し、瞳と顔にピント、キッチン奥は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌、細かな格子布、髪、金属ボウル、野菜、木台を高精細にし、白、黒、木色に朝日の暖色を加える。
+
+ネガティブ：
+両腕と髪結び変更；格子エプロンや野菜省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2102520565219180953) | 2026-09-22
+
+---
+

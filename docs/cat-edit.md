@@ -4861,3 +4861,177 @@ Turn this photo into a cute hand-drawn Japanese lifestyle/fashion sketch. Preser
 
 ---
 
+### 🔧 例 7994：高质量体素游戏素材表
+
+![高质量体素游戏素材表](../images/%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BD%93%E7%B4%A0%E6%B8%B8%E6%88%8F%E7%B4%A0%E6%9D%90%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，以显著更高的质量和细节重新生成所有等距像素艺术图标。保持完全相同的布局、网格结构、背景颜色以及日文文本标签不变。将每个图标从简单的低多边形块状物升级为具有适当阴影、纹理和鲜明特征的丰富细节体素风格插画（例如，为建筑物添加窗户/门，为角色添加武器/盾牌，为动物添加毛发细节）。保持相同的角色设计和建筑类型，但使其看起来更加精致和专业。
+
+[English]
+Using the provided reference image, regenerate all isometric pixel art icons with significantly higher quality and detail. Keep the exact same layout, grid structure, background color, and Japanese text labels unchanged. Upgrade each icon from simple low-poly blocks to richly detailed voxel-style illustrations with proper shading, textures, and distinct features (e.g., add windows/doors to buildings, weapons/shields to characters, fur details to animals). Maintain the same character designs and building types but make them look more polished and professional.
+```
+
+**来源：** [@赤池ラムネ@なんでもクリエイター](https://x.com/NANDEMO_BUILD/status/2102352216686579802) | 2026-09-22
+
+---
+
+### 🔧 例 7995：日落照片转蜡笔画分屏
+
+![日落照片转蜡笔画分屏](../images/%E6%97%A5%E8%90%BD%E7%85%A7%E7%89%87%E8%BD%AC%E8%9C%A1%E7%AC%94%E7%94%BB%E5%88%86%E5%B1%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个垂直分屏构图。上半部分是一张逼真的照片，展示了一个人在日落时分站在沙洲上张开双臂，戏剧性的橙色和蓝色云彩倒映在平静的水面上。下半部分是一幅稚拙的手绘蜡笔或油画棒插图，在白色背景上重现完全相同的场景。在绘画中，使用粗糙、有质感的笔触描绘天空（橙色、黄色、蓝色），并用简单的黑色线条勾勒人物的剪影及其倒影。包含手写日文文字：左侧为大字“きっと、うまくいく。”（一切都会好起来的），右侧为小字“あの夕陽みたいに、今日も、いいほうへ。”（像那夕阳一样，今天也向着美好前行），右下角为带有笑脸的“Good Tomorrow”。
+
+[English]
+Create a vertical split-screen composition. The top half is a realistic photograph of a person standing on a sandbar at sunset with arms outstretched, featuring dramatic orange and blue clouds reflected in the calm water. The bottom half is a naive, hand-drawn crayon or oil pastel illustration recreating the exact same scene on a white background. In the drawing, use rough, textured strokes for the sky (orange, yellow, blue) and simple black lines for the figure's silhouette and reflection. Include handwritten Japanese text: large characters 'きっと、うまくいく。' (It will surely work out) on the left, smaller text 'あの夕陽みたいに、今日も、いいほうへ。' (Like that sunset, today too, towards something good) on the right, and 'Good Tomorrow' with a smiley face in the bottom right corner.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102298619735138672) | 2026-09-22
+
+---
+
+### 🔧 例 7998：多洛米蒂湖泊照片转极简艺术
+
+![多洛米蒂湖泊照片转极简艺术](../images/%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E6%B9%96%E6%B3%8A%E7%85%A7%E7%89%87%E8%BD%AC%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直分屏构图，将写实摄影与风格化图形插画形成对比。上半部分是意大利多洛米蒂山脉布莱耶斯湖（Lago di Braies）著名船屋的高分辨率风景照，画面中一座质朴的木制高脚船屋矗立在翡翠绿的湖面上，背景是巍峨的山峰和戏剧性的云层。下半部分将该场景转化为极简主义、带有颗粒质感的丝网印刷风格插画，采用深蓝、黑色、珊瑚红和奶油色的有限配色方案。在下半部分，山脉由带有颗粒质感的扁平蓝色色块表示，太阳是一个巨大的粉色圆形，船屋则以纯黑色描绘并配有红色百叶窗。在插画的左侧，有竖排中文文字：'山会记得'、'湖也会记得'，随后是较小的文字'有些地方'和'一直在那里'。
+
+[English]
+A vertical split-screen composition contrasting a realistic photograph with a stylized graphic illustration. The top half is a high-resolution landscape photograph of the famous boathouse at Lago di Braies in the Dolomites, featuring a rustic wooden structure on stilts over emerald green water, backed by towering mountains and dramatic clouds. The bottom half transforms this scene into a minimalist, textured screen-print style illustration using a limited palette of deep blue, black, coral red, and cream. In this lower section, the mountains are represented by flat blue shapes with a grainy texture, the sun is a large pink circle, and the boathouse is depicted in solid black with red shutters. On the left side of the illustration, there is Chinese text arranged vertically: '山会记得' (The mountain will remember), '湖也会记得' (The lake will also remember), followed by smaller text '有些地方' (Some places) and '一直在那里' (Are always there).
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102294943255650749) | 2026-09-22
+
+---
+
+### 🔧 例 7999：GPT Image 2 怀旧编辑风剪贴簿转换
+
+![GPT Image 2 怀旧编辑风剪贴簿转换](../images/GPT%20Image%202%20%E6%80%80%E6%97%A7%E7%BC%96%E8%BE%91%E9%A3%8E%E5%89%AA%E8%B4%B4%E7%B0%BF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为精确的视觉参考，将其转换为具有怀旧感的编辑风格剪贴簿艺术作品。保留原始照片中的人物主体、构图、服装、姿势、物体及整体场景。
+
+创建垂直 3:4 的构图，采用精致、极简且受日本美学启发的照片转插画风格。
+
+最终设计应分为两个相等的水平区域：
+
+上半部分 — 原始照片
+• 将上传的原始照片放置在画布的上半部分（50%）。
+• 保持其真实感且完全不做修改。
+• 保留确切的面部特征、身体比例、服装、发型、姿势、光照、环境、家具、食物、毯子、窗户以及所有其他可识别的细节。
+• 不要裁剪重要的主体。
+• 自然地使用原始图像，边缘干净，无人工边框。
+
+下半部分 — 微缩故事书版本
+• 将照片中的确切场景重新创作为一幅小巧精致的手绘插画，位于下半部分的中心附近。
+• 保持相同的人物主体、姿势、服装、物体、透视和可识别的构图，但使整个场景看起来像是放置在纸上的微小怀旧插画。
+• 使用柔和的水彩 + 彩色铅笔 + 微妙的水粉画美学。
+• 细腻不完美的笔触、轻微纹理的边缘、柔和的阴影、柔和的自然色彩、略微褪色的复古外观。
+• 微缩场景应仅占据下半部分约 25–35% 的空间，周围留有充足的负空间。
+• 使其感觉像是捕捉在纸上的微小记忆，而非常规的全框插画。
+• 在微缩场景下方添加非常微妙的手绘阴影，以使其感觉自然地放置在纸上。
+
+背景
+• 用温暖的米白色/象牙色手工纸覆盖整个下半部分。
+• 可见细微的纸张纤维和颗粒感。
+• 略有不均匀的有机纹理，类似于优质水彩纸。
+• 极简、温暖、平静且优雅。
+• 无边框、无装饰图案、无不必要的元素。
+
+文字
+• 在微缩插画下方，添加一行非常小的手写短语：
+“{argument name="phrase" default="sunny days"}”
+• 使用纤细、精致的小写手写体。
+• 浅灰色/灰褐色墨水。
+• 保持文字微妙且不显眼，居中置于艺术作品下方。
+
+光照与色彩
+• 温暖的自然日光。
+• 柔和的奶油色、米色、淡蓝色、柔和的牛仔蓝和暖棕色调。
+• 温和的高光和柔和的阴影。
+• 略带怀旧感的胶片风格调色。
+• 避免过度饱和。
+• 整体氛围：安静、舒适、感性、宁静的家庭记忆。
+
+重要提示
+• 保持参考照片中人物的身份和视觉特征。
+• 不要发明额外的人物或物体。
+• 不要改变服装或姿势。
+• 不要扭曲解剖结构。
+• 微缩插画必须清晰地描绘与原始照片完全相同的时刻和场景。
+• 干净的高端编辑式构图。
+• 高细节、精致的艺术指导、写实
+
+[English]
+Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.
+
+Create a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.
+
+The final design should be divided into two equal horizontal sections:
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+•Place the uploaded original photograph in the upper 50% of the canvas.
+•Keep it photorealistic and completely unchanged.
+•Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.
+•Do not crop important subjects.
+•Use the original image naturally, with clean edges and no artificial frame.
+
+BOTTOM HALF — MINIATURE STORYBOOK VERSION
+•Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.
+•Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.
+•Use a soft watercolor + colored-pencil + subtle gouache aesthetic.
+•Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.
+•The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.
+•Make it feel like a tiny memory captured on paper rather than a conventional full-frame illustration.
+•Add a very subtle hand-drawn shadow underneath the miniature scene to make it feel naturally placed on the paper.
+
+BACKGROUND
+•Cover the entire bottom half with warm off-white / ivory handmade paper.
+•Visible fine paper fibers and subtle grain.
+•Slightly uneven organic texture, similar to premium watercolor paper.
+•Minimal, warm, calm and elegant.
+•No borders, no decorative patterns, no unnecessary elements.
+
+TEXT
+•Beneath the miniature illustration, add a very small handwritten phrase:
+“{argument name="phrase" default="sunny days"}”
+•Use thin, delicate, lowercase handwritten script.
+•Light gray/taupe ink.
+•Keep the text subtle and understated, centered beneath the artwork.
+
+LIGHTING & COLOR
+•Warm natural daylight.
+•Soft cream, beige, pale blue, muted denim blue and warm brown tones.
+•Gentle highlights and soft shadows.
+•Slightly nostalgic film-inspired color grading.
+•Avoid oversaturation.
+•Overall mood: quiet, cozy, sentimental, peaceful family memory.
+
+IMPORTANT
+•Maintain the identity and visual characteristics of the people from the reference photo.
+•Do not invent additional people or objects.
+•Do not change clothing or poses.
+•Do not distort anatomy.
+•The miniature illustration must clearly depict the same exact moment and scene as the original photograph.
+•Clean premium editorial composition.
+•High detail, sophisticated art direction, realistic
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2102283904560566600) | 2026-09-22
+
+---
+

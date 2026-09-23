@@ -21609,3 +21609,21 @@ A vertical two-panel image. The top panel is a classical oil painting of the Mad
 
 ---
 
+### 🎨 例 7993：可爱对话气泡吉祥物头像图标
+
+![可爱对话气泡吉祥物头像图标](../images/%E5%8F%AF%E7%88%B1%E5%AF%B9%E8%AF%9D%E6%B0%94%E6%B3%A1%E5%90%89%E7%A5%A5%E7%89%A9%E5%A4%B4%E5%83%8F%E5%9B%BE%E6%A0%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极简主义扁平设计插画，描绘了两个可爱的吉祥物，背景为纯黑色。主要主体位于左侧，是一个大型白色对话气泡角色，拥有两个垂直椭圆形黑眼睛和脸颊上柔和的粉色腮红。右下角部分重叠在主形象上的是一个较小的灰色圆角矩形，类似手持设备或智能手机，配有白色屏幕；屏幕上显示着一张简单的脸，有两个黑点眼睛和微笑的嘴巴。整体风格简洁、矢量感强，适合作为个人头像图标。
+
+[English]
+A minimalist, flat-design illustration of two cute mascots against a solid black background. The primary subject is a large, white speech bubble character positioned on the left, featuring two vertical oval black eyes and soft pink blush marks on its cheeks. In the bottom right corner, partially overlapping the main figure, is a smaller grey rounded rectangle resembling a handheld device or smartphone with a white screen; this screen displays a simple face with two black dot eyes and a smiling mouth. The style is clean, vector-like, and suitable for a profile icon.
+```
+
+**来源：** [@りょうたぐ/ryoutag.@愛しのsense9破損で泣く](https://x.com/ryoutag_/status/2102375406011830423) | 2026-09-22
+
+---
+

@@ -71512,3 +71512,43 @@ Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, exc
 
 ---
 
+### 📷 例 8000：迪拜天际线黄金时刻人像
+
+![迪拜天际线黄金时刻人像](../images/%E8%BF%AA%E6%8B%9C%E5%A4%A9%E9%99%85%E7%BA%BF%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的 9:16 竖版人像，保留参考图像中同一位女性的确切面部特征、脸型、眼睛、眉毛、鼻子、嘴唇、下颌线、自然肤色及可识别的特征。她留着长而浓密的黑发，梳成高马尾，其余头发以柔和波浪状自然垂落在单侧肩上。她身穿一件优雅的象牙白修身长袖服装，带有柔软的堆堆领和微妙的毛绒袖口。
+她在黄金时刻于一个阳台上拍摄自然的自拍，背景是迪拜市中心天际线和停泊着船只的水滨。背景中可见高耸的现代摩天大楼，通过真实的景深效果呈现柔和模糊状态。温暖的夕阳余晖轻轻照亮她的脸庞，营造出自然的高光和柔和的阴影。
+自然放松的微笑，直视镜头，真实的面部表情，逼真的皮肤质感，可见细微细节和毛孔，微妙的瑕疵，真实的发丝，专业智能手机摄影，浅景深，电影般的自然光线，逼真的色彩，高细节，照片级真实感，高端生活方式摄影。
+
+[English]
+Create an ultra-realistic vertical 9:16 portrait of the same woman from the reference image, preserving her exact facial identity, face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, and recognizable features. She has long, thick, glossy black hair styled in a high ponytail, with the remaining hair cascading naturally over one shoulder in soft waves. She is wearing an elegant fitted ivory-white long-sleeve outfit with a soft cowl neckline and subtle fluffy cuffs.
+She is taking a natural selfie on a balcony overlooking the Dubai Downtown skyline and a waterfront with boats during golden hour. Tall modern skyscrapers are visible in the background, softly blurred with realistic depth of field. Warm sunset light gently illuminates her face, creating natural highlights and soft shadows.
+Natural relaxed smile, direct eye contact with the camera, realistic facial expression, authentic skin texture, visible fine details and pores, subtle imperfections, realistic hair strands, professional smartphone photography, shallow depth of field, cinematic natural lighting, realistic colors, high detail, photorealistic, premium lifestyle photography.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2102283876294918510) | 2026-09-22
+
+---
+
+### 📷 例 8002：电影感蓝色背光人像
+
+![电影感蓝色背光人像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E8%93%9D%E8%89%B2%E8%83%8C%E5%85%89%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感高对比度人像，年轻男子侧脸特写，佩戴深色墨镜，中等长度凌乱头发被风吹向后方，下颌线条分明且面部纹理自然，戏剧性剪影效果，强烈的青色蓝色背光从身后照射，明亮过曝的白蓝色光晕环绕发丝，面部和颈部呈现深邃阴影，微妙的轮廓光勾勒出发丝和肩部线条，忧郁的未来主义氛围，极简背景，浅景深，柔和的大气雾霭，照片级逼真的皮肤和头发细节，时尚杂志摄影风格，使用 85mm 人像镜头拍摄，光圈 f/1.8，高动态范围，胶片颗粒感，青蓝单色调色，超精细细节，8K 分辨率，垂直构图，3:4 宽高比。
+
+[English]
+Cinematic high-contrast portrait of a young man in side profile, wearing dark sunglasses, medium-length tousled hair swept back by wind, strong jawline and natural facial texture, dramatic silhouette, intense cyan-blue backlighting from behind, bright overexposed white-blue light glowing around the hair, deep shadows across the face and neck, subtle rim light outlining the hair and shoulders, moody futuristic atmosphere, minimalist background, shallow depth of field, soft atmospheric haze, photorealistic skin and hair details, editorial fashion photography, shot on a 85mm portrait lens, f/1.8, high dynamic range, film grain, teal-blue monochromatic color grading, ultra-detailed, 8K, vertical composition, 3:4 aspect ratio.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2102236497948897434) | 2026-09-22
+
+---
+

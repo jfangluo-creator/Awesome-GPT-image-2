@@ -16716,3 +16716,39 @@ Create a vertical anime-style digital illustration of a young girl made entirely
 
 ---
 
+### 🖥️ 例 7992：雨窗畔阅读的男子
+
+![雨窗畔阅读的男子](../images/%E9%9B%A8%E7%AA%97%E7%95%94%E9%98%85%E8%AF%BB%E7%9A%84%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+中景镜头从后方略偏侧的角度捕捉到一名男子站在室内，面向一扇大窗户。他留着灰白的短发，身穿一件深海军蓝色的长款大衣或长袍。他双手捧着一份打开的白色文件或书籍，神情专注地阅读着。窗玻璃上布满了垂直的雨痕，将窗外的景色扭曲成一片抽象的模糊影像，呈现出深邃的蓝色、鲜艳的金黄色以及隐约的红色，暗示着夜晚的城市景象和发光的招牌（其中一个部分可辨认为“...BARBATES...”）。画面左侧，一部分抛光的深色木质镶板构成了场景的边框。底部沿窗台设有一排深蓝色天鹅绒长椅或座位区。整体光线充满情绪感和氛围感，窗外夜晚的冷色调与湿润玻璃上温暖的金色反光形成鲜明对比。
+
+[English]
+A medium shot from behind and slightly to the side captures a man standing indoors, facing a large window. He has short, graying hair and is wearing a long, dark navy blue coat or robe. In his hands, he holds an open white document or book, which he appears to be reading intently. The window pane is covered in vertical streaks of rain, heavily distorting the view outside into an abstract blur of deep blues, vibrant golds, and hints of red, suggesting a nighttime city scene with illuminated signs (one partially legible as "...BARBATES..."). To the left, a section of polished dark wood paneling frames the scene. At the bottom, a dark blue velvet banquette or seating area runs along the base of the window. The lighting is moody and atmospheric, contrasting the cool tones of the night outside with the warm golden reflections on the wet glass.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2102401817682293027) | 2026-09-22
+
+---
+
+### 🖥️ 例 7996：燕尾服猫照片与线条画双联图
+
+![燕尾服猫照片与线条画双联图](../images/%E7%87%95%E5%B0%BE%E6%9C%8D%E7%8C%AB%E7%85%A7%E7%89%87%E4%B8%8E%E7%BA%BF%E6%9D%A1%E7%94%BB%E5%8F%8C%E8%81%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直双联构图，分为两个截然不同的部分。上半部分是一张高质量的照片，展示了一只拥有明亮绿色眼睛的黑白燕尾服猫，它将前爪搭在竹制栏杆边缘，背景为纯色的哑光鼠尾草绿。下半部分是在有纹理的奶油色纸张上绘制的极简线条插画。这幅画以细腻的深色墨线描绘了同一只猫相似的姿势。素描周围环绕着手写风格的文字：左侧写着“Same curious eyes a kinder day”，右侧写着“a quieter world is enough”，并配有一个小新月图标。
+
+[English]
+A vertical diptych composition split into two distinct halves. The top half is a high-quality photograph of a black and white tuxedo cat with bright green eyes, resting its front paws over the edge of a bamboo rail against a solid matte sage-green background. The bottom half features a minimalist line-art illustration on textured cream-colored paper. This drawing depicts the same cat in a similar pose, rendered in delicate dark ink strokes. Handwritten-style text surrounds the sketch: 'Same curious eyes a kinder day' on the left, and 'a quieter world is enough' on the right, accompanied by a small crescent moon icon.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102297479773671621) | 2026-09-22
+
+---
+

@@ -34668,3 +34668,93 @@ A surreal mixed-media collage featuring two teenagers walking arm-in-arm across 
 
 ---
 
+### 🎴 例 7990：纸艺揭秘海报
+
+![纸艺揭秘海报](../images/%E7%BA%B8%E8%89%BA%E6%8F%AD%E7%A7%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于此照片创作一张高端设计海报。整体采用 3:4 竖版构图，分为上下两个等大的部分，高度比例为严格的 1:1，各占画面的 50%。
+
+上半部分：保留原始照片，确保主体的身份及所有细节与原图完全一致。
+
+下半部分：在带有纹理的米白色背景上制作逼真的纸艺效果。画面中心应有一个撕裂的纸张破洞，露出上方同一城市场景的黑白版本。关键在于，该黑白场景中的特定元素需以原本鲜艳的彩色（红色、品红、黄色）高亮显示，从而与单色背景形成强烈对比。
+
+[English]
+Create a high-end design poster from this photo. Use a 3:4 vertical composition overall, divided into two equal sections with a strict 1:1 height ratio, each occupying 50% of the image.
+
+Top half: Preserve the original photo, maintaining the subject's identity and all details exactly as they are in the source image.
+
+Bottom half: Create a realistic paper craft effect on a textured off-white background. The center should feature a torn paper hole revealing a grayscale version of the same city scene from above. Crucially, specific elements within this grayscale scene must be highlighted in their original vibrant colors (red, magenta, yellow) to create a striking contrast against the monochrome surroundings.
+```
+
+**来源：** [@Kris Kashtanova](https://x.com/icreatelife/status/2102513577437315328) | 2026-09-22
+
+---
+
+### 🎴 例 7997：极简主义石膏银河艺术
+
+![极简主义石膏银河艺术](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%9F%B3%E8%86%8F%E9%93%B6%E6%B2%B3%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张垂直双联海报设计，分为两个截然不同的部分。上半部分是高分辨率、照片级真实的银河系图像，以深邃的蓝色和紫色星云、密集的星团以及黑色虚空中的宇宙尘埃云为特色。下半部分是极简主义的影棚拍摄风格，采用纯哑光黑色背景。在下半部分的中心位置，有一个精致的白色石膏雕塑，安装在一根从矩形小底座升起的细金属杆上。该雕塑描绘了一个风格化的螺旋星系或太阳系模型，由同心圆环组成，环上点缀着代表行星和恒星的小球体。在雕塑左侧，优雅的阿拉伯语排版写着“بين النجوم”（意为“群星之间”）作为标题，下方是较小的文字“نفس واحد في اتساع لا نهائي”（意为“无限扩张中的一口气息”）。文字下方有一条短横线。右下角有非常微弱且细小的阿拉伯语文字。整体美学风格宁静、知性且高度精致。
+
+[English]
+A vertical diptych poster design split into two distinct halves. The top half is a high-resolution, photorealistic image of the Milky Way galaxy, featuring deep blue and purple nebulae, dense star clusters, and cosmic dust clouds against a black void. The bottom half is a minimalist studio shot with a solid matte black background. Centered in this lower section is an exquisite white plaster sculpture mounted on a thin metal rod rising from a small rectangular base. The sculpture depicts a stylized spiral galaxy or solar system model, consisting of concentric rings populated by tiny spheres representing planets and stars. To the left of the sculpture, elegant Arabic typography reads 'بين النجوم' (Between the Stars) as a headline, followed by smaller text 'نفس واحد في اتساع لا نهائي' (One breath in infinite expansion). A small horizontal line sits below the text. In the bottom right corner, there is very faint, small Arabic text. The overall aesthetic is serene, intellectual, and highly polished.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102296056583335947) | 2026-09-22
+
+---
+
+### 🎴 例 8001：GPT Image 2 编辑风格美食海报提示词
+
+![GPT Image 2 编辑风格美食海报提示词](../images/GPT%20Image%202%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+4:5 垂直比例编辑风格美食海报，画面中心为一盘手工蒸饺，盛放在深色锤纹陶瓷盘中，置于炭黑色石质台面上。构图居中，具有强烈的建筑感。
+
+一股高耸的热气直接升腾于饺子之上，成为主导性的图形元素。不要柔和蓬松的蒸汽，而是将热气塑造成层叠的半透明薄片、几何折面、垂直平面和重叠的玻璃状结构，营造出一种由热量构建的建筑纪念碑之感。
+
+仅可见厨师的双手和前臂。一只手臂从左上方自然伸入，穿着整洁的象牙白厨师袖口，正小心翼翼地将新鲜微型蔬菜撒在饺子上。另一只手从右下方伸入，扶着圆形竹制蒸笼的边缘，暗示这道菜刚刚上桌。不出现面部或完整的人体形象。
+
+背景为扁平化的哑光炭黑厨房墙面，细节极简。远处仅包含一个功能性物体：一个暖色调的拉丝铜酱锅，处于柔焦状态。
+
+采用克制的配色方案：炭黑、暖象牙白、石灰色、柔和铜色、淡竹棕色和清新的草本绿。戏剧性的定向餐厅灯光在饺子上形成雕塑般的高光、逼真的水汽、柔和的阴影以及可见的热度。
+
+在上升的热气后方放置一个巨大的半透明数字“{argument name="number" default="03"}”，部分被蒸汽建筑结构遮挡，并融入构图之中，而非悬浮其上。
+
+在底部，以高窄紧凑的编辑风格字体呈现单词“{argument name="title" default="DUMPLINGS"}”，字间距宽松。在边缘添加极小的辅助文字，营造精致的美食杂志氛围。
+
+极简、高端、触感丰富、静谧奢华，将美食摄影与瑞士编辑设计及建筑海报构图相结合。体现热量、精准、仪式感与宁静。无杂乱元素，无卡通风格，无过多道具。4:5 比例。
+
+[English]
+Vertical 4:5 editorial food poster featuring a single plate of handmade steamed dumplings arranged on a dark hammered ceramic dish over a charcoal stone countertop. The composition is centered and highly architectural.
+
+A tall column of hot vapor rises directly above the dumplings and becomes the dominant graphic element. Instead of soft, fluffy steam, shape the vapor into layered translucent sheets, geometric folds, vertical planes, and overlapping glass-like structures, creating the feeling of an architectural monument built from heat.
+
+Only the chef’s hands and forearms are visible. One arm enters naturally from the upper left in a clean ivory chef sleeve, delicately dropping fresh microgreens onto the dumplings. A second hand enters from the lower right, holding the edge of a round bamboo steamer, suggesting the dish has just been served. No face or full human figure.
+
+The background is a flattened matte charcoal kitchen wall with minimal detail. Include only one functional object in the distance: a warm brushed-copper saucepan, softly out of focus.
+
+Use a restrained palette of charcoal black, warm ivory, stone gray, muted copper, soft bamboo brown, and fresh herbal green. Dramatic directional restaurant lighting creates sculptural highlights on the dumplings, realistic moisture, gentle shadows, and visible heat.
+
+Place an enormous translucent numeral “{argument name="number" default="03"}” behind the rising vapor, partially obscured by the steam architecture and integrated into the composition rather than floating over it.
+
+At the bottom, set the word “{argument name="title" default="DUMPLINGS"}” in tall, narrow condensed editorial typography with generous letter spacing. Add very small secondary type around the edges for a refined culinary-magazine feel.
+
+Minimal, premium, tactile, quiet luxury, food photography blended with Swiss editorial design and architectural poster composition. Heat, precision, ritual, stillness. No clutter, no cartoon styling, no excessive props. 4:5.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2102276163317965292) | 2026-09-22
+
+---
+
