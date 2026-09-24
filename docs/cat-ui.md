@@ -16752,3 +16752,264 @@ A vertical diptych composition split into two distinct halves. The top half is a
 
 ---
 
+### 🖥️ 例 8013：MotoGP 第一人称视角过弯镜头
+
+![MotoGP 第一人称视角过弯镜头](../images/MotoGP%20%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0%E8%A7%86%E8%A7%92%E8%BF%87%E5%BC%AF%E9%95%9C%E5%A4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一段在专业赛道上拍摄的高速摩托车第一人称视角（POV）镜头。相机向左剧烈倾斜，模拟高速急转弯的动作。前景中，车手戴着白红相间的皮手套紧握车把，数字仪表盘清晰显示速度为 '93 km/h'，档位指示为 '2'。前方沥青赛道上，另一位身着全套赛车服的车手正深度压弯，车身几乎与地面平行。背景因运动模糊而显得朦胧：绿树、远处山脉、点缀着零星云朵的湛蓝天空，以及赛道边缘的红白路肩。自然日光照明在路面和头盔上营造出逼真的反射效果。
+
+[English]
+A high-speed, first-person point-of-view (POV) shot from a racing motorcycle on a professional circuit. The camera is tilted aggressively to the left, simulating a sharp cornering maneuver at speed. In the immediate foreground, the rider's gloved hand (white and red leather) grips the handlebar, with a digital dashboard visible showing '93 km/h' and gear indicator '2'. Ahead on the asphalt track, another racer in full leathers leans deeply into the curve, their bike nearly parallel to the ground. The background features blurred scenery due to motion blur: green trees, distant mountains under a bright blue sky with scattered clouds, and red-and-white curbing along the edge of the track. The lighting is natural daylight, creating realistic reflections on the tarmac and helmets.
+```
+
+**来源：** [@あいぼりー](https://x.com/HetareIvory/status/2102702010663313873) | 2026-09-23
+
+---
+
+### 🖥️ 例 8020：雨天秋日街头时尚 GPT Image 2
+
+![雨天秋日街头时尚 GPT Image 2](../images/%E9%9B%A8%E5%A4%A9%E7%A7%8B%E6%97%A5%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的全身街头时尚肖像，展示了一位年轻女性站在雨天秋日里一家优雅精品店的门外。她留着一头浓密蓬松的深棕色长卷发，妆容柔和自然，皮肤白皙，脸上洋溢着灿烂真诚的笑容。她站在一扇巨大的玻璃橱窗旁，俏皮地指向模特身上展示的服装。
+她身穿一件复古风格的橄榄绿纹理短款针织毛衣，搭配挺括的白色彼得潘领和胸前的一枚小花胸针。下身穿着一条高腰深橄榄棕色百褶中长裙，呈现出流畅的 A 字廓形。裙摆下隐约露出一层精致的白色蕾丝。脚上穿着一双带有脚踝绑带的厚底白色玛丽珍风格平台鞋。
+在她身旁是一个大型精品店展示窗，里面的模特穿着与之匹配的橄榄绿短款毛衣、白领、深色百褶裙和蕾丝饰边裙摆。展示窗底部摆放着一把小提琴和一篮色彩缤纷的花朵，营造出迷人的艺术店面场景。
+街道因刚下过雨而湿润，反射着柔和的环境光。她身后是质感丰富的石砌建筑、停放的汽车、店面以及一家温馨的咖啡馆。整体氛围浪漫、精致、复古且充满秋日气息。
+构图：垂直 4:5 人像，全身取景，女性位于右侧，左侧清晰可见模特和店面，平视相机角度，自然抓拍式时尚摄影。
+光线：雨后柔和的阴天日光，湿滑路面上有微妙的反光，温和的漫射高光，自然的阴影，柔和的大地色调色板。
+摄影风格：超写实时尚摄影，真实的街头摄影，逼真的皮肤纹理，详细的针织面料，自然的发丝，真实的玻璃反射，电影般的景深，细微的胶片颗粒感，高细节，4K。
+负面提示词：动漫，卡通，插画，CGI，3D 渲染，塑料皮肤，过度美颜滤镜，面部扭曲，畸形的手，多余的手指，缺失的手指，不自然的解剖结构，变形的模特，扭曲的衣物，不真实的鞋子，颜色过饱和，虚假的反光，过度模糊，低分辨率，文字，水印，标志。
+
+[English]
+A photorealistic full-body street-fashion portrait of a young woman standing outside an elegant boutique on a rainy autumn day. She has long, voluminous wavy dark brown hair, soft natural makeup, fair skin, and a bright genuine smile. She is standing beside a large glass storefront display and playfully pointing toward the outfit displayed on the mannequin.
+She is wearing a vintage-inspired olive-green textured cropped knit sweater with a crisp white Peter Pan collar and a small floral brooch on the chest. The sweater is paired with a high-waisted dark olive-brown pleated midi skirt with a flowing A-line silhouette. A delicate white lace layer peeks out beneath the skirt. She wears chunky white Mary Jane-style platform shoes with ankle straps.
+Beside her is a large boutique display window containing a mannequin dressed in a matching olive-green cropped sweater, white collar, dark pleated skirt, and lace-trimmed hem. A violin and a small basket of colorful flowers are arranged at the bottom of the display, creating a charming artistic storefront scene.
+The street is wet from recent rain, reflecting soft ambient light. Behind her are textured stone buildings, parked cars, storefronts, and a cozy coffee shop. The overall atmosphere feels romantic, sophisticated, vintage, and autumnal.
+Composition: vertical 4:5 portrait, full-body framing, woman positioned on the right side, mannequin and storefront clearly visible on the left, eye-level camera angle, natural candid fashion photography.
+Lighting: soft overcast daylight after rain, subtle reflections on wet pavement, gentle diffused highlights, natural shadows, muted earthy color palette.
+Photography style: ultra-realistic fashion photography, authentic street photography, realistic skin texture, detailed knit fabric, natural hair strands, realistic glass reflections, cinematic depth of field, subtle film grain, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped mannequin, distorted clothing, unrealistic shoes, oversaturated colors, fake reflections, excessive blur, low resolution, text, watermark, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2102585153340276909) | 2026-09-23
+
+---
+
+### 🖥️ 例 8021：GPT Image 2 秋分编辑海报系列提示词
+
+![GPT Image 2 秋分编辑海报系列提示词](../images/GPT%20Image%202%20%E7%A7%8B%E5%88%86%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E7%B3%BB%E5%88%97%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{
+  "task": "create_qiufen_editorial_poster_series",
+  "metadata": {
+    "generated_at": "2026-09-23",
+    "solar_term": "秋分",
+    "calendar_context": "二十四节气第十六个节气，秋季第四个节气，昼夜平分，寒暑均衡"
+  },
+  "theme": {
+    "name": "秋分",
+    "english": "AUTUMNAL EQUINOX",
+    "core_idea": "一年走到这里，世界开始对半安静下来。",
+    "interpretation": "秋分不是深秋，也不是丰收宣传画。它真正的精神是平衡：昼夜几乎等长，热与凉彼此交接，万物由生长的外放逐渐转入成熟后的收敛。它不是热闹地表达秋，而是让人感到一种秩序、克制、平静与成熟。",
+    "emotional_sentence": "光与影，各退一步，世界刚好安静。"
+  },
+  "generation": {
+    "count": 9,
+    "aspect_ratio": "9:16",
+    "output_rule": "一次性生成 9 张彼此独立的竖版高级海报，每张单独成图，不做九宫格，不做拼贴，不做分镜板。",
+    "series_rule": "9 张作品共享同一种秋分精神，但每张必须拥有不同的视觉切入方式、不同的空间关系、不同的材质重心、不同的排版气质与不同的风格表达。",
+    "variation_rule": "统一来自秋分的平衡感与高级审美；差异来自风格方向、场景逻辑、光影秩序、人与空间关系、留白结构与视觉语言。"
+  },
+  "creative_principle": {
+    "core": "固定的是秋分的精神，不固定秋分必须长什么样。",
+    "method": "不要直白堆砌落叶、稻田、书法、古风、丰收、月亮等传统秋季元素，也不要做成空洞的设计师概念海报。要通过光影、空间、几何、人物、材质、气息与秩序，让人感到‘平衡正在发生’。",
+    "visual_question": "如何在不依赖传统节气模板的前提下，让人一眼感到这是秋分——一个关于平衡、收束、成熟与静定的节气？"
+  },
+  "art_direction": {
+    "mood": [
+      "平衡",
+      "克制",
+      "成熟",
+      "安静",
+      "清透",
+      "秩序感",
+      "留白",
+      "轻凉",
+      "稳定",
+      "有呼吸感"
+    ],
+    "visual_character": [
+      "高级但不冷漠",
+      "极简但不空洞",
+      "东方气质但不古风模板化",
+      "时尚但不摆拍化",
+      "像高端生活方式 campaign",
+      "像 Pinterest 高收藏海报",
+      "像小红书高审美封面",
+      "像杂志 editorial 视觉"
+    ]
+  },
+  "seasonal_expression": {
+    "principle": "通过关系表现秋分，而不是通过符号表现秋分。",
+    "possible_relations": [
+      "明与暗各占一半",
+      "冷与暖相互交接",
+      "空与满之间的平衡",
+      "自然与建筑之间的平衡",
+      "身体与空间之间的平衡",
+      "运动与静止之间的平衡",
+      "生长与收敛之间的平衡",
+      "白天与夜晚之间的平衡",
+      "理性秩序与自然纹理之间的平衡"
+    ]
+  },
+  "human_presence": {
+    "optional": true,
+    "role": "人物是情绪锚点，不是影楼模特。",
+    "description": "如出现人物，为 83 版本西游记里面的沙悟净作为人物锚定，其穿着现代时装，但是其标志性的头冠和大项珠要还原。人物应自然、松弛、真实，不强调五官，而强调姿态、呼吸感、人与空间的关系。",
+    "styling_rule": "服装根据具体画面自由生成，只要求有质感、低饱和、适合初秋，不写死具体款式，可偏衬衫、针织、轻外套、亚麻、棉质、结构感日常服装。",
+    "action_rule": "不预设固定动作。人物可以站立、行走、停留、坐着、倚靠、感受风、与环境共处，或完全不出现人物。"
+  },
+  "color_system": {
+    "principle": "秋分的颜色不是浓烈秋色，而是更成熟、更平静、更均衡的色彩系统。",
+    "direction": [
+      "低至中等饱和度",
+      "米白、燕麦色、浅灰、雾蓝、鼠尾草绿、灰绿、浅棕、苔绿、炭灰、深墨绿、深靛蓝",
+      "允许少量柔和暖金、陶土色、落日橘作为季节过渡点",
+      "避免大面积金黄稻田色、浓烈橙红、廉价暖秋滤镜"
+    ]
+  },
+  "material_and_image_quality": {
+    "qualities": [
+      "自然光或克制的人造光",
+      "真实建筑与生活材质",
+      "真实纸张、布料、植物、金属、石材、玻璃纹理",
+      "轻微胶片颗粒",
+      "轻微印刷感",
+      "不过度锐化",
+      "不过度光滑",
+      "避免明显 AI 塑料感"
+    ]
+  },
+  "typography": {
+    "main_title": "秋分",
+    "subtitle_options": [
+      "把世界，慢慢分成两半。",
+      "昼夜平分，万物归衡。",
+      "When light and shadow reach an agreement."
+    ],
+    "rule": "文字极简、克制、像品牌海报落款，不做传统书法节气排版，不承担解释任务。"
+  },
+  "nine_style_directions": [
+    {
+      "index": 1,
+      "style_name": "极简建筑平衡",
+      "concept": "通过建筑与光影分割表达秋分的‘对半’与秩序感。",
+      "direction": "画面强调几何结构、白墙、长影、对半光区、水平与垂直线条的冷静关系。可以无人，也可以只有一个很小的人物作为尺度。整体极简、高级、安静，像建筑摄影与品牌海报的结合。"
+    },
+    {
+      "index": 2,
+      "style_name": "自然留白诗意",
+      "concept": "通过自然中的稀薄空气、轻微风感与留白表达秋分的安静。",
+      "direction": "画面不依赖黄叶，而通过植物、草木边缘、远山、天光、薄雾、轻微凉意与大面积留白表现节气转换。像一张非常克制的自然系情绪海报。"
+    },
+    {
+      "index": 3,
+      "style_name": "生活方式静物",
+      "concept": "通过精致日常器物体现成熟、收束、平衡与秋天初到的秩序感。",
+      "direction": "聚焦高审美静物关系，如织物、书页、果实、器皿、餐桌、纸张、影子、饮品、自然材料之间的平衡构图。不是商品广告，而是高级生活方式视觉。"
+    },
+    {
+      "index": 4,
+      "style_name": "人物与空间共处",
+      "concept": "通过一个人与空间的关系表达秋分时节的内在平衡。",
+      "direction": "人物不是主体表演者，而是空间中的生活者。强调人物很小、空间很大、人与光影的关系克制自然。情绪偏沉静、成熟、有呼吸感。"
+    },
+    {
+      "index": 5,
+      "style_name": "双重结构 / 对称与非对称",
+      "concept": "秋分的‘平衡’不一定是绝对对称，也可以是高级的不对称平衡。",
+      "direction": "画面可用双区块、双材质、双色面、双空间、双人物痕迹或镜像关系来表达‘均衡’，但不能做成呆板设计练习，要保留真实摄影气质。"
+    },
+    {
+      "index": 6,
+      "style_name": "城市边缘的秋分",
+      "concept": "让秋分进入现代城市语境，而非传统田园语境。",
+      "direction": "场景可以来自现代街道、露台、屋顶、通道、玻璃幕墙边缘、停车场、空旷公共空间等，通过光、风、尺度与留白表达节气感，呈现年轻人会喜欢的当代视觉。"
+    },
+    {
+      "index": 7,
+      "style_name": "材质与微观秩序",
+      "concept": "通过质地、表面、微妙反光与排列秩序表现秋分。",
+      "direction": "强调细节与局部，可以更近景、更抽象，但仍需真实。通过布料褶皱、植物纹理、纸张边缘、陶器、玻璃、水汽、金属反光等形成高级视觉张力。"
+    },
+    {
+      "index": 8,
+      "style_name": "东方当代庭院气息",
+      "concept": "不是古风，而是现代东方空间中的安静与平衡。",
+      "direction": "场景可有庭院、木质结构、石材、植物、回廊、门框、留白墙面等，但必须是现代审美下的克制表达。不要做传统国风插画，要像高端东方酒店或品牌 campaign。"
+    },
+    {
+      "index": 9,
+      "style_name": "杂志封面型 editorial",
+      "concept": "让秋分像一本高级杂志的封面主题。",
+      "direction": "更强调版式、人物或空间的封面感、标题与副标题的关系、视觉重心控制与高级时尚气质。依然要表达秋分的平衡与收束，而不是做普通时尚大片。"
+    }
+  ],
+  "composition": {
+    "core": "以留白、秩序、光影和视觉关系承担叙事，不靠传统元素堆砌。",
+    "guidelines": [
+      "每张海报都要有清晰的视觉重心",
+      "允许主体很小，空间成为主要叙事",
+      "允许局部细节海报，也允许大场景海报",
+      "允许对称，也允许高级的不对称平衡",
+      "9 张之间要显著不同，不能只是换颜色或换姿势"
+    ]
+  },
+  "diversity_contract": {
+    "rule": "9 张海报必须分别生成，且在风格、空间、材质、人物关系、画面节奏、光影逻辑上都明显不同。",
+    "each_image_should_vary": [
+      "空间类型",
+      "有无人物",
+      "景别远近",
+      "静物或人物比重",
+      "材质重心",
+      "画面留白位置",
+      "光影关系",
+      "版式结构",
+      "秋分意境的切入角度"
+    ],
+    "consistency": "统一来自秋分的平衡、成熟、安静、克制与高级审美，而不是统一场景模板。"
+  },
+  "negative_constraints": [
+    "不要传统节气模板",
+    "不要书法大字压画面",
+    "不要古风插画感",
+    "不要满屏落叶",
+    "不要丰收宣传画",
+    "不要大片稻田主视觉",
+    "不要红金喜庆风格",
+    "不要中秋海报式月亮直给表达",
+    "不要廉价暖黄滤镜",
+    "不要空洞概念海报",
+    "不要九张画面共享同一骨架",
+    "不要只是换背景的批量海报"
+  ],
+  "final_generation_instruction": "请基于以上统一世界观，一次性分别生成 9 张秋分海报。每张都是独立成立的高级视觉作品，统一传达秋分‘昼夜平分、热凉交接、万物归衡、情绪收束’的意境，但九张必须从 9 个不同的风格方向切入，呈现出明显差异化。重点不是画传统秋天，而是画秋分这个节气的精神本身。"
+}
+```
+
+**来源：** [@虎小象](https://x.com/hx831126/status/2102567417453154480) | 2026-09-23
+
+---
+

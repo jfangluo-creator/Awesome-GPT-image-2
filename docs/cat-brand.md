@@ -21486,3 +21486,59 @@ A hyper-realistic, wide-angle photograph of a severely cluttered and messy Japan
 
 ---
 
+### 🏷️ 例 8007：动漫角色设计图：传统汉服情侣
+
+![动漫角色设计图：传统汉服情侣](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE%EF%BC%9A%E4%BC%A0%E7%BB%9F%E6%B1%89%E6%9C%8D%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张高分辨率的角色设计图，展示了两位身着中国传统汉服的动漫风格角色，背景为纯白色。布局包括两位角色的全身正面和背面视图，以及头部、配饰和服装纹理的详细特写。
+
+左侧角色（男性）：
+- 外貌：年轻男子，黑色短发，头戴高耸挺括的黑色官帽（冠），帽带垂下。他有着蓝色的眼睛和温和的表情。
+- 服装：身穿深藏青色/黑色的交领长袍（衣），袖口宽大，边缘饰有红棕色图案滚边。内衬白色领口。下身穿着长裙状的下裳。腰间系着带有金色扣环的腰带，悬挂着一枚配有红色流苏的玉佩。他手持一把剑，剑鞘为黑色并带有红色装饰。
+- 视图：持剑的全身正面视图；展示长袍垂坠感的全身背面视图；头部特写；帽子、腰带扣、玉佩和剑的独立细节图。
+
+右侧角色（女性）：
+- 外貌：年轻女子，浅棕色/赤褐色头发，梳成精致的盘发，带有环状造型和修饰脸型的侧刘海。她有着蓝色的眼睛和平静的表情。头发上装饰着一支带有玉盘和红色流苏的发簪。
+- 服装：分层搭配的服饰，外层是一件桃色/浅橙色的长袍，带有隐约的花卉图案，领口和袖口饰有深红色滚边。内层是一条米色百褶裙（裙），裙摆处可见红棕色图案拼接。腰间系着粉色腰带，同样悬挂着一枚玉饰。
+- 视图：全身正面视图；展示长发和长袍细节的全身背面视图；头部特写；发簪、领口纹理和腰带结的独立细节图。
+
+[English]
+A high-resolution character design sheet featuring two anime-style characters dressed in traditional Chinese Hanfu, set against a plain white background. The layout includes full-body front and back views for both characters, along with detailed close-ups of their heads, accessories, and clothing textures.
+
+Left Character (Male):
+- Appearance: Young man with short black hair wearing a tall, structured black official's hat (Guan) with ribbons hanging down. He has blue eyes and a gentle expression.
+- Outfit: A dark navy/black cross-collar robe (Yi) with wide sleeves, trimmed with a patterned reddish-brown border. Underneath is a white collar. He wears a long skirt-like lower garment (Shang). A belt with a gold buckle secures the waist, from which hangs a jade pendant ornament (Pei) with red tassels. He holds a sword in a black scabbard with red accents.
+- Views: Front full-body view holding the sword; back full-body view showing the drape of the robe; headshot close-up; isolated detail shots of the hat, belt buckle, jade pendant, and sword.
+
+Right Character (Female):
+- Appearance: Young woman with light brown/auburn hair styled in an elaborate updo with loops and side bangs framing her face. She has blue eyes and a calm expression. Her hair is adorned with a hairpin featuring a jade disc and red tassel.
+- Outfit: A layered ensemble consisting of a peach/light orange outer robe with a subtle floral pattern and deep red trim at the collar and cuffs. Underneath is a cream-colored pleated skirt (Qun) with a reddish-brown patterned panel visible at the hem. A pink sash is tied around the waist, also featuring a hanging jade ornament.
+- Views: Front full-body view; back full-body view showing the long hair and robe details; headshot close-up; isolated detail shots of the hairpin, collar texture, and waist sash knot.
+```
+
+**来源：** [@スターシュレッダ](https://x.com/unicronian/status/2102820394625646969) | 2026-09-23
+
+---
+
+### 🏷️ 例 8018：AI 写实缩略图：提灯笼的女孩
+
+![AI 写实缩略图：提灯笼的女孩](../images/AI%20%E5%86%99%E5%AE%9E%E7%BC%A9%E7%95%A5%E5%9B%BE%EF%BC%9A%E6%8F%90%E7%81%AF%E7%AC%BC%E7%9A%84%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张垂直 9:16 比例的社交媒体缩略图。背景是一张超写实、高分辨率的照片，画面中两名留着棕色卷发的小女孩身穿复古白色蕾丝边连衣裙，站在暮色中的郁郁葱葱的花园里。她们手持并装饰着发光的粉色纸灯笼。周围环绕着大型白色百合花和柔焦粉色玫瑰。在中心位置叠加粗体无衬线文字：“AI Made This Painting”为白色，下一行“Real”为黄色。在文字下方，放置一个较小的矩形插图，展示原始的印象派油画（两名提灯笼的女孩），配有金色画框，并有一个手绘黄色箭头从画作指向写实的场景。
+
+[English]
+Create a vertical 9:16 social media thumbnail. The background is a hyper-realistic, high-resolution photograph of two young girls with curly brown hair wearing vintage white lace-trimmed dresses standing in a lush garden at twilight. They are holding and decorating glowing pink paper lanterns. Surround them with large white lilies and soft-focus pink roses. In the center, overlay bold sans-serif text: 'AI Made This Painting' in white, followed by 'Real' in yellow on the next line. Below the text, place a smaller rectangular inset image showing the original impressionist oil painting (two girls with lanterns) framed in gold, with a hand-drawn yellow arrow pointing from the painting up to the realistic scene.
+```
+
+**来源：** [@VideoProc AI](https://x.com/ProcVideo/status/2102608261904323059) | 2026-09-23
+
+---
+

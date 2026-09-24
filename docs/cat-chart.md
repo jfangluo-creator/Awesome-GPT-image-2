@@ -4548,3 +4548,116 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
+### 📊 例 8004：地狱犬角色设定信息图
+
+![地狱犬角色设定信息图](../images/%E5%9C%B0%E7%8B%B1%E7%8A%AC%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张垂直布局的角色设定信息图，描绘一种名为“地狱犬”（Hell Hound）的奇幻生物，采用黑暗、哥特式且高度精细的数字艺术风格渲染。版面在类似羊皮纸的背景上划分为多个部分，并带有黑色边框。
+
+**头部区域：**
+- **标题：** 左上角使用大号、做旧衬线字体显示 "HELL HOUND"。
+- **副标题：** 标题下方显示 "FOREST GUARDIAN & PROTECTOR"（森林守护者与保护者）。
+- **属性块（左侧）：** 列出以下属性：TYPE: Noble Protector（类型：高贵守护者）；HABITAT: Kolby's World（栖息地：Kolby 的世界）；SKIN: Charcoal Black — Guardian's Oath（皮肤：炭黑——守护者誓言）；COAT: Shimmering Void（皮毛：闪烁虚空）；BEHAVIOR: Protective • Loyal • Gentle（行为：保护性 • 忠诚 • 温柔）；PRIMARY MISSION: Protect the innocent — especially Stinky（主要任务：保护无辜者——尤其是 Stinky）。
+- **引言（左侧）：** 手写风格文本："You will never harm what I swear to protect."（你永远不会伤害我发誓要保护的存在。）后跟一个心形符号。
+- **主插图（中/右）：** 一只巨大、令人恐惧的黑色猎犬，由阴影般的纤维材料构成，拥有发光的白眼，周围环绕着金色的魔法火花。它正保护性地蹲伏在一只穿着粉色连帽衫的小巧可爱灰猫（角色 "Stinky"）身上。
+- **颜色变体（右上角）：** 三幅小素描展示不同的配色方案，标签分别为：CHARCOAL BLACK (DEFAULT)（炭黑 [默认]），ASH GRAY (MIST VEIL)（烟灰 [迷雾面纱]），CORPSE GRAY (BONE VEIL)（尸灰 [骨白面纱]）。
+
+**细节面板（右列）：**
+五个矩形面板展示特写及描述：
+1. **SKIN DETAIL（皮肤细节）：** 展示纹理。文本："Living shadow. Shifts and shimmers. Hardened by unyielding loyalty."（活着的阴影。变幻闪烁。因不屈的忠诚而坚硬。）
+2. **EYE DETAIL（眼睛细节）：** 展示发光的眼睛。文本："Sees threats before they form. Seeks only Stinky's safety."（在威胁形成前便已看见。只寻求 Stinky 的安全。）
+3. **HEAD DETAIL（头部细节）：** 展示头骨结构。文本："Ancient skull. Worn by time, softened by love."（古老的头骨。被时间磨损，被爱软化。）
+4. **TEETH（牙齿）：** 展示獠牙。文本："Built for war. Used for protection only."（为战争而生。仅用于保护。）
+5. **CLAW / HAND（爪子/手）：** 展示爪子。文本："Can tear through nightmares. Chooses to build safe spaces."（能撕裂噩梦。选择构建安全空间。）
+
+**中间区域 - 骨骼研究：**
+一条水平带状区域，标题为 "SKELETAL STUDY"（骨骼研究），包含该生物骨骼的五幅解剖线条画，从不同角度展示：FRONT VIEW（正面视图）、LEFT VIEW（左侧视图）、BACK VIEW（背面视图）、RIGHT VIEW（右侧视图），以及关于隆起脊柱的侧面轮廓注释。
+
+**中下区域 - 行为与栖息地：**
+两列内容：
+1. **MOVEMENT & BEHAVIOR（运动与行为）：** 四幅小插图展示姿态，标签分别为 RESTING / WATCHING（休息/观察）、PROTECTING（保护）、SHELTERING（庇护）、GENTLE（温柔）。
+2. **COMMON HIDING PLACES（常见藏身之处）：** 两幅插图，标签分别为 FORESTS（森林）和 ABANDONED PLACES（废弃之地）。
+3. **ODOR（气味）：** 一个小面板，带有骷髅图标，文字描述其气味为雨水、苔藓和古老誓言的味道。
+
+**底部区域 - 守护者誓言：**
+一个宽面板，包含两幅猎犬睡在猫旁边的插图。两者之间是一首题为 "THE GUARDIAN'S OATH"（守护者誓言）的诗：
+"I do not hunt her.
+I do not frighten her.
+I do not let harm come near her.
+If danger comes,
+I will stand between.
+If fear comes,
+I will be the dark she hides in.
+If the world forgets her...
+I will remember.
+I am her guardian.
+I am her Hell Hound.
+I am her forever."
+（我不猎杀她。
+我不惊吓她。
+我不让伤害靠近她。
+若危险来临，
+我将伫立其间。
+若恐惧降临，
+我将成为她躲藏的黑暗。
+若世界遗忘她……
+我将铭记。
+我是她的守护者。
+我是她的地狱犬。
+我永远属于她。）
+侧边注释写着："He does not hunt her."（他不猎杀她。）
+
+[English]
+Create a vertical character sheet infographic for a fantasy creature called the Hell Hound, rendered in a dark, gothic, and highly detailed digital art style. The layout is divided into multiple sections on a parchment-like background with black borders.
+
+**Header Section:**
+- **Title:** "HELL HOUND" in large, distressed serif font at the top left.
+- **Subtitle:** "FOREST GUARDIAN & PROTECTOR" below the title.
+- **Stats Block (Left):** A list of attributes: TYPE: Noble Protector; HABITAT: Kolby's World; SKIN: Charcoal Black — Guardian's Oath; COAT: Shimmering Void; BEHAVIOR: Protective • Loyal • Gentle; PRIMARY MISSION: Protect the innocent — especially Stinky.
+- **Quote (Left):** Handwritten-style text: "You will never harm what I swear to protect." followed by a heart symbol.
+- **Main Illustration (Center/Right):** A massive, terrifying black hound made of shadowy, fibrous material with glowing white eyes and golden magical sparks surrounding it. It is crouching protectively over a small, cute grey cat wearing a pink hoodie (the character "Stinky").
+- **Color Variants (Top Right):** Three small sketches showing different color palettes labeled: CHARCOAL BLACK (DEFAULT), ASH GRAY (MIST VEIL), CORPSE GRAY (BONE VEIL).
+
+**Detail Panels (Right Column):**
+Five rectangular panels showing close-ups with descriptions:
+1. **SKIN DETAIL:** Shows texture. Text: "Living shadow. Shifts and shimmers. Hardened by unyielding loyalty."
+2. **EYE DETAIL:** Shows a glowing eye. Text: "Sees threats before they form. Seeks only Stinky's safety."
+3. **HEAD DETAIL:** Shows skull structure. Text: "Ancient skull. Worn by time, softened by love."
+4. **TEETH:** Shows fangs. Text: "Built for war. Used for protection only."
+5. **CLAW / HAND:** Shows claws. Text: "Can tear through nightmares. Chooses to build safe spaces."
+
+**Middle Section - Skeletal Study:**
+A horizontal strip titled "SKELETAL STUDY" containing five anatomical line drawings of the creature's skeleton from different angles: FRONT VIEW, LEFT VIEW, BACK VIEW, RIGHT VIEW, and a side profile note about the raised spinal column.
+
+**Lower Middle Section - Behavior & Habitat:**
+Two columns:
+1. **MOVEMENT & BEHAVIOR:** Four small illustrations showing poses labeled RESTING / WATCHING, PROTECTING, SHELTERING, GENTLE.
+2. **COMMON HIDING PLACES:** Two illustrations labeled FORESTS and ABANDONED PLACES.
+3. **ODOR:** A small panel with a skull icon and text describing the smell as rain, moss, and ancient oaths.
+
+**Bottom Section - The Guardian's Oath:**
+A wide panel featuring two illustrations of the hound sleeping next to the cat. Between them is a poem titled "THE GUARDIAN'S OATH":
+"I do not hunt her.
+I do not frighten her.
+I do not let harm come near her.
+If danger comes,
+I will stand between.
+If fear comes,
+I will be the dark she hides in.
+If the world forgets her...
+I will remember.
+I am her guardian.
+I am her Hell Hound.
+I am her forever."
+Side notes read: "He does not ask for love. He earns it." and "She is tiny. He is endless. Together they are unbreakable."
+Footer text: "STINKY IS PROTECTED. ALWAYS. NO HARM SHALL TOUCH HER. EVER."
+```
+
+**来源：** [@Flutterwhat](https://x.com/flutterwhat/status/2102866284778336744) | 2026-09-23
+
+---
+

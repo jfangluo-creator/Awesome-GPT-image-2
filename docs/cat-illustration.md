@@ -21627,3 +21627,91 @@ A minimalist, flat-design illustration of two cute mascots against a solid black
 
 ---
 
+### 🎨 例 8005：粉发女孩在复杂故障艺术旁耸肩
+
+![粉发女孩在复杂故障艺术旁耸肩](../images/%E7%B2%89%E5%8F%91%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%A4%8D%E6%9D%82%E6%95%85%E9%9A%9C%E8%89%BA%E6%9C%AF%E6%97%81%E8%80%B8%E8%82%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张垂直双面板 meme 图片。上方面板是一幅数字插画，描绘了一位留着长粉色头发的年轻女性，戴着大黑框眼镜，身穿一件深色牛仔夹克，上面别满了各种徽章和补丁，内搭黑色高领衫。她做出耸肩的表情，一只手手掌向上抬起，目光略微偏向一侧，神情显得漫不经心或不屑一顾。背景是柔焦的户外场景，有绿树和蓝天。顶部的大号白色无衬线文字写着：“My output might be ugly,”（我的输出可能很丑）。下方面板是在黑色背景上的复杂故障艺术风格数字可视化效果。它展示了霓虹紫色、粉色和青色的线框图形，类似于混乱的神经网络或数学投影，散布着几何形状和发光节点。叠加在这些图形之上的是等宽字体的伪代码和技术术语，包括诸如“//INITIATE_STREAM_FLUX_00XG//”、“SYNAPSE_LATTICE_QUERY”和“ELUCIDATE (transient_whisper_echo_gamma)”等短语。在代码块的左侧，大号白色无衬线文字延续了上方面板的句子：“But at least I”（但至少我）。
+
+[English]
+A vertical two-panel meme image. The top panel features a digital illustration of a young woman with long pink hair, wearing large black-rimmed glasses and a dark denim jacket covered in various pins and patches over a black turtleneck. She has a shrugging expression with one hand raised palm-up, looking slightly to the side with a nonchalant or dismissive look. The background is a soft-focus outdoor scene with green trees and blue sky. Large white sans-serif text at the top reads: "My output might be ugly,". The bottom panel is a complex, glitch-art style digital visualization on a black background. It features neon purple, pink, and cyan wireframe graphics resembling a chaotic neural network or mathematical projection, with scattered geometric shapes and glowing nodes. Overlaid on this are lines of pseudo-code and technical jargon in monospace fonts, including phrases like "//INITIATE_STREAM_FLUX_00XG//", "SYNAPSE_LATTICE_QUERY", and "ELUCIDATE (transient_whisper_echo_gamma)". To the left of the code block, large white sans-serif text continues the sentence from the top panel: "But at least I".
+```
+
+**来源：** [@Flutterwhat](https://x.com/flutterwhat/status/2102861593679646721) | 2026-09-23
+
+---
+
+### 🎨 例 8009：高级时尚色块大片 GPT Image 2
+
+![高级时尚色块大片 GPT Image 2](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E8%89%B2%E5%9D%97%E5%A4%A7%E7%89%87%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+{
+  "aspect_ratio": "9:16",
+  "image_type": "high-fashion editorial photography",
+  "composition": {
+    "framing": "full-body vertical portrait",
+    "camera_angle": "straight-on, slightly low fashion perspective",
+    "subject_position": "right side of the frame",
+    "negative_space": "large bold color-block area on the left",
+    "vertical_division": "sharp architectural vertical boundary between two vibrant color fields",
+    "subject_overlap": "model partially emerges from behind the vertical wall edge",
+    "floor": "thin dark floor strip along the bottom"
+  },
+  "subject": {
+    "type": "adult female fashion model",
+    "pose": "confident unconventional fashion pose with one leg crossed forward and body slightly leaning from the wall edge",
+    "arms": "relaxed but intentionally positioned, one hand slightly forward",
+    "head": "slightly tilted downward",
+    "face_visibility": "partially shadowed by the wide-brim hat",
+    "expression": "mysterious, confident, editorial attitude"
+  },
+  "outfit": {
+    "main_color": "electric cobalt blue",
+    "secondary_color": "vivid turquoise",
+    "accent_color": "hot coral orange",
+    "dress": "structured knee-length cobalt blue fashion dress with a fitted waist",
+    "sleeves": "long fitted sleeves",
+    "waist_detail": "wide turquoise belt with a long flowing coral-orange fabric sash",
+    "neck_detail": "dramatic turquoise scarf with small coral-orange decorative accents",
+    "pants": "vivid cobalt and turquoise patterned fitted trousers",
+    "shoes": "glossy deep cobalt knee-high fashion boots",
+    "hat": "large sculptural cobalt blue wide-brim hat with a subtle turquoise band",
+    "accessories": "minimal sculptural coral-orange fashion ornament near the neckline"
+  },
+  "background": {
+    "left": "large solid electric turquoise wall or architectural panel",
+    "right": "deep saturated cobalt blue studio wall",
+    "color_relationship": "background colors directly echo the model's outfit, creating a unified monochromatic color-world",
+    "accent": "small controlled coral-orange accents visually connect the outfit to the background palette",
+    "floor": "deep navy-black matte floor",
+    "style": "minimalist geometric color-block studio set"
+  },
+  "lighting": {
+    "style": "dramatic premium fashion studio lighting",
+    "direction": "strong soft directional light from upper front-left",
+    "shadows": "clean controlled shadows",
+    "contrast": "high contrast with rich saturated colors",
+    "skin": "natural realistic skin texture without beauty-filter smoothing",
+    "highlights": "subtle highlights on fabric and boots"
+  },
+  "color_palette": {
+    "primary": "electric turquoise",
+    "secondary": "saturated cobalt blue",
+    "accent": "hot coral orange",
+    "dark": "deep navy",
+    "skin": "natural realistic skin tones"
+  }
+}
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2102795660009570304) | 2026-09-23
+
+---
+

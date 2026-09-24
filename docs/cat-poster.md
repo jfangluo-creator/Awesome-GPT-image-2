@@ -34758,3 +34758,177 @@ Minimal, premium, tactile, quiet luxury, food photography blended with Swiss edi
 
 ---
 
+### 🎴 例 8006：极简黑白海报
+
+![极简黑白海报](../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高质量、极简风格的黑白海报，融合了图形化、排版设计、都市感和另类艺术风格。画面中心是模特的剪贴人像，细节清晰可见。巨大的黑白文字“{argument name="poster_text" default="HER19845"}”醒目地叠加在图像上，营造出带有做旧墨迹纹理的丝网印刷海报效果，背景为粗糙纸张质感。整体风格高对比度、简洁、工业风且前卫。
+
+[English]
+A high-quality, minimalist black-and-white poster featuring a graphic, typographic, urban, and alternative style. At the center is a cutout portrait of the model shown. Precise details are visible, and the text "HER19845"—in massive black-and-white typography—is boldly overlaid on the image, creating a screen-printed poster effect with distressed ink textures set against a rough paper background. The style is high-contrast, clean, industrial, and avant-garde.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2102854767340826941) | 2026-09-23
+
+---
+
+### 🎴 例 8016：照片转插画海报 GPT Image 2
+
+![照片转插画海报 GPT Image 2](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E6%8F%92%E7%94%BB%E6%B5%B7%E6%8A%A5%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为主要参考。准确保留原始场景、构图、主体、姿势、比例、颜色和重要细节。不要替换或重新排列主要元素。
+
+创建一个垂直 3:4 比例的编辑风格海报，呈现精致的照片到手绘插画的转换效果。
+
+上半部分 — 原始照片
+• 保持上传的照片基本不变。
+• 保留确切的环境、人物/动物、物体、建筑、光线、颜色和构图。
+• 使其看起来自然、清晰且具有摄影质感。
+• 照片应占据海报上部约 50% 的区域。
+
+下半部分 — 插画版本
+• 将照片中的同一场景重现为精致的手绘插画。
+• 保持相同的主体、位置、姿势、透视和可识别的细节。
+• 采用柔和的水彩 + 彩色铅笔 + 墨水素描的美学风格。
+• 细腻且富有表现力的轮廓线，微妙的铅笔纹理，轻柔的水彩渲染，略带不完美的手绘边缘。
+• 简化背景，同时保留最具辨识度的环境元素。
+• 使用柔和的粉彩色调、自然的纸张颜色、微妙的颗粒感，以及优雅的编辑/艺术书籍氛围。
+• 插画应感觉像一张高端旅行/生活方式明信片，而不是卡通或通用的数字绘画。
+• 保持照片与插画之间的视觉连续性。
+
+布局与设计
+• 垂直 3:4 构图。
+• 上半部分 = 原始照片。
+• 下半部分 = 温暖的米白色纹理纸张/画布背景。
+• 在两个部分之间创建柔和、无缝的过渡。
+• 将插画重现内容居中放置在下半部分，周围留有充足的负空间。
+• 仅在自然契合场景的情况下，添加少量微妙的手绘装饰元素，如小花瓣、叶子、爱心或素描痕迹。
+• 在插画下方或周围添加极简、优雅的排版。
+• 主标题使用精致的书写体/手写字体，副标题使用小型极简衬线/无衬线字体。
+• 保持排版低调且平衡。
+
+文本
+用符合语境的措辞替换标题和副标题，或使用：
+“更明亮的一天”
+“更慢的生活”
+
+对于宠物/家庭图片，使用：
+“好朋友”
+“更明亮的日子”
+“更快乐的尾巴 ♡”
+
+重要提示
+• 不要改变人物或动物的身份或外观。
+• 不要添加额外的人物、动物、建筑物、结构等。
+
+[English]
+Use the uploaded image as the primary reference. Preserve the original scene, composition, subjects, poses, proportions, colors, and important details accurately. Do not replace or rearrange the main elements.
+
+Create a vertical 3:4 editorial poster with a refined photograph-to-hand-drawn-illustration transformation.
+
+TOP SECTION — ORIGINAL PHOTO
+•Keep the uploaded photograph essentially unchanged.
+•Preserve the exact environment, people/animals, objects, architecture, lighting, colors, and composition.
+•Make it look natural, sharp, and photographic.
+•The photo should occupy approximately the upper 50% of the poster.
+
+BOTTOM SECTION — ILLUSTRATED VERSION
+•Recreate the same scene from the photograph as a delicate hand-drawn illustration.
+•Keep the same subjects, positions, poses, perspective, and recognizable details.
+•Use a soft watercolor + colored pencil + ink sketch aesthetic.
+•Fine expressive outlines, subtle pencil texture, gentle watercolor washes, slightly imperfect hand-drawn edges.
+•Simplify the background while retaining the most recognizable environmental elements.
+•Use soft pastel tones, natural paper colors, subtle grain, and an elegant editorial/art-book feeling.
+•The illustration should feel like a premium travel/lifestyle postcard, not a cartoon or generic digital painting.
+•Maintain visual continuity between the photograph and illustration.
+
+LAYOUT & DESIGN
+•Vertical 3:4 composition.
+•Upper half = original photograph.
+•Lower half = warm off-white textured paper/canvas background.
+•Create a soft, seamless transition between the two sections.
+•Place the illustrated recreation centrally in the lower section with generous negative space around it.
+•Add a few subtle hand-drawn decorative elements such as tiny petals, leaves, hearts, or sketch marks only if they naturally fit the scene.
+•Minimal, elegant typography beneath or around the illustration.
+•Use a sophisticated handwritten/script font for the main title and a small minimalist serif/sans-serif font for the subtitle.
+•Keep typography understated and balanced.
+
+TEXT
+Replace the title and subtitle with context-appropriate wording, or use:
+“A Brighter Day”
+“A Slower Life”
+
+For pet/family images, use:
+“Good Friends”
+“Brighter Days”
+“Happier Tails ♡”
+
+IMPORTANT
+•Do not alter the identity or appearance of people or animals.
+•Do not add extra people, animals, buildings, structures, etc.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2102630825842118730) | 2026-09-23
+
+---
+
+### 🎴 例 8023：紫色几何伦敦清晨海报
+
+![紫色几何伦敦清晨海报](../images/%E7%B4%AB%E8%89%B2%E5%87%A0%E4%BD%95%E4%BC%A6%E6%95%A6%E6%B8%85%E6%99%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一款以极简主义和几何美学呈现伦敦天际线的竖版海报设计。整体配色以柔和的薰衣草色和紫色调为主，营造出朦胧的氛围。
+
+**布局与元素：**
+1.  **字体排印（中文）：** 四个巨大的黑色汉字锚定在海报四角：左上角为“伦”，右上角为“敦”，左下角为“早”，右下角为“安”。组合起来意为“伦敦早安”。
+2.  **几何图形：** 两个巨大的重叠圆形主导了中上部区域。
+    *   左侧圆形为较浅的半透明灰紫色，内含逼真的满月图像。
+    *   右侧圆形为实心的深紫色形状，覆盖在第一个圆形之上。
+    *   一个明亮的红色小圆点位于深紫色形状的右边缘，形成视觉焦点。
+3.  **景观：** 在几何图形下方，单色紫色的伦敦剪影横跨整个画面宽度。主要地标包括左侧的大本钟、议会大厦和伦敦眼。威斯敏斯特桥横跨泰晤士河将它们连接起来。
+4.  **倒影：** 底部三分之一展示了河面，桥梁和建筑物呈现出不同深浅紫色的风格化波纹倒影。
+5.  **文字细节（英文/中文）：** 细小的无衬线字体散布在整个设计中：
+    *   左上角：“GOOD MORNING LONDON 2026-09-23”
+    *   左中部：一个引用块，以“今日金句:”开头，后跟较小的中文文本。
+    *   中心：“L O N D O N SAME RIVER NEW DAY”
+    *   右侧：垂直排列的文字行，如“SAME CITY BRIGHTER YOU”和“PEOPLE PLACES POSSIBILITIES”。
+    *   底部中心：微小文字“同一条河 更新的一天 LONDON 2026-09-23”。
+
+**风格：** 高端平面设计，线条简洁，扁平矢量艺术混合微妙纹理，氛围宁静祥和。
+
+[English]
+Create a vertical poster design featuring the London skyline in a minimalist, geometric aesthetic. The color palette is dominated by soft lavender and purple tones with a misty atmosphere.
+
+**Layout & Elements:**
+1.  **Typography (Chinese):** Four large black Chinese characters anchor the corners: "伦" (top left), "敦" (top right), "早" (bottom left), "安" (bottom right). Together they read "London Good Morning".
+2.  **Geometric Shapes:** Two massive, overlapping circles dominate the upper-middle section. 
+    *   The left circle is a lighter, semi-transparent grey-purple containing a realistic full moon image.
+    *   The right circle is a solid, deep purple shape that overlaps the first.
+    *   A small, bright red circle sits on the right edge of the dark purple shape, creating a focal point.
+3.  **Landscape:** Below the geometry, a monochromatic purple silhouette of London spans the width. Key landmarks include Big Ben, the Houses of Parliament, and the London Eye on the left. Westminster Bridge connects them across the River Thames.
+4.  **Reflections:** The bottom third shows the river surface with stylized, rippled reflections of the bridge and buildings in varying shades of purple.
+5.  **Text Details (English/Chinese):** Small, sans-serif text is scattered throughout:
+    *   Top Left: "GOOD MORNING LONDON 2026-09-23"
+    *   Middle Left: A quote block starting with "今日金句:" followed by smaller Chinese text.
+    *   Center: "L O N D O N SAME RIVER NEW DAY"
+    *   Right Side: Vertical text lines like "SAME CITY BRIGHTER YOU" and "PEOPLE PLACES POSSIBILITIES".
+    *   Bottom Center: Tiny text "同一条河 更新的一天 LONDON 2026-09-23".
+
+**Style:** High-end graphic design, clean lines, flat vector art mixed with subtle textures, serene mood.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102549424153166056) | 2026-09-23
+
+---
+

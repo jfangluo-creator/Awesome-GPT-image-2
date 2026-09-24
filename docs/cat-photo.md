@@ -71552,3 +71552,244 @@ Cinematic high-contrast portrait of a young man in side profile, wearing dark su
 
 ---
 
+### 📷 例 8003：GPT Image 2 反设计梗图摄影提示词
+
+![GPT Image 2 反设计梗图摄影提示词](../images/GPT%20Image%202%20%E5%8F%8D%E8%AE%BE%E8%AE%A1%E6%A2%97%E5%9B%BE%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+【主题】，将主题中的核心网络隐喻或语言梗实体化为一个荒诞但真实存在的摄影场景。反设计 Editorial × 日本学生展览海报 × 中文互联网 Meme × 2000s 消费级数码相机直闪摄影 × DIY Zine。以一张看似随手拍摄的怪异纪实照片作为中央主视觉，摄影真实、普通、略笨拙，不使用电影级布光与浅景深。画面顶部放置极端巨大的不规则中文展示标题，字形压缩、拉伸、倾斜、错位，具有手工剪贴感；周围散布少量吐槽式微文案、箭头、注释和中英混排小字。暖白底，高饱和朱红 × Royal Blue 为主要平面色，照片保留自身综合色。整体像一本独立青年杂志、艺术学院学生海报与中文互联网梗图意外融合，专业设计结构下保留故意业余、笨拙、廉价、荒诞的视觉表面。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2102901823954899164) | 2026-09-23
+
+---
+
+### 📷 例 8008：穿红色夹克的徒步者
+
+![穿红色夹克的徒步者](../images/%E7%A9%BF%E7%BA%A2%E8%89%B2%E5%A4%B9%E5%85%8B%E7%9A%84%E5%BE%92%E6%AD%A5%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位留着深棕色长卷发的年轻东亚女性站在山地景观中，回头带着温柔的微笑看向镜头。她身穿一件鲜红色的 The North Face 连帽夹克，背着一个带有灰色肩带的大号黑色登山背包。她的右手握着一根登山杖。背景是部分多云天空下雄伟的雪山，画面左侧点缀着金黄色的秋季落叶松。光线柔和自然，暗示着傍晚时分。背包左下方可见白色小字水印 "Xuefei"。
+
+[English]
+A young East Asian woman with long, wavy dark brown hair stands outdoors in a mountainous landscape, looking back over her shoulder at the camera with a gentle smile. She is wearing a bright red hooded North Face jacket and carrying a large black hiking backpack with grey straps. In her right hand, she holds a trekking pole. The background features majestic snow-capped mountains under a partly cloudy sky, with golden autumn larch trees on the left side of the frame. The lighting is soft and natural, suggesting late afternoon or early evening. A small white watermark text "Xuefei" appears on the lower-left portion of the backpack.
+```
+
+**来源：** [@AvelixVale](https://x.com/afeerah64/status/2102818082595197256) | 2026-09-23
+
+---
+
+### 📷 例 8010：GPT Image 2 折纸风格照片转海报提示词
+
+![GPT Image 2 折纸风格照片转海报提示词](../images/GPT%20Image%202%20%E6%8A%98%E7%BA%B8%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+请将我上传的每一张照片分别制作成一张独立的高级极简设计海报，不多图拼接，每张照片单独输出。
+整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术摄影和展览视觉质感。为适配画幅，可以自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中主体最具识别性的轮廓、结构、空间关系与叙事特征，重构为 layered paper cut art / 3D papercraft diorama / architectural relief 风格的纸雕微缩场景。不要复制照片细节，而是保留最核心的视觉符号，通过多层纸片、切割轮廓、镂空结构和空间叠层重新表达，使主体像一件现代设计展览中的纸艺装置。
+
+使用简洁结构、精准边缘、多层切面和轻微空间阴影建立立体感，不追求真实3D渲染，而呈现纸张、建筑模型与艺术装置结合的轻盈质感。主体保持单一视觉中心，大面积留白，构图克制平衡。
+
+配色从上方照片中提取最明亮、最鲜活、最有生命力的颜色重新调制，而不是平均取色。整体提高明度与色彩纯净度，采用清澈天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等由原图自然推导出的明快色相，并以象牙白、暖米色作为主要空间背景，通过清爽冷暖关系形成治愈感。主色鲜明但不刺眼，局部暖橙、金黄或粉红作为点睛色。避免灰脏、发旧、低沉莫兰迪化、暗褐滤镜、荧光色和廉价糖果感。
+
+文字少量介入，根据主体、地点、情绪或文化含义自由生成简短标题、编号或微型注释。字体使用细致、克制、具有建筑编辑感的现代字体，像艺术展签或高级品牌视觉中的信息标注，与留白自然融合。
+
+整体风格参考国际设计工作室、建筑海报、艺术展览视觉和高级品牌视觉系统，呈现纸雕空间、现代东方美学、清透色彩、大面积留白和高级工艺感。避免真实CG、塑料质感、儿童手工感、复杂背景和模板化效果。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2102772213422477428) | 2026-09-23
+
+---
+
+### 📷 例 8011：森林溪流抓拍人像 GPT Image 2
+
+![森林溪流抓拍人像 GPT Image 2](../images/%E6%A3%AE%E6%9E%97%E6%BA%AA%E6%B5%81%E6%8A%93%E6%8B%8D%E4%BA%BA%E5%83%8F%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的抓拍人像，画面中一位年轻女性安静地坐在平静狭窄的森林溪流旁的一根倒木上。她留着深棕色长发，编成松散的发辫垂在一侧，几缕柔和的发丝自然地勾勒出她的脸庞。她神情平和放松，带着淡淡的自然妆容，若有所思地望向画面的右侧。
+
+她身穿一件宽松的白色长袖休闲上衣，胸前有一个小口袋，下身搭配浅蓝色牛仔裤。左手腕上戴着一块简约的长方形手表。她的姿态自然舒适，一条腿微微抬起，双手随意地放在膝盖附近。
+
+背景是一片郁郁葱葱的林地，绿叶茂密，头顶悬挂着类似竹叶的植物，高大的树木环绕四周，身后是一条宁静的浅溪。沙质的河岸上散落着枯叶、树枝和自然的纹理。背景的水边放着一个质朴的金属桶。她身下的倒木增添了真实的户外细节。
+
+构图：4:5 竖幅人像，中景至全身取景，主体位于画面中心略偏下位置，平视相机角度，自然抓拍摄影风格，身后的森林和溪流清晰可见。
+
+光线：透过茂密树林过滤后的柔和自然日光，在她的脸部和头发上形成温和的高光，阴影微妙，色调为柔和的大地色系，呈现真实的户外曝光效果。
+
+摄影风格：超写实生活方式摄影，自然的皮肤质感，逼真的发丝细节，衣物面料纹理清晰，森林环境真实可信，景深柔和，背景轻微虚化，氛围宁静平和，高细节，4K 分辨率。
+
+负面提示词：动漫，卡通，插画，CGI，3D 渲染，塑料感皮肤，过度美颜滤镜，不真实的面部，解剖结构扭曲，畸形的手部，多余的手指，缺失的手指，姿势不自然，假发，色彩过饱和，过度锐化，虚假背景，低分辨率，文字，水印，标志。
+
+[English]
+A photorealistic candid portrait of a young woman sitting peacefully on a fallen tree beside a calm, narrow forest stream. She has long dark brown hair styled in a loose side braid, with soft strands naturally framing her face. She gazes thoughtfully toward the right side of the frame with a calm, relaxed expression and subtle natural makeup.
+She is wearing a loose white long-sleeve casual top with a small chest pocket, paired with relaxed light-blue jeans. A simple rectangular wristwatch is visible on her left wrist. Her posture is natural and comfortable, sitting with one knee raised and her hands resting loosely near her knees.
+The setting is a lush woodland with dense green foliage, bamboo-like leaves hanging overhead, tall trees, and a peaceful shallow stream flowing behind her. The sandy forest bank is scattered with dry leaves, branches, and natural textures. A rustic metal bucket sits near the water in the background. A fallen log beneath her adds an authentic outdoor detail.
+Composition: vertical 4:5 portrait, medium-to-full body framing, subject centered slightly lower in the frame, eye-level camera angle, natural candid photography, forest and stream clearly visible behind her.
+Lighting: soft natural daylight filtered through dense trees, gentle highlights on her face and hair, subtle shadows, muted earthy tones, realistic outdoor exposure.
+Photography style: ultra-realistic lifestyle photography, natural skin texture, realistic hair strands, detailed clothing fabric, authentic forest textures, soft depth of field, subtle background blur, calm peaceful atmosphere, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, unnatural pose, artificial hair, oversaturated colors, excessive sharpening, fake background, low resolution, text, watermark, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2102752656234283467) | 2026-09-23
+
+---
+
+### 📷 例 8012：阳光复古窗边人像 GPT Image 2
+
+![阳光复古窗边人像 GPT Image 2](../images/%E9%98%B3%E5%85%89%E5%A4%8D%E5%8F%A4%E7%AA%97%E8%BE%B9%E4%BA%BA%E5%83%8F%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度逼真的美学肖像，画面中一位优雅的成年女性站在一间洒满美丽阳光的房间里的巨大复古窗户旁。她留着自然飘逸的深色长发，眼神柔和富有表现力，皮肤纹理真实，面部特征自然，带着含蓄温柔的微笑。
+
+她身穿一件精致的奶油色宽松衬衫，下摆塞进高腰深色半身裙中，佩戴简约精致的珠宝，手提一个小巧优雅的手袋。姿态放松自然，一只手轻轻提着手袋，另一只手自然地垂在身侧。
+
+温暖的黄金时刻阳光透过窗户射入，光影柔和，室内色调为低饱和度的米色和奶油色，配有复古家具，带有微妙的胶片颗粒感，氛围梦幻，采用柯达风格的色彩分级，高光柔和，肤色自然，具有时尚杂志摄影风格，电影感构图，浅景深，85mm 镜头，超细节，比例真实，高端美学，8K。
+
+[English]
+Create a highly photorealistic aesthetic portrait of an elegant adult woman standing beside a large vintage window in a beautiful sunlit room. She has long, naturally flowing dark hair, soft expressive eyes, realistic skin texture, natural facial features, and a subtle gentle smile.
+
+She is wearing a sophisticated cream-colored oversized shirt tucked into a high-waisted dark skirt, minimal delicate jewelry, and a small elegant handbag. Relaxed natural pose, one hand lightly holding the handbag and the other resting naturally by her side.
+
+Warm golden-hour sunlight entering through the window, soft shadows, muted beige and cream interior, vintage furniture, subtle film grain, dreamy atmosphere, Kodak-inspired color grading, soft highlights, natural skin tones, editorial fashion photography, cinematic composition, shallow depth of field, 85mm lens, ultra-detailed, realistic proportions, premium aesthetic, 8K.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2102722643237781791) | 2026-09-23
+
+---
+
+### 📷 例 8015：基于参考图的逼真车内自拍
+
+![基于参考图的逼真车内自拍](../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%9A%84%E9%80%BC%E7%9C%9F%E8%BD%A6%E5%86%85%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张超逼真的自然风格智能手机自拍，画面中一位年轻成年女性坐在白天的现代汽车内。严格保留参考图中的面部特征和自然的面部比例。她留着深棕色长发，发量丰盈自然，带有柔和波浪，中分并垂落在双肩。她佩戴大框深棕色飞行员墨镜，镜片上有逼真的反光，身穿简约的白色圆领 T 恤。一条黑色安全带斜跨在她的胸前。她舒适地坐在副驾驶座上，目光直视镜头，带着柔和含蓄的微笑。自然日光透过车窗射入，在她的脸部和头发上形成柔和逼真的高光。车内为现代黑色皮革内饰，可见头枕和侧窗，背景中的户外绿植和停放的车辆略微虚化。呈现真实的智能手机摄像头质感，皮肤纹理逼真，毛孔自然，有细微瑕疵，光线柔和，比例准确，照片级写实，日常抓拍风格，高细节，无人工美颜滤镜，无塑料感皮肤，无面部重塑，无 AI 痕迹，竖屏 9:16 构图
+
+[English]
+Create an ultra-realistic natural smartphone selfie of a young adult woman sitting inside a modern car during daytime. Preserve the exact facial identity and natural facial proportions from the reference image. She has long, dark brown, naturally voluminous hair with soft waves, center-parted and falling over both shoulders. She wears large dark brown aviator sunglasses with realistic reflections and a simple white crew-neck T-shirt. A black seatbelt crosses diagonally over her chest. She is seated comfortably in the front passenger seat, looking directly at the camera with a soft, subtle smile. Natural daylight enters through the car windows, creating soft realistic highlights on her face and hair. Modern black leather car interior, headrest and side windows visible, outdoor greenery and parked cars slightly blurred in the background. Authentic smartphone camera look, realistic skin texture, natural pores, subtle imperfections, soft daylight, accurate proportions, photorealistic, candid everyday selfie, high detail, no artificial beauty filter, no plastic skin, no face reshaping, no AI look, vertical 9:16 composition
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2102636000950337605) | 2026-09-23
+
+---
+
+### 📷 例 8017：大胆色彩理论时尚大片
+
+![大胆色彩理论时尚大片](../images/%E5%A4%A7%E8%83%86%E8%89%B2%E5%BD%A9%E7%90%86%E8%AE%BA%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖屏、超写实、大胆且视觉冲击力极强的时尚编辑摄影作品，主角是一位美丽的年轻美国女性，年龄约在 25 岁左右。
+
+重要构图要求：这位女性非常靠近镜头，是画面的主导元素。她占据图像高度的大约 70–80%。采用中全景到四分之三身体的取景范围，确保她的面部清晰可见且细节丰富。背景必须保持可见但处于次要地位。切勿将人物放置在远离镜头的位置。
+
+她自信地站在一个充满活力、极具现代感的建筑环境中，周围充斥着极高饱和度、引人注目的色彩——电光钴蓝、鲜艳的热粉色、强烈的橙色、明亮的绿松石色和丰富的紫色。这些色彩应显得大胆、明亮且富有冲击力，具有强烈的视觉对比度，绝对没有任何暗淡或柔和的色调。
+
+她的服装是一套精致的高级时装造型，专门与环境进行色彩协调：大胆的钴蓝色和鲜艳的橙色点缀，搭配考究的剪裁、有趣的面料纹理和微妙的奢华风格。服装应在视觉上与多彩的环境互动，同时保持优雅和可穿性。
+
+相机角度：戏剧性的略微低角度时尚视角，相机位置大约在臀部高度，相对靠近主体，微微向上仰拍。使用 35mm 镜头的美学效果，以营造强大的编辑视角，同时保持她的面部和身体比例自然。
+
+姿势：自信且充满动感，身体略微侧转，一侧肩膀更靠近相机，一条腿自然向前，一只手随意地与周围的建筑结构互动，下巴微微抬起，眼神自信地直视镜头。
+
+创造强烈的从前景到背景的景深：女性对焦清晰并主导画面，而她身后的彩色建筑形状则稍微柔和一些。添加一个鲜艳的前景元素，部分进入画面边缘，以创造深度和更不寻常的构图。
+
+光线应具有戏剧性和色彩感：强烈的温暖阳光混合着鲜艳的蓝色和粉色反射光，在她的头发、衣服和皮肤上形成色彩斑斓的高光。阴影深邃但自然，高光明亮且呈镜面反射，对比度丰富。
+
+这张图片应在滚动浏览时立即吸引注意力——大胆的色彩、美丽的面孔、有力的姿势、不寻常的构图以及高端时尚编辑的能量。
+
+超逼真的皮肤质感，可见的自然毛孔，根根分明的发丝，逼真的眼睛，真实的面料，物理准确的光线，清晰的细节，高动态范围，高端全画幅相机摄影，电影般的景深，丰富的对比度，极其鲜艳的色彩分级，奢华时尚杂志的品质。
+
+[English]
+Create a 9:16 vertical ultra-photorealistic, bold and visually striking fashion editorial photograph of a beautiful young American woman in her mid-20s.
+
+IMPORTANT COMPOSITION: The woman is VERY CLOSE to the camera and is the dominant element of the frame. She occupies approximately 70–80% of the image height. Medium-full body to three-quarter body framing, with her face clearly visible and detailed. The background must remain visible but secondary. DO NOT place the woman far away from the camera.
+
+She stands confidently in a vibrant contemporary architectural environment filled with extremely saturated, eye-catching colors — electric cobalt blue, vivid hot pink, intense orange, bright turquoise and rich purple. The colors should feel bold, luminous and punchy, with strong visual contrast and absolutely no dull or muted tones.
+
+Her outfit is a sophisticated high-fashion look specifically color-coordinated with the environment: bold cobalt-blue and vivid orange accents with refined tailoring, interesting fabric texture and subtle luxury styling. The outfit should visually interact with the colorful surroundings while remaining elegant and wearable.
+
+Camera angle: dramatic slightly low-angle fashion perspective, camera positioned around hip level and relatively close to the subject, looking subtly upward. Use a 35mm lens aesthetic for a powerful editorial perspective while keeping her face and body proportions natural.
+
+Pose: confident and dynamic, body slightly turned, one shoulder closer to camera, one leg naturally forward, one hand interacting casually with the surrounding architecture, chin slightly raised, direct confident eye contact with the camera.
+
+Create a strong foreground-to-background depth: the woman is sharply focused and dominates the frame, while colorful architectural shapes remain slightly softer behind her. Add one vibrant foreground element partially entering the edge of the frame to create depth and a more unusual composition.
+
+Lighting should be dramatic and colorful: strong warm sunlight mixed with vivid blue and pink reflected light, creating colorful highlights on her hair, clothing and skin. Deep but natural shadows, bright specular highlights and rich contrast.
+
+The image should immediately grab attention while scrolling — bold color, beautiful face, powerful pose, unusual composition and premium fashion-editorial energy.
+
+Ultra-realistic skin texture, visible natural pores, individual hair strands, realistic eyes, realistic fabric, physically accurate lighting, crisp details, high dynamic range, premium full-frame camera photography, cinematic depth of field, rich contrast, extremely vibrant color grading, luxury fashion magazine quality.
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2102630644258136569) | 2026-09-23
+
+---
+
+### 📷 例 8019：时尚男士路灯旁人像
+
+![时尚男士路灯旁人像](../images/%E6%97%B6%E5%B0%9A%E7%94%B7%E5%A3%AB%E8%B7%AF%E7%81%AF%E6%97%81%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+保持附件中人物的原有特征不变。参考图片：已发送的照片。
+面部：严格保留与参考图片完全相同的人物形象。格式要求：
+一位时尚的年轻男士站在户外黑色路灯旁，双手持握智能手机，自信地望向一侧。他身穿深蓝色纽扣衬衫，领口和袖口饰有亮黄色细节，搭配米色修身长裤、智能手表和棕色皮革乐福鞋。他的姿态轻松自然，双腿交叉，营造出现代时尚人像的风格。在他身后是一幅巨大的黑白特写艺术人像，呈现同一位男士的面部，充满整个
+
+[English]
+Keep the same features of the attached person, without changes. Reference picture: photo sent.
+Face: keep the exact same person as the reference picture. Format:
+A stylish young man standing outdoors beside a black street lamp, holding a smartphone with both hands and looking confidently to the side. He wears a navy blue button-up shirt with bright yellow inner collar and sleeve accents, beige slim-fit trousers, a smartwatch, and brown leather loafers. His pose is relaxed with crossed legs, creating a modern fashion-portrait look. Behind him is a massive artistic black-and-white close-up portrait of the same man’s face, filling the
+```
+
+**来源：** [@Kiran Ai](https://x.com/Kiran_AI1/status/2102594628910477385) | 2026-09-23
+
+---
+
+### 📷 例 8022：电影级羽毛球扣杀 GPT Image 2
+
+![电影级羽毛球扣杀 GPT Image 2](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%BE%BD%E6%AF%9B%E7%90%83%E6%89%A3%E6%9D%80%20GPT%20Image%202.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超逼真的电影级体育摄影作品，捕捉了一位二十岁出头、英俊非凡的年轻男性羽毛球运动员在强力头顶扣杀巅峰时刻的画面。他拥有浓密自然的黑色波浪卷发、浓眉、深邃的深棕色眼睛、轮廓分明的雕塑感下颌线、淡淡的自然胡茬、真实的皮肤纹理、可见的毛孔以及精致的男性面部特征。
+他在羽毛球场上方爆发式跳跃，身体动态扭转，一只手臂完全伸展过头顶，手持专业羽毛球拍，极具攻击性地指向镜头。他的表情专注而坚定。前景中，一个羽毛球极度靠近镜头，被戏剧性地放大，展现出锐利如刀的羽毛细节，营造出强烈的深度感和透视效果。
+现代化的室内羽毛球馆，抛光的球场地板，背景中隐约可见球网，戏剧性的顶部体育场灯光，强烈的边缘光，大气雾霭，真实的阴影，定格在空中的微小汗珠，充满电影感的运动能量，浅景深，动态低角度视角，85mm 体育摄影美学，超详细的皮肤和服装，照片级真实纹理，HDR，高对比度，冻结的动作瞬间，高端体育广告摄影风格。
+巨大的粗体 “SMASH” 字体巧妙地融入背景，简洁的运动编辑设计风格，无标志，无水印，无其他人物。
+9:16 垂直构图，8K，照片级真实感，电影质感，专业体育广告活动，主体和羽毛球极其清晰，戏剧性的景深效果。
+
+[English]
+Ultra-realistic cinematic sports photograph of a strikingly handsome young male badminton athlete in his early 20s, captured at the peak of a powerful overhead smash. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.
+He is jumping explosively above the badminton court, body dynamically twisted, one arm fully extended overhead with a professional badminton racket aimed aggressively toward the camera. His expression is intensely focused and determined. A shuttlecock is extremely close to the lens in the foreground, dramatically enlarged with razor-sharp feather details, creating powerful depth and perspective.
+Modern indoor badminton arena, polished court floor, subtle net visible in the background, dramatic overhead stadium lights, strong rim lighting, atmospheric haze, realistic shadows, tiny sweat droplets frozen in motion, cinematic motion energy, shallow depth of field, dynamic low-angle perspective, 85mm sports photography aesthetic, ultra-detailed skin and clothing, photorealistic textures, HDR, high contrast, frozen action, premium sports campaign photography.
+Large bold “SMASH” typography subtly integrated into the background, clean athletic editorial design, no logos, no watermark, no other people.
+9:16 vertical composition, 8K, photorealistic, cinematic, professional sports advertising campaign, extremely sharp subject and shuttlecock, dramatic depth of field.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2102555777252872279) | 2026-09-23
+
+---
+
