@@ -34932,3 +34932,251 @@ Create a vertical poster design featuring the London skyline in a minimalist, ge
 
 ---
 
+### 🎴 例 8025：装饰艺术风格旅行海报模板
+
+![装饰艺术风格旅行海报模板](../images/%E8%A3%85%E9%A5%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在生成之前上传参考图像。
+
+主要提示词
+
+创作一张戏剧性的垂直装饰艺术风格旅行海报，以 {argument name="city" default="[城市名称]"} 为主题，采用 1930 年代豪华邮轮旅行广告的风格。使地标立即具有辨识度、宏伟且具收藏价值，并带有优雅的几何装饰艺术风格。
+
+格式锁定
+
+垂直 3:4 构图。大胆的戏剧性海报设计。强烈的从左下到右上的对角线运动感。上三分之一区域保留为开阔的天空、淡奶油色圆盘和城市名称。
+
+风格迁移
+
+地标主导的构图：70% 可识别的建筑，30% 装饰艺术风格化。从极具戏剧性的低视角展示主要地标，使其向上耸立，透视汇聚。使用流线型宏伟形式、几何弧线、笔直垂直线、阶梯状细节、速度线和同心射线。
+
+细节与色彩
+
+主要地标：{argument name="landmarks" default="[一到两个地标 — 描述其独特的形状和从下方观看的外观]"}。次要元素：{argument name="secondary_elements" default="[三到五个辅助元素，包括桥梁、河流、运河、道路或海岸线，以创造对角线运动]"}。使用六到八种针对该城市调制的冷色调低饱和度颜色，始终将深海军蓝作为唯一的阴影色调。蓝色和青色主导天空、水和阴影；暖色仅作为受光面上的克制点缀。平面印刷色块，博物馆级印刷去饱和处理，微妙均匀的纸张纹理。
+
+构图锁定
+
+在主地标后方放置一个淡奶油色圆盘，带有清晰的放射状光线。保持圆盘冷静而安静，切勿像日落那样。在上部中心位置，仅放置“[城市名称]”，使用大写几何无衬线字体，字间距宽，单一纯色。保持强烈的对角线能量和宏伟尺度。
+
+风格
+
+1930 年代豪华航线装饰艺术旅行海报，精致的几何设计，戏剧性的硬边缘照明，平面油墨印刷，可收藏的博物馆海报美学，干净的现代饰面。
+
+负面提示词
+
+黄色、芥末黄、赭石色、金色、琥珀色、橙色天空、温暖日落、整体暖色调、柔和渐变、照片写实主义、3D 渲染、霓虹灯、卡通风格、虚假做旧、破损纸张、棕褐色调、棕色滤镜、杂乱、多余文字、拼写错误、额外排版、标志、水印。
+
+文本锁定
+
+精确拼写：“[城市名称]”。除城市名称外无其他文本。
+
+宽高比
+
+3:4
+
+[English]
+UPLOAD A REFERENCE IMAGE BEFORE GENERATING.
+
+MAIN PROMPT
+
+Create a dramatic vertical Art Deco travel poster featuring {argument name="city" default="[CITY NAME]"} in the style of a 1930s luxury ocean-liner travel advertisement. Make the landmark immediately recognizable, monumental and collectible, with elegant geometric Deco styling.
+
+FORMAT LOCK
+
+Vertical 3:4 composition. Bold theatrical poster design. Strong diagonal movement from lower left to upper right. Upper third reserved for open sky, the pale cream disc and city name.
+
+STYLE TRANSFER
+
+Landmark-led composition: 70% recognizable architecture, 30% Art Deco stylization. Show the primary landmark from a dramatic low viewpoint, towering upward with converging perspective. Use streamlined monumental forms, geometric arcs, straight verticals, stepped details, speed lines and concentric rays.
+
+DETAIL & COLOR
+
+Primary landmarks: {argument name="landmarks" default="[ONE OR TWO LANDMARKS — describe their distinctive shape and appearance from below]"}. Secondary elements: {argument name="secondary_elements" default="[THREE TO FIVE SUPPORTING ELEMENTS, including a bridge, river, canal, road or shoreline creating diagonal movement]"}. Use six to eight cool desaturated colours tuned to the city, always with deep desaturated navy as the single shadow tone. Blues and teals dominate sky, water and shadows; warm colors only as restrained accents on illuminated planes. Flat printed color planes, museum-print desaturation, subtle even paper grain.
+
+COMPOSITION LOCK
+
+Place a pale cream disc behind the main landmark with clean radiating rays. Keep the disc cool and quiet, never sunset-like. At the upper centre, place only “[CITY NAME]” in uppercase geometric sans-serif with wide letter spacing and a single solid color. Preserve strong diagonal energy and monumental scale.
+
+STYLE
+
+1930s luxury-line Art Deco travel poster, sophisticated geometric design, theatrical hard-edged lighting, flat ink printing, collectible museum-poster aesthetic, clean contemporary finish.
+
+NEGATIVE PROMPT
+
+Yellow, mustard, ochre, gold, amber, orange sky, warm sunset, warm overall cast, soft gradients, photorealism, 3D rendering, neon, cartoon style, fake aging, distressed paper, sepia, brown filters, clutter, extra text, incorrect spelling, additional typography, logos, watermark.
+
+TEXT LOCK
+
+Exact spelling: “[CITY NAME]”. No text other than the city name.
+
+ASPECT RATIO
+
+3:4
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2103151340146860261) | 2026-09-24
+
+---
+
+### 🎴 例 8026：GPT Image 2 艺术书编辑海报
+
+![GPT Image 2 艺术书编辑海报](../images/GPT%20Image%202%20%E8%89%BA%E6%9C%AF%E4%B9%A6%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为确切的视觉参考，创建一个高端独立艺术书编辑海报。
+
+严格格式：
+- 垂直 3:4 画布
+- 将构图水平划分为两个相等的 50/50 部分
+- 上半部分 = 原始照片
+- 下半部分 = 极简主义手工纸插画
+
+上半部分 — 摄影：
+忠实且自然地保留上传的照片。
+保持确切的主题身份、面部特征、姿势、服装、发型、身体位置、物体、环境、构图、透视、光照和可识别的细节。
+不要重新设计或替换主题。
+不要改变场景。
+仅应用微妙的高端编辑色彩分级，具有柔和自然的对比度、精致的色调和真实的摄影质感。
+照片应保持摄影风格，并占据整个上半部分的 50%。
+
+下半部分 — 极简主义插画：
+仅将原始照片中最具辨识度的元素重新诠释为一个小而居中的手工纸插画。
+
+插画必须：
+- 仅占下半部分的约 10–20%
+- 从原始照片中清晰可辨
+- 使用精致不完美的手绘线条
+- 使用大胆的扁平丙烯状色块
+- 具有微妙的手工纸纹理
+- 具有略微有机的不完美边缘
+- 感觉是手工制作的，而非数字完美的
+- 使用不超过从原始照片中提取的 4 种颜色
+- 在插画周围保持充裕的温暖米白色负空间
+
+保持插画小而低调。
+不要让它在下半部分占据主导地位。
+
+编辑设计：
+创造一种安静、诗意、精致的独立艺术书美学。
+在下半部分使用温暖的米白色纸张背景。
+可选：在插画下方添加极其简约的编辑排版，使用小优雅的衬线大写字母，具有宽松的字间距。
+排版必须微妙且次要。
+
+视觉情绪：
+安静
+诗意
+极简
+精致
+艺术
+高端
+博物馆目录 / 独立艺术书美学
+自然
+永恒
+
+严格避免：
+卡通风格
+动漫
+水彩
+彩色铅笔渲染
+3D 渲染
+光泽效果
+写实插画
+繁忙的构图
+大型插画
+商业广告美学
+过饱和的颜色
+重阴影
+过多的排版
+额外的物体
+改变的身份
+改变的服装
+改变的姿势
+改变的面部特征
+
+最终图像应看起来像精心设计的当代艺术书封面，其中原始照片及其微小的手工诠释在克制的 50/50 编辑构图中共存。
+
+[English]
+Create a high-end independent art-book editorial poster using the uploaded photo as the EXACT visual reference.
+
+STRICT FORMAT:
+- Vertical 3:4 canvas
+- Divide the composition horizontally into two equal 50/50 sections
+- Top half = original photograph
+- Bottom half = minimalist handmade-paper illustration
+
+TOP HALF — PHOTOGRAPH:
+Preserve the uploaded photograph faithfully and naturally.
+Keep the exact subject identity, facial features, pose, clothing, hairstyle, body position, objects, environment, composition, perspective, lighting and recognizable details.
+Do not redesign or replace the subject.
+Do not change the scene.
+Apply only subtle premium editorial color grading with soft natural contrast, refined tones and realistic photographic texture.
+The photograph should remain photographic and occupy exactly the entire top 50%.
+
+BOTTOM HALF — MINIMALIST ILLUSTRATION:
+Reinterpret only the most recognizable elements from the original photo as a small centered handmade paper illustration.
+
+The illustration must:
+- occupy only around 10–20% of the bottom section
+- remain clearly recognizable from the original photo
+- use delicate imperfect hand-drawn lines
+- use bold flat acrylic-like color shapes
+- have subtle handmade paper grain
+- have slightly organic imperfect edges
+- feel handcrafted rather than digitally perfect
+- use no more than 4 colors extracted from the original photograph
+- maintain generous warm off-white negative space around the illustration
+
+Keep the illustration small and understated.
+Do not let it dominate the bottom half.
+
+EDITORIAL DESIGN:
+Create a quiet, poetic, refined independent art-book aesthetic.
+Use a warm off-white paper background in the bottom half.
+Optional: add extremely minimal editorial typography beneath the illustration using small elegant uppercase serif lettering with generous letter spacing.
+Typography must be subtle and secondary.
+
+VISUAL MOOD:
+quiet
+poetic
+minimal
+refined
+artistic
+premium
+museum-catalogue / independent art-book aesthetic
+natural
+timeless
+
+STRICTLY AVOID:
+cartoon style
+anime
+watercolor
+colored-pencil rendering
+3D rendering
+glossy effects
+photorealistic illustration
+busy composition
+large illustration
+commercial advertising aesthetic
+oversaturated colors
+heavy shadows
+excessive typography
+extra objects
+altered identity
+changed clothing
+changed pose
+changed facial features
+
+The final image should look like a carefully designed contemporary art-book cover where the original photograph and its tiny handmade interpretation coexist in a restrained 50/50 editorial composition.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2103147178730655753) | 2026-09-24
+
+---
+

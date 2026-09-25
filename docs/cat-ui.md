@@ -17013,3 +17013,33 @@ Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, exc
 
 ---
 
+### 🖥️ 例 8028：奢华西装时尚大片提示词
+
+![奢华西装时尚大片提示词](../images/%E5%A5%A2%E5%8D%8E%E8%A5%BF%E8%A3%85%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端奢华时尚广告图像，画面主体为一位三十岁出头、气质优雅的男性模特，身穿剪裁完美的意大利定制黑色西装。模特自信地站立在极简主义的高端时尚摄影棚内，背景为深色大理石地板、深炭灰色墙面以及极具建筑感的戏剧性灯光。西装是画面的视觉焦点，细节包括锋利的戗驳领、挺括的肩部结构、细腻的羊毛纹理、无瑕的缝线、精致的黑色纽扣、挺括的白色衬衫、黑色真丝领带、考究的口袋巾以及擦得锃亮的黑色皮鞋。
+
+采用具有电影感的戏剧性布光，以温暖的金色轮廓光勾勒模特身形，同时在西装上投下冷调柔和阴影，营造强烈的空间深度与对比度。捕捉模特强有力的四分之三侧身姿态，一只手轻整外套，着重展现剪裁工艺、整体轮廓、面料质感及精湛做工。背景中融入微妙的奢华细节，如放置折叠高级面料的大理石底座、袖扣以及经典腕表。
+
+呈现精致奢华的时尚大片美学风格，照片级真实感，编辑类摄影，超高清面料纹理，逼真的皮肤质感，自然的人体比例，高端影棚摄影，浅景深，戏剧性阴影，高对比度，优雅构图，精细的色彩分级，85mm 镜头时尚摄影，对焦清晰于西装，背景整洁，高端男装广告，4K 分辨率。
+
+右侧预留干净的负空间以便添加广告文案和品牌标识。无可见品牌 Logo，无水印，手部无变形，无多余手指，无过度配饰，无杂乱元素。
+
+[English]
+Create a premium luxury fashion advertising image featuring a perfectly tailored black Italian suit worn by a sophisticated male model in his early 30s. The model stands confidently inside a minimalist high-end fashion studio with dark marble floors, deep charcoal walls, and dramatic architectural lighting. The suit is the hero of the composition, with sharp peak lapels, structured shoulders, subtle wool texture, immaculate stitching, elegant black buttons, crisp white shirt, black silk tie, refined pocket square, and polished black leather shoes.
+
+Use dramatic cinematic lighting with a warm golden rim light outlining the model and cool soft shadows across the suit, creating strong depth and contrast. Capture the model in a powerful three-quarter pose, one hand adjusting his jacket, emphasizing the tailoring, silhouette, fabric texture, and craftsmanship. Include subtle luxury details such as a marble pedestal with folded premium fabrics, cufflinks, and a classic watch in the background.
+
+Sophisticated luxury fashion campaign aesthetic, photorealistic, editorial photography, ultra-detailed fabric texture, realistic skin, natural proportions, premium studio photography, shallow depth of field, dramatic shadows, high contrast, elegant composition, refined color grading, 85mm fashion photography, sharp focus on the suit, clean background, high-end menswear advertisement, 4K.
+
+Leave clean negative space on the right side for advertising copy and branding. No visible brand logos, no watermark, no distorted hands, no extra fingers, no excessive accessories, no clutter.
+```
+
+**来源：** [@Brie AI](https://x.com/briepretty_728/status/2103127430353350900) | 2026-09-24
+
+---
+

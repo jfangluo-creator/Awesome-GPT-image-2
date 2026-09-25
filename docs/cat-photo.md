@@ -71793,3 +71793,213 @@ Large bold “SMASH” typography subtly integrated into the background, clean a
 
 ---
 
+### 📷 例 8029：温室咖啡馆人像提示词
+
+![温室咖啡馆人像提示词](../images/%E6%B8%A9%E5%AE%A4%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+温室の緑ニット
+
+主体：
+画面中央、花と噴水のあるガラス温室に立つ若い女性。くすみ緑の深いVネックニットトップ、白いロングスカート、肩の白バッグが主役。
+
+人物・表情：
+細い卵形の顔、小さな顎、淡茶色の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を少し左へ傾け、視線を正面カメラへ向けた穏やかな微笑み。明るいブラウンの長いウェーブ髪は薄い前髪と顔脇の毛束。
+
+服装・ポーズ：
+くすみセージグリーンの縦リブ、太い肩紐、深い交差Vネック、右脇に金ボタン三つのニットトップ。白い細ベルト付きの軽い布のロングフレアスカート、白い肩掛けバッグ。立って左手でバッグの肩紐を持ち、右腕を自然に下げる。
+
+背景・光：
+画面左右に白花と緑、右に石の噴水、背景に黒枠の大きなアーチ窓と温室、ぼけた客とテーブル。画面右上の大窓から柔らかな日光が髪、顔、服へ入り、葉と水に丸い光点を作る。
+
+構図・カメラ：
+3:4の縦構図、腰と同じ高さの正面カメラで頭頂からスカートの膝下までを収める三分身ポートレート。人物を中央へ大きく、花を左、噴水を右へ配置。裾は下端で裁切し、顔と瞳にピント、背景は大きくぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌、リブニット、白布、革バッグ、花、葉、水の反射を高精細にし、セージ、白、金の暖かな温室光。
+
+ネガティブ：
+緑ニットと白スカート変更；温室花景省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103109697607995648) | 2026-09-24
+
+---
+
+### 📷 例 8030：抓拍智能手机照片提示词
+
+![抓拍智能手机照片提示词](../images/%E6%8A%93%E6%8B%8D%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张极具真实感的抓拍智能手机照片，画面中一位年轻女性站在阳光明媚的户外路边施工区域附近。
+她留着深棕黑色的长卷发，自然微卷，头发略微中分，脸颊两侧有柔和散落的发丝。妆容清淡自然，皮肤纹理逼真，可见毛孔和细微瑕疵，嘴唇自然，面部特征柔和，神情平静中性。她的脸部必须看起来完全自然且像真人，绝不能像 CGI 或 AI 生成的模型。
+她身穿一件宽松的浅麻灰色短袖 T 恤，胸前印有淡淡的白色字母，中间有一个红色手写风格的小标志，下身搭配深灰色牛仔裤。她一只手随意地拿着一小杯棕色纸杯装的咖啡或甜点，另一只手拿着小勺轻轻搅拌。
+构图：垂直 3:4 比例的智能手机照片，中全景取景，相机位置大约在胸部高度，主体位于画面中心略偏左的位置。姿态自然随意，肩膀放松，手部和手指解剖结构真实。
+背景：真实的都市路边环境，她身后有一辆白色小型面包车驶过，红白相间的临时道路施工护栏，黑白相间的导向箭头标志，金属交通指示牌，人行道旁的绿色灌木丛，以及在明亮多云天空下隐约可见的远处蓝灰色山丘。
+人行道由逼真的红色和米色互锁砖铺成，具有自然的色差和轻微的不完美感。
+光照：明亮的正午自然阳光，逼真的柔和阴影，略带暖意的日光，头发和皮肤上有自然的高光。具有真实的智能手机动态范围和细微的曝光变化。
+相机特性：逼真的现代智能手机摄像头，等效 26mm 广角镜头，自然透视，轻微的计算摄影效果，逼真的 HDR，边缘处有轻微的镜头柔化，自然的自动对焦，细微的运动模糊，真实的景深。图像应感觉像是朋友在走路时随手拍下的未计划照片，而不是专业摄影棚拍摄的作品。
+极度逼真的人类皮肤，根根分明的发丝，物理准确的织物纹理，T 恤上自然的褶皱和折痕，逼真的手部，逼真的勺子和杯子，可信的阴影和反射。
+禁止电影感外观，禁止影棚灯光，禁止美颜滤镜，禁止塑料感皮肤，禁止过度面部修饰，禁止夸张的背景虚化，禁止人为锐化，禁止 CGI，禁止 3D 渲染，禁止动漫风格，禁止插画风格，禁止娃娃脸，禁止完美的对称五官，禁止变形的手，禁止多余的手指。
+最终图像必须与现实生活中拍摄的真正随意的智能手机照片无法区分。
+
+[English]
+Create an extremely photorealistic candid smartphone photograph of a young woman standing outdoors on a sunny day near a roadside construction area.
+She has long, naturally wavy dark brown-black hair parted slightly in the middle, soft loose strands around her face, natural subtle makeup, realistic skin texture with visible pores and tiny imperfections, natural lips, soft facial features, and a calm neutral expression. Her face must look completely natural and human, not like CGI or an AI-generated model.
+She is wearing an oversized light heather-gray short-sleeve T-shirt with subtle white lettering across the chest and a small red handwritten-style logo in the center, paired with dark gray denim jeans. She is casually holding a small brown paper cup of coffee or dessert with one hand while gently stirring it with a small spoon in the other hand.
+Composition: vertical 3:4 smartphone photograph, medium-full body framing, camera positioned around chest height, subject centered slightly left of frame. Natural casual posture, relaxed shoulders, realistic hand and finger anatomy.
+Background: a real urban roadside environment with a white compact van passing behind her, red-and-white temporary road construction barriers, black-and-white directional chevron signs, metal traffic signs, green bushes along the sidewalk, and a distant blue-gray mountain/hill visible beneath a bright partly cloudy sky.
+The sidewalk is made of realistic reddish and beige interlocking brick pavement with natural variation and slight imperfections.
+Lighting: bright natural midday sunlight, realistic soft shadows, slightly warm daylight, natural highlights on hair and skin. Authentic smartphone dynamic range with subtle exposure variation.
+Camera characteristics: realistic modern smartphone camera, 26mm equivalent wide-angle lens, natural perspective, slight computational photography, realistic HDR, mild lens softness toward the edges, natural autofocus, subtle motion imperfections, realistic depth of field. The image should feel like an unplanned photo taken by a friend while walking, NOT a professional photoshoot.
+Extremely realistic human skin, realistic individual hair strands, physically accurate fabric texture, natural wrinkles and folds in the T-shirt, realistic hands, realistic spoon and cup, believable shadows and reflections.
+NO cinematic look, NO studio lighting, NO beauty filter, NO plastic skin, NO excessive facial retouching, NO exaggerated bokeh, NO artificial sharpness, NO CGI, NO 3D render, NO anime, NO illustration, NO doll-like face, NO perfect symmetrical features, NO deformed hands, NO extra fingers.
+The final image must be indistinguishable from an authentic casual smartphone photograph taken in real life.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2103107718445687255) | 2026-09-24
+
+---
+
+### 📷 例 8031：GPT Image 2 超现实时空分裂人像
+
+![GPT Image 2 超现实时空分裂人像](../images/GPT%20Image%202%20%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%97%B6%E7%A9%BA%E5%88%86%E8%A3%82%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感超现实照片，描绘了一位二十岁出头、英俊非凡的年轻男子，他正站在两个世纪的分界线上，在 1920 年和 2120 年之间创造出无缝的视觉分裂效果。
+
+他拥有浓密自然的乌黑波浪卷发、粗犷有力的眉毛、深邃的黑褐色眼睛、轮廓分明的雕塑般下颌线、淡淡的自然胡茬、逼真的皮肤纹理、清晰可见的毛孔以及精致的男性面部特征。
+
+图像的左侧代表 1920 年代：一条优雅的复古城市街道，拥有装饰艺术风格的建筑、经典汽车、古老的砖砌建筑、温暖的琥珀色路灯、复古商店招牌、身着 1920 年代西装和大衣的行人、微妙的胶片颗粒感、棕褐色调以及真实的时代氛围。年轻男子身穿剪裁完美的 1920 年代三件套西装，佩戴怀表，脚穿擦得锃亮的皮鞋，发型细节也极具复古韵味。
+
+右侧则代表 2120 年：一座令人叹为观止的未来主义大都市，充满了高耸的玻璃金属摩天大楼、全息广告、自动驾驶飞行汽车、发光的霓虹建筑、未来主义的行人、先进技术、悬浮交通系统以及微妙的大气雾气。年轻男子身穿优雅的未来主义黑色定制西装，配有复杂的金属细节和微妙的发光点缀。
+
+构图中心展示了两个时代在他周围融合的景象，伴有明亮的时间扭曲、漂浮的时钟碎片、粒子以及连接 1920 年与 2120 年的现实涟漪。他的身体在两个时代之间微妙过渡，而面部保持完全一致且完美逼真，象征着一个被困在过去与未来之间的男人。
+
+史诗般的电影构图，对称的世界分裂概念，戏剧性的透视，真实的环境反射，体积光照明，大气深度，物理上准确的材料，高度详细的皮肤，自然的面部表情，照片级真实感，8K HDR，超锐利对焦，电影色彩分级，35mm 摄影，杰作，无文字，无水印。
+
+[English]
+Ultra-realistic cinematic surreal photograph of a strikingly handsome young man in his early 20s standing exactly at the boundary between two centuries, creating a seamless visual split between 1920 and 2120.
+
+He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.
+
+The LEFT side of the image represents the 1920s: an elegant vintage city street with Art Deco architecture, classic automobiles, old brick buildings, warm amber street lamps, vintage shop signs, pedestrians in 1920s suits and coats, subtle film grain, sepia tones, and authentic period atmosphere. The young man wears a perfectly tailored 1920s three-piece suit, pocket watch, polished leather shoes, and vintage hairstyle details.
+
+The RIGHT side represents the year 2120: a breathtaking futuristic metropolis filled with towering glass-and-metal skyscrapers, holographic advertisements, autonomous flying vehicles, glowing neon architecture, futuristic pedestrians, advanced technology, floating transportation systems, and subtle atmospheric mist. The young man wears an elegant futuristic black tailored suit with sophisticated metallic details and subtle glowing accents.
+
+The center of the composition shows the two eras merging around him, with a luminous temporal distortion, floating clock fragments, particles, and ripples in reality connecting 1920 to 2120. His body subtly transitions between both eras while his face remains identical and perfectly realistic, symbolizing a man caught between past and future.
+
+Epic cinematic composition, symmetrical split-world concept, dramatic perspective, realistic environmental reflections, volumetric lighting, atmospheric depth, physically accurate materials, highly detailed skin, natural facial expression, photorealistic, 8K HDR, ultra-sharp focus, cinematic color grading, 35mm photography, masterpiece, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2103091784179912903) | 2026-09-24
+
+---
+
+### 📷 例 8032：复古时尚拼贴提示词
+
+![复古时尚拼贴提示词](../images/%E5%A4%8D%E5%8F%A4%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为唯一的面部身份参考，创建一个超写实的电影感 4:5 比例复古现代时尚拼贴画。在所有 5 个画面中，保持完全相同的面孔、面部特征、肤色、比例、发型和自然皮肤纹理。禁止改变面孔、美化或更改身份。
+
+创建 5 张自然重叠的照片，展示同一位女性在宁静的乡村花园中，背景包括复古小屋、花卉、树木、木栅栏和温暖的午后阳光：
+
+1. 主图：位于中心偏左的大尺寸肖像，手持一小束野花，对着镜头微笑。
+
+2. 右上角：站立全身/四分之三肖像，手抚头发并拿着花，身穿淡色花卉衬衫搭配米色长裤。
+
+3. 右中部：腰部以上肖像，靠近乡村花园结构，身穿粉蓝色花卉衬衫。
+
+4. 左下角：放松的坐姿肖像，坐在木制长椅上，身穿奶油色花卉衬衫搭配深色高腰下装。
+
+5. 右下角：全身行走肖像，背着一个小巧的复古单肩包，身穿蓝色花卉衬衫和米色长裤。
+
+使用柔和的复古花卉服装，颜色包括奶油色、象牙白、灰粉色、粉蓝色、米色和海军蓝。自然的波浪卷发，极简珠宝，逼真的面料和花朵细节。
+
+风格：高端单反相机时尚大片，1990 年代/2000 年代初复古美学，柔和的黄金时刻光线，电影感散景，微妙的胶片颗粒，柔和的粉彩色彩，真实的皮肤，自然的解剖结构，照片级 8K 画质。
+
+负面提示：不同的面孔，身份改变，换脸，塑料皮肤，过度化妆，扭曲的手/手指，多余的肢体，重复的人物，不一致的发型，不一致的光线，标志，文字，水印，边框，人工 AI 外观。
+
+[English]
+Create an ultra-realistic cinematic 4:5 vintage-modern fashion collage using the uploaded photo as the ONLY facial identity reference. Keep the exact same face, facial features, skin tone, proportions, hairstyle, and natural skin texture in all 5 frames. No face alteration, beautification, or identity change.
+
+Create 5 naturally overlapping photos of the same woman in a peaceful rustic countryside garden with a vintage cottage, flowers, trees, wooden fences, and warm late-afternoon sunlight:
+
+1. Hero: Large center-left portrait holding a small wildflower bouquet, smiling at camera.
+
+2. Upper-right: Standing full/three-quarter portrait, touching hair and holding flowers, pastel floral blouse with beige trousers.
+
+3. Middle-right: Waist-up portrait near a rustic garden structure, wearing a powder-blue floral blouse.
+
+4. Lower-left: Relaxed seated portrait on a wooden bench, cream floral blouse with dark high-waisted bottom.
+
+5. Lower-right: Full-body walking portrait with a small vintage shoulder bag, blue floral blouse and beige trousers.
+
+Use soft vintage floral clothing in cream, ivory, dusty pink, powder blue, beige and navy. Natural wavy hair, minimal jewelry, realistic fabric and flower details.
+
+Style: High-end DSLR fashion editorial, 1990s/early-2000s vintage aesthetic, soft golden-hour light, cinematic bokeh, subtle film grain, muted pastel colors, realistic skin, natural anatomy, photorealistic 8K quality.
+
+Negative: Different face, identity change, face swap, plastic skin, excessive makeup, distorted hands/fingers, extra limbs, duplicate people, inconsistent hairstyle, inconsistent lighting, logos, text, watermark, borders, artificial AI look.
+```
+
+**来源：** [@Aiza](https://x.com/AizaAi12/status/2103075509555061098) | 2026-09-24
+
+---
+
+### 📷 例 8035：优雅的巴基斯坦时尚人像
+
+![优雅的巴基斯坦时尚人像](../images/%E4%BC%98%E9%9B%85%E7%9A%84%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的优雅巴基斯坦时尚人像：一位美丽的年轻成年女性优雅地坐在现代精致客厅中一张奢华的米色簇绒沙发上。她留着一头浓密自然的深棕色波浪长发，随意垂落在单侧肩头；妆容柔和自然，眉形清晰，唇色淡粉，面带温柔而自信的微笑。
+
+她身穿深酒红色/栗色的传统巴基斯坦 Salwar Kameez（旁遮普套装），上衣为简约直筒剪裁的 Kurta，圆领处带有短开衩，前襟点缀着精致的金色纽扣。一条同色系印有复杂传统几何边框图案的 Dupatta（披巾）自然地搭在右肩，并垂落在一旁。她的双腕佩戴多只传统银手镯，耳畔点缀小巧优雅的耳环。
+
+她以放松而优雅的姿势坐着，一只手轻扶沙发，另一只手自然置于膝上。背景中可见一株高大的室内绿色棕榈植物、米色装饰性墙面线条、明亮的大窗户以及柔和奢华的家居装饰。地板上部分露出一块波斯风格图案的地毯。
+
+[English]
+Create an ultra-realistic, elegant Pakistani fashion portrait of a beautiful young adult woman sitting gracefully on a luxurious cream-colored tufted sofa in a sophisticated modern living room. She has long, voluminous dark brown wavy hair falling naturally over one shoulder, soft natural makeup, defined eyebrows, subtle pink lips, and a gentle confident smile.
+She is wearing a deep burgundy/maroon traditional Pakistani shalwar kameez with a simple straight-cut kurta, round neckline with a short slit, and elegant gold buttons down the front. A matching maroon printed dupatta with intricate traditional geometric borders is draped naturally over her right shoulder and flows beside her. She wears multiple traditional silver bangles on both wrists and small elegant earrings.
+She is seated in a relaxed graceful pose, one hand resting on the sofa and the other gently placed on her lap. Behind her is a tall green indoor palm plant, cream decorative wall molding, large bright windows, and soft luxurious home décor. A patterned Persian-style rug is partially visible on the floor.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2103006821246263317) | 2026-09-24
+
+---
+
+### 📷 例 8037：电影感雨夜电话亭
+
+![电影感雨夜电话亭](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%9B%A8%E5%A4%9C%E7%94%B5%E8%AF%9D%E4%BA%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感夜景照片，描绘了一位二十岁出头、容貌出众的英俊年轻男子，在午夜时分坐在一条空旷城市街道上的复古红色电话亭里。他留着浓密自然的黑色波浪卷发，眉毛浓黑，深褐色的双眸深邃迷人，下颌线条清晰立体，脸上带着淡淡的自然胡茬，皮肤质感真实细腻，毛孔清晰可见，五官精致且充满男性魅力。他手持一部老式黑色电话听筒贴近耳边，神情神秘而若有所思，目光微微投向布满雨滴的玻璃窗。
+窗外大雨倾盆，雨珠顺着玻璃面板滑落，浓厚的雾气笼罩着电话亭，柔和地遮蔽了空荡的街道。潮湿的路面反射出电话亭温暖的琥珀色光芒和远处路灯的微光。背景中的复古城市建筑逐渐隐没在迷雾之中。细微的霓虹倒影、电影感的轮廓光、柔和的体积光束、深邃的阴影、忧郁的午夜蓝氛围、潮湿表面上的真实反射、浅景深效果、85mm 镜头、f/1.4 光圈、戏剧性的胶片颗粒感、高动态范围、逼真的皮肤质感、复杂的织物细节、精致的黑色电影美学、神秘而富有情感的氛围、高端杂志摄影风格、8K 分辨率、超高细节、自然比例、无文字、无水印、无女性人物。
+
+[English]
+Ultra-realistic cinematic night photograph of a strikingly handsome young man in his early 20s sitting inside a vintage red telephone booth on a deserted city street at midnight. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features. He holds an old black telephone receiver close to his ear, with a mysterious, thoughtful expression as he looks slightly toward the rain-covered glass.
+Heavy rain falls outside, droplets streaming down the glass panels, while dense atmospheric fog surrounds the booth and softly obscures the empty street. Wet pavement reflects the warm amber glow of the booth and distant streetlights. Vintage urban architecture fades into the mist in the background. Subtle neon reflections, cinematic rim lighting, soft volumetric light beams, deep shadows, moody midnight-blue atmosphere, realistic reflections on wet surfaces, shallow depth of field, 85mm lens, f/1.4, dramatic film grain, high dynamic range, photorealistic skin, intricate fabric details, sophisticated noir aesthetic, mysterious and emotional atmosphere, premium editorial photography, 8K, ultra-detailed, natural proportions, no text, no watermark, no women.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2102987709883298171) | 2026-09-24
+
+---
+

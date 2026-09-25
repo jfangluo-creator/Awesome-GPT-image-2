@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (605)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (606)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1203,6 +1203,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8020: 雨天秋日街头时尚 GPT Image 2](cat-ui.md#️-例-8020雨天秋日街头时尚-gpt-image-2)
 
 - [Case 8021: GPT Image 2 秋分编辑海报系列提示词](cat-ui.md#️-例-8021gpt-image-2-秋分编辑海报系列提示词)
+
+- [Case 8028: 奢华西装时尚大片提示词](cat-ui.md#️-例-8028奢华西装时尚大片提示词)
 ---
 
 <a id="chart"></a>
@@ -1443,7 +1445,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1064)
+## 🎴 [Posters & Cards](cat-poster.md) (1066)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3535,11 +3537,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8016: 照片转插画海报 GPT Image 2](cat-poster.md#-例-8016照片转插画海报-gpt-image-2)
 
 - [Case 8023: 紫色几何伦敦清晨海报](cat-poster.md#-例-8023紫色几何伦敦清晨海报)
+
+- [Case 8025: 装饰艺术风格旅行海报模板](cat-poster.md#-例-8025装饰艺术风格旅行海报模板)
+
+- [Case 8026: GPT Image 2 艺术书编辑海报](cat-poster.md#-例-8026gpt-image-2-艺术书编辑海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2970)
+## 📷 [Photography & Realistic](cat-photo.md) (2976)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9413,6 +9419,18 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8019: 时尚男士路灯旁人像](cat-photo.md#-例-8019时尚男士路灯旁人像)
 
 - [Case 8022: 电影级羽毛球扣杀 GPT Image 2](cat-photo.md#-例-8022电影级羽毛球扣杀-gpt-image-2)
+
+- [Case 8029: 温室咖啡馆人像提示词](cat-photo.md#-例-8029温室咖啡馆人像提示词)
+
+- [Case 8030: 抓拍智能手机照片提示词](cat-photo.md#-例-8030抓拍智能手机照片提示词)
+
+- [Case 8031: GPT Image 2 超现实时空分裂人像](cat-photo.md#-例-8031gpt-image-2-超现实时空分裂人像)
+
+- [Case 8032: 复古时尚拼贴提示词](cat-photo.md#-例-8032复古时尚拼贴提示词)
+
+- [Case 8035: 优雅的巴基斯坦时尚人像](cat-photo.md#-例-8035优雅的巴基斯坦时尚人像)
+
+- [Case 8037: 电影感雨夜电话亭](cat-photo.md#-例-8037电影感雨夜电话亭)
 ---
 
 <a id="illustration"></a>
@@ -12717,7 +12735,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (244)
+## 🏛️ [Architecture & Space](cat-architecture.md) (245)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13197,11 +13215,13 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 7989: GPT Image 2 提示词：晨间厨房围裙](cat-architecture.md#️-例-7989gpt-image-2-提示词晨间厨房围裙)
 
 - [Case 8014: 身穿蓝色刺绣吊带睡衣在床上阅读的女性](cat-architecture.md#️-例-8014身穿蓝色刺绣吊带睡衣在床上阅读的女性)
+
+- [Case 8036: GPT Image 2 中秋节线性结构海报提示词](cat-architecture.md#️-例-8036gpt-image-2-中秋节线性结构海报提示词)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (281)
+## 🎬 [Comics & Storyboards](cat-comic.md) (283)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13747,11 +13767,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 7909: 德黑兰老城冒险漫画插画](cat-comic.md#-例-7909德黑兰老城冒险漫画插画)
 
 - [Case 7991: 喧闹的捕虾人闯入酒馆](cat-comic.md#-例-7991喧闹的捕虾人闯入酒馆)
+
+- [Case 8024: 大头卡通漫画提示词](cat-comic.md#-例-8024大头卡通漫画提示词)
+
+- [Case 8027: 春丽踢飞巨型怪物](cat-comic.md#-例-8027春丽踢飞巨型怪物)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (877)
+## 🏷️ [Brand & Packaging](cat-brand.md) (880)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15500,6 +15524,12 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8007: 动漫角色设计图：传统汉服情侣](cat-brand.md#️-例-8007动漫角色设计图传统汉服情侣)
 
 - [Case 8018: AI 写实缩略图：提灯笼的女孩](cat-brand.md#️-例-8018ai-写实缩略图提灯笼的女孩)
+
+- [Case 8033: MPD Heavy Machinery Robot Team](cat-brand.md#️-例-8033mpd-heavy-machinery-robot-team)
+
+- [Case 8034: 战斗机座舱视角急转弯](cat-brand.md#️-例-8034战斗机座舱视角急转弯)
+
+- [Case 8038: 紫发奢华时尚人像](cat-brand.md#️-例-8038紫发奢华时尚人像)
 ---
 
 <a id="edit"></a>

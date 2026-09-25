@@ -21542,3 +21542,61 @@ Create a vertical 9:16 social media thumbnail. The background is a hyper-realist
 
 ---
 
+### 🏷️ 例 8033：MPD Heavy Machinery Robot Team
+
+![MPD Heavy Machinery Robot Team](../images/MPD%20Heavy%20Machinery%20Robot%20Team.jpg)
+
+**Prompt:**
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　えー、
+　　台風が発生したって！？
+　　　来週には、こっち来る！？
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2103074272474484952) | 2026-09-24
+
+---
+
+### 🏷️ 例 8034：战斗机座舱视角急转弯
+
+![战斗机座舱视角急转弯](../images/%E6%88%98%E6%96%97%E6%9C%BA%E5%BA%A7%E8%88%B1%E8%A7%86%E8%A7%92%E6%80%A5%E8%BD%AC%E5%BC%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张超写实的照片，采用第一人称视角，捕捉了战斗机座舱内执行激烈空中机动时的场景。镜头位于飞行员戴着手套的左手后方，该手正紧握左下角前景中的操纵杆。透过弯曲的座舱盖玻璃，可以看到前方稍高处有一架战斗机正在向右剧烈倾斜转弯，其加力燃烧室发出明亮的橙色光芒。画面展现了高速转弯带来的强烈动感，下方的云层和地面景观呈现出显著的动态模糊效果。天空呈现鲜艳的蓝色，白色的积云因速度和 G 力的作用而在边缘处拉伸变形。左侧座舱盖玻璃上投射出绿色的数字平视显示器（HUD）叠加层，显示着“G 7.6”、“M 0.92”以及航向“320”等飞行数据。光线为明亮的日光，在座舱框架和仪表上投下逼真的反射。
+
+[English]
+A hyper-realistic, first-person perspective shot from inside a fighter jet cockpit during an intense aerial maneuver. The camera is positioned behind the pilot's gloved hand gripping the control stick in the lower left foreground. Through the curved canopy glass, a second fighter jet is visible flying ahead and slightly above, banking hard to the right with its afterburner glowing bright orange. The scene captures a high-speed turn, creating significant motion blur on the clouds and landscape below. The sky is a vibrant blue filled with streaking white cumulus clouds that warp around the edges due to the speed and G-force. A green digital Heads-Up Display (HUD) overlay is projected onto the canopy glass on the left side, showing flight data such as 'G 7.6', 'M 0.92', and heading numbers like '320'. The lighting is bright daylight, casting realistic reflections on the canopy frame and instruments.
+```
+
+**来源：** [@あいぼりー](https://x.com/HetareIvory/status/2103070104800088116) | 2026-09-24
+
+---
+
+### 🏷️ 例 8038：紫发奢华时尚人像
+
+![紫发奢华时尚人像](../images/%E7%B4%AB%E5%8F%91%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的全身奢华时尚人像，基于参考图像中的同一位年轻成年女性角色，保留她鲜艳的紫罗兰色齐下巴波波头配直刘海、白皙如瓷的肌肤、鼻子和脸颊上自然的雀斑、淡褐色/浅棕色眼睛、精致的面部特征、光泽感嘴唇以及苗条的身材。
+她平静地站在一个豪华的现代步入式衣帽间中，神情放松地直视镜头。她一只手拿着一个带有链条装饰的棕色绗缝皮革手提包。她身穿一件舒适的棕色罗纹针织毛衣，上面装饰着白色小蝴蝶结贴花；下身穿着高腰米色阔腿牛仔裤，点缀着白色和棕色的花卉补丁；脚踩干净的白色休闲运动鞋。在她紫色头发的后部添加一个白色花朵发夹，并佩戴精致的手镯和金表。
+在她身旁放置一面大型全身镜，清晰地反射出她的背部着装和发型。衣帽间内设有暖色调 LED 照明的架子，整齐地摆放着衣服、鞋子、手袋和配饰。使用温暖柔和的环境光，优雅的中性色调，逼真的反射效果，详细的织物和皮革纹理，电影般的景深，照片级真实的皮肤和头发质感，高端舒适的时尚大片美学，超精细 8K 商业摄影风格。
+
+[English]
+Create a hyper-realistic full-body luxury fashion portrait of the same young adult female character from the reference image, preserving her vivid violet-purple chin-length bob with straight bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown eyes, delicate facial features, glossy lips, and slim physique.
+She stands calmly in a luxurious modern walk-in closet, looking directly at the camera with a relaxed expression. She holds a brown quilted leather handbag with a chain accent in one hand. She wears a cozy brown ribbed knit sweater decorated with small white bow appliqués, high-waisted beige wide-leg denim jeans decorated with white and brown floral patches, and clean white casual sneakers. Add delicate bracelets, a gold watch, and a white flower hair clip at the back of her purple hair.
+Include a large full-length mirror beside her clearly reflecting the back of her outfit and hair. The closet features warm LED-lit shelves filled with neatly arranged clothes, shoes, handbags, and accessories. Use warm soft ambient lighting, elegant neutral tones, realistic reflections, detailed fabric and leather textures, cinematic depth, photorealistic skin and hair, premium cozy fashion editorial aesthetic, ultra-detailed 8K commercial photography.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2102957894794916195) | 2026-09-24
+
+---
+

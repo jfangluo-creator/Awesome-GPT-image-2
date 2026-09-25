@@ -10281,3 +10281,85 @@ A horizontal digital illustration in a gritty, caricature style depicting a grou
 
 ---
 
+### 🎬 例 8024：大头卡通漫画提示词
+
+![大头卡通漫画提示词](../images/%E5%A4%A7%E5%A4%B4%E5%8D%A1%E9%80%9A%E6%BC%AB%E7%94%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成前请上传参考图像。
+
+主要提示词
+以上传的照片为主要参考，仅将主体人物转化为迷人的大头手绘卡通漫画。头部必须被戏剧性地夸张化，约占角色视觉高度的 45–60%，身体则紧凑且小得多。在保留主体可识别的身份和特征的同时，确保原始照片和环境完全保持原样。
+
+格式锁定
+垂直 3:4 比例。保留原始的取景、相机角度、透视、深度、主体位置、姿势、朝向和构图。保持摄影环境不变。
+
+风格迁移
+创作一种天真童趣的书籍插画风格漫画，具有故意放大的、针对特定主体的头部，扩大的额头和脸颊，微小简化的身体，短小的四肢，小巧的手脚，以及可爱幽默的比例。根据原始主体调整头型、轮廓、发型、发际线、面部毛发、耳朵、喙、帽子、头盔或其他定义性特征。切勿使用通用的圆形头部。
+
+细节与色彩
+保留面部结构、表情、肤色、发型、面部毛发、服装、配饰、图案、标志、鞋子、珠宝和独特细节。使用简单的点状/椭圆眼睛、微小的简化鼻子、弯曲的嘴巴、适当时的微妙腮红、柔和自然的色彩、可见的彩色铅笔笔触、粗糙的排线、交叉排线、不均匀的填充、重叠的笔触、不完美的边缘以及微妙的纸张纹理。
+
+构图锁定
+仅转化主体人物。保持整个背景为写实照片风格，包括建筑、景观、家具、车辆、风景、光照、深度、透视和氛围。将插画角色自然地融入原始场景中，匹配其位置、透视、光照方向和微妙的接地阴影。
+
+风格
+松散的手绘墨线和彩色铅笔漫画，迷人、异想天开、天真、富有表现力、手工制作、略带不完美。从细到中等粗细的有机黑色轮廓线，粗糙的铅笔质感，自发的素描痕迹，简化的服装，夸张的大头，微小的身体。写实照片与插画主体之间的对比应当是有意为之且具有视觉冲击力的。
+
+负面提示词
+正常头部比例，小头，通用头型，通用卡通角色，所有主体头型相同，写实主体，卡通化背景，全插画场景，动漫，矢量艺术，3D CGI，皮克斯，迪士尼，光泽数字渲染，塑料质感，平滑渐变，抛光图形，改变身份，改变发型，改变服装，改变姿势，扭曲的面部特征，过度的面部细节，过大的身体，写实解剖结构，不必要的背景更改。
+
+宽高比：3:4
+
+[English]
+UPLOAD A REFERENCE IMAGE BEFORE GENERATING.
+
+MAIN PROMPT
+Using the uploaded photo as the primary reference, transform ONLY the main subject into a charming oversized-head hand-drawn cartoon caricature. The head must be dramatically exaggerated, approximately 45–60% of the character’s visual height, with a compact, much smaller body. Preserve the subject’s recognizable identity and defining characteristics while keeping the original photograph and environment fully recognizable.
+
+FORMAT LOCK
+Vertical 3:4. Preserve the original framing, camera angle, perspective, depth, subject placement, pose, orientation, and composition. Keep the photographic environment unchanged.
+
+STYLE TRANSFER
+Create a naïve children’s-book caricature with a deliberately huge, subject-specific head, enlarged forehead and cheeks, tiny simplified body, short limbs, small hands and feet, and a cute humorous proportion. Adapt the head shape, silhouette, hairstyle, hairline, facial hair, ears, beak, hat, helmet, or other defining features specifically to the original subject. Never use a generic circular head.
+
+DETAIL & COLOR
+Preserve facial structure, expression, skin tone, hairstyle, facial hair, clothing, accessories, patterns, logos, shoes, jewelry, and distinctive details. Use simple dot/oval eyes, tiny simplified nose, curved mouth, subtle cheeks when appropriate, soft natural colors, visible colored-pencil strokes, rough hatching, cross-hatching, uneven fills, overlapping strokes, imperfect edges, and subtle paper texture.
+
+COMPOSITION LOCK
+Transform ONLY the main subject. Keep the entire background photorealistic, including architecture, landscape, furniture, vehicles, scenery, lighting, depth, perspective, and atmosphere. Integrate the illustrated character naturally into the original scene with matching position, perspective, lighting direction, and subtle grounding shadows.
+
+STYLE
+Loose hand-drawn ink and colored-pencil caricature, charming, whimsical, naïve, expressive, handmade, slightly imperfect. Thin-to-medium organic black outlines, rough pencil texture, spontaneous sketch marks, simplified clothing, exaggerated oversized head, tiny body. The contrast between the realistic photograph and illustrated subject should be intentional and visually striking.
+
+NEGATIVE PROMPT
+Normal head proportions, small head, generic head shape, generic cartoon character, identical head shape across subjects, photorealistic subject, cartoonized background, fully illustrated scene, anime, vector art, 3D CGI, Pixar, Disney, glossy digital rendering, plastic texture, smooth gradients, polished graphics, altered identity, changed hairstyle, changed clothing, changed pose, distorted facial features, excessive facial detail, oversized body, realistic anatomy, unnecessary background changes.
+
+ASPECT RATIO: 3:4
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2103157080370684198) | 2026-09-24
+
+---
+
+### 🎬 例 8027：春丽踢飞巨型怪物
+
+![春丽踢飞巨型怪物](../images/%E6%98%A5%E4%B8%BD%E8%B8%A2%E9%A3%9E%E5%B7%A8%E5%9E%8B%E6%80%AA%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅高分辨率的数字插画，采用充满活力的漫画风格，描绘了一场混乱的街头格斗场景。画面右侧是《街头霸王》中的春丽，她身穿标志性的蓝色旗袍（饰有金色滚边）和白色长靴，正执行一记强力高踢，直接命中一只体型庞大的绿色皮肤怪物的躯干。该怪物外形类似布兰卡，但体型更大、肌肉更发达，拥有狂野的红发、锋利的爪子和发光的双眼，在承受冲击时痛苦咆哮。前景中，《街头霸王》中的隆身着破损的白色道服，倒在布满瓦砾的地面上，显得伤痕累累且已失去意识。背景是一条粗犷的城市小巷，砖砌建筑、消防梯和溢出的垃圾桶在戏剧性的橙紫色天空下若隐若现。撞击点向外爆发出碎片与尘土。
+
+[English]
+A high-resolution digital illustration in a vibrant, comic-book style depicting a chaotic street fight. The scene features Chun-Li from Street Fighter on the right side, wearing her iconic blue qipao with gold trim and white boots, executing a powerful high kick that connects directly with the torso of a massive green-skinned monster. The monster resembles Blanka but is significantly larger and more muscular, with wild red hair, sharp claws, and glowing eyes, roaring in pain as it absorbs the impact. In the foreground, lying defeated on the rubble-strewn ground, is Ryu from Street Fighter, wearing his torn white gi, appearing battered and unconscious. The background shows a gritty urban alleyway with brick buildings, fire escapes, and overflowing trash cans under a dramatic, fiery orange and purple sky. Debris and dust explode outward from the point of impact.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2103129730547630558) | 2026-09-24
+
+---
+
