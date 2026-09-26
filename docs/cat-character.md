@@ -9604,3 +9604,113 @@ Right Panel (Bold Mood): Depict the subject wearing a structured black blazer ov
 
 ---
 
+### 🧍 例 8052：Y2K 风格运动鞋时尚大片
+
+![Y2K 风格运动鞋时尚大片](../images/Y2K%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E9%9E%8B%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张高质量的全身 Y2K 风格时尚编辑照片，主角为参考图中的同一位女性角色。
+
+角色坐在干净的白色摄影棚地板上，姿态放松可爱，身体微微前倾，正在为一双厚底白色运动鞋系上鲜艳的霓虹粉色鞋带。她的头略微低垂，目光专注而温柔地注视着鞋子，因集中注意力而轻轻咬着下唇。
+
+角色特征：
+- 年轻女性，留着短款波浪紫色波波头
+- 柔和的紫色刘海修饰额头
+- 佩戴可爱的粉紫双色发夹
+- 自然白皙的皮肤，脸颊和鼻子上有可见的雀斑
+- 妆容柔和，眼线细腻，嘴唇呈自然粉色
+- 保持角色的面部特征、发型、肤色及整体身份与参考图一致
+
+服装搭配：
+- 宽松的白色长袖圆领卫衣
+- 正面印有可爱的彩色柔和 Y2K 图案
+- 配套的白色与淡粉色短裤
+- 带有小蝴蝶结图案的白色透明连裤袜
+- 手腕上戴着柔和褶皱的发圈手链
+- 带有全息/虹彩面板的厚底白色运动鞋
+- 运动鞋上有薄荷绿点缀
+- 鲜艳明亮的霓虹粉色鞋带
+
+姿势与构图：
+- 全身构图
+- 自然地坐在地板上
+- 一条腿向上弯曲，另一条腿舒适地放在一侧
+- 双手正在积极系紧粉色鞋带
+- 前景中一只运动鞋清晰可见
+- 相机位置略低且正对前方
+- 时尚编辑摄影风格
+- 解剖结构自然，手部与手指逼真
+- 构图平衡，以角色为主要焦点
+
+背景：
+干净明亮的白色摄影棚背景，充满俏皮的 Y2K 流行美学。
+在角色周围环绕色彩丰富的装饰元素：
+- 淡紫色、粉色、薄荷色和薰衣草色的涂鸦
+- 爱心
+- 星星
+- 闪光特效
+- 鞋印图形
+- 可爱的箭头
+- 行星/光环涂鸦
+- 漂浮的运动鞋插画
+- 场景中堆叠的柔和色调鞋盒
+- 可爱的洗鞋瓶和刷子
+- 小型装饰性文字气泡，写着 “Sneaker Game” 和 “Lace Up"
+
+[English]
+Create a high-quality full-body Y2K fashion editorial photograph of the same female character from the reference image.
+
+The character is sitting on a clean white studio floor in a relaxed, cute pose, leaning slightly forward while tying the bright neon-pink shoelaces of a chunky white sneaker. Her head is tilted slightly downward and she is looking at the shoe with a focused, gentle expression, subtly biting her lower lip in concentration.
+
+CHARACTER:
+- Young woman with short, wavy purple bob hair
+- Soft purple bangs framing the forehead
+- Cute pastel pink and purple hair clips
+- Natural fair skin with visible freckles across the cheeks and nose
+- Soft makeup, subtle eyeliner and natural pink lips
+- Keep the character's facial features, hairstyle, skin tone and overall identity consistent with the reference image
+
+OUTFIT:
+- Oversized white long-sleeved crew-neck sweatshirt
+- Cute colorful pastel Y2K graphic printed on the front
+- Matching white and pastel-pink shorts
+- Sheer white patterned tights with small cute bow motifs
+- Pastel ruffled scrunchie bracelet around the wrist
+- Chunky white sneakers with holographic/iridescent panels
+- Pastel mint-green accents on the sneakers
+- Bright vibrant neon-pink shoelaces
+
+POSE AND COMPOSITION:
+- Full-body composition
+- Sitting naturally on the floor
+- One leg bent upward and the other positioned comfortably to the side
+- Hands actively tying the pink shoelaces
+- One sneaker prominently visible in the foreground
+- Camera positioned slightly low and front-facing
+- Fashion editorial photography
+- Natural anatomy and realistic hands and fingers
+- Balanced composition with the character as the main focus
+
+BACKGROUND:
+Clean bright white studio background with a playful Y2K pop aesthetic.
+Surround the character with colorful decorative elements:
+- Pastel purple, pink, mint and lavender doodles
+- Hearts
+- Stars
+- Sparkles
+- Shoe-print graphics
+- Cute arrows
+- Planet/ring doodles
+- Floating sneaker illustrations
+- Pastel shoeboxes stacked around the scene
+- Cute sneaker-cleaning bottles and brushes
+- Small decorative text bubbles saying “Sneaker Game” and “Lace Up"
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2103326297758019608) | 2026-09-25
+
+---
+

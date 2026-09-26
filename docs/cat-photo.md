@@ -72003,3 +72003,250 @@ Heavy rain falls outside, droplets streaming down the glass panels, while dense 
 
 ---
 
+### 📷 例 8039：GPT Image 2 夜间瓶口自拍提示词
+
+![GPT Image 2 夜间瓶口自拍提示词](../images/GPT%20Image%202%20%E5%A4%9C%E9%97%B4%E7%93%B6%E5%8F%A3%E8%87%AA%E6%8B%8D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+瓶口の夜セルフィー
+
+主体：
+画面中央、木のテーブルへ身を伏せ、透明な飲料瓶の口を唇に当てる女性の近接セルフィーが主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面へ向け、視線をカメラへ強く合わせ、唇を瓶口へ添えた遊び心ある表情。濃茶の長い直毛は薄い前髪と顔脇の毛束を机へ垂らす。
+
+服装・ポーズ：
+黒い無地の半袖Tシャツ。木机へ上半身を伏せて両腕を前へ伸ばし、立てた透明瓶の口を唇で支える。
+
+背景・光：
+前景中央に白く濁った飲料入りガラス瓶、背景右に金属家電、下半分に木目の机。画面左上の硬い室内光が顔、髪、瓶、机へ明るい反射を作る。
+
+構図・カメラ：
+3:4の縦構図、机面すれすれの近接正面セルフィーカメラで頭頂から肩と瓶底までの胸上クローズアップを収めるポートレート。人物を中央へ大きく配置。両腕を左右端で裁切し、両目と瓶口にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、木色、黒、透明ガラスの自然な室内色を保つ。
+
+ネガティブ：
+瓶口に触れる唇変更；木机や黒Tシャツ省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103612761917866060) | 2026-09-25
+
+---
+
+### 📷 例 8041：东京警方巨型机器人检查站
+
+![东京警方巨型机器人检查站](../images/%E4%B8%9C%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A3%80%E6%9F%A5%E7%AB%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的广角照片，展示了一个巨大的双足警察机器人矗立在繁忙的东京高速公路检查站中央。机器人高耸于汽车之上，拥有复杂的机械设计，包括黑白装甲板、外露的液压关节以及肩部的红色警示灯。它的头部呈矩形，没有面部特征，而是配备了多个摄像头镜头。其胸部和肩部装甲板上印有白色的“警視庁 MPD”（警视厅）字样。它的一只巨大机械手举起做出“停止”手势。前景中，身穿深蓝色制服、头戴白色头盔的人类警察正在指挥交通；一名警官手持发光的红色指挥棒。他们附近竖立着一块白色垂直标牌，上面写着日文“検問実施中”（正在实施检查）。道路上排列着橙色交通锥。右侧停着一辆黑色面包车和其他等待检查的车辆。背景是晴朗的蓝天、现代城市摩天大楼、指示前往“首都高”、“银座”和“上野”方向的绿色高架路牌，以及远处清晰可见的标志性建筑东京晴空塔。
+
+[English]
+A hyper-realistic, wide-angle shot of a massive bipedal police robot standing in the middle of a busy Tokyo highway checkpoint. The robot is towering over the cars, featuring a complex mechanical design with black and white armor plating, exposed hydraulic joints, and red emergency lights on its shoulders. It has a rectangular head unit with multiple camera lenses instead of a face. The text '警視庁 MPD' (Metropolitan Police Department) is printed in white on its chest and shoulder plates. One of its large mechanical hands is raised in a 'stop' gesture. In the foreground, human police officers wearing dark blue uniforms and white helmets are directing traffic; one officer holds a glowing red baton. A white vertical sign stands near them with Japanese text reading '検問実施中' (Checkpoint in progress). Orange traffic cones line the road. To the right, a black van and other vehicles are stopped for inspection. The background features a clear blue sky, modern city skyscrapers, overhead green highway signs indicating directions to 'Shutoko Expwy', 'Ginza', and 'Ueno', and the iconic Tokyo Skytree visible in the distance.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2103466298772762785) | 2026-09-25
+
+---
+
+### 📷 例 8043：GPT Image 2 提示词：晨光中的金鱼缸
+
+![GPT Image 2 提示词：晨光中的金鱼缸](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E6%99%A8%E5%85%89%E4%B8%AD%E7%9A%84%E9%87%91%E9%B1%BC%E7%BC%B8.jpg)
+
+**Prompt:**
+
+```text
+主題：
+金魚鉢と青花の朝
+
+主体：
+画面中央、窓辺で丸いガラス金魚鉢を両手に持つ女性と二匹の橙色の金魚、青い小花柄ワンピースが主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔をわずかに右へ傾け、視線を正面カメラへ向けた静かな表情。明るいブラウンの肩下髪は薄い前髪と自然な外巻き。
+
+服装・ポーズ：
+白地に淡青の小花柄、白レース縁、細肩紐、胸中央の結びを持つキャミソールワンピース。木椅子へ座り、両腕を胸前へ曲げ、両手で丸い金魚鉢の左右と底を支える。
+
+背景・光：
+画面左に木枠窓と鉢植え、右に白レースの机、背景に緑と木椅子。画面左上の窓から柔らかな朝日が顔、ガラス、水、金魚へ差す。
+
+構図・カメラ：
+3:4の縦構図、目線と同じ高さの正面カメラで頭頂から胸下までの上半身を収めるポートレート。人物を中央へ大きく配置。腕と衣装を下端で裁切し、女性の瞳と金魚鉢にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、淡青、緑、橙、透明感ある朝光を保つ。
+
+ネガティブ：
+金魚鉢や二匹の金魚省略；両手位置変更
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103444152285376795) | 2026-09-25
+
+---
+
+### 📷 例 8045：休闲街头时尚人像
+
+![休闲街头时尚人像](../images/%E4%BC%91%E9%97%B2%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的全身街头风格人像，展示一位年轻女性随意地站在现代建筑前的户外场景中。她留着深棕色的长直发，自然地垂落在肩膀上，柔和的发丝修饰着脸型，皮肤白皙，妆容清淡自然，眼线精致，神情平静自信，直视镜头。
+
+她身穿一件宽松的黑色图案 T 恤，胸前印有色彩鲜艳的复古风格字母，搭配一条大部分被宽松上衣遮盖的黑色短裤。她戴着一顶米白色棒球帽，帽子正面有简约的小字标识，肩上斜挎着一个结构感强的白色单肩包，配有细肩带。
+
+她的姿势放松自然：一只手放在斜挎包附近，另一只手举在头侧，手掌向外，仿佛在随意调整帽子或向镜头打招呼。
+
+背景是一座简洁的现代建筑立面，带有深色框架的大窗户、有顶棚的停车场或车道区域、混凝土台阶以及图案铺装路面。强烈的午后阳光在地面上投下清晰的阴影，并突出了她的头发和衣物细节。
+
+构图：垂直 4:5 人像比例，全身取景，主体居中，平视智能手机拍摄视角，真实比例，随意的抓拍街头摄影风格。
+
+光线：明亮的自然午后阳光，强烈的方向性阴影，逼真的高光和对比度，略带暖色调的肤色。
+
+摄影风格：超写实智能手机摄影，真实的休闲时尚美学，自然的皮肤纹理，细致的发丝，逼真的棉质面料，微妙的景深效果，清晰的环境细节，自然的色彩分级，高细节，4K 分辨率。
+
+负面提示词：动漫，卡通，插画，CGI，3D 渲染，塑料质感皮肤，过度美颜滤镜，面部扭曲，畸形手部，多余手指，缺失手指，不自然的人体解剖结构，衣物变形，包包失真，人造头发，颜色过饱和，过度模糊，低分辨率，文字，水印，标志。
+
+[English]
+A photorealistic full-body street-style portrait of a young woman standing casually outdoors in front of a modern building. She has long, straight dark brown hair falling naturally over her shoulders, soft face-framing strands, fair skin, subtle natural makeup, defined eyeliner, and a calm confident expression while looking directly at the camera.
+She is wearing an oversized black graphic T-shirt with colorful retro-style lettering across the chest, paired with short black shorts mostly hidden beneath the oversized shirt. She wears a cream-white baseball cap with small minimal lettering on the front and carries a structured white crossbody shoulder bag with a thin strap.
+Her pose is relaxed and natural: one hand rests near the crossbody bag while the other is raised beside her head with the palm facing outward, as if casually adjusting her cap or greeting the camera.
+The background features a clean modern building facade with large dark-framed windows, a covered parking or driveway area, concrete steps, and patterned pavement. Strong afternoon sunlight creates crisp shadows on the ground and highlights her hair and clothing.
+Composition: vertical 4:5 portrait, full-body framing, subject centered, eye-level smartphone camera perspective, realistic proportions, casual candid street photography.
+Lighting: bright natural afternoon sunlight, strong directional shadows, realistic highlights and contrast, slightly warm skin tones.
+Photography style: ultra-realistic smartphone photography, authentic casual fashion aesthetic, natural skin texture, detailed hair strands, realistic cotton fabric, subtle depth of field, crisp environmental details, natural color grading, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted bag, artificial hair, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2103399441948631390) | 2026-09-25
+
+---
+
+### 📷 例 8046：Analog Film Portrait Style
+
+![Analog Film Portrait Style](../images/Analog%20Film%20Portrait%20Style.jpg)
+
+**Prompt:**
+
+```text
+Vertical 2:3 analog portrait—intimate and spontaneous—shot in close proximity to the model using a 35mm point-and-shoot film camera. A close-up of the face and shoulders; the camera is positioned slightly above eye level, creating a tight, natural composition.
+
+Lit by a direct, in-camera flash positioned frontally near the optical axis; the skin appears very fair and luminous, with soft highlights on the nose, cheeks, and lips. The shoulder is slightly overexposed, set against a dark indoor background with a rapid light fall-off.
+
+Aesthetic reminiscent of Japanese film photography from the late 90s and early 2000s: fine-to-medium analog grain, slightly soft definition, organic micro-blur, and an absence of excessive digital sharpness. Blacks are slightly lifted, contrast is moderate, and highlights are compressed and creamy, featuring a very subtle bloom and slight halation around the brightest areas.
+
+Analog color grading featuring cream, pale pink, and peach highlights; slightly warm porcelain skin tones; very soft yellowish midtones; and teal and muted cyan shadows. Moderately reduced saturation, a slight aged-film cast, and the look of a scanned negative.
+
+Create strong, layered depth. In the extreme foreground—partially framing the edges of the photo—include the skull shown in the reference, cropped at the margins and heavily blurred due to the shallow depth of field; some white elements catch the flash and appear partially overexposed. In the upper background, include more blurred decorative skull motifs and diffuse warm light.
+
+The face remains the primary focal point; the eyes are relatively defined yet retain a soft, analog photographic quality, set against a background of diffuse bokeh and deep shadows. The image has the look of an authentic, imperfect, and personal snapshot, evoking a nostalgic, dreamy, *kawaii*, and slightly melancholic atmosphere. Simulation of a compact 35–45mm equivalent lens, approximate f/2.8–f/4 aperture, close focusing distance, direct flash, ISO 400–800 film, slightly aged scan, authentic photographic texture; no CGI look, no plastic-looking skin, no HDR, no digital sharpening, no professional studio lighting, no perfectly clean background, no overly saturated colors.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2103388786378031390) | 2026-09-25
+
+---
+
+### 📷 例 8047：晨起床上抬腿摄影提示词
+
+![晨起床上抬腿摄影提示词](../images/%E6%99%A8%E8%B5%B7%E5%BA%8A%E4%B8%8A%E6%8A%AC%E8%85%BF%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+朝寝の白い脚上げ
+
+主体：
+画面中央、白い寝室のベッドへ仰向けに寝て両脚を高く上げ、カメラへ笑う女性の全身が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を右へ向け、視線をカメラへ合わせて歯を見せる明るい笑顔。濃茶の長い髪は薄い前髪を残して枕へ広がる。
+
+服装・ポーズ：
+生成りのゆったりした長袖ニットトップ、白地に桃色小花柄とリボンのショーツ、白い厚手リブソックス。仰向けに寝て両手を頭の後ろへ入れ、右脚を真上へ伸ばし左膝を曲げて脚を交差する。
+
+背景・光：
+前景に広い白い掛布団、背景左に窓、植物、写真、木台、右に白と桃色の枕。画面左の窓から柔らかな朝日が脚と寝具を照らす。
+
+構図・カメラ：
+3:4の縦構図、寝室入口からの水平正面カメラで頭上から上げた足先までの全身を収めるポートレート。人物を人物を中央右へ大きく配置。脚先まで画面内に収め、笑顔と上げた脚にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、生成り、淡桃の清潔な朝光を保つ。
+
+ネガティブ：
+脚上げ姿勢変更；小花ショーツや白靴下省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103382997890412838) | 2026-09-25
+
+---
+
+### 📷 例 8051：哥特式大教堂暗黑奇幻人像提示词
+
+![哥特式大教堂暗黑奇幻人像提示词](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%A4%A7%E6%95%99%E5%A0%82%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感暗黑奇幻照片，画面中是一位二十岁出头、相貌极其英俊的年轻男子，独自站在巨大的哥特式大教堂拱门之下。他拥有一头浓密自然的黑色波浪卷发，眉毛浓密，深褐色的眼睛深邃迷人，下颌线条清晰雕塑般分明，留着淡淡的自然胡茬，皮肤纹理真实可见毛孔，面部特征精致且充满男性魅力。
+他身穿一件优雅的长款黑色定制大衣，内搭深色高领衬衫，散发出神秘而强大的气场。高耸的哥特式拱门在他头顶戏剧性地升起，装饰着复杂的石雕、风化的柱子和巨大的阴暗拱顶天花板。锐利的金白色光束穿透浓厚的大气烟雾和薄雾，照亮了他脸部和肩膀的部分区域，而大教堂的其他部分则消失在深深的黑暗中。
+古老的石地板略微潮湿且具有反射效果，微弱的尘埃颗粒在光线中漂浮，远处背景中有隐约的烛光，戏剧性的体积光，深邃的阴影，强烈的明暗对比法（Chiaroscuro），哥特式建筑，神秘神圣的氛围，电影般的构图，真实的比例，自然的表情，高度详细的石材纹理，照片级逼真的皮肤，HDR，85mm 镜头，浅景深，戏剧性的透视，黑暗奢华编辑摄影风格，超详细，8K，无女性，无文字，无水印，无 AI 生成的面孔，垂直 9:16。
+
+[English]
+Ultra-realistic cinematic dark-fantasy photograph of a strikingly handsome young man in his early 20s standing alone beneath enormous Gothic cathedral arches. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.
+He wears an elegant long black tailored coat over a dark high-neck shirt, giving him a mysterious, powerful presence. Towering Gothic arches rise dramatically above him, decorated with intricate stone carvings, weathered columns, and enormous shadowy vaulted ceilings. Sharp beams of golden-white light pierce through dense atmospheric smoke and mist, illuminating parts of his face and shoulders while the rest of the cathedral disappears into deep darkness.
+Ancient stone floor slightly wet and reflective, faint dust particles floating through the light, subtle candlelight in the distant background, dramatic volumetric lighting, deep shadows, strong chiaroscuro, gothic architecture, mysterious sacred atmosphere, cinematic composition, realistic proportions, natural expression, highly detailed stone textures, photorealistic skin, HDR, 85mm lens, shallow depth of field, dramatic perspective, dark luxury editorial photography, ultra-detailed, 8K, no women, no text, no watermark, no AI-looking face, vertical 9:16.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2103327399190593748) | 2026-09-25
+
+---
+
+### 📷 例 8053：GPT Image 2 提示词：花丛中的镜面自拍
+
+![GPT Image 2 提示词：花丛中的镜面自拍](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E8%8A%B1%E4%B8%9B%E4%B8%AD%E7%9A%84%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+青花ワンピの鏡前
+
+主体：
+画面中央、花と窓の白い部屋で桃色スツールに座り、スマホを掲げる女性と青い小花柄フリルワンピースが主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を右へ向け、視線をスマホへ合わせて穏やかに微笑む表情。濃茶の長いウェーブ髪は薄い前髪と白い花飾りのハーフアップ。
+
+服装・ポーズ：
+白地に淡青の小花、白レース、胸の結びと段フリルを持つキャミソールミニワンピース。丸いスツールへ座り、右手でスマホを縦持ちし、左手を腿へ置いて両膝を揃える。
+
+背景・光：
+画面左に白い鏡台と桃色花、画面右に大窓、花瓶、本、白い椅子。画面右の窓から柔らかな朝日が顔と衣装へ差す。
+
+構図・カメラ：
+3:4の縦構図、目線と同じ高さの鏡越し正面カメラで頭頂から膝下までの三分身を収めるポートレート。人物を中央へ大きく配置。脚を下端で裁切し、顔と青花柄にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、桃色の明るい朝光を保つ。
+
+ネガティブ：
+鏡撮りと座り姿勢変更；青花ワンピ省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103322601754116298) | 2026-09-25
+
+---
+

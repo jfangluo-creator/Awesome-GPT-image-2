@@ -3545,7 +3545,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2976)
+## 📷 [Photography & Realistic](cat-photo.md) (2984)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9431,6 +9431,22 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8035: 优雅的巴基斯坦时尚人像](cat-photo.md#-例-8035优雅的巴基斯坦时尚人像)
 
 - [Case 8037: 电影感雨夜电话亭](cat-photo.md#-例-8037电影感雨夜电话亭)
+
+- [Case 8039: GPT Image 2 夜间瓶口自拍提示词](cat-photo.md#-例-8039gpt-image-2-夜间瓶口自拍提示词)
+
+- [Case 8041: 东京警方巨型机器人检查站](cat-photo.md#-例-8041东京警方巨型机器人检查站)
+
+- [Case 8043: GPT Image 2 提示词：晨光中的金鱼缸](cat-photo.md#-例-8043gpt-image-2-提示词晨光中的金鱼缸)
+
+- [Case 8045: 休闲街头时尚人像](cat-photo.md#-例-8045休闲街头时尚人像)
+
+- [Case 8046: Analog Film Portrait Style](cat-photo.md#-例-8046analog-film-portrait-style)
+
+- [Case 8047: 晨起床上抬腿摄影提示词](cat-photo.md#-例-8047晨起床上抬腿摄影提示词)
+
+- [Case 8051: 哥特式大教堂暗黑奇幻人像提示词](cat-photo.md#-例-8051哥特式大教堂暗黑奇幻人像提示词)
+
+- [Case 8053: GPT Image 2 提示词：花丛中的镜面自拍](cat-photo.md#-例-8053gpt-image-2-提示词花丛中的镜面自拍)
 ---
 
 <a id="illustration"></a>
@@ -11507,7 +11523,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (250)
+## 🧍 [Character Design](cat-character.md) (251)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -11993,6 +12009,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7884: 带有涂鸦墙绘的写实生活照](cat-character.md#-例-7884带有涂鸦墙绘的写实生活照)
 
 - [Case 7913: 双联肖像画](cat-character.md#-例-7913双联肖像画)
+
+- [Case 8052: Y2K 风格运动鞋时尚大片](cat-character.md#-例-8052y2k-风格运动鞋时尚大片)
 ---
 
 <a id="3d"></a>
@@ -12735,7 +12753,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (245)
+## 🏛️ [Architecture & Space](cat-architecture.md) (247)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13217,6 +13235,10 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8014: 身穿蓝色刺绣吊带睡衣在床上阅读的女性](cat-architecture.md#️-例-8014身穿蓝色刺绣吊带睡衣在床上阅读的女性)
 
 - [Case 8036: GPT Image 2 中秋节线性结构海报提示词](cat-architecture.md#️-例-8036gpt-image-2-中秋节线性结构海报提示词)
+
+- [Case 8042: GPT Image 2 灰色牛仔系带上衣提示词](cat-architecture.md#️-例-8042gpt-image-2-灰色牛仔系带上衣提示词)
+
+- [Case 8049: 写实风格巴基斯坦 Shalwar Kameez 花园人像](cat-architecture.md#️-例-8049写实风格巴基斯坦-shalwar-kameez-花园人像)
 ---
 
 <a id="comic"></a>
@@ -13775,7 +13797,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (880)
+## 🏷️ [Brand & Packaging](cat-brand.md) (883)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15530,11 +15552,17 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8034: 战斗机座舱视角急转弯](cat-brand.md#️-例-8034战斗机座舱视角急转弯)
 
 - [Case 8038: 紫发奢华时尚人像](cat-brand.md#️-例-8038紫发奢华时尚人像)
+
+- [Case 8044: 复古温馨客厅插画](cat-brand.md#️-例-8044复古温馨客厅插画)
+
+- [Case 8048: Golden Clown Busts Meme](cat-brand.md#️-例-8048golden-clown-busts-meme)
+
+- [Case 8050: 纸船风筝奇幻提示词](cat-brand.md#️-例-8050纸船风筝奇幻提示词)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (178)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (179)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15889,6 +15917,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7998: 多洛米蒂湖泊照片转极简艺术](cat-edit.md#-例-7998多洛米蒂湖泊照片转极简艺术)
 
 - [Case 7999: GPT Image 2 怀旧编辑风剪贴簿转换](cat-edit.md#-例-7999gpt-image-2-怀旧编辑风剪贴簿转换)
+
+- [Case 8040: GPT Image 2 涂鸦贴纸转换提示词](cat-edit.md#-例-8040gpt-image-2-涂鸦贴纸转换提示词)
 ---
 
 <a id="fun"></a>

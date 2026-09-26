@@ -5755,3 +5755,57 @@ A photorealistic medium shot of a young Asian woman standing in a bright, cozy k
 
 ---
 
+### 🏛️ 例 8042：GPT Image 2 灰色牛仔系带上衣提示词
+
+![GPT Image 2 灰色牛仔系带上衣提示词](../images/GPT%20Image%202%20%E7%81%B0%E8%89%B2%E7%89%9B%E4%BB%94%E7%B3%BB%E5%B8%A6%E4%B8%8A%E8%A1%A3%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+灰デニムの編み上げ
+
+主体：
+画面中央、コンクリートの建物前に座る女性と灰色のダメージデニム編み上げトップ、ショートパンツが主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を少し左へ傾け、視線を正面カメラへ向けた明るい微笑み。明るいブラウンの長い髪は薄い前髪と顔脇の毛束を残して背中へ流れる。
+
+服装・ポーズ：
+灰色のダメージデニムとレースの細肩紐トップは胸前を金属ハトメと紐で交差、同素材の裂けたハイウエストショートパンツ。床へ横座りし、左手を床について支え、右腕を頭へ曲げて右手を髪に添え、腰を右へ傾ける。
+
+背景・光：
+背景に灰色コンクリート壁と黒い入口、画面右に白大理石板、前景に淡灰の床。画面左上の硬い直射日光が髪、顔、胸、床へ明瞭な影を作る。
+
+構図・カメラ：
+10:13の縦構図、床より少し高い正面カメラで頭頂から腿中央までの三分身を収めるポートレート。人物を中央へ大きく配置。右腿を下端で裁切し、顔と編み上げデニムにピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、灰、肌色、黒を硬い昼光でまとめるを保つ。
+
+ネガティブ：
+灰デニム編み上げ省略；横座りと手位置変更
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103460762207289842) | 2026-09-25
+
+---
+
+### 🏛️ 例 8049：写实风格巴基斯坦 Shalwar Kameez 花园人像
+
+![写实风格巴基斯坦 Shalwar Kameez 花园人像](../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%20Shalwar%20Kameez%20%E8%8A%B1%E5%9B%AD%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的全身人像，画面中一位年轻的南亚女性优雅地站在郁郁葱葱的美丽花园中。她身穿一套精致的象牙白色传统巴基斯坦三件套 Shalwar Kameez（旁遮普长衫与长裤），上面印有细腻的芥末黄花卉块状印花和淡淡的绿叶图案。长款直筒剪裁的 Kameez 饰有详细的花卉纹样和刺绣边缘，搭配同色系长裤。一条轻盈透薄的白色 Dupatta（披肩）自然垂搭在双肩，被她优雅地握在手中，披肩上印有美丽的芥末黄花饰和复杂的装饰边框。她留着深棕色的长发，发丝柔软微卷，中分发型，妆容自然，眉形清晰，嘴唇呈柔和的粉色，佩戴着小巧的传统 Jhumka（钟形耳环）和一条精致的项链。表情自然放松，站姿优雅，双手轻轻交叠于身前。脚穿米色露趾高跟鞋。背景是环绕着五彩花朵、绿色灌木和高大树木的美丽花园小径。采用柔和的自然日光，暖色调，真实的皮肤质感，浅景深，奶油般的背景虚化效果，专业时尚摄影风格，85mm 镜头，高细节，写实主义，优雅的巴基斯坦时尚大片，垂直 4:5 构图。保持自然的面部比例和真实的面料纹理，无人工或塑料感的皮肤，无文字，无水印。
+
+[English]
+Create a photorealistic full-body portrait of a young South Asian woman standing gracefully in a beautiful lush green garden. She is wearing an elegant ivory-white traditional Pakistani 3-piece shalwar kameez with delicate mustard-yellow floral block prints and subtle green leaf patterns. The long straight-cut kameez has detailed floral motifs and embroidered borders, paired with matching trousers. A lightweight sheer white dupatta with beautiful mustard floral prints and an intricate decorative border is draped naturally over both shoulders and held gracefully in her hands. She has long, soft wavy dark-brown hair, center-parted, natural makeup, defined eyebrows, soft pink lips, small traditional jhumka earrings, and a delicate necklace. Natural relaxed expression, graceful standing pose, hands gently clasped in front. Beige open-toe heels. Beautiful garden pathway surrounded by colorful flowers, green bushes and large trees in the background. Soft natural daylight, warm tones, realistic skin texture, shallow depth of field, creamy background bokeh, professional fashion photography, 85mm lens, high detail, photorealistic, elegant Pakistani fashion editorial, vertical 4:5 composition. Preserve natural facial proportions and realistic fabric texture, no artificial or plastic skin, no text, no watermark.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2103379176573300959) | 2026-09-25
+
+---
+

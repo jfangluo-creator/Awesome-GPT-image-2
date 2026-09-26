@@ -5035,3 +5035,71 @@ IMPORTANT
 
 ---
 
+### 🔧 例 8040：GPT Image 2 涂鸦贴纸转换提示词
+
+![GPT Image 2 涂鸦贴纸转换提示词](../images/GPT%20Image%202%20%E6%B6%82%E9%B8%A6%E8%B4%B4%E7%BA%B8%E8%BD%AC%E6%8D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅将上传照片中的主要主体转换为手绘单色涂鸦贴纸插图，同时保持整个真实环境完全不变且具备照片级真实感。
+
+主体保留
+精确保留主体的姿势、身体比例、面部表情、发型、服装、配饰、手势、位置、缩放比例以及与场景的互动关系。准确重现现有外观和着装，不得重新设计或简化重要细节。
+
+涂鸦插图风格
+使用粗黑墨线轮廓、简单的米白色填充、极少的交叉排线、细微的线条变化以及略带不完美的手工笔触。保持插图干净、具有编辑风格、俏皮且真正的手绘质感，而非经过数字打磨的效果。
+
+贴纸边框
+添加厚实、不规则的奶油白贴纸边框，紧密贴合插图主体的轮廓。边框应感觉自然地环绕在角色周围，同时与未修改的照片环境清晰分离。
+
+环境锁定
+保持所有家具、建筑、物体、背景细节、光照、阴影、反射、纹理、相机角度、构图、深度、透视和空间关系与原照片完全一致。不要对真实环境进行风格化、重绘、模糊、替换或修改。
+
+构图锁定
+保持主体在原照片中的确切位置、缩放比例、方向、构图框架以及与周围物体的关系。只有主体及其紧邻的贴纸轮廓可以变为插图形式。
+
+最终效果
+最终图像必须看起来像一个干净的单色编辑风格涂鸦贴纸角色，无缝集成到一张其他部分完全未改动、逼真的照片中。
+
+负面提示词
+无姿势改变、无身体重塑、无服装重新设计、无发型改变、无表情改变、无环境修改、无背景替换、无新物体、无装饰性涂鸦、无对话气泡、无文字、无字幕、无标志、无额外角色、无卡通化背景、无绘画风格环境、无色彩化、无过度阴影、无密集交叉排线、无光泽数字轮廓、无解剖结构扭曲、无透视变化、无模糊、无照片真实感丢失。
+
+格式锁定
+宽高比：3:4。
+保留原始摄影构图和取景。
+
+[English]
+Transform only the main subject in the uploaded photograph into a hand-drawn monochrome doodle sticker illustration, while keeping the entire real environment completely unchanged and photorealistic.
+
+SUBJECT PRESERVATION
+Preserve the subject’s exact pose, body proportions, facial expression, hairstyle, clothing, accessories, gesture, position, scale, and interaction with the scene. Recreate the existing appearance and outfit accurately without redesigning or simplifying important details.
+
+DOODLE ILLUSTRATION STYLE
+Use bold black ink outlines, simple off-white fills, minimal cross-hatching, subtle line variation, and slightly imperfect handmade strokes. Keep the illustration clean, editorial, playful, and authentically hand-drawn rather than digitally polished.
+
+STICKER BORDER
+Add a thick, irregular cream-white sticker border tightly following the illustrated subject’s silhouette. The border should feel naturally applied around the character while remaining clearly separated from the untouched photographic environment.
+
+ENVIRONMENT LOCK
+Keep all furniture, architecture, objects, background details, lighting, shadows, reflections, textures, camera angle, framing, depth, perspective, and spatial relationships exactly as in the original photograph. Do not stylize, redraw, blur, replace, or alter the real environment.
+
+COMPOSITION LOCK
+Keep the subject in the exact original position, scale, orientation, framing, and relationship to surrounding objects. Only the subject and its immediate sticker outline may become illustrated.
+
+FINAL RESULT
+The final image must look like a clean monochrome editorial doodle-sticker character seamlessly integrated into an otherwise completely untouched, realistic photograph.
+
+NEGATIVE PROMPT
+No pose change, no body reshaping, no clothing redesign, no hairstyle change, no expression change, no environment alteration, no background replacement, no new objects, no decorative doodles, no speech bubbles, no text, no captions, no logos, no extra characters, no cartoonized background, no painterly environment, no colorization, no excessive shading, no heavy cross-hatching, no glossy digital outlines, no distorted anatomy, no perspective changes, no blur, no loss of photographic realism.
+
+FORMAT LOCK
+Aspect ratio: 3:4.
+Preserve the original photographic framing and composition.
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2103594470209905047) | 2026-09-25
+
+---
+

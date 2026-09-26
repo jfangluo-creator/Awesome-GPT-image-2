@@ -21600,3 +21600,105 @@ Include a large full-length mirror beside her clearly reflecting the back of her
 
 ---
 
+### 🏷️ 例 8044：复古温馨客厅插画
+
+![复古温馨客厅插画](../images/%E5%A4%8D%E5%8F%A4%E6%B8%A9%E9%A6%A8%E5%AE%A2%E5%8E%85%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅迷人的手绘复古室内插画，采用温暖、舒适的编辑海报风格。展示一个精心布置、充满个性与绿植的客厅，融合中世纪现代、斯堪的纳维亚以及 1970 年代复古元素。
+
+使用温暖的陈旧纸张背景，带有微妙的奶油色/米色纹理、轻微的做旧颗粒感以及不完美的印刷纸质感。插画应呈现出传统丝网印刷或孔版印刷（Risograph）的效果，可见墨水纹理、微小瑕疵、点画技法、粗糙边缘以及有限的色彩分离。
+
+场景：一个温馨的客厅，配有舒适的软垫扶手椅或沙发、柔软的靠垫、随意搭着的针织毯、摆满书籍和小装饰品的木质书架、复古木质餐边柜/橱柜、一个小巧的雕塑感咖啡桌、复古落地灯和台灯、作为画廊墙排列的抽象植物艺术画作、几株茂盛的室内植物、一个陶瓷花瓶、书籍、一杯茶/咖啡，以及一个小巧迷人的装饰物，如泰迪熊。
+
+配色方案：暖奶油色、羊皮纸米色、芥末黄、焦橙色、赤陶色、橄榄绿、柔和的森林绿、暖棕色，并点缀少量褪色的蓝色。保持色彩略微褪色和复古，而非明亮或光泽。
+
+构图应感觉经过精心安排但又轻松且富有生活气息，家具周围留有大量负空间。使用富有表现力的黑色/深棕色手绘轮廓线、简化的有机形状、平涂色块、交叉排线、点画以及粗糙的复古印刷纹理。
+
+光线应感觉柔和、温暖、怀旧且诱人。无照片级真实感，无 3D 渲染，无光泽表面。所有元素都应看起来是手绘完成的。
+
+整体美学：温馨复古家居装饰杂志插画、怀旧的欧洲/日本生活方式海报、中世纪编辑艺术作品、模拟版画制作、手工儿童书插画，精致而富有奇趣。
+
+垂直肖像构图，高细节，平衡的视觉层次，优雅的负空间，触觉般的纸张纹理，真实的复古印刷瑕疵。
+
+[English]
+Create a charming hand-drawn vintage interior illustration in a warm, cozy editorial poster style. Show a beautifully styled living room filled with character and plants, combining mid-century modern, Scandinavian, and retro 1970s influences.
+
+Use a warm aged-paper background with subtle cream/beige texture, slightly distressed grain, and an imperfect printed-paper feel. The illustration should look traditionally screen-printed or risograph-printed, with visible ink texture, tiny imperfections, stippling, rough edges, and limited color separation.
+
+Scene: a cozy living room with a comfortable upholstered armchair or sofa, soft cushions, a casually draped knitted blanket, a wooden bookshelf filled with books and small decorative objects, a vintage wooden sideboard/cabinet, a small sculptural coffee table, retro floor and table lamps, framed abstract botanical artwork arranged as a gallery wall, several lush indoor plants, a ceramic vase, books, a cup of tea/coffee, and a small charming decorative object such as a teddy bear.
+
+Color palette: warm cream, parchment beige, mustard yellow, burnt orange, terracotta, olive green, muted forest green, warm brown, and small accents of faded blue. Keep the colors slightly faded and vintage rather than bright or glossy.
+
+Composition should feel carefully arranged but relaxed and lived-in, with lots of negative space around the furniture. Use expressive black/dark brown hand-inked outlines, simplified organic shapes, flat blocks of color, cross-hatching, stippling, and rough vintage print textures.
+
+Lighting should feel soft, warm, nostalgic, and inviting. No photorealism, no 3D rendering, no glossy surfaces. Everything should look illustrated by hand.
+
+Overall aesthetic: cozy vintage home decor magazine illustration, nostalgic European/Japanese lifestyle poster, mid-century editorial artwork, analog printmaking, handmade children's-book illustration, sophisticated but whimsical.
+
+Portrait vertical composition, high detail, balanced visual hierarchy, elegant negative space, tactile paper texture, authentic vintage print imperfections.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2103403003793277098) | 2026-09-25
+
+---
+
+### 🏷️ 例 8048：Golden Clown Busts Meme
+
+![Golden Clown Busts Meme](../images/Golden%20Clown%20Busts%20Meme.jpg)
+
+**Prompt:**
+
+```text
+A surreal, high-resolution digital illustration of two golden-skinned humanoid figures facing each other in profile against a plain white background. Both figures wear large, fluffy rainbow-colored clown wigs and have round red clown noses. The figure on the left has green, vine-like tendrils or wires emerging from its eye socket and temple area, extending horizontally across the space to connect with the corresponding eye area of the figure on the right. This connection resembles a physical data cable or organic link between their minds. Below the figures, centered black sans-serif text reads: "Meat Proxy To Meat Proxy Conversation." The style is clean, slightly glossy, and reminiscent of AI-generated art.
+```
+
+**来源：** [@Caspian](https://x.com/foxmane_/status/2103381834289811659) | 2026-09-25
+
+---
+
+### 🏷️ 例 8050：纸船风筝奇幻提示词
+
+![纸船风筝奇幻提示词](../images/%E7%BA%B8%E8%88%B9%E9%A3%8E%E7%AD%9D%E5%A5%87%E5%B9%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "aspect_ratio": "9:16",
+  "subject": "年轻女子，留着长长的棕色波浪卷发",
+  "outfit": "鼠尾草绿复古泡泡袖连衣裙，饰有绿色丝带的草帽，奶油色运动鞋",
+  "pose": "侧坐在巨大的折纸船上，一手握着风筝线，抬头仰望",
+  "concept": "梦幻奇趣的女子在纸船上放风筝",
+  "setting": "日落时分的平静海面",
+  "kite": "大型柔和绿色菱形风筝，带有飘逸的长丝带",
+  "lighting": "温暖的黄金时刻阳光",
+  "composition": "全身镜头，低水位视角，广阔天空，电影感构图",
+  "style": "超写实，梦幻电影奇幻风格，细节纹理丰富，自然水面反射",
+  "colors": "鼠尾草绿，青色，暖金色，柔和蓝"
+}
+
+[English]
+{
+  "aspect_ratio": "9:16",
+  "subject": "young woman with long wavy brown hair",
+  "outfit": "sage green vintage puff-sleeve dress, straw hat with green ribbons, cream sneakers",
+  "pose": "seated sideways in a large origami paper boat, one hand holding the kite string, looking upward",
+  "concept": "dreamy whimsical woman flying a kite from a paper boat",
+  "setting": "calm ocean at sunset",
+  "kite": "large muted green diamond kite with long flowing ribbons",
+  "lighting": "warm golden-hour sunlight",
+  "composition": "full-body, low water-level perspective, spacious sky, cinematic framing",
+  "style": "ultra-photorealistic, dreamy cinematic fantasy, detailed textures, natural water reflections",
+  "colors": "sage green, teal, warm gold, soft blue"
+}
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2103336650290176205) | 2026-09-25
+
+---
+
