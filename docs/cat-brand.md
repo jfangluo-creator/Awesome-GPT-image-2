@@ -21702,3 +21702,39 @@ A surreal, high-resolution digital illustration of two golden-skinned humanoid f
 
 ---
 
+### 🏷️ 例 8057：交叉腿时尚姿势的动漫女孩
+
+![交叉腿时尚姿势的动漫女孩](../images/%E4%BA%A4%E5%8F%89%E8%85%BF%E6%97%B6%E5%B0%9A%E5%A7%BF%E5%8A%BF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅全身动漫风格插画，描绘了一位年轻女性站在极简明亮的室内空间中，大窗户在地板上投下柔和阴影。她留着齐肩粉色头发，发梢呈青蓝色，拥有蓝色眼睛，正回头以平静的表情看向观众。她身穿挺括的白色纽扣衬衫，塞进高腰黑色阔腿裤中，裤子侧面有开叉设计，搭配厚底黑色高跟短靴。一只手随意插在口袋里，另一只手自然垂在身侧。光线自然且漫射，营造出干净、现代的时尚美感。
+
+[English]
+A full-body anime-style illustration of a young woman standing in a minimalist, bright indoor space with large windows casting soft shadows on the floor. She has shoulder-length pink hair with teal-blue tips and blue eyes, looking back over her shoulder toward the viewer with a calm expression. She wears a crisp white button-up shirt tucked into high-waisted black wide-leg trousers with a side slit, paired with chunky black heeled ankle boots. One hand rests casually in her pocket while the other hangs relaxed at her side. The lighting is natural and diffused, creating a clean, modern fashion aesthetic.
+```
+
+**来源：** [@あいぼりー](https://x.com/HetareIvory/status/2103821363500957863) | 2026-09-26
+
+---
+
+### 🏷️ 例 8064：雾山经典车上的韩国女孩
+
+![雾山经典车上的韩国女孩](../images/%E9%9B%BE%E5%B1%B1%E7%BB%8F%E5%85%B8%E8%BD%A6%E4%B8%8A%E7%9A%84%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建了一位拥有长直乌黑头发的韩国女孩，优雅地坐在一辆停在多雾山路上的经典黑色复古汽车的引擎盖上。她有着精致自然的五官、白皙的皮肤、柔和富有表现力的眼睛以及平静温柔的表情，直视镜头。她身穿一件优雅的宝蓝色花卉长裙，长袖设计，修身剪裁，带有细腻的花卉图案，飘逸的裙摆自然地垂落在汽车和湿滑的路面上。她的姿势放松而优雅，一只手轻轻放在汽车引擎盖上，另一只手靠近大腿。这辆经典黑色汽车具有美丽的圆润复古造型、镀铬细节，以及透过雾气发出的温暖发光的前大灯。路面因雨水而湿润，有逼真的水滴和反射效果。高大茂密的常绿树木环绕着蜿蜒的山路，被浓厚的氛围雾所覆盖。柔和的阴天光线，电影般的氛围，逼真的皮肤纹理，详细的织物，自然的比例，真实的阴影和反射，浅景深，大气透视，电影级色彩分级，超写实摄影，85mm 镜头，垂直构图，高度详细的 8K 质量。
+
+[English]
+Created a Korean girl with long, straight, jet-black hair sitting gracefully on the hood of a classic vintage black car on a misty mountain road. She has delicate natural features, fair skin, soft expressive eyes, and a calm gentle expression, looking directly at the camera. She is wearing an elegant full-length royal-blue floral dress with long sleeves, a fitted bodice, subtle floral patterns, and a flowing skirt draping naturally over the car and wet road. Her pose is relaxed and graceful, with one hand resting gently on the car hood and the other near her lap. The classic black car has beautiful rounded vintage styling, chrome details, and a warm glowing headlight shining through the fog. The road is wet from rain with realistic water droplets and reflections. Tall dense evergreen trees surround the winding mountain road, covered in thick atmospheric mist. Soft overcast lighting, cinematic mood, realistic skin texture, detailed fabric, natural proportions, realistic shadows and reflections, shallow depth of field, atmospheric perspective, cinematic color grading, ultra-photorealistic photography, 85mm lens, vertical composition, highly detailed 8K quality.
+```
+
+**来源：** [@Maha](https://x.com/Aiwithmaha/status/2103679127207432679) | 2026-09-26
+
+---
+

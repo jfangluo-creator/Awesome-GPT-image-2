@@ -1209,7 +1209,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (122)
+## 📊 [Charts & Infographics](cat-chart.md) (123)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -1441,6 +1441,8 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 7910: 奇幻制图师与爱犬](cat-chart.md#-例-7910奇幻制图师与爱犬)
 
 - [Case 8004: 地狱犬角色设定信息图](cat-chart.md#-例-8004地狱犬角色设定信息图)
+
+- [Case 8055: 漫画信息图：AI 提示词工程](cat-chart.md#-例-8055漫画信息图ai-提示词工程)
 ---
 
 <a id="poster"></a>
@@ -3545,7 +3547,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2984)
+## 📷 [Photography & Realistic](cat-photo.md) (2992)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9447,11 +9449,27 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8051: 哥特式大教堂暗黑奇幻人像提示词](cat-photo.md#-例-8051哥特式大教堂暗黑奇幻人像提示词)
 
 - [Case 8053: GPT Image 2 提示词：花丛中的镜面自拍](cat-photo.md#-例-8053gpt-image-2-提示词花丛中的镜面自拍)
+
+- [Case 8054: GPT Image 2 提示词：咖啡馆编发人像](cat-photo.md#-例-8054gpt-image-2-提示词咖啡馆编发人像)
+
+- [Case 8056: 写实旅行摄影提示词](cat-photo.md#-例-8056写实旅行摄影提示词)
+
+- [Case 8058: 超现实食物故事书插画](cat-photo.md#-例-8058超现实食物故事书插画)
+
+- [Case 8059: GPT Image 2 日落沙发人像提示词](cat-photo.md#-例-8059gpt-image-2-日落沙发人像提示词)
+
+- [Case 8061: 带素描的电影感记忆肖像](cat-photo.md#-例-8061带素描的电影感记忆肖像)
+
+- [Case 8062: 电影感冬季男性肖像](cat-photo.md#-例-8062电影感冬季男性肖像)
+
+- [Case 8063: 戴耳机的街头风格肖像](cat-photo.md#-例-8063戴耳机的街头风格肖像)
+
+- [Case 8065: 身着粉色纱丽与银饰的女性](cat-photo.md#-例-8065身着粉色纱丽与银饰的女性)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1041)
+## 🎨 [Illustration & Art](cat-illustration.md) (1042)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11519,6 +11537,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8005: 粉发女孩在复杂故障艺术旁耸肩](cat-illustration.md#-例-8005粉发女孩在复杂故障艺术旁耸肩)
 
 - [Case 8009: 高级时尚色块大片 GPT Image 2](cat-illustration.md#-例-8009高级时尚色块大片-gpt-image-2)
+
+- [Case 8060: 洗衣店等待场景提示词](cat-illustration.md#-例-8060洗衣店等待场景提示词)
 ---
 
 <a id="character"></a>
@@ -13797,7 +13817,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (883)
+## 🏷️ [Brand & Packaging](cat-brand.md) (885)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15558,6 +15578,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8048: Golden Clown Busts Meme](cat-brand.md#️-例-8048golden-clown-busts-meme)
 
 - [Case 8050: 纸船风筝奇幻提示词](cat-brand.md#️-例-8050纸船风筝奇幻提示词)
+
+- [Case 8057: 交叉腿时尚姿势的动漫女孩](cat-brand.md#️-例-8057交叉腿时尚姿势的动漫女孩)
+
+- [Case 8064: 雾山经典车上的韩国女孩](cat-brand.md#️-例-8064雾山经典车上的韩国女孩)
 ---
 
 <a id="edit"></a>

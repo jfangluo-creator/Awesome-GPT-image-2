@@ -72250,3 +72250,289 @@ Ancient stone floor slightly wet and reflective, faint dust particles floating t
 
 ---
 
+### 📷 例 8054：GPT Image 2 提示词：咖啡馆编发人像
+
+![GPT Image 2 提示词：咖啡馆编发人像](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E5%92%96%E5%95%A1%E9%A6%86%E7%BC%96%E5%8F%91%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+珈琲店の編み髪
+
+主体：
+画面中央、木のカフェ席でケーキとコーヒーの前に座る女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を左へ少し向け、視線をカメラへ合わせた控えめな微笑み。濃茶の髪を高めにまとめ、大きなクリップと後れ毛を残す。
+
+服装・ポーズ：
+ベージュのギャザー入りホルターネックトップと濃灰のワイドカーゴパンツ。椅子へ座って脚を斜めに流し、両手を腿付近で軽く重ねる。
+
+背景・光：
+木壁と棚の小さなカフェ、手前の丸机に白い皿のケーキと濃色のコーヒー。画面左前から温かな自然光が頬とトップスを柔らかく照らす。
+
+構図・カメラ：
+3:4の縦構図、座面より少し低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。椅子と机を画面端で自然に裁切し、顔とギャザートップにピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、木色、ベージュ、濃灰の落ち着いた色を保つ。
+
+ネガティブ：
+ホルタートップ変更；ケーキと珈琲省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103972884846919802) | 2026-09-26
+
+---
+
+### 📷 例 8056：写实旅行摄影提示词
+
+![写实旅行摄影提示词](../images/%E5%86%99%E5%AE%9E%E6%97%85%E8%A1%8C%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的参考图像，创建一张超写实的智能手机抓拍旅行照片。
+
+一位年轻女性自然地坐在一座古老风化石砌堡垒墙的边缘，旁边是一条狭窄的历史鹅卵石街道。她位于画面的右侧，侧身坐在石阶上，面带温暖自然的微笑看向镜头。
+
+她留着深棕黑色的长发，发型柔和自然，几缕发丝随意地垂在脸庞和肩膀周围，头上戴着一条宽大的豹纹发带。她的面部具有真实自然的皮肤纹理、细微的毛孔、微小的瑕疵、极淡的妆容、自然的眉毛以及逼真的眼睛和嘴唇。请保留可信的真实人物外观，而非经过精修的 AI 模特形象。
+
+她身穿一件优雅的奶油白色长袖修身上衣，带有细微的垂直罗纹纹理，下身搭配一条飘逸的奶油白色长裙。衣物应具有真实的织物纤维感、自然的褶皱、皱纹和垂坠感。她脚穿休闲的黑白运动鞋，鞋子和双脚自然地踩在下方的石墙上。
+
+她的双手自然地交叠放在腿上。姿态放松，身体略微向石墙倾斜，具有真实的人体比例和解剖结构。
+
+环境是一个正宗的欧洲/地中海历史街区。她身后是一堵巨大的古代石砌堡垒墙，由不规则的风化米色和灰色石块建成，表面可见粗糙的纹理、裂缝、岁月痕迹和不均匀的灰浆。墙体向背景深处延伸，形成强烈的自然透视感。
+
+左侧，一条狭窄陡峭的鹅卵石街道向远处延伸。街道上有远处的行人和一辆深色车辆，山坡下方隐约可见历史建筑。一棵枝叶繁茂的绿树矗立在旧墙旁。远处的建筑应保持自然的细节，但由于景深关系略显柔和。
+
+光线：温暖的午后金色阳光从左侧射入，柔和地照亮女性的脸庞、奶油色衣物和古老的石墙。呈现逼真的暖色高光和自然的冷色调阴影。氛围应感觉像是在黄金时刻拍摄的一张真实旅行照片。
+
+相机参数：现代智能手机相机，垂直 4:3 构图，约 26mm 等效焦距镜头，相机位置略高于站立视平线，正对女性前方，具有自然的广角透视、逼真的智能手机 HDR 效果、微妙的曝光变化、真实的手持取景感和自然的景深。
+
+图像应保留真实手机摄影的随意不完美之处：微小的曝光不一致、真实的数字细节、轻微的镜头柔焦、自然的阴影、不完美的构图和可信的透视感。
+
+极度逼真的皮肤、根根分明的发丝、真实的石头纹理、正宗的织物纤维、物理准确的阴影、自然的鞋子质感、逼真的手部和手指、可信的建筑结构以及
+
+[English]
+Create an ultra-photorealistic candid smartphone travel photograph based closely on the uploaded reference image.
+A young woman is sitting naturally on the edge of an ancient weathered stone fortress wall beside a narrow historic cobblestone street. She is positioned on the right side of the frame, sitting sideways on the stone ledge while looking toward the camera with a warm, natural smile.
+She has long dark brown-black hair, softly styled with loose natural strands around her face and shoulders, and is wearing a wide leopard-print headband. Her face has natural realistic skin texture, subtle pores, tiny imperfections, minimal makeup, natural eyebrows, realistic eyes and lips. Preserve a believable real-person appearance rather than a polished AI-model look.
+She is wearing an elegant cream-white long-sleeve fitted top with subtle vertical ribbed texture and a long flowing cream-white skirt. The clothing should have realistic fabric fibers, natural folds, wrinkles and weight. She is wearing casual black-and-white sneakers, with the shoes and feet positioned naturally on the lower stone wall.
+Her hands are resting naturally together in her lap. Her posture is relaxed and slightly leaning toward the stone wall, with realistic body proportions and anatomy.
+The environment is an authentic old European/Mediterranean historic district. Behind her is a massive ancient stone fortress wall made from irregular weathered beige and gray stone blocks, with visible rough texture, cracks, age marks and uneven mortar. The wall extends deep into the background and creates strong natural perspective.
+On the left side, a narrow steep cobblestone street descends into the distance. The street contains small distant pedestrians and a dark vehicle, with historic buildings partially visible farther down the hill. A leafy green tree rises beside the old wall. The distant buildings should remain naturally detailed but slightly softer due to depth.
+Lighting: warm late-afternoon golden sunlight coming from the left, softly illuminating the woman's face, cream clothing and ancient stone wall. Realistic warm highlights and natural cool shadows. The atmosphere should feel like a genuine travel photograph taken during golden hour.
+Camera: modern smartphone camera, vertical 4:3 composition, approximately 26mm equivalent lens, camera positioned at standing eye level slightly across from the woman, natural wide-angle perspective, realistic smartphone HDR, subtle exposure variation, authentic handheld framing, natural depth of field.
+The image should retain the casual imperfections of real smartphone photography: tiny exposure inconsistencies, realistic digital detail, subtle lens softness, natural shadows, imperfect framing and believable perspective.
+Extremely realistic skin, individual hair strands, realistic stone texture, authentic fabric fibers, physically accurate shadows, natural shoe texture, realistic hands and fingers, believable architecture and a
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2103825083110465588) | 2026-09-26
+
+---
+
+### 📷 例 8058：超现实食物故事书插画
+
+![超现实食物故事书插画](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%A3%9F%E7%89%A9%E6%95%85%E4%BA%8B%E4%B9%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为主要参考，将其转化为一幅垂直 3:4 比例的超现实编辑风格艺术作品，无缝融合逼真的食物/物体摄影与充满奇思妙想的手绘故事书插画。
+
+保留原始照片中的主体、构图、色彩、纹理及可识别的细节。保持上半部分高度写实且光线自然，呈现真实的材质、阴影、反射、景深以及地道的摄影细节。
+
+创造从拍摄主体到下方想象插画世界的无缝视觉过渡。识别照片中视觉上最具意义的元素——如液体、食材、物体、图案、轨迹、阴影或纹理——并将其有机地向下延伸至插画中，转化为河流、小径、景观、足迹或其他创意场景。
+
+插画部分应呈现在温暖的米白色纹理纸张背景上，采用精致的黑色墨水/铅笔线条、微妙的水彩和水粉质感、不完美的手工细节、柔和的低饱和度色彩，以及迷人的复古故事书美学。添加适合主题的小型环境细节，如微小的人物、植物、岩石、物体或景观元素。
+
+包含一句简短的手写短语，自然地关联概念与转变过程，并巧妙地置于插画区域内。字体应看起来真正是手写的，带有不完美感、极简主义和艺术气息。
+
+照片与插画必须感觉像是一个连续的视觉故事，而非两张分开的图片。避免生硬的水平分割线、边框、框架、箭头、标签或明显的数字合成痕迹。拍摄的主体应在物理上呈现出流动、坠落、延伸或转变为插画世界的效果。
+
+美学风格：诗意、奇幻、巧妙、极简、高端杂志编辑艺术、超现实但可信、纸质触感、自然的不完美、精致的视觉叙事。
+
+构图：垂直 3:4 比例，平衡的留白，强烈的焦点，无缝过渡，高细节，写实摄影 + 精致手绘插画，无多余元素。
+
+[English]
+Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.
+
+Preserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.
+
+Create a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.
+
+The illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.
+
+Include a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.
+
+The photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.
+
+Aesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.
+
+Composition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2103754244843024629) | 2026-09-26
+
+---
+
+### 📷 例 8059：GPT Image 2 日落沙发人像提示词
+
+![GPT Image 2 日落沙发人像提示词](../images/GPT%20Image%202%20%E6%97%A5%E8%90%BD%E6%B2%99%E5%8F%91%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：
+夕光のソファ背もたれ
+
+主体：
+画面中央、生成りのソファ背もたれへ横向きに腰掛ける女性の全身と白い短丈トップ、花柄フリルショーツが主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。横顔を画面右へ向け、視線を遠くへ流した落ち着いた表情。濃茶の非常に長い髪は小さなハーフお団子、薄い前髪と後れ毛。
+
+服装・ポーズ：
+白い細リブの短い半袖トップは前結びとフリル裾、白地に小花柄の段フリルショーツ、白いルーズレッグウォーマー、透明ストラップのヒール。ソファ背へ横向きに座って両手を後ろにつき、背中を反らし、両膝を右へ曲げて片足を座面へ置く。
+
+背景・光：
+画面下に生成りソファと編みブランケット、背景左に木棚、額、植物、右に白壁と鉢植え。画面右の窓から硬い夕日が顔、胴、脚へ差し、壁に長い植物影を作る。
+
+構図・カメラ：
+3:4の縦構図、座面より少し低い左側方カメラで頭頂から靴先までの全身を収めるポートレート。人物を中央へ大きく配置。足先を画面内に収め、横顔と白い衣装にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、生成り、白、木色の暖かな西日を保つ。
+
+ネガティブ：
+背もたれ座り変更；白衣装と透明ヒール省略
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2103748910481305955) | 2026-09-26
+
+---
+
+### 📷 例 8061：带素描的电影感记忆肖像
+
+![带素描的电影感记忆肖像](../images/%E5%B8%A6%E7%B4%A0%E6%8F%8F%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E8%AE%B0%E5%BF%86%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为主要视觉参考。重现相同的构图和电影叙事风格：一位留着卷发的年轻男子戴着长方形眼镜，身穿深色夹克内搭浅色衬衫，坐在右下角前景中，神情安静且情感疏离。在他身后斑驳纹理的老墙上，有一幅巨大的手绘铅笔素描版本的同一人物，看起来更年轻，正拿着/摘下眼镜并遮住一只眼睛，营造出当下自我与回忆之间的视觉对比。
+
+一盏温暖的复古爱迪生灯泡从天花板垂下，恰好位于真实主体和素描之间，作为主要的实用光源。灯泡在面部和墙壁上投射出温暖的琥珀色照明，同时在右侧形成巨大、柔和且令人难忘的阴影。
+
+相机位置：平视相机位于主体稍前方偏右的位置，采用中近景肖像取景，主体占据右下三分之一区域，而素描主导左侧背景。保持悬挂的灯泡靠近中央垂直轴。略微压缩的透视效果，自然的景深，微妙的前景/背景分离。
+
+氛围：忧郁、怀旧、神秘、内省、略带超现实感。照片级真实的主体结合手绘石墨艺术作品，使素描感觉物理地融入旧墙中，而非数字粘贴上去。
+
+光照：低调的电影布光，来自灯泡的温暖钨丝光晕，周围深邃的阴影，微妙的衰减，逼真的皮肤高光，细致的卷发，眼镜上自然的反射。
+
+色调：柔和的橄榄棕色、陈旧的米色、炭黑、温暖的琥珀色和微妙的肤色。添加逼真的墙壁裂缝、污渍、铅笔纹理、胶片颗粒和温和的大气瑕疵。
+
+构图必须紧密保留参考图像，包括主体位置、素描位置、悬挂的灯泡、阴影、光线方向和情感对比。竖屏 9:16，电影编辑摄影风格，超高细节，照片级真实，4K。
+
+[English]
+Use the uploaded image as the primary visual reference. Recreate the same composition and cinematic storytelling: a young curly-haired man wearing rectangular glasses, a dark jacket over a light shirt, sitting in the lower-right foreground with a quiet, emotionally distant expression. Behind him, on an aged textured wall, is a large hand-drawn pencil-sketch version of the same person, appearing younger and holding/removing his glasses while covering one eye, creating a visual contrast between his present self and his memories.
+
+A single warm vintage Edison bulb hangs from the ceiling exactly between the real subject and the sketch, acting as the main practical light source. The bulb casts warm amber illumination across the face and wall while creating a large, soft, haunting shadow on the right side.
+
+Camera position: eye-level camera positioned slightly in front of and to the right of the subject, medium-close portrait framing, with the subject occupying the lower-right third and the sketch dominating the left background. Keep the hanging bulb near the central vertical axis. Slightly compressed perspective, natural depth, subtle foreground/background separation.
+
+Atmosphere: melancholic, nostalgic, mysterious, introspective, slightly surreal. Photorealistic subject combined with hand-drawn graphite artwork, making the sketch feel physically integrated into the old wall rather than digitally pasted on.
+
+Lighting: low-key cinematic lighting, warm tungsten glow from the bulb, deep surrounding shadows, subtle falloff, realistic skin highlights, detailed curly hair, natural reflections on glasses.
+
+Color palette: muted olive-brown, aged beige, charcoal black, warm amber and subtle skin tones. Add realistic wall cracks, stains, pencil texture, film grain and gentle atmospheric imperfections.
+
+Composition must closely preserve the reference image, including the subject placement, sketch placement, hanging bulb, shadow, lighting direction, and emotional contrast. Vertical 9:16, cinematic editorial photography, ultra-detailed, photorealistic, 4K.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2103697771891196215) | 2026-09-26
+
+---
+
+### 📷 例 8062：电影感冬季男性肖像
+
+![电影感冬季男性肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%86%AC%E5%AD%A3%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极具视觉冲击力的超写实电影感冬季特写肖像，主角是一位二十岁出头的英俊青年，呈现出亲密的高级时尚编辑摄影风格。他拥有一头浓密自然的黑色波浪卷发，被冷风吹得略显凌乱，精致的雪花自然地散落在他的发丝和睫毛上。他那深邃的黑褐色双眸直视镜头，眼神强烈而专注，营造出一种迷人且平静的表情。轮廓分明的雕塑般下颌线，浓眉，淡淡的自然胡茬，精致阳刚的面部特征，逼真的皮肤纹理和清晰可见的毛孔。
+由于严寒气温的影响，他的脸颊和鼻子呈现出微妙自然的红晕。一股柔和的寒冷呼吸雾气正从他的嘴唇间逸出，为冰冷的氛围增添了真实感。细小的冰晶自然地附着在每一根发丝和睫毛上。细碎的雪花轻柔地飘落在他的脸庞周围，几片雪花接触到他温暖的皮肤时微微融化。
+他身穿一件奢华的深色羊毛大衣，高领设计，但在紧凑的构图中几乎不可见。背景是柔和虚化的雪景，伴有大气雾霭、远处结霜的树木以及细微的飘落雪花。采用忧郁的电影感布光，清冷的自然日光与柔和的漫射高光交织，浅景深，奶油般的焦外成像，真实的冬季氛围，精致奢华的时尚编辑美学。
+极致的面部细节，照片级真实感的皮肤，自然的毛孔，逼真的雪花质感，真实的冷凝效果，眼部和睫毛锐利对焦，85mm 人像镜头，f/1.4，HDR，电影级色彩分级，超高细节，8K，杰作，无文字，无水印，无人工痕迹的面孔。
+
+[English]
+Ultra-realistic cinematic winter close-up portrait of a strikingly handsome young man in his early 20s, captured in an intimate high-fashion editorial photograph. He has thick naturally wavy jet-black hair, slightly tousled by the cold wind, with delicate snowflakes resting naturally across his hair and eyelashes. His deep dark-brown eyes stare intensely and directly into the camera, creating a captivating, calm expression. Defined sculpted jawline, strong eyebrows, subtle natural stubble, refined masculine facial features, realistic skin texture and visible pores.
+His cheeks and nose have a subtle natural flush from the freezing temperature. A soft plume of cold breath is visibly escaping from his lips, adding realism to the icy atmosphere. Tiny snow crystals cling naturally to individual strands of hair and eyelashes. Fine snowflakes gently fall around his face, with a few melting slightly against his warm skin.
+He wears a luxurious dark wool coat with a high collar, barely visible in the tight composition. Background is softly blurred with a snowy winter landscape, atmospheric fog, distant frosted trees, and subtle falling snow. Moody cinematic lighting, cool natural daylight mixed with soft diffused highlights, shallow depth of field, creamy bokeh, realistic winter atmosphere, sophisticated luxury fashion editorial aesthetic.
+Extreme facial detail, photorealistic skin, natural pores, realistic snow texture, authentic condensation, sharp focus on the eyes and eyelashes, 85mm portrait lens, f/1.4, HDR, cinematic color grading, ultra-detailed, 8K, masterpiece, no text, no watermark, no artificial-looking face.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2103693305221714155) | 2026-09-26
+
+---
+
+### 📷 例 8063：戴耳机的街头风格肖像
+
+![戴耳机的街头风格肖像](../images/%E6%88%B4%E8%80%B3%E6%9C%BA%E7%9A%84%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的街头风格抓拍肖像，描绘了一位年轻女性随意地坐在一家小型城市店面外的混凝土台阶上。她留着深色长发，扎成低马尾，几缕发丝自然垂落在脸侧，妆容清淡，皮肤白皙，神情柔和而若有所思，目光略微看向一侧。
+
+她戴着白色大号头戴式耳机，身穿一件短款白色针织毛衣，正面和袖子上印有醒目的黑色图形字母。毛衣版型宽松 oversized。下身搭配深海军蓝或黑色的宽松阔腿裤，脚穿干净的白色运动鞋。身旁放着一个结构感强的黑色皮革手提包，手柄上挂着一个可爱的小毛绒钥匙扣。
+
+她姿势放松，一条腿弯曲并微微前伸交叉，一只手放在大腿附近，另一只手握着包带。身后的店面有玻璃门和窗户，上面贴满了各种彩色贴纸、小装饰和街头风格图案。玻璃上贴着一张黄色警示标志，窗户中反射出停放的汽车和周围街道的景象。
+
+构图：4:5 竖版人像，全身取景，主体居中，略低的平视视角，真实的街头抓拍摄影，背景充满店面元素。
+
+光线：柔和的自然日光，略带冷调的城市氛围，真实的阴影，玻璃上的微妙反射，曝光平衡。
+
+摄影风格：超写实的智能手机街头摄影，韩式休闲时尚美学，自然的皮肤质感，详细的针织面料纹理，逼真的发丝，真实的店面材质，微妙的景深效果，略带颗粒感的日常照片风格，高细节，4K。
+
+负面提示词：anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted headphones, unrealistic handbag, fake reflections, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
+
+[English]
+A photorealistic candid street-style portrait of a young woman sitting casually on the concrete steps outside a small urban storefront. She has long dark hair tied back in a low ponytail with loose face-framing strands, natural makeup, fair skin, and a soft thoughtful expression as she looks slightly to the side.
+She is wearing large white over-ear headphones and a cropped white knit sweater with bold black graphic lettering across the front and sleeves. The sweater has a relaxed oversized fit. She pairs it with loose dark navy or black wide-leg trousers and clean white sneakers. A structured black leather handbag rests beside her, with a small cute plush keychain hanging from the handle.
+She sits in a relaxed pose with one leg bent and crossed slightly forward, one hand resting near her lap and the other holding the handbag strap. The storefront behind her has a glass door and windows covered with numerous colorful stickers, small decals, and street-style graphics. A yellow caution sign is attached to the glass, while reflections of parked cars and the surrounding street appear in the window.
+Composition: vertical 4:5 portrait, full-body framing, subject centered, slightly low eye-level perspective, authentic candid street photography, storefront filling the background.
+Lighting: soft natural daylight, slightly cool urban tones, realistic shadows, subtle reflections on the glass, balanced exposure.
+Photography style: ultra-realistic smartphone street photography, Korean-inspired casual fashion aesthetic, natural skin texture, detailed knit fabric, realistic hair strands, authentic storefront textures, subtle depth of field, slightly grainy everyday-photo look, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted headphones, unrealistic handbag, fake reflections, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2103689369039069238) | 2026-09-26
+
+---
+
+### 📷 例 8065：身着粉色纱丽与银饰的女性
+
+![身着粉色纱丽与银饰的女性](../images/%E8%BA%AB%E7%9D%80%E7%B2%89%E8%89%B2%E7%BA%B1%E4%B8%BD%E4%B8%8E%E9%93%B6%E9%A5%B0%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的中景人像照片，画面中的年轻女性留着浓密蓬松的深棕色波浪长发，发丝自然垂落在右肩。她肤色白皙，眉形清晰，目光望向一侧，神情平静而中性。她身着一件柔和的粉色纱丽，边缘饰有精致的银色珠绣，面料上点缀着散落的图案。她的配饰包括一对华丽的大号银色 Jhumka 耳环、一条厚重的多层银色项链，以及手腕上叠戴的多个银色手镯。光线极具戏剧性，左上方投射出温暖的红色轮廓光，与深邃的黑色背景形成鲜明对比。
+
+[English]
+A photorealistic portrait of a beautiful young South Asian woman with long, voluminous dark brown wavy hair cascading over her right shoulder. She has fair skin, expressive brown eyes looking slightly off-camera to the left, and soft pink lips. She is wearing a delicate light pink saree with intricate silver embroidery along the border and scattered embellishments on the fabric. Her accessories include large, ornate silver jhumka earrings, a heavy statement silver necklace with detailed filigree work, and a stack of silver bangles on her wrist. The lighting is dramatic, with a warm reddish glow illuminating her face from the side against a dark, blurred background, creating an elegant and moody atmosphere.
+```
+
+**来源：** [@AvelixVale](https://x.com/afeerah64/status/2103650557999063471) | 2026-09-26
+
+---
+
