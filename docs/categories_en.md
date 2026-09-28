@@ -1447,7 +1447,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1066)
+## 🎴 [Posters & Cards](cat-poster.md) (1068)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3543,11 +3543,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8025: 装饰艺术风格旅行海报模板](cat-poster.md#-例-8025装饰艺术风格旅行海报模板)
 
 - [Case 8026: GPT Image 2 艺术书编辑海报](cat-poster.md#-例-8026gpt-image-2-艺术书编辑海报)
+
+- [Case 8071: 涩谷足球少女广告牌宣传活动](cat-poster.md#-例-8071涩谷足球少女广告牌宣传活动)
+
+- [Case 8074: 新年蜕变海报](cat-poster.md#-例-8074新年蜕变海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2992)
+## 📷 [Photography & Realistic](cat-photo.md) (2996)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9465,6 +9469,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8063: 戴耳机的街头风格肖像](cat-photo.md#-例-8063戴耳机的街头风格肖像)
 
 - [Case 8065: 身着粉色纱丽与银饰的女性](cat-photo.md#-例-8065身着粉色纱丽与银饰的女性)
+
+- [Case 8066: 哑光黑 B.AI 键盘键帽](cat-photo.md#-例-8066哑光黑-bai-键盘键帽)
+
+- [Case 8069: 哥特风动漫肖像](cat-photo.md#-例-8069哥特风动漫肖像)
+
+- [Case 8072: 写实咖啡馆人像提示词](cat-photo.md#-例-8072写实咖啡馆人像提示词)
+
+- [Case 8073: 街头风嘟嘴自拍](cat-photo.md#-例-8073街头风嘟嘴自拍)
 ---
 
 <a id="illustration"></a>
@@ -11543,7 +11555,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (251)
+## 🧍 [Character Design](cat-character.md) (252)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12031,6 +12043,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 7913: 双联肖像画](cat-character.md#-例-7913双联肖像画)
 
 - [Case 8052: Y2K 风格运动鞋时尚大片](cat-character.md#-例-8052y2k-风格运动鞋时尚大片)
+
+- [Case 8070: 高级时尚夏日大片提示词](cat-character.md#-例-8070高级时尚夏日大片提示词)
 ---
 
 <a id="3d"></a>
@@ -13817,7 +13831,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (885)
+## 🏷️ [Brand & Packaging](cat-brand.md) (887)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15582,6 +15596,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8057: 交叉腿时尚姿势的动漫女孩](cat-brand.md#️-例-8057交叉腿时尚姿势的动漫女孩)
 
 - [Case 8064: 雾山经典车上的韩国女孩](cat-brand.md#️-例-8064雾山经典车上的韩国女孩)
+
+- [Case 8067: 日式餐厅柠檬沙瓦菜单](cat-brand.md#️-例-8067日式餐厅柠檬沙瓦菜单)
+
+- [Case 8068: LEGO 人仔变身](cat-brand.md#️-例-8068lego-人仔变身)
 ---
 
 <a id="edit"></a>

@@ -9714,3 +9714,135 @@ Surround the character with colorful decorative elements:
 
 ---
 
+### 🧍 例 8070：高级时尚夏日大片提示词
+
+![高级时尚夏日大片提示词](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E5%A4%8F%E6%97%A5%E5%A4%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考图像作为严格的角色参照，创建一张逼真的夏季高级时尚大片。
+
+角色：
+使用参考图像中完全相同的 Wareen 角色。保留她可识别的面部特征、面部结构、紫色波浪波波头、紫色刘海、脸颊和鼻子上的雀斑、肤色、身体比例以及整体视觉身份。不要重新设计或替换角色。仅根据以下场景改变她的服装、姿势、配饰和环境。
+
+姿势与构图：
+Wareen 横向躺在极简主义钴蓝色建筑壁架上的全身低角度时尚照片。她舒适地斜靠着，背部由结构支撑，膝盖抬起，双腿自然交叉。她的头微微向后倾斜，同时带着平静自信的表情向上看着镜头。
+
+一只手臂随意地放在手袋旁边的身侧，另一只手臂放松地沿着壁架放置。最近的腿和白色凉鞋稍微靠近相机，营造出戏剧性的低角度透视效果。
+
+服装：
+- 敞开的剪裁合身的亮钴蓝色西装外套
+- 内搭纯色修身白色圆领上衣
+- 配套的高腰亮钴蓝色定制长裤
+- 宽松但优雅的阔腿轮廓
+- 带有厚灰白色鞋底的干净白色休闲带凉鞋
+- 超大号复古白框太阳镜
+
+配饰：
+- 放置在蓝色壁架上 Wareen 旁边的结构化鲜艳红色皮革托特包
+- 极简珠宝
+- 保持配饰时尚且低调
+
+背景与环境：
+超现实极简主义 3D 热带时尚场景。
+- 清澈鲜艳的蓝天
+- 树干涂成蓝色的风格化棕榈树
+- 绿色棕榈叶
+- 几何形状的白色和蓝色现代建筑
+- 干净的钴蓝色平台和壁架
+- 强烈的色块建筑形状
+- 极少杂物
+- 奢华夏日广告氛围
+
+光照：
+明亮的自然夏日阳光。
+硬方向性阳光，阴影清晰干净。
+钴蓝色、白色和红色之间的高对比度。
+明亮充满活力的曝光，具有逼真的皮肤高光。
+清晰的蓝天氛围。
+
+相机：
+低角度广角镜头时尚摄影。
+全身取景。
+由于镜头透视，前景中的凉鞋显得稍大，形成戏剧性视角。
+强烈的几何构图。
+专业奢华时尚广告摄影。
+对 Wareen 进行锐利对焦，景深微妙。
+
+风格：
+逼真的高端时尚大片。
+受波普艺术启发的夏日美学。
+大胆的蓝白配色风格，搭配对比鲜明的红色手袋。
+干净、精致、充满活力且现代。
+高端商业时尚摄影。
+
+质量：
+超逼真，高分辨率，逼真的皮肤纹理，自然的解剖结构，逼真的手部和手指，详细的织物纹理，准确的衣物褶皱，逼真的太阳镜和手袋材质，自然的阴影，电影般的深度，专业摄影。
+
+[English]
+Create a photorealistic high-fashion summer editorial using the uploaded reference image as the strict character reference.
+
+CHARACTER:
+Use the exact same Wareen character from the reference image. Preserve her recognizable facial features, facial structure, purple wavy bob haircut, purple bangs, freckles across the cheeks and nose, skin tone, body proportions, and overall visual identity. Do not redesign or replace the character. Only change her outfit, pose, accessories, and environment according to the scene below.
+
+POSE & COMPOSITION:
+Full-body low-angle fashion photograph of Wareen lounging horizontally across a minimalist cobalt-blue architectural ledge. She is reclining comfortably with her back supported by the structure, knees raised and legs crossed naturally. Her head is slightly tilted back while she looks upward toward the camera with a calm, confident expression.
+
+One arm rests casually beside her near the handbag, while the other arm is relaxed along the ledge. The nearest leg and white sandal are slightly closer to the camera, creating a dramatic low-angle perspective.
+
+OUTFIT:
+- Tailored bright cobalt-blue blazer worn open
+- Plain fitted white crew-neck top underneath
+- Matching high-waisted bright cobalt-blue tailored trousers
+- Relaxed but elegant wide-leg silhouette
+- Clean white casual strap sandals with chunky grey-white soles
+- Oversized retro white-framed sunglasses
+
+ACCESSORIES:
+- Structured vibrant red leather tote handbag placed beside Wareen on the blue ledge
+- Minimal jewelry
+- Keep accessories stylish and understated
+
+BACKGROUND & ENVIRONMENT:
+Surreal minimalist 3D tropical fashion setting.
+- Clear vivid blue sky
+- Stylized palm trees with blue-painted trunks
+- Green palm leaves
+- Geometric white and blue modern architectural buildings
+- Clean cobalt-blue platforms and ledges
+- Strong color-blocked architectural shapes
+- Minimal clutter
+- Luxury summer campaign atmosphere
+
+LIGHTING:
+Bright natural summer sunlight.
+Hard directional sunlight with crisp, clean shadows.
+High contrast between cobalt blue, white and red.
+Bright vibrant exposure with realistic skin highlights.
+Clear blue-sky atmosphere.
+
+CAMERA:
+Low-angle wide-lens fashion photography.
+Full-body framing.
+Dramatic perspective with the foreground sandal slightly larger due to lens perspective.
+Strong geometric composition.
+Professional luxury fashion campaign photography.
+Sharp focus on Wareen with subtle depth of field.
+
+STYLE:
+Photorealistic high-end fashion editorial.
+Pop-art inspired summer aesthetic.
+Bold blue-and-white color-block style with a contrasting red handbag.
+Clean, sophisticated, vibrant and modern.
+Premium commercial fashion photography.
+
+QUALITY:
+Ultra-realistic, high resolution, realistic skin texture, natural anatomy, realistic hands and fingers, detailed fabric textures, accurate clothing folds, realistic sunglasses and handbag materials, natural shadows, cinematic depth, professional photography.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2104067633083781131) | 2026-09-27
+
+---
+

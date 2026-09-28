@@ -72536,3 +72536,75 @@ A photorealistic portrait of a beautiful young South Asian woman with long, volu
 
 ---
 
+### 📷 例 8066：哑光黑 B.AI 键盘键帽
+
+![哑光黑 B.AI 键盘键帽](../images/%E5%93%91%E5%85%89%E9%BB%91%20B.AI%20%E9%94%AE%E7%9B%98%E9%94%AE%E5%B8%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高角度特写的工作室照片，展示了一个放置在干净白色表面上的单个哑光黑色机械键盘键帽。该键帽为大尺寸矩形修饰键（类似空格键或 Shift 键），边缘略带圆润，表面具有细微纹理。键帽顶部中央深度雕刻有时尚现代无衬线字体的“B.AI”文字。键帽顶面四角可见四个小银色螺丝，增添了工业细节感。柔和漫射的光线在键帽底部周围形成轻柔阴影，突出了其在极简背景下的立体形态。
+
+[English]
+A high-angle, close-up studio shot of a single matte black mechanical keyboard keycap resting on a clean white surface. The keycap is a large rectangular modifier size (like a spacebar or shift key) with slightly rounded edges and a subtle texture. Engraved deeply into the top center of the keycap is the text "B.AI" in a sleek, modern sans-serif font. Four small silver screws are visible at the corners of the keycap's top face, adding an industrial detail. Soft, diffused lighting creates gentle shadows around the base of the keycap, emphasizing its three-dimensional form against the minimalist background.
+```
+
+**来源：** [@AlexanderXQ HTX SmartEarn 13% APY 💎](https://x.com/AlexanderXQ_/status/2104290574236782889) | 2026-09-27
+
+---
+
+### 📷 例 8069：哥特风动漫肖像
+
+![哥特风动漫肖像](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E5%8A%A8%E6%BC%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅高度精细的动漫风格肖像画，描绘了一位英俊的年轻男子，他留着凌乱的黑色头发，眼神深邃，瞳孔呈紫色。他头戴一顶小巧的黑色高顶礼帽，帽子上装饰着一个巨大的红紫相间格纹蝴蝶结。他嘴里叼着一支香烟，身穿一套精致的维多利亚哥特风格服装：黑色高领衬衫、配套的格纹领带（饰有红宝石胸针），以及多条金链，其中包括一个十字架吊坠。背景昏暗而充满情绪张力，点缀着各种哥特元素，如点燃的蜡烛、栖息在旧书上的乌鸦、扑克牌、骷髅头和一个鸟笼，所有这些都映衬在菱形图案的壁纸前。整幅图像被一个带有装饰性花纹的华丽金色边框所环绕。
+
+[English]
+A highly detailed anime-style portrait of a handsome young man with messy black hair and intense purple eyes, wearing a small black top hat adorned with a large red and purple plaid bow. He has a cigarette in his mouth and is dressed in an elaborate Victorian gothic outfit featuring a black high-collared shirt, a matching plaid tie with a ruby brooch, and multiple gold chains including a cross pendant. The background is dark and moody, filled with gothic elements such as lit candles, a raven perched on old books, playing cards, a skull, and a birdcage, all set against a diamond-patterned wallpaper. The entire image is framed by an ornate golden border with decorative flourishes.
+```
+
+**来源：** [@カモネギ。](https://x.com/kamonegi_AIart/status/2104071609409736848) | 2026-09-27
+
+---
+
+### 📷 例 8072：写实咖啡馆人像提示词
+
+![写实咖啡馆人像提示词](../images/%E5%86%99%E5%AE%9E%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高分辨率的写实平视肖像，描绘了一位年轻的东亚女性。她化着柔和的自然妆容，皮肤光泽透亮，带着淡淡的腮红和粉色亮泽唇膏，下巴轻轻抵在手背上，坐在一家户外咖啡馆里。她留着深棕色头发，梳成随意的丸子头，几缕发丝垂在脸侧修饰脸型。她身穿一件宽松的白色亚麻纽扣衬衫，内搭白色背心，下身是浅蓝色牛仔裤，佩戴一条精致的金色吊坠项链、小巧的耳钉，以及一款配有酒红色表带的智能手表。明亮温暖的自然阳光透过背景中茂密的树叶洒下斑驳的光影，营造出舒适且富有美感的生活方式氛围。景深效果使户外咖啡馆背景呈现柔和虚化。使用 85mm 镜头拍摄，光圈 f/1.8，8k 分辨率。
+
+[English]
+A high-resolution photorealistic eye level portrait of a young East Asian woman with soft natural makeup, glowing skin subtle blush and glossy pink lipstick resting her chin gently on her hand while sitting at an outdoor cafe She has dark brown hair styled in a messy high bun with face framing strands. She is wearing a relaxed-fit unbuttoned white linen button-down shirt over a white tank top, light blue denim jeans a delicate gold pendant necklace, small stud earrings, and a smartwatch with a maroon strap Bright warm, natural sunlight casts dappled shadows from leafy trees in the background, creating a cozy and aesthetic lifestyle aesthetic Depth of field with a softly blurred outdoor cafe setting. Shot on 85mm lens, f/1.8, 8k resolution.
+```
+
+**来源：** [@Lavinia](https://x.com/laviniavelle/status/2104052627051053307) | 2026-09-27
+
+---
+
+### 📷 例 8073：街头风嘟嘴自拍
+
+![街头风嘟嘴自拍](../images/%E8%A1%97%E5%A4%B4%E9%A3%8E%E5%98%9F%E5%98%B4%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位留着浅棕色长直发的年轻女性在明亮自然日光下的城市街道上拍摄的逼真户外自拍。她身穿一件时尚的红色和黑色条纹超大号上衣，带有图形字母印花，搭配黑色肩带，呈现出休闲的街头风格。她将相机举至手臂长度进行特写自拍，头部微微向镜头倾斜，做出俏皮的嘟嘴表情，同时抬起一只手臂并轻轻握拳。妆容自然，眼部轮廓清晰，皮肤质感柔和，发丝细节丰富，姿态自信且充满趣味。背景中有一辆停放的米色复古汽车、铺砌的街道、绿植、现代建筑以及粉色店面边缘。温暖的日光，抓拍风格的社交媒体摄影，比例真实，面部细节锐利，浅景深效果，高分辨率智能手机摄像头质感，垂直 4:5 构图。
+
+[English]
+A realistic outdoor selfie of a young woman with long, straight light-brown hair, standing on a city street in bright natural daylight. She wears a stylish red-and-black striped oversized top with graphic lettering, black shoulder straps, and a casual streetwear aesthetic. She holds the camera at arm’s length for a close-up selfie, slightly tilting her head toward the camera, making a playful duck-face expression while raising one arm and lightly flexing her fist. Natural makeup, defined eyes, soft skin texture, detailed hair strands, confident playful pose. Background features a parked vintage beige car, paved street, greenery, modern buildings, and a pink storefront edge. Warm daylight, candid social-media photography, realistic proportions, sharp facial details, shallow depth of field, high-resolution smartphone camera look, vertical 4:5 composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2104044284991472011) | 2026-09-27
+
+---
+

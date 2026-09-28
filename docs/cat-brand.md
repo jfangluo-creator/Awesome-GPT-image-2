@@ -21738,3 +21738,161 @@ Created a Korean girl with long, straight, jet-black hair sitting gracefully on 
 
 ---
 
+### 🏷️ 例 8067：日式餐厅柠檬沙瓦菜单
+
+![日式餐厅柠檬沙瓦菜单](../images/%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E6%9F%A0%E6%AA%AC%E6%B2%99%E7%93%A6%E8%8F%9C%E5%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张高分辨率、照片级逼真的日式餐厅桌面菜单卡片图像，该餐厅位于多伦多。菜单放置在木质表面上，采用充满活力的设计来推广“Lemon Sour”。
+
+布局与文字：
+- 顶部标题：“A TASTE OF JAPAN, NOW IN TORONTO!”（日本风味，现已登陆多伦多！），并配有加拿大国家电视塔（CN Tower）剪影。
+- 主标题：大号毛笔字体“LEMON SOUR”，其中“Lemon”中的字母“O”被一片橙子图形替代。左侧包含竖排日文“レモサワ”（Remosawa），右侧包含竖排日文“サレモン”（Saremon）。
+- 副标题：“One of Japan's most popular drinks.”（日本最受欢迎的饮品之一。）
+- 价格标签：一个黑色圆圈，显示“$9.25”。
+- 左列图标：三个黄色图标及要点说明：“Light on calories & sugar”（低卡路里和低糖）、“Packed with Vitamin C & citric acid”（富含维生素 C 和柠檬酸）、“Light, refreshing, and easy to enjoy”（轻盈爽口，易于享用）。
+- 中心视觉元素：两个装满冰块、柠檬片和薄荷装饰的大玻璃杯，带有 Sapporo 啤酒标志。
+- 底部区域：“WHAT'S INSIDE?”（内含成分？）横幅，列出配料并配有小图标：Shochu + Lemon + Home made syrup + Soda（烧酒 + 柠檬 + 自制糖浆 + 苏打水）。
+- 页脚文字：“Crisp. Citrusy. Refreshing. The perfect companion to your favorite bowl of ramen.”（清爽、柑橘香、提神。是您最爱的一碗拉面的完美伴侣。）旁边有一个圆形印章图形，写着“PERFECT WITH RAMEN”（拉面绝配）。
+
+风格：专业美食摄影，明亮照明，色彩丰富且令人食欲大开。
+
+[English]
+Create a high-resolution, photorealistic image of a table-top menu card for a Japanese restaurant in Toronto. The menu is placed on a wooden surface and features a vibrant design promoting 'Lemon Sour'. 
+
+Layout & Text: 
+- Top Header: 'A TASTE OF JAPAN, NOW IN TORONTO!' with the CN Tower silhouette.
+- Main Title: Large brush-stroke text 'LEMON SOUR' with an orange slice graphic replacing the 'O' in Lemon. Include vertical Japanese text 'レモサワ' (Remosawa) on the left and 'サレモン' (Saremon) on the right.
+- Subtitle: 'One of Japan's most popular drinks.'
+- Price Tag: A black circle showing '$9.25'.
+- Left Column Icons: Three yellow icons with bullet points: 'Light on calories & sugar', 'Packed with Vitamin C & citric acid', 'Light, refreshing, and easy to enjoy'.
+- Center Visuals: Two large glass mugs filled with ice, lemon slices, and mint garnish, featuring the Sapporo beer logo.
+- Bottom Section: A 'WHAT'S INSIDE?' banner listing ingredients with small icons: Shochu + Lemon + Home made syrup + Soda.
+- Footer Text: 'Crisp. Citrusy. Refreshing. The perfect companion to your favorite bowl of ramen.' alongside a circular stamp graphic reading 'PERFECT WITH RAMEN'.
+
+Style: Professional food photography, bright lighting, colorful and appetizing.
+```
+
+**来源：** [@Affan Imran](https://x.com/affan_imran/status/2104229202543378706) | 2026-09-27
+
+---
+
+### 🏷️ 例 8068：LEGO 人仔变身
+
+![LEGO 人仔变身](../images/LEGO%20%E4%BA%BA%E4%BB%94%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传图片中所有可见的人物转换为逼真的 LEGO 风格人仔玩具，同时保留每个人可识别的身份、发型、服装、颜色、配饰、相对身高、姿势以及彼此之间的关系。
+
+格式锁定 — 不可协商
+垂直 3:4 宽高比。
+全身产品构图。
+所有人仔必须从头到脚完全可见。
+不要生成方形、横向、宽屏、特写、裁剪或半身构图。
+
+人数锁定 — 不可协商
+检测上传图片中所有可见人物。
+如果有 1 个人，创建 1 个 LEGO 风格人仔。
+如果有 2 个人，创建 2 个 LEGO 风格人仔。
+如果有 3 个或更多人，创建相同数量的 LEGO 风格人仔。
+不要移除、合并、忽略、重复或替换任何人物。
+参考图像中可见的每个人都必须作为独立的 LEGO 风格人仔出现。
+
+参考锁定 — 不可协商
+使用上传图片作为所有主题的唯一参考。
+尽可能在简化的 LEGO 人仔风格中保留每个人可识别的面部特征。
+保持每个人的发型和发色，并将其调整为模塑的 LEGO 风格塑料发件。
+保留每个人的面部表情、服装颜色、服装设计、可见图案、配饰和造型。
+最终的人仔必须清晰地代表被转化为 LEGO 风格玩具形式的同一个人物。
+不要创建通用的人仔。
+不要重新设计服装或发明新的配饰。
+
+服装细节锁定
+尽可能准确地以 LEGO 人仔形式重现每个人的服装。
+保留确切的服装调色板、层次结构、服装类型、领口形状、领线、袖子、夹克形状、裤子或裙子样式、鞋子、可见图案、接缝、纽扣、拉链、腰带、标志、珠宝、包袋、眼镜、帽子和配饰。
+将真实服装转化为带有干净玩具风格线条的印刷 LEGO 躯干和腿部图形。
+外套应呈现为模塑或印刷的 LEGO 风格服装细节。
+鞋子应简化为 LEGO 脚/腿印花，同时保持原始颜色和风格。
+不要用通用的 LEGO 服装替换服装。
+不要过度简化服装以至于失去原始造型。
+
+群体构图
+保持与上传图片相同的人数。
+保留主体之间的关系。
+保留相对身高差异。
+保留基本姿势方向和肢体语言。
+如果参考图显示一对情侣，创建匹配的 LEGO 风格情侣。
+如果参考图显示一个团体，将整个团体创建为独立的人仔。
+以干净的产品风格构图自然地将人仔排列在一起。
+
+LEGO 人仔结构
+对每个人仔使用真实的 LEGO 风格比例。
+圆柱形头部。
+简化的印刷面部特征。
+块状躯干。
+每个躯干上的印刷服装细节。
+Sta
+
+[English]
+Transform every visible person in the uploaded image into realistic LEGO-style minifigure toys while preserving each person’s recognizable identity, hairstyle, outfit, colors, accessories, relative height, pose, and relationship to each other.
+
+FORMAT LOCK — NON-NEGOTIABLE
+Vertical 3:4 aspect ratio.
+Full-body product composition.
+All figures must be fully visible from head to toe.
+Do not generate square, landscape, widescreen, close-up, cropped, or half-body compositions.
+
+PERSON COUNT LOCK — NON-NEGOTIABLE
+Detect all visible people in the uploaded image.
+If there is 1 person, create 1 LEGO-style minifigure.
+If there are 2 people, create 2 LEGO-style minifigures.
+If there are 3 or more people, create the same number of LEGO-style minifigures.
+Do not remove, merge, ignore, duplicate, or replace any person.
+Every person visible in the reference image must appear as their own separate LEGO-style minifigure.
+
+REFERENCE LOCK — NON-NEGOTIABLE
+Use the uploaded image as the only reference for all subjects.
+Preserve each person’s recognizable facial identity as much as possible within the simplified LEGO minifigure style.
+Maintain each person’s hairstyle and hair color, adapted into molded LEGO-style plastic hairpieces.
+Preserve each person’s facial expression, clothing colors, clothing design, visible patterns, accessories, and styling.
+The final figures must clearly represent the same people translated into LEGO-style toy form.
+Do not create generic minifigures.
+Do not redesign outfits or invent new accessories.
+
+CLOTHING DETAIL LOCK
+Recreate each person’s outfit as accurately as possible in LEGO minifigure form.
+Preserve the exact clothing color palette, layering, garment type, collar shape, neckline, sleeves, jacket shape, pants or skirt style, shoes, visible patterns, seams, buttons, zippers, belts, logos, jewelry, bags, glasses, hats, and accessories.
+Translate real clothing into printed LEGO torso and leg graphics with clean toy-style linework.
+Outerwear should appear as molded or printed LEGO-style clothing details.
+Shoes should be simplified into LEGO foot/leg prints while keeping the original color and style.
+Do not replace outfits with generic LEGO clothing.
+Do not simplify clothing so much that the original styling is lost.
+
+GROUP COMPOSITION
+Keep the same number of people from the uploaded image.
+Preserve the relationship between subjects.
+Preserve relative height differences.
+Preserve basic pose direction and body language.
+If the reference shows a couple, create a matching LEGO-style couple.
+If the reference shows a group, create the full group as separate minifigures.
+Arrange the figures naturally together in a clean product-style composition.
+
+LEGO MINIFIGURE STRUCTURE
+Use authentic LEGO-style minifigure proportions for every figure.
+Cylindrical heads.
+Simplified printed facial features.
+Block-shaped torsos.
+Printed clothing details on each torso.
+Sta
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2104203933308633179) | 2026-09-27
+
+---
+

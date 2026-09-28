@@ -35180,3 +35180,127 @@ The final image should look like a carefully designed contemporary art-book cove
 
 ---
 
+### 🎴 例 8071：涩谷足球少女广告牌宣传活动
+
+![涩谷足球少女广告牌宣传活动](../images/%E6%B6%A9%E8%B0%B7%E8%B6%B3%E7%90%83%E5%B0%91%E5%A5%B3%E5%B9%BF%E5%91%8A%E7%89%8C%E5%AE%A3%E4%BC%A0%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张超写实的广角照片，画面中一位年轻的亚洲女孩自信地走在东京涩谷全向十字路口。她身穿蓝白相间的足球服，球衣和短裤上印有数字 10，肩上挎着一个黑色运动包，右臂下夹着一个磨损的足球。她的头发扎成马尾辫，神情坚定。
+
+在她周围，覆盖建筑物的巨大多层数字广告牌和海报构成了一个连贯的活动宣传，专门讲述这位女孩的足球旅程。广告牌展示了各种图像：她面部的特写（有的微笑，有的严肃）、她踢球的动作镜头，以及日文和英文的励志文字。
+
+广告牌上的关键视觉元素包括：
+- 大号橙色笔刷风格的日文字符，如“努力”和“感谢”。
+- 白色手写风格的日文文本，如“もっと強くなれる。”（我能变得更强。）和“負けない。”（我不会输。）。
+- 英文短语，如“FOOTBALL CHANGES MY LIFE”、“PLAY HARDER DREAM BIGGER”和“SMALL STEPS BIG FUTURE”。
+- 一个醒目的单词列表：“TEAM FRIENDS COACH FAMILY FOOTBALL ME.”。
+- 她的名字“Megumi”以大型风格化脚本字体出现在多个面板上。
+- 黑白摄影与鲜艳彩色照片的混合搭配。
+
+背景展示了涩谷标志性的弧形玻璃建筑，街道层面可见“SHIBUYA”标识，以及其他可识别的店面，如 TSUTAYA。她周围的人群被虚化处理，突出了她作为中心主体的地位。光线为明亮的日光，在潮湿的路面上投下逼真的阴影和反射。
+
+[English]
+A young Asian girl, approximately 10 years old, wearing a white and blue soccer uniform with the number 10 on her jersey and shorts. She has dark hair tied back in a ponytail and is carrying a black backpack over one shoulder while holding a soccer ball under her other arm. The background features a bustling urban scene at Shibuya Crossing in Tokyo, Japan, recognizable by its iconic architecture and large digital billboards displaying various advertisements related to soccer and youth sports themes. These ads include images of players in action poses alongside motivational phrases such as "Football Changes My Life," "Play Harder Dream Bigger," and Japanese text emphasizing effort ('努力'), gratitude ('感謝'), perseverance ('根性'), and dreams ('日本代表になる'). Bright daylight illuminates the vibrant colors—blue skies above contrasted against colorful signage below.
+```
+
+**来源：** [@hiroto](https://x.com/hokusaistudio/status/2104059133796471026) | 2026-09-27
+
+---
+
+### 🎴 例 8074：新年蜕变海报
+
+![新年蜕变海报](../images/%E6%96%B0%E5%B9%B4%E8%9C%95%E5%8F%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实的电影感新年蜕变海报，采用垂直 9:16 格式，紧密参考提供的示例图片。
+一位美丽的年轻女性身着优雅的纯白色保守服饰，站在构图的正中央。她戴着白色头巾（hijab），穿着长款白色外套、飘逸且富有体积感的长款白色百褶裙，以及干净的白色厚底运动鞋。她的姿态优雅自信，身体略微侧向一边，脸部朝向镜头，一只手臂自然下垂。全身构图，解剖结构和比例真实。
+严格面部保留：使用上传的面部参考作为主要身份参考。保留人物的面部特征、面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、颧骨、额头、肤色、年龄和自然面部比例。不要创造不同的人。不要美化或改变面部身份。呈现自然真实的皮肤纹理、细微毛孔、逼真的眼睛和嘴唇。
+左侧 — 告别 2026
+左半部分代表过去与转变：
+深黑色/海军蓝的电影氛围
+烟雾缭绕的戏剧性云层
+巨大的金属质感“2026”字样，呈现破裂和粉碎状态
+数百个逼真的玻璃碎片在女子周围向外爆炸
+破碎的碎片逐渐溶解为粒子
+漂浮的深色标签，代表被抛弃的事物：“DAMAGES”、“PAINS”、“OVERTHINKING”、“REGRESSION”、“OLD USUALS”、“FAKE PEOPLE”、“WHAT IF”
+精致的黑色、银色和深青铜色调
+戏剧性的电影灯光
+潮湿路面上微妙的碎玻璃反射
+左上角，优雅且字距宽大的排版：“GOODBYE”
+其下方：“THANK YOU
+FOR THE LESSONS”
+右侧 — 欢迎 2027
+右半部分代表光明的新未来：
+壮观的金色日出
+温暖的橙色和金色云朵
+远处发光的都市天际线
+未来主义的奢华城市氛围
+潮湿反光的沥青路面反射着金光
+一辆豪华黑色 SUV 停在右侧
+环绕女子的戏剧性金色轮廓光
+黑暗过去与光明未来之间的强烈对比
+右上角，优雅的奢华排版：“WELCOME”
+巨大的发光金属金色数字：“2027”
+其下方：“BIGGER DREAMS
+BOLDER MOVES
+BETTER ME”
+靠近中右侧，手写风格的优雅文字：“NEW CHAPTER
+LOADING...”
+上方有一个小的优雅皇冠符号。
+下方：“poppy virgo ♡”
+视觉风格
+超写实奢华编辑摄影，电影感新年海报，高端时尚宣传活动，戏剧性的环境叙事，逼真的玻璃粒子，逼真的织物褶皱，逼真的皮肤纹理，体积光，黄金时刻氛围，深邃阴影，HDR，高动态范围，逼真反射，锐利细节，精致构图，高端杂志广告美学，8K 细节，自然比例，真实摄影，无卡通，无插画，无塑料皮肤，无 AI 感面孔。
+构图：对称视觉 s
+
+[English]
+Create an ultra-realistic cinematic New Year transformation poster in vertical 9:16 format, inspired closely by the provided reference image.
+A beautiful young woman wearing an elegant all-white modest outfit stands in the exact center of the composition. She wears a white hijab, long white outer jacket, flowing long white pleated skirt with dramatic volume, and clean white platform sneakers. Her pose is graceful and confident, body slightly turned sideways while her face looks toward the camera, one arm naturally hanging down. Full-body composition, realistic anatomy and proportions.
+STRICT FACE PRESERVATION: use the uploaded face reference as the primary identity reference. Preserve the person's facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, forehead, skin tone, age and natural facial proportions. Do not create a different person. Do not beautify or alter the facial identity. Natural realistic skin texture, subtle pores, realistic eyes and lips.
+LEFT SIDE — GOODBYE 2026
+The left half represents the past and transformation:
+dark black/navy cinematic atmosphere
+smoky dramatic clouds
+large metallic “2026” appearing cracked and shattered
+hundreds of realistic glass fragments exploding outward around the woman
+broken pieces gradually dissolving into particles
+floating dark labels representing things being left behind: “DAMAGES”, “PAINS”, “OVERTHINKING”, “REGRESSION”, “OLD USUALS”, “FAKE PEOPLE”, “WHAT IF”
+sophisticated black, silver and dark bronze color palette
+dramatic cinematic lighting
+subtle broken-glass reflections on wet pavement
+At the upper left, elegant widely spaced typography: “GOODBYE”
+Below it: “THANK YOU
+FOR THE LESSONS”
+RIGHT SIDE — WELCOME 2027
+The right half represents a bright new future:
+spectacular golden sunrise
+warm orange and golden clouds
+glowing city skyline in the distance
+futuristic luxury urban atmosphere
+wet reflective asphalt reflecting the golden light
+a luxurious black SUV parked on the right side
+dramatic golden rim light surrounding the woman
+strong contrast between the dark past and bright future
+At the upper right, elegant luxury typography: “WELCOME”
+Huge glowing metallic gold numbers: “2027”
+Underneath: “BIGGER DREAMS
+BOLDER MOVES
+BETTER ME”
+Near the middle-right, handwritten elegant text: “NEW CHAPTER
+LOADING...”
+with a small elegant crown symbol above it.
+Below: “poppy virgo ♡”
+VISUAL STYLE
+Ultra-photorealistic luxury editorial photography, cinematic New Year poster, high-end fashion campaign, dramatic environmental storytelling, realistic glass particles, realistic fabric folds, realistic skin texture, volumetric lighting, golden-hour atmosphere, deep shadows, HDR, high dynamic range, realistic reflections, sharp details, sophisticated composition, premium magazine advertising aesthetic, 8K detail, natural proportions, realistic photography, no cartoon, no illustration, no plastic skin, no AI-looking face.
+Composition: symmetrical visual s
+```
+
+**来源：** [@Aiza](https://x.com/AizaAi12/status/2104027510908313636) | 2026-09-27
+
+---
+
