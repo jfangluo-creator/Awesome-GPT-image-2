@@ -35304,3 +35304,21 @@ Composition: symmetrical visual s
 
 ---
 
+### 🎴 例 8076：梵高风格鱼头汤诗歌
+
+![梵高风格鱼头汤诗歌](../images/%E6%A2%B5%E9%AB%98%E9%A3%8E%E6%A0%BC%E9%B1%BC%E5%A4%B4%E6%B1%A4%E8%AF%97%E6%AD%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+画面采用分割构图。左侧是一幅梵高风格的油画，描绘了一位瘦骨嶙峋、衣着邋遢的男子，他留着蓬乱的黑色长发和长鼻子，身穿一件破旧的蓝色外套。他坐在木桌前，手持勺子，正从一个大碗中吃着整颗鱼头和米粥。在他身后的蓝色墙壁上贴着一张海报，上面写着“A FOOL AND HIS FISH HEAD SOUP”（傻瓜和他的鱼头汤），并印有一位戴高帽男子的漫画像。最左侧的窗户透出晾晒的衣物，窗台上放着一个瓶子。右侧为纯黑背景，包含白色文字：顶部是一个二维码，下方是诗句“he's a bungler / a man without scruples / scruffy and vile / subsisting on a fool's diet / of fish head and rice soup”，底部附有署名信息。
+
+[English]
+A split composition. The left side is a Van Gogh-style oil painting of an emaciated, scruffy man with wild black hair and a long nose, wearing a tattered blue coat. He sits at a wooden table eating from a large bowl containing a whole fish head and rice soup, holding a spoon. Behind him on the blue wall is a poster reading "A FOOL AND HIS FISH HEAD SOUP" featuring a caricature of a man in a top hat. To the far left, a window reveals hanging laundry and a bottle on the sill. The right side is a solid black background containing white text: a QR code at the top, followed by the poem "he's a bungler / a man without scruples / scruffy and vile / subsisting on a fool's diet / of fish head and rice soup", and credits below.
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2104629221599613167) | 2026-09-28
+
+---
+

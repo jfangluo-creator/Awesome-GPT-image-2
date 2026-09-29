@@ -17043,3 +17043,39 @@ Leave clean negative space on the right side for advertising copy and branding. 
 
 ---
 
+### 🖥️ 例 8075：科幻青色灯光效果
+
+![科幻青色灯光效果](../images/%E7%A7%91%E5%B9%BB%E9%9D%92%E8%89%B2%E7%81%AF%E5%85%89%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+对附加图片应用以下效果：场景被强烈的青色侧光照亮，空气中漂浮着细微的发光粒子。详细的水珠从湿润的头发上滴落，并在皮肤上形成逼真的光泽感。嘴唇涂有唇彩。未来主义科幻美学，冷色调电影氛围，超高清细节。
+
+[English]
+Apply the following effect to the attached image: the scene is illuminated by intense cyan side-lighting, with subtle particles of glowing light floating in the air. Detailed water droplets fall from wet hair and coat the skin with a realistic sheen. Lips with lip gloss. Futuristic sci-fi aesthetic, cold cinematic atmosphere, ultra-detailed.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2104689859336315303) | 2026-09-28
+
+---
+
+### 🖥️ 例 8080：赛博朋克工业走廊飞溅场景
+
+![赛博朋克工业走廊飞溅场景](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%B7%A5%E4%B8%9A%E8%B5%B0%E5%BB%8A%E9%A3%9E%E6%BA%85%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅高分辨率、具有电影质感的赛博朋克美学数字插画。模特位于一个幽闭的工业走廊中，面对墙上的服务器和线缆面板。一团浓密、爆炸性的亮橙色液体从科技面板猛烈向外飞溅，蔓延至周围环境。年轻女子用手轻轻触碰这团液体。色调冷峻且昏暗——以灰色和蓝色为主——与橙色形成戏剧性的高对比效果。图像营造出一种高品质、超现实且令人不安的赛博朋克氛围。
+
+[English]
+A high-resolution, cinematic digital illustration with a cyberpunk aesthetic. The model is situated in a claustrophobic industrial corridor, facing a wall-mounted panel of servers and cables. A dense, explosive mass of bright orange liquid splashes violently outward from the tech panels, spreading across the surroundings. The young woman lightly touches the mass with her hand. The color palette is cool and dark—dominated by grays and blues—creating a dramatic, high-contrast effect against the orange. The image evokes a high-quality, surreal, and unsettling cyberpunk atmosphere.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2104472426394406957) | 2026-09-28
+
+---
+

@@ -1205,6 +1205,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8021：GPT Image 2 秋分编辑海报系列提示词](cat-ui.md#️-例-8021gpt-image-2-秋分编辑海报系列提示词)
 
 - [例 8028：奢华西装时尚大片提示词](cat-ui.md#️-例-8028奢华西装时尚大片提示词)
+
+- [例 8075：科幻青色灯光效果](cat-ui.md#️-例-8075科幻青色灯光效果)
+
+- [例 8080：赛博朋克工业走廊飞溅场景](cat-ui.md#️-例-8080赛博朋克工业走廊飞溅场景)
 ---
 
 <a id="chart"></a>
@@ -3547,6 +3551,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8071：涩谷足球少女广告牌宣传活动](cat-poster.md#-例-8071涩谷足球少女广告牌宣传活动)
 
 - [例 8074：新年蜕变海报](cat-poster.md#-例-8074新年蜕变海报)
+
+- [例 8076：梵高风格鱼头汤诗歌](cat-poster.md#-例-8076梵高风格鱼头汤诗歌)
 ---
 
 <a id="photo"></a>
@@ -9477,6 +9483,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8072：写实咖啡馆人像提示词](cat-photo.md#-例-8072写实咖啡馆人像提示词)
 
 - [例 8073：街头风嘟嘴自拍](cat-photo.md#-例-8073街头风嘟嘴自拍)
+
+- [例 8077：戴同款帽子的街头猫咪自拍](cat-photo.md#-例-8077戴同款帽子的街头猫咪自拍)
 ---
 
 <a id="illustration"></a>
@@ -11554,6 +11562,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8009：高级时尚色块大片 GPT Image 2](cat-illustration.md#-例-8009高级时尚色块大片-gpt-image-2)
 
 - [例 8060：洗衣店等待场景提示词](cat-illustration.md#-例-8060洗衣店等待场景提示词)
+
+- [例 8079：GPT Image 2 Crowded Train Portrait](cat-illustration.md#-例-8079gpt-image-2-crowded-train-portrait)
 ---
 
 <a id="character"></a>
@@ -13276,6 +13286,10 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8042：GPT Image 2 灰色牛仔系带上衣提示词](cat-architecture.md#️-例-8042gpt-image-2-灰色牛仔系带上衣提示词)
 
 - [例 8049：写实风格巴基斯坦 Shalwar Kameez 花园人像](cat-architecture.md#️-例-8049写实风格巴基斯坦-shalwar-kameez-花园人像)
+
+- [例 8081：GPT Image 2 奢华建筑人像提示词](cat-architecture.md#️-例-8081gpt-image-2-奢华建筑人像提示词)
+
+- [例 8082：带配料表的写实风备餐罐](cat-architecture.md#️-例-8082带配料表的写实风备餐罐)
 ---
 
 <a id="comic"></a>
@@ -15964,6 +15978,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 7999：GPT Image 2 怀旧编辑风剪贴簿转换](cat-edit.md#-例-7999gpt-image-2-怀旧编辑风剪贴簿转换)
 
 - [例 8040：GPT Image 2 涂鸦贴纸转换提示词](cat-edit.md#-例-8040gpt-image-2-涂鸦贴纸转换提示词)
+
+- [例 8078：无缝复古游戏地图纹理生成器](cat-edit.md#-例-8078无缝复古游戏地图纹理生成器)
 ---
 
 <a id="fun"></a>

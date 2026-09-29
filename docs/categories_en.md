@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (606)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (608)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1205,6 +1205,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8021: GPT Image 2 秋分编辑海报系列提示词](cat-ui.md#️-例-8021gpt-image-2-秋分编辑海报系列提示词)
 
 - [Case 8028: 奢华西装时尚大片提示词](cat-ui.md#️-例-8028奢华西装时尚大片提示词)
+
+- [Case 8075: 科幻青色灯光效果](cat-ui.md#️-例-8075科幻青色灯光效果)
+
+- [Case 8080: 赛博朋克工业走廊飞溅场景](cat-ui.md#️-例-8080赛博朋克工业走廊飞溅场景)
 ---
 
 <a id="chart"></a>
@@ -1447,7 +1451,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1068)
+## 🎴 [Posters & Cards](cat-poster.md) (1069)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3547,11 +3551,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8071: 涩谷足球少女广告牌宣传活动](cat-poster.md#-例-8071涩谷足球少女广告牌宣传活动)
 
 - [Case 8074: 新年蜕变海报](cat-poster.md#-例-8074新年蜕变海报)
+
+- [Case 8076: 梵高风格鱼头汤诗歌](cat-poster.md#-例-8076梵高风格鱼头汤诗歌)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2996)
+## 📷 [Photography & Realistic](cat-photo.md) (2997)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9477,11 +9483,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8072: 写实咖啡馆人像提示词](cat-photo.md#-例-8072写实咖啡馆人像提示词)
 
 - [Case 8073: 街头风嘟嘴自拍](cat-photo.md#-例-8073街头风嘟嘴自拍)
+
+- [Case 8077: 戴同款帽子的街头猫咪自拍](cat-photo.md#-例-8077戴同款帽子的街头猫咪自拍)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1042)
+## 🎨 [Illustration & Art](cat-illustration.md) (1043)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11551,6 +11559,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8009: 高级时尚色块大片 GPT Image 2](cat-illustration.md#-例-8009高级时尚色块大片-gpt-image-2)
 
 - [Case 8060: 洗衣店等待场景提示词](cat-illustration.md#-例-8060洗衣店等待场景提示词)
+
+- [Case 8079: GPT Image 2 Crowded Train Portrait](cat-illustration.md#-例-8079gpt-image-2-crowded-train-portrait)
 ---
 
 <a id="character"></a>
@@ -12787,7 +12797,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (247)
+## 🏛️ [Architecture & Space](cat-architecture.md) (249)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13273,6 +13283,10 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8042: GPT Image 2 灰色牛仔系带上衣提示词](cat-architecture.md#️-例-8042gpt-image-2-灰色牛仔系带上衣提示词)
 
 - [Case 8049: 写实风格巴基斯坦 Shalwar Kameez 花园人像](cat-architecture.md#️-例-8049写实风格巴基斯坦-shalwar-kameez-花园人像)
+
+- [Case 8081: GPT Image 2 奢华建筑人像提示词](cat-architecture.md#️-例-8081gpt-image-2-奢华建筑人像提示词)
+
+- [Case 8082: 带配料表的写实风备餐罐](cat-architecture.md#️-例-8082带配料表的写实风备餐罐)
 ---
 
 <a id="comic"></a>
@@ -15604,7 +15618,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (179)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (180)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -15961,6 +15975,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 7999: GPT Image 2 怀旧编辑风剪贴簿转换](cat-edit.md#-例-7999gpt-image-2-怀旧编辑风剪贴簿转换)
 
 - [Case 8040: GPT Image 2 涂鸦贴纸转换提示词](cat-edit.md#-例-8040gpt-image-2-涂鸦贴纸转换提示词)
+
+- [Case 8078: 无缝复古游戏地图纹理生成器](cat-edit.md#-例-8078无缝复古游戏地图纹理生成器)
 ---
 
 <a id="fun"></a>

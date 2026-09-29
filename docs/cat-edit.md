@@ -5103,3 +5103,21 @@ Preserve the original photographic framing and composition.
 
 ---
 
+### 🔧 例 8078：无缝复古游戏地图纹理生成器
+
+![无缝复古游戏地图纹理生成器](../images/%E6%97%A0%E7%BC%9D%E5%A4%8D%E5%8F%A4%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BE%E7%BA%B9%E7%90%86%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像（包含五条由白色间隙分隔的复古像素艺术游戏地图垂直条带），将其转换为单个无缝方形瓦片。移除所有白色分隔线，并水平延伸地形特征（绿色森林、蓝色水域、橙色道路和灰色城堡结构）以填充条带之间的空白区域。确保每个条带的边缘与相邻条带自然融合，从而创建连续、统一的景观纹理，无可见接缝或缺失数据。
+
+[English]
+Using the provided reference image, which contains five vertical strips of a retro pixel-art game map separated by white gaps, transform it into a single seamless square tile. Remove all white separator lines and extend the terrain features (green forests, blue water bodies, orange roads, and grey castle structures) horizontally to fill the empty space between the strips. Ensure that the edges of each strip blend naturally into the adjacent ones to create a continuous, unified landscape texture without visible seams or missing data.
+```
+
+**来源：** [@のいす@ship⑤](https://x.com/noiskia/status/2104532095381168194) | 2026-09-28
+
+---
+

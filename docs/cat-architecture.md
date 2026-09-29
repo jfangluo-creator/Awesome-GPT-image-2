@@ -5809,3 +5809,79 @@ Create a photorealistic full-body portrait of a young South Asian woman standing
 
 ---
 
+### 🏛️ 例 8081：GPT Image 2 奢华建筑人像提示词
+
+![GPT Image 2 奢华建筑人像提示词](../images/GPT%20Image%202%20%E5%A5%A2%E5%8D%8E%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度逼真的全身时尚人像，画面中一位年轻女子优雅地坐在一座阳光充足的现代豪华建筑内宽阔的大理石台阶上。她留着长直深棕色头发，配有柔和的刘海，五官自然，表情温柔，皮肤质感真实。
+她身穿一件铁锈橙色的工装夹克，随意披在肩上，内搭奶油色罗纹针织毛衣和深海军蓝纽扣马甲，下身穿着高腰宽腿海军蓝长裤，脚踩一双优雅的尖头铁锈橙色高跟鞋。一个同色系的挺括手提包放在她身旁。
+她自然地坐着，一只手托着脸颊，另一只手放松地放在身侧，呈现出轻松的杂志大片姿态。背景中的落地大窗透出柔和虚化的城市景观和远处的山脉。温暖的金色阳光透过窗户洒入，在大理石建筑上形成美丽的自然高光和柔和阴影。
+照片级写实时尚摄影，奢华杂志美学，自然皮肤纹理，逼真的面料细节，柔和温暖的阳光，浅景深，电影感构图，高细节，真实比例，微妙的胶片颗粒感，9:16 竖版构图，无文字，无水印，无 CGI 或人工痕迹
+
+[English]
+Create a highly realistic full-body fashion portrait of a young woman sitting elegantly on wide marble stairs inside a luxurious, sunlit modern building. She has long, straight dark-brown hair with soft bangs, natural facial features, a gentle expression, and realistic skin texture.
+She is wearing a rust-orange utility jacket draped over her shoulders, a cream ribbed knit sweater, a dark navy buttoned vest, high-waisted wide-leg navy trousers, and elegant rust-orange pointed-toe high heels. A matching structured rust-orange handbag rests beside her.
+She sits naturally with one hand supporting her face and the other resting beside her, relaxed editorial pose. Large floor-to-ceiling windows in the background reveal a softly blurred city and distant mountains. Warm golden sunlight streams through the windows, creating beautiful natural highlights and soft shadows across the marble architecture.
+Photorealistic fashion photography, luxury editorial aesthetic, natural skin texture, realistic fabric details, soft warm sunlight, shallow depth of field, cinematic composition, high detail, realistic proportions, subtle film grain, 9:16 vertical composition, no text, no watermark, no CGI or artificial
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2104426415752126600) | 2026-09-28
+
+---
+
+### 🏛️ 例 8082：带配料表的写实风备餐罐
+
+![带配料表的写实风备餐罐](../images/%E5%B8%A6%E9%85%8D%E6%96%99%E8%A1%A8%E7%9A%84%E5%86%99%E5%AE%9E%E9%A3%8E%E5%A4%87%E9%A4%90%E7%BD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个写实的生活方式美食摄影场景，展示四个透明玻璃备餐罐整齐摆放在干净的浅色厨房台面上。每个罐子都配有天然竹木盖和白色密封圈。
+
+罐内装有精美分层的 {argument name="dish type" default="墨西哥风味鸡肉沙拉"}，从底部到顶部清晰分隔出色彩丰富的层次：切丁黄瓜、樱桃番茄、红洋葱、红甜椒、甜玉米、黑豆、碎 Cotija 奶酪、新鲜切碎的生菜叶（Romaine）以及撕碎的熟鸡肉。保持每种食材新鲜、鲜艳、脆嫩，并通过透明玻璃清晰可见。
+
+将两个罐子放在前景，另外两个稍微靠后放置，以营造景深和构图感。背景为温暖的现代厨房，带有微妙的木质橱柜，柔和的自然日光从窗户射入，浅景深，玻璃上呈现逼真的反射，柔和阴影，高端美食摄影，自然色彩，高细节，逼真纹理，4K，编辑级备餐美学。
+
+在右侧，包含一份整洁的手写风格配料表，内容为：
+“Shredded Chicken
+Romaine
+Cojita
+Black beans
+Corn
+Red pepper
+Red onion
+Cherry tomatoes
+Cucumber”
+
+垂直构图，比例真实，摆盘干净诱人，专业商业美食摄影。
+
+[English]
+Create a photorealistic lifestyle food photography scene featuring four clear glass meal-prep jars arranged on a clean light-colored kitchen countertop. Each jar has a natural bamboo wooden lid with a white sealing ring.
+
+The jars contain beautifully layered Mexican-inspired chicken salads, with clearly separated colorful layers from bottom to top: diced cucumber, cherry tomatoes, red onion, red bell pepper, sweet corn, black beans, crumbled Cotija cheese, fresh chopped romaine lettuce, and shredded cooked chicken. Keep every ingredient fresh, vibrant, crisp, and visibly distinct through the transparent glass.
+
+Place two jars in the foreground and two slightly behind them for depth and composition. Warm modern kitchen background with subtle wooden cabinets, soft natural daylight coming from a window, shallow depth of field, realistic reflections on the glass, soft shadows, premium food photography, natural colors, high detail, realistic textures, 4K, editorial meal-prep aesthetic.
+
+On the right side, include a neat handwritten-style ingredient list reading:
+“Shredded Chicken
+Romaine
+Cojita
+Black beans
+Corn
+Red pepper
+Red onion
+Cherry tomatoes
+Cucumber”
+
+Vertical composition, realistic proportions, clean and appetizing presentation, professional commercial food photography.
+```
+
+**来源：** [@Dua Fatima](https://x.com/DuaFatimaAi/status/2104377831581253709) | 2026-09-28
+
+---
+

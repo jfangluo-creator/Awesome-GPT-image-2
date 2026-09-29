@@ -72608,3 +72608,23 @@ A realistic outdoor selfie of a young woman with long, straight light-brown hair
 
 ---
 
+### 📷 例 8077：戴同款帽子的街头猫咪自拍
+
+![戴同款帽子的街头猫咪自拍](../images/%E6%88%B4%E5%90%8C%E6%AC%BE%E5%B8%BD%E5%AD%90%E7%9A%84%E8%A1%97%E5%A4%B4%E7%8C%AB%E5%92%AA%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的特写街头自拍，画面中是一位年轻女性，留着浅棕色长卷发，妆容柔和自然。她戴着一顶复古蓝色牛仔棒球帽，身穿舒适的蓝色图案毛衣。她坐在城市人行道的户外，直视镜头，神情平静，略带嘟嘴的表情。她怀里抱着一只可爱的姜黄色虎斑猫，猫也戴着一顶小蓝色棒球帽，营造出俏皮的搭配效果。猫面向镜头，表情放松，毛发细节清晰。
+她们身后是一座优雅的欧式建筑，有着奶油色石墙、装饰着鲜艳红色窗帘的高窗、红色遮阳篷，以及停在街边的一辆深色汽车。自然日光照明，随意的智能手机自拍美学，真实的皮肤和头发质感，详细的猫毛纹理，浅景深，略微广角视角，色彩鲜艳但自然，高分辨率摄影，垂直构图。
+
+[English]
+A realistic close-up street selfie of a young woman with long, wavy light-brown hair and soft natural makeup, wearing a vintage blue denim baseball cap and a cozy blue patterned sweater. She is sitting outdoors on a city sidewalk, looking directly into the camera with a calm, slightly pouty expression. She is holding a cute ginger tabby cat in her arms, and the cat is wearing a small blue baseball cap, creating a playful matching look. The cat faces the camera with a relaxed expression and detailed fur.
+Behind them is an elegant European-style building with cream stone walls, tall windows decorated with vivid red curtains, red awnings, and a parked dark car along the street. Natural daytime lighting, candid smartphone selfie aesthetic, realistic skin and hair texture, detailed cat fur, shallow depth of field, slightly wide-angle perspective, vibrant but natural colors, high-resolution photography, vertical composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2104556185101721610) | 2026-09-28
+
+---
+
