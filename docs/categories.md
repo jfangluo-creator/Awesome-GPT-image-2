@@ -9485,6 +9485,22 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8073：街头风嘟嘴自拍](cat-photo.md#-例-8073街头风嘟嘴自拍)
 
 - [例 8077：戴同款帽子的街头猫咪自拍](cat-photo.md#-例-8077戴同款帽子的街头猫咪自拍)
+
+- [例 8083：街头风格女性人像提示词](cat-photo.md#-例-8083街头风格女性人像提示词)
+
+- [例 8084：可爱专注桌面平铺与卡哇伊插画](cat-photo.md#-例-8084可爱专注桌面平铺与卡哇伊插画)
+
+- [例 8086：异色瞳动漫少女肖像](cat-photo.md#-例-8086异色瞳动漫少女肖像)
+
+- [例 8088：戴墨镜女性的影棚人像](cat-photo.md#-例-8088戴墨镜女性的影棚人像)
+
+- [例 8089：丝巾静谧人像](cat-photo.md#-例-8089丝巾静谧人像)
+
+- [例 8090：使用 GPT Image 2 生成逼真的街头人像](cat-photo.md#-例-8090使用-gpt-image-2-生成逼真的街头人像)
+
+- [例 8093：便利店电影感人像](cat-photo.md#-例-8093便利店电影感人像)
+
+- [例 8094：写实战机视觉转化](cat-photo.md#-例-8094写实战机视觉转化)
 ---
 
 <a id="illustration"></a>
@@ -11564,6 +11580,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8060：洗衣店等待场景提示词](cat-illustration.md#-例-8060洗衣店等待场景提示词)
 
 - [例 8079：GPT Image 2 Crowded Train Portrait](cat-illustration.md#-例-8079gpt-image-2-crowded-train-portrait)
+
+- [例 8085：巨型 MPD 机器人清理残骸](cat-illustration.md#-例-8085巨型-mpd-机器人清理残骸)
+
+- [例 8087：都市街头风格拼贴画](cat-illustration.md#-例-8087都市街头风格拼贴画)
+
+- [例 8092：购物车停车场生活方式](cat-illustration.md#-例-8092购物车停车场生活方式)
 ---
 
 <a id="character"></a>
@@ -12796,6 +12818,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 7881：舒适露营车与银河之夜](cat-3d.md#-例-7881舒适露营车与银河之夜)
 
 - [例 7942：GPT Image 2 剪纸插画提示词](cat-3d.md#-例-7942gpt-image-2-剪纸插画提示词)
+
+- [例 8095：温馨复古走廊舞蹈场景](cat-3d.md#-例-8095温馨复古走廊舞蹈场景)
 ---
 
 <a id="architecture"></a>
@@ -13290,6 +13314,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8081：GPT Image 2 奢华建筑人像提示词](cat-architecture.md#️-例-8081gpt-image-2-奢华建筑人像提示词)
 
 - [例 8082：带配料表的写实风备餐罐](cat-architecture.md#️-例-8082带配料表的写实风备餐罐)
+
+- [例 8096：GPT Image Perfume Bottle Prompt](cat-architecture.md#️-例-8096gpt-image-perfume-bottle-prompt)
 ---
 
 <a id="comic"></a>
@@ -15617,6 +15643,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 8067：日式餐厅柠檬沙瓦菜单](cat-brand.md#️-例-8067日式餐厅柠檬沙瓦菜单)
 
 - [例 8068：LEGO 人仔变身](cat-brand.md#️-例-8068lego-人仔变身)
+
+- [例 8091：超写实沙漠探险人像](cat-brand.md#️-例-8091超写实沙漠探险人像)
 ---
 
 <a id="edit"></a>

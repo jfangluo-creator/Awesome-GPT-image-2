@@ -21787,3 +21787,60 @@ A vertical two-panel meme image. The top panel features a digital illustration o
 
 ---
 
+### 🎨 例 8085：巨型 MPD 机器人清理残骸
+
+![巨型 MPD 机器人清理残骸](../images/%E5%B7%A8%E5%9E%8B%20MPD%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B8%85%E7%90%86%E6%AE%8B%E9%AA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅具有电影质感、照片级逼真的图像，展示了一个巨大的双足警用机器人矗立在黄昏时分湿滑的东京高速公路上。该机器人由厚重的黑色机械关节和白色装甲板构成，胸甲上清晰印有黑色的“警視庁”和“MPD”字样。其肩部装有红色警示灯，头部配备复杂的传感器阵列。机器人的左手正将一辆严重挤压变形、扭曲的黑色轿车从地面吊起。场景混乱但有序：前景左侧停着一辆闪烁着红光的日本警车，身穿深色制服和高能见度黄色背心（背心上标有“POLICE”）的警官们正挥舞着发光指挥棒疏导交通。橙色的交通锥排列在潮湿的沥青路面上，路面反射着城市的灯光。背景中，绿色的高速公路指示牌显示着“首都高”、“银座”、“东京站”和“滨松町”的方向。右侧可见一辆带有橙色吊臂的大型拖车。整体氛围阴郁而充满工业感，雨水打湿的表面与模糊的摩天大楼背景相映成趣。
+
+[English]
+A cinematic, photorealistic image of a colossal bipedal police robot standing on a wet Tokyo highway at dusk. The robot is constructed from heavy black mechanical joints and white armored plating, with "警視庁" and "MPD" clearly printed in black text on its chest plates. It has red emergency lights mounted on its shoulders and a complex sensor array head. In its left hand, the robot is lifting a heavily crushed, mangled black sedan off the ground. The scene is chaotic but organized: in the foreground, a Japanese police car with flashing red lights sits on the left, while officers wearing dark uniforms and high-visibility yellow vests labeled "POLICE" direct traffic with glowing batons. Orange traffic cones line the wet asphalt, which reflects the city lights. In the background, green overhead highway signs display directions for "Shutoko Expwy," "Ginza," "Tokyo Sta.," and "Hamamatsucho." A large tow truck with an orange crane arm is visible to the right. The atmosphere is moody and industrial, with rain-slicked surfaces and a backdrop of blurred skyscrapers.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2104925130921267642) | 2026-09-29
+
+---
+
+### 🎨 例 8087：都市街头风格拼贴画
+
+![都市街头风格拼贴画](../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张高分辨率的时尚拼贴画，主角是一位留着深棕色长发、戴着墨镜的年轻女性。她身穿一件超大号橄榄绿 T 恤，下摆塞进宽腿蓝色牛仔裤中，并佩戴多层银色项链、圈形耳环和一个棕色小皮革单肩包。造型的焦点是一条系在头上的大号橙色佩斯利丝绸围巾，呈俄罗斯头巾（babushka）样式，两端垂至背部；腰间还系着一条同款围巾作为腰带。图像分为三个部分：左侧是她自信地走在繁忙城市街道斑马线上的全身照；右上角是她调整墨镜的特写肖像；右下角是她走远的背影，展示了围巾的自然垂坠感。背景是模糊的城市建筑，带有包含日文字符的垂直招牌。
+
+[English]
+A high-resolution fashion collage featuring a young woman with long, dark brown hair and sunglasses. She is wearing an oversized olive green t-shirt tucked into wide-leg blue denim jeans, accessorized with layered silver necklaces, hoop earrings, and a small brown leather shoulder bag. The focal point of the outfit is a large orange paisley silk scarf tied around her head like a babushka, with the ends trailing down her back, and another matching scarf tied around her waist as a belt. The image is divided into three sections: on the left, a full-body shot of her walking confidently across a crosswalk in a busy city street; on the top right, a close-up portrait of her adjusting her sunglasses; and on the bottom right, a rear view of her walking away, showcasing the scarf's drape. The background features blurred urban architecture with vertical signage containing Japanese characters.
+```
+
+**来源：** [@Anika](https://x.com/Just_Anika_Here/status/2104900646357143702) | 2026-09-29
+
+---
+
+### 🎨 例 8092：购物车停车场生活方式
+
+![购物车停车场生活方式](../images/%E8%B4%AD%E7%89%A9%E8%BD%A6%E5%81%9C%E8%BD%A6%E5%9C%BA%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的生活方式照片，展示了一位年轻女性在现代停车场屋顶的大型金属购物车中放松。她留着长直黑发，戴着时尚的白色椭圆形太阳镜，穿着宽松浅灰色卫衣、白色短袜以及带白色条纹的淡粉色复古运动鞋。她舒适地坐着，双腿伸展在购物车内，营造出一种俏皮且无忧无虑的姿态。一个小巧的奶油色绗缝肩包挂在购物车侧面，身后放着一个纸箱。
+
+屋顶停车区宽敞且大部分为空，地面上有清晰标记的停车位，墙边设有电动汽车充电站。远处是现代化的高层住宅楼、电线和输电塔，背景是晴朗的蓝天。温暖的午后阳光在沥青路面上投下长长的阴影，营造出柔和的金色光晕。抓拍街头时尚摄影风格，真实的皮肤和头发纹理，自然的比例，细节丰富的服装和金属购物车，电影般的景深效果，高分辨率智能手机照片，略微广角视角，垂直 4:5 构图。
+
+[English]
+A photorealistic lifestyle photo of a young woman relaxing inside a large metal shopping cart on the rooftop of a modern parking garage. She has long, straight dark hair and wears sleek white oval sunglasses, an oversized light-gray sweatshirt, white ankle socks, and pastel pink retro sneakers with white stripes. She sits comfortably with her legs stretched across the cart, creating a playful and carefree pose. A small cream-colored quilted shoulder bag hangs from the side of the cart, with a cardboard box placed behind her.
+The rooftop parking area is spacious and mostly empty, with clearly marked parking spaces and EV charging stations along the wall. In the distance are modern high-rise residential buildings, power lines, and transmission towers beneath a clear blue sky. Warm late-afternoon sunlight casts long shadows across the asphalt and creates a soft golden glow. Candid street-fashion photography, realistic skin and hair texture, natural proportions, detailed clothing and metal cart, cinematic depth of field, high-resolution smartphone photo, slightly wide-angle perspective, vertical 4:5 composition.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2104752021467508887) | 2026-09-29
+
+---
+

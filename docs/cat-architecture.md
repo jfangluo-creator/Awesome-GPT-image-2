@@ -5885,3 +5885,17 @@ Vertical composition, realistic proportions, clean and appetizing presentation, 
 
 ---
 
+### 🏛️ 例 8096：GPT Image Perfume Bottle Prompt
+
+![GPT Image Perfume Bottle Prompt](../images/GPT%20Image%20Perfume%20Bottle%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+巨型圆润的淡绿色透明玻璃香水瓶，内部封存一座微缩苔藓山谷、盆景古树、岩石与细小瀑布。置于被水覆盖的粗野主义清水混凝土空间，左上方冷色天光穿过建筑开口，右后方夕阳形成暖色轮廓光；玻璃产生真实折射、焦散、微小水滴与高光畸变，水面形成自然倒影。低机位产品摄影，主体偏右构图，大面积负空间，真实光学景深，高端香氛广告质感，无文字、无 Logo、无塑料 CGI 感。
+```
+
+**来源：** [@Dry Seven](https://x.com/plex233/status/2104727282690748464) | 2026-09-29
+
+---
+

@@ -21896,3 +21896,25 @@ Sta
 
 ---
 
+### 🏷️ 例 8091：超写实沙漠探险人像
+
+![超写实沙漠探险人像](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%B2%99%E6%BC%A0%E6%8E%A2%E9%99%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的全身低角度户外探险人像，基于参考图像中的同一位年轻成年女性角色，保留她鲜艳的紫罗兰色齐下巴波波头、整齐的刘海、白皙如瓷的皮肤、鼻子和脸颊上自然的雀斑、淡褐色/浅棕色眼睛、精致的面部特征、光泽的嘴唇以及苗条的身材。
+她正弯腰穿过有质感的沙丘，一只手伸向沙子，头部向下看。她身穿一件米色和橄榄绿色的技术型户外夹克，内搭中性色上衣，下身穿着米色高腰户外短裤，脚穿棕褐色与橄榄绿相间的高筒登山靴并搭配袜子，头戴棕色针织帽，胸前佩戴黑色安全带背带，并挂有一个小型登山扣。
+背景是美丽的沙漠沙丘，具有详细的波纹纹理，远处有绿树，天空晴朗。使用温暖的自然日光，柔和的阴影，营造电影般的户外探险氛围。强调逼真的沙子纹理、织物细节、登山靴、发丝、自然皮肤和雀斑、电影级景深、照片级真实感、超高清 8K 细节、高端户外编辑摄影风格。
+
+[English]
+Create a hyper-realistic full-body low-angle outdoor adventure portrait of the same young adult female character from the reference image, preserving her vivid violet-purple chin-length bob with straight bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown eyes, delicate facial features, glossy lips, and slim physique.
+She is walking across a textured sand dune while bending forward, one hand reaching down toward the sand and her head looking downward. She wears a beige and olive-green technical outdoor jacket over a neutral inner top, beige high-waisted outdoor shorts, tall tan-and-olive hiking boots with socks, a brown fabric beanie, black chest harness straps, and a small carabiner clip.
+The background features beautiful desert sand dunes with detailed ripples, distant green trees, and a clear sky. Use warm natural daylight with soft shadows and a cinematic outdoor adventure atmosphere. Emphasize realistic sand texture, fabric details, hiking boots, individual hair strands, natural skin and freckles, cinematic depth of field, photorealistic quality, ultra-detailed 8K, premium outdoor editorial photography.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2104791394262876527) | 2026-09-29
+
+---
+
