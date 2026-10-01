@@ -35322,3 +35322,53 @@ A split composition. The left side is a Van Gogh-style oil painting of an emacia
 
 ---
 
+### 🎴 例 8102：高端海报分割构图
+
+![高端海报分割构图](../images/%E9%AB%98%E7%AB%AF%E6%B5%B7%E6%8A%A5%E5%88%86%E5%89%B2%E6%9E%84%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请为每张上传的照片分别设计独立的高端海报。不要将多张照片合并为一个构图；每张照片输出一张单独的海报。使用垂直 3:4 构图，上下部分严格按 1:1 划分，各占总高度的 50%。
+
+上半部分：
+保留原始照片，维持主体的身份、结构、姿态、写实纹理、自然光照和原始色彩氛围。仅应用微妙且精致的调色处理，赋予其艺术杂志、独立出版物或展览图像的视觉质感。为了适应 3:4 格式，可以自然地延伸周围背景，但不得拉伸、扭曲或改变主体。
+
+下半部分：
+从照片中提取最具辨识度的主体、轮廓、结构、姿态和叙事关系，并以“世纪中期民间图形插画 + 示意图线条画 + 双色专色印刷”的风格进行重构。
+
+不要完全描摹或复制照片。相反，使用图解式抽象方法，将复杂对象压缩为少量清晰的几何形状、功能轮廓和基本结构元素。结果应类似于旧说明书、广告卡片、技术标签或民间印刷品中的插图：易于识别，但比写实物体本身更直接、幽默且具有象征意义。
+
+强调线条的经济性：如果可以用一条线解释结构，就不要使用多余的笔画。使用直接的黑色钢笔轮廓、矩形、圆形、菱形、直线和简单平面来描述物体。人物、动物和物体可以有略微夸张的比例，而机器、建筑和复杂结构则应简化为清晰的盒子、开口、面板和轮廓关系。
+
+使用扁平的示意图视角，而非写实光照或严格准确的空间深度。视觉语言应介于插画和技术图表之间，并在整个构图中保持这种独特特征。
+
+根据原图像中最重要的叙事关系重新组织构图。保持一个清晰的主要主体，同时使用少量辅助物体、引导线、方向关系或结构符号来强化故事。
+
+密切关注视觉层次、几何秩序、比例对比、正负空间以及有意的留白。图像可能略显天真、笨拙或以民间方式呈现手工感，但绝不能显得杂乱。每个视觉元素都应看似为了“解释正在发生的事情”而存在，而非仅仅作为装饰。
+
+[English]
+Please create a separate, independently designed premium poster from each uploaded photo. Do not combine multiple photos into one composition; output one individual poster for each photo. Use a vertical 3:4 composition, with the upper and lower sections strictly divided 1:1, each occupying exactly 50% of the total height.
+
+Upper Half:  
+Preserve the original photograph, maintaining the subject’s identity, structure, pose, realistic texture, natural lighting, and original color atmosphere. Apply only subtle, sophisticated color grading to give it the visual quality of an art magazine, independent publication, or exhibition image. To adapt the image to the 3:4 format, the surrounding background may be naturally extended, but do not stretch, distort, or alter the subject.
+
+Lower Half:  
+Extract the most recognizable subject, silhouette, structure, pose, and narrative relationship from the photograph and reconstruct it in the style of Mid-century vernacular graphic illustration + schematic line drawing + two-color spot printing.
+
+Do not completely trace or replicate the photograph. Instead, use diagrammatic abstraction to compress complex objects into a small number of clear geometric shapes, functional contours, and essential structural elements. The result should resemble an illustration from an old instruction manual, advertising card, technical label, or vernacular print: immediately recognizable, yet more direct, humorous, and symbolic than the realistic object itself.
+
+Emphasize economy of line: if a structure can be explained with a single line, do not use unnecessary strokes. Use direct black pen outlines, rectangles, circles, diamonds, straight lines, and simple planes to describe the objects. People, animals, and objects may have slightly exaggerated proportions, while machines, buildings, and complex structures should be simplified into clear boxes, openings, panels, and silhouette relationships.
+
+Use a flat, schematic diagrammatic perspective rather than realistic lighting or strictly accurate spatial depth. The visual language should exist somewhere between illustration and technical diagram, maintaining this distinctive character throughout the composition.
+
+Reorganize the composition according to the most important narrative relationship in the original image. Maintain one clear primary subject, while using a small number of supporting objects, guide lines, directional relationships, or structural symbols to reinforce the story.
+
+Pay close attention to visual hierarchy, geometric order, scale contrast, positive and negative space, and intentional whitespace. The image may feel slightly naïve, awkward, or handmade in a vernacular way, but it must never feel cluttered. Every visual element should appear to exist for the purpose of “explaining what is happening”, rather than simply serving as decoration.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2105177817688539320) | 2026-09-30
+
+---
+

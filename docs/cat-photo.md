@@ -72791,3 +72791,204 @@ Using the provided reference image, transform this hand-painted digital artwork 
 
 ---
 
+### 📷 例 8098：赛博朋克风格日本女性纹身肖像
+
+![赛博朋克风格日本女性纹身肖像](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E7%BA%B9%E8%BA%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以附件中的模特为原型，保留其原始面部特征与表情，生成一幅具有日本赛博朋克美学的电影级超精细肖像。她的脸颊上绘有小型线性纹身及书法字符，例如“{argument name="facial_markings" default="H19845"}”。她身着红色服饰，双手交叠托住下巴，露出布满精致 *irezumi*（传统日式刺青）风格纹身的手臂，图案包含花卉与文字元素；背后交叉放置两把武士刀的刀柄。画面采用明亮的自然光照明，面部焦点清晰，背景虚化呈现浅景深效果，整体为高质量超写实渲染风格。宽高比为 16:9。
+
+[English]
+Cinematic, ultra-detailed portrait of the attached model—preserving her original face and expression—featuring a Japanese cyberpunk aesthetic. Her face displays small linear tattoos and calligraphic characters, such as "{argument name="facial_markings" default="H19845"}," on her cheeks. She wears a red garment and rests her chin on her clasped hands, revealing arms fully covered in intricate *irezumi*-style tattoos (flowers and characters), while the hilts of two katanas cross behind her back. The image features bright natural lighting, sharp focus on the face, shallow depth of field with a blurred background, and a high-quality, hyper-realistic rendering style. 16:9 aspect ratio.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2105313720691765283) | 2026-09-30
+
+---
+
+### 📷 例 8099：绿幕上的动漫少女
+
+![绿幕上的动漫少女](../images/%E7%BB%BF%E5%B9%95%E4%B8%8A%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高分辨率的动漫风格肖像，描绘了一位可爱的女孩，她留着长而蓬松的白色双马尾发型。她有着大而富有表现力的红色眼睛，身穿一件黑红相间的哥特洛丽塔连衣裙，裙子上饰有精致的蕾丝细节、心形扣环和多条丝带。背景为纯色的色度键绿幕。
+
+[English]
+A high-resolution anime-style portrait of a cute girl with long, voluminous white hair styled in twin tails. She has large, expressive red eyes and is wearing a black and red gothic lolita dress featuring intricate lace details, heart-shaped buckles, and multiple ribbons. The background is a solid chroma key green screen.
+```
+
+**来源：** [@あいびぃ](https://x.com/ivy432hz/status/2105269408537235572) | 2026-09-30
+
+---
+
+### 📷 例 8100：GPT Image 2 旅行编辑海报提示词
+
+![GPT Image 2 旅行编辑海报提示词](../images/GPT%20Image%202%20%E6%97%85%E8%A1%8C%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受现代极简主义旅行日志启发的高端竖版旅行编辑海报，将电影感的目的地照片与精致的扁平插画相结合。
+
+上半部分 — 摄影：
+一张令人叹为观止的巴黎日落全景照片，从高处俯瞰。埃菲尔铁塔矗立在中心位置，周围环绕着密集的巴黎屋顶和历史悠久的城市建筑。天空中布满了柔和的桃色、腮红粉、灰橙色和温暖的薰衣草色云朵。黄金时刻的光线温柔地照亮城市，营造出浪漫的电影氛围。自然的摄影细节，真实的建筑，微妙的胶片颗粒感，温暖的模拟色调分级，精致旅行杂志摄影风格。
+
+下半部分 — 插画：
+在温暖的象牙白/奶油色纸张背景上，对同一巴黎场景进行极简手绘/扁平矢量诠释。特色包括简化的埃菲尔铁塔耸立在抽象的巴黎天际线之上，小树和建筑剪影，塔后一轮巨大的柔和桃色太阳，以及几朵纤细的风格化云朵。
+
+使用克制的调色板，包括温暖象牙白、可可棕、灰桃色、柔和赤陶色、浅米色和微妙的暖灰色。干净的几何形状，优雅的极简线条，柔和的纹理，轻微的纸张颗粒感，以及不完美的模拟印刷特征。
+
+排版：
+大号优雅的高级时尚编辑衬线字体写着：
+
+“Paris”
+
+在其下方，较小且字间距宽的大写文本：
+
+“SAME SKY”
+“DIFFERENT STORIES”
+
+保持排版精致、极简且具有编辑风格。使用大量的负空间。标题应醒目但不要压倒插画。
+
+构图：
+4:5 竖版海报，照片与插画部分之间有清晰的水平分割，视觉层次平衡，奢华旅行杂志美学，精致的欧洲编辑设计，永恒且怀旧。
+
+写实风格的顶部部分 + 极简风格的底部插画部分。无 3D 渲染，无卡通风格，无过度装饰，无杂乱，无水印。
+
+提示词 2
+创作一张高端竖版旅行编辑海报，将电影感的海岸照片与极简风格的旅行插画海报相结合。
+
+上半部分 — 摄影：
+黄金时刻的美丽海岸灯塔。一座高大的白色灯塔，带有深色灯室，矗立在一座有着温暖红色屋顶的经典海滨房屋旁。前景布满崎岖的深色岩石，强大的海浪拍打着海岸线。深蓝色的海水，清澈的蓝天，小朵柔软的云，温暖的阳光照亮灯塔和岩石。真实的海岸氛围，逼真的摄影，微妙的胶片颗粒感，自然的对比度，高端旅行杂志美学。
+
+下半部分 — 插画：
+在温暖的象牙色纸上，将同一灯塔场景重新诠释为精致的极简扁平插画。展示灯塔、红顶海滨房屋、岩石海岸线、风格化的海浪、远处的地平线、一个小太阳，以及两到三只简单飞翔的海鸟。
+
+使用
+
+[English]
+Create a premium vertical travel editorial poster inspired by modern minimalist travel journals, combining a cinematic destination photograph with a refined flat illustration.
+
+TOP HALF — PHOTOGRAPH:
+A breathtaking panoramic photograph of Paris at sunset, viewed from an elevated viewpoint. The Eiffel Tower stands prominently in the center, surrounded by dense Parisian rooftops and historic city architecture. The sky is filled with soft peach, blush pink, dusty orange, and warm lavender clouds. Golden-hour light gently illuminates the city, creating a romantic cinematic atmosphere. Natural photographic detail, realistic architecture, subtle film grain, warm analog color grading, sophisticated travel-magazine photography.
+
+BOTTOM HALF — ILLUSTRATION:
+On a warm ivory/cream paper background, create a minimalist hand-drawn/flat vector interpretation of the same Paris scene. Feature a simplified Eiffel Tower rising above an abstract Paris skyline, small trees and architectural silhouettes, a large muted peach sun behind the tower, and a few thin stylized clouds.
+
+Use a restrained palette of warm ivory, cocoa brown, dusty peach, muted terracotta, soft beige, and subtle warm gray. Clean geometric shapes, elegant minimal linework, gentle texture, slight paper grain, and imperfect analog-print character.
+
+TYPOGRAPHY:
+Large elegant high-fashion editorial serif typography reading:
+
+“Paris”
+
+Below it, smaller widely spaced uppercase text:
+
+“SAME SKY”
+“DIFFERENT STORIES”
+
+Keep the typography sophisticated, minimal, and editorial. Use generous negative space. The title should be large but not overpower the illustration.
+
+COMPOSITION:
+Vertical 4:5 poster, clean horizontal division between photograph and illustrated section, balanced visual hierarchy, luxury travel magazine aesthetic, sophisticated European editorial design, timeless and nostalgic.
+
+Photorealistic top section + minimalist illustrated bottom section. No 3D rendering, no cartoonish style, no excessive decoration, no clutter, no watermark.
+
+Prompt 2
+Create a premium vertical travel editorial poster combining a cinematic coastal photograph with a minimalist illustrated travel poster.
+
+TOP HALF — PHOTOGRAPH:
+A beautiful coastal lighthouse at golden hour. A tall white lighthouse with a dark lantern room stands beside a classic coastal house with a warm red roof. Rugged dark rocks fill the foreground while powerful ocean waves crash against the shoreline. Deep blue water, clear blue sky, small soft clouds, warm sunlight illuminating the lighthouse and rocks. Authentic coastal atmosphere, realistic photography, subtle film grain, natural contrast, premium travel-magazine aesthetic.
+
+BOTTOM HALF — ILLUSTRATION:
+Reinterpret the same lighthouse scene as a sophisticated minimalist flat illustration on warm ivory paper. Show the lighthouse, red-roofed coastal house, rocky shoreline, stylized ocean waves, distant horizon, a small sun, and two or three simple flying birds.
+
+Use
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2105219293294256598) | 2026-09-30
+
+---
+
+### 📷 例 8103：碎镜肖像时尚大片
+
+![碎镜肖像时尚大片](../images/%E7%A2%8E%E9%95%9C%E8%82%96%E5%83%8F%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的电影感高级时尚编辑照片，主角是一位二十岁出头、极具魅力的英俊年轻男子。他拥有浓密自然的黑色波浪卷发、深邃的眉毛、深棕色眼睛、轮廓分明的雕塑般下颌线、淡淡的自然胡茬，以及带有可见毛孔的真实皮肤质感。
+
+概念：他的脸通过几块巨大且不规则破碎的镜片碎片呈现，每一块碎片都反射出他面部略微不同的角度——一块展示他锐利的眼神，另一块捕捉他锋利的侧脸轮廓，还有一块显露他的下颌线和嘴唇，而中央碎片则显示他直视镜头的面容。破碎的镜片营造出一种神秘的艺术构图，具有锐利的几何边缘和逼真的反射效果。
+
+表情与姿态：平静、神秘且情感强烈的表情，透过镜片碎片向镜头投射出深邃迷人的目光，头部微微倾斜，流露出一种内省和隐藏身份的感觉。
+
+服装：优雅的高领黑衬衫搭配剪裁合体的黑色西装外套，极简奢华风格，精致且永恒。
+
+灯光：戏剧性的低调电影照明，深沉的阴影，镜片边缘带有微妙的冷蓝色高光，柔和的光线照亮他的眼睛和面部特征，破碎玻璃上呈现出逼真的反射和精致的镜面高光。
+
+背景：深色极简室内环境，炭黑色背景，微妙的大气雾霭，隐约的反射和精致的黑色电影美学。
+
+摄影：极度关注面部细节，照片级真实皮肤纹理，自然的面部比例，85mm 人像镜头，浅景深，电影色彩分级，高对比度，超详细 8K HDR，奢侈时尚杂志编辑风格，杰作般的构图。
+
+氛围：神秘、内省、黑暗、优雅、心理引人入胜且具有电影感。
+
+垂直 9:16 构图，特写肖像，面部占据中心区域，镜片碎片艺术性地排列在面部周围，逼真的玻璃反射，每个反射中面部特征完美连贯，专业编辑摄影。
+
+无文字，无排版，无水印，无多余人脸，无扭曲的面部特征，无人工感的皮肤，无卡通效果。
+
+[English]
+Ultra-realistic cinematic high-fashion editorial photograph of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a sharply defined sculpted jawline, subtle natural stubble, and realistic skin texture with visible pores.
+
+Concept: His face is seen through several large, irregularly broken mirror fragments, each piece reflecting a slightly different angle of his face — one showing his intense eyes, another capturing his sharp side profile, another revealing his jawline and lips, and the central fragment showing his face staring directly into the camera. The fractured mirror pieces create a mysterious, artistic composition, with sharp geometric edges and realistic reflections.
+
+Expression & Pose: Calm, mysterious and emotionally intense expression, deep captivating gaze directed toward the camera through the mirror fragments, head slightly tilted, with a subtle sense of introspection and hidden identity.
+
+Outfit: Elegant black high-neck shirt beneath a tailored black blazer, minimal luxury styling, sophisticated and timeless.
+
+Lighting: Dramatic low-key cinematic lighting, deep shadows, subtle cool blue highlights along the mirror edges, soft light illuminating his eyes and facial features, realistic reflections and delicate specular highlights on the broken glass.
+
+Background: Dark minimalist interior with a charcoal-black background, subtle atmospheric haze, faint reflections and a sophisticated noir aesthetic.
+
+Photography: Extreme attention to facial details, photorealistic skin texture, natural facial proportions, 85mm portrait lens, shallow depth of field, cinematic color grading, high contrast, ultra-detailed 8K HDR, luxury fashion magazine editorial, masterpiece composition.
+
+Mood: Mysterious, introspective, dark, elegant, psychologically intriguing and cinematic.
+
+Vertical 9:16 composition, close-up portrait, face occupying the central area, mirror fragments artistically arranged around the face, realistic glass reflections, perfectly coherent facial features within each reflection, professional editorial photography.
+
+No text, no typography, no watermark, no extra faces, no distorted facial features, no artificial-looking skin, no cartoon effects.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2105173643294802060) | 2026-09-30
+
+---
+
+### 📷 例 8104：奢华旅行时尚人像提示词
+
+![奢华旅行时尚人像提示词](../images/%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度逼真的奢华旅行时尚人像，画面中一位优雅的年轻女性站在一架流线型私人飞机旁的私人机场停机坪上。她留着浓密飘逸的深棕色长卷发，发丝在微风中自然舞动，佩戴着时尚的飞行员墨镜、鲜艳的红色唇膏和精致的自然妆容。她身穿一件剪裁合体的深青色连体裤，肩上披着一件同色系的定制长款大衣，手腕上戴着银色奢华腕表，耳畔点缀着优雅耳环。
+
+她自信地站在飞机舷梯旁，手握一款高档棕色设计师款拉杆箱的把手。背景是明亮清澈的蓝天，隐约可见私人飞机、现代机场机库以及远处的车辆。强烈的自然日光营造出真实的阴影效果，整体呈现出高端商务旅行的氛围。采用奢华时尚杂志摄影风格，皮肤纹理逼真，发丝细节自然，面料质感真实，具有电影般的景深效果，焦点清晰，4K 分辨率，顶级杂志摄影品质，垂直 4:5 构图。
+
+[English]
+Create a highly realistic luxury travel fashion portrait of an elegant young woman standing on a private airport tarmac beside a sleek private jet. She has long, voluminous wavy dark-brown hair flowing naturally in the breeze, stylish aviator sunglasses, bold red lipstick, and refined natural makeup. She is wearing a sophisticated deep teal fitted jumpsuit with a matching long tailored coat draped over her shoulders, a silver luxury wristwatch, and elegant earrings.
+She is holding the handle of a premium brown designer-style rolling suitcase, standing confidently beside the aircraft stairs. Bright clear blue sky, private jet visible in the background, modern airport hangar and subtle vehicles in the distance. Strong natural daylight, realistic shadows, high-end executive-travel atmosphere, luxury fashion editorial photography, photorealistic skin texture, natural hair strands, realistic fabric details, cinematic depth of field, sharp focus, 4K, premium magazine photography, vertical 4:5 composition.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2105159550802268607) | 2026-09-30
+
+---
+

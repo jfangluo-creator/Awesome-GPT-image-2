@@ -21918,3 +21918,39 @@ The background features beautiful desert sand dunes with detailed ripples, dista
 
 ---
 
+### 🏷️ 例 8097：编辑时尚人像提示词（库尔曼吉语）
+
+![编辑时尚人像提示词（库尔曼吉语）](../images/%E7%BC%96%E8%BE%91%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%88%E5%BA%93%E5%B0%94%E6%9B%BC%E5%90%89%E8%AF%AD%EF%BC%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张低角度拍摄的编辑时尚人像，主角是一位拥有如瓷器般通透肌肤的年轻女性。她身穿一件鲜艳的深红色夏季连衣裙，面料轻盈且纹理清晰可见。她佩戴着半透明的樱桃红猫眼太阳镜，镜片带有渐变色调。她的浅棕色头发整齐地挽成低发髻，光滑整洁，几缕碎发自然垂落。她的嘴唇呈现柔和的玫瑰红渐变妆效，妆容干净简约，耳畔点缀着一枚精致的小耳钉。背景：纯净、略微过曝的浅灰色天空。光线：高调影棚布光。面部与材质细节对焦锐利。85mm 镜头。电影感时尚编辑风格。超高清细节。
+
+[English]
+Portreyeke fashion edîtoryal (editorial fashion portrait) ji goşeyeke nizm (low-angle), ya jineke ciwan bi çermê spî û zelal wek porselen (porcelain skin). Ew fîstanekî havînê yê sorê geş û zindî (vibrant crimson red summer dress) li xwe kiriye, bi qumaşê sivik û tekstûra xuya (visible fabric texture). Li çavên wê berçavkên tavê yên cat-eye (cat-eye sunglasses) hene, şefaf û bi rengê sorê gêlasê (translucent cherry-red), bi camên gradient-tinted (gradient tinted lenses). Porê wê yê qehweyî yê vekirî (light brown hair) bi awayekî paqij, şûştî û nerm (neat, sleek) di topikeke nizm (low bun) de girêdayî ye, bi çend tayên serbest ên ku ji topikê derketine (a few loose strands). Lêvên wê bi gradienta sorê gulê ya nerm (soft rose-red gradient lips) in, makyaja wê paqij û mînîmalîst e (clean minimalist makeup), û guhareke biçûk, nazik û stud (delicate small stud earring) li guhê wê ye. Paşxane: asîmanê grîya zelal, paqij û zêde ronîkirî (clean, overblown pale gray sky background). Ronahî: ronahiya stûdyoyê ya high-key (high-key studio lighting). Fokusa tûj li ser rû û tekstûran (sharp focus on face and textures). Lensa 85mm (85mm lens). Şêwaza sînematîk a fashion edîtoryalê (cinematic fashion editorial style). Ultra-detay (ultra-detailed).
+```
+
+**来源：** [@FeyruzX](https://x.com/feyruz_xan/status/2105413808961282360) | 2026-09-30
+
+---
+
+### 🏷️ 例 8101：赛博日本天王与浮空要塞
+
+![赛博日本天王与浮空要塞](../images/%E8%B5%9B%E5%8D%9A%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%8E%8B%E4%B8%8E%E6%B5%AE%E7%A9%BA%E8%A6%81%E5%A1%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅宏伟且细节丰富的数字插画，描绘了一位男性神祇或古代国王以四分之三侧身姿态站立。他留着飘逸的黑色长发，发梢带有红色高光，身穿一件精致繁复的多层传统日本宫廷礼服（束带装），将古老美学与未来科技完美融合。黑色丝绸上饰有复杂的金色图案，但织物中交织着发光的霓虹蓝色电路、全息数据流和半透明几何面板。他的头部后方佩戴着一个类似光环的金色冠冕结构。神情平静而威严。背景展现了一座依山崖而建、垂直耸立的巨型要塞城市，融合了古代日本城堡与赛博朋克摩天大楼的特征。巨大的瀑布从城市两侧倾泻而下。天空中悬挂着一轮巨大而不祥的血红色月亮，周围环绕着漩涡状云层和漂浮的鸟居。红色花瓣在空中飘散。光影效果极具戏剧性，温暖的月光与灯笼红光同角色数字装甲发出的冷青色光芒形成鲜明对比。
+
+[English]
+A majestic, hyper-detailed digital illustration of a male deity or ancient king standing in a three-quarter view. He has long, flowing black hair with red highlights and wears an elaborate, multi-layered traditional Japanese court robe (sokutai) that fuses ancient aesthetics with futuristic technology. The garment features intricate gold patterns on black silk, but the fabric is interwoven with glowing neon blue circuitry, holographic data streams, and translucent geometric panels. He wears a golden halo-like crown structure behind his head. His expression is calm and regal. The background depicts a colossal, vertical fortress-city built into a mountain cliff, resembling an ancient Japanese castle mixed with cyberpunk skyscrapers. Massive waterfalls cascade down the sides of the city. A giant, ominous blood-red moon dominates the sky, surrounded by swirling clouds and floating torii gates. Red petals drift through the air. The lighting is dramatic, contrasting the warm red glow of the moon and lanterns with the cool cyan light of the character's digital armor.
+```
+
+**来源：** [@HIROMI🌸](https://x.com/hiromi_sound/status/2105216310632460765) | 2026-09-30
+
+---
+

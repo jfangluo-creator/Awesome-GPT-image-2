@@ -1451,7 +1451,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1069)
+## 🎴 [Posters & Cards](cat-poster.md) (1070)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3553,11 +3553,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8074: 新年蜕变海报](cat-poster.md#-例-8074新年蜕变海报)
 
 - [Case 8076: 梵高风格鱼头汤诗歌](cat-poster.md#-例-8076梵高风格鱼头汤诗歌)
+
+- [Case 8102: 高端海报分割构图](cat-poster.md#-例-8102高端海报分割构图)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3005)
+## 📷 [Photography & Realistic](cat-photo.md) (3010)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9501,6 +9503,16 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8093: 便利店电影感人像](cat-photo.md#-例-8093便利店电影感人像)
 
 - [Case 8094: 写实战机视觉转化](cat-photo.md#-例-8094写实战机视觉转化)
+
+- [Case 8098: 赛博朋克风格日本女性纹身肖像](cat-photo.md#-例-8098赛博朋克风格日本女性纹身肖像)
+
+- [Case 8099: 绿幕上的动漫少女](cat-photo.md#-例-8099绿幕上的动漫少女)
+
+- [Case 8100: GPT Image 2 旅行编辑海报提示词](cat-photo.md#-例-8100gpt-image-2-旅行编辑海报提示词)
+
+- [Case 8103: 碎镜肖像时尚大片](cat-photo.md#-例-8103碎镜肖像时尚大片)
+
+- [Case 8104: 奢华旅行时尚人像提示词](cat-photo.md#-例-8104奢华旅行时尚人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -12821,7 +12833,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (250)
+## 🏛️ [Architecture & Space](cat-architecture.md) (251)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13313,6 +13325,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8082: 带配料表的写实风备餐罐](cat-architecture.md#️-例-8082带配料表的写实风备餐罐)
 
 - [Case 8096: GPT Image Perfume Bottle Prompt](cat-architecture.md#️-例-8096gpt-image-perfume-bottle-prompt)
+
+- [Case 8105: 雪中街头阅读的女子](cat-architecture.md#️-例-8105雪中街头阅读的女子)
 ---
 
 <a id="comic"></a>
@@ -13871,7 +13885,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (888)
+## 🏷️ [Brand & Packaging](cat-brand.md) (890)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15642,6 +15656,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8068: LEGO 人仔变身](cat-brand.md#️-例-8068lego-人仔变身)
 
 - [Case 8091: 超写实沙漠探险人像](cat-brand.md#️-例-8091超写实沙漠探险人像)
+
+- [Case 8097: 编辑时尚人像提示词（库尔曼吉语）](cat-brand.md#️-例-8097编辑时尚人像提示词库尔曼吉语)
+
+- [Case 8101: 赛博日本天王与浮空要塞](cat-brand.md#️-例-8101赛博日本天王与浮空要塞)
 ---
 
 <a id="edit"></a>

@@ -5899,3 +5899,21 @@ Vertical composition, realistic proportions, clean and appetizing presentation, 
 
 ---
 
+### 🏛️ 例 8105：雪中街头阅读的女子
+
+![雪中街头阅读的女子](../images/%E9%9B%AA%E4%B8%AD%E8%A1%97%E5%A4%B4%E9%98%85%E8%AF%BB%E7%9A%84%E5%A5%B3%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张竖构图肖像，展示了一位留着深色长发和柔和刘海的年轻女子，站在黄昏时分的欧洲雪街中。她身穿一件厚实的米色羊毛大衣，脖子上围着一条同色系的粗针织围巾。她双手将一本陈旧的棕色皮革精装书抱在胸前。她的头微微上扬，神情宁静地凝视远方，呼出的气息在冷空气中形成可见的白色雾气。雪花纷纷扬扬地落下，点缀在她的头发和肩膀上。在她左侧，一盏复古煤气路灯散发着温暖的黄色光芒。背景是模糊的鹅卵石街道和历史建筑，窗户透出灯光，天空呈现出紫色与蓝色的暮光色调。
+
+[English]
+Create a vertical digital illustration in a semi-realistic anime style depicting a young woman standing on a snowy cobblestone street during twilight. The subject has long, dark hair with bangs, dusted with white snowflakes, and fair skin with soft pink blush on her cheeks and nose. She is looking upward to the right with a gentle, wistful expression, exhaling a visible puff of white breath into the cold air. She wears a thick, textured beige wool coat and a matching chunky scarf wrapped around her neck. In her arms, she clutches a vintage brown leather-bound book with gold detailing on the cover. To the left, a classic black iron street lamp glows with a warm yellow light. The background features blurred European-style brick buildings with snow-covered roofs and distant church spires against a sky transitioning from deep blue to purple and orange. Falling snowflakes are scattered throughout the scene.
+```
+
+**来源：** [@空想AI](https://x.com/kuusouAI/status/2105150593937584407) | 2026-09-30
+
+---
+
