@@ -72992,3 +72992,129 @@ She is holding the handle of a premium brown designer-style rolling suitcase, st
 
 ---
 
+### 📷 例 8108：夜间救援中的巨型警用机器人
+
+![夜间救援中的巨型警用机器人](../images/%E5%A4%9C%E9%97%B4%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%9E%8B%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅电影级、照片级逼真的夜景画面，展示了一台巨大的双足警用机器人矗立在暴雨中泥泞的灾害响应区中央。这台巨型机器人呈黑白配色，带有工业面板设计，肩部和头部配有红色应急灯，胸部和手臂上标有“警视厅 MPD”（Metropolitan Police Department）字样。其头部由水平排列的多个摄像头镜头组成。机器人脚边围绕着众多急救人员：身穿深色制服、背部印有“MPD”字样的警察，身着橙色装备的消防员，以及穿着带有日文文字蓝色背心的医护人员。左侧是一辆移动指挥车，屏幕上显示着数据地图。背景中，一堆大型废墟或碎片被泛光灯照亮，土堆顶部可见挖掘机。几架无人机悬停在天空中，将明亮的聚光灯投射到湿滑的地面上。氛围紧张且充满高科技感，潮湿的路面反射出光芒，雨丝在漆黑的夜空中清晰可见。
+
+[English]
+A cinematic, photorealistic night scene depicting a massive bipedal police robot standing in the center of a muddy disaster response zone during heavy rain. The giant robot is white and black with industrial paneling, featuring red emergency lights on its shoulders and head, and markings that read "警視庁 MPD" (Metropolitan Police Department) on its chest and arms. Its head consists of multiple camera lenses arranged horizontally. Surrounding the robot's feet are numerous first responders: police officers in dark uniforms with "MPD" on their backs, firefighters in orange gear, and paramedics in blue vests with Japanese text. To the left is a mobile command unit truck displaying screens with data maps. In the background, there is a large pile of rubble or debris illuminated by floodlights, with excavators visible atop the mound. Several drones hover in the sky, casting bright spotlights down onto the wet ground. The atmosphere is tense and high-tech, with reflections on the wet pavement and rain streaks visible against the dark sky.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2105639047188369796) | 2026-10-01
+
+---
+
+### 📷 例 8110：南亚女性木桥肖像
+
+![南亚女性木桥肖像](../images/%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7%E6%9C%A8%E6%A1%A5%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的年轻南亚女性优雅地站在郁郁葱葱的森林中一座质朴的木桥上，沐浴在温暖的金色阳光中。她身穿一件长款优雅的米白色/象牙色保守长裙，配有宽大的喇叭袖，袖口边缘饰有精致的深棕色花卉刺绣和深棕色袖边。一条飘逸的深巧克力棕色头巾/围巾自然地披在她的头部、颈部并垂至胸前。她肩上挎着一个小的奶油色单肩包。妆容自然柔和，涂着淡淡的红色口红，表情温和愉悦，目光略微看向一侧。全身构图，一只手搭在木质栏杆上，另一只手自然垂在身侧。背景中有高大的树木、茂密的绿色枝叶、岩石、木质栏杆以及一条宁静的林间小径。温暖的阳光透过树叶洒下，皮肤纹理逼真，布料褶皱自然，写实时尚摄影风格，电影级景深，柔和散景，细节丰富，比例真实，竖版肖像，9:16。
+
+[English]
+A beautiful young South Asian woman standing gracefully on a rustic wooden bridge in a lush green forest during warm golden-hour daylight. She is wearing a long elegant off-white/ivory modest maxi dress with wide bell sleeves, featuring intricate dark brown floral embroidery along the sleeve borders and dark brown cuffs. A flowing dark chocolate-brown hijab/scarf is draped naturally around her head, neck, and down the front. She carries a small cream-colored shoulder bag. Natural soft makeup, subtle red lipstick, gentle pleasant expression, looking slightly to the side. Full-body composition, one hand resting on the wooden railing and the other relaxed by her side. Tall trees, dense green foliage, rocks, wooden railings and a peaceful forest pathway in the background. Warm sunlight filtering through leaves, realistic skin texture, natural fabric folds, photorealistic fashion photography, cinematic depth of field, soft bokeh, highly detailed, realistic proportions, vertical portrait, 9:16.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2105572027645977038) | 2026-10-01
+
+---
+
+### 📷 例 8111：河畔时尚摄影与身份锁定
+
+![河畔时尚摄影与身份锁定](../images/%E6%B2%B3%E7%95%94%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1%E4%B8%8E%E8%BA%AB%E4%BB%BD%E9%94%81%E5%AE%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的女性参考图像作为唯一的身份参考。
+
+创作一张超写实的电影感生活方式时尚摄影作品，主角为同一位女性。严格保留她精确的面部身份、面部结构、眼睛、眉毛、鼻子、嘴唇、肤色、自然皮肤纹理、发型及整体外观。不得改变或重新设计她的面部特征。
+
+她正漫步在一座迷人的热带亚洲小镇中一条阳光明媚的河畔步行街上。她自然地回头望向镜头，带着温柔而自信的微笑。
+
+服装：鲜艳的品红色粉色无袖分层迷你连衣裙，配有细肩带、修身褶皱腰部、柔软褶皱面料和飘逸的多层裙摆。携带一个天然编织草编单肩包。穿着干净的白色休闲运动鞋和极简金色圈形耳环。
+
+发型：深色自然波浪卷发扎成高马尾，几缕发丝垂落在脸庞周围。
+
+环境：繁茂的三角梅花朵溢满小径周围，绿树成荫，色彩斑斓的河畔建筑，传统悬挂竹灯笼，河面上停泊着小船，湛蓝的天空和宁静的度假氛围。
+
+光线：明亮的自然正午阳光，柔和真实的阴影，微妙的暖色高光，自然的肤色。
+
+相机：全身生活方式时尚摄影，略低于视平线的背后视角，50mm 镜头，真实的景深效果，主体清晰，背景自然柔化。
+
+风格：奢华旅行编辑摄影，照片级真实感，真实的皮肤毛孔细节，逼真的面料质感，自然的身体比例，电影级调色，高动态范围，4K/8K 细节。
+
+严格身份锁定 — 保留上传参考图中女性的精确面部特征。
+
+[English]
+Use the uploaded female reference image as the ONLY identity reference.
+
+Create an ultra-realistic cinematic lifestyle fashion photograph of the same woman. Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, skin tone, natural skin texture, hairstyle and overall appearance. Do not change or redesign her face.
+
+She is walking along a beautiful sunlit riverside pedestrian street in a charming tropical Asian town. She turns naturally over her shoulder toward the camera with a gentle confident smile.
+
+OUTFIT: vibrant magenta-pink sleeveless tiered mini dress with thin shoulder straps, fitted ruched waist, soft gathered fabric and a flowing multi-layer skirt. Carry a natural woven straw shoulder bag. Wear clean white casual sneakers and minimal gold hoop earrings.
+
+HAIR: dark naturally wavy hair pulled into a high ponytail with loose strands framing the face.
+
+ENVIRONMENT: lush bougainvillea flowers overflowing around the pathway, green trees, colorful riverside buildings, traditional hanging bamboo lanterns, small boats on the river, bright blue sky and peaceful vacation atmosphere.
+
+LIGHTING: bright natural midday sunlight, soft realistic shadows, subtle warm highlights, natural skin tones.
+
+CAMERA: full-body lifestyle fashion photograph, eye-level slightly behind-the-subject perspective, 50mm lens, realistic depth of field, sharp subject with naturally softened background.
+
+STYLE: luxury travel editorial photography, photorealistic, realistic skin pores, authentic fabric texture, natural body proportions, cinematic color grading, high dynamic range, 4K/8K detail.
+
+STRICT IDENTITY LOCK — preserve the woman's exact face from the uploaded reference.
+```
+
+**来源：** [@Dania](https://x.com/DaniaSafvi/status/2105559740197810552) | 2026-10-01
+
+---
+
+### 📷 例 8112：东京霓虹夜梦提示词
+
+![东京霓虹夜梦提示词](../images/%E4%B8%9C%E4%BA%AC%E9%9C%93%E8%99%B9%E5%A4%9C%E6%A2%A6%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+夜幕下的东京，透过梦幻般的柔焦镜头呈现。一件粉彩西装外套。随风飘动的发丝。粉色、青色和淡紫色的霓虹灯光融入散景之中。低角度过街镜头，带有 Kodak Gold 胶片的温暖色调和柔和的镜头光晕。
+
+[English]
+Tokyo after dark, through a dreamy file lens. A pastel blazer. Wind-tossed hair. Pink, cyan, and lavender neon dissolving into bokeh. A low-angle crossing shot with Kodak Gold warmth and soft lens flare.
+```
+
+**来源：** [@Astraia AI](https://x.com/BenjarminX/status/2105474772222292307) | 2026-10-01
+
+---
+
+### 📷 例 8113：黑暗奇幻战士与猫头鹰
+
+![黑暗奇幻战士与猫头鹰](../images/%E9%BB%91%E6%9A%97%E5%A5%87%E5%B9%BB%E6%88%98%E5%A3%AB%E4%B8%8E%E7%8C%AB%E5%A4%B4%E9%B9%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅细节丰富的肖像画，描绘了一位凶猛的部落奇幻女战士，她正靠近一只巨大而威严的大角猫头鹰，采用电影级布光，营造出黑暗且充满情绪的氛围。这位女性留着长而波浪状的深色头发，装饰着精致的银色链条、珠子和金属头饰。她拥有引人注目的浅绿色眼睛，直视镜头，脸颊和鼻梁上涂有银色和冰白色的战妆。她身穿深色皮革盔甲，点缀着银质吊坠和绿松石宝石。在她身旁，巨大的猫头鹰有着锐利发光的橙色眼睛，黑白相间的羽毛图案，额头上戴着一枚镶嵌蓝色水晶的华丽银色圆形徽章。背景是一片阴影笼罩的神秘森林，呈现冷蓝色和深灰色调。羽毛细节高度精细，超写实，照片级纹理，8k 分辨率，戏剧性的黑暗奇幻美学，杰作。
+
+[English]
+A detailed portrait of a fierce tribal fantasy warrior woman leaning close to a massive, majestic great horned owl, cinematic lighting, dark moody atmosphere. The woman has long, wavy dark hair adorned with intricate silver chains, beads, and metallic headpieces. She has striking light green eyes, piercing the camera, with silver and icy-white war paint painted across her cheeks and nose. She wears dark leather armor decorated with silver pendants and turquoise gemstones Beside her the giant owl features sharp glowing orange eyes, patterned white and black feathers and an ornate silver circular medallion studded with a blue crystal resting on its forehead. The background is a shadowy, mystical forest in cool blue and dark gray tones. Highly detailed feathers, hyper-realistic, photorealistic textures, 8k resolution, dramatic dark fantasy aesthetic, masterpiece.
+```
+
+**来源：** [@Rabia Ai](https://x.com/Rabia_69x/status/2105448461382381907) | 2026-10-01
+
+---
+

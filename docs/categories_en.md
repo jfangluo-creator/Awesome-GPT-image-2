@@ -1451,7 +1451,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1070)
+## 🎴 [Posters & Cards](cat-poster.md) (1071)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3555,11 +3555,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8076: 梵高风格鱼头汤诗歌](cat-poster.md#-例-8076梵高风格鱼头汤诗歌)
 
 - [Case 8102: 高端海报分割构图](cat-poster.md#-例-8102高端海报分割构图)
+
+- [Case 8109: 双面板旅行海报提示词](cat-poster.md#-例-8109双面板旅行海报提示词)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3010)
+## 📷 [Photography & Realistic](cat-photo.md) (3015)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9513,6 +9515,16 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8103: 碎镜肖像时尚大片](cat-photo.md#-例-8103碎镜肖像时尚大片)
 
 - [Case 8104: 奢华旅行时尚人像提示词](cat-photo.md#-例-8104奢华旅行时尚人像提示词)
+
+- [Case 8108: 夜间救援中的巨型警用机器人](cat-photo.md#-例-8108夜间救援中的巨型警用机器人)
+
+- [Case 8110: 南亚女性木桥肖像](cat-photo.md#-例-8110南亚女性木桥肖像)
+
+- [Case 8111: 河畔时尚摄影与身份锁定](cat-photo.md#-例-8111河畔时尚摄影与身份锁定)
+
+- [Case 8112: 东京霓虹夜梦提示词](cat-photo.md#-例-8112东京霓虹夜梦提示词)
+
+- [Case 8113: 黑暗奇幻战士与猫头鹰](cat-photo.md#-例-8113黑暗奇幻战士与猫头鹰)
 ---
 
 <a id="illustration"></a>
@@ -13885,7 +13897,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (890)
+## 🏷️ [Brand & Packaging](cat-brand.md) (891)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15660,11 +15672,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8097: 编辑时尚人像提示词（库尔曼吉语）](cat-brand.md#️-例-8097编辑时尚人像提示词库尔曼吉语)
 
 - [Case 8101: 赛博日本天王与浮空要塞](cat-brand.md#️-例-8101赛博日本天王与浮空要塞)
+
+- [Case 8106: LEGO Minifigure Transformation Prompt](cat-brand.md#️-例-8106lego-minifigure-transformation-prompt)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (180)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (181)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16023,6 +16037,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8040: GPT Image 2 涂鸦贴纸转换提示词](cat-edit.md#-例-8040gpt-image-2-涂鸦贴纸转换提示词)
 
 - [Case 8078: 无缝复古游戏地图纹理生成器](cat-edit.md#-例-8078无缝复古游戏地图纹理生成器)
+
+- [Case 8107: 极简主义编辑风格纸本插画提示词](cat-edit.md#-例-8107极简主义编辑风格纸本插画提示词)
 ---
 
 <a id="fun"></a>
