@@ -21844,3 +21844,25 @@ The rooftop parking area is spacious and mostly empty, with clearly marked parki
 
 ---
 
+### 🎨 例 8115：黑暗之城：恶魔的庇护所
+
+![黑暗之城：恶魔的庇护所](../images/%E9%BB%91%E6%9A%97%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%81%B6%E9%AD%94%E7%9A%84%E5%BA%87%E6%8A%A4%E6%89%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+被黑暗笼罩的城市，在充满硫磺与灰烬的天空下，成为了恶魔的庇护所
+
+[English]
+the city
+enveloped in darkness
+under a sky
+filled with sulfur and ash
+becomes a haven for demons
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2106058823433904579) | 2026-10-02
+
+---
+

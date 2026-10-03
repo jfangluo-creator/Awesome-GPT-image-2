@@ -73118,3 +73118,269 @@ A detailed portrait of a fierce tribal fantasy warrior woman leaning close to a 
 
 ---
 
+### 📷 例 8117：豪华轿车后视镜自拍提示词
+
+![豪华轿车后视镜自拍提示词](../images/%E8%B1%AA%E5%8D%8E%E8%BD%BF%E8%BD%A6%E5%90%8E%E8%A7%86%E9%95%9C%E8%87%AA%E6%8B%8D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "Young woman with long, straight, medium-brown hair",
+      "pose": "Leaning naturally toward the open car window, resting her head gently on one hand with a relaxed and elegant expression",
+      "action": "Taking a selfie using a smartphone while looking at the phone screen",
+      "expression": "Soft, calm and confident expression with a subtle natural smile"
+    },
+
+    "identity_and_hair": {
+      "face": "Natural youthful facial features, realistic facial proportions, soft features",
+      "hair": "Long, straight, smooth medium-brown hair, neatly arranged with natural individual strands, slightly illuminated by warm evening light",
+      "consistency": "Keep facial structure, hairstyle and hair color consistent throughout the image"
+    },
+
+    "clothing": {
+      "top": "Simple elegant white ribbed turtleneck long-sleeve top",
+      "accessories": "Small minimalist stud earrings",
+      "style": "Clean, modest, sophisticated and minimal"
+    },
+
+    "props": {
+      "item": "Modern premium smartphone resembling an iPhone 16 Pro Max",
+      "details": "Realistic proportions, accurate triple-camera layout, natural hand grip, realistic reflections on the phone body"
+    },
+
+    "vehicle": {
+      "type": "Luxury black Toyota Land Cruiser",
+      "detail": "Glossy black exterior, premium side mirror, realistic automotive surfaces and reflections"
+    },
+
+    "composition": {
+      "main_focus": "The vehicle side mirror occupies the central visual area",
+      "perspective": "Camera positioned close to the exterior side mirror, photographing the reflection",
+      "framing": "Wide cinematic landscape composition with the mirror prominently framed",
+      "visual_balance": "Mirror and reflected woman are the primary focal point while the surrounding road and trees provide depth",
+      "aspect_ratio": "16:9"
+    },
+
+    "environment": {
+      "location": "Quiet outdoor road surrounded by trees",
+      "background": "Softly blurred trees, road, natural landscape and warm orange-blue evening sky",
+      "atmosphere": "Peaceful golden-hour evening with subtle cinematic depth",
+      "depth_of_field": "Shallow depth of field with soft natural bokeh in the distant background"
+    },
+
+    "lighting": {
+      "type": "Golden hour",
+      "characteristics": "Warm sunlight, soft golden highlights on the woman's hair and face, realistic shadows, subtle reflections on the black vehicle"
+    },
+
+    "photography": {
+      "style": "Ultra-realistic luxury lifestyle photography",
+      "aesthetic": "Minimalist Instagram editorial aesthetic",
+      "camera": "Professional full-frame camera look",
+      "lens": "35mm cinematic perspective",
+      "focus": "Sharp focus on the side mirror and reflected woman",
+      "quality": "Photorealistic, highly detailed, natural skin texture, realistic hair strands, cinematic depth"
+    }
+  }
+}
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2106003058471883191) | 2026-10-02
+
+---
+
+### 📷 例 8119：MPD 机器人吊运集装箱
+
+![MPD 机器人吊运集装箱](../images/MPD%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8A%E8%BF%90%E9%9B%86%E8%A3%85%E7%AE%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影级、照片级逼真的图像，展示了一台巨大的双足警用机器人在雨中的港口码头吊起一个沉重的集装箱。机器人是画面的焦点，高耸于前景中人类大小的急救人员之上。它拥有复杂的机械设计，配有黑白装甲板、液压关节以及头部类似传感器阵列的多镜头相机装置。其肩部闪烁着红色警示灯。机器人的胸部和肩甲上清晰可见日文汉字“警視庁 MPD”（大都会警察局）。机器人双手持握着一个标有“TCNU 897315 Z 45G1”的大型生锈红色集装箱，似乎正将其从倒塌的堆垛中移开。背景中可以看到其他集装箱堆叠（其中一个蓝色标有“NYK”，另一个红色标有“CMA CGM”），以及大型龙门吊在暴风雨天空下的剪影。大雨倾盆而下，沥青地面形成湿滑的反光。前景中，几名身穿带有反光条橙色制服并佩戴头盔（标有“東京消防庁”）的消防员，以及身穿深色制服（标有“警視庁 MPD”）的警察正在指挥作业或观察机器人。灯光效果极具戏剧性，明亮的泛光灯照亮了阴沉天气下的整个场景。
+
+[English]
+A cinematic, photorealistic image of a massive bipedal police robot lifting a heavy shipping container at a rainy port terminal. The robot is the central focus, towering over human-sized emergency responders in the foreground. It features a complex mechanical design with white and black armor plating, hydraulic joints, and a head unit equipped with multiple camera lenses resembling a sensor array. Red warning lights glow on its shoulders. The text "警視庁 MPD" (Metropolitan Police Department) is clearly visible in Japanese characters on the robot's chest and shoulder pads. The robot holds a large, rusted red shipping container labeled "TCNU 897315 Z 45G1" with both hands, appearing to move it from a collapsed stack. In the background, there are stacks of other containers (one blue with "NYK", one red with "CMA CGM") and large gantry cranes silhouetted against a stormy sky. Heavy rain falls throughout the scene, creating wet reflections on the asphalt ground. In the foreground, several firefighters wearing orange uniforms with reflective stripes and helmets (labeled "東京消防庁") and police officers in dark uniforms (labeled "警視庁 MPD") are directing operations or observing the robot. The lighting is dramatic, with bright floodlights illuminating the scene amidst the gloomy weather.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2105987173438849305) | 2026-10-02
+
+---
+
+### 📷 例 8121：石阶上的韩国女孩
+
+![石阶上的韩国女孩](../images/%E7%9F%B3%E9%98%B6%E4%B8%8A%E7%9A%84%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的韩国女孩自然地站在郁郁葱葱的城市公园的石阶上，身穿修身米色罗纹无袖上衣、宽松深色牛仔裤，佩戴银色头戴式耳机，背着黑色背包。她回头看向镜头，神情柔和而自信，一只手轻轻抚弄头发并触碰耳机顶部。保持她棕色长发自然飘逸，几缕发丝垂在脸侧，呈现真实的皮肤质感、淡雅妆容、自然日光以及逼真的智能手机摄影效果。保留相同的户外背景，包括绿树、灌木丛、白色栅栏、石阶、指示牌、远处的滑板车以及柔和的景深。采用垂直 9:16 构图，比例真实，姿态自然，具有抓拍时尚摄影风格，色调柔和，面料和头发纹理细节丰富，阴影轻柔，展现纯净的韩式生活方式美学。
+
+[English]
+A beautiful Korean girl standing naturally on a stone staircase in a lush green urban park, wearing a fitted beige ribbed sleeveless top, relaxed dark jeans, silver over-ear headphones, and a black backpack. She looks back toward the camera with a soft, confident expression while one hand gently rests on her hair and touches the top of her headphones. Keep her long brown hair naturally flowing with a few loose strands around her face, realistic skin texture, subtle makeup, natural daylight, and authentic smartphone photography. Preserve the same outdoor background with green trees, bushes, white fence, stone steps, signboard, distant scooters, and soft depth of field. Use a vertical 9:16 composition, realistic proportions, natural body posture, candid fashion photography style, soft colors, detailed fabric and hair texture, gentle shadows, and a clean Korean lifestyle aesthetic.
+```
+
+**来源：** [@ayzalnoor](https://x.com/ayzalnooor24521/status/2105895502181261608) | 2026-10-02
+
+---
+
+### 📷 例 8122：粉色头发女孩身穿牛仔服斜倚在大理石上
+
+![粉色头发女孩身穿牛仔服斜倚在大理石上](../images/%E7%B2%89%E8%89%B2%E5%A4%B4%E5%8F%91%E5%A5%B3%E5%AD%A9%E8%BA%AB%E7%A9%BF%E7%89%9B%E4%BB%94%E6%9C%8D%E6%96%9C%E5%80%9A%E5%9C%A8%E5%A4%A7%E7%90%86%E7%9F%B3%E4%B8%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张具有电影质感的写实广角镜头，画面中一位留着长粉色头发、戴着黑框眼镜的年轻女子仰躺在装饰华丽的大理石地板上。她身着现代休闲装束：一件深蓝色牛仔夹克敞开穿着，内搭印有白色图案的黑色短款 T 恤，露出腰部肌肤；下身搭配卷起裤脚的深蓝色紧身牛仔裤和厚底黑色系带马丁靴。她的姿态放松而慵懒，一条腿弯曲，头部枕在一堆奢华的金红色天鹅绒靠垫上。她周围散落着几片淡粉色的玫瑰花瓣。背景呈现出一幅模糊的古典油画美学效果，描绘了奢华的维多利亚式室内场景，包括摆放着水晶高脚杯和花卉装饰的镀金桌子，以及附近身着复古服饰的人物。灯光温暖而富有戏剧性，突出了牛仔面料和皮肤的质感，与浓郁的绘画感背景形成鲜明对比。
+
+[English]
+A cinematic, photorealistic wide shot of a young woman with long pink hair and black-rimmed glasses lying on her back on an ornate marble floor. She is dressed in modern casual attire: a dark blue denim jacket worn open over a black cropped t-shirt featuring a white graphic print, exposing her midriff, paired with dark blue skinny jeans rolled at the ankles and chunky black lace-up combat boots. Her pose is relaxed and languid, with one leg bent at the knee and her head resting on a pile of luxurious gold and deep red velvet cushions. Scattered around her are several pale pink rose petals. The background features a blurred, classical oil painting aesthetic depicting a lavish Victorian interior with a gilded table holding a crystal goblet and floral arrangements, along with figures in period clothing standing nearby. The lighting is warm and dramatic, highlighting the texture of the denim and skin against the rich, painterly backdrop.
+```
+
+**来源：** [@Flutterwhat](https://x.com/flutterwhat/status/2105881267174875441) | 2026-10-02
+
+---
+
+### 📷 例 8123：韩式咖啡馆人像提示词
+
+![韩式咖啡馆人像提示词](../images/%E9%9F%A9%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作了一张同一位美丽年轻女性的图片，保持其面部特征、身份和自然美感的一致性，采用精致的韩式美学风格。她留着柔和的韩式发型，松散的凌乱丸子头，额前有轻盈的发丝，妆容自然，脸颊微红，眼神深邃，嘴唇呈光泽粉色。她穿着优雅的韩式休闲时尚服装，包括黑色罗纹上衣、宽松的深色开衫或外套、精致的银色吊坠项链以及时尚的黑色单肩包。场景设定在温馨的韩式咖啡馆和受首尔启发的城市环境中，拥有温暖的自然光线、柔和的窗户反光、绿植、花卉以及背景中隐约可见的韩文招牌。在一个构图中，她站在一家时尚咖啡馆附近的户外自然摆姿势；在另一个构图中，她舒适地坐在咖啡馆桌旁，手轻轻托着脸颊。添加一种平静、略带梦幻和忧郁的表情，配合自然的抓拍姿势。桌上包含咖啡杯和智能手机，以呈现真实的生活方式细节。使用电影感摄影、浅景深、柔和散景、逼真的皮肤纹理、温暖柔和的色调、优雅的韩式编辑美学以及高端生活方式摄影的感觉。垂直 9:16 构图，高分辨率，照片级真实感，为社交媒体精心取景。
+
+[English]
+Created a picture of the same beautiful young woman in a refined Korean-inspired aesthetic, keeping her facial features, identity, and natural beauty consistent. She has a soft Korean-style hairstyle with a loose messy bun, wispy front strands, natural makeup, softly flushed cheeks, defined eyes, and glossy pink lips. She is wearing elegant Korean casual fashion with a black ribbed top, oversized dark cardigan or coat, a delicate silver pendant necklace, and a stylish black shoulder bag. Show her in a cozy Korean café and urban Seoul-inspired setting with warm natural lighting, soft window reflections, greenery, flowers, and subtle Korean signs in the background. In one composition she is standing/posing naturally outdoors near a stylish café, while in another she is seated comfortably at a café table with her hand gently supporting her cheek. Add a calm, slightly dreamy and moody expression with a natural candid pose. Include a coffee cup and smartphone on the table for realistic lifestyle details. Use cinematic photography, shallow depth of field, soft bokeh, realistic skin texture, warm muted tones, elegant Korean editorial aesthetics, and a premium lifestyle photography feel. Vertical 9:16 composition, high resolution, photorealistic, beautifully framed for social media.
+```
+
+**来源：** [@liana](https://x.com/Lianaalane/status/2105881201257206211) | 2026-10-02
+
+---
+
+### 📷 例 8124：暗调电影感人像
+
+![暗调电影感人像](../images/%E6%9A%97%E8%B0%83%E7%94%B5%E5%BD%B1%E6%84%9F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实、电影感、高级时尚特写人像，主角是一名二十岁出头、英俊非凡的年轻男子。他拥有浓密自然的波浪状乌黑头发、轮廓分明的阳刚眉毛、深邃的黑褐色眼睛、雕塑般清晰的下颌线、淡淡的自然胡茬，以及带有可见毛孔的真实皮肤质感。
+
+概念与构图：
+
+他的面孔神秘地从绝对的漆黑黑暗中浮现，营造出强烈而迷人的视觉效果。只有他那深邃的黑褐色眼睛、鼻梁和雕塑般下颌线的锐利轮廓被极其微妙柔和的方向性光线照亮。面部的其余部分逐渐隐入深邃如天鹅绒般的阴影中，形成戏剧性的明暗对照（Chiaroscuro）效果。
+
+光影与氛围：
+
+极低照度的电影感布光，眼中反射出精致的高光，一道微弱柔和的光线勾勒出鼻梁，细微的光影界定出下颌线。深黑色调、丰富的阴影、强烈的对比度，营造出神秘、紧张且精致的氛围。他的表情平静、自信、严肃，散发着毫不费力的男性魅力，双眼直视镜头。
+
+摄影与画质：
+
+极致特写人像，使用 85mm 专业人像镜头拍摄，浅景深，超高细节的自然皮肤纹理，逼真的面部特征，电影感阴影，奢华时尚杂志编辑风格摄影，专业影棚布光，8K HDR，照片级真实感画质，精致的单色黑色美学，以及异常锐利的眼部细节。
+
+背景与风格：
+
+完全纯黑、无缝的背景，无任何可见周围环境。极简主义构图，强调面部、眼睛和下颌线的美感。黑暗奢华的编辑类广告美学，神秘的电影氛围，艺术化地运用留白，深黑色调，以及微妙的银色调高光。
+
+严格要求：保持自然真实的男性面部比例，解剖学上准确的面部特征，栩栩如生的皮肤纹理，以及自然的毛发。无人工光晕，无过度照明，无可见背景，无多余物体，无文字，无 Logo，无水印。垂直 9:16 宽高比。
+
+[English]
+Ultra-realistic, cinematic, high-fashion close-up portrait of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair, strong masculine eyebrows, deep dark-brown eyes, a sharply defined sculpted jawline, subtle natural stubble, and realistic skin texture with visible pores.
+
+CONCEPT & COMPOSITION:
+
+His face emerges mysteriously from absolute, pitch-black darkness, creating a powerful and captivating visual. Only his intense dark-brown eyes, the bridge of his nose, and the sharp contours of his sculpted jawline are illuminated by extremely subtle, soft directional lighting. The rest of his face gradually disappears into deep, velvety shadows, creating a dramatic chiaroscuro effect.
+
+LIGHTING & MOOD:
+
+Extremely low-key cinematic lighting with delicate highlights reflecting in his eyes, a faint strip of soft light tracing the bridge of his nose, and subtle illumination defining his jawline. Deep blacks, rich shadows, dramatic contrast, and a mysterious, intense, sophisticated atmosphere. His expression is calm, confident, serious, and effortlessly masculine, with his eyes staring directly into the camera.
+
+PHOTOGRAPHY & QUALITY:
+
+Extreme close-up portrait, shot on an 85mm professional portrait lens, shallow depth of field, ultra-detailed natural skin texture, realistic facial features, cinematic shadows, luxury fashion editorial photography, professional studio lighting, 8K HDR, photorealistic quality, sophisticated monochromatic black aesthetic, and exceptionally sharp eye details.
+
+BACKGROUND & STYLE:
+
+Completely black, seamless background with no visible surroundings. Minimalist composition emphasizing the beauty of the face, eyes, and jawline. Dark luxury editorial campaign aesthetic, mysterious cinematic atmosphere, artistic use of negative space, deep blacks, and subtle silver-toned highlights.
+
+STRICT REQUIREMENTS: Maintain natural and realistic masculine facial proportions, anatomically accurate features, lifelike skin texture, and natural hair. No artificial glow, no excessive lighting, no visible background, no extra objects, no text, no logo, no watermark. Vertical 9:16 aspect ratio.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2105879225593122831) | 2026-10-02
+
+---
+
+### 📷 例 8125：极简时尚拼贴提示词
+
+![极简时尚拼贴提示词](../images/%E6%9E%81%E7%AE%80%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端超写实的 4:5 垂直时尚人像拼贴，置于温暖的极简主义室内环境中。
+一位年轻女性自信地站在构图左侧，自然地倚靠在一面巨大的雕塑感弧形米色建筑墙上。她身穿一套时尚得体的全黑装束——优雅的黑色长袖上衣、黑色直筒长裤或牛仔裤以及黑色鞋子。姿态自然放松，一条腿微微交叉，双手随意地放在口袋附近。
+
+在右侧，创建三张垂直排列的黑白肖像照片框，均为同一位女性，每张呈现不同的自然姿态：
+佩戴时尚黑色墨镜，直视镜头。
+神情平静，目光向下。
+佩戴黑色墨镜，单手轻轻调整镜框。
+确保三张肖像中的女性面部特征和身份保持一致。
+室内应采用精致的米色、奶油色和暖沙色调，柔和的阳光从侧面射入，墙壁和地板上投射出美丽的自然窗影，微妙的电影级布光，极简现代装饰，左下角放置一个小型雕塑感石质花瓶，插着纤细的枝条。
+照片级真实摄影，逼真的皮肤纹理，真实的织物细节，自然的身体比例，高端编辑时尚美学，柔和阴影，建筑摄影风格，高细节，电影感构图，8K 分辨率，干净奢华的杂志风格，
+
+垂直 4:5 比例。
+重要提示：无水印，无多余文字，无 Logo，手部无畸变，无重复人物，面部无 AI 伪影
+
+[English]
+Create a premium ultra-realistic vertical 4:5 fashion portrait collage in a warm minimalist interior.
+A young woman is standing confidently on the left side of the composition, leaning naturally against a large sculptural curved beige architectural wall. She is wearing a stylish modest all-black outfit — elegant black long-sleeve top, black straight-leg trousers or jeans, and black shoes. Natural relaxed pose, one leg slightly crossed over the other, hands casually positioned near her pockets.
+
+On the right side, create three vertically arranged framed black-and-white portrait photographs of the same woman, each with a different natural pose:
+Wearing stylish black sunglasses, looking toward the camera.
+Looking downward with a calm expression.
+Wearing black sunglasses and gently adjusting them with one hand.
+Keep all three portraits consistent with the same woman and facial identity.
+The interior should have a sophisticated beige, cream and warm sand color palette, soft sunlight entering from the side, beautiful natural window shadows across the wall and floor, subtle cinematic lighting, minimal modern decor, and a small sculptural stone vase with delicate branches in the bottom-left corner.
+Photorealistic photography, realistic skin texture, realistic fabric, natural proportions, premium editorial fashion aesthetic, soft shadows, architectural photography, high detail, cinematic composition, 8K, clean luxury magazine style,
+
+vertical 4:5.
+Important: no watermark, no extra text, no logo, no distorted hands, no duplicate people, no artificial-looking face,
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2105871614512607509) | 2026-10-02
+
+---
+
+### 📷 例 8126：雾中玻璃后的人物
+
+![雾中玻璃后的人物](../images/%E9%9B%BE%E4%B8%AD%E7%8E%BB%E7%92%83%E5%90%8E%E7%9A%84%E4%BA%BA%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+【角色】的成年真人版本，保留角色最具辨识度的发型、发色、眼睛、面部气质与标志性身份特征，整体转译为自然真实的人像摄影。
+
+人物位于一整块布满冷凝水汽的玻璃后方，从玻璃外侧拍摄。玻璃占据整个前景，覆盖大量真实细密的水珠、凝结水滴、纵向滑落水痕与不均匀雾气，具有明显湿润透明质感。
+
+人物身体与轮廓大部分被起雾玻璃模糊、柔化和轻微折射，仅面部前方有一小块被手掌擦开的不规则透明区域，使双眼、鼻梁、嘴唇与微表情清晰露出；透明区域边缘保留手掌擦拭留下的自然雾痕与水汽边界。
+
+人物贴近玻璃，直视镜头，表情自然、柔和、略带好奇与亲近感，可随机出现轻笑、害羞、委屈、发呆、轻微脸红或调皮的微表情。脸部保持真实皮肤纹理与真人五官，不进行卡通化。
+
+冷灰蓝、银白、雾白色调，阴天窗边般柔和自然光，低饱和、安静、湿润、朦胧。玻璃前景水珠清晰锐利，人物后景柔化，仅擦开的脸部区域相对清楚，形成明显的“清晰玻璃水珠 × 模糊真人 × 局部清晰面孔”三层空间关系。
+
+极简构图，大面积雾玻璃占据画面，人物位于中央或略偏下，不设置复杂环境与道具。超写实摄影，浅景深，真实玻璃折射与水珠高光，安静、治愈、私密、梦幻的手机壁纸视觉，9:16。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2105870617593757697) | 2026-10-02
+
+---
+

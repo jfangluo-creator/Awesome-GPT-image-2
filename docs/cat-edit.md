@@ -5187,3 +5187,21 @@ No photograph, photorealism, split-screen, collage, top-and-bottom layout, secon
 
 ---
 
+### 🔧 例 8114：为霓虹街机场景添加垃圾与污垢
+
+![为霓虹街机场景添加垃圾与污垢](../images/%E4%B8%BA%E9%9C%93%E8%99%B9%E8%A1%97%E6%9C%BA%E5%9C%BA%E6%99%AF%E6%B7%BB%E5%8A%A0%E5%9E%83%E5%9C%BE%E4%B8%8E%E6%B1%A1%E5%9E%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于提供的霓虹灯照亮街机角落的参考图像，通过添加逼真的环境叙事元素来改造场景。具体而言，请在墙面与地面交接处生成一堆垃圾和污垢堆积物。包括一根从墙壁伸出的生锈金属管、一个被丢弃的压扁铝制易拉罐、皱巴巴的塑料包装纸以及散落的枯叶。增加一个风化的电气插座盒，上面插着一根黑色电线。确保新添加的物体表面湿润且具有反射效果，以匹配开裂沥青地面上现有的水坑倒影。
+
+[English]
+Using the provided reference image of a neon-lit arcade corner, transform the scene by adding realistic environmental storytelling elements. Specifically, generate a pile of trash and dirt buildup at the base of the wall where it meets the floor. Include a rusted metal pipe protruding from the wall, a discarded crushed aluminum can, crumpled plastic wrappers, and scattered dead leaves. Add a weathered electrical outlet box with a black cord plugged into it. Ensure the new objects have wet, reflective surfaces that match the existing puddle reflections on the cracked asphalt ground.
+```
+
+**来源：** [@Durk](https://x.com/DurkatWork/status/2106100763755749746) | 2026-10-02
+
+---
+

@@ -3561,7 +3561,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3015)
+## 📷 [Photography & Realistic](cat-photo.md) (3023)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9525,11 +9525,27 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8112: 东京霓虹夜梦提示词](cat-photo.md#-例-8112东京霓虹夜梦提示词)
 
 - [Case 8113: 黑暗奇幻战士与猫头鹰](cat-photo.md#-例-8113黑暗奇幻战士与猫头鹰)
+
+- [Case 8117: 豪华轿车后视镜自拍提示词](cat-photo.md#-例-8117豪华轿车后视镜自拍提示词)
+
+- [Case 8119: MPD 机器人吊运集装箱](cat-photo.md#-例-8119mpd-机器人吊运集装箱)
+
+- [Case 8121: 石阶上的韩国女孩](cat-photo.md#-例-8121石阶上的韩国女孩)
+
+- [Case 8122: 粉色头发女孩身穿牛仔服斜倚在大理石上](cat-photo.md#-例-8122粉色头发女孩身穿牛仔服斜倚在大理石上)
+
+- [Case 8123: 韩式咖啡馆人像提示词](cat-photo.md#-例-8123韩式咖啡馆人像提示词)
+
+- [Case 8124: 暗调电影感人像](cat-photo.md#-例-8124暗调电影感人像)
+
+- [Case 8125: 极简时尚拼贴提示词](cat-photo.md#-例-8125极简时尚拼贴提示词)
+
+- [Case 8126: 雾中玻璃后的人物](cat-photo.md#-例-8126雾中玻璃后的人物)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1046)
+## 🎨 [Illustration & Art](cat-illustration.md) (1047)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11607,11 +11623,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8087: 都市街头风格拼贴画](cat-illustration.md#-例-8087都市街头风格拼贴画)
 
 - [Case 8092: 购物车停车场生活方式](cat-illustration.md#-例-8092购物车停车场生活方式)
+
+- [Case 8115: 黑暗之城：恶魔的庇护所](cat-illustration.md#-例-8115黑暗之城恶魔的庇护所)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (252)
+## 🧍 [Character Design](cat-character.md) (253)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12101,6 +12119,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8052: Y2K 风格运动鞋时尚大片](cat-character.md#-例-8052y2k-风格运动鞋时尚大片)
 
 - [Case 8070: 高级时尚夏日大片提示词](cat-character.md#-例-8070高级时尚夏日大片提示词)
+
+- [Case 8118: 日本游戏开发横幅](cat-character.md#-例-8118日本游戏开发横幅)
 ---
 
 <a id="3d"></a>
@@ -13343,7 +13363,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (283)
+## 🎬 [Comics & Storyboards](cat-comic.md) (284)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13893,11 +13913,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8024: 大头卡通漫画提示词](cat-comic.md#-例-8024大头卡通漫画提示词)
 
 - [Case 8027: 春丽踢飞巨型怪物](cat-comic.md#-例-8027春丽踢飞巨型怪物)
+
+- [Case 8116: 素描教室中的半写实动漫少女](cat-comic.md#-例-8116素描教室中的半写实动漫少女)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (891)
+## 🏷️ [Brand & Packaging](cat-brand.md) (892)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15674,11 +15696,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8101: 赛博日本天王与浮空要塞](cat-brand.md#️-例-8101赛博日本天王与浮空要塞)
 
 - [Case 8106: LEGO Minifigure Transformation Prompt](cat-brand.md#️-例-8106lego-minifigure-transformation-prompt)
+
+- [Case 8120: 香港旅行剪贴簿](cat-brand.md#️-例-8120香港旅行剪贴簿)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (181)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (182)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16039,6 +16063,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8078: 无缝复古游戏地图纹理生成器](cat-edit.md#-例-8078无缝复古游戏地图纹理生成器)
 
 - [Case 8107: 极简主义编辑风格纸本插画提示词](cat-edit.md#-例-8107极简主义编辑风格纸本插画提示词)
+
+- [Case 8114: 为霓虹街机场景添加垃圾与污垢](cat-edit.md#-例-8114为霓虹街机场景添加垃圾与污垢)
 ---
 
 <a id="fun"></a>
