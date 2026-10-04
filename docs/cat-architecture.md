@@ -5917,3 +5917,37 @@ Create a vertical digital illustration in a semi-realistic anime style depicting
 
 ---
 
+### 🏛️ 例 8130：GPT Image 2 温馨家居剪贴簿海报提示词
+
+![GPT Image 2 温馨家居剪贴簿海报提示词](../images/GPT%20Image%202%20%E6%B8%A9%E9%A6%A8%E5%AE%B6%E5%B1%85%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个受参考图片启发的垂直温馨家居剪贴簿海报。将上半部分美丽的逼真室内照片与下半部分的手绘插图记忆日记相结合。
+
+上半部分：一个温暖、明亮且极简的温馨家居内饰，配有自然奶油色墙壁、浅色木制家具、装满小陶瓷房屋、可爱收藏人偶、微型动物、书籍、装裱艺术品和手工装饰品的开放式木架。包括一张木制书桌或餐桌、复古收音机、小台灯、花朵、篮子、陶瓷和精心摆放的小物件。柔和的阳光透过窗户洒入，温暖的自然阴影，宁静的北欧/日式小屋美学，干净而诱人，逼真的室内摄影，高度详细。
+
+下半部分：将相同的房间和物体转化为有纹理的温暖奶油色纸张上的迷人手绘剪贴簿插图。将插图排列在整齐的 3×3 网格中，每个小面板展示一个温馨的细节：微型房屋、可爱的人物角色、复古收音机、平板电脑/屏幕、台灯、小型动物收藏、花瓶、陶瓷收藏、篮子、书籍和其他小装饰品。使用精致的水彩和彩色铅笔纹理，柔和的棕色墨水轮廓，柔和的粉彩颜色，略带不完美的手工笔触。
+
+在顶部添加手写标题：“My Little World” 或 “My Cozy Home”，并带有小星星、心形和简单的涂鸦。在每个插图下方添加简短的手写说明，例如“little things, big happiness,”、“cozy corner,”、“my little collection,”、“warm light,”、“home sweet home,”、“small moments, big joy.”
+
+风格：温馨生活方式杂志 + 手工旅行日记，怀旧剪贴簿，水彩和彩色铅笔插图，有纹理的纸张，温暖的米色和天然木色调，柔和的阳光，可爱的微型细节，优雅简约的构图，高度详细，垂直 4:5 海报，从逼真摄影到插图的无缝过渡，无水印。
+
+[English]
+Create a vertical cozy home scrapbook poster inspired by the reference images. Combine a beautiful realistic interior photograph on the top half with a hand-drawn illustrated memory journal on the bottom half.
+
+Top section: A warm, bright and minimalist cozy home interior with natural cream walls, light wooden furniture, open wooden shelves filled with tiny ceramic houses, cute collectible figurines, miniature animals, books, framed artwork and handmade décor. Include a wooden desk or dining table, vintage radio, small lamp, flowers, baskets, ceramics and carefully arranged little objects. Soft sunlight streaming through the window, warm natural shadows, peaceful Scandinavian/Japanese cottage aesthetic, clean and inviting, realistic interior photography, highly detailed.
+
+Bottom section: Transform the same room and objects into a charming hand-drawn scrapbook illustration on textured warm cream paper. Arrange the illustrations in a neat 3×3 grid, with each small panel showing a cozy detail: miniature houses, cute character figures, vintage radio, tablet/screen, table lamp, tiny animal collection, flower vase, ceramic collection, baskets, books and other little decorations. Use delicate watercolor and colored-pencil textures, soft brown ink outlines, muted pastel colors, slightly imperfect handmade strokes.
+
+Add a handwritten title at the top: “My Little World” or “My Cozy Home”, with tiny stars, hearts and simple doodles. Add short handwritten captions beneath each illustration, such as “little things, big happiness,” “cozy corner,” “my little collection,” “warm light,” “home sweet home,” “small moments, big joy.”
+
+Style: cozy lifestyle magazine + handmade travel journal, nostalgic scrapbook, watercolor and colored-pencil illustration, textured paper, warm beige and natural wood tones, soft sunlight, cute miniature details, elegant minimal composition, highly detailed, vertical 4:5 poster, seamless transition from realistic photography to illustration, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2106305040311075036) | 2026-10-03
+
+---
+

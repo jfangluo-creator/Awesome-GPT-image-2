@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (608)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (609)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1209,6 +1209,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8075: 科幻青色灯光效果](cat-ui.md#️-例-8075科幻青色灯光效果)
 
 - [Case 8080: 赛博朋克工业走廊飞溅场景](cat-ui.md#️-例-8080赛博朋克工业走廊飞溅场景)
+
+- [Case 8127: 极简时尚线条艺术插画](cat-ui.md#️-例-8127极简时尚线条艺术插画)
 ---
 
 <a id="chart"></a>
@@ -1451,7 +1453,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1071)
+## 🎴 [Posters & Cards](cat-poster.md) (1073)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3557,11 +3559,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8102: 高端海报分割构图](cat-poster.md#-例-8102高端海报分割构图)
 
 - [Case 8109: 双面板旅行海报提示词](cat-poster.md#-例-8109双面板旅行海报提示词)
+
+- [Case 8128: 几何编辑风格人物海报](cat-poster.md#-例-8128几何编辑风格人物海报)
+
+- [Case 8131: 真实生活瞬间海报](cat-poster.md#-例-8131真实生活瞬间海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3023)
+## 📷 [Photography & Realistic](cat-photo.md) (3026)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9541,11 +9547,17 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8125: 极简时尚拼贴提示词](cat-photo.md#-例-8125极简时尚拼贴提示词)
 
 - [Case 8126: 雾中玻璃后的人物](cat-photo.md#-例-8126雾中玻璃后的人物)
+
+- [Case 8132: 身着刺绣 Shalwar Kameez 的南亚女性](cat-photo.md#-例-8132身着刺绣-shalwar-kameez-的南亚女性)
+
+- [Case 8133: 电影黑色风格肖像提示词](cat-photo.md#-例-8133电影黑色风格肖像提示词)
+
+- [Case 8134: 韩式咖啡馆自拍](cat-photo.md#-例-8134韩式咖啡馆自拍)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1047)
+## 🎨 [Illustration & Art](cat-illustration.md) (1050)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11625,11 +11637,17 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8092: 购物车停车场生活方式](cat-illustration.md#-例-8092购物车停车场生活方式)
 
 - [Case 8115: 黑暗之城：恶魔的庇护所](cat-illustration.md#-例-8115黑暗之城恶魔的庇护所)
+
+- [Case 8129: 芭蕾晨练提示词](cat-illustration.md#-例-8129芭蕾晨练提示词)
+
+- [Case 8135: GPT Image 法式休闲穿搭](cat-illustration.md#-例-8135gpt-image-法式休闲穿搭)
+
+- [Case 8136: 蒸汽朋克《最后的齿轮》提示词](cat-illustration.md#-例-8136蒸汽朋克最后的齿轮提示词)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (253)
+## 🧍 [Character Design](cat-character.md) (254)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12121,6 +12139,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8070: 高级时尚夏日大片提示词](cat-character.md#-例-8070高级时尚夏日大片提示词)
 
 - [Case 8118: 日本游戏开发横幅](cat-character.md#-例-8118日本游戏开发横幅)
+
+- [Case 8137: GPT Image 角色设定图提示词](cat-character.md#-例-8137gpt-image-角色设定图提示词)
 ---
 
 <a id="3d"></a>
@@ -12865,7 +12885,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (251)
+## 🏛️ [Architecture & Space](cat-architecture.md) (252)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13359,6 +13379,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8096: GPT Image Perfume Bottle Prompt](cat-architecture.md#️-例-8096gpt-image-perfume-bottle-prompt)
 
 - [Case 8105: 雪中街头阅读的女子](cat-architecture.md#️-例-8105雪中街头阅读的女子)
+
+- [Case 8130: GPT Image 2 温馨家居剪贴簿海报提示词](cat-architecture.md#️-例-8130gpt-image-2-温馨家居剪贴簿海报提示词)
 ---
 
 <a id="comic"></a>

@@ -1209,6 +1209,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8075：科幻青色灯光效果](cat-ui.md#️-例-8075科幻青色灯光效果)
 
 - [例 8080：赛博朋克工业走廊飞溅场景](cat-ui.md#️-例-8080赛博朋克工业走廊飞溅场景)
+
+- [例 8127：极简时尚线条艺术插画](cat-ui.md#️-例-8127极简时尚线条艺术插画)
 ---
 
 <a id="chart"></a>
@@ -3557,6 +3559,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8102：高端海报分割构图](cat-poster.md#-例-8102高端海报分割构图)
 
 - [例 8109：双面板旅行海报提示词](cat-poster.md#-例-8109双面板旅行海报提示词)
+
+- [例 8128：几何编辑风格人物海报](cat-poster.md#-例-8128几何编辑风格人物海报)
+
+- [例 8131：真实生活瞬间海报](cat-poster.md#-例-8131真实生活瞬间海报)
 ---
 
 <a id="photo"></a>
@@ -9541,6 +9547,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8125：极简时尚拼贴提示词](cat-photo.md#-例-8125极简时尚拼贴提示词)
 
 - [例 8126：雾中玻璃后的人物](cat-photo.md#-例-8126雾中玻璃后的人物)
+
+- [例 8132：身着刺绣 Shalwar Kameez 的南亚女性](cat-photo.md#-例-8132身着刺绣-shalwar-kameez-的南亚女性)
+
+- [例 8133：电影黑色风格肖像提示词](cat-photo.md#-例-8133电影黑色风格肖像提示词)
+
+- [例 8134：韩式咖啡馆自拍](cat-photo.md#-例-8134韩式咖啡馆自拍)
 ---
 
 <a id="illustration"></a>
@@ -11628,6 +11640,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8092：购物车停车场生活方式](cat-illustration.md#-例-8092购物车停车场生活方式)
 
 - [例 8115：黑暗之城：恶魔的庇护所](cat-illustration.md#-例-8115黑暗之城恶魔的庇护所)
+
+- [例 8129：芭蕾晨练提示词](cat-illustration.md#-例-8129芭蕾晨练提示词)
+
+- [例 8135：GPT Image 法式休闲穿搭](cat-illustration.md#-例-8135gpt-image-法式休闲穿搭)
+
+- [例 8136：蒸汽朋克《最后的齿轮》提示词](cat-illustration.md#-例-8136蒸汽朋克最后的齿轮提示词)
 ---
 
 <a id="character"></a>
@@ -12124,6 +12142,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8070：高级时尚夏日大片提示词](cat-character.md#-例-8070高级时尚夏日大片提示词)
 
 - [例 8118：日本游戏开发横幅](cat-character.md#-例-8118日本游戏开发横幅)
+
+- [例 8137：GPT Image 角色设定图提示词](cat-character.md#-例-8137gpt-image-角色设定图提示词)
 ---
 
 <a id="3d"></a>
@@ -13362,6 +13382,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8096：GPT Image Perfume Bottle Prompt](cat-architecture.md#️-例-8096gpt-image-perfume-bottle-prompt)
 
 - [例 8105：雪中街头阅读的女子](cat-architecture.md#️-例-8105雪中街头阅读的女子)
+
+- [例 8130：GPT Image 2 温馨家居剪贴簿海报提示词](cat-architecture.md#️-例-8130gpt-image-2-温馨家居剪贴簿海报提示词)
 ---
 
 <a id="comic"></a>

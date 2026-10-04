@@ -35401,3 +35401,139 @@ Style: premium travel magazine, sophisticated tourism poster, clean composition,
 
 ---
 
+### 🎴 例 8128：几何编辑风格人物海报
+
+![几何编辑风格人物海报](../images/%E5%87%A0%E4%BD%95%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E4%BA%BA%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个受上传参考图像启发的成品编辑风格人物海报。在保留主体可识别的身份、发型、服装细节、姿势和重要视觉特征的同时，将其转化为精致的扁平几何插画。
+
+格式锁定
+垂直 3:4 构图。边缘到边缘的温暖米白色纸张背景。单张独立海报。干净的编辑式布局。
+
+人物
+由几个超大不对称几何形状构成的一个成年角色。略微夸张的比例，小头部，细长的胶囊状四肢，简单的连指手套式手部，以及一个自然融入姿势和轮廓中的超大物体。在简化细节为图形形状的同时，保留主体的可识别外观。
+
+风格
+扁平几何插画，不对称比例，清晰色块，柔和喷枪阴影，形状重叠处细微的深色到彩色喷雾渐变，精细印刷颗粒感，主要在较暗区域内进行精致点画处理，精致的当代编辑海报美学。
+
+面部与表情
+极简黑色剪纸面部特征：简单的新月形眼睛和极简嘴巴。情感应主要通过角色的全身手势和轮廓来传达，而非详细的面部表情。
+
+调色板
+温暖米白 #F3F1EB，近黑 ⁠10100F，热粉 #F553D2，暖红 #F42726，钴蓝 ⁠293EA1，翠绿 ⁠13785D。保持颜色平坦且具有图形感，仅在形状重叠处使用受控的柔和渐变。
+
+文字
+在一个开放的纸袋内添加一行简短的小号粗体黑色大写无衬线字体说明。说明文字："{argument name="caption text" default="[MAIN_TEXT]"}"。没有其他文字、标志、标签或排版。
+
+自定义
+人物与物体：[谁 + 那个超大物体]
+手势与情感：[姿势 + 感觉]
+形状创意：[身体和物体如何形成轮廓]
+构图
+保持人物和超大物体作为主要视觉焦点。使用大量负空间和平衡的编辑式排列。物体应明显影响整体轮廓，并感觉融入人物的姿势中。
+
+负面提示
+无额外文字，无标志，无轮廓卡通风格，无光泽 3D，无真实皮肤，无照片写实主义，无粗糙画布纹理，无繁忙背景，无多余肢体，无扭曲解剖结构，无过度面部细节，无照片级写实阴影，无随机物体，无杂乱，无水印。
+
+[English]
+Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration.
+
+FORMAT LOCK
+Vertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout.
+
+CHARACTER
+One adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes.
+
+STYLE
+Flat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic.
+
+FACE & EXPRESSION
+Minimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression.
+
+PALETTE
+Warm off-white #F3F1EB, near-black ⁠10100F, hot pink #F553D2, warm red #F42726, cobalt ⁠293EA1, emerald ⁠13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap.
+
+TEXT
+Add one short caption in small bold black uppercase sans-serif inside an open paper pocket. Caption: "{argument name="caption text" default="[MAIN_TEXT]"}". No other text, logos, labels, or typography.
+
+CUSTOMIZATION
+Character & Object: [WHO + THE OVERSIZED THING]
+Gesture & Emotion: [POSE + FEELING]
+Shape Idea: [HOW BODY AND OBJECT FORM THE SILHOUETTE]
+COMPOSITION
+Keep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose.
+
+NEGATIVE PROMPT
+No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2106367821399679480) | 2026-10-03
+
+---
+
+### 🎴 例 8131：真实生活瞬间海报
+
+![真实生活瞬间海报](../images/%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%E7%9E%AC%E9%97%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考照片作为主要视觉素材，将其转化为高端“真实生活瞬间 + 插画记忆项目”编辑风格海报。
+
+创建垂直 3:4 构图，水平分为两个相等的部分。
+
+上半部分 — 逼真照片：
+保留参考图像中的原始主体、面部、身份、发型、服装、姿势、身体比例、物体和环境。保持场景高度逼真，具有自然的皮肤纹理、真实的灯光、柔和的电影感景深、微妙的暖色调以及优雅的生活方式/编辑摄影美学。不要不必要地改变人物的身份或服装。
+
+下半部分 — 手绘记忆拼贴：
+将上方照片中的重要视觉元素转化为迷人的手绘时尚/生活方式剪贴簿插图。用精致的彩色铅笔和水彩素描重新创作主体，以及关键物体、服装、配饰、花朵、食物/饮料、家具、建筑、书籍、艺术品或场景中其他可识别的细节。
+
+将这些插图元素有机地排列在温暖的象牙白/米白色纹理纸张背景上。使用精致的铅笔轮廓、微妙的水彩渲染、不完美的手绘笔触、柔和的粉彩点缀、浅粉色/蓝色/绿色素描标记、小心形、涂鸦和不显眼的装饰元素。保持插图优雅、极简、怀旧且手工制作的感觉，而不是卡通化。
+
+在插图部分的顶部附近添加一个小手写草书标题，反映原始照片的情绪，例如“little moments”、“slow morning”、“a little memory”或其他符合语境的短语。在底部附近添加非常小的手写装饰文字。
+
+插图部分应感觉像个人视觉日记 / 时尚杂志剪贴簿 / 记忆日志，同时仍将每个插图元素与原始照片清晰连接。
+
+风格：精致编辑剪贴簿、彩色铅笔插图、精致水彩、复古纸张纹理、舒适的生活方式美学、柔和粉彩调色板、细微的不完美、优雅的构图、高端 Pinterest/编辑设计、怀旧和艺术感。
+
+构图：干净的间距、平衡的负空间、无杂乱、逼真照片与插图记忆部分之间的无缝过渡、逼真上半部分 + 手绘下半部分、高细节、自然比例。
+
+重要提示：保持原始照片的可识别性，并保留主体的身份和主要视觉细节。不要引入无关物体。避免过多的文字、标志、边框、贴纸或卡通风格的渲染。
+
+简短版本
+
+将上传的照片转化为 3:4 高端“真实照片 + 插画记忆剪贴簿”海报。保持顶部 50% 为原始照片的高度逼真版本，保留主体的身份、姿势、服装、环境、灯光和重要细节。将
+
+[English]
+Use the uploaded reference photo as the primary visual reference and transform it into a premium “real-life moment + illustrated memory board” editorial poster.
+
+Create a vertical 3:4 composition divided horizontally into two equal sections.
+
+TOP HALF — REALISTIC PHOTO:
+Preserve the original subject, face, identity, hairstyle, clothing, pose, body proportions, objects, and environment from the reference image. Keep the scene highly photorealistic with natural skin texture, realistic lighting, soft cinematic depth of field, subtle warm tones, and an elegant lifestyle/editorial photography aesthetic. Do not change the person’s identity or outfit unnecessarily.
+
+BOTTOM HALF — HAND-DRAWN MEMORY COLLAGE:
+Convert the important visual elements from the top photograph into a charming hand-drawn fashion/lifestyle scrapbook illustration. Recreate the subject as a delicate colored-pencil and watercolor sketch, along with the key objects, clothing, accessories, flowers, food/drinks, furniture, architecture, books, artwork, or other recognizable details from the scene.
+
+Arrange these illustrated elements organically across a warm ivory/off-white textured paper background. Use delicate pencil outlines, subtle watercolor washes, imperfect hand-drawn strokes, soft pastel accents, light pink/blue/green sketch marks, tiny hearts, doodles, and understated decorative elements. Keep the illustrations elegant, minimal, nostalgic, and handmade rather than cartoonish.
+
+Add a small handwritten cursive title near the top of the illustrated section that reflects the mood of the original photo, such as “little moments,” “slow morning,” “a little memory,” or another context-appropriate phrase. Add very small handwritten decorative text near the bottom.
+
+The illustrated section should feel like a personal visual diary / fashion magazine scrapbook / memory journal, while still clearly connecting every illustrated element to the original photograph.
+
+Style: sophisticated editorial scrapbook, colored-pencil illustration, delicate watercolor, vintage paper texture, cozy lifestyle aesthetic, soft pastel palette, subtle imperfections, elegant composition, premium Pinterest/editorial design, nostalgic and artistic.
+
+Composition: clean spacing, balanced negative space, no clutter, seamless transition between the realistic photograph and illustrated memory section, realistic top half + hand-drawn bottom half, high detail, natural proportions.
+
+Important: Keep the original photo recognizable and preserve the subject’s identity and major visual details. Do not introduce unrelated objects. Avoid excessive text, logos, borders, stickers, or cartoon-style rendering.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2106287796042232218) | 2026-10-03
+
+---
+

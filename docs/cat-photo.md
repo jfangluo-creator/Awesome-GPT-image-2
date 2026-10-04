@@ -73384,3 +73384,101 @@ Important: no watermark, no extra text, no logo, no distorted hands, no duplicat
 
 ---
 
+### 📷 例 8132：身着刺绣 Shalwar Kameez 的南亚女性
+
+![身着刺绣 Shalwar Kameez 的南亚女性](../images/%E8%BA%AB%E7%9D%80%E5%88%BA%E7%BB%A3%20Shalwar%20Kameez%20%E7%9A%84%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真优雅的肖像，描绘一位年轻的南亚女性优雅地坐在现代米色沙发上，背景是温暖、奢华的室内环境。她身穿精美的珊瑚粉色巴基斯坦刺绣 shalwar kameez，饰有复杂的银金色花卉刺绣，搭配同款长裤和一条精致的透明欧根纱 dupatta，自然地披在肩臂上。她留着短而柔和的深棕色头发，佩戴优雅的传统 jhumka 耳环，妆容淡雅，嘴唇呈柔和粉色，眼部轮廓分明，面带温柔自然的微笑。一只手轻轻触碰耳边的头发，另一只手自然放在腿上。坐姿优雅，双腿交叉，穿着高跟鞋。温暖的环境光，舒适模糊的背景，柔和的灯光，浅景深，奶油般散景，奢华时尚摄影，真实皮肤质感，自然面部细节，精细的刺绣和面料纹理，电影感构图，85mm 人像镜头，柔和暖色调，超写实，高细节，无人工/塑料感皮肤，无文字，无水印。
+
+[English]
+Photorealistic elegant portrait of a young South Asian woman seated gracefully on a modern beige sofa in a warm, luxurious indoor setting. She is wearing a beautiful {argument name="clothing color" default="coral-pink"} Pakistani embroidered shalwar kameez with intricate silver and gold floral embroidery, matching trousers, and a delicate sheer organza dupatta draped naturally over her shoulders and arms. She has short, softly styled dark-brown hair, elegant traditional jhumka earrings, subtle makeup, soft pink lips, defined eyes, and a gentle natural smile. One hand is lightly touching her hair near the ear while the other rests naturally on her lap. Graceful seated pose with crossed legs and elegant heels. Warm ambient lighting, cozy blurred background, soft lamp glow, shallow depth of field, creamy bokeh, luxury fashion photography, realistic skin texture, natural facial details, detailed embroidery and fabric texture, cinematic composition, 85mm portrait lens, soft warm tones, ultra-realistic, high detail, no artificial/plastic skin, no text, no watermark.
+```
+
+**来源：** [@Zarnish](https://x.com/ZarnishNael/status/2106250548844634161) | 2026-10-03
+
+---
+
+### 📷 例 8133：电影黑色风格肖像提示词
+
+![电影黑色风格肖像提示词](../images/%E7%94%B5%E5%BD%B1%E9%BB%91%E8%89%B2%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实、电影感、高级时尚编辑风格的肖像，描绘一位二十岁出头、极具魅力的英俊年轻男子。他拥有浓密自然的波浪状乌黑头发、粗犷阳刚的眉毛、深邃强烈的深棕色眼睛、轮廓分明的雕塑般下颌线、细微的自然胡茬，以及带有可见毛孔的真实皮肤质感。
+
+概念与构图：
+
+一幅精致神秘的黑色电影肖像，展现一位英俊的年轻男子站在覆盖着威尼斯百叶窗的大窗户旁。锐利平行的光带和深沉阴影戏剧性地投射在他的脸上，形成光影交错的强烈视觉效果。他那穿透力的双眼在阴影中依然清晰可见，直视镜头，流露出自信、强烈且神秘的表情。
+
+灯光与氛围：
+
+戏剧性的明暗对比（Chiaroscuro）照明，温暖柔和的金色光线透过威尼斯百叶窗过滤，在他额头、眼睛、鼻子、脸颊和下颌线上投下完美定义的横向阴影线条。深邃丰富的黑色与他面部特征上的微妙高光形成对比，营造出神秘、精致的neo-noir（新黑色电影）氛围。微妙的电影反射和精致的边缘光凸显了他凌乱的头发和雕塑般的面部结构。
+
+服装与背景：
+
+身穿剪裁完美的黑色奢华西装，搭配略微敞开的黑色衬衫，营造出精致、毫不费力的男性美学。黑暗极简主义的室内环境，近乎黑色的背景，柔和模糊的建筑细节和微妙的大气雾霭。
+
+相机与细节：
+
+极致特写肖像，略微倾斜的构图，85mm 人像镜头，浅景深，焦点锐利对准眼睛，自然皮肤纹理，真实面部解剖结构，电影级色彩分级，丰富黑色，柔和暖色高光，深沉阴影，高端奢华时尚广告摄影，精致黑色电影美学，8K 超高清，HDR，照片级真实感，戏剧性电影叙事。
+
+情绪：神秘、自信、强烈、优雅、黑暗且令人无法抗拒的精致。
+
+宽高比：4:5（竖版肖像）。
+
+无文字，无水印，无人工痕迹的皮肤，无过度修图，无扭曲的面部特征，无多余主体。
+
+[English]
+Ultra-realistic, cinematic, high-fashion editorial portrait of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair, strong masculine eyebrows, intense deep dark-brown eyes, a sharply defined sculpted jawline, subtle natural stubble, and realistic skin texture with visible pores.
+
+CONCEPT & COMPOSITION:
+
+A sophisticated, mysterious film-noir portrait featuring a handsome young man standing beside a large window covered with Venetian blinds. Sharp, parallel bands of light and deep shadows fall dramatically across his face, creating a striking interplay of light and darkness. His piercing eyes remain clearly visible through the shadows, staring directly into the camera with a confident, intense and enigmatic expression.
+
+LIGHTING & ATMOSPHERE:
+
+Dramatic chiaroscuro lighting with warm, soft golden light filtering through the Venetian blinds, casting perfectly defined horizontal shadow lines across his forehead, eyes, nose, cheeks and jawline. Deep, rich blacks contrast with subtle highlights on his facial features, creating a mysterious, sophisticated neo-noir atmosphere. Subtle cinematic reflections and delicate rim lighting accentuate his tousled hair and sculpted facial structure.
+
+OUTFIT & BACKGROUND:
+
+Wearing a perfectly tailored black luxury suit with a slightly open black shirt, creating a refined, effortlessly masculine aesthetic. A dark, minimalistic interior with a nearly black background, softly blurred architectural details and subtle atmospheric haze.
+
+CAMERA & DETAILS:
+
+Extreme close-up portrait, slightly angled composition, 85mm portrait lens, shallow depth of field, razor-sharp focus on the eyes, natural skin texture, realistic facial anatomy, cinematic color grading, rich blacks, muted warm highlights, deep shadows, premium luxury fashion campaign photography, sophisticated noir aesthetic, 8K ultra-HD, HDR, photorealistic, dramatic cinematic storytelling.
+
+MOOD: Mysterious, confident, intense, elegant, dark and irresistibly sophisticated.
+
+Aspect Ratio: 4:5 (vertical portrait).
+
+No text, no watermark, no artificial-looking skin, no excessive retouching, no distorted facial features, no extra subjects.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2106237688127111667) | 2026-10-03
+
+---
+
+### 📷 例 8134：韩式咖啡馆自拍
+
+![韩式咖啡馆自拍](../images/%E9%9F%A9%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的年轻韩国女性，留着柔顺的棕色长发并扎成松散的马尾，妆容呈现光泽感的韩系风格，带有柔和的腮红、自然水润的肌肤、饱满亮泽的双唇以及精致的五官，散发着可爱青春的魅力。她正在一家现代韩式咖啡馆内随意地自拍，身穿合身的黑色无袖上衣，双手捧着一杯冰香草拿铁。温暖的午后阳光透过大窗户洒入室内，营造出舒适的中性色调内饰氛围，伴有柔和的阴影。表情自然随性，嘴唇微微嘟起，姿态放松。皮肤纹理真实细腻，展现微妙的美感细节，采用逼真的智能手机摄影风格，具备清晰的高分辨率细节、自然的照明效果以及正宗的韩国生活方式美学，4K 画质。
+
+[English]
+A beautiful young Korean woman with long silky brown hair in a loose ponytail, glossy Korean makeup, soft blush, naturally dewy skin, glossy plump lips, delicate facial features, cute youthful charm, taking a casual selfie inside a modern Korean café, wearing a fitted black sleeveless top, holding an iced vanilla latte with both hands, warm afternoon sunlight coming through large windows, cozy neutral interior, soft shadows, candid expression, slightly pouty lips, relaxed pose, realistic skin texture, subtle beauty details, photorealistic smartphone photography, crisp high-resolution details, natural lighting, authentic Korean lifestyle aesthetic, 4K.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2106227888395784520) | 2026-10-03
+
+---
+

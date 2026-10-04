@@ -17079,3 +17079,75 @@ A high-resolution, cinematic digital illustration with a cyberpunk aesthetic. Th
 
 ---
 
+### 🖥️ 例 8127：极简时尚线条艺术插画
+
+![极简时尚线条艺术插画](../images/%E6%9E%81%E7%AE%80%E6%97%B6%E5%B0%9A%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为一幅完整的极简主义编辑风格时尚插画。仅将照片作为视觉参考。最终图像中不得出现原始照片的任何部分。
+
+格式锁定
+垂直 3:4 构图。一幅独立的插画。无拼贴，无嵌入照片，无参考缩略图，无重复图像，无边框，无界面元素。
+
+身份与构图锁定
+保留人物可识别的外貌、发型、刘海、面部结构、墨镜、表情、头部位置、身体比例、姿势、手势、服装、配饰、珠宝及整体轮廓。保持原始的相机视角、取景方式、视觉层次，以及人物、棉花糖和摩天轮之间的关系。
+
+风格
+在暖色调米白/象牙色纸张上呈现精致的黑白极简时尚插画。优雅的当代生活方式插画，高端编辑风格时尚素描，细腻精致的黑色墨水轮廓线，干净连续的笔触，微妙的线条粗细变化，精致的手绘质感，轻盈且高级的填色书美学。
+
+主体与服装
+将人物重塑为简化但清晰可辨的插画角色。准确保留超大蓬松夹克、花卉装饰、刺绣细节（以线条表现）、绿色饰边、图形 T 恤、层叠项链、耳环、戒指、手镯、服装比例、褶皱及轮廓。面部细节保持简约但可识别。
+
+物体与姿势
+保留左侧显著的蓬松大棉花糖。展示一只手握住棉花糖棒，另一只手伸向嘴部。维持原始姿势、动作及个性特征。
+
+背景
+将游乐园环境完全重构为极简黑色线条艺术。保留摩天轮、座舱、中心结构、游乐园建筑、周围建筑物、远处天际线、雨伞、游乐场设施、路面、背景人物、长椅、云朵、飞鸟及其他可识别元素。将摩天轮作为主要背景元素，但避免写实处理。
+
+线条艺术
+在暖象牙色纸张上使用清晰优雅的黑色墨水。精细平滑的轮廓，干净的交叉点，受控的线条粗细，极少的阴影，微妙的手绘纹理。对摩天轮、服装、棉花糖、珠宝和建筑使用稍多的细节，对远处元素使用更简单的线条。
+
+色彩与纸张
+仅使用黑色线条。暖奶油色/象牙色纸张背景。无彩色区域，无写实像素，无水彩，无数字绘画，无 3D 渲染，无实心黑色填充，无重阴影，无排线阴影。
+
+最终结果
+一幅高端独立的编辑风格时尚插画，忠实保留参考图中的人物、服装、姿势、棉花糖、摩天轮及游乐园环境，同时将其转化为
+
+[English]
+Transform the uploaded photograph into one finished minimalist editorial fashion illustration. Use the photograph only as the visual reference. The original photograph must NOT appear anywhere in the final image.
+
+FORMAT LOCK
+Vertical 3:4 composition. One standalone illustration. No collage, no inset photo, no reference thumbnail, no duplicated image, no frame, no interface.
+
+IDENTITY & COMPOSITION LOCK
+Preserve the person’s recognizable appearance, hairstyle, bangs, face structure, sunglasses, expression, head position, body proportions, pose, hand gestures, clothing, accessories, jewelry, and overall silhouette. Preserve the original camera perspective, framing, visual hierarchy, relationship between the person, cotton candy, and Ferris wheel.
+
+STYLE
+Sophisticated black-and-white minimalist fashion illustration on warm off-white / ivory paper. Elegant contemporary lifestyle illustration, premium editorial fashion sketch, fine delicate black-ink contour lines, clean continuous strokes, subtle line-weight variation, refined hand-drawn quality, airy and sophisticated fashion coloring-book aesthetic.
+
+SUBJECT & CLOTHING
+Recreate the person as a simplified but clearly recognizable illustrated character. Accurately preserve the oversized fluffy jacket, floral decorations, embroidered details, green trim translated into linework, graphic T-shirt, layered necklaces, earrings, rings, bracelets, clothing proportions, folds, and silhouette. Keep facial details minimal but recognizable.
+
+OBJECTS & POSE
+Preserve the large fluffy cotton candy as a prominent element on the left. Show the hand gripping the cotton-candy stick and the other hand reaching toward the mouth. Maintain the original pose, action, and personality.
+
+BACKGROUND
+Recreate the amusement-park environment entirely as minimalist black line art. Preserve the Ferris wheel, cabins, central structure, amusement-park architecture, surrounding buildings, distant skyline, umbrellas, fairground structures, pavement, background people, benches, clouds, flying bird, and other recognizable elements. Keep the Ferris wheel as a major background element without making it photorealistic.
+
+LINE ART
+Crisp elegant black ink on warm ivory paper. Fine smooth contours, clean intersections, controlled line weight, minimal shading, and subtle hand-drawn texture. Use slightly more detail for the Ferris wheel, clothing, cotton candy, jewelry, and architecture, with simpler lines for distant elements.
+
+COLOR & PAPER
+Black linework only. Warm cream / ivory paper background. No colored areas, no photorealistic pixels, no watercolor, no digital painting, no 3D rendering, no filled black areas, no heavy shadows, no crosshatching.
+
+FINAL RESULT
+A premium standalone editorial fashion illustration that faithfully preserves the person, outfit, pose, cotton candy, Ferris wheel, and amusement-park environment from the reference while tra
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2106420974258123246) | 2026-10-03
+
+---
+
