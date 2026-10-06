@@ -5251,3 +5251,705 @@ Composition: vertical 3:4, balanced negative space, strong focal point, seamless
 
 ---
 
+### 🔧 例 8146：GPT Image 2 角色参考表提示词
+
+![GPT Image 2 角色参考表提示词](../images/GPT%20Image%202%20%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E8%A1%A8%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的 REFERENCE IMAGE（参考图像）作为 MAIN SUBJECT（主要主体）的唯一身份参考，创建一份高端专业的角色参考表。
+
+重要事项：
+最终图像必须包含 EXACTLY 10 frames/panels（恰好 10 个帧/面板）。
+不要添加额外的帧。
+不要移除任何帧。
+不要更改面板排列。
+
+使用以下 EXACT 2-ROW, 10-FRAME layout（精确的 2 行 10 帧布局）：
+
+TOP ROW = 5 FACE / HEAD-AND-SHOULERS VIEWS（顶行 = 5 个面部 / 头肩视图）
+BOTTOM ROW = 5 FULL-BODY VIEWS（底行 = 5 个全身视图）
+
+构图、帧数、姿势序列和相机角度必须完全按照以下指定内容保持不变。
+
+==================================================
+REFERENCE & IDENTITY LOCK（参考与身份锁定）
+==================================================
+
+将上传的参考图像用作 MAIN SUBJECT'S identity（主要主体身份）的唯一真实来源。
+
+保留人物的确切特征：
+- Facial identity（面部身份）
+- Facial structure（面部结构）
+- Skin tone（肤色）
+- Eye shape and natural eye color（眼形和自然瞳色）
+- Eyebrows（眉毛）
+- Nose（鼻子）
+- Lips（嘴唇）
+- Jawline（下颌线）
+- Cheek structure（脸颊结构）
+- Hairstyle（发型）
+- Hairline（发际线）
+- Hair color（发色）
+- Hair texture（发质）
+- Hair length（头发长度）
+- Age appearance（年龄外观）
+- Natural facial features（自然面部特征）
+- Body proportions（身体比例）
+- Physique（体格）
+- Overall recognizable appearance（整体可识别外观）
+
+参考图像可以是 MALE（男性）或 FEMALE（女性）。
+
+如果参考是男性，保持主体为男性。
+如果参考是女性，保持主体为女性。
+
+不要改变人物身份。
+不要创建看起来不同的版本。
+不要美化或修改面部结构。
+
+==================================================
+EXACT FINAL LAYOUT — 10 FRAMES（精确最终布局 — 10 帧）
+==================================================
+
+ROW 1 — FACE REFERENCE（第 1 行 — 面部参考）
+Exactly 5 frames（恰好 5 帧）：
+
+FRAME 1:
+FRONT VIEW（正面视图）
+- Straight-on face（正对镜头的脸）
+- Head facing directly toward camera（头部直接面向相机）
+- Neutral expression（中性表情）
+- Head and shoulders visible（可见头部和肩膀）
+
+FRAME 2:
+3/4 LEFT VIEW（左 3/4 视图）
+- Head turned approximately 45 degrees to the subject's LEFT（头部向主体的左侧旋转约 45 度）
+- Face clearly visible（面部清晰可见）
+- Head and shoulders visible（可见头部和肩膀）
+
+FRAME 3:
+LEFT PROFILE（左侧面轮廓）
+- Exact left-side profile（精确的左侧轮廓）
+- Approximately 90-degree rotation（约 90 度旋转）
+- Nose, lips, chin, jawline and hair silhouette clearly visible（鼻子、嘴唇、下巴、下颌线和头发轮廓清晰可见）
+
+FRAME 4:
+3/4 RIGHT VIEW（右 3/4 视图）
+- Head turned approximately 45 degrees to the subject's RIGHT（头部向主体的右侧旋转约 45 度）
+- Face clearly visible（面部清晰可见）
+- Head and shoulders visible（可见头部和肩膀）
+
+FRAME 5:
+RIGHT PROFILE（右侧面轮廓）
+- Exact right-side profile（精确的右侧轮廓）
+- Approximately 90-degree rotation（约 90 度旋转）
+- Complete facial silhouette clearly visible（完整的面部轮廓清晰可见）
+
+TOP ROW ORDER MUST BE（顶行顺序必须为）：
+
+FRONT | 3/4 LEFT | LEFT PROFILE | 3/4 RIGHT | RIGHT PROFILE
+
+==================================================
+ROW 2 — FULL BODY REFERENCE（第 2 行 — 全身参考）
+==================================================
+
+Exactly 5 frames（恰好 5 帧）：
+
+FRAME 6:
+FRONT FULL-BODY VIEW（正面全身视图）
+- Subject standing naturally（主体自然站立）
+- Facing directly toward camera（直接面向相机）
+- Entire body visible from head to feet（从头顶到脚底全身可见）
+- Arms naturally relaxed beside the body（手臂自然放松垂于身体两侧）
+- Feet visible（脚部可见）
+
+FRAME 7:
+3/4 LEFT FULL-BODY VIEW（左 3/4 全身视图）
+- Body rotated approximately 45 degrees to the subject's LEFT（身体向主体的左侧旋转约 45 度）
+- Entire body visible（全身可见）
+- Natural standing posture（自然站姿）
+- Feet visible（脚部可见）
+
+FRAME 8:
+LEFT PROFILE FULL-BODY VIEW（左侧面全身视图）
+- Exact left-side profile（精确的左侧轮廓）
+- Body rotated approximately 90 degrees（身体旋转约 90 度）
+- Entire body visible from head to feet（从头顶到脚底全身可见）
+
+FRAME 9:
+3/4 RIGHT FULL-BODY VIEW（右 3/4 全身视图）
+- Body rotated approximately 45 degrees to the subject's RIGHT（身体向主体的右侧旋转约 45 度）
+- Entire body visible（全身可见）
+- Natural standing posture（自然站姿）
+- Feet visible（脚部可见）
+
+FRAME 10:
+BACK FULL-BODY VIEW（背面全身视图）
+- Subject facing completely away from camera（主体完全背对相机）
+- Full back visible（背部完全可见）
+- Entire body visible from head to feet（从头顶到脚底全身可见）
+- Hair visible from the back（从背面可见头发）
+- Natural standing posture（自然站姿）
+
+BOTTOM ROW ORDER MUST BE（底行顺序必须为）：
+
+FRONT | 3/4 LEFT | LEFT PROFILE | 3/4 RIGHT | BACK
+
+==================================================
+CRITICAL CONSISTENCY（关键一致性）
+==================================================
+
+ALL 10 FRAMES MUST SHOW EXACTLY THE SAME PERSON（所有 10 帧必须展示完全相同的人）。
+
+保持相同的：
+- Face（面部）
+- Hair（头发）
+- Hairline（发际线）
+- Hair color（发色）
+- Facial proportions（面部比例）
+- Body proportions（身体比例）
+- Height（身高）
+- Physique（体格）
+- Skin tone（肤色）
+- Age appearance（年龄外观）
+- Clothing（服装）
+- Accessories（配饰）
+
+这个人不能看起来像 10 个不同的人。
+
+面部身份必须在每一帧之间保持一致。
+
+身体比例必须在每个全身帧之间保持一致。
+
+==================================================
+CLOTHING（服装）
+==================================================
+
+使用一套简单、干净、合身的服装，适合专业的角色/模型参考表。
+
+The EXACT SAME outfit must appear in all 10 frames（完全相同的服装必须出现在所有 10 帧中）。
+
+不要在面板之间更换服装。
+
+不要在面板之间更换发型。
+
+不要在面板之间更换配饰。
+
+如果上传的参考具有重要的可识别发型或外观，请予以保留。
+
+==================================================
+BACKGROUND & PRESENTATION（背景与呈现）
+==================================================
+
+Clean professional light-gray/white studio background（干净专业的浅灰色/白色工作室背景）。
+
+Minimal environment（极简环境）。
+
+No scenery（无风景）。
+
+No props（无道具）。
+
+No dramatic background（无戏剧性背景）。
+
+No unnecessary objects（无不必要物体）。
+
+All 10 frames should appear as one professionally photographed character reference sheet（所有 10 帧应呈现为一张专业拍摄的角色参考表）。
+
+Use consistent studio lighting across every frame（在每个帧中使用一致的影棚灯光）。
+
+Soft, neutral, evenly distributed lighting（柔和、中性、均匀分布的光线）。
+
+Minimal shadows（极少阴影）。
+
+==================================================
+CAMERA CONSISTENCY（相机一致性）
+==================================================
+
+Use consistent professional studio photography（使用一致的专业影棚摄影）。
+
+FACE FRAMES（面部帧）：
+Head-and-shoulders framing（头肩取景）。
+
+FULL-BODY FRAMES（全身帧）：
+Head-to-feet framing with the entire body completely visible（从头到脚的取景，全身完全可见）。
+
+Maintain consistent camera height, focal length, lighting, and distance（保持一致的相机高度、焦距、灯光和距离）。
+
+Avoid wide-angle distortion（避免广角畸变）。
+
+Keep facial proportions natural and accurate（保持面部比例自然准确）。
+
+==================================================
+PANEL DESIGN（面板设计）
+==================================================
+
+Create a clean rectangular 2-row grid（创建一个干净的矩形 2 行网格）。
+
+Exactly 5 equal-width panels on the TOP ROW（顶行恰好 5 个等宽面板）。
+
+Exactly 5 equal-width panels on the BOTTOM ROW（底行恰好 5 个等宽面板）。
+
+All panels should have matching dimensions（所有面板应具有匹配的尺寸）。
+
+Clean spacing between panels（面板之间有干净的间距）。
+
+Professional production-model-sheet appearance（专业的制作模型表外观）。
+
+Add small, clean labels beneath or within each panel（在每个面板下方或内部添加小且干净的标签）：
+
+TOP（顶部）：
+FRONT
+3/4 LEFT
+LEFT PROFILE
+3/4 RIGHT
+RIGHT PROFILE
+
+BOTTOM（底部）：
+FRONT
+3/4 LEFT
+LEFT PROFILE
+3/4 RIGHT
+BACK
+
+Labels must be small, clean, professional, and unobtrusive（标签必须小、干净、专业且不显眼）。
+
+==================================================
+POSE LOCK（姿势锁定）
+==================================================
+
+Do NOT invent additional poses（不要发明额外的姿势）。
+
+Use ONLY these specified views and poses（仅使用这些指定的视图和姿势）。
+
+TOP ROW（顶行）：
+1. Front
+2. 3/4 Left
+3. Left Profile
+4. 3/4 Right
+5. Right Profile
+
+BOTTOM ROW（底行）：
+6. Front
+7. 3/4 Left
+8. Left Profile
+9. 3/4 Right
+10. Back
+
+The pose sequence must remain exactly the same（姿势序列必须完全保持不变）。
+
+==================================================
+PROFESSIONAL USE（专业用途）
+==================================================
+
+生成的表格应作为专业角色一致性参考，用于：
+
+AI image generation（AI 图像生成）
+AI video generation（AI 视频生成）
+Animation（动画）
+Film production（电影制作）
+Storyboarding（故事板绘制）
+Character design（角色设计）
+Fashion visualization（时尚可视化）
+3D character development（3D 角色开发）
+
+Every angle should clearly communicate the same person's identity and physical appearance（每个角度都应清晰地传达同一个人的身份和外貌）。
+
+==================================================
+NEGATIVE CONSTRAINTS（负面约束）
+==================================================
+
+EXACTLY 10 FRAMES ONLY（仅恰好 10 帧）。
+
+No 8 frames（无 8 帧）。
+No 9 frames（无 9 帧）。
+No 11 frames（无 11 帧）。
+No extra portraits（无额外肖像）。
+No extra poses（无额外姿势）。
+No additional panels（无额外面板）。
+
+No identity change（无身份改变）。
+No different person（无不同人物）。
+No face variation（无面部变化）。
+No face blending（无面部混合）。
+No gender change（无性别改变）。
+No age change（无年龄改变）。
+No hairstyle change（无发型改变）。
+No hair color change（无发色改变）。
+No body-shape change（无体型改变）。
+No inconsistent clothing（无不一致服装）。
+No inconsistent proportions（无不一致比例）。
+No duplicated panels（无重复面板）。
+No missing panels（无缺失面板）。
+No distorted profile（无扭曲轮廓）。
+No distorted hands（无扭曲手部）。
+No extra fingers（无多余手指）。
+No extra limbs（无多余肢体）。
+No cropped feet in full-body frames（全身帧中脚部不被裁剪）。
+No cropped head in face frames（面部帧中头部不被裁剪）。
+No extreme camera distortion（无极端相机畸变）。
+No cartoon style（无卡通风格）。
+No CGI appearance（无 CGI 外观）。
+No plastic skin（无塑料皮肤）。
+No text except the specified small view labels（除指定的小视图标签外无文本）。
+No watermark（无水印）。
+No logo（无标志）。
+
+FINAL OUTPUT（最终输出）：
+A single clean professional 2-row × 5-column character reference sheet containing EXACTLY 10 consistent views of the same person（一张干净专业的 2 行 × 5 列角色参考表，包含同一个人恰好 10 个一致的视图）。
+
+RESOLUTION LOCK（分辨率锁定）：
+Generate the final image in 16K resolution — 15360 × 8640 pixels (≈132.7 million pixels), landscape 16:9 composition（以 16K 分辨率生成最终图像 — 15360 × 8640 像素（约 1.327 亿像素），横向 16:9 构图）。
+
+[English]
+Create a premium professional character reference sheet using the uploaded REFERENCE IMAGE as the ONLY identity reference for the MAIN SUBJECT.
+
+IMPORTANT:
+The final image MUST contain EXACTLY 10 frames/panels.
+Do NOT add extra frames.
+Do NOT remove any frames.
+Do NOT change the panel arrangement.
+
+Use the following EXACT 2-ROW, 10-FRAME layout:
+
+TOP ROW = 5 FACE / HEAD-AND-SHOULERS VIEWS
+BOTTOM ROW = 5 FULL-BODY VIEWS
+
+The composition, number of frames, pose sequence, and camera angles must remain exactly as specified below.
+
+==================================================
+REFERENCE & IDENTITY LOCK
+==================================================
+
+Use the uploaded reference image as the single source of truth for the MAIN SUBJECT'S identity.
+
+Preserve the person's exact:
+- Facial identity
+- Facial structure
+- Skin tone
+- Eye shape and natural eye color
+- Eyebrows
+- Nose
+- Lips
+- Jawline
+- Cheek structure
+- Hairstyle
+- Hairline
+- Hair color
+- Hair texture
+- Hair length
+- Age appearance
+- Natural facial features
+- Body proportions
+- Physique
+- Overall recognizable appearance
+
+The reference may be MALE or FEMALE.
+
+If the reference is male, keep the subject male.
+If the reference is female, keep the subject female.
+
+Do NOT change the person's identity.
+Do NOT create a different-looking version of the person.
+Do NOT beautify or modify facial structure.
+
+==================================================
+EXACT FINAL LAYOUT — 10 FRAMES
+==================================================
+
+ROW 1 — FACE REFERENCE
+Exactly 5 frames:
+
+FRAME 1:
+FRONT VIEW
+- Straight-on face
+- Head facing directly toward camera
+- Neutral expression
+- Head and shoulders visible
+
+FRAME 2:
+3/4 LEFT VIEW
+- Head turned approximately 45 degrees to the subject's LEFT
+- Face clearly visible
+- Head and shoulders visible
+
+FRAME 3:
+LEFT PROFILE
+- Exact left-side profile
+- Approximately 90-degree rotation
+- Nose, lips, chin, jawline and hair silhouette clearly visible
+
+FRAME 4:
+3/4 RIGHT VIEW
+- Head turned approximately 45 degrees to the subject's RIGHT
+- Face clearly visible
+- Head and shoulders visible
+
+FRAME 5:
+RIGHT PROFILE
+- Exact right-side profile
+- Approximately 90-degree rotation
+- Complete facial silhouette clearly visible
+
+TOP ROW ORDER MUST BE:
+
+FRONT | 3/4 LEFT | LEFT PROFILE | 3/4 RIGHT | RIGHT PROFILE
+
+==================================================
+ROW 2 — FULL BODY REFERENCE
+==================================================
+
+Exactly 5 frames:
+
+FRAME 6:
+FRONT FULL-BODY VIEW
+- Subject standing naturally
+- Facing directly toward camera
+- Entire body visible from head to feet
+- Arms naturally relaxed beside the body
+- Feet visible
+
+FRAME 7:
+3/4 LEFT FULL-BODY VIEW
+- Body rotated approximately 45 degrees to the subject's LEFT
+- Entire body visible
+- Natural standing posture
+- Feet visible
+
+FRAME 8:
+LEFT PROFILE FULL-BODY VIEW
+- Exact left-side profile
+- Body rotated approximately 90 degrees
+- Entire body visible from head to feet
+
+FRAME 9:
+3/4 RIGHT FULL-BODY VIEW
+- Body rotated approximately 45 degrees to the subject's RIGHT
+- Entire body visible
+- Natural standing posture
+- Feet visible
+
+FRAME 10:
+BACK FULL-BODY VIEW
+- Subject facing completely away from camera
+- Full back visible
+- Entire body visible from head to feet
+- Hair visible from the back
+- Natural standing posture
+
+BOTTOM ROW ORDER MUST BE:
+
+FRONT | 3/4 LEFT | LEFT PROFILE | 3/4 RIGHT | BACK
+
+==================================================
+CRITICAL CONSISTENCY
+==================================================
+
+ALL 10 FRAMES MUST SHOW EXACTLY THE SAME PERSON.
+
+Maintain identical:
+- Face
+- Hair
+- Hairline
+- Hair color
+- Facial proportions
+- Body proportions
+- Height
+- Physique
+- Skin tone
+- Age appearance
+- Clothing
+- Accessories
+
+The person must not look like 10 different generations.
+
+The facial identity must remain consistent between every frame.
+
+The body proportions must remain consistent between every full-body frame.
+
+==================================================
+CLOTHING
+==================================================
+
+Use one simple, clean, fitted outfit suitable for a professional character/model reference sheet.
+
+The EXACT SAME outfit must appear in all 10 frames.
+
+Do not change clothing between panels.
+
+Do not change hairstyle between panels.
+
+Do not change accessories between panels.
+
+If the uploaded reference has an important recognizable hairstyle or appearance, preserve it.
+
+==================================================
+BACKGROUND & PRESENTATION
+==================================================
+
+Clean professional light-gray/white studio background.
+
+Minimal environment.
+
+No scenery.
+
+No props.
+
+No dramatic background.
+
+No unnecessary objects.
+
+All 10 frames should appear as one professionally photographed character reference sheet.
+
+Use consistent studio lighting across every frame.
+
+Soft, neutral, evenly distributed lighting.
+
+Minimal shadows.
+
+==================================================
+CAMERA CONSISTENCY
+==================================================
+
+Use consistent professional studio photography.
+
+FACE FRAMES:
+Head-and-shoulders framing.
+
+FULL-BODY FRAMES:
+Head-to-feet framing with the entire body completely visible.
+
+Maintain consistent camera height, focal length, lighting, and distance.
+
+Avoid wide-angle distortion.
+
+Keep facial proportions natural and accurate.
+
+==================================================
+PANEL DESIGN
+==================================================
+
+Create a clean rectangular 2-row grid.
+
+Exactly 5 equal-width panels on the TOP ROW.
+
+Exactly 5 equal-width panels on the BOTTOM ROW.
+
+All panels should have matching dimensions.
+
+Clean spacing between panels.
+
+Professional production-model-sheet appearance.
+
+Add small, clean labels beneath or within each panel:
+
+TOP:
+FRONT
+3/4 LEFT
+LEFT PROFILE
+3/4 RIGHT
+RIGHT PROFILE
+
+BOTTOM:
+FRONT
+3/4 LEFT
+LEFT PROFILE
+3/4 RIGHT
+BACK
+
+Labels must be small, clean, professional, and unobtrusive.
+
+==================================================
+POSE LOCK
+==================================================
+
+Do NOT invent additional poses.
+
+Use ONLY these specified views and poses.
+
+TOP ROW:
+1. Front
+2. 3/4 Left
+3. Left Profile
+4. 3/4 Right
+5. Right Profile
+
+BOTTOM ROW:
+6. Front
+7. 3/4 Left
+8. Left Profile
+9. 3/4 Right
+10. Back
+
+The pose sequence must remain exactly the same.
+
+==================================================
+PROFESSIONAL USE
+==================================================
+
+The resulting sheet should function as a professional character-consistency reference for:
+
+AI image generation
+AI video generation
+Animation
+Film production
+Storyboarding
+Character design
+Fashion visualization
+3D character development
+
+Every angle should clearly communicate the same person's identity and physical appearance.
+
+==================================================
+NEGATIVE CONSTRAINTS
+==================================================
+
+EXACTLY 10 FRAMES ONLY.
+
+No 8 frames.
+No 9 frames.
+No 11 frames.
+No extra portraits.
+No extra poses.
+No additional panels.
+
+No identity change.
+No different person.
+No face variation.
+No face blending.
+No gender change.
+No age change.
+No hairstyle change.
+No hair color change.
+No body-shape change.
+No inconsistent clothing.
+No inconsistent proportions.
+No duplicated panels.
+No missing panels.
+No distorted profile.
+No distorted hands.
+No extra fingers.
+No extra limbs.
+No cropped feet in full-body frames.
+No cropped head in face frames.
+No extreme camera distortion.
+No cartoon style.
+No CGI appearance.
+No plastic skin.
+No text except the specified small view labels.
+No watermark.
+No logo.
+
+FINAL OUTPUT:
+A single clean professional 2-row × 5-column character reference sheet containing EXACTLY 10 consistent views of the same person.
+
+RESOLUTION LOCK:
+Generate the final image in 16K resolution — 15360 × 8640 pixels (≈132.7 million pixels), landscape 16:9 composition.
+```
+
+**来源：** [@M. Asif](https://x.com/meAsifAi/status/2107123657734545700) | 2026-10-05
+
+---
+

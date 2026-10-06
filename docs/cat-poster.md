@@ -35681,3 +35681,28 @@ Visual style: Festive, warm lighting, soft focus background with subtle cloud pa
 
 ---
 
+### 🎴 例 8149：生肖鼠海报
+
+![生肖鼠海报](../images/%E7%94%9F%E8%82%96%E9%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张以优雅年轻女性为主体的竖版海报，展现中国生肖“鼠”的形象。
+画布：采用竖向肖像格式，主色调为丰富的红色与金色，呈现高分辨率数字艺术风格，注重真实质感表现。
+布局：主体居中构图。左侧为一个大型书法汉字“鼠”。文字细节位于左下象限。左下角花丛中有一只小白鼠。
+主体细节：一位美丽的亚洲女性，身穿深红色配金绣及白色毛边装饰的传统汉服风格服装。她头戴鼠耳造型，发型为精致盘发，配以金色发簪和红色流苏。她手持一盏发光的红灯笼，灯笼上写有“福”字。她的表情温柔含笑，额头点缀红色花钿（huadian）。
+文字内容：顶部中央：“十二生肖 · 鼠”。左侧大型金色书法字：“鼠”。其下方标注拼音“SHUI”及地支名称“子鼠”。左下角文本块标题为“性格特点”，列出如“聪明机智”、“适应力强”等特质。底部页脚：“新春快乐万事如意”。
+视觉风格：节日氛围浓厚，暖光照明，背景柔焦处理并带有隐约云纹图案，面料与皮肤纹理高度精细。
+
+[English]
+Create a vertical poster-style illustration of the Chinese Zodiac Rat, rendered in a highly polished digital art style with warm red and gold tones. The subject is a young woman dressed in ornate traditional Hanfu attire featuring deep crimson fabric with intricate gold floral embroidery and plush white fur trim along the collar and cuffs. She has fair skin, delicate makeup with a small red mark on her forehead, and an elaborate updo hairstyle adorned with golden hairpins and dangling red tassels. Prominently attached to her head are two large, fluffy grey rat ears with pink interiors. She holds a glowing red spherical lantern decorated with the gold character 'Fu' (fortune) and plum blossom patterns, cradling it gently with both hands. To her lower left sits a small, realistic white mouse holding a golden ring. The background is a rich gradient of dark red and brown with subtle swirling cloud motifs and blurred red flowers at the bottom corners.
+
+Include specific text elements: At the top center, place the title '十二生肖·鼠' inside a decorative border, followed by 'CHINESE ZODIAC' and smaller descriptive text below it. On the left side, feature a massive, textured gold calligraphy character for 'Rat' (鼠), with the pinyin 'SHUI' underneath in serif font, and a red rectangular stamp containing '子鼠'. Below this, add a section titled '性格特点' (Personality Traits) listing attributes like intelligence and adaptability, along with lucky colors and numbers. On the right edge, include vertical text reading '传｜统｜文｜化'. At the very bottom, display the greeting '新 / 春 / 快 / 乐 / 万 / 事 / 如 / 意' spaced out horizontally.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2106912315971170692) | 2026-10-05
+
+---
+

@@ -1453,7 +1453,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1075)
+## 🎴 [Posters & Cards](cat-poster.md) (1076)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3567,11 +3567,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8140: GPT Image 2 旅行剪贴簿海报提示词](cat-poster.md#-例-8140gpt-image-2-旅行剪贴簿海报提示词)
 
 - [Case 8144: 生肖鼠海报](cat-poster.md#-例-8144生肖鼠海报)
+
+- [Case 8149: 生肖鼠海报](cat-poster.md#-例-8149生肖鼠海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3028)
+## 📷 [Photography & Realistic](cat-photo.md) (3029)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9561,6 +9563,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8138: 山顶观景台享用 Biryani 的女性（换脸）](cat-photo.md#-例-8138山顶观景台享用-biryani-的女性换脸)
 
 - [Case 8143: 动漫角色肖像提示词](cat-photo.md#-例-8143动漫角色肖像提示词)
+
+- [Case 8145: 向日葵田中的 Minecraft 角色](cat-photo.md#-例-8145向日葵田中的-minecraft-角色)
 ---
 
 <a id="illustration"></a>
@@ -13393,7 +13397,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (285)
+## 🎬 [Comics & Storyboards](cat-comic.md) (286)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -13947,11 +13951,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8116: 素描教室中的半写实动漫少女](cat-comic.md#-例-8116素描教室中的半写实动漫少女)
 
 - [Case 8139: Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8139opus-55-vs-wife-gpt-漫画条)
+
+- [Case 8147: Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8147opus-55-vs-wife-gpt-漫画条)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (893)
+## 🏷️ [Brand & Packaging](cat-brand.md) (894)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15732,11 +15738,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8120: 香港旅行剪贴簿](cat-brand.md#️-例-8120香港旅行剪贴簿)
 
 - [Case 8142: GPT Image 2 紫色头发时尚人像提示词](cat-brand.md#️-例-8142gpt-image-2-紫色头发时尚人像提示词)
+
+- [Case 8148: 复古早餐熟食店人行道立牌](cat-brand.md#️-例-8148复古早餐熟食店人行道立牌)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (183)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (184)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16101,6 +16109,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8114: 为霓虹街机场景添加垃圾与污垢](cat-edit.md#-例-8114为霓虹街机场景添加垃圾与污垢)
 
 - [Case 8141: 超现实美食故事书插画转换](cat-edit.md#-例-8141超现实美食故事书插画转换)
+
+- [Case 8146: GPT Image 2 角色参考表提示词](cat-edit.md#-例-8146gpt-image-2-角色参考表提示词)
 ---
 
 <a id="fun"></a>

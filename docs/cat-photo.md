@@ -73532,3 +73532,21 @@ Generate the portrait now.
 
 ---
 
+### 📷 例 8145：向日葵田中的 Minecraft 角色
+
+![向日葵田中的 Minecraft 角色](../images/%E5%90%91%E6%97%A5%E8%91%B5%E7%94%B0%E4%B8%AD%E7%9A%84%20Minecraft%20%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张超写实的电影级特写镜头，展示了一个 Minecraft 风格的角色站在金色夕阳下生机勃勃的向日葵田中。该角色由方块状的体素构成，拥有深色皮肤、浓密的黑胡子，头戴绿色帽子，身穿白色 T 恤和绿色裤子。他正温柔地将一只巨大的方块状蜜蜂捧在脸旁。周围环绕着许多其他飞舞的蜜蜂，它们的翅膀呈半透明状，并呈现出逼真的运动模糊和景深效果。背景中，一道像素化的彩虹横跨橙色的天空，天空中漂浮着方块状的云朵，远处是树林线，土路上停着一辆白色小皮卡。光线温暖且具有体积感，营造出一种怀旧而宁静的氛围。
+
+[English]
+A hyper-realistic, cinematic close-up shot of a Minecraft-style character standing in a vibrant field of sunflowers during a golden sunset. The character is constructed from blocky voxels, featuring dark skin, a full black beard, and wearing a green cap with a white t-shirt and green pants. He is holding a large, blocky bee gently against his face. Surrounding him are numerous other flying bees with translucent wings, rendered with realistic motion blur and depth of field. In the background, there is a pixelated rainbow arching across an orange sky filled with blocky clouds, a distant tree line, and a small white pickup truck on a dirt road. The lighting is warm and volumetric, creating a nostalgic and peaceful atmosphere.
+```
+
+**来源：** [@Jxsfly](https://x.com/Jsxfly777/status/2107130027259076687) | 2026-10-05
+
+---
+

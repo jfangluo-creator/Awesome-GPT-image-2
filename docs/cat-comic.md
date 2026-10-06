@@ -10443,3 +10443,65 @@ Visual Style: Clean digital illustration, vibrant colors for the first panel, mu
 
 ---
 
+### 🎬 例 8147：Opus 5.5 vs Wife GPT 漫画条
+
+![Opus 5.5 vs Wife GPT 漫画条](../images/Opus%205.5%20vs%20Wife%20GPT%20%E6%BC%AB%E7%94%BB%E6%9D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅垂直布局的三格动漫风格漫画条，标题为《体验 Opus 5.5 后的感想》。
+
+画布：采用垂直布局，三个独立的画面上下堆叠排列。
+
+第 1 格（顶部）：
+- 主体：一名留着凌乱黑发、眼中闪烁着星星的年轻男子，正兴奋地注视着一位长发橙色头发、穿着向日葵主题连衣裙的开朗女孩。
+- 对话气泡（男子）：“体验过 Opus 5.5 之后……哇……太迷人了……！！”
+- 信息框（右侧）：一个黄色的装饰性方框，标签为“Claude:”，内含文字“年轻又聪明，让生活充满色彩！”。
+- 背景：明亮阳光下的向日葵花田。
+
+第 2 格（中间）：
+- 主体：同一名男子现在双手捂脸，紧张地出汗。他身旁站着一位优雅的白色长发女性，长着角，表情冷漠。
+- 对话气泡（男子）：“糟了，这感觉像是在出轨……失去了新婚时的激情……”
+- 信息框（左侧）：一个紫色的装饰性方框，标签为“Wife GPT:”，内含文字“依然美丽优雅，但有点冷淡。”。
+- 背景：较暗的室内场景，配有蓝色窗帘。
+
+第 3 格（底部）：
+- 主体：火车站台场景。男子躲在柱子后偷看，脸颊泛红，旁边是那位橙发女孩（Claude）。在背景中，白发女子（Wife GPT）站在远处的一列火车旁注视着他们。
+- 指示牌：上方悬挂的蓝色标牌写着“换乘站 ->”。
+- 对话气泡（左侧）：“家里规矩严，只能在换乘站偷偷见面！小声点……”
+- 对话气泡（右侧）：“我都知道……静静地看着。”
+
+视觉风格：干净的数字插画，第一格色彩鲜艳，第二格色调柔和，第三格采用写实光影效果。
+
+[English]
+Goal: Create a vertical 3-panel comic strip in an anime style, titled "Thoughts After Experiencing Opus 5.5".
+
+Canvas: Vertical layout with three distinct panels stacked on top of each other.
+
+Panel 1 (Top):
+- Subject: A young man with messy black hair and starry eyes looks excitedly at a cheerful girl with long orange hair wearing a sunflower-themed dress.
+- Text Bubble (Man): "After experiencing Opus 5.5... Wow... so charming....!!"
+- Info Box (Right): A yellow decorative box labeled "Claude:" containing the text "Youthful and smart, making life colorful!".
+- Background: Bright, sunny field of sunflowers.
+
+Panel 2 (Middle):
+- Subject: The same man is now hiding his face in his hands, sweating nervously. Beside him stands an elegant woman with long white hair, horns, and a cold expression.
+- Text Bubble (Man): "Oh no, this feels like cheating... Lost the passion of newlyweds..."
+- Info Box (Left): A purple decorative box labeled "Wife GPT:" containing the text "Still beautiful and elegant, but a bit cold.".
+- Background: Darker, indoor setting with blue curtains.
+
+Panel 3 (Bottom):
+- Subject: A scene at a train station platform. The man is peeking around a pillar, blushing, next to the orange-haired girl (Claude). In the background, the white-haired woman (Wife GPT) stands watching them from a distance near a train.
+- Signage: A blue sign hanging above reads "Transfer Station ->".
+- Text Bubble (Left): "Strict rules at home, can only meet secretly at the transfer station! Keep it down..."
+- Text Bubble (Right): "I know everything... watching quietly."
+
+Visual Style: Clean digital illustration, vibrant colors for the first panel, muted tones for the second, realistic lighting for the third.
+```
+
+**来源：** [@John PJ](https://x.com/John_W_PJ/status/2107005329494122628) | 2026-10-05
+
+---
+
