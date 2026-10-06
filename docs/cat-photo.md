@@ -73482,3 +73482,53 @@ A beautiful young Korean woman with long silky brown hair in a loose ponytail, g
 
 ---
 
+### 📷 例 8138：山顶观景台享用 Biryani 的女性（换脸）
+
+![山顶观景台享用 Biryani 的女性（换脸）](../images/%E5%B1%B1%E9%A1%B6%E8%A7%82%E6%99%AF%E5%8F%B0%E4%BA%AB%E7%94%A8%20Biryani%20%E7%9A%84%E5%A5%B3%E6%80%A7%EF%BC%88%E6%8D%A2%E8%84%B8%EF%BC%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+*一位年轻漂亮的女性，面部与参考照片完全一致，舒适地坐在美丽山顶观景台的现代户外桌旁，全身镜头，身穿时尚黑色 Shalwar Kameez，面带自然微笑，正在享用一盘美味的鸡肉 Biryani。木桌上整齐摆放着一瓶冰镇 Sting 能量饮料和一瓶矿泉水。
+不换脸 100%
+
+[English]
+*A handsome young woman with the same face as the reference photo, sitting comfortably at a modern outdoor table on a beautiful hilltop viewpoint, full-body shot, wearing a stylish black shalwar kameez, smiling naturally while eating a delicious plate of chicken biryani. A wooden table is set with a cold Sting energy drink, a bottle of mineral water,  placed neatly on the table.
+No face change 100%
+```
+
+**来源：** [@Kiran Ai](https://x.com/Kiran_AI1/status/2107016759597478129) | 2026-10-05
+
+---
+
+### 📷 例 8143：动漫角色肖像提示词
+
+![动漫角色肖像提示词](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%82%96%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据附带的角色参考表，创建该角色的极致特写肖像。将该参考表视为角色身份和设计的绝对权威：保留其面部、面部比例、肤色、发型/发色、眼睛、耳朵或其他角色特征，以及任何可见的服装/配饰。不要重新设计角色。
+第二张附带的肖像仅作为渲染质量参考。不要复制该角色的身份、面部、头发、颜色、服装、配饰、表情、姿势或构图。仅将其作为细节密度和完成度的目标：高度定义的面部特征、立体感的动漫阴影、精细的眼睛和睫毛、逐根绘制的发丝、微妙的皮肤高光和温暖感、精致的灯光、深度、材质定义以及极其精致的电影级动漫渲染效果。
+将主体从大约上胸部/锁骨到头发/耳尖进行非常紧密的取景，使面部占据图像的主导地位。使用平视相机和直接的眼神交流。赋予他们一个自然的微笑和淡淡的红晕。在保持可识别的动漫面部比例的同时，增加显著更多的立体定义和精细细节；不要让面部变得照片般真实。
+使用简单的黑暗氛围背景，并采用与角色现有调色板相得益彰的电影级灯光。保持眼睛、面部和最近的发丝异常清晰，其他地方则有柔和的深度衰减。
+不要显示腰部、臀部、腿部或全身。不要创建详细的环境。不要复制第二张肖像的场景或角色。
+角色表 = 角色是谁。第二张肖像 = 仅为渲染质量的水平。
+现在生成肖像。
+
+[English]
+Create an extreme close-up portrait of the character in the attached character reference sheet. Treat that sheet as the absolute authority for the character's identity and design: preserve their face, facial proportions, skin tone, hair style/color, eyes, ears or other character features, and any visible clothing/accessories. Do not redesign the character.
+The second attached portrait is ONLY a rendering-quality reference. Do not copy that character's identity, face, hair, colors, clothing, accessories, expression, pose, or composition. Use it only as the target for detail density and finish: highly defined facial features, dimensional anime shading, intricate eyes and eyelashes, individually rendered hair strands, subtle skin highlights and warmth, sophisticated lighting, depth, material definition, and extremely polished cinematic anime rendering.
+Frame the subject very tightly from approximately the upper chest/clavicle to the tips of their hair/ears, with the face dominating the image. Use an eye-level camera and direct eye contact. Give them a small natural smile with subtle blush. Preserve recognizable anime facial proportions while adding significantly more dimensional definition and fine detail; do not make the face photorealistic.
+Use a simple dark atmospheric background and cinematic lighting that complements the character's existing palette. Keep the eyes, face, and nearest hair strands exceptionally sharp, with gentle depth falloff elsewhere.
+Do not show the waist, hips, legs, or full body. Do not create a detailed environment. Do not copy the second portrait's scene or character.
+Character sheet = WHO the character is. Second portrait = ONLY the LEVEL OF RENDERING QUALITY.
+Generate the portrait now.
+```
+
+**来源：** [@Jex](https://x.com/JexTheFool/status/2106939508931678581) | 2026-10-05
+
+---
+

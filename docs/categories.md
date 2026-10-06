@@ -3563,6 +3563,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8128：几何编辑风格人物海报](cat-poster.md#-例-8128几何编辑风格人物海报)
 
 - [例 8131：真实生活瞬间海报](cat-poster.md#-例-8131真实生活瞬间海报)
+
+- [例 8140：GPT Image 2 旅行剪贴簿海报提示词](cat-poster.md#-例-8140gpt-image-2-旅行剪贴簿海报提示词)
+
+- [例 8144：生肖鼠海报](cat-poster.md#-例-8144生肖鼠海报)
 ---
 
 <a id="photo"></a>
@@ -9553,6 +9557,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8133：电影黑色风格肖像提示词](cat-photo.md#-例-8133电影黑色风格肖像提示词)
 
 - [例 8134：韩式咖啡馆自拍](cat-photo.md#-例-8134韩式咖啡馆自拍)
+
+- [例 8138：山顶观景台享用 Biryani 的女性（换脸）](cat-photo.md#-例-8138山顶观景台享用-biryani-的女性换脸)
+
+- [例 8143：动漫角色肖像提示词](cat-photo.md#-例-8143动漫角色肖像提示词)
 ---
 
 <a id="illustration"></a>
@@ -13940,6 +13948,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8027：春丽踢飞巨型怪物](cat-comic.md#-例-8027春丽踢飞巨型怪物)
 
 - [例 8116：素描教室中的半写实动漫少女](cat-comic.md#-例-8116素描教室中的半写实动漫少女)
+
+- [例 8139：Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8139opus-55-vs-wife-gpt-漫画条)
 ---
 
 <a id="brand"></a>
@@ -15723,6 +15733,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 8106：LEGO Minifigure Transformation Prompt](cat-brand.md#️-例-8106lego-minifigure-transformation-prompt)
 
 - [例 8120：香港旅行剪贴簿](cat-brand.md#️-例-8120香港旅行剪贴簿)
+
+- [例 8142：GPT Image 2 紫色头发时尚人像提示词](cat-brand.md#️-例-8142gpt-image-2-紫色头发时尚人像提示词)
 ---
 
 <a id="edit"></a>
@@ -16090,6 +16102,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 8107：极简主义编辑风格纸本插画提示词](cat-edit.md#-例-8107极简主义编辑风格纸本插画提示词)
 
 - [例 8114：为霓虹街机场景添加垃圾与污垢](cat-edit.md#-例-8114为霓虹街机场景添加垃圾与污垢)
+
+- [例 8141：超现实美食故事书插画转换](cat-edit.md#-例-8141超现实美食故事书插画转换)
 ---
 
 <a id="fun"></a>

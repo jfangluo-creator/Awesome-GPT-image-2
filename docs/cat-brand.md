@@ -22054,3 +22054,29 @@ Aesthetic: premium travel journal, nostalgic scrapbook, watercolor + colored pen
 
 ---
 
+### 🏷️ 例 8142：GPT Image 2 紫色头发时尚人像提示词
+
+![GPT Image 2 紫色头发时尚人像提示词](../images/GPT%20Image%202%20%E7%B4%AB%E8%89%B2%E5%A4%B4%E5%8F%91%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的半身时尚人像，描绘参考图中的同一位年轻女性角色，保留她标志性的鲜艳紫罗兰色齐下巴直发波波头、柔和刘海、白皙瓷肌、鼻梁和脸颊上的自然雀斑、淡褐色/浅棕色眼睛、精致五官、光泽嘴唇和苗条身材。
+
+她以放松的蹲坐姿势靠在温暖的赤陶色纹理墙边，头部轻轻倚靠在一侧手上，平静而直接地注视镜头。她身穿赤陶色锈橙色短款连帽衫、米色高腰工装慢跑裤和棕色系带皮革战斗靴。添加一条图案缎面蝴蝶结发带和一个小型橙色蝴蝶发夹。
+
+使用柔和的自然日光，搭配温暖的大地色秋季色调。保持构图亲密且具有编辑风格，呈现真实皮肤质感、细节丰富的紫色头发、自然的织物和皮革纹理、微妙阴影、电影级景深、照片级真实感、超精细 8K 画质以及高端时尚摄影效果。
+
+[English]
+Create a hyper-realistic medium full-body fashion portrait of the same young adult female character from the reference image, preserving her signature vivid violet-purple chin-length straight bob with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown eyes, delicate facial features, glossy lips, and slim physique.
+
+She is sitting in a relaxed crouching pose against a warm terracotta textured wall, with her head resting gently on one hand while looking calmly and directly at the camera. She wears a terracotta rust-orange cropped hoodie, beige high-waisted cargo jogger pants, and brown leather lace-up combat boots. Add a patterned satin bow headband and a small orange butterfly hair clip.
+
+Use soft natural daylight with warm earthy autumn tones. Keep the composition intimate and editorial with realistic skin texture, detailed purple hair, natural fabric and leather textures, subtle shadows, cinematic depth of field, photorealistic quality, ultra-detailed 8K, premium fashion photography.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2106950304164168145) | 2026-10-05
+
+---
+

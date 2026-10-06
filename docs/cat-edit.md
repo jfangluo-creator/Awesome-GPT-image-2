@@ -5205,3 +5205,49 @@ Using the provided reference image of a neon-lit arcade corner, transform the sc
 
 ---
 
+### 🔧 例 8141：超现实美食故事书插画转换
+
+![超现实美食故事书插画转换](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%BE%8E%E9%A3%9F%E6%95%85%E4%BA%8B%E4%B9%A6%E6%8F%92%E7%94%BB%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为主要参考，将其转换为垂直 3:4 比例的超现实编辑艺术作品，无缝结合写实食物/物体摄影与异想天开的手绘故事书插画。
+
+保留原始照片的主体、构图、颜色、纹理和可识别的细节。保持上部高度写实且自然光照，具有真实的材质、阴影、反射、景深和逼真的摄影细节。
+
+创造从拍摄主体到下方富有想象力的插画世界的无缝视觉过渡。识别照片中最具视觉意义的元素——如液体、食材、物体、图案、轨迹、阴影或纹理——并将其有机地向下延伸至插画中，将其转化为河流、小径、景观、轨迹或其他创意场景。
+
+插画部分应出现在温暖的米白色纹理纸张背景上，使用精致的黑色墨水/铅笔线条、微妙的水彩和水粉质感、不完美的手工细节、柔和的哑光色彩以及迷人的复古故事书美学。添加适合主题的小型环境细节，如微小的人物、植物、岩石、物体或景观元素。
+
+包含一个简短的手写短语，自然地关联概念和转换过程，巧妙地定位在插画区域内。字体应看起来真正手写、不完美、极简且具有艺术感。
+
+照片和插画必须感觉像一个连续的视觉故事，而不是两张分开的图片。避免硬性的水平分割、边框、框架、箭头、标签或明显的数字合成。拍摄的主体应在物理上表现为流入、落下、延伸或转化为插画世界。
+
+美学：诗意、异想天开、巧妙、极简主义、高端杂志编辑艺术、超现实但可信、触感纸张纹理、自然的不完美、精致的视觉叙事。
+
+构图：垂直 3:4，平衡的负空间，强烈的焦点，无缝过渡，高细节，写实摄影 + 精致手绘插画，无多余元素。
+
+[English]
+Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.
+
+Preserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.
+
+Create a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.
+
+The illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.
+
+Include a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.
+
+The photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.
+
+Aesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.
+
+Composition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements.
+```
+
+**来源：** [@Ahmad hassan](https://x.com/ahmadmalik375/status/2106957230939808222) | 2026-10-05
+
+---
+

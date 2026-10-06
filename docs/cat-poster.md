@@ -35537,3 +35537,147 @@ Important: Keep the original photo recognizable and preserve the subject’s ide
 
 ---
 
+### 🎴 例 8140：GPT Image 2 旅行剪贴簿海报提示词
+
+![GPT Image 2 旅行剪贴簿海报提示词](../images/GPT%20Image%202%20%E6%97%85%E8%A1%8C%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为高端旅行记忆剪贴簿海报。
+
+保留原始照片作为主要视觉参考，准确保留重要的主体、物体、环境、构图、颜色和可识别的细节。不要改变主体的身份或结构。
+
+创建一个垂直 3:4 的编辑风格剪贴簿布局，水平分为两个相等的部分：
+
+上半部分（50%）：
+突出展示原始照片，并增强温暖、自然、略带电影感的色彩分级。保持其真实、细致和摄影感。不要过度编辑或使其看起来不自然。
+
+下半部分（50%）：
+创建一个精美的手绘插画日记页面，灵感直接来自该照片。从原始图像中提取 6–9 个最易识别的视觉元素，并将每个元素转化为小的彩色铅笔 / 墨水 / 水彩风格的素描，排列在整洁的 3×3 剪贴簿网格中。
+
+使用：
+- 有纹理的温暖象牙色/米白色纸张背景
+- 微妙的纸张颗粒感
+- 手绘铅笔和墨水轮廓
+- 松散的彩色铅笔和水彩阴影
+- 略微不完美的手工笔触
+- 柔和但欢快的低饱和度颜色
+- 小涂鸦，如星星、爱心、叶子、闪光、波浪和箭头
+- 纤细精致的手绘网格分隔线
+- 舒适的旅行日记美学
+- 精致的编辑式构图
+- 真实的手工不完美感
+
+在插画部分的顶部添加一个手写标题，根据照片主题定制，例如 "{argument name="location" default="[LOCATION]"} 回忆", "{argument name="theme" default="[THEME]"} 时刻", "甜蜜时光", "蓝天记忆" 等。
+
+在每个插画元素下方，添加一个简短的手写标签来描述它，例如：
+“路灯”, “柔软的云朵”, “多彩灯光”, “茶”, “老墙”, “甜点”, “绿色时刻” 等。
+
+在最底部，添加一个与照片相关的小型手写感性说明文字，例如：
+“值得铭记的完美一天 ♡”
+或者
+“同一地点，不同心情 ♡”
+
+最终结果应感觉像是一本由手工制作的豪华旅行剪贴簿 / 视觉日记页面，结合了真实照片和迷人的插画记忆。
+
+重要事项：
+- 一张原始照片 + 一个插画记忆部分
+- 干净的 50/50 水平分割
+- 垂直 3:4 构图
+- 真实地保留原始照片
+- 插画必须明显源自上传照片中的物体
+- 无照片级写实插画
+- 无 3D 渲染
+- 无过度的图形设计效果
+- 单个插画周围无边框
+- 无与照片无关的随机物体
+- 保持排版极简、优雅且为手写风格
+- 使整个页面协调、温暖、怀旧、艺术且高端
+
+[English]
+Transform the uploaded photo into a premium travel-memory scrapbook poster.
+
+Keep the original photo as the main visual reference and preserve the important subjects, objects, environment, composition, colors, and recognizable details accurately. Do not change the identity or structure of the main subject.
+
+Create a vertical 3:4 editorial scrapbook layout divided horizontally into two equal sections:
+
+TOP 50%:
+Place the original photograph prominently, enhanced with warm, natural, slightly cinematic color grading. Keep it realistic, detailed, and photographic. Do not over-edit or make it look artificial.
+
+BOTTOM 50%:
+Create a beautiful hand-drawn illustrated journal page inspired directly by the photograph. Extract 6–9 of the most recognizable visual elements from the original image and turn each into a small individual colored-pencil / ink / watercolor-style sketch arranged in a clean 3×3 scrapbook grid.
+
+Use:
+- textured warm ivory/off-white paper background
+- subtle paper grain
+- hand-drawn pencil and ink outlines
+- loose colored-pencil and watercolor shading
+- slightly imperfect handmade strokes
+- soft muted but cheerful colors
+- tiny doodles such as stars, hearts, leaves, sparkles, waves and arrows
+- thin, delicate hand-drawn grid dividers
+- cozy travel-journal aesthetic
+- sophisticated editorial composition
+- authentic handmade imperfections
+
+Add a handwritten title at the top of the illustrated section, customized to the photo's theme, such as "{argument name="location" default="[LOCATION]"} Memories", "{argument name="theme" default="[THEME]"} Moments", "Sweet Moments", "Blue Sky Memories", etc.
+
+Under each illustrated element, add a short handwritten label describing it, for example:
+“street lamp”, “soft clouds”, “colorful lights”, “tea”, “old walls”, “sweet treat”, “green moments”, etc.
+
+At the very bottom, add a small handwritten sentimental caption related to the photo, such as:
+“a perfect day to remember ♡”
+or
+“same place, different feelings ♡”
+
+The final result should feel like a luxury travel scrapbook / visual diary page created by hand, combining a real photograph with charming illustrated memories.
+
+IMPORTANT:
+- One original photo + one illustrated memory section
+- Clean 50/50 horizontal division
+- Vertical 3:4 composition
+- Preserve the original photo realistically
+- Illustrations must clearly originate from objects in the uploaded photo
+- No photorealistic illustrations
+- No 3D rendering
+- No excessive graphic-design effects
+- No borders around individual illustrations
+- No random objects unrelated to the photo
+- Keep typography minimal, elegant, and handwritten
+- Make the entire page cohesive, warm, nostalgic, artistic, and premium
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2106987902995669056) | 2026-10-05
+
+---
+
+### 🎴 例 8144：生肖鼠海报
+
+![生肖鼠海报](../images/%E7%94%9F%E8%82%96%E9%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张以优雅年轻女性为主体的竖版海报，展现中国生肖“鼠”的形象。
+画布：采用竖向肖像格式，主色调为丰富的红色与金色，呈现高分辨率数字艺术风格，注重真实质感表现。
+布局：主体居中构图。左侧为一个大型书法汉字“鼠”。文字细节位于左下象限。左下角花丛中有一只小白鼠。
+主体细节：一位美丽的亚洲女性，身穿深红色配金绣及白色毛边装饰的传统汉服风格服装。她头戴鼠耳造型，发型为精致盘发，配以金色发簪和红色流苏。她手持一盏发光的红灯笼，灯笼上写有“福”字。她的表情温柔含笑，额头点缀红色花钿（huadian）。
+文字内容：顶部中央：“十二生肖 · 鼠”。左侧大型金色书法字：“鼠”。其下方标注拼音“SHUI”及地支名称“子鼠”。左下角文本块标题为“性格特点”，列出如“聪明机智”、“适应力强”等特质。底部页脚：“新春快乐万事如意”。
+视觉风格：节日氛围浓厚，暖光照明，背景柔焦处理并带有隐约云纹图案，面料与皮肤纹理高度精细。
+
+[English]
+Goal: Create a vertical poster featuring an elegant young woman representing the Chinese Zodiac Rat.
+Canvas: Vertical portrait format, rich red and gold color palette, high-resolution digital art style with realistic textures.
+Layout: The subject is centered. A large calligraphy character '鼠' (Rat) is on the left. Text details are in the lower-left quadrant. A small white mouse sits in the bottom-left corner among flowers.
+Subject details: A beautiful Asian woman wearing traditional Hanfu-style clothing in deep red with gold embroidery and white fur trim. She has round rat ears attached to her head, styled into an elaborate updo with gold hairpins and red tassels. She holds a glowing red lantern with the character '福' (Fortune) written on it. Her expression is gentle and smiling. She wears a red forehead mark (huadian).
+Text content: Top center: '十二生肖 · 鼠' (Chinese Zodiac - Rat). Large gold calligraphy on left: '鼠'. Below that: 'SHUI' and '子鼠'. Lower left text block titled '性格特点' (Personality Traits) listing attributes like '聪明机智' (Clever), '适应力强' (Adaptable). Bottom footer: '新春快乐万事如意' (Happy New Year, may all go well).
+Visual style: Festive, warm lighting, soft focus background with subtle cloud patterns, highly detailed fabric and skin texture.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2106912315971170692) | 2026-10-05
+
+---
+
