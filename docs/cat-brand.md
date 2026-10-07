@@ -22110,3 +22110,59 @@ At the very bottom, centered text reads "Sixth Ave" in script above "GARDEN GOUR
 
 ---
 
+### 🏷️ 例 8151：复古河畔垂钓者
+
+![复古河畔垂钓者](../images/%E5%A4%8D%E5%8F%A4%E6%B2%B3%E7%95%94%E5%9E%82%E9%92%93%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，画面中一位年轻女士站在清澈多石的河流中，水深及腰。她头戴米色渔夫帽，身穿带有小碎花图案的白色短袖衬衫和深色防水裤。她的头发梳成两条辫子。右手握着一根竹制钓竿，左臂抬起，展示着挂在鱼线上的两条刚捕获的鱼。腰间挂着一个编织篮，前景中可见一个红色网兜。背景是蓝天下的郁郁葱葱的青山。
+
+[English]
+A vintage-style photograph of a young woman standing waist-deep in a clear, rocky river. She is wearing a beige bucket hat, a white short-sleeved blouse with a small floral pattern, and dark waders. Her hair is styled in two braids. She holds a bamboo fishing rod in her right hand and raises her left arm to display two freshly caught fish hanging from the line. A woven basket hangs at her hip, and a red mesh landing net is visible in the foreground. The background features lush green mountains under a blue sky.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2107434638423871930) | 2026-10-06
+
+---
+
+### 🏷️ 例 8156：薄荷绿钩针毛衣穿搭提示词
+
+![薄荷绿钩针毛衣穿搭提示词](../images/%E8%96%84%E8%8D%B7%E7%BB%BF%E9%92%A9%E9%92%88%E6%AF%9B%E8%A1%A3%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+
+一件舒适的宽松薄荷绿与米白色钩针方格纹毛衣，具有柔软的手工质感和休闲版型。
+
+搭配简约黑色骑行短裤和厚底运动鞋。
+
+可选造型：运动街头风氛围，俏皮活力，都市休闲场景。
+
+清新、年轻、充满活力的外观。
+配色为薄荷绿、米白和黑色。
+无额外装饰。
+
+[English]
+OUTFIT:
+
+A cozy oversized crochet block-check sweater in mint green and off-white, with a soft handmade texture and relaxed fit.
+
+Paired with simple black cycling shorts and chunky sneakers.
+
+Optional styling: sporty streetwear mood, playful energy, casual urban setting.
+
+Fresh, youthful, vibrant look.
+Mint green, off-white, and black color palette.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2107307356577271823) | 2026-10-06
+
+---
+

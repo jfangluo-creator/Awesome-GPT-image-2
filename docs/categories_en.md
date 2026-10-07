@@ -3573,7 +3573,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3029)
+## 📷 [Photography & Realistic](cat-photo.md) (3033)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9565,6 +9565,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8143: 动漫角色肖像提示词](cat-photo.md#-例-8143动漫角色肖像提示词)
 
 - [Case 8145: 向日葵田中的 Minecraft 角色](cat-photo.md#-例-8145向日葵田中的-minecraft-角色)
+
+- [Case 8152: 怀旧女学生在黑板上绘画](cat-photo.md#-例-8152怀旧女学生在黑板上绘画)
+
+- [Case 8154: 传统日本街头女性的复古照片](cat-photo.md#-例-8154传统日本街头女性的复古照片)
+
+- [Case 8155: 电影感旅行人像提示词](cat-photo.md#-例-8155电影感旅行人像提示词)
+
+- [Case 8158: 超现实微型珊瑚景观](cat-photo.md#-例-8158超现实微型珊瑚景观)
 ---
 
 <a id="illustration"></a>
@@ -11659,7 +11667,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (254)
+## 🧍 [Character Design](cat-character.md) (255)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12153,11 +12161,13 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8118: 日本游戏开发横幅](cat-character.md#-例-8118日本游戏开发横幅)
 
 - [Case 8137: GPT Image 角色设定图提示词](cat-character.md#-例-8137gpt-image-角色设定图提示词)
+
+- [Case 8157: 互动式壁画咖啡摄影](cat-character.md#-例-8157互动式壁画咖啡摄影)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (374)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (376)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12893,6 +12903,10 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 7942: GPT Image 2 剪纸插画提示词](cat-3d.md#-例-7942gpt-image-2-剪纸插画提示词)
 
 - [Case 8095: 温馨复古走廊舞蹈场景](cat-3d.md#-例-8095温馨复古走廊舞蹈场景)
+
+- [Case 8150: 温馨小羊与咖啡插画](cat-3d.md#-例-8150温馨小羊与咖啡插画)
+
+- [Case 8153: 皮克斯风格老年女性角色设定图](cat-3d.md#-例-8153皮克斯风格老年女性角色设定图)
 ---
 
 <a id="architecture"></a>
@@ -13957,7 +13971,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (894)
+## 🏷️ [Brand & Packaging](cat-brand.md) (896)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15740,6 +15754,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8142: GPT Image 2 紫色头发时尚人像提示词](cat-brand.md#️-例-8142gpt-image-2-紫色头发时尚人像提示词)
 
 - [Case 8148: 复古早餐熟食店人行道立牌](cat-brand.md#️-例-8148复古早餐熟食店人行道立牌)
+
+- [Case 8151: 复古河畔垂钓者](cat-brand.md#️-例-8151复古河畔垂钓者)
+
+- [Case 8156: 薄荷绿钩针毛衣穿搭提示词](cat-brand.md#️-例-8156薄荷绿钩针毛衣穿搭提示词)
 ---
 
 <a id="edit"></a>

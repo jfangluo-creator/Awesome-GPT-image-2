@@ -9539,3 +9539,39 @@ Create a heartwarming 3D animated cinematic scene inside a cozy vintage hallway.
 
 ---
 
+### 🧸 例 8150：温馨小羊与咖啡插画
+
+![温馨小羊与咖啡插画](../images/%E6%B8%A9%E9%A6%A8%E5%B0%8F%E7%BE%8A%E4%B8%8E%E5%92%96%E5%95%A1%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅温馨的水彩风格插画，描绘了一只可爱、毛茸茸的炭灰色小羊坐在质朴的木桌上。小羊有着大而富有表现力的深色眼睛和红润的脸颊。它的右侧放着一个冒着热气的白色陶瓷马克杯，上面手写着 "Good Things Take Time" 并画有一个小心形图案。前景左侧是一盘巧克力豆饼干，前景右侧是一本名为 "A Brighter Tomorrow" 的绿色书籍。背景中有一扇洒满阳光的窗户、一个摆满书籍的架子，以及一块写着 "Coffee Books Kindness A Better Day" 的标牌，还有印有 "Small Moments Big Happiness" 和 "Be Kind to Yourself" 字样的抱枕。
+
+[English]
+A cozy, watercolor-style illustration of a cute, fluffy charcoal-grey lamb sitting on a rustic wooden table. The lamb has large, expressive dark eyes and rosy cheeks. To its right sits a steaming white ceramic mug with the handwritten text "Good Things Take Time" and a small heart. In the foreground left is a plate with chocolate chip cookies, and in the foreground right is a green book titled "A Brighter Tomorrow." The background features a sunlit window, a shelf with books, and a sign reading "Coffee Books Kindness A Better Day," along with pillows displaying the phrases "Small Moments Big Happiness" and "Be Kind to Yourself."
+```
+
+**来源：** [@ねむプロ](https://x.com/nemhiyo/status/2107496220927365603) | 2026-10-06
+
+---
+
+### 🧸 例 8153：皮克斯风格老年女性角色设定图
+
+![皮克斯风格老年女性角色设定图](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E8%80%81%E5%B9%B4%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张角色设计图，展示了三位不同视角的风格化 3D 动画老年女性，采用类似皮克斯的美学风格，背景为纯白色。左侧是她面部的特写肖像；她拥有温暖的棕色皮肤，银灰色的头发梳成高发髻，浓密的深色眉毛，以及一双富有表现力的大棕色眼睛，微微向上看，带着温柔的微笑。她戴着小巧的金色圈形耳环。中间是全身背面视图，展示了她的服装：一件及膝连衣裙，短袖上印有橙色、黄色和红色花朵组成的密集花卉图案，底色为青绿色，外面罩着一件米色围裙，围裙上有细微的花卉印花，并在后腰下方系成蝴蝶结。右侧是全身正面视图，她自信地站立，双手叉腰，穿着同样的花卉连衣裙和围裙，围裙中央有一个大口袋。光线柔和均匀，突出了皮肤和织物光滑的质感。
+
+[English]
+A character design sheet featuring three views of a stylized 3D animated elderly woman, rendered in a Pixar-like aesthetic against a plain white background. On the left is a large close-up portrait of her face; she has warm brown skin, silver-gray hair pulled back into a high bun, thick dark eyebrows, and large expressive brown eyes looking slightly upward with a gentle smile. She wears small gold hoop earrings. In the center is a full-body rear view showing her outfit: a knee-length dress with short sleeves featuring a dense floral pattern of orange, yellow, and red flowers on a teal-green background, covered by a beige apron with a subtle floral print tied in a bow at the lower back. On the right is a full-body front view where she stands confidently with hands on hips, wearing the same floral dress and apron which has a large central pocket. The lighting is soft and even, highlighting the smooth texture of the skin and fabric.
+```
+
+**来源：** [@Yasir | AI Video Creator](https://x.com/_YasirNFT/status/2107381522105786412) | 2026-10-06
+
+---
+

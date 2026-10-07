@@ -9884,3 +9884,57 @@ Character Lock：所有视图必须保持完全相同的脸部结构、发型、
 
 ---
 
+### 🧍 例 8157：互动式壁画咖啡摄影
+
+![互动式壁画咖啡摄影](../images/%E4%BA%92%E5%8A%A8%E5%BC%8F%E5%A3%81%E7%94%BB%E5%92%96%E5%95%A1%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考图中的人物作为主角，适用于男性或女性主体。保留完全一致的面部特征、面部结构、年龄、肤色和自然表情。不要改变人物身份，也不要生成具有人工感或塑料感的脸部。
+
+创作一张 4:5 竖幅的街头时尚摄影作品，背景设定在一条时尚的都市咖啡馆小巷，拥有一面巨大的黑色砖墙。在墙上创作一幅巨大的黑白写实壁画，描绘参考图中的同一个人物，手持金属咖啡壶向下倾倒咖啡。
+
+真实人物站在壁画正下方，手持咖啡杯，位置恰好位于从壁画流出的咖啡水流之下，营造出一种有趣、艺术化、互动性强且易于传播的视觉效果。
+
+对于女性主体：
+穿着宽松的白色衬衫，版型休闲略松，呈现年轻现代的风格，自然塞入裤腰，搭配牛仔裤或深色长裤以及干净的运动鞋。避免僵硬的职业装造型或紧身衣物。
+
+对于男性主体：
+采用现代都市休闲装扮，看起来年轻、整洁、时尚且具有当代感。
+
+壁画应具有真实的街头艺术美学，以黑白色调为主，点缀大胆的橙色元素，包含富有表现力的笔触、油漆滴落效果，以及简短的涂鸦字体，如 “BỪNG NĂNG LƯỢNG” 或 “CÀ PHÊ MỖI NGÀY。”
+
+使用中性日光，保持自然的肤色，避免过度的黄色色偏。相机角度应略微偏低，具有编辑风格，展示人物的全身照，姿态放松自然。不要使用手托下巴的姿势。
+
+超写实照片，电影级景深，逼真的手部细节，准确的咖啡水流，自然的人体比例，真实的皮肤纹理，高细节，8K 画质。
+
+不要复制参考/示例图的确切构图。仅保留真人与巨型壁画互动的核心概念，创造出新鲜、原创且视觉冲击力强的构图。
+
+[English]
+Use the person in the reference image as the main character, suitable for both male and female subjects. Preserve the exact facial identity, facial structure, age, skin tone, and natural expression. Do not change the person’s identity or create an artificial/plastic-looking face.
+
+Create a 4:5 vertical street-editorial photograph set in a stylish urban café alley with a large black brick wall. On the wall, create a huge black-and-white realistic mural depicting the same person from the reference image, holding a metallic coffee pot and pouring coffee downward.
+
+The real person stands directly below the mural, holding a coffee cup positioned perfectly under the stream of coffee coming from the mural, creating a fun, artistic, interactive, and viral visual effect.
+
+For a female subject:
+Wear an oversized white shirt with a relaxed, slightly loose fit, youthful and modern styling, naturally tucked in, paired with jeans or dark-colored trousers and clean sneakers. Avoid a stiff corporate look or tight-fitting clothing.
+
+For a male subject:
+Use a modern urban-casual outfit that looks youthful, clean, stylish, and contemporary.
+
+The mural should have a realistic street-art aesthetic, featuring black and white tones with bold orange accents, expressive brush strokes, paint drips, and short graffiti typography such as “BỪNG NĂNG LƯỢNG” or “CÀ PHÊ MỖI NGÀY.”
+
+Use neutral daylight with natural skin tones and no excessive yellow color cast. Camera angle should be slightly low and editorial, showing the subject full-body with a relaxed, natural pose. Do not use a chin-on-hand pose.
+
+Ultra-photorealistic, cinematic depth of field, realistic hands, accurate coffee stream, natural body proportions, authentic skin texture, highly detailed, 8K quality.
+
+Do not copy the exact composition of the reference/sample image. Keep only the core concept of a real person interacting with a giant mural while creating a fresh, original, visually striking composition.
+```
+
+**来源：** [@Aiza](https://x.com/AizaAi12/status/2107290005404262786) | 2026-10-06
+
+---
+

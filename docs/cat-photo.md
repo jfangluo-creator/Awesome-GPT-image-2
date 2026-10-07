@@ -73550,3 +73550,89 @@ A hyper-realistic, cinematic close-up shot of a Minecraft-style character standi
 
 ---
 
+### 📷 例 8152：怀旧女学生在黑板上绘画
+
+![怀旧女学生在黑板上绘画](../images/%E6%80%80%E6%97%A7%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%BB%91%E6%9D%BF%E4%B8%8A%E7%BB%98%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张采用怀旧胶片美学的竖幅中景照片，捕捉了一位年轻亚洲女学生在空教室中的身影。她留着齐刘海的深色短发波波头，身穿传统海军蓝水手服校服（seifuku），领口和袖口饰有白色条纹。她的神情平静而略带忧郁，直视镜头。她站在绿色黑板旁，右手拿着一支粉色粉笔，刚刚画了一个可爱的卡通兔子脸，旁边还有一颗爱心。前景中，一张磨损的木桌上放着一把巨大的橙色三角尺。背景是一排排空的木制桌椅，高大的窗户透进柔和的自然光，远处墙上挂着模糊的书法海报。图像呈现出明显的胶片颗粒、灰尘斑点和划痕，增强了复古氛围。
+
+[English]
+A vertical, medium-shot photograph with a nostalgic film aesthetic captures a young Asian female student in an empty classroom. She has short, dark bobbed hair with bangs and wears a traditional navy blue sailor-style school uniform (seifuku) with white stripes on the collar and cuffs. Her expression is calm and slightly melancholic as she looks directly at the camera. She stands beside a green chalkboard, holding a piece of pink chalk in her right hand, having just drawn a cute cartoon rabbit face with a heart next to it. In the foreground, resting on a worn wooden desk, is a large orange triangular ruler. The background features rows of empty wooden desks and chairs, tall windows letting in soft natural light, and blurred calligraphy posters on the far wall. The image has visible film grain, dust specks, and scratches, enhancing the retro atmosphere.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2107403684074356901) | 2026-10-06
+
+---
+
+### 📷 例 8154：传统日本街头女性的复古照片
+
+![传统日本街头女性的复古照片](../images/%E4%BC%A0%E7%BB%9F%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A4%8D%E5%8F%A4%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，展示了一位年轻女性站在传统日本小镇的狭窄街道上，背景仿佛定格在 1950 或 60 年代。她留着深棕色的短卷发，对着镜头温柔微笑，双手举至头部整理头发。她身穿一件带抽绳的米色连帽卫衣，搭配一条红、蓝、米色调相间的格子裙。一个棕色皮革单肩包斜挎在身上。背景包括带有瓦顶的木质建筑、电线杆以及停在附近的一辆旧自行车。图像呈现出褪色的怀旧质感，伴有漏光效果、灰尘斑点以及老式胶片摄影典型的暖色调。
+
+[English]
+A vintage-style portrait of a young woman standing in a traditional Japanese alleyway. She has short, curly dark brown hair and is wearing a cream-colored hooded sweatshirt with drawstrings and a plaid skirt. Her hands are raised to her head as she smiles gently at the camera. A brown leather shoulder bag hangs from her left side. The background features weathered wooden houses with tiled roofs, a utility pole, and an old bicycle leaning against a fence. The image has a nostalgic film grain texture with light leaks on the edges.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2107373735057752349) | 2026-10-06
+
+---
+
+### 📷 例 8155：电影感旅行人像提示词
+
+![电影感旅行人像提示词](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%85%E8%A1%8C%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实、电影感 8K HDR、高级时尚编辑摄影作品：一位二十岁出头、英俊非凡的年轻男子，拥有浓密自然的黑色波浪卷发、阳刚有力的眉毛、深邃迷人的深棕色眼睛、轮廓分明的雕塑般下颌线、淡淡的自然胡茬，以及带有可见毛孔的真实皮肤质感。
+
+概念与构图：
+一幅精致的抓拍旅行肖像，年轻男子舒适地坐在飞机舷窗旁，佩戴着时尚的高端头戴式耳机。他神情若有所思且放松，透过窗户平静地向外凝视，完全沉浸在旅程中。他的脸庞被透过机舱窗户射入的自然日光柔和照亮。
+
+窗外，层层叠叠蓬松洁白的云朵在飞机下方无尽延伸，柔和的蓝天逐渐淡向地平线。云层和他的面部倒影隐约映在窗玻璃上，营造出真实的电影氛围。
+
+他身穿极简风格的黑色夹克，内搭干净的白色 T 恤，呈现出一种现代、毫不费力的奢华旅行美学。高端飞机内饰、逼真的真皮座椅、细节丰富的窗框、浅景深、自然肤色、微妙的胶片颗粒感、柔和的氛围光、真实反射、电影级调色、85mm 镜头、f/1.8、极致细腻的面部特征、照片级真实感、真实的抓拍摄影、无假面感、无文字、无水印。
+
+[English]
+Ultra-realistic, cinematic 8K HDR, high-fashion editorial photograph of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair, strong masculine eyebrows, intense deep dark-brown eyes, a sharply defined sculpted jawline, subtle natural stubble, and realistic skin texture with visible pores.
+
+CONCEPT & COMPOSITION:
+A sophisticated candid travel portrait of the young man sitting comfortably beside an airplane window, wearing sleek premium over-ear headphones. He gazes peacefully out of the window with a thoughtful, relaxed expression, completely absorbed in the journey. His face is softly illuminated by natural daylight streaming through the aircraft window.
+
+Outside the window, breathtaking layers of fluffy white clouds stretch endlessly beneath the airplane, with a soft blue sky fading toward the horizon. Subtle reflections of the clouds and his face appear on the window glass, creating an authentic cinematic atmosphere.
+
+He wears a minimalist black jacket over a clean white T-shirt, giving him a modern, effortless luxury-travel aesthetic. Premium airplane interior, realistic leather seat, detailed window frame, shallow depth of field, natural skin tones, subtle film grain, soft atmospheric lighting, realistic reflections, cinematic color grading, 85mm lens, f/1.8, ultra-detailed facial features, photorealistic, authentic candid photography, no artificial-looking face, no text, no watermark.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2107330963487515016) | 2026-10-06
+
+---
+
+### 📷 例 8158：超现实微型珊瑚景观
+
+![超现实微型珊瑚景观](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%BE%AE%E5%9E%8B%E7%8F%8A%E7%91%9A%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张垂直构图的高分辨率微距摄影作品，呈现了一个超现实的微型景观。画面主体由复杂的、类似珊瑚或苔藓的毛茸茸有机结构组成，色调以米色和锈橙色为主。中心位置矗立着一座小型圆柱形灯塔，拥有橙色的墙壁和红色的屋顶，巧妙地融入在纹理丰富的生长物中。右侧，一簇风格化的绿色棕榈树坐落在长满苔藓的小岛上。一个带有罗马数字的白色模拟时钟表盘嵌入在右上方的珊瑚结构中。左侧，一个微小的热气球漂浮在一个环状树枝附近。底部是一片深灰色的颗粒状表面作为地面，左边停泊着一艘蓝色玩具小船，右边站立着一个绿色的蜥蜴状小雕像。景深极浅，营造出强烈的散景效果，将背景和前景元素模糊成柔和的色彩晕染。
+
+[English]
+A vertical, high-resolution macro photograph of a surreal miniature diorama. The scene is dominated by complex, fuzzy organic structures resembling coral or moss in shades of beige and rust-orange. In the center stands a small, cylindrical lighthouse with orange walls and a red roof, nestled within the textured growth. To the right, a cluster of stylized green palm trees sits atop a mossy island. A white analog clock face with Roman numerals is embedded in the upper-right coral structure. On the left, a tiny hot air balloon floats near a looped branch. At the bottom, a dark grey, granular surface serves as the ground, where a small blue toy boat rests on the left and a tiny green lizard-like figure stands on the right. The depth of field is extremely shallow, creating a strong bokeh effect that blurs the background and foreground elements into soft washes of color.
+```
+
+**来源：** [@Lynn Cole](https://x.com/priestessofdada/status/2107266827449455039) | 2026-10-06
+
+---
+
