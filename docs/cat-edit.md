@@ -5953,3 +5953,51 @@ Generate the final image in 16K resolution — 15360 × 8640 pixels (≈132.7 mi
 
 ---
 
+### 🔧 例 8168：剪贴簿拼贴画转换提示词
+
+![剪贴簿拼贴画转换提示词](../images/%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E7%94%BB%E8%BD%AC%E6%8D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为高端编辑风格的剪贴簿 / 撕纸拼贴艺术作品。保持原始照片中的主体写实、清晰且易于识别，具有自然的光线、逼真的纹理和真实的色彩。将照片放置在温暖的象牙色手工纸背景上，带有细微的纸张颗粒感和不完美的触感纹理。创造一种有机的撕纸过渡效果，使原始照片的部分内容看起来像是撕裂开来，并自然地向下延伸为极简的手绘墨水插图 / 素描，将真实照片与插画延伸部分融合在一起。
+
+添加微妙的复古编辑细节、精致的手写体排版、微小的手绘涂鸦、不完美的墨线、小型装饰元素以及艺术性的留白。让照片中选定的物体越过撕裂边缘并与插图互动，营造出俏皮的 3D 拼贴效果。在纸层下方使用柔和的阴影和逼真的纸张边缘以增强深度感。
+
+调色板：暖奶油色、米色、柔和棕色、柔和的大地色调，同时保留原始照片的自然色彩。
+光线：温暖的黄金时刻 / 怀旧阳光，柔和的高光和温和的阴影。
+构图：精致、简约、平衡、富有艺术感，留有大量呼吸空间，呈现高端杂志 / 编辑美学。
+纹理：手工纸、细微颗粒、撕裂纤维、略显不完美的印刷和墨水质感。
+
+最终图像应感觉像是一张真实照片物理粘贴在手工纸上，并部分转化为精致的插图，而不是数字滤镜效果。
+
+重要提示：不要改变主体的身份、比例、物体或重要细节。避免过度装饰、卡通化渲染、过于干净的数字边缘、霓虹色或通用的 AI 艺术外观。高端现代剪贴簿编辑设计，写实 + 手绘混合媒介拼贴，4:5 或 3:4 垂直构图。
+
+[可选] 添加此概念特定元素：{argument name="transformation_object" default="描述你希望照片转化成的物体/场景"}
+
+[可选文本]：添加一个简短的手写短语：“{argument name="handwritten_text" default="你的文本"}”，采用微妙的黑色/炭笔墨水风格。
+
+[English]
+Transform the uploaded photo into a premium editorial scrapbook / torn-paper collage artwork. Keep the main subject of the original photo photorealistic, sharp, and clearly recognizable, with natural lighting, realistic textures, and authentic colors. Place the photo on a warm ivory handmade paper background with subtle paper grain and an imperfect tactile texture. Create an organic ripped-paper transition where parts of the original photograph appear to tear open and naturally continue into the lower area as a minimal hand-drawn ink illustration / sketch, blending the real photograph with the illustrated extension.
+
+Add subtle vintage editorial details, delicate handwritten-style typography, tiny hand-drawn doodles, imperfect ink lines, small decorative elements, and artistic negative space. Let selected objects from the photograph flow beyond the torn edge and interact with the illustration, creating a playful 3D collage effect. Use soft shadows beneath the paper layers and realistic paper edges for depth.
+
+Color palette: warm cream, beige, muted brown, soft earthy tones with the original photo’s natural colors preserved.
+Lighting: warm golden-hour / nostalgic sunlight, soft highlights and gentle shadows.
+Composition: sophisticated, minimal, balanced, artistic, lots of breathing room, premium magazine/editorial aesthetic.
+Texture: handmade paper, subtle grain, torn fibers, slightly imperfect printing and ink texture.
+
+The final image should feel like a real photograph physically pasted onto handmade paper and partially transformed into a delicate illustration, rather than a digital filter.
+
+Important: Do not alter the main subject’s identity, proportions, objects, or important details. Avoid excessive decorations, cartoonish rendering, overly clean digital edges, neon colors, or a generic AI-art look. High-end contemporary scrapbook editorial design, photorealistic + hand-drawn mixed-media collage, 4:5 or 3:4 vertical composition.
+
+[OPTIONAL] Add this concept-specific element: {argument name="transformation_object" default="describe the object/scene you want the photograph to transform into"}
+
+[OPTIONAL TEXT]: Add a short handwritten phrase: "{argument name="handwritten_text" default="your text"}" in a subtle black/charcoal ink style.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2107698369770721674) | 2026-10-07
+
+---
+

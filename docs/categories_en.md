@@ -1453,7 +1453,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1076)
+## 🎴 [Posters & Cards](cat-poster.md) (1078)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3569,11 +3569,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8144: 生肖鼠海报](cat-poster.md#-例-8144生肖鼠海报)
 
 - [Case 8149: 生肖鼠海报](cat-poster.md#-例-8149生肖鼠海报)
+
+- [Case 8161: 黑胶唱片发型拼贴人像](cat-poster.md#-例-8161黑胶唱片发型拼贴人像)
+
+- [Case 8164: 动漫角色海报模板](cat-poster.md#-例-8164动漫角色海报模板)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3033)
+## 📷 [Photography & Realistic](cat-photo.md) (3041)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9573,6 +9577,22 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8155: 电影感旅行人像提示词](cat-photo.md#-例-8155电影感旅行人像提示词)
 
 - [Case 8158: 超现实微型珊瑚景观](cat-photo.md#-例-8158超现实微型珊瑚景观)
+
+- [Case 8160: 特写手机抓拍人像提示词](cat-photo.md#-例-8160特写手机抓拍人像提示词)
+
+- [Case 8162: 复古时尚插画提示词](cat-photo.md#-例-8162复古时尚插画提示词)
+
+- [Case 8163: 复古好莱坞霓虹双色调提示词](cat-photo.md#-例-8163复古好莱坞霓虹双色调提示词)
+
+- [Case 8165: 梦幻核心夜景闪光提示词](cat-photo.md#-例-8165梦幻核心夜景闪光提示词)
+
+- [Case 8166: 未来主义运动研究提示词](cat-photo.md#-例-8166未来主义运动研究提示词)
+
+- [Case 8169: 老式诺基亚风格狗狗 Cosplay 自拍](cat-photo.md#-例-8169老式诺基亚风格狗狗-cosplay-自拍)
+
+- [Case 8170: 森林闪光灯人像摄影](cat-photo.md#-例-8170森林闪光灯人像摄影)
+
+- [Case 8171: 白龙生肖人像](cat-photo.md#-例-8171白龙生肖人像)
 ---
 
 <a id="illustration"></a>
@@ -12167,7 +12187,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (376)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (377)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12907,11 +12927,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8150: 温馨小羊与咖啡插画](cat-3d.md#-例-8150温馨小羊与咖啡插画)
 
 - [Case 8153: 皮克斯风格老年女性角色设定图](cat-3d.md#-例-8153皮克斯风格老年女性角色设定图)
+
+- [Case 8167: 猴子 Cosplay 烧烤夜自拍](cat-3d.md#-例-8167猴子-cosplay-烧烤夜自拍)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (252)
+## 🏛️ [Architecture & Space](cat-architecture.md) (253)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13407,6 +13429,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8105: 雪中街头阅读的女子](cat-architecture.md#️-例-8105雪中街头阅读的女子)
 
 - [Case 8130: GPT Image 2 温馨家居剪贴簿海报提示词](cat-architecture.md#️-例-8130gpt-image-2-温馨家居剪贴簿海报提示词)
+
+- [Case 8159: 温馨紫色万圣节客厅](cat-architecture.md#️-例-8159温馨紫色万圣节客厅)
 ---
 
 <a id="comic"></a>
@@ -15762,7 +15786,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (184)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (185)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16129,6 +16153,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8141: 超现实美食故事书插画转换](cat-edit.md#-例-8141超现实美食故事书插画转换)
 
 - [Case 8146: GPT Image 2 角色参考表提示词](cat-edit.md#-例-8146gpt-image-2-角色参考表提示词)
+
+- [Case 8168: 剪贴簿拼贴画转换提示词](cat-edit.md#-例-8168剪贴簿拼贴画转换提示词)
 ---
 
 <a id="fun"></a>

@@ -35706,3 +35706,39 @@ Include specific text elements: At the top center, place the title '十二生肖
 
 ---
 
+### 🎴 例 8161：黑胶唱片发型拼贴人像
+
+![黑胶唱片发型拼贴人像](../images/%E9%BB%91%E8%83%B6%E5%94%B1%E7%89%87%E5%8F%91%E5%9E%8B%E6%8B%BC%E8%B4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅引人注目的混合媒介侧面肖像，描绘了一位黑人女性面向左侧，背景为纯色鲜艳的红色。照片具有高对比度、温暖的肤色和明显的胶片颗粒感。她留着紧贴头皮的深色短发，佩戴着垂坠式钻石耳环，身穿细链条肩带上衣。她的表情宁静而沉思。从她脑后爆发出一组动态的黑胶唱片拼贴，取代了她的头发，向右上角流动扩散。大约有 10 张大小不一的独立黑胶唱片，主要是黑色圆盘，沟槽反射着光线。这些唱片的中心标签呈现不同颜色：亮红、芥末黄、青蓝、橙色、奶油白，以及一张带有小红点的标签。在完整的唱片之间，穿插着颜色匹配（黄色、青色、黑色、白色）的黑胶和纸张锯齿状碎片，营造出一种动感和破碎感。风格融合了写实摄影与大胆的图形拼贴艺术，让人联想到专辑封面设计或编辑插画。
+
+[English]
+A striking mixed-media portrait of a Black woman in profile, facing left against a solid vibrant red background. The photograph is high-contrast with warm skin tones and visible film grain. She has short dark hair styled close to her scalp, wears a dangling diamond earring, and a thin chain strap top. Her expression is serene and contemplative. Exploding from the back of her head is a dynamic collage of vinyl records that replace her hair, flowing outward toward the upper right corner. There are approximately 10 distinct vinyl records of varying sizes, mostly black discs with grooves catching the light. The center labels of these records feature different colors: bright red, mustard yellow, teal blue, orange, cream white, and one with a small red dot. Interspersed among the whole records are jagged shards and fragments of vinyl and paper in matching colors (yellow, teal, black, white), creating a sense of motion and shattering. The style blends realistic photography with bold graphic collage art, reminiscent of album cover design or editorial illustration.
+```
+
+**来源：** [@VERA 100%](https://x.com/Ledi_ru_noch/status/2107823282091180200) | 2026-10-07
+
+---
+
+### 🎴 例 8164：动漫角色海报模板
+
+![动漫角色海报模板](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+【角色】，明确成年女性，日系游戏角色插画 × anime character pin-up × clean digital painting × soft cel shading × 轻半厚涂。纯白极简背景，纵向大半身，人物占画面主体，身体正面轻微侧倾，腰胯形成自然 S 曲线，头部低垂并转向侧面，冷淡疏离的侧向视线。
+
+一只戴长手套的手屈肘举至脸侧，轻握高饱和小型道具，另一只手自然垂于髋侧。深色半透明弹性紧身内层 × 宽大角色主色斗篷 × 白色蓬松毛领 × 少量金属与缎面结构，VOXCAT 吊牌。角色瞳色与道具形成高饱和点色呼应，锐利眼线、轻红眼妆、鼻尖与脸颊微粉、柔和粉唇。
+
+柔和正面大光源，平滑阴影，清晰发丝高光，干净数字插画质感，黑青 / 冷白 / 角色主色 / 少量鲜红的有限色盘。左上 stylized V + 猫图形 logo，右下“voxCAT”，自然加入极小“VOX CAT”纹身。画面干净清晰，粒子效果克制，手部自然准确，比例稳定。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2107769746997248195) | 2026-10-07
+
+---
+
