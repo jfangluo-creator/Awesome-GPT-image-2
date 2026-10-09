@@ -17151,3 +17151,49 @@ A premium standalone editorial fashion illustration that faithfully preserves th
 
 ---
 
+### 🖥️ 例 8185：GPT Image 2 写实咖啡馆人像提示词
+
+![GPT Image 2 写实咖啡馆人像提示词](../images/GPT%20Image%202%20%E5%86%99%E5%AE%9E%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 iPhone 拍摄。女性的外貌必须 100% 忠实于上传的参考照片，她坐在户外咖啡馆的桌旁，位于一棵秋树下，处于画面中心。她的身体朝前，头部微微倾斜，一侧脸颊轻轻靠在手背上，另一只手放松地放在桌上，握着一个宽口红酒杯的杯梗，该酒杯拥有极细、修长且精致的杯梗和薄玻璃壁。杯底仅残留少量红酒。
+
+她身穿一件廓形宽松的黑色风衣，带有结构感肩垫和超长袖管遮住手指，内搭黑色高领衫。发型需与上传的照片完全一致。
+
+白色桌布，优雅的白色餐盘，背景为经典的欧式建筑立面，一棵秋树占据画面上部。
+
+逼真的 iPhone 摄影质感，细腻自然的胶片颗粒感，真实的皮肤纹理与光影。不要模糊背景；保持整个场景的环境细节真实清晰。
+
+短款方形法式美甲。
+
+9:16 竖屏格式。
+
+她佩戴着窄边黑色无框猫眼太阳镜。
+
+阴天白昼，无直射阳光。采用稍慢的快门速度以营造微妙的自然动态/胶片感，同时保持主体真实且可辨识。
+
+[English]
+Shot on an iPhone. The woman’s appearance should be 100% faithful to the uploaded reference photo, sitting at a café table outdoors under an autumn tree, centered in the frame. Her body is facing forward, her head slightly tilted, with one cheek gently resting on one hand while the other hand is relaxed on the table, holding the stem of a wide red-wine glass with a very thin, long, delicate stem and thin glass walls. Only a small amount of wine remains at the bottom.
+
+She is wearing a voluminous black trench coat with structured shoulder pads and oversized long sleeves covering her fingers, with a black turtleneck underneath. Hair exactly matching the uploaded photo.
+
+White tablecloth, elegant white plates, a classic European-style building façade in the background, with an autumn tree filling the upper part of the frame.
+
+True-to-life iPhone realism, subtle natural film grain, authentic skin texture and lighting. Do not blur the background; maintain realistic environmental detail throughout the scene.
+
+Short square French-tip manicure.
+
+9:16 vertical format.
+
+She is wearing narrow black rimless cat-eye sunglasses.
+
+Overcast daytime with no direct sunlight. Slightly slower shutter speed for a subtle natural motion/film feel while keeping the subject realistic and recognizable.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2108069146428940508) | 2026-10-08
+
+---
+

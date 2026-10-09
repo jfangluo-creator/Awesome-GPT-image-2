@@ -22166,3 +22166,20 @@ No extra decorations.
 
 ---
 
+### 🏷️ 例 8177：警视厅机器人部队提示词
+
+![警视厅机器人部队提示词](../images/%E8%AD%A6%E8%A7%86%E5%8E%85%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%A8%E9%98%9F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="警視庁重機対策課ロボット隊"}
+
+　{argument name="activity" default="橋掛け訓練"}
+　　向こう岸に車をとおします。
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2108171324422320312) | 2026-10-08
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (609)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (610)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1211,6 +1211,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8080: 赛博朋克工业走廊飞溅场景](cat-ui.md#️-例-8080赛博朋克工业走廊飞溅场景)
 
 - [Case 8127: 极简时尚线条艺术插画](cat-ui.md#️-例-8127极简时尚线条艺术插画)
+
+- [Case 8185: GPT Image 2 写实咖啡馆人像提示词](cat-ui.md#️-例-8185gpt-image-2-写实咖啡馆人像提示词)
 ---
 
 <a id="chart"></a>
@@ -1453,7 +1455,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1078)
+## 🎴 [Posters & Cards](cat-poster.md) (1082)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3573,11 +3575,19 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8161: 黑胶唱片发型拼贴人像](cat-poster.md#-例-8161黑胶唱片发型拼贴人像)
 
 - [Case 8164: 动漫角色海报模板](cat-poster.md#-例-8164动漫角色海报模板)
+
+- [Case 8172: GPT Image 2 海报与工作室编辑示例](cat-poster.md#-例-8172gpt-image-2-海报与工作室编辑示例)
+
+- [Case 8178: 清华艺术节海报设计](cat-poster.md#-例-8178清华艺术节海报设计)
+
+- [Case 8183: 东方禅意极简海报提示词](cat-poster.md#-例-8183东方禅意极简海报提示词)
+
+- [Case 8187: 广州早茶海报](cat-poster.md#-例-8187广州早茶海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3041)
+## 📷 [Photography & Realistic](cat-photo.md) (3047)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9593,6 +9603,18 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8170: 森林闪光灯人像摄影](cat-photo.md#-例-8170森林闪光灯人像摄影)
 
 - [Case 8171: 白龙生肖人像](cat-photo.md#-例-8171白龙生肖人像)
+
+- [Case 8173: 黄色辫角肖像](cat-photo.md#-例-8173黄色辫角肖像)
+
+- [Case 8174: GPT Image 2 “第二世界”超现实摄影海报](cat-photo.md#-例-8174gpt-image-2-第二世界超现实摄影海报)
+
+- [Case 8175: 冷面角色产品摄影提示词](cat-photo.md#-例-8175冷面角色产品摄影提示词)
+
+- [Case 8179: 平凡之墙砖设计](cat-photo.md#-例-8179平凡之墙砖设计)
+
+- [Case 8181: 温馨旅行剪贴簿海报](cat-photo.md#-例-8181温馨旅行剪贴簿海报)
+
+- [Case 8182: 英俊青年猴生肖形象](cat-photo.md#-例-8182英俊青年猴生肖形象)
 ---
 
 <a id="illustration"></a>
@@ -12187,7 +12209,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (377)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (378)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -12929,11 +12951,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8153: 皮克斯风格老年女性角色设定图](cat-3d.md#-例-8153皮克斯风格老年女性角色设定图)
 
 - [Case 8167: 猴子 Cosplay 烧烤夜自拍](cat-3d.md#-例-8167猴子-cosplay-烧烤夜自拍)
+
+- [Case 8186: 极简涂鸦构图提示词](cat-3d.md#-例-8186极简涂鸦构图提示词)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (253)
+## 🏛️ [Architecture & Space](cat-architecture.md) (254)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13431,6 +13455,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8130: GPT Image 2 温馨家居剪贴簿海报提示词](cat-architecture.md#️-例-8130gpt-image-2-温馨家居剪贴簿海报提示词)
 
 - [Case 8159: 温馨紫色万圣节客厅](cat-architecture.md#️-例-8159温馨紫色万圣节客厅)
+
+- [Case 8180: 乡村厨房中的两位女性](cat-architecture.md#️-例-8180乡村厨房中的两位女性)
 ---
 
 <a id="comic"></a>
@@ -13995,7 +14021,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (896)
+## 🏷️ [Brand & Packaging](cat-brand.md) (897)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15782,11 +15808,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8151: 复古河畔垂钓者](cat-brand.md#️-例-8151复古河畔垂钓者)
 
 - [Case 8156: 薄荷绿钩针毛衣穿搭提示词](cat-brand.md#️-例-8156薄荷绿钩针毛衣穿搭提示词)
+
+- [Case 8177: 警视厅机器人部队提示词](cat-brand.md#️-例-8177警视厅机器人部队提示词)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (185)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (187)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16155,6 +16183,10 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8146: GPT Image 2 角色参考表提示词](cat-edit.md#-例-8146gpt-image-2-角色参考表提示词)
 
 - [Case 8168: 剪贴簿拼贴画转换提示词](cat-edit.md#-例-8168剪贴簿拼贴画转换提示词)
+
+- [Case 8176: 几何卡通双人互动插画](cat-edit.md#-例-8176几何卡通双人互动插画)
+
+- [Case 8184: 混合卡通照片活动横幅](cat-edit.md#-例-8184混合卡通照片活动横幅)
 ---
 
 <a id="fun"></a>

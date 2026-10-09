@@ -35742,3 +35742,102 @@ A striking mixed-media portrait of a Black woman in profile, facing left against
 
 ---
 
+### 🎴 例 8172：GPT Image 2 海报与工作室编辑示例
+
+![GPT Image 2 海报与工作室编辑示例](../images/GPT%20Image%202%20%E6%B5%B7%E6%8A%A5%E4%B8%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BC%96%E8%BE%91%E7%A4%BA%E4%BE%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+海报：在奶油色背景的水墨飞溅之上呈现标题 "{argument name="headline" default="MAKE MORE. FASTER."}"。
+编辑：以工作室耳机照片为参考，最终结果为水流场景。保持外壳形状不变；添加水和背光效果。
+
+[English]
+Poster: headline "{argument name="headline" default="MAKE MORE. FASTER."}" over an ink splash on cream.
+Edit: the studio earbud shot was the reference, the stream scene is the result. Case shape held; water and backlight added.
+```
+
+**来源：** [@InkRoom · AI Image Studio](https://x.com/inkroom_ai/status/2108340857778954448) | 2026-10-08
+
+---
+
+### 🎴 例 8178：清华艺术节海报设计
+
+![清华艺术节海报设计](../images/%E6%B8%85%E5%8D%8E%E8%89%BA%E6%9C%AF%E8%8A%82%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为“2025 春之清华艺术节”创建分屏平面设计海报。左侧以纯白背景为主，展示色彩鲜艳的扁平化矢量风格花卉插图，包括大雏菊、粉色百合、蓝色绣球花和紫色丁香。最左侧垂直排列中文文字“2025 春之清華藝術節”，旁侧配有英文文字“Spring x Tsing Hua Arts Festival”。左下角包含四个不同的活动类别：“音樂會暨大師班”、“創作展覽”、“藝術工作坊”和“研討論壇”，每个类别均标注具体日期（4/15-5/28）及小型二维码。右侧则在温暖朦胧的奶油色背景上，呈现同一组花卉安排的柔焦梦幻版本。顶部采用大号衬线字体显示“2025 Spring x Tsing Hua Arts Festival”，下方辅以较小文字“ART CULTURE PEOPLE IN BLOOM”。右下角显示日期“4.15 — 5.28”以及标志“TSING HUA UNIVERSITY”。
+
+[English]
+Create a split-screen graphic design poster for the '2025 Spring x Tsing Hua Arts Festival'. The left side features a clean white background with vibrant, flat vector-style illustrations of flowers including a large daisy, pink lilies, blue hydrangeas, and purple lilacs. Vertical Chinese text on the far left reads '2025 春之清華藝術節' alongside English text 'Spring x Tsing Hua Arts Festival'. The bottom left contains four distinct event categories: '音樂會暨大師班', '創作展覽', '藝術工作坊', and '研討論壇', each with specific dates (4/15-5/28) and small QR codes. The right side displays a soft-focus, dreamy version of the same floral arrangement against a warm, hazy cream background. Large serif typography at the top reads '2025 Spring x Tsing Hua Arts Festival', accompanied by smaller text 'ART CULTURE PEOPLE IN BLOOM'. The bottom right shows the dates '4.15 — 5.28' and the logo 'TSING HUA UNIVERSITY'.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2108154573127045545) | 2026-10-08
+
+---
+
+### 🎴 例 8183：东方禅意极简海报提示词
+
+![东方禅意极简海报提示词](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美新中式型
+主体内容：一位古风女子站在层叠台面之间，手扶一处低矮栏缘
+情绪母题：雅致、从容、清爽高级感
+场景与意象：墨绿色拱形背景结构、米白台面、女子、少量植物剪影
+构图与空间：9:16竖版构图，拱形结构位于中上部，层叠台面在下半部分形成纵深，人物位于中下部偏一侧，上方留出整洁标题区
+色彩控制：米白作为整体基底，墨绿用于拱形背景和少量植物剪影，浅金只用于极少局部高光，人物服装建议浅米白或浅豆绿白；避免整图发绿
+光线与质感：明亮柔光，结构干净，轮廓清晰，现代新中式平面海报感
+画幅比例：9:16
+补充要求：拱形结构要简洁利落，层级关系清楚，整体高级、清爽，适合高传播封面，画面留白处配上合适的文字
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2108088810903126324) | 2026-10-08
+
+---
+
+### 🎴 例 8187：广州早茶海报
+
+![广州早茶海报](../images/%E5%B9%BF%E5%B7%9E%E6%97%A9%E8%8C%B6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅垂直构图的海报插画，采用单色调的赤陶橙与奶油米色配色，运用点彩或雕刻风格技法。画面描绘广州热闹的早茶（点心）文化场景。
+
+**布局与文字：**
+- **左上角：** 小字 "CITY MORNING POSTER" 位于大号衬线标题 "GUANGZHOU" 上方。其下为日期 "2026-10-08"，天气信息 "温暖阵云 / 24 - 30°C"，副标题 "广州 · 早茶人间"，以及小号英文 "A CITY WITH WARMTH ALWAYS HAS A NEXT CUP OF TEA"。
+- **右上角：** 大幅竖排中文书法 "早安广州"。其左侧为较小竖排文字 "热气腾腾 就是生活最好的回答"。
+- **底部页脚：** 横向条带分为三段文字，以线条分隔："骑楼 / 早茶 / 珠江"、"蒸笼热气 / 闲谈 / 市井晨色"、"今日天气 / 阵云 / 和暖"。页脚最右侧为手写体签名 "早安，食在人间"。
+
+**视觉元素：**
+- **前景/左侧：** 传统骑楼下的热闹街头用餐场景。几张圆桌坐满正在享用竹蒸笼点心的食客。一名服务员推着满载蒸笼的手推车。一位背对观众的男子身穿印有 "饮茶先啦" 的 T 恤。悬挂于建筑的横幅写着 "广州" 和 "食在广州"。
+- **背景/右侧：** 标志性的广州塔矗立于布满点状云彩与飞鸟的天空之下。一名骑行者沿珠江大桥附近的水滨步道骑行。
+- **细节：** 右下角绘有荔枝果实与叶片插图，以及一只带有公鸡图案的茶杯，旁置一叠竹蒸笼。
+
+[English]
+Create a vertical poster illustration in a monochromatic terracotta orange and cream beige palette, utilizing a stippled pointillism or engraving style. The scene depicts a bustling morning tea (Dim Sum) culture in Guangzhou.
+
+**Layout & Text:**
+- **Top Left:** Small text "CITY MORNING POSTER" above a large serif title "GUANGZHOU". Below that is the date "2026-10-08", weather info "温暖阵云 / 24 - 30°C", and a subtitle "广州 · 早茶人间" followed by small English text "A CITY WITH WARMTH ALWAYS HAS A NEXT CUP OF TEA".
+- **Top Right:** Large vertical Chinese calligraphy reading "早安广州" (Good Morning Guangzhou). To its left, smaller vertical text reads "热气腾腾 就是生活最好的回答" (Steaming hot is life's best answer).
+- **Bottom Footer:** A horizontal band with three sections of text separated by lines: "骑楼 / 早茶 / 珠江" (Arcades / Dim Sum / Pearl River), "蒸笼热气 / 闲谈 / 市井晨色" (Steamers / Chatting / Morning colors), and "今日天气 / 阵云 / 和暖" (Today's weather / Cloudy intervals / Warm). On the far right of the footer is a script signature "早安，食在人间" (Good morning, eating in the world).
+
+**Visual Elements:**
+- **Foreground/Left:** A lively street dining scene under traditional arcade buildings (Qilou). Several round tables are crowded with people eating dim sum from bamboo steamers. A server pushes a cart full of steamer baskets. One man has his back to the viewer wearing a t-shirt that says "饮茶先啦" (Let's drink tea first). Hanging banners on the buildings read "广州" and "食在广州".
+- **Background/Right:** The iconic Canton Tower stands tall against a sky filled with stippled clouds and birds. A cyclist rides along a waterfront promenade near the Pearl River bridge.
+- **Details:** In the bottom right corner, there is an illustration of lychee fruits and leaves, and a teacup with a rooster design sitting next to a stack of bamboo steamers.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2107989342442717497) | 2026-10-08
+
+---
+

@@ -73814,3 +73814,160 @@ A vertical portrait of an elegant young woman with fair skin and dark hair style
 
 ---
 
+### 📷 例 8173：黄色辫角肖像
+
+![黄色辫角肖像](../images/%E9%BB%84%E8%89%B2%E8%BE%AB%E8%A7%92%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张垂直构图、低角度拍摄的中近景肖像，画面中是一位年轻女性，拥有浅棕色皮肤，鼻子和脸颊上分布着明显的雀斑。她目光锐利且直视镜头，有着蓝色的眼睛和丰满的嘴唇。她的头发编成细长的黄色辫子垂在脸庞两侧，并点缀着小银珠和银环。头顶伸出两根粗大、雕塑般的角状结构，由毛茸茸的黄色纱线或绳索制成，略微向上弯曲。她佩戴着金色鼻中隔穿刺和多枚垂坠耳环。颈部前方覆盖着黑色墨水纹身，呈现部落风格的漩涡图案。她身穿一件质感针织毛衣，带有芥末黄、白色和黑色的水平条纹，并搭配一条粗大的银色链条项链。背景左侧是晴朗的蓝天，右侧则是模糊的灰色混凝土建筑结构。光线为明亮的自然阳光，在她的脸上投下清晰的阴影。
+
+[English]
+A vertical, low-angle medium close-up portrait of a young woman with light brown skin and prominent freckles across her nose and cheeks. She has an intense, direct gaze with blue eyes and full lips. Her hair is styled in thin yellow braids that hang down the sides of her face, adorned with small silver beads and rings. Two thick, sculpted horn-like structures made of fuzzy yellow yarn or rope protrude from the top of her head, curving slightly upwards. She wears a gold septum piercing and multiple dangling earrings. A black ink tattoo featuring tribal-style swirls covers the front of her neck. She is dressed in a textured knit sweater with horizontal stripes of mustard yellow, white, and black, accessorized with a chunky silver chain necklace. The background shows a clear blue sky on the left and a blurred grey concrete building structure on the right. The lighting is bright natural sunlight, casting distinct shadows on her face.
+```
+
+**来源：** [@Jengo](https://x.com/jengo_ai_/status/2108252992105328848) | 2026-10-08
+
+---
+
+### 📷 例 8174：GPT Image 2 “第二世界”超现实摄影海报
+
+![GPT Image 2 “第二世界”超现实摄影海报](../images/GPT%20Image%202%20%E2%80%9C%E7%AC%AC%E4%BA%8C%E4%B8%96%E7%95%8C%E2%80%9D%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%91%84%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+请基于我上传的每一张摄影作品，分别创作一张独立的 3:4 竖版「第二世界」概念性超现实摄影插画海报，每张单独输出，不拼图。整体上下严格 1:1。上半部分是原始现实照片，下半部分是从照片内部生长出来的另一层空间；二者不是上下拼接，而是同一个瞬间在不同叙事层中的连续存在。
+上半部分尽可能忠实保留原照片，不改变主体、动作、空间关系、光线、色彩与真实质感，只做必要的等比裁切与轻微高级调性整理，使其具有干净、克制、独立出版物般的摄影品质。
+创作重点不在“题材”，而在视觉结构的再理解。先观察这张照片中最具决定性的结构线索，例如边界、坡度、水面、倒影、阴影、裂缝、道路、枝条、云层、轮廓、空隙、流向、重复节奏、空间转折或人物姿态；从中找到最适合被“越界”的那个部分。然后让它突破照片边界，进入下半部分，并在进入后发生用途、尺度、语义或叙事角色的转译。不是简单延长，而是让现实中的某种东西，在第二层空间里变成另一种可以被使用、进入、测量、打捞、修补、整理、借用、展开或收藏的存在。
+下半部分是温暖、安静、带细微纸张肌理的暖米白空间，保留充足留白。它不是插画背景，也不是装饰区，而是承接“越界之后的新逻辑”的地方。上下关系应符合：现实 → 越界 → 转译。画面的趣味来自一个聪明而准确的跨层叙事，而不是可爱装饰。
+可加入极简黑色手绘线稿人物，但应少而准，0–3 个即可。人物不是摆设，而是第二世界的使用者；他们必须与被转译出的结构发生真实互动。线条轻、简、自然，略带手工感，不卖萌，不复杂，不喧宾夺主。动作应具体、克制、聪明，像是在认真处理一件本来就存在于这个世界里的小事。
+可加入一句简短英文手写旁白，但必须根据这张图里真实发生的“第二世界事件”现场生成。语气像顺手写下的发现或轻声旁白，带一点幽默和余味，不写成励志句，不解释寓意，不套模板。
+整体风格应呈现：Mixed-Media Photo Illustration、Surreal Photomontage、Frame-Breaking Illusion、Trompe-l'œil、Visual Metaphor、Conceptual Editorial Illustration 的综合质感。也就是：以跨媒介拼贴为形式，以画面越界为机制，以视觉隐喻为核心，以温柔、轻微、聪明的微型超现实主义为情绪基调。
+不要做成“照片下方加小人和句子”的模板图；不要只有延伸没有转译；不要只有形式没有隐喻；不要强行抒情；不要商业广告感、复杂插画感、重复动作、无依据装饰、机械拼贴、硬连接或廉价治愈风。
+最终目标：
+让观者先看到一张成立的真实照片，再忽然发现其中某个元素越界进入了另一层空间，并在那里获得了一个意想不到却极其自然的新意义。
+不是给照片加创意，而是把照片里原本潜伏的第二种现实显现出来。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2108227862390280585) | 2026-10-08
+
+---
+
+### 📷 例 8175：冷面角色产品摄影提示词
+
+![冷面角色产品摄影提示词](../images/%E5%86%B7%E9%9D%A2%E8%A7%92%E8%89%B2%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="初音未来"}成年真人化，真人角色摄影，怪萌气质 × deadpan humor × 极简白底商品照构图。
+
+保留【角色】最核心的身份识别：发型轮廓、发色、眼睛主色、脸部特征、角色主色、标志性配饰、服装轮廓、头饰、耳朵 / 角 / 尾巴 / 面部符号等最关键的视觉锚点。整体不是普通 cosplay 摆拍，而是将【角色】转译成一张极简、干净、荒诞、带轻商业感的人像商品照。人物必须明确成年。
+
+人物位于画面中下部，半身或大半身入镜，面对镜头或微微侧向镜头，一只手或双手拿着【道具】。如果【道具】适合饮用、抱持、展示、举起、啃咬、捧着或依靠，就让【角色】与【道具】形成一个简单直接、一眼可读的互动动作。动作很少，但必须清楚，例如：举着、捧着、递向镜头、含着吸管、抱着、拿着、托着、举到胸前、靠在脸边。重点是“角色很认真地和一个物品互动”，由此产生幽默感。
+
+【道具】在画面中占比很大，接近人物头部或上半身尺度，形成 oversized prop interaction。道具材质清楚、形体完整、轮廓明确，视觉上成为与人物并列的重要主体。人物和道具之间的关系要简单、直接、可爱、略带一点荒诞。
+
+人物表情以 deadpan 为核心：眼神略空、冷淡、呆、轻微疲惫、一本正经、像很认真地做一件很普通的事。不要夸张大笑，不要强烈戏剧表演。整体气质是 awkward cute、soft absurdity、cute commercial image。
+
+构图采用：
+bottom-weighted composition × expansive negative space。
+人物和道具集中在画面下半部或中下部，上方保留大面积纯净留白。背景是白色或极浅灰白的无缝棚拍背景，空间极简，像产品广告图或角色周边海报。
+
+摄影采用：
+high-key product photography × soft studio lighting × minimal studio portrait。
+柔和正面漫射光，轻微棚拍感，明亮、干净、阴影很轻。人物皮肤、服装、头发、配饰与【道具】的材质差异要清楚：布料、金属、塑料、玻璃、纸张、液体、食物等都应有明确质感。
+
+整体视觉要求：
+极简、
+干净、
+留白大、
+人物居中偏下、
+道具比例偏大、
+动作简单清楚、
+幽默感来自表情与道具比例关系，
+像一张高级但轻松的角色广告图。
+
+成像清晰，现代商业摄影质感，但不是奢华时尚大片，而是更简洁、更轻松、更像“角色拿着一个很大的东西拍产品照”。最终效果像一张极简白底真人角色海报：一个真人化的【角色】站在纯净白底前，认真拿着一个比例偏大的【道具】，表情呆、动作简单、画面留白很大、笑点直接、观感可爱又荒诞。
+
+竖版。
+右下角仅极小“voxcat”签名，不出现其他文字。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2108192853742456945) | 2026-10-08
+
+---
+
+### 📷 例 8179：平凡之墙砖设计
+
+![平凡之墙砖设计](../images/%E5%B9%B3%E5%87%A1%E4%B9%8B%E5%A2%99%E7%A0%96%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+屏幕分割构图。左半部分是风化红砖墙的近距离特写照片，具有粗糙的纹理和灰色的砂浆线。右半部分在米白色背景上展示极简主义图形设计，呈现风格化的水彩质感橙红色矩形块，排列成类似砖块的交错图案，上方有一个柔和的桃色圆形代表太阳。右上角的大号黑色中文字符写着“平凡之墙”。标题下方的小字写着“一些普通的材料 也能支撑起生活的重量”。右侧更下方的垂直小字写着“日常之美 从不遥远”。右下角有一个列表：“砖 / 时间 / 生活 / 依然向上 /”。
+
+[English]
+A split-screen composition. The left half is a close-up photograph of a weathered red brick wall with rough texture and grey mortar lines. The right half features a minimalist graphic design on an off-white background, displaying stylized watercolor-textured orange-red rectangular blocks arranged in a staggered pattern resembling bricks, with a soft peach-colored circle representing the sun above them. In the top right corner, large black Chinese characters read '平凡之墙' (The Ordinary Wall). Below this title, smaller text reads '一些普通的材料 也能支撑起生活的重量' (Some ordinary materials can also support the weight of life). Further down on the right side, small vertical text says '日常之美 从不遥远' (The beauty of daily life is never far away). In the bottom right corner, there is a list: '砖 / 时间 / 生活 / 依然向上 /' (Brick / Time / Life / Still Rising /).
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2108151709566726375) | 2026-10-08
+
+---
+
+### 📷 例 8181：温馨旅行剪贴簿海报
+
+![温馨旅行剪贴簿海报](../images/%E6%B8%A9%E9%A6%A8%E6%97%85%E8%A1%8C%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个受参考图片启发的垂直温馨旅行剪贴簿海报。将上半部分的电影感写实旅行照片与下半部分的手绘记忆日记拼贴相结合。
+
+上半部分：展示两位年轻旅行者在一处俯瞰美丽海洋的草质海岸悬崖上放松休息。一人正用复古相机拍照，另一人则翻阅旅行指南/地图。在草地上包含小件旅行物品，如照片、明信片和相机配件。温暖的黄金时刻阳光，柔和的海浪，自然的抓拍姿势，怀旧的胶片摄影，柔和的暖色调，电影般的景深，真实宁静的旅行氛围。
+
+下半部分：在温暖有质感的奶油色纸张上，创建一个受场景启发的迷人的 3×3 插画剪贴簿网格。绘制单个手绘元素：拿着相机的人、海浪和太阳、拿着地图的旅行者、复古照片、心形符号、海岸草地和大海、折叠的牛仔裤/衣物、背带裤/背包以及海浪。使用松散的彩色铅笔和水彩笔触，搭配深棕色素描轮廓，点缀柔和的蓝色、橙色、黄色和绿色。添加微小的爱心、星星、小鸟、阳光和装饰性涂鸦。
+
+在插画部分的顶部，添加手写标题“Good Times”，底部添加一行小手写短语“Same place, better together.”
+
+风格：怀旧旅行日记，复古胶片摄影，手工剪贴簿，水彩 + 彩色铅笔插画，有质感的再生纸，温暖舒适的色调，不完美的手绘细节，情感化的友谊/旅行回忆，高端编辑海报，构图简洁，垂直 4:5 比例，高度详细，无水印。
+
+[English]
+Create a vertical cozy travel scrapbook poster inspired by the reference images. Combine a cinematic realistic travel photograph on the top half with a hand-drawn memory journal collage on the bottom half.
+
+Top section: Show two young travelers relaxing together on a grassy coastal cliff overlooking a beautiful ocean. One person is taking photographs with a vintage camera while the other is looking through a travel guide/map. Include small travel items such as photographs, postcards and camera accessories on the grass. Warm golden-hour sunlight, soft ocean waves, natural candid poses, nostalgic film photography, muted warm colors, cinematic depth of field, authentic peaceful travel atmosphere.
+
+Bottom section: On warm textured cream paper, create a charming 3×3 illustrated scrapbook grid inspired by the scene. Draw individual hand-drawn elements: a person with a camera, ocean waves and sun, traveler with a map, vintage photographs, a heart symbol, coastal grass and sea, folded jeans/clothing, overalls/backpack, and ocean waves. Use loose colored-pencil and watercolor strokes with dark brown sketch outlines, muted blue, orange, yellow and green accents. Add tiny hearts, stars, birds, sunshine and decorative doodles.
+
+At the top of the illustrated section, add a handwritten title “Good Times” and at the bottom a small handwritten phrase “Same place, better together.”
+
+Style: nostalgic travel diary, vintage film photography, handmade scrapbook, watercolor + colored-pencil illustration, textured recycled paper, warm cozy tones, imperfect hand-drawn details, emotional friendship/travel memories, premium editorial poster, clean composition, vertical 4:5, highly detailed, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2108115288093032489) | 2026-10-08
+
+---
+
+### 📷 例 8182：英俊青年猴生肖形象
+
+![英俊青年猴生肖形象](../images/%E8%8B%B1%E4%BF%8A%E9%9D%92%E5%B9%B4%E7%8C%B4%E7%94%9F%E8%82%96%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅电影感、超写实的肖像画，描绘了一位代表猴生肖的英俊青年。他留着凌乱的深棕色头发，几缕发丝垂在额前，头戴一条细金箍。他的表情平静而自信，直视观众。他身穿中国传统长袍，黑色面料上饰有精致的金色锦缎图案，胸前斜披一条质感粗糙的赭色腰带。他的左肩上蹲着一只小巧逼真的猴子，穿着配套的迷你马甲。在他身后，一根长而华丽的金色棍棒（如意金箍棒）垂直延伸出画面。背景是柔焦处理的雾霭山峦和古老寺庙屋顶。左上角有一个用米色墨水书写的巨大粗体书法字“猴”。右侧竖排文字写着“CHINESE ZODIAC MONKEY”。左侧竖排白色文字写着“天生我材必有用”，下方是小字“灵动聪慧·机敏过人·自由无畏”。文字附近可见一枚红色印章。
+
+[English]
+A cinematic, hyper-realistic portrait of a handsome young man representing the Monkey zodiac. He has messy dark brown hair with loose strands falling over his forehead and wears a thin golden headband. His expression is calm and confident, looking directly at the viewer. He is dressed in traditional Chinese robes featuring intricate gold brocade patterns on black fabric, with a textured ochre sash draped across his chest. Perched on his left shoulder is a small, realistic monkey wearing a miniature matching vest. Behind him, he carries a long, ornate golden staff (Ruyi Jingu Bang) that extends vertically out of the frame. The background is a soft-focus landscape of misty mountains and ancient temple roofs. In the top left corner, there is a large, bold calligraphy character '猴' in beige ink. On the right side, vertical text reads 'CHINESE ZODIAC MONKEY'. On the left side, vertical white text reads '天生我材必有用' followed by smaller text '灵动聪慧·机敏过人·自由无畏'. A red seal stamp is visible near the text.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2108090046171807754) | 2026-10-08
+
+---
+
