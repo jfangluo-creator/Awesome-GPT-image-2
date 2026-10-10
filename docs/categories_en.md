@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (610)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (612)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1213,6 +1213,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8127: 极简时尚线条艺术插画](cat-ui.md#️-例-8127极简时尚线条艺术插画)
 
 - [Case 8185: GPT Image 2 写实咖啡馆人像提示词](cat-ui.md#️-例-8185gpt-image-2-写实咖啡馆人像提示词)
+
+- [Case 8188: Harbor Street Coffee 秋季菜单](cat-ui.md#️-例-8188harbor-street-coffee-秋季菜单)
+
+- [Case 8198: 立体主义抽象绘画](cat-ui.md#️-例-8198立体主义抽象绘画)
 ---
 
 <a id="chart"></a>
@@ -1455,7 +1459,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1082)
+## 🎴 [Posters & Cards](cat-poster.md) (1083)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3583,11 +3587,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8183: 东方禅意极简海报提示词](cat-poster.md#-例-8183东方禅意极简海报提示词)
 
 - [Case 8187: 广州早茶海报](cat-poster.md#-例-8187广州早茶海报)
+
+- [Case 8200: 广州晨食景观海报](cat-poster.md#-例-8200广州晨食景观海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3047)
+## 📷 [Photography & Realistic](cat-photo.md) (3052)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9615,11 +9621,21 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8181: 温馨旅行剪贴簿海报](cat-photo.md#-例-8181温馨旅行剪贴簿海报)
 
 - [Case 8182: 英俊青年猴生肖形象](cat-photo.md#-例-8182英俊青年猴生肖形象)
+
+- [Case 8190: 中世纪战场上的写实动漫战士](cat-photo.md#-例-8190中世纪战场上的写实动漫战士)
+
+- [Case 8191: 诺基亚手机自拍：布偶猫 Cosplay](cat-photo.md#-例-8191诺基亚手机自拍布偶猫-cosplay)
+
+- [Case 8192: 秋日神社背景与紫色鸟居](cat-photo.md#-例-8192秋日神社背景与紫色鸟居)
+
+- [Case 8193: 复古百货商店人像](cat-photo.md#-例-8193复古百货商店人像)
+
+- [Case 8196: 怀旧编辑风格剪贴簿模板](cat-photo.md#-例-8196怀旧编辑风格剪贴簿模板)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1050)
+## 🎨 [Illustration & Art](cat-illustration.md) (1052)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11705,6 +11721,10 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8135: GPT Image 法式休闲穿搭](cat-illustration.md#-例-8135gpt-image-法式休闲穿搭)
 
 - [Case 8136: 蒸汽朋克《最后的齿轮》提示词](cat-illustration.md#-例-8136蒸汽朋克最后的齿轮提示词)
+
+- [Case 8197: 柔和学院风穿搭设计提示词](cat-illustration.md#-例-8197柔和学院风穿搭设计提示词)
+
+- [Case 8199: 青岛啤酒灵感服装设计](cat-illustration.md#-例-8199青岛啤酒灵感服装设计)
 ---
 
 <a id="character"></a>
@@ -13461,7 +13481,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (286)
+## 🎬 [Comics & Storyboards](cat-comic.md) (287)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14017,11 +14037,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8139: Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8139opus-55-vs-wife-gpt-漫画条)
 
 - [Case 8147: Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8147opus-55-vs-wife-gpt-漫画条)
+
+- [Case 8194: 复古儿童绘本封面角色插画](cat-comic.md#-例-8194复古儿童绘本封面角色插画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (897)
+## 🏷️ [Brand & Packaging](cat-brand.md) (899)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15810,6 +15832,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8156: 薄荷绿钩针毛衣穿搭提示词](cat-brand.md#️-例-8156薄荷绿钩针毛衣穿搭提示词)
 
 - [Case 8177: 警视厅机器人部队提示词](cat-brand.md#️-例-8177警视厅机器人部队提示词)
+
+- [Case 8189: 战锤 40K 战斗场景](cat-brand.md#️-例-8189战锤-40k-战斗场景)
+
+- [Case 8195: 抽象极简主义悟空风景](cat-brand.md#️-例-8195抽象极简主义悟空风景)
 ---
 
 <a id="edit"></a>

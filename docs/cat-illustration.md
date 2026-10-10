@@ -21957,3 +21957,55 @@ No extra decorations.
 
 ---
 
+### 🎨 例 8197：柔和学院风穿搭设计提示词
+
+![柔和学院风穿搭设计提示词](../images/%E6%9F%94%E5%92%8C%E5%AD%A6%E9%99%A2%E9%A3%8E%E7%A9%BF%E6%90%AD%E8%AE%BE%E8%AE%A1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+
+一件超大号的浅蓝色格纹翻领衬衫，在腰部打结，叠穿在一件短袖无袖针织马甲内，搭配带有细微条纹的高腰阔腿裤。
+
+搭配白色中筒袜和黑色玛丽珍平底鞋。
+
+干净、精致、柔和的学院风时尚美学。
+浅蓝、白、黑及柔和中性色调配色方案。
+无额外装饰。
+
+[English]
+OUTFIT:
+
+An oversized pale-blue gingham collared shirt, tied in a knot at the waist and layered under a short sleeveless knit vest, paired with high-waisted wide-leg trousers with subtle pinstripes.
+
+Styled with white crew socks and black Mary Jane flats.
+
+Clean, smart, softly preppy fashion aesthetic.
+Pale blue, white, black, and soft neutral color scheme.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2108393262117527622) | 2026-10-09
+
+---
+
+### 🎨 例 8199：青岛啤酒灵感服装设计
+
+![青岛啤酒灵感服装设计](../images/%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E7%81%B5%E6%84%9F%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+受此产品启发，设计一套酷风格女装
+
+[English]
+Inspired by this product, design a set of cool-style women's clothing
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2108361908642603195) | 2026-10-09
+
+---
+

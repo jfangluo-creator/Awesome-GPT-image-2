@@ -22183,3 +22183,39 @@ No extra decorations.
 
 ---
 
+### 🏷️ 例 8189：战锤 40K 战斗场景
+
+![战锤 40K 战斗场景](../images/%E6%88%98%E9%94%A4%2040K%20%E6%88%98%E6%96%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅广角、超写实的数字绘画，展现了黄昏时分宏大的科幻战场。前景中，一排身穿重型动力装甲的超级士兵站在加固城墙上，使用爆弹枪射击，枪口迸发出明亮的橙色火光。这些士兵穿着不同颜色的动力装甲：黄色、带有白色星形徽章的深灰色、配有红色肩甲的蓝色以及风化的白色。在他们身后，身着橄榄绿制服和头盔的常规步兵正在操作重型机械和火炮。背景是一座巨大的哥特式帝国皇宫，高耸的尖塔和飞扶壁在烟雾弥漫、火光冲天的天空中形成剪影。数百架炮艇和空降舱充斥空中，伴随着爆炸声和曳光弹轨迹。光影效果极具戏剧性和电影感，突出了兽人战争的宏大尺度。
+
+[English]
+A wide-angle, hyper-realistic digital painting of a massive sci-fi battle scene at dusk. In the foreground, a line of heavily armored super-soldiers stands on a fortified wall, firing bolters that emit bright orange muzzle flashes. The soldiers wear distinct power armor in yellow, dark grey with white star insignias, blue with red shoulder pads, and weathered white. Behind them, regular infantrymen in olive drab uniforms and helmets operate heavy machinery and artillery. The background features a colossal Gothic-style Imperial Palace with towering spires and flying buttresses, silhouetted against a smoky, fiery sky. Hundreds of gunships and drop-ships fill the air, accompanied by explosions and tracer fire. The lighting is dramatic and cinematic, emphasizing the scale of the War of the Beast.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2108607817154195841) | 2026-10-09
+
+---
+
+### 🏷️ 例 8195：抽象极简主义悟空风景
+
+![抽象极简主义悟空风景](../images/%E6%8A%BD%E8%B1%A1%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%82%9F%E7%A9%BA%E9%A3%8E%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极简主义抽象数字绘画，描绘了 {argument name="character" default="《龙珠 Z》中的悟空"} 的小剪影站在几何悬崖边缘。从背后视角看，角色身穿橙色武道服，手持棍棒，面向由奶油色、石板蓝和赭石色等柔和色调的大重叠圆圈组成的广阔超现实景观。细垂直线连接着彩色小圆点，宛如星座或动态雕塑结构，背景为带有纹理的纸质效果。风格让人联想到中世纪现代平面设计，并带有风化、垃圾摇滚（grunge）质感。
+
+[English]
+A minimalist, abstract digital painting featuring a small silhouette of {argument name="character" default="Goku from Dragon Ball Z"} standing on a geometric cliff edge. The character is viewed from behind, wearing an orange martial arts gi and holding a staff, facing a vast, surreal landscape composed of large overlapping circles in muted tones of cream, slate blue, and ochre. Thin vertical lines connect small colored dots, resembling a constellation or mobile structure against a textured, paper-like background. The style is reminiscent of mid-century modern graphic design with a weathered, grunge texture.
+```
+
+**来源：** [@コン🦊 | AIプロンプト×ゆるFIRE](https://x.com/konfire1192/status/2108486693028528163) | 2026-10-09
+
+---
+

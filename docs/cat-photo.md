@@ -73971,3 +73971,132 @@ A cinematic, hyper-realistic portrait of a handsome young man representing the M
 
 ---
 
+### 📷 例 8190：中世纪战场上的写实动漫战士
+
+![中世纪战场上的写实动漫战士](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E6%88%98%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%86%99%E5%AE%9E%E5%8A%A8%E6%BC%AB%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实、电影感的动作镜头，展示了一位年轻日本女战士身处混乱的中世纪战场之中。她留着黑色长发，用两个金色发夹束起，身穿深蓝色水手服风格的改良校服（seifuku），肩部和手臂配有厚重的皮革护甲加固。她的脸上沾满烟灰和血迹，神情激烈而坚定，正向前突进。前景中，模糊的类僵尸生物正在发起攻击。背景描绘了一个燃烧的村庄，木质建筑倒塌，浓烟升腾至天空，其他士兵也在混乱中激战。光线戏剧化且粗粝，强调了场景的真实感。
+
+[English]
+A hyper-realistic, cinematic action shot of a young Japanese female warrior in the midst of a chaotic medieval battle. She has long black hair tied back with two gold hair clips and wears a modified dark blue sailor-style school uniform (seifuku) reinforced with heavy leather armor on her shoulders and arms. Her face is dirty with soot and blood splatters, showing an intense, determined expression as she lunges forward. In the foreground, blurred zombie-like creatures are attacking. The background depicts a burning village with wooden structures, smoke rising into the sky, and other soldiers fighting amidst the chaos. The lighting is dramatic and gritty, emphasizing the realism of the scene.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2108560011643514935) | 2026-10-09
+
+---
+
+### 📷 例 8191：诺基亚手机自拍：布偶猫 Cosplay
+
+![诺基亚手机自拍：布偶猫 Cosplay](../images/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E6%89%8B%E6%9C%BA%E8%87%AA%E6%8B%8D%EF%BC%9A%E5%B8%83%E5%81%B6%E7%8C%AB%20Cosplay.jpg)
+
+**Prompt:**
+
+```text
+依照参考图的成年美女 Cos，请维持女主的脸部，布偶猫主题造型，黑色长发，棕白色毛绒服装与猫抓配饰。
+
+人物贴近镜头自拍，身体微微前倾，歪头，轻微撅嘴，带一点疑惑、嫌弃又可爱的表情，直视镜头。
+
+布偶猫的毛色造型细节如素材图
+
+人物身旁是一只布偶猫，前景放置藤编篮子，篮子里有一只毛茸茸的黄色小鸡和一串深紫色葡萄。
+人物、猫、小鸡、葡萄自然挤在同一个画面中，形成荒诞又日常的私人合影。
+
+2000 年代早期老诺基亚手机拍摄，低像素彩色数码摄影，低解析力，轻微失焦，粗糙数字噪点，JPEG 压缩痕迹，肤色轻微偏色，不均匀白平衡，有限动态范围，边缘柔软，暗部脏噪点明显。
+
+狭小普通卧室，旧床铺、木质家具、老式 CRT 电视自然进入背景。昏暗室内环境光配合手机直闪，人物面部略微过曝，背景迅速衰减变暗。近距离广角自拍透视，手臂伸向镜头形成明显近大远小效果，构图随意、略微倾斜，像朋友临时用老手机拍下的私人照片。
+
+整体真实、廉价、粗糙、随手拍，不做现代高清摄影质感。画面仅保留极小 fanfan 签名。
+```
+
+**来源：** [@花椰菜](https://x.com/indesjyo/status/2108545119968477317) | 2026-10-09
+
+---
+
+### 📷 例 8192：秋日神社背景与紫色鸟居
+
+![秋日神社背景与紫色鸟居](../images/%E7%A7%8B%E6%97%A5%E7%A5%9E%E7%A4%BE%E8%83%8C%E6%99%AF%E4%B8%8E%E7%B4%AB%E8%89%B2%E9%B8%9F%E5%B1%85.jpg)
+
+**Prompt:**
+
+```text
+和風ファンタジーの世界に佇む、紅葉に包まれた異界の神社参道。人物のいない背景イラスト。横長の画面、やや低い視点から緩やかな石段を見上げる構図。主役は画面中央より少し右に立つ大きな紫の鳥居。鳥居は深い京紫の漆塗りで、縁に薄い藤色の光を受け、木目と年月を経た微細な亀裂が見える。反りのある笠木、控えめな金の飾り金具、太い注連縄と白い紙垂を精密に描写。鳥居の奥には小さな鳥居が間隔を置いて続き、淡い霧に沈む古社へ視線を導く。
+
+左右から枝を伸ばす楓の巨木。深紅、朱、橙、黄金色の葉が幾重にも重なり、透過光で葉脈が繊細に浮かぶ。手前の枝と落ち葉は輪郭まで鮮明に、中景は緻密に、遠景は空気遠近法で柔らかく描き分ける。苔むした石段には雨上がりの薄い水膜が残り、紫の柱と紅葉が途切れながら映り込む。石の隙間から小さな草と白い秋花が顔を出し、落ち葉が水際に集まっている。
+
+参道脇には風化した石灯籠、苔を纏った狐の石像、古い木札を結んだ枝、小さな鈴を吊るした祠を配置。石灯籠の内側だけに温かな琥珀色の灯りを宿し、鳥居の足元には青紫の微かな霊光が漂う。画面の端を流れる細い清流には数枚の紅葉が浮かび、水底の小石まで見える。小道具は景観の一部として自然に馴染ませ、主役の鳥居を埋もれさせない。
+
+時刻は夕暮れ直前。斜め奥から差す金色の陽光が紅葉の縁を照らし、柱の影が石段へ長く伸びる。冷たい薄藍の霧と暖かな光の対比。風に舞う数枚の葉で静かな動きを添え、鳥居の向こうに別世界が続くような神秘と畏敬を表現。精緻な手描きの線、透明感のある彩色、素材ごとに異なる筆致、映画的な光と奥行き。鮮やかさと静けさを両立した最高品質の背景美術。過剰な発光、均一な描き込み、歪んだ建築、人物、文字、ロゴ、透かしは入れない。
+```
+
+**来源：** [@電忍【漫画】/原作者:森ノたぬきつね](https://x.com/tanukitune6473/status/2108512802017071166) | 2026-10-09
+
+---
+
+### 📷 例 8193：复古百货商店人像
+
+![复古百货商店人像](../images/%E5%A4%8D%E5%8F%A4%E7%99%BE%E8%B4%A7%E5%95%86%E5%BA%97%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，展示了一位年轻女性站在日本百货商店内。她留着深色短发波波头，有刘海，面带温柔的表情直视镜头。她身穿一件奶油色长袖衬衫，带有彼得潘领，下摆塞进一条棕色格纹百褶裙中，裙长及膝上方。肩上挂着一个小巧的棕色皮革挎包，手中拿着一本书或宣传册。她的整体造型搭配白色短袜和深棕色乐福鞋。背景左侧是装满香水和化妆品的玻璃展示柜，上面写着“化粧品”（化妆品）。右侧则有服装架和另一块写着“婦人服”（女装）的标牌。地板是抛光瓷砖，反射着头顶温暖的灯光。整体氛围唤起怀旧感，让人联想到 20 世纪末的日本。
+
+[English]
+A vintage-style photograph of a young woman standing in a Japanese department store. She has short, dark bobbed hair with bangs and is looking directly at the camera with a gentle expression. She wears a cream-colored long-sleeved blouse with a Peter Pan collar, tucked into a brown plaid pleated skirt that falls just above her knees. A small brown leather satchel hangs from her shoulder, and she holds a book or pamphlet in her hands. Her outfit is completed with white ankle socks and dark brown loafers. The background shows glass display cases filled with perfumes and cosmetics on the left, with a sign reading '化粧品' (cosmetics). To the right, there are clothing racks and another sign reading '婦人服' (women's clothing). The floor is polished tile reflecting the warm lighting overhead. The overall atmosphere evokes nostalgia, reminiscent of late 20th-century Japan.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2108504637498421309) | 2026-10-09
+
+---
+
+### 📷 例 8196：怀旧编辑风格剪贴簿模板
+
+![怀旧编辑风格剪贴簿模板](../images/%E6%80%80%E6%97%A7%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张怀旧编辑风格的剪贴簿图像，将一张主写实生活方式照片与下方的手绘插图部分相结合。
+
+顶部 50–55% 区域应呈现电影感、高度写实的 {argument name="subject" default="[主体 / 场景]"} 照片，捕捉如同真实胶片摄影般的质感。采用自然抓拍构图，营造温暖怀旧的氛围，柔和的漫射光，细腻的胶片颗粒感，逼真的纹理，略微褪色的复古色调，秋季/暖土色系，在适当位置使用浅景深，构图精美但不过度修饰。
+
+底部 45–50% 区域应看起来像一页复古手工剪贴簿 / 旅行日记页，印在温暖的奶油色纹理纸上。将照片中的小元素重新创作成松散的彩色铅笔和水彩涂鸦插图，排列成整洁的 3×3 网格或平衡布局。包含与场景相关的简单手绘物体，例如 {argument name="object_1" default="[物体 1]"}、{argument name="object_2" default="[物体 2]"}、{argument name="object_3" default="[物体 3]"}。使用不完美的素描线条、细微的铅笔笔触、水彩晕染、略不均匀的上色以及真实的手工瑕疵。
+
+在插图部分的顶部添加一个简短的手写标题：“{argument name="title" default="[标题]"}”，采用随意、不完美的黑色/灰色手写字迹。在插图周围添加微小的装饰元素，如爱心、圆点、云朵、树叶、星星、波浪或小涂鸦。
+
+在最底部，添加一个小手写说明文字：“{argument name="caption" default="[简短说明]"}”。
+
+整体美学：舒适的 Pinterest 编辑风格，怀旧的旅行日记，复古胶片摄影 + 儿童素描本插图，温暖的模拟记忆，高端生活方式杂志构图，触感纸张纹理，低调优雅，情感温暖，真实而非过度数字化。
+
+构图：垂直 4:5 比例，照片与插图之间有清晰的分隔，平衡的留白，照片与绘图之间保持一致的视觉叙事。
+
+重要提示：保持顶部区域的写实摄影效果；不要将照片转化为插图。下部区域应明显呈现手绘风格。避免过多的文字、扭曲的字体、写实风格的涂鸦、CGI 外观、过饱和色彩、杂乱无章或过于完美的矢量图形。
+
+[English]
+Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.
+
+The top 50–55% should be a cinematic, highly realistic photograph of {argument name="subject scene" default="[SUBJECT / SCENE]"}, captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.
+
+The bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as {argument name="object 1" default="[OBJECT 1]"}, {argument name="object 2" default="[OBJECT 2]"}. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.
+
+Add a short handwritten title at the top of the illustrated section: “{argument name="title" default="[TITLE]"}”, in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.
+
+At the very bottom, add a small handwritten caption: “{argument name="short caption" default="[SHORT CAPTION]"}”.
+
+Overall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.
+
+Composition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.
+
+Important: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2108396270276804931) | 2026-10-09
+
+---
+

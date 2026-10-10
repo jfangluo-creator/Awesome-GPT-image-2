@@ -17197,3 +17197,39 @@ Overcast daytime with no direct sunlight. Slightly slower shutter speed for a su
 
 ---
 
+### 🖥️ 例 8188：Harbor Street Coffee 秋季菜单
+
+![Harbor Street Coffee 秋季菜单](../images/Harbor%20Street%20Coffee%20%E7%A7%8B%E5%AD%A3%E8%8F%9C%E5%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高角度、逼真的照片，展示了沐浴在温暖斑驳阳光下的质朴木桌。画面左侧放着一张垂直的菜单卡，印在奶油色纸张上，带有细深绿色双线边框。卡片上的文字排列如下：顶部是小写衬线字母“HARBOR STREET COFFEE”；其下方是大而优雅的深绿色衬线字体“Fall Menu”；接着是一条装饰性水平线，中间有一个叶子图案。菜单项目以深绿色衬线文本列出：“Maple Oat Latte $5.50”、“Pumpkin Cold Brew $5.00”和“Cardamom Bun $4.25”。卡片底部还有另一个叶子图案以及文字“Open daily 7am - 3pm”。菜单右侧是一个装满拿铁的陶瓷马克杯，上面有复杂的白色玫瑰拉花艺术。左上角可以看到部分盆栽植物的叶子，在场景中投下柔和的阴影。
+
+[English]
+A high-angle, photorealistic shot of a rustic wooden table bathed in warm, dappled sunlight. On the left side of the frame lies a vertical menu card printed on cream-colored paper with a thin dark green double-line border. The text on the card is arranged as follows: at the top, 'HARBOR STREET COFFEE' in small uppercase serif letters; below that, 'Fall Menu' in large, elegant dark green serif font; followed by a decorative horizontal line with a leaf motif in the center. The menu items are listed in dark green serif text: 'Maple Oat Latte $5.50', 'Pumpkin Cold Brew $5.00', and 'Cardamom Bun $4.25'. At the bottom of the card is another leaf motif and the text 'Open daily 7am - 3pm'. To the right of the menu sits a ceramic mug filled with a latte featuring intricate white rosetta latte art. In the upper left corner, the leaves of a potted plant are partially visible, casting soft shadows across the scene.
+```
+
+**来源：** [@lookmybio.com](https://x.com/lookmybio_app/status/2108618376637562963) | 2026-10-09
+
+---
+
+### 🖥️ 例 8198：立体主义抽象绘画
+
+![立体主义抽象绘画](../images/%E7%AB%8B%E4%BD%93%E4%B8%BB%E4%B9%89%E6%8A%BD%E8%B1%A1%E7%BB%98%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅垂直构图的立体主义风格抽象画，以碎片化的几何形状和重叠的平面为特色。构图包括沿对角线排列的风格化人物形象，其中一些面孔被描绘成棱角分明的面具或分裂的肖像。使用赭石色、深蓝色、黑色、白色和铁锈红组成的柔和色调。融入新月、小型飞碟以及类似容器或扬声器的圆柱形等象征元素。整体氛围内省而现代，唤起20世纪初先锋派艺术的意象。
+
+[English]
+A vertical abstract painting in a cubist style, featuring fragmented geometric shapes and overlapping planes. The composition includes stylized human figures arranged along diagonal lines, with some faces depicted as angular masks or split portraits. Use a muted color palette of ochre, deep blue, black, white, and rust red. Incorporate symbolic elements such as a crescent moon, small flying saucers, and a cylindrical form resembling a vessel or speaker. The overall mood is introspective and modernist, evoking early 20th-century avant-garde art.
+```
+
+**来源：** [@コン🦊 | AIプロンプト×ゆるFIRE](https://x.com/konfire1192/status/2108384208196645028) | 2026-10-09
+
+---
+
