@@ -17233,3 +17233,21 @@ A vertical abstract painting in a cubist style, featuring fragmented geometric s
 
 ---
 
+### 🖥️ 例 8203：人物热成像照片
+
+![人物热成像照片](../images/%E4%BA%BA%E7%89%A9%E7%83%AD%E6%88%90%E5%83%8F%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的人物热成像照片，展示了一个站在室内环境中的人，由 FLIR 相机拍摄。主体穿着长袖衬衫和裤子，采用经典的彩虹配色方案渲染：高温区域（面部、手部、脚部）呈现白色/黄色/红色，低温区域（衣物、背景）呈现蓝色/紫色。左上角有数字叠加文字显示“2026-10-10 14:23:51”和“CAM 01 THERMAL”。右上角可见白色的“FLIR”标志。最右侧边缘有一条垂直温度刻度条，范围从底部的 20.0°C 到顶部的 40.0°C。背景显示一个光线昏暗的房间，左侧有一株植物，右侧有一个门框。
+
+[English]
+A realistic thermal imaging photograph of a person standing in an indoor environment, captured with a FLIR camera. The subject is wearing a long-sleeved shirt and pants, rendered in the classic rainbow color palette where hot areas (face, hands, feet) appear white/yellow/red and cooler areas (clothing, background) appear blue/purple. In the top left corner, there is digital overlay text reading '2026-10-10 14:23:51' and 'CAM 01 THERMAL'. In the top right corner, the white 'FLIR' logo is visible. On the far right edge, a vertical temperature scale bar ranges from 20.0°C at the bottom to 40.0°C at the top. The background shows a dimly lit room with a plant on the left and a door frame on the right.
+```
+
+**来源：** [@Super PINTO](https://x.com/PINTO03091/status/2108954573524373936) | 2026-10-10
+
+---
+

@@ -22219,3 +22219,21 @@ A minimalist, abstract digital painting featuring a small silhouette of {argumen
 
 ---
 
+### 🏷️ 例 8206：Budweiser 街头潮流时尚概念项目
+
+![Budweiser 街头潮流时尚概念项目](../images/Budweiser%20%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%97%B6%E5%B0%9A%E6%A6%82%E5%BF%B5%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的 Budweiser 啤酒罐参考图片，将其转化为名为“Budweiser Women's Collection”的高端时尚概念项目。设计应采用干净的白色背景，并呈现街头潮流美学风格。画面中包含两位模特：左侧模特身穿红色短款连帽卫衣和白色运动裤，右侧模特则穿着牛仔马甲搭配红色运动长裤。在她们周围精心陈列一系列品牌单品，包括红色细带上衣、白色短款 T 恤、牛仔短裤、缎面飞行员夹克、腰带、过膝袜、棒球帽、托特包、太阳镜以及运动鞋。确保所有服装和配饰均醒目展示从参考图中提取的 Budweiser 标志及“King of Beers”文字。
+
+[English]
+Using the provided reference image of a Budweiser beer can, transform it into a high-end fashion concept board titled "Budweiser Women's Collection." The design should feature a clean white background with a streetwear aesthetic. Include two models: one on the left wearing a red cropped hoodie and white sweatpants, and another on the right in a denim vest and red track pants. Surround them with a curated selection of branded items including a red spaghetti-strap top, a white crop tee, denim shorts, a satin bomber jacket, a belt, knee-high socks, a cap, a tote bag, sunglasses, and sneakers. Ensure all clothing and accessories prominently display the Budweiser logo and 'King of Beers' text extracted from the reference.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2108814902861471808) | 2026-10-10
+
+---
+

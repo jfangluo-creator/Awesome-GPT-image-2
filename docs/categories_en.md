@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (612)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (613)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1217,11 +1217,13 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8188: Harbor Street Coffee 秋季菜单](cat-ui.md#️-例-8188harbor-street-coffee-秋季菜单)
 
 - [Case 8198: 立体主义抽象绘画](cat-ui.md#️-例-8198立体主义抽象绘画)
+
+- [Case 8203: 人物热成像照片](cat-ui.md#️-例-8203人物热成像照片)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (123)
+## 📊 [Charts & Infographics](cat-chart.md) (124)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -1455,11 +1457,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 8004: 地狱犬角色设定信息图](cat-chart.md#-例-8004地狱犬角色设定信息图)
 
 - [Case 8055: 漫画信息图：AI 提示词工程](cat-chart.md#-例-8055漫画信息图ai-提示词工程)
+
+- [Case 8201: 尼莫点信息图](cat-chart.md#-例-8201尼莫点信息图)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1083)
+## 🎴 [Posters & Cards](cat-poster.md) (1086)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3589,11 +3593,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8187: 广州早茶海报](cat-poster.md#-例-8187广州早茶海报)
 
 - [Case 8200: 广州晨食景观海报](cat-poster.md#-例-8200广州晨食景观海报)
+
+- [Case 8204: 日本报纸头版：巨型救援机器人](cat-poster.md#-例-8204日本报纸头版巨型救援机器人)
+
+- [Case 8205: 艺术动感模糊婚礼邀请函海报](cat-poster.md#-例-8205艺术动感模糊婚礼邀请函海报)
+
+- [Case 8209: 线条艺术字体海报](cat-poster.md#-例-8209线条艺术字体海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3052)
+## 📷 [Photography & Realistic](cat-photo.md) (3053)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9631,6 +9641,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8193: 复古百货商店人像](cat-photo.md#-例-8193复古百货商店人像)
 
 - [Case 8196: 怀旧编辑风格剪贴簿模板](cat-photo.md#-例-8196怀旧编辑风格剪贴簿模板)
+
+- [Case 8207: 诺基亚照片风格与手写日记涂鸦](cat-photo.md#-例-8207诺基亚照片风格与手写日记涂鸦)
 ---
 
 <a id="illustration"></a>
@@ -12977,7 +12989,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (254)
+## 🏛️ [Architecture & Space](cat-architecture.md) (256)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13477,6 +13489,10 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8159: 温馨紫色万圣节客厅](cat-architecture.md#️-例-8159温馨紫色万圣节客厅)
 
 - [Case 8180: 乡村厨房中的两位女性](cat-architecture.md#️-例-8180乡村厨房中的两位女性)
+
+- [Case 8202: 疯狂的乌鸦戳破黄色气球](cat-architecture.md#️-例-8202疯狂的乌鸦戳破黄色气球)
+
+- [Case 8208: Q 版女孩做松饼](cat-architecture.md#️-例-8208q-版女孩做松饼)
 ---
 
 <a id="comic"></a>
@@ -14043,7 +14059,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (899)
+## 🏷️ [Brand & Packaging](cat-brand.md) (900)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15836,6 +15852,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8189: 战锤 40K 战斗场景](cat-brand.md#️-例-8189战锤-40k-战斗场景)
 
 - [Case 8195: 抽象极简主义悟空风景](cat-brand.md#️-例-8195抽象极简主义悟空风景)
+
+- [Case 8206: Budweiser 街头潮流时尚概念项目](cat-brand.md#️-例-8206budweiser-街头潮流时尚概念项目)
 ---
 
 <a id="edit"></a>

@@ -35859,3 +35859,109 @@ A creative vertical poster titled "GOOD MORNING GUANGZHOU" (广州早安) in the
 
 ---
 
+### 🎴 例 8204：日本报纸头版：巨型救援机器人
+
+![日本报纸头版：巨型救援机器人](../images/%E6%97%A5%E6%9C%AC%E6%8A%A5%E7%BA%B8%E5%A4%B4%E7%89%88%EF%BC%9A%E5%B7%A8%E5%9E%8B%E6%95%91%E6%8F%B4%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个以巨型救援机器人演示为主题的逼真日本报纸头版。
+画布：垂直肖像布局，高分辨率印刷风格，白色背景配黑色文字和彩色照片。
+布局：顶部为标准报头，下方为大标题，左侧主图占据 60% 宽度，右侧边栏包含较小文字和图片。
+文本内容：
+- 报头（顶部居中）：大号粗体汉字“都心クロニクル”（东京纪事）。下方小号英文：“都市の今を見つめ、未来をともに”。右上角框：日期“2026年10月10日”，星期“土曜日”，期号“第15984号”，Logo“都心クロニクル新聞社 TOKYO CHRONICLE”。左上角框：类别“架空ニュース”（虚构新闻），口号“人とテクノロジーで つくる より安全でやさしい社会”。
+- 主标题（报头下方）：巨大粗体蓝/黑文字“巨大救助ロボ、都心の公開訓練で注目”。下方小号黑色副标题：“東京都の防災訓練で救助手順を実演 次世代の災害対応へ期待”。
+- 侧边栏文本（右列）：多段描述该事件的日文新闻稿。可见关键短语：“東京都と警視庁は10日...”、“会場には家族連れなど多くの市民が訪れ...”、“ロボットを活用により...”。侧边栏粗体小标题：“家族連れなど1万人が見学”、“専門家「実用化へ大きな一歩」”、“次世代の防災技術に期待”。
+- 图片说明：主图底部说明：“東京都心で行われた防災訓練で、巨大救助ロボットが要救助者を搬送する手順を実演。多くの見学者が見守った（10日、東京都千代田区）”。页脚行：“テクノロジーで、もっと強く、やさしい社会を”。
+主体细节：
+- 主图像：一个巨大的双足人形机器人站在城市广场上。机器人呈黑白配色，带有厚重的工业装甲板，胸部、肩部和腿部标有“警視庁 MPD”。肩膀和头部有红色警示灯。它双手水平托着一张担架，上面躺着一个人。
+- 背景：现代东京天际线，远处可见东京晴空塔。蓝天白云。
+- 前景/中景：身穿深色制服、头戴白色头盔的警察正在指挥人群。一块标牌写着“見学エリア こちらからご覧下さい”（参观区域 - 请在此观看），配有简笔画图标。一群观众（背影）正在观看。左侧有一个大型 LED 屏幕，显示机器人面部的特写。右侧有一块安全指示牌，标题为“災害時の行動について”，图示包括“近づかない”（请勿靠近）和“正しく近づく”（正确接近）。
+视觉风格：照片级真实感，新闻摄影，明亮日光，焦点清晰，真实的报纸排版和网格结构。
+
+[English]
+Goal: Create a realistic Japanese newspaper front page featuring a giant rescue robot demonstration.
+Canvas: Vertical portrait layout, high-resolution print style, white background with black text and color photos.
+Layout: Standard newspaper masthead at the top, large headline below it, main photo on the left taking up 60% of the width, sidebar column on the right with smaller text and images.
+Text content: 
+- Masthead (Top Center): Large bold Kanji "都心クロニクル" (Tokyo Chronicle). Small English text below: "都市の今を見つめ、未来をともに". Top right box: Date "2026年10月10日", Day "土曜日", Edition "第15984号", Logo "都心クロニクル新聞社 TOKYO CHRONICLE". Top left box: Category "架空ニュース" (Fictional News), slogan "人とテクノロジーで つくる より安全でやさしい社会".
+- Main Headline (Below Masthead): Huge bold blue/black text "巨大救助ロボ、都心の公開訓練で注目". Sub-headline below in smaller black text: "東京都の防災訓練で救助手順を実演 次世代の災害対応へ期待".
+- Sidebar Text (Right Column): Multiple paragraphs of Japanese news copy describing the event. Key phrases visible: "東京都と警視庁は10日...", "会場には家族連れなど多くの市民が訪れ...", "ロボットを活用により...". Bold subheads in sidebar: "家族連れなど1万人が見学", "専門家「実用化へ大きな一歩」", "次世代の防災技術に期待".
+- Photo Captions: Bottom caption under main image: "東京都心で行われた防災訓練で、巨大救助ロボットが要救助者を搬送する手順を実演。多くの見学者が見守った（10日、東京都千代田区）". Footer line: "テクノロジーで、もっと強く、やさしい社会を".
+Subject details:
+- Main Image: A massive bipedal humanoid robot standing in an urban plaza. The robot is white and black with heavy industrial plating, labeled "警視庁 MPD" on its chest, shoulders, and legs. It has red warning lights on its shoulders and head. It is holding a stretcher with a person on it horizontally in its hands. 
+- Background: Modern Tokyo skyline including the Tokyo Skytree tower in the distance. Blue sky with light clouds.
+- Foreground/Midground: Police officers in dark uniforms and white helmets directing a crowd. A sign reading "見学エリア こちらからご覧下さい" (Viewing Area - Please view from here) with stick figure icons. A crowd of spectators (back of heads) watching. A large LED screen on the left showing a close-up of the robot's face. A safety instruction board on the right titled "災害時の行動について" with diagrams showing "近づかない" (Do not approach) and "正しく近づく" (Approach correctly).
+Visual style: Photorealistic, journalistic photography, bright daylight, sharp focus, authentic newspaper typography and grid structure.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2108919384152404337) | 2026-10-10
+
+---
+
+### 🎴 例 8205：艺术动感模糊婚礼邀请函海报
+
+![艺术动感模糊婚礼邀请函海报](../images/%E8%89%BA%E6%9C%AF%E5%8A%A8%E6%84%9F%E6%A8%A1%E7%B3%8A%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张垂直构图的婚礼邀请函海报，具有艺术感和高级时尚美学。背景是一张黑白动感模糊照片，展示一对情侣擦肩而过；新娘的白色婚纱在左侧和中央形成飘逸、空灵的模糊效果，而右侧可见新郎深色西装的腿部。在中心叠加优雅的排版：'2025' 位于 '05 / 20' 和 'SAT' 上方。其下方是大号衬线字体文本 'WE · DO'，接着是中文姓名 '林深 & 苏晚' 以及较小字体的文本 '诚邀您见证 我们的开始'。在底部，包含小号英文文本 'WELCOME TO OUR WEDDING' 和中文文本 '婚礼邀请函'。
+
+[English]
+Create a vertical wedding invitation poster with an artistic, high-fashion aesthetic. The background features a motion-blurred black-and-white photograph of a couple walking past each other; the bride's white dress creates a sweeping, ethereal blur across the left and center, while the groom's dark suit leg is visible on the right. Overlay elegant typography in the center: '2025' above '05 / 20' and 'SAT'. Below that, large serif text reads 'WE · DO', followed by Chinese names '林深 & 苏晚' and smaller text '诚邀您见证 我们的开始'. At the bottom, include small English text 'WELCOME TO OUR WEDDING' and Chinese text '婚礼邀请函'.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2108845737899696252) | 2026-10-10
+
+---
+
+### 🎴 例 8209：线条艺术字体海报
+
+![线条艺术字体海报](../images/%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E5%AD%97%E4%BD%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一款垂直海报设计，采用现代线条艺术风格，呈现大型、风格化的中文问候语“早安诸位”。
+
+画布：垂直比例，干净的米白色背景。配色方案以冷蓝色 (#4A90E2) 为主，辅以暖黄色/橙色 (#F5A623) 作为点缀。
+
+布局：
+- 顶部页眉：左侧为蓝色无衬线字体的 “GOOD MORNING — 早安诸位”。右侧显示日期 “2026-10-10” 以及农历信息 “星期六 农历八月三十”。
+- 中心视觉：四个巨大的中文字符排列成 2x2 网格。这些字符完全由平行的水平和垂直线条（条纹）构成，营造出线框或条形码效果。
+    - 左上角字符 (早)：包含一个实心黄色圆圈，代表从条纹后升起的太阳。
+    - 右上角字符 (安)：具有弯曲的条纹笔画，末端从蓝色过渡到橙色。
+    - 左下角字符 (诸)：其左侧偏旁包含一小簇放射状线条形成的扇形爆发效果。
+    - 右下角字符 (位)：其中一个垂直笔画块使用橙色条纹而非蓝色。
+- 侧边距：主图形两侧有小型垂直文本块。左边缘写着 “向着明亮的方向，一起出发。” 和 “平凡的日子也可以闪闪发光。” 右边缘列出关键词如 “清醒”, “温柔”, “专注”, “前行”。
+- 页脚：一条水平分隔线将底部区域分开，其中包含 “Morning Bulletin Visual Greeting System”，版本详情和版权文本。
+
+视觉风格：极简主义，排版设计，几何感，扁平化设计，细蓝线与留白之间形成高对比度。
+
+[English]
+Goal: Create a vertical poster design featuring large, stylized Chinese typography for the greeting "早安诸位" (Good Morning Everyone) in a modern line-art style.
+
+Canvas: Vertical aspect ratio with a clean off-white background. The color palette is primarily cool blue (#4A90E2) with accents of warm yellow/orange (#F5A623).
+
+Layout:
+- Top Header: Left side has "GOOD MORNING — 早安诸位" in blue sans-serif. Right side displays the date "2026-10-10" and lunar calendar info "星期六 农历八月三十".
+- Central Visual: Four massive Chinese characters arranged in a 2x2 grid. These characters are constructed entirely from parallel horizontal and vertical lines (stripes), creating a wireframe or barcode effect. 
+    - Top-left character (早): Contains a solid yellow circle representing the sun rising behind the stripes.
+    - Top-right character (安): Features curved striped strokes that transition from blue to orange at the ends.
+    - Bottom-left character (诸): Includes a small fan-like burst of radiating lines on its left radical.
+    - Bottom-right character (位): Has one vertical stroke block colored in orange stripes instead of blue.
+- Side Margins: Small vertical text blocks flank the main graphic. Left margin reads "向着明亮的方向，一起出发。" and "平凡的日子也可以闪闪发光。" Right margin lists keywords like "清醒", "温柔", "专注", "前行".
+- Footer: A horizontal divider separates the bottom section containing "Morning Bulletin Visual Greeting System", edition details, and copyright text.
+
+Visual Style: Minimalist, typographic, geometric, flat design, high contrast between the thin blue lines and the white space.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2108727066707583143) | 2026-10-10
+
+---
+

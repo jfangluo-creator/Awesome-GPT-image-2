@@ -5987,3 +5987,47 @@ A realistic, high-resolution photograph capturing a candid moment between two yo
 
 ---
 
+### 🏛️ 例 8202：疯狂的乌鸦戳破黄色气球
+
+![疯狂的乌鸦戳破黄色气球](../images/%E7%96%AF%E7%8B%82%E7%9A%84%E4%B9%8C%E9%B8%A6%E6%88%B3%E7%A0%B4%E9%BB%84%E8%89%B2%E6%B0%94%E7%90%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这幅充满奇思妙想的手绘插图采用故事书风格，描绘了电话线上的一幕混乱场景。左侧，一只体型硕大、神情慌张的黑乌鸦栖息在线上，双眼圆睁凸出，喙部张开，翅膀因激动而展开。在乌鸦右侧，一个明亮的黄色气球卡在电线上并刚刚爆裂，锯齿状的黄色碎片向四面八方飞散，背景是蓬松的白云和蓝天。电线下方，可以看到几座欧式建筑的屋顶顶部，配有红色瓦片和烟囱。该艺术作品运用了富有质感的线条和水彩般的阴影处理。
+
+[English]
+A whimsical, hand-drawn illustration in a storybook style depicts a chaotic scene on a telephone wire. On the left, a large, frantic black crow with wide, bulging eyes and an open beak is perched on the wire, its wings spread in agitation. To the right of the crow, a bright yellow balloon is caught on the wire and has just burst, with jagged yellow shards flying outward in all directions against a backdrop of fluffy white clouds and blue sky. Below the wire, the tops of several European-style rooftops are visible, featuring red tiles and chimneys. The artwork uses textured lines and watercolor-like shading.
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2108996278936097273) | 2026-10-10
+
+---
+
+### 🏛️ 例 8208：Q 版女孩做松饼
+
+![Q 版女孩做松饼](../images/Q%20%E7%89%88%E5%A5%B3%E5%AD%A9%E5%81%9A%E6%9D%BE%E9%A5%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图片，将场景转换为一个温馨的厨房环境，三位 Q 版女孩正在制作松饼。保持角色设计（黄色小鸡服装和蓝色鲨鱼连帽衫）与参考风格一致，并添加第三位穿着白色绵羊服装的角色。将背景从糖果店改为温暖、柔和色调的厨房，配有摆放餐具的架子和悬挂的厨具。
+
+动作细节：穿黄色小鸡服的女孩正在粉色碗中搅拌面糊。穿蓝色鲨鱼服的女孩正用勺子将面糊倒入粉色电烤盘上。新加入的穿白色绵羊服的女孩正拿着一碗面粉/混合料。所有三个角色的鼻子上都必须有一点松饼面糊的痕迹。
+
+道具与文字：包含一袋标有“Fluffy Pancake Mix”（蓬松松饼粉）、一罐标有“HONEY”（蜂蜜）、一瓶标有“MILK”（牛奶）和一罐标有“SUGAR”（糖）。在前景中添加一叠顶部装饰有草莓和奶油的成品松饼。在右上角，包含一块黑板标牌，上面写着“Purin-chan & Same-chan & Koharu-chan Pancake Party”（布丁酱、鲨鱼酱和小春酱的松饼派对）。
+
+[English]
+Using the provided reference image, transform the scene into a cozy kitchen setting where three chibi girls are making pancakes. Keep the character designs (the yellow chick costume and blue shark hoodie) consistent with the reference style but add a third character in a white sheep costume. Change the background from a candy shop to a warm, pastel-colored kitchen with shelves of dishes and hanging utensils. 
+
+Action details: The girl in the yellow chick suit is whisking batter in a pink bowl. The girl in the blue shark suit is pouring batter onto a pink electric griddle using a ladle. The new girl in the white sheep suit is holding a bowl of flour/mix. All three characters must have a small smudge of pancake mix on their noses.
+
+Props & Text: Include a bag labeled "Fluffy Pancake Mix", a jar labeled "HONEY", a bottle labeled "MILK", and a jar labeled "SUGAR". Add a stack of finished pancakes topped with strawberries and cream in the foreground. In the top right corner, include a chalkboard sign that reads "Purin-chan & Same-chan & Koharu-chan Pancake Party".
+```
+
+**来源：** [@Period](https://x.com/takuma0083/status/2108747116906692959) | 2026-10-10
+
+---
+
