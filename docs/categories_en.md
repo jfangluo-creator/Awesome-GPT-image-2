@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (613)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (614)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1219,6 +1219,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8198: 立体主义抽象绘画](cat-ui.md#️-例-8198立体主义抽象绘画)
 
 - [Case 8203: 人物热成像照片](cat-ui.md#️-例-8203人物热成像照片)
+
+- [Case 8211: 战锤 40K：卡迪亚陷落场景](cat-ui.md#️-例-8211战锤-40k卡迪亚陷落场景)
 ---
 
 <a id="chart"></a>
@@ -3603,7 +3605,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3053)
+## 📷 [Photography & Realistic](cat-photo.md) (3054)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9643,6 +9645,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8196: 怀旧编辑风格剪贴簿模板](cat-photo.md#-例-8196怀旧编辑风格剪贴簿模板)
 
 - [Case 8207: 诺基亚照片风格与手写日记涂鸦](cat-photo.md#-例-8207诺基亚照片风格与手写日记涂鸦)
+
+- [Case 8212: 动漫角色设计表提示词](cat-photo.md#-例-8212动漫角色设计表提示词)
 ---
 
 <a id="illustration"></a>
@@ -14059,7 +14063,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (900)
+## 🏷️ [Brand & Packaging](cat-brand.md) (901)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15854,11 +15858,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8195: 抽象极简主义悟空风景](cat-brand.md#️-例-8195抽象极简主义悟空风景)
 
 - [Case 8206: Budweiser 街头潮流时尚概念项目](cat-brand.md#️-例-8206budweiser-街头潮流时尚概念项目)
+
+- [Case 8213: Craftworld Iyanden 泰伦虫族战役](cat-brand.md#️-例-8213craftworld-iyanden-泰伦虫族战役)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (187)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (188)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16231,6 +16237,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8176: 几何卡通双人互动插画](cat-edit.md#-例-8176几何卡通双人互动插画)
 
 - [Case 8184: 混合卡通照片活动横幅](cat-edit.md#-例-8184混合卡通照片活动横幅)
+
+- [Case 8210: 万圣节糕点修复少女提示词](cat-edit.md#-例-8210万圣节糕点修复少女提示词)
 ---
 
 <a id="fun"></a>

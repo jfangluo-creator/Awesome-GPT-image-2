@@ -22237,3 +22237,21 @@ Using the provided reference image of a Budweiser beer can, transform it into a 
 
 ---
 
+### 🏷️ 例 8213：Craftworld Iyanden 泰伦虫族战役
+
+![Craftworld Iyanden 泰伦虫族战役](../images/Craftworld%20Iyanden%20%E6%B3%B0%E4%BC%A6%E8%99%AB%E6%97%8F%E6%88%98%E5%BD%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破碎的灵骨大厅中，生者与逝者共同奋战，誓死守护这濒临毁灭的方舟世界。
+
+[English]
+Craftworld Iyanden burns under the Tyranid swarm. Ghost Warriors stand in the cracked wraithbone halls as the living and the dying fight to hold the dying Craftworld.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2109435377790636206) | 2026-10-12
+
+---
+

@@ -17251,3 +17251,21 @@ A realistic thermal imaging photograph of a person standing in an indoor environ
 
 ---
 
+### 🖥️ 例 8211：战锤 40K：卡迪亚陷落场景
+
+![战锤 40K：卡迪亚陷落场景](../images/%E6%88%98%E9%94%A4%2040K%EF%BC%9A%E5%8D%A1%E8%BF%AA%E4%BA%9A%E9%99%B7%E8%90%BD%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+第 13 次黑色十字军期间的卡迪亚陷落。黑石方尖碑崩裂，恐惧之眼撕裂天空。卡迪亚突击部队与混沌星际战士在废墟中激烈交锋，而脚下的星球正逐渐破碎。
+
+[English]
+The Fall of Cadia during the 13th Black Crusade. The blackstone pylons crack as the Eye of Terror tears the sky open. Cadian Shock Troops and Chaos Space Marines clash in the ruins while the planet breaks beneath them.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2109456593582739796) | 2026-10-12
+
+---
+

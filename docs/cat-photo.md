@@ -74126,3 +74126,43 @@ Important: preserve realistic photography in the top section; do not turn the ph
 
 ---
 
+### 📷 例 8212：动漫角色设计表提示词
+
+![动漫角色设计表提示词](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E8%A1%A8%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为《电锯人》中的 {argument name="character name" default="Makima"} 创建详细的动漫角色设计表和服装分解。
+画布：垂直肖像布局，背景为略带纹理的米白色纸张。风格简洁、专业，类似概念艺术参考页。
+布局：角色全身插图位于中心。周围环绕着带有线条草图和中英文描述文本的标注部分。细红线将她的服装特定部位连接到相应的细节框。
+主体细节：Makima 自信地站立，身穿黑色长尾外套，内搭挺括的白色纽扣衬衫，系着细黑领带，穿着高腰黑色长裤和擦亮的黑色皮鞋。她留着齐肩的红棕色头发，有直刘海和两缕垂在脸侧的发辫。她的眼睛是金黄色的，具有明显的同心圆环。
+部分：
+- 左上角：标题 "真纪真 MAKIMA" 和副标题 "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN"。下方有一句引言："人类……终极的滋味是绝望。"
+- 左列（从上到下）：五个矩形面板，详细说明服装单品：衬衫（白色长袖）、领带（黑色窄款）、西装外套（黑色长尾）、西装裤（高腰）、皮鞋（黑色）。每个面板包含该单品的草图和双语描述。
+- 右列（从上到下）：六个面板，详细说明特征：档案（隶属：公安对魔特异课，身份：支配恶魔，能力：支配）；发型（红发，脑后编成单股辫）；瞳色（深邃的金黄色眼睛）；武器/锁链（由支配之力具现化的锁链）；历史参考（灵感源自中世纪锁链和手铐）；配饰（极简主义风格）。
+- 左下角：一个名为 "Historical Reference" 的部分，展示三张穿职业装女性的照片小图，参考昭和时代的美学风格。
+- 底部中央：Logo "チェンソーマン CHAINSAW MAN"。
+- 右下角：最后两个面板：道具（带印章的合同文件）和配色方案（红色、米色、白色、黑色、金色的色块）。下方是一个关键词部分，列出：Control, Rationality, Calm, Mystery, Danger。
+视觉风格：高质量数字插画与技术图表美学相结合。英文文本使用衬线字体，中文标签使用标准无衬线字体。
+
+[English]
+Goal: Create a detailed anime character design sheet and costume breakdown for {argument name="character name" default="Makima"} from Chainsaw Man.
+Canvas: Vertical portrait layout with an off-white, slightly textured paper background. The style is clean, professional, and resembles a concept art reference page.
+Layout: A full-body illustration of the character stands in the center. Surrounding her are labeled sections with line-art sketches and descriptive text in both Chinese and English. Thin red lines connect specific parts of her outfit to their corresponding detail boxes.
+Subject details: Makima stands confidently wearing a black long-tail coat over a crisp white button-down shirt, a thin black tie, high-waisted black trousers, and polished black leather shoes. She has shoulder-length reddish-brown hair with straight bangs and two braids framing her face. Her eyes are golden-yellow with distinct concentric rings.
+Sections:
+- Top Left: Title "真纪真 MAKIMA" and subtitle "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN". Below is a quote: "Human beings... The ultimate taste is despair."
+- Left Column (Top to Bottom): Five rectangular panels detailing clothing items: Shirt (white long-sleeve), Necktie (black narrow), Suit Jacket (black long-tail), Suit Pants (high-waisted), Leather Shoes (black). Each panel contains a sketch of the item and bilingual description.
+- Right Column (Top to Bottom): Six panels detailing features: Profile (Affiliation: Public Safety Devil Extermination Bureau, Identity: Control Devil, Ability: Control); Hairstyle (Red hair, braided into a single plait at back); Eye Color (Golden eyes with depth); Weapon/Chain (A chain materialized from control power); Historical Reference (Inspired by medieval chains and handcuffs); Accessory (Minimalist style).
+- Bottom Left: A section titled "Historical Reference" featuring three small photos of women in business suits, referencing the Shōwa era aesthetic.
+- Bottom Center: The logo "チェンソーマン CHAINSAW MAN".
+- Bottom Right: Two final panels: Prop (Contract document with seal) and Color Palette (swatches of red, beige, white, black, gold). Below is a Keywords section listing: Control, Rationality, Calm, Mystery, Danger.
+Visual style: High-quality digital illustration mixed with technical diagram aesthetics. Use serif fonts for English text and standard sans-serif for Chinese labels.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2109449072436498806) | 2026-10-12
+
+---
+
