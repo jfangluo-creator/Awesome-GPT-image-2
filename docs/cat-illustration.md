@@ -22009,3 +22009,21 @@ Inspired by this product, design a set of cool-style women's clothing
 
 ---
 
+### 🎨 例 8215：战锤 40K：加兹古尔突袭阿米吉多顿
+
+![战锤 40K：加兹古尔突袭阿米吉多顿](../images/%E6%88%98%E9%94%A4%2040K%EF%BC%9A%E5%8A%A0%E5%85%B9%E5%8F%A4%E5%B0%94%E7%AA%81%E8%A2%AD%E9%98%BF%E7%B1%B3%E5%90%89%E5%A4%9A%E9%A1%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+加兹古尔对阿米吉多顿的突袭。加兹古尔的欧克兽人猛攻阿米吉多顿蜂巢城市的城墙。血天使身着红色动力装甲坚守阵地，掠夺而来的欧克战争机器冲破硝烟与曳光弹雨向前推进。
+
+[English]
+Ghazghkull’s assault on Armageddon. Ghazghkull’s Orks storm the walls of an Armageddon hive city. Blood Angels hold the line in red power armour as looted Ork war machines push through the smoke and tracer fire.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2109465029066281097) | 2026-10-12
+
+---
+

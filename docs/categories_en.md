@@ -3605,7 +3605,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3054)
+## 📷 [Photography & Realistic](cat-photo.md) (3056)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9647,11 +9647,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8207: 诺基亚照片风格与手写日记涂鸦](cat-photo.md#-例-8207诺基亚照片风格与手写日记涂鸦)
 
 - [Case 8212: 动漫角色设计表提示词](cat-photo.md#-例-8212动漫角色设计表提示词)
+
+- [Case 8214: MPD 重型救援机器人登山](cat-photo.md#-例-8214mpd-重型救援机器人登山)
+
+- [Case 8216: 动漫角色设计表提示词](cat-photo.md#-例-8216动漫角色设计表提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1052)
+## 🎨 [Illustration & Art](cat-illustration.md) (1053)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11741,6 +11745,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8197: 柔和学院风穿搭设计提示词](cat-illustration.md#-例-8197柔和学院风穿搭设计提示词)
 
 - [Case 8199: 青岛啤酒灵感服装设计](cat-illustration.md#-例-8199青岛啤酒灵感服装设计)
+
+- [Case 8215: 战锤 40K：加兹古尔突袭阿米吉多顿](cat-illustration.md#-例-8215战锤-40k加兹古尔突袭阿米吉多顿)
 ---
 
 <a id="character"></a>
