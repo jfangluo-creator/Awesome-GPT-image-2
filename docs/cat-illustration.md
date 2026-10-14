@@ -22027,3 +22027,115 @@ Ghazghkull’s assault on Armageddon. Ghazghkull’s Orks storm the walls of an 
 
 ---
 
+### 🎨 例 8217：荷鲁斯之乱最终决斗
+
+![荷鲁斯之乱最终决斗](../images/%E8%8D%B7%E9%B2%81%E6%96%AF%E4%B9%8B%E4%B9%B1%E6%9C%80%E7%BB%88%E5%86%B3%E6%96%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+荷鲁斯之乱的最终决斗。在燃烧中的泰拉轨道上，人类帝皇于复仇之魂号内直面他曾经最宠爱的儿子——已被混沌彻底吞噬的战争领主荷鲁斯。
+
+[English]
+The final duel of the Horus Heresy. Aboard the Vengeful Spirit in orbit above a burning Terra, the Emperor of Mankind faces his favored son, Warmaster Horus, now fully consumed by Chaos.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2110158371802226743) | 2026-10-13
+
+---
+
+### 🎨 例 8218：舞者姿态与条形灯提示词
+
+![舞者姿态与条形灯提示词](../images/%E8%88%9E%E8%80%85%E5%A7%BF%E6%80%81%E4%B8%8E%E6%9D%A1%E5%BD%A2%E7%81%AF%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+捕捉乐句最后一个节拍的定格瞬间，一只手臂弯曲置于头顶，右侧单根冷色条形灯照明。
+
+[English]
+A dancer held at the last count of a phrase, one arm curved over his head, a single cold strip light from the right.
+```
+
+**来源：** [@AI Art Alley](https://x.com/aiartalley/status/2110098251407901168) | 2026-10-13
+
+---
+
+### 🎨 例 8220：宇宙日落下的山峰剪影
+
+![宇宙日落下的山峰剪影](../images/%E5%AE%87%E5%AE%99%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%B1%B1%E5%B3%B0%E5%89%AA%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅宏伟而超现实的风景画，前景中一个孤独的人影站在崎岖的岩石峰顶。人物高举一只手臂，胜利地伸向天空。在他们上方，地平线如行星边缘般剧烈弯曲，将下方的云海与上方壮丽的天空分隔开来。天空分为两个截然不同的区域：上部是深蓝色的星空，点缀着旋转的星云和星座；下部则闪烁着强烈的金橙色日落光芒，形成炽热的对比。在弯曲的地平线下方，层层蓬松的白色和灰色云朵漂浮在远处的山脉之间，被夕阳的温暖光辉照亮。整体氛围令人敬畏、具有电影感且充满奇幻色彩，融合了太空探索的元素与大地的自然之美。
+
+[English]
+A majestic, surreal landscape featuring a lone silhouette of a person standing on a jagged rocky peak in the foreground. The figure has one arm raised triumphantly toward the sky. Above them, the horizon curves dramatically like the edge of a planet, separating a sea of clouds below from an epic sky above. The sky is split into two distinct zones: the upper portion is a deep blue starry night with swirling nebulae and constellations, while the lower band glows with intense golden-orange sunset light, creating a fiery contrast. Below the curved horizon, layers of fluffy white and grey clouds drift among distant mountain ranges, illuminated by the warm glow of the setting sun. The overall atmosphere is awe-inspiring, cinematic, and fantastical, blending elements of space exploration with terrestrial beauty.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2109978002293682440) | 2026-10-13
+
+---
+
+### 🎨 例 8223：秋季街头风格穿搭提示词
+
+![秋季街头风格穿搭提示词](../images/%E7%A7%8B%E5%AD%A3%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2109904469278253162) | 2026-10-13
+
+---
+
+### 🎨 例 8224：敦煌飞天弹琵琶
+
+![敦煌飞天弹琵琶](../images/%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E5%BC%B9%E7%90%B5%E7%90%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅电影级、高分辨率的数字绘画，描绘了夜晚中一位敦煌飞天（Feitian）正在弹奏琵琶。画面中央是一位优雅年轻的女性，皮肤白皙，五官精致，双眼微闭，神情宁静专注。她身着华丽的银白色天界长裙，裙上绣有繁复的花卉图案，轻盈飘逸的蓝色丝带在她身体周围动态旋转，营造出一种失重感。她的头发梳成复杂的传统发髻，头戴镶嵌珠宝的银色冠冕，垂挂着珍珠流苏，头部后方环绕着发光的光环效果。她垂直持握着一把木质琵琶，手指置于琴弦之上。背景展现了神秘古老的石窟寺庙，雕刻于右侧岩石峭壁之中，被温暖的金色烛光所照亮，与清冷的月光氛围形成对比。右下角前景处，一个宁静的莲花池散发着光芒，池中盛开着白色的莲花并漂浮着灯笼。一轮巨大明亮的满月悬挂在悬崖上方深蓝色的星空之中。光线柔和而空灵，运用了“Pro-Mist”效果，使月光产生奶油般的光晕，边缘光勾勒出她头发和丝带的轮廓。整体色调平衡了冰蓝色、银色与暖金色、棕色。
+
+[English]
+A breathtaking cinematic portrait of a young Asian woman styled as a Dunhuang Flying Apsara musician, playing a pipa. She has long, flowing black hair adorned with an elaborate silver floral headdress featuring dangling beaded tassels and a delicate forehead ornament. Her eyes are closed in a serene expression, showcasing flawless porcelain skin with soft makeup. She wears luxurious white and pale blue silk robes with intricate gold embroidery and sheer, translucent ribbons that float dynamically around her, creating a sense of weightlessness. The scene is set at night under a bright full moon. In the background to the right, ancient stone cave temples carved into cliffs glow warmly from within, filled with Buddha statues and hundreds of flickering candles. To the left, faded traditional Buddhist murals adorn the rock walls. In the foreground, a tranquil lotus pond features blooming white lotus flowers and floating lanterns. The lighting is ethereal and dreamlike, combining cool moonlight with warm candlelight, enhanced by a Pro-Mist diffusion effect that creates a soft bloom around highlights and a glowing halo on the subject's hair.
+```
+
+**来源：** [@AI art gallery](https://x.com/sandmrk/status/2109890519199559813) | 2026-10-13
+
+---
+
+### 🎨 例 8229：无线门铃摄像头说明书提示词
+
+![无线门铃摄像头说明书提示词](../images/%E6%97%A0%E7%BA%BF%E9%97%A8%E9%93%83%E6%91%84%E5%83%8F%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+包裹送达…
+一个无线门铃摄像头
+附带说明书
+如果字迹不是小到无法阅读
+这些说明本会让人困惑
+
+[English]
+packages arrive…
+a wireless doorbell camera
+with instructions
+which would be confusing
+if they weren’t too small to read
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2109859311212245101) | 2026-10-13
+
+---
+

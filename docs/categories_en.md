@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (614)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (615)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1221,6 +1221,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8203: 人物热成像照片](cat-ui.md#️-例-8203人物热成像照片)
 
 - [Case 8211: 战锤 40K：卡迪亚陷落场景](cat-ui.md#️-例-8211战锤-40k卡迪亚陷落场景)
+
+- [Case 8219: 优雅男士保龄球装备提示词](cat-ui.md#️-例-8219优雅男士保龄球装备提示词)
 ---
 
 <a id="chart"></a>
@@ -1465,7 +1467,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1086)
+## 🎴 [Posters & Cards](cat-poster.md) (1089)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3601,11 +3603,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8205: 艺术动感模糊婚礼邀请函海报](cat-poster.md#-例-8205艺术动感模糊婚礼邀请函海报)
 
 - [Case 8209: 线条艺术字体海报](cat-poster.md#-例-8209线条艺术字体海报)
+
+- [Case 8225: 几何编辑海报提示词](cat-poster.md#-例-8225几何编辑海报提示词)
+
+- [Case 8226: 东方极简主义海报风格提示词](cat-poster.md#-例-8226东方极简主义海报风格提示词)
+
+- [Case 8227: GPT Image 2 复古科幻月球旅行海报提示词](cat-poster.md#-例-8227gpt-image-2-复古科幻月球旅行海报提示词)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3056)
+## 📷 [Photography & Realistic](cat-photo.md) (3058)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9651,11 +9659,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8214: MPD 重型救援机器人登山](cat-photo.md#-例-8214mpd-重型救援机器人登山)
 
 - [Case 8216: 动漫角色设计表提示词](cat-photo.md#-例-8216动漫角色设计表提示词)
+
+- [Case 8222: 真实主体背后的动漫角色提示词](cat-photo.md#-例-8222真实主体背后的动漫角色提示词)
+
+- [Case 8228: 敦煌飞天琵琶演奏](cat-photo.md#-例-8228敦煌飞天琵琶演奏)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1053)
+## 🎨 [Illustration & Art](cat-illustration.md) (1059)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11747,6 +11759,18 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8199: 青岛啤酒灵感服装设计](cat-illustration.md#-例-8199青岛啤酒灵感服装设计)
 
 - [Case 8215: 战锤 40K：加兹古尔突袭阿米吉多顿](cat-illustration.md#-例-8215战锤-40k加兹古尔突袭阿米吉多顿)
+
+- [Case 8217: 荷鲁斯之乱最终决斗](cat-illustration.md#-例-8217荷鲁斯之乱最终决斗)
+
+- [Case 8218: 舞者姿态与条形灯提示词](cat-illustration.md#-例-8218舞者姿态与条形灯提示词)
+
+- [Case 8220: 宇宙日落下的山峰剪影](cat-illustration.md#-例-8220宇宙日落下的山峰剪影)
+
+- [Case 8223: 秋季街头风格穿搭提示词](cat-illustration.md#-例-8223秋季街头风格穿搭提示词)
+
+- [Case 8224: 敦煌飞天弹琵琶](cat-illustration.md#-例-8224敦煌飞天弹琵琶)
+
+- [Case 8229: 无线门铃摄像头说明书提示词](cat-illustration.md#-例-8229无线门铃摄像头说明书提示词)
 ---
 
 <a id="character"></a>
@@ -14069,7 +14093,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (901)
+## 🏷️ [Brand & Packaging](cat-brand.md) (902)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15866,6 +15890,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8206: Budweiser 街头潮流时尚概念项目](cat-brand.md#️-例-8206budweiser-街头潮流时尚概念项目)
 
 - [Case 8213: Craftworld Iyanden 泰伦虫族战役](cat-brand.md#️-例-8213craftworld-iyanden-泰伦虫族战役)
+
+- [Case 8221: 电视导播动漫少女](cat-brand.md#️-例-8221电视导播动漫少女)
 ---
 
 <a id="edit"></a>

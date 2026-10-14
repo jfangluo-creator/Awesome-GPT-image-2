@@ -17269,3 +17269,29 @@ The Fall of Cadia during the 13th Black Crusade. The blackstone pylons crack as 
 
 ---
 
+### 🖥️ 例 8219：优雅男士保龄球装备提示词
+
+![优雅男士保龄球装备提示词](../images/%E4%BC%98%E9%9B%85%E7%94%B7%E5%A3%AB%E4%BF%9D%E9%BE%84%E7%90%83%E8%A3%85%E5%A4%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位男士出现
+身着棕色风衣
+气质优雅迷人
+尽管他手持绿色保龄球
+脚穿多彩保龄球鞋
+
+[English]
+a man appears
+wearing a brown trench coat
+looking debonair
+despite his green bowling ball
+and multi-colored bowling shoes
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2110080496277540890) | 2026-10-13
+
+---
+

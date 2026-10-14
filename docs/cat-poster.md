@@ -35965,3 +35965,101 @@ Visual Style: Minimalist, typographic, geometric, flat design, high contrast bet
 
 ---
 
+### 🎴 例 8225：几何编辑海报提示词
+
+![几何编辑海报提示词](../images/%E5%87%A0%E4%BD%95%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个受上传参考图像启发的成品编辑角色海报。在将其转化为精致的扁平几何插画的同时，保留主体的可识别身份、发型、服装细节、姿势以及重要的视觉特征。
+
+格式锁定
+
+垂直 3:4 构图。边缘到边缘的温暖米白色纸张背景。一张独立的海报。简洁的编辑布局。
+
+角色
+
+一个由几个超大不对称几何形状构成的成年角色。比例略微夸张，头部较小，四肢呈拉长的胶囊状，手部为简单的连指手套样式，并有一个超大物体自然地融入姿势和轮廓中。在将细节简化为图形形状的同时，保留主体的可识别外观。
+
+风格
+
+扁平几何插画，不对称比例，清晰色块，柔和喷枪阴影，形状重叠处带有微妙的深色至彩色喷雾渐变，精细印刷颗粒感，主要在较暗区域内进行细腻的点画处理，精致的当代编辑海报美学。
+
+面部与表情
+
+极简的黑色剪纸式面部特征：简单的月牙形眼睛和极简嘴巴。情感应主要通过角色的全身手势和轮廓来传达，而非详细的面部表情。
+
+配色方案
+
+温暖米白色 #F3F1EB，近黑色 ⁠10100F，热粉色 #F553D2，暖红色 #F42726，钴蓝色 ⁠293EA1，祖母绿色 ⁠13785D。保持色彩平坦且具有图形感，仅在形状重叠处使用受控的柔和渐变。
+
+保持角色和超大物体作为主要视觉焦点。使用大量留白和平衡的编辑排列。物体应明显影响整体轮廓，并感觉融入角色的姿势中。
+
+负面提示词
+
+无额外文字，无标志，无轮廓卡通风格，无光泽 3D，无真实皮肤，无照片级写实主义，无粗糙画布纹理，无杂乱背景，无多余肢体，无解剖结构扭曲，无过度面部细节，无照片级写实阴影，无随机物体，无杂乱元素，无水印。
+
+[English]
+Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration.
+
+FORMAT LOCK
+
+Vertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout.
+
+CHARACTER
+
+One adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes.
+
+STYLE
+
+Flat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic.
+
+FACE & EXPRESSION
+
+Minimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression.
+
+PALETTE
+
+Warm off-white #F3F1EB, near-black ⁠10100F, hot pink #F553D2, warm red #F42726, cobalt ⁠293EA1, emerald ⁠13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap.
+
+Keep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose.
+
+NEGATIVE PROMPT
+
+No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2109884242289373497) | 2026-10-13
+
+---
+
+### 🎴 例 8226：东方极简主义海报风格提示词
+
+![东方极简主义海报风格提示词](../images/%E4%B8%9C%E6%96%B9%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+【角色 / 主体】，工笔细线插画 × 东方寓意叙事 × 日本画式细密生物描写。主体以极细墨线和透明淡彩塑形，皮肤、手部、毛发或织物采用高密度顺向细线描绘，细节精确但整体保持平面化。背景使用大面积单一朱砂红或其他高纯度东方综合色场，不建立真实空间透视。画面围绕一个高度明确的象征性动作展开，例如触碰额头、递物、指引、抚摸或施礼，让动作本身承担精神性或寓意。服饰局部加入青绿、金色、卷云、如意纹或古典边饰，形成工笔人物画与现代极简海报之间的视觉融合。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2109882653076004993) | 2026-10-13
+
+---
+
+### 🎴 例 8227：GPT Image 2 复古科幻月球旅行海报提示词
+
+![GPT Image 2 复古科幻月球旅行海报提示词](../images/GPT%20Image%202%20%E5%A4%8D%E5%8F%A4%E7%A7%91%E5%B9%BB%E6%9C%88%E7%90%83%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+生成1:1正方形复古科幻旅行海报。月球表面有一座小小的圆顶旅社，透出暖黄色灯光，一名不露脸的宇航员站在前景望向远处蓝色地球。深靛蓝、砖红、奶油白三色为主，平涂色块、丝网印刷颗粒和轻微套色偏移，构图大胆，地球为圆形视觉焦点，像原创复古旅游招贴。顶部用巨大奶油白中文写“下站月球”，底部小字“想象旅行 · AI 生成”。不要真实航天机构标志、品牌、价格、网址、额外文字或现有电影角色。
+```
+
+**来源：** [@金水爱分享](https://x.com/AIjinshui/status/2109879408945508549) | 2026-10-13
+
+---
+

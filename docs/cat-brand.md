@@ -22255,3 +22255,21 @@ Craftworld Iyanden burns under the Tyranid swarm. Ghost Warriors stand in the cr
 
 ---
 
+### 🏷️ 例 8221：电视导播动漫少女
+
+![电视导播动漫少女](../images/%E7%94%B5%E8%A7%86%E5%AF%BC%E6%92%AD%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅竖版动漫风格插画，描绘了一位年轻女性在控制室担任电视导播的场景。她留着凌乱的金色短发，佩戴着带麦克风的耳机。身穿一件宽松黑色夹克，随意地滑落至一侧肩膀，内搭白色上衣。她一手将笔轻抵在下巴附近，另一手正在操作混音控制台。背景中布满了多个显示器，屏幕上播放着各种电视节目画面，并叠加有“ON AIR”字样和时间戳等日文文字。屏幕上还贴着写有关于节目策划手写笔记的便利贴。右侧桌面上放着一杯咖啡。前景底部覆盖着醒目的黄色与白色艺术字日文标语：“一文字で、空気が変わる。”（一字之差，氛围迥异）。整体光线鲜艳多彩，呈现出典型繁忙广播环境下的视觉效果。
+
+[English]
+A vertical anime-style illustration of a young woman working as a television director in a control room. She has short, messy blonde hair and is wearing a headset with a microphone. Her outfit consists of an oversized black jacket worn off one shoulder over a white top. She holds a pen near her chin with one hand while operating a mixing console with the other. The background is filled with multiple monitors displaying various TV show scenes and Japanese text overlays like 'ON AIR' and timestamps. There are sticky notes on the screens with handwritten Japanese notes about show planning. A coffee cup sits on the desk to the right. Large, stylized yellow and white Japanese text overlays the bottom foreground: '一文字で、空気が変わる。'. The lighting is vibrant and colorful, typical of a busy broadcast environment.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2109962053213630614) | 2026-10-13
+
+---
+

@@ -74223,3 +74223,103 @@ Text content: Include bilingual labels (English/Japanese) for each section heade
 
 ---
 
+### 📷 例 8222：真实主体背后的动漫角色提示词
+
+![真实主体背后的动漫角色提示词](../images/%E7%9C%9F%E5%AE%9E%E4%B8%BB%E4%BD%93%E8%83%8C%E5%90%8E%E7%9A%84%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将主要主体转化为逼真的摄影场景，其中包含一个位于主体正后方的小型全身动漫/卡通版本的同一个人。
+
+主体保留：
+保持真实主体完全不变。保留其确切身份、面部特征、发型、服装、配饰、身体比例、姿势、位置、构图和可识别的细节。不要修改原始主体。
+
+动漫角色：
+创建一个与同一主体匹配的小型全身动漫/卡通版本。精确匹配原始发型、服装、配饰、颜色和可识别的视觉细节。采用简洁的现代动漫美学，具有锐利且受控的线条、略大的头部、紧凑的身体比例、富有表现力的面部细节和微妙的赛璐璐阴影。该角色应明显类似于原始主体，同时保持有意为之的风格化。
+
+位置与动作：
+将动漫角色直接放置在真实主体身后，自然对齐原始身体位置。动漫角色双手持手电筒，并将其向前瞄准主体的背部。
+
+光照：
+从主体背后产生强烈、逼真的白色手电筒光束。光束应从后方照亮主体，沿剪影形成强烈的自然轮廓光、微妙的大气辉光以及周围环境中逼真的光线溢出。
+
+在光束中添加受控的体积光，具有柔和的衰减而非人工的实心锥体。被照亮的边缘应自然发光，不会产生过度的泛光。
+
+环境：
+略微调暗现有的户外环境光，以创造更强的电影感对比度，同时保留原始环境、颜色、纹理和光照逻辑。保持背景逼真且具有摄影感。
+
+阴影与深度：
+根据手电筒方向创建物理上可信的阴影。保持动漫角色、真实主体和环境之间逼真的接触阴影、光线衰减和深度。
+
+构图锁定：
+保留原始相机角度、透视、构图、空间排列和整体布局。除了动漫角色及其手电筒外，不要移动、裁剪、替换、添加或移除环境元素。
+
+风格：
+逼真的户外摄影结合简洁的现代动漫角色集成。动漫角色看起来应是有意绘制的，而真实主体和环境则保持完全的摄影感。风格化角色与现实世界场景之间的无缝光照互动。
+
+质量：
+超逼真的光照、电影感对比度、逼真的白光、自然的轮廓辉光、微妙的大气体积感、详细的纹理、清晰的主体分离、高动态范围、专业摄影、4K。
+
+禁止事项：
+不要改变真实主体的身份、面部、发型、服装、配饰、姿势或比例。不要将真实主体
+
+[English]
+Transform the main subject into a realistic photographic scene featuring a small full-body anime/cartoon version of the same person positioned directly behind them.
+
+SUBJECT PRESERVATION:
+Keep the real subject completely unchanged. Preserve their exact identity, facial features, hairstyle, clothing, accessories, body proportions, pose, position, framing and recognizable details. Do not modify the original subject.
+
+ANIME CHARACTER:
+Create a small full-body anime/cartoon version of the same subject. Match the original hairstyle, outfit, accessories, colors and recognizable visual details precisely. Use a clean modern anime aesthetic with sharp controlled linework, slightly oversized head, compact body proportions, expressive facial details and subtle cel shading. The character should clearly resemble the original subject while remaining intentionally stylized.
+
+POSITION & ACTION:
+Place the anime character directly behind the real subject, naturally aligned with the original body position. The anime character is holding a flashlight with both hands and aiming it forward toward the subject's back.
+
+LIGHTING:
+Create an intense, realistic white flashlight beam originating from behind the subject. The beam should visibly illuminate the subject from the rear, creating strong natural rim lighting along the silhouette, subtle atmospheric glow and realistic light spill across the surrounding environment.
+
+Add controlled volumetric light within the beam, with a soft falloff rather than an artificial solid cone. The illuminated edges should glow naturally without creating excessive bloom.
+
+ENVIRONMENT:
+Slightly dim the existing outdoor ambient light to create stronger cinematic contrast while preserving the original environment, colors, textures and lighting logic. Keep the background realistic and photographic.
+
+SHADOWS & DEPTH:
+Create physically believable shadows based on the flashlight direction. Maintain realistic contact shadows, light falloff and depth between the anime character, real subject and environment.
+
+COMPOSITION LOCK:
+Preserve the original camera angle, perspective, framing, spatial arrangement and overall composition. Do not move, crop, replace, add or remove environmental elements except for the anime character and its flashlight.
+
+STYLE:
+Photorealistic outdoor photography combined with a clean modern anime character integration. The anime character should look intentionally illustrated while the real subject and environment remain fully photographic. Seamless lighting interaction between the stylized character and the real-world scene.
+
+QUALITY:
+Ultra-realistic lighting, cinematic contrast, realistic white light, natural rim glow, subtle volumetric atmosphere, detailed textures, sharp subject separation, high dynamic range, professional photography, 4K.
+
+DO NOT:
+Do not alter the real subject's identity, face, hairstyle, clothing, accessories, pose or proportions. Do not turn the real subject
+```
+
+**来源：** [@Visual AI Club](https://x.com/visualaiclub/status/2109924934340252026) | 2026-10-13
+
+---
+
+### 📷 例 8228：敦煌飞天琵琶演奏
+
+![敦煌飞天琵琶演奏](../images/%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E7%90%B5%E7%90%B6%E6%BC%94%E5%A5%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅令人惊叹的电影级广角镜头，展示了一位敦煌飞天天界乐师在月光下的莲花池中弹奏琵琶。场景以高端 AAA 游戏 CG 质量渲染，将写实的人物特征与奇幻美学完美融合。画面中心是一位皮肤白皙、五官精致的美丽女子，双眼微闭，神情宁静专注。她身着华丽的银白色中国传统服饰，饰有繁复的花卉刺绣，半透明的飘逸丝带如雾气般环绕周身。她的深色长发上佩戴着复杂的珠宝头饰，垂挂着珍珠和水晶。她手持一把木质琵琶（中国鲁特琴），琴身镶嵌着精美的贝母图案。背景中，宏伟的古代石窟寺庙雕刻于悬崖之上，被温暖的烛光点亮，与夜空的冷蓝色调及上方巨大的满月形成鲜明对比。前景的水面上漂浮着发光的白莲花，柔和地闪烁着光芒。光线空灵梦幻，强烈的轮廓光勾勒出人物的剪影，柔和的光晕效果营造出如梦似幻的氛围。
+
+[English]
+A breathtaking cinematic wide shot of a Dunhuang Flying Apsara celestial musician playing a pipa in a moonlit lotus pond. The scene is rendered in high-end AAA game CG quality, blending realistic human features with fantasy aesthetics. The central figure is a beautiful woman with fair skin and delicate facial features, eyes closed in serene concentration. She wears an elaborate silver and white traditional Chinese costume with intricate floral embroidery and translucent flowing ribbons that swirl around her like mist. Her long dark hair is adorned with a complex jeweled headdress featuring dangling pearls and crystals. She holds a wooden pipa (Chinese lute) with mother-of-pearl inlay designs on the body. In the background, majestic ancient cave temples carved into cliffs are illuminated by warm candlelight, contrasting with the cool blue tones of the night sky and the large full moon above. White lotus flowers float on the water's surface in the foreground, glowing softly. The lighting is ethereal, with strong rim light highlighting the character's silhouette and soft bloom effects creating a dreamlike atmosphere.
+```
+
+**来源：** [@AI art gallery](https://x.com/sandmrk/status/2109872509839659216) | 2026-10-13
+
+---
+
