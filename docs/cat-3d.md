@@ -9623,3 +9623,57 @@ A character design sheet featuring three views of a stylized 3D animated elderly
 
 ---
 
+### 🧸 例 8231：茶杯内的超现实露营场景
+
+![茶杯内的超现实露营场景](../images/%E8%8C%B6%E6%9D%AF%E5%86%85%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%9C%B2%E8%90%A5%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+生成1:1正方形超现实微缩场景海报。一只大型奶油白陶瓷茶杯占画面中央，杯内不是液体而是一小片苔藓森林，两棵小松树、一顶暖橙色帐篷和一条弯曲碎石路组成完整露营地。帐篷透出温暖柔光，没有明火，没有人物。杯子放在深墨绿背景前，三分之二侧俯视，杯柄清晰完整，微距摄影，陶瓷釉面与苔藓细节真实，浅景深。上方大字“{argument name="主标题" default="把周末装进杯子"}”，右下小字“{argument name="副标题" default="AI 生成示例"}”。文字清晰，不要商标、网址、价格或其他文字。
+```
+
+**来源：** [@金水爱分享](https://x.com/AIjinshui/status/2110497200568709425) | 2026-10-14
+
+---
+
+### 🧸 例 8235：Vespa 踏板摩托车：真实照片与微缩景观对比
+
+![Vespa 踏板摩托车：真实照片与微缩景观对比](../images/Vespa%20%E8%B8%8F%E6%9D%BF%E6%91%A9%E6%89%98%E8%BD%A6%EF%BC%9A%E7%9C%9F%E5%AE%9E%E7%85%A7%E7%89%87%E4%B8%8E%E5%BE%AE%E7%BC%A9%E6%99%AF%E8%A7%82%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张垂直双联图，分为两个截然不同的面板。上半部分是一张逼真的平视照片，展示了一辆停在鹅卵石街道上的复古黄色 Vespa 踏板摩托车，背景是一家拥有大玻璃窗和盆栽植物的咖啡馆。这辆摩托车配有淡绿色前挡泥板、橙色车把组件、圆形镀铬前灯以及棕褐色皮革座椅。下半部分展示了同一辆摩托车的微缩 3D 黏土风格模型或景观，放置在带有铺路石纹理的方形灰色底座上。这个微型版本包含小道具，如盆栽多肉植物、微型护柱和散落的树叶，在纯奶油色背景下以柔和的工作室灯光渲染而成。
+
+[English]
+A vertical diptych image split into two distinct panels. The top panel is a photorealistic, eye-level shot of a vintage yellow Vespa scooter parked on a cobblestone street in front of a cafe with large glass windows and potted plants. The scooter features a pastel green front fender, an orange handlebar assembly, a round chrome headlight, and a tan leather seat. The bottom panel displays the same scooter as a miniature 3D clay-style model or diorama placed on a square grey base with tiled pavement texture. This miniature version includes small props like a potted succulent plant, a tiny bollard, and scattered leaves, rendered with soft studio lighting against a plain cream background.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2110331450503643253) | 2026-10-14
+
+---
+
+### 🧸 例 8236：人物在沙发上睡觉的俯拍镜头
+
+![人物在沙发上睡觉的俯拍镜头](../images/%E4%BA%BA%E7%89%A9%E5%9C%A8%E6%B2%99%E5%8F%91%E4%B8%8A%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BF%AF%E6%8B%8D%E9%95%9C%E5%A4%B4.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体" default="[Subject Description]"}，室内生活摄影，俯拍构图。
+
+角色躺在柔软沙发上休息或熟睡，身体自然侧躺或微微蜷缩，双手抱着一个柔软抱枕，头部枕在一只毛绒玩偶上，把玩偶当作枕头。整体睡姿放松、自然、安静，带有居家生活感与轻微可爱气质。双腿可自然弯曲或轻轻收起，身体与沙发形成柔软贴合的状态，抱枕、玩偶与人物之间的关系清楚可见。
+
+场景为温馨室内空间，沙发柔软舒适，周围可自然出现靠垫、毛毯、地毯、床边灯、窗帘、书本、杂志或其他少量生活小物，营造安静、放松、温暖的居家氛围。画面重点突出人物、抱枕、毛绒玩偶与沙发之间的亲密关系，空间简洁有序。
+
+摄影机从上方向下拍摄，采用明显的 overhead top-down 俯拍视角，清楚展示人物完整躺姿、沙发布局以及抱枕和玩偶的位置关系。构图自然，画面干净，留白适度。
+
+光线柔和，可采用白天室内漫射自然光或温暖柔和的室内灯光。整体氛围安静、治愈、舒适，高完成度生活方式摄影质感，细节清楚，材质柔软真实。3:4 竖图，右下角极小 voxcat 签名。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2110327539642343913) | 2026-10-14
+
+---
+

@@ -17295,3 +17295,21 @@ and multi-colored bowling shoes
 
 ---
 
+### 🖥️ 例 8237：从写实灯塔到像素艺术
+
+![从写实灯塔到像素艺术](../images/%E4%BB%8E%E5%86%99%E5%AE%9E%E7%81%AF%E5%A1%94%E5%88%B0%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张垂直双面板对比图。上方面板是一幅写实的风景画：一座白色灯塔矗立在岩石海岸悬崖上，灯光明亮，旁边是红顶看守人小屋，正值日落时分。远处一艘邮轮在戏剧性的天空下航行，天空中乌云密布，透着橙色光芒。下方面板展示完全相同的场景，但被重新构想为悬浮在干净白色背景中央的像素艺术插图。像素艺术采用粗大的方块像素块，下方带有柔和的投影，配色方案与上方照片一致。在像素艺术下方，包含中文标题“海岸灯塔”，随后是一条小水平线和副标题“暮色中，灯火仍在。”
+
+[English]
+Create a vertical two-panel comparison image. The top panel is a photorealistic landscape of a white lighthouse with an illuminated lamp, standing on a rocky coastal cliff next to red-roofed keeper houses at sunset. A cruise ship sails in the distance under a dramatic sky filled with dark clouds and orange light. The bottom panel shows the exact same scene reimagined as a floating pixel art illustration centered on a clean white background. The pixel art features chunky square blocks, a soft drop shadow beneath it, and a color palette matching the photo above. Below the pixel art, include the Chinese title '海岸灯塔' followed by a small horizontal line and the subtitle '暮色中，灯火仍在。'
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2110307732528283783) | 2026-10-14
+
+---
+

@@ -74323,3 +74323,56 @@ A breathtaking cinematic wide shot of a Dunhuang Flying Apsara celestial musicia
 
 ---
 
+### 📷 例 8232：极限战士与吞世者激战
+
+![极限战士与吞世者激战](../images/%E6%9E%81%E9%99%90%E6%88%98%E5%A3%AB%E4%B8%8E%E5%90%9E%E4%B8%96%E8%80%85%E6%BF%80%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在一个被烧焦、覆盖着灰烬的巢都世界山顶上，极限战士星际战士与吞世者混沌星际战士之间展开了一场残酷的近身激战。
+
+[English]
+A brutal close-quarters clash between Ultramarines Space Marines and World Eaters Chaos Space Marines on a scorched, ash-covered hilltop of a burning hive world.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2110485389819646343) | 2026-10-14
+
+---
+
+### 📷 例 8233：雾紫灰调日式杂志风人像
+
+![雾紫灰调日式杂志风人像](../images/%E9%9B%BE%E7%B4%AB%E7%81%B0%E8%B0%83%E6%97%A5%E5%BC%8F%E6%9D%82%E5%BF%97%E9%A3%8E%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="[Character Description]"}，真人角色，诺基亚拍摄。
+柔和角色设定肖像 × 日系平面杂志版式 × 平滑数码渐层与细密发丝渲染 × 面部连续微弱明暗渐变塑形。
+正面全柔光，几乎无明显投影断差。
+整体色彩采用雾紫 / 象牙白 / 浅灰，极低饱和清冷色调。
+人物采用正面头肩近景居中构图，真人面部结构清晰，四周留出排版小字与档案标签区域。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2110416845480366249) | 2026-10-14
+
+---
+
+### 📷 例 8238：多符号复合表情系统
+
+![多符号复合表情系统](../images/%E5%A4%9A%E7%AC%A6%E5%8F%B7%E5%A4%8D%E5%90%88%E8%A1%A8%E6%83%85%E7%B3%BB%E7%BB%9F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="[Character Description]"}，成年真人化，保留角色核心身份特征。
+多符号复合表情：🥺 😢 😼 (｡•́︿•̀｡) (¬‿¬)。
+内眉上提，眼眶显得湿润，下唇轻抿，单侧嘴角却露出被压抑的得意。
+将多种情绪统一为一张自然真实的面孔，面部细节清楚，近距离人像摄影，3:4竖版，右侧边缘极小voxcat签名。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2110209662687805886) | 2026-10-14
+
+---
+

@@ -22139,3 +22139,21 @@ if they weren’t too small to read
 
 ---
 
+### 🎨 例 8230：战锤骑士 vs 生物泰坦
+
+![战锤骑士 vs 生物泰坦](../images/%E6%88%98%E9%94%A4%E9%AA%91%E5%A3%AB%20vs%20%E7%94%9F%E7%89%A9%E6%B3%B0%E5%9D%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+当蜂巢舰队祭司级生物泰坦吞噬另一个帝国世界时，泰林家族的一名孤独骑士挺身而出与之对抗。
+
+[English]
+As Hive Fleet Hierophant Bio-titan swallows another Imperial world, one lone Knight of House Terryn stands against it.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2110515287821094935) | 2026-10-14
+
+---
+
