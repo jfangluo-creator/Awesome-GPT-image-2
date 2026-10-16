@@ -74376,3 +74376,101 @@ A brutal close-quarters clash between Ultramarines Space Marines and World Eater
 
 ---
 
+### 📷 例 8243：昭和复古风浴衣少女
+
+![昭和复古风浴衣少女](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E9%A3%8E%E6%B5%B4%E8%A1%A3%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张垂直构图的肖像照片，采用复古昭和时代风格，画面中一位年轻的亚洲女性回眸直视镜头。她留着深棕色长发，额前有轻盈的空气刘海，头部左侧佩戴着精致的花朵发饰（簪），由浅蓝色和白色的布艺花朵组成，并垂挂着珍珠串链。她的皮肤白皙，保留了自然的纹理细节，包括雀斑和细微瑕疵，呈现出未经修饰的真实感。她身穿一件传统浴衣（夏季和服），白色底色上印有大朵蓝色牵牛花图案，腰间系着纯浅蓝色的腰带（obi）。她双手在胸前握着一瓶带有玻璃弹珠塞的透明 Ramune 汽水。背景略微虚化，但清晰可见印有白色日文书法和招财猫图案的红色暖帘，暗示了传统店铺或祭典的场景。整张图片具有复古胶片美学特征，色调温暖，带有轻微颗粒感，边缘环绕着做旧的白色边框。
+
+[English]
+A vertical portrait photograph in a retro Showa-era style, featuring a young Asian woman looking back over her shoulder directly at the camera. She has long dark brown hair with wispy bangs and wears an elaborate floral kanzashi hair ornament on the left side of her head, consisting of light blue and white fabric flowers with dangling pearl strands. Her skin is fair with visible natural texture, including freckles and small blemishes, giving a raw, unretouched look. She is wearing a traditional yukata (summer kimono) patterned with large blue morning glory flowers on a white background, secured with a solid light blue obi sash. In her hands, she holds a clear glass Ramune soda bottle with a marble stopper near her chest. The background is slightly out of focus but clearly shows a red noren curtain with white Japanese calligraphy and a drawing of a maneki-neko (beckoning cat), suggesting a traditional shop or festival setting. The image has a vintage film aesthetic with warm tones, slight grain, and distressed white borders around the edges.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2110668165311279606) | 2026-10-15
+
+---
+
+### 📷 例 8246：第二世界编辑摄影海报
+
+![第二世界编辑摄影海报](../images/%E7%AC%AC%E4%BA%8C%E4%B8%96%E7%95%8C%E7%BC%96%E8%BE%91%E6%91%84%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的照片，创建一张垂直的 3:4 “第二世界”编辑摄影海报。
+
+### 构图
+将图像完美地分为两个相等的水平半部。
+
+上半部分：完全保留原始照片，仅允许按比例裁剪。保持原始主体、色彩、构图、自然光照和真实纹理。禁止重绘或插图。
+
+下半部分：使用温暖的象牙白纸张背景，并留有充足的负空间。
+
+### 核心概念
+识别照片中最具辨识度的视觉结构，并将其在下半部分转化为一个有形的三维摄影对象。
+
+该对象必须保留原始的摄影纹理，看起来具有物理真实性，具备可见的厚度、细微的褶皱或曲线、自然的阴影、透视感以及与纸张的真实接触。
+
+主体保留至关重要：如果照片中包含可识别的人物、建筑、动物、地标或独特物体，请将其作为下半部分的中心。保留其身份、真实纹理以及大部分完整的轮廓。切勿用背景元素替换主要主体。
+
+下半部分必须清晰展示一个实质性的摄影对象，而不仅仅是撕碎的纸张或微小的角色。
+
+### 角色与说明文字
+包含 0–2 个极简的黑色线条艺术角色，与摄影对象进行有意义的互动，例如抬起、展开、推动、修复或进入其中。
+
+添加一句简短、随意且略带幽默的手写英文说明文字。避免励志名言和陈词滥调。
+
+### 视觉风格
+写实摄影 + 温暖象牙纸 + 极简黑色涂鸦 + 微妙的手工拼贴 + 独立杂志美学。
+
+保持设计干净、明亮、极简且具有视觉冲击力。
+
+### 避免事项
+全图插画、通用的撕纸模板、微小的装饰性角色、无关的装饰品、杂乱、复杂的插画以及商业美学。
+
+最终规则：下半部分必须感觉像是原始照片的一个真实的三维片段被带入了第二个世界。即使其物理属性经过创意转化，主要主体必须在第一眼就立即被识别出来。
+
+[English]
+Create a vertical 3:4 “Second World” editorial photography poster based on the uploaded photo.
+
+### COMPOSITION
+Divide the image into two perfectly equal horizontal halves.
+
+Upper Half: Preserve the original photograph exactly, allowing only proportional cropping. Keep the original subject, colors, composition, natural lighting, and realistic textures. No redraws or illustrations.
+
+Lower Half: Use a warm ivory-white paper background with generous negative space.
+
+### CORE CONCEPT
+Identify the photograph’s most recognizable visual structure and transform it into a tangible, three-dimensional photographic object in the lower half.
+
+The object must retain the original photographic textures and look physically real, with visible thickness, subtle folds or curves, natural shadows, perspective, and realistic contact with the paper.
+
+Subject preservation is essential: If the photo contains a recognizable person, building, animal, landmark, or distinct object, make it the centerpiece of the lower half. Preserve its identity, realistic texture, and most of its complete silhouette. Never replace the main subject with background elements.
+
+The lower half must clearly display a substantial photographic object, not merely torn paper or a tiny character.
+
+### CHARACTERS & CAPTION
+Include 0–2 minimalist black line-art characters interacting meaningfully with the photographic object, such as lifting, unfolding, pushing, repairing, or entering it.
+
+Add one short, casual, slightly humorous handwritten English caption. Avoid motivational quotes and clichés.
+
+### VISUAL STYLE
+Realistic photography + warm ivory paper + minimalist black doodles + subtle handmade collage + independent magazine aesthetics.
+
+Keep the design clean, bright, minimal, and visually striking.
+
+### AVOID
+Full-image illustration, generic torn-paper templates, tiny decorative characters, unrelated ornaments, clutter, complex illustrations, and commercial aesthetics.
+
+FINAL RULE: The lower half must feel like a real, three-dimensional piece of the original photograph brought into a second world. The main subject must remain immediately recognizable at first glance, even if its physical properties are creatively transformed.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2110617290727374964) | 2026-10-15
+
+---
+

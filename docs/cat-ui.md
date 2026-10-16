@@ -17313,3 +17313,21 @@ Create a vertical two-panel comparison image. The top panel is a photorealistic 
 
 ---
 
+### 🖥️ 例 8242：废墟教堂中的兜帽旅人
+
+![废墟教堂中的兜帽旅人](../images/%E5%BA%9F%E5%A2%9F%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E5%85%9C%E5%B8%BD%E6%97%85%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+夜晚的废墟教堂。月光穿过玫瑰窗，将花窗格影投射在过道上宛如一条小径，一位兜帽旅人伫立其上。
+
+[English]
+A ruined cathedral at night. Moonlight through the rose window lays its tracery down the aisle as a path, and one hooded traveller stands on it.
+```
+
+**来源：** [@AI Art Alley](https://x.com/aiartalley/status/2110732531876122650) | 2026-10-15
+
+---
+

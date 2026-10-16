@@ -22157,3 +22157,81 @@ As Hive Fleet Hierophant Bio-titan swallows another Imperial world, one lone Kni
 
 ---
 
+### 🎨 例 8241：关于被遗忘酒窖的俳句
+
+![关于被遗忘酒窖的俳句](../images/%E5%85%B3%E4%BA%8E%E8%A2%AB%E9%81%97%E5%BF%98%E9%85%92%E7%AA%96%E7%9A%84%E4%BF%B3%E5%8F%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+住持
+疏于打理酒窖
+鼠群
+安享腐坏葡萄
+肆意横行其间
+
+[English]
+the abbot
+has neglected the wine cellar
+and the rats
+content to eat rancid grapes
+have the run of the place
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2110806010516660564) | 2026-10-15
+
+---
+
+### 🎨 例 8245：紫色衬衫黑色短裤穿搭提示词
+
+![紫色衬衫黑色短裤穿搭提示词](../images/%E7%B4%AB%E8%89%B2%E8%A1%AC%E8%A1%AB%E9%BB%91%E8%89%B2%E7%9F%AD%E8%A3%A4%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+
+一件柔和的紫色衬衫，搭配简约的黑色短裤。
+
+配以高跟鞋。
+
+干净、女性化且略带优雅的时尚美学。
+紫色与黑色的配色方案。
+无多余装饰。
+
+[English]
+OUTFIT:
+
+A {argument name="blouse color" default="soft purple"} blouse paired with simple {argument name="bottoms" default="black shorts"}.
+
+Styled with {argument name="shoes" default="high heels"}.
+
+Clean, feminine, lightly elegant fashion aesthetic.
+{argument name="color scheme" default="Purple and black"} color scheme.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2110627986869543109) | 2026-10-15
+
+---
+
+### 🎨 例 8248：浴火重生的战斗修女
+
+![浴火重生的战斗修女](../images/%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%E7%9A%84%E6%88%98%E6%96%97%E4%BF%AE%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+她神圣的链锯剑已破碎，浑身是血，被敌人包围且寡不敌众。然而，在圣塞莱斯汀炽热的注视下，这位战斗修女重新站起，手中的爆弹枪轰鸣作响，口中高呼帝皇之名。
+
+[English]
+Her blessed chainsword lies shattered, she is bleeding, surrounded and outnumbered. Yet beneath the burning gaze of Saint Celestine, this Sister of Battle rises with her boltgun roaring and the Emperor's name on her lips.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2110524597536002376) | 2026-10-15
+
+---
+

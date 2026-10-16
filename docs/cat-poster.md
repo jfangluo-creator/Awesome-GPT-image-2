@@ -36097,3 +36097,70 @@ No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photore
 
 ---
 
+### 🎴 例 8240：秋季创意计划拼贴画
+
+![秋季创意计划拼贴画](../images/%E7%A7%8B%E5%AD%A3%E5%88%9B%E6%84%8F%E8%AE%A1%E5%88%92%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅垂直构图的数字拼贴海报，中心是一位留着凌乱紫色头发、脸上有雀斑的年轻女性，身穿芥末黄色无袖上衣。她回头自信地注视着观众，并抬起一只手竖起食指指向天空。围绕着她的是五个风格迥异的角色肖像，呈扇形排列：左上角是一个朋克形象，有着蓝色皮肤、粉色莫霍克发型和尖锐的牙齿；顶部中央是一只拟人化的橙色猫，长着黄色的眼睛，穿着绿色夹克和黑色裤子；右上角展示了一个毛茸茸的白色生物，看起来像由花瓣组成的绵羊或云朵；中间左侧是一张灰度图像，显示一个留着脏辫、戴着墨镜和防毒面具的人比着剪刀手；中间右侧是一个超现实的婴儿状人物，头很大，穿着红色毛衣和绿色裤子，背着一个形状像另一张脸的包。背景是带有纹理的米色纸张风格，点缀着散落的秋季枫叶和成簇的红色花楸果。底部有一行优雅的黑色草书文字写着“Мои планы на осень — Творить!”。
+
+[English]
+A vertical digital collage poster featuring a central young woman with messy purple hair, freckles, and a mustard-yellow sleeveless top. She is looking over her shoulder at the viewer with a confident expression, raising one hand to point her index finger upward. Surrounding her are five distinct character portraits arranged in a fan-like layout: top-left shows a punk figure with blue skin, pink mohawk, and sharp teeth; top-center features an anthropomorphic orange cat with yellow eyes wearing a green jacket and black pants; top-right displays a fluffy white creature resembling a sheep or cloud made of petals; middle-left is a grayscale image of a person with dreadlocks, sunglasses, and a gas mask making a peace sign; middle-right shows a surreal baby-like figure with a large head, red sweater, and green pants carrying a bag shaped like another face. The background is a textured beige paper style filled with scattered autumn maple leaves and clusters of red rowan berries. At the bottom, elegant black cursive text reads "Мои планы на осень — Творить!".
+```
+
+**来源：** [@VERA 100%](https://x.com/Ledi_ru_noch/status/2110854536852378048) | 2026-10-15
+
+---
+
+### 🎴 例 8247：极简主义楼梯早安海报
+
+![极简主义楼梯早安海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%A5%BC%E6%A2%AF%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极简风格的竖版海报设计，画面主体为一条从左下角向右上角延伸的陡峭长楼梯，背景为纯净的白色。楼梯采用深海军蓝填充，边缘勾勒清晰的白色线条，形成强烈的几何对比。一个提着公文包的人物剪影正行走在楼梯中段，旁边立着一根杆子，上面挂着一个简约的线条时钟。在右上角的最高处，一轮柔和的橙色太阳或光源在楼梯顶端后方散发光芒。
+
+文字元素：
+- 左上角：大号粗体黑色中文字符“早安，”（Good Morning），紧随其后的是“准时上行”，其中“准”字以橙色高亮显示，其余部分为黑色。
+- 标题下方：小号文字“2026-10-15”和“ON TIME MORNING”。
+- 左侧中部：三行灰色小号中文文字：“准时出发”、“让更好的自己”、“更快抵达”，随后是英文翻译“A MORE FOCUSED DAY”、“A BRIGHTER YOU”。
+- 右下角：深色楼梯侧面垂直排列的小号白色文字：“ON TIME”、“HIGHER”、“FARTHER”、“A BRIGHTER YOU”。
+
+[English]
+A minimalist vertical poster featuring a long, steep staircase ascending diagonally from the bottom left to the top right against a clean white background. The steps are rendered in deep navy blue with crisp white edges, creating a strong geometric rhythm. A small silhouette of a person carrying a briefcase walks up the stairs near the middle section, next to a simple line-art clock on a pole. At the top right corner, a warm orange sun rises behind the peak of the stairs, casting a soft glow. Large bold Chinese text "早安，" and "准时上行" appears in the top left, with the second line partially highlighted in orange. Below it is the date "2026-10-15" and English text "ON TIME MORNING". Smaller inspirational text lines appear on the left side: "准时出发", "让更好的自己", "更快抵达", followed by "A MORE FOCUSED DAY" and "A BRIGHTER YOU". In the bottom right corner, faint white text reads "ON TIME", "HIGHER", "FARTHER", "A BRIGHTER YOU". An orange arrow points rightward from the main title.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2110544822922781133) | 2026-10-15
+
+---
+
+### 🎴 例 8249：GPT-2 运动鞋广告海报提示词
+
+![GPT-2 运动鞋广告海报提示词](../images/GPT-2%20%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+创建一张现代运动鞋宣传海报，以一只[鞋款外观]的[鞋款类型]作为前景主视觉。固定使用暖白、石墨黑和燃橙的视觉系统，真实商业产品摄影，清晰的织物、泡棉、橡胶细节与统一光影。鞋体完整，占画面约一半，场景服务于鞋款的用途。
+
+根据[鞋款类型]执行对应场景：
+公路跑鞋：清晨城市高架跑道，低机位三分之四视角，鞋头向右上；地面线条向远处收窄，结合适度运动模糊，表现推进。
+越野鞋：岩层、林间坡道与冷灰天空，贴地侧前方广角；深齿鞋底越过碎石，带起少量尘土，燃橙路径沿坡面攀升。
+城市训练鞋：暖白混凝土训练空间、天窗与侧光，中低机位仰拍，鞋头向左上；橙色短折线围绕鞋底，表现转向和稳定支撑。
+
+将巨大的[英文动作词]融入所选环境：公路款成为有透视厚度的跑道构件；越野款嵌入切开的岩层；训练款沿墙面、立柱与地面折转。字形采用暖白正面和燃橙切面，具有真实遮挡、厚度与投影，保持可识别。
+
+顶部放置[产品名称]与“CONCEPT FOOTWEAR”；底部放置[宣传短句]及[结构标签]。小字简洁、清晰，使用现代无衬线字体，保证产品、空间标题和辅助信息的层级。
+
+每次只输出一张独立海报。避免真实品牌标志、人物、虚构性能数字、无关文字、鞋体畸形、塑料质感和过多装饰。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2110523616286888284) | 2026-10-15
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (616)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (617)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1225,6 +1225,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8219: 优雅男士保龄球装备提示词](cat-ui.md#️-例-8219优雅男士保龄球装备提示词)
 
 - [Case 8237: 从写实灯塔到像素艺术](cat-ui.md#️-例-8237从写实灯塔到像素艺术)
+
+- [Case 8242: 废墟教堂中的兜帽旅人](cat-ui.md#️-例-8242废墟教堂中的兜帽旅人)
 ---
 
 <a id="chart"></a>
@@ -1469,7 +1471,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1090)
+## 🎴 [Posters & Cards](cat-poster.md) (1093)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3613,11 +3615,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8227: GPT Image 2 复古科幻月球旅行海报提示词](cat-poster.md#-例-8227gpt-image-2-复古科幻月球旅行海报提示词)
 
 - [Case 8234: 基于照片的暗色剪影海报设计](cat-poster.md#-例-8234基于照片的暗色剪影海报设计)
+
+- [Case 8240: 秋季创意计划拼贴画](cat-poster.md#-例-8240秋季创意计划拼贴画)
+
+- [Case 8247: 极简主义楼梯早安海报](cat-poster.md#-例-8247极简主义楼梯早安海报)
+
+- [Case 8249: GPT-2 运动鞋广告海报提示词](cat-poster.md#-例-8249gpt-2-运动鞋广告海报提示词)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3061)
+## 📷 [Photography & Realistic](cat-photo.md) (3063)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9673,11 +9681,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8233: 雾紫灰调日式杂志风人像](cat-photo.md#-例-8233雾紫灰调日式杂志风人像)
 
 - [Case 8238: 多符号复合表情系统](cat-photo.md#-例-8238多符号复合表情系统)
+
+- [Case 8243: 昭和复古风浴衣少女](cat-photo.md#-例-8243昭和复古风浴衣少女)
+
+- [Case 8246: 第二世界编辑摄影海报](cat-photo.md#-例-8246第二世界编辑摄影海报)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1060)
+## 🎨 [Illustration & Art](cat-illustration.md) (1063)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11783,6 +11795,12 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8229: 无线门铃摄像头说明书提示词](cat-illustration.md#-例-8229无线门铃摄像头说明书提示词)
 
 - [Case 8230: 战锤骑士 vs 生物泰坦](cat-illustration.md#-例-8230战锤骑士-vs-生物泰坦)
+
+- [Case 8241: 关于被遗忘酒窖的俳句](cat-illustration.md#-例-8241关于被遗忘酒窖的俳句)
+
+- [Case 8245: 紫色衬衫黑色短裤穿搭提示词](cat-illustration.md#-例-8245紫色衬衫黑色短裤穿搭提示词)
+
+- [Case 8248: 浴火重生的战斗修女](cat-illustration.md#-例-8248浴火重生的战斗修女)
 ---
 
 <a id="character"></a>
@@ -12287,7 +12305,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (381)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (382)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13037,6 +13055,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8235: Vespa 踏板摩托车：真实照片与微缩景观对比](cat-3d.md#-例-8235vespa-踏板摩托车真实照片与微缩景观对比)
 
 - [Case 8236: 人物在沙发上睡觉的俯拍镜头](cat-3d.md#-例-8236人物在沙发上睡觉的俯拍镜头)
+
+- [Case 8244: 带有悬浮纸片剪影的 3D 剪贴簿构图](cat-3d.md#-例-8244带有悬浮纸片剪影的-3d-剪贴簿构图)
 ---
 
 <a id="architecture"></a>
