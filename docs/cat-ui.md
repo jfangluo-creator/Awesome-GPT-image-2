@@ -17331,3 +17331,39 @@ A ruined cathedral at night. Moonlight through the rose window lays its tracery 
 
 ---
 
+### 🖥️ 例 8251：安静与废弃火车站对比
+
+![安静与废弃火车站对比](../images/%E5%AE%89%E9%9D%99%E4%B8%8E%E5%BA%9F%E5%BC%83%E7%81%AB%E8%BD%A6%E7%AB%99%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+两幅黄昏火车站场景的分屏对比图，中间由一条细垂直线分隔。左侧面板：一座名为“RIVERDALE”的安静且维护良好的火车站，站台雨棚下亮着温暖的黄色灯光，有一张木制长椅，墙上挂着一个圆形时钟，干净的混凝土站台边缘铺有黄色盲道砖，弯曲的铁轨延伸至远方，信号灯发出红光，远处山丘上空是橙色和紫色交织的绚丽晚霞。右侧面板：一座名为“RAVENSBROOK”的废弃破败火车站，油漆剥落，窗户破碎，开裂的混凝土站台间杂草丛生，铁轨生锈，风化的木质支撑梁，氛围阴暗诡异，类似的晚霞天空但色调更暗淡多云。底部标签：左图下方深色背景上的白色文字“QUIET”，右图下方深色背景上的白色文字“ABANDONED”。
+
+[English]
+A split-screen comparison of two train station scenes at dusk, separated by a thin vertical line. Left panel: A quiet, well-maintained train station named "RIVERDALE" with warm yellow lighting under the platform canopy, a wooden bench, a round clock on the wall, clean concrete platform with yellow tactile paving edge, curved railway tracks leading into the distance, signal lights glowing red, and a vibrant sunset sky with orange and purple hues over distant hills. Right panel: An abandoned, dilapidated train station named "RAVENSBROOK" with peeling paint, broken windows, overgrown weeds and grass between cracked concrete platforms, rusted railway tracks, weathered wooden support beams, dark and eerie atmosphere, similar sunset sky but more muted and cloudy. Bottom labels: "QUIET" in white text on dark background beneath left image, "ABANDONED" in white text on dark background beneath right image.
+```
+
+**来源：** [@Human.exe](https://x.com/Human_exer/status/2111111073168269554) | 2026-10-16
+
+---
+
+### 🖥️ 例 8255：昭和复古风体操服少女
+
+![昭和复古风体操服少女](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E9%A3%8E%E4%BD%93%E6%93%8D%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张充满怀旧气息、带有胶片颗粒感的照片，画面中一名年轻的日本女孩坐在学校体育馆光亮的木地板上。她身穿一件经典的红色天鹅绒运动服，袖子和裤腿边缘饰有白色滚边，呈现出典型的昭和时代复古时尚风格。她的深色头发扎成低双马尾，并用小红色珠子固定，脸上带着温柔自然的微笑。脖子上搭着一条白色毛巾，暗示她刚刚结束体育活动。她双臂交叉抱在胸前，紧紧抱着一个略显陈旧的米白色皮革排球。背景是模糊的体育馆场景，包括存放更多排球的金属架以及透入柔和日光的大窗户。整张图片色调温暖且略微褪色，具有 1980 年代复古摄影的典型特征。
+
+[English]
+A nostalgic, film-grain photograph of a young Japanese girl sitting on the polished wooden floor of a school gymnasium. She is wearing a classic red velour tracksuit with white piping along the sleeves and legs, typical of Showa-era retro fashion. Her dark hair is tied in low pigtails secured with small red beads, and she has a gentle, natural smile. A white towel is draped around her neck, suggesting she has just finished physical activity. She holds a worn, off-white leather volleyball against her chest with both arms crossed over it. The background features blurred details of a gym setting, including a metal rack holding more volleyballs and large windows letting in soft daylight. The image has a warm, slightly faded color palette characteristic of vintage 1980s photography.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2111008862233125226) | 2026-10-16
+
+---
+

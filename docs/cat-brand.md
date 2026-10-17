@@ -22291,3 +22291,75 @@ Create a vertical digital collage illustration in a warm, handmade paper-cut sty
 
 ---
 
+### 🏷️ 例 8250：疯帽子茶话会上的老鼠魔术师
+
+![疯帽子茶话会上的老鼠魔术师](../images/%E7%96%AF%E5%B8%BD%E5%AD%90%E8%8C%B6%E8%AF%9D%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%80%81%E9%BC%A0%E9%AD%94%E6%9C%AF%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="a rat magician and his assistant"} performing for {argument name="audience" default="a crowd"} at {argument name="event" default="the Mad Hatter’s invitation only tea party"}
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2111198527686853054) | 2026-10-16
+
+---
+
+### 🏷️ 例 8252：GPT-Image-2 甜点海报提示词
+
+![GPT-Image-2 甜点海报提示词](../images/GPT-Image-2%20%E7%94%9C%E7%82%B9%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+输出一张独立的4:5竖版商业海报，不拼图，不生成多宫格。使用原创虚构品牌，不仿制现有品牌包装、Logo或广告。文字只使用提示中明确列出的品牌名、主标题与品类，不补造价格、获奖信息、参数、日期、产地或口号。画面达到可供创意方向审核的完成度，主体结构真实、材质可信、排版清晰，无水印。
+
+主题：甜点审核样张。原创品牌“SOFT LAB”，产品“CARAMEL PUDDING”，主标题“MELT”。
+
+使用暖奶油色无缝背景，中央偏下放置一枚真实的焦糖布丁，表面光滑但有细微气孔，焦糖酱沿一侧缓慢流下，白瓷小盘有柔和接触阴影。背景中部竖立四个厚实但不夸张的奶油色字母“MELT”，字母材质像冷却后的细砂糖霜。
+
+组型核心：“单一甜点—温度方向—字模渐变”。从左到右建立清楚的温度变化：M保持干燥结晶；E边缘出现少量焦糖润湿；L下部轻微软化；T的一处底角与焦糖酱接触并缓慢融化。变化必须连续、克制、符合重力，四个字母仍完整可读。用两三条极细手绘箭头标注“冷却 / 接触 / 软化”，不要再加长说明。顶部写“SOFT LAB”，底部写“CARAMEL PUDDING”。
+
+色彩只用奶油白、焦糖棕、少量深咖啡。避免多种甜点、食物飞溅、夸张熔岩、卡通表情、配方信息、价格、促销贴纸或儿童插画。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2111087515142602917) | 2026-10-16
+
+---
+
+### 🏷️ 例 8253：处女座星座肖像与金色宇宙能量
+
+![处女座星座肖像与金色宇宙能量](../images/%E5%A4%84%E5%A5%B3%E5%BA%A7%E6%98%9F%E5%BA%A7%E8%82%96%E5%83%8F%E4%B8%8E%E9%87%91%E8%89%B2%E5%AE%87%E5%AE%99%E8%83%BD%E9%87%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据附图中的模特生成一张逼真的插画，保留她的面部特征和表情。保留原图背景中的人物头部，并将 {argument name="zodiac sign" default="Virgo"} 符号置于顶部。整个场景弥漫着 {argument name="energy color" default="golden"} 能量的光芒、发光的神圣几何粒子以及宇宙 {argument name="nebula type" default="golden nebulae"}。配色方案：纯金、霓虹琥珀色和深黑色。具有金属质感的高分辨率视觉效果。
+
+[English]
+A realistic illustration of the model in the attached image, preserving her face and expression. Retain the head from the background of the original image, with the {argument name="zodiac sign" default="Virgo"} symbol positioned at the top. The entire setting is suffused with a glow of {argument name="energy color" default="golden"} energy, luminous sacred geometry particles, and cosmic {argument name="nebula type" default="golden nebulae"}. Color palette: pure gold, neon amber, and deep black. High-resolution visual quality with a metallic finish.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2111070651058409940) | 2026-10-16
+
+---
+
+### 🏷️ 例 8254：两位手持鲜花的女性复古照片
+
+![两位手持鲜花的女性复古照片](../images/%E4%B8%A4%E4%BD%8D%E6%89%8B%E6%8C%81%E9%B2%9C%E8%8A%B1%E7%9A%84%E5%A5%B3%E6%80%A7%E5%A4%8D%E5%8F%A4%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，展示两位年轻的东亚女性并肩站立在传统日本店铺前。左侧女性深色头发梳成两个编发发髻，身穿带有白色小花图案和荷叶边领口的深蓝色连衣裙，手持一束蓝色花朵。右侧女性留着短而凌乱的黑色头发，穿着酒红色毛衣搭配白色翻领衬衫，手持一束粉色波斯菊花束。两人均呈现自然肌肤质感，可见雀斑和轻微痤疮，以中性表情直视镜头。背景为木质货架，摆放着各种瓶子和盒子，包括写有“清酒”和“白鹤”等日文字符的招牌。图像采用暖色调且褪色的色彩方案，具有老式胶片摄影的典型特征，光线柔和并带有轻微的颗粒感。
+
+[English]
+A vintage-style photograph of two young East Asian women standing close together in front of a traditional Japanese shop. The woman on the left has dark hair styled in two braided buns and wears a navy blue dress with a small white floral pattern and ruffled collar, holding a bouquet of blue flowers. The woman on the right has short, choppy black hair and wears a maroon sweater over a white collared shirt, holding a bouquet of pink cosmos flowers. Both have natural skin textures with visible freckles and slight acne, looking directly at the camera with neutral expressions. The background features wooden shelves stocked with various bottles and boxes, including signage with Japanese characters like '清酒' (sake) and '白鶴'. The image has a warm, faded color palette typical of old film photography, with soft lighting and a slightly grainy texture.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2111031879529013506) | 2026-10-16
+
+---
+

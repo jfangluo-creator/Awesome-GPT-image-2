@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (617)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (619)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1227,6 +1227,10 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8237: 从写实灯塔到像素艺术](cat-ui.md#️-例-8237从写实灯塔到像素艺术)
 
 - [Case 8242: 废墟教堂中的兜帽旅人](cat-ui.md#️-例-8242废墟教堂中的兜帽旅人)
+
+- [Case 8251: 安静与废弃火车站对比](cat-ui.md#️-例-8251安静与废弃火车站对比)
+
+- [Case 8255: 昭和复古风体操服少女](cat-ui.md#️-例-8255昭和复古风体操服少女)
 ---
 
 <a id="chart"></a>
@@ -1471,7 +1475,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1093)
+## 🎴 [Posters & Cards](cat-poster.md) (1094)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3621,11 +3625,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8247: 极简主义楼梯早安海报](cat-poster.md#-例-8247极简主义楼梯早安海报)
 
 - [Case 8249: GPT-2 运动鞋广告海报提示词](cat-poster.md#-例-8249gpt-2-运动鞋广告海报提示词)
+
+- [Case 8258: 高端编辑风格海报：下半部分剪纸拼贴设计](cat-poster.md#-例-8258高端编辑风格海报下半部分剪纸拼贴设计)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3063)
+## 📷 [Photography & Realistic](cat-photo.md) (3064)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9685,11 +9691,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8243: 昭和复古风浴衣少女](cat-photo.md#-例-8243昭和复古风浴衣少女)
 
 - [Case 8246: 第二世界编辑摄影海报](cat-photo.md#-例-8246第二世界编辑摄影海报)
+
+- [Case 8257: GPT Image 2 酒类海报设计提示词](cat-photo.md#-例-8257gpt-image-2-酒类海报设计提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1063)
+## 🎨 [Illustration & Art](cat-illustration.md) (1065)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11801,6 +11809,10 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8245: 紫色衬衫黑色短裤穿搭提示词](cat-illustration.md#-例-8245紫色衬衫黑色短裤穿搭提示词)
 
 - [Case 8248: 浴火重生的战斗修女](cat-illustration.md#-例-8248浴火重生的战斗修女)
+
+- [Case 8256: ChatGPT Image 2 秋季穿搭提示词](cat-illustration.md#-例-8256chatgpt-image-2-秋季穿搭提示词)
+
+- [Case 8260: 废弃游乐场的狼人](cat-illustration.md#-例-8260废弃游乐场的狼人)
 ---
 
 <a id="character"></a>
@@ -13061,7 +13073,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (256)
+## 🏛️ [Architecture & Space](cat-architecture.md) (257)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13565,6 +13577,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8202: 疯狂的乌鸦戳破黄色气球](cat-architecture.md#️-例-8202疯狂的乌鸦戳破黄色气球)
 
 - [Case 8208: Q 版女孩做松饼](cat-architecture.md#️-例-8208q-版女孩做松饼)
+
+- [Case 8259: 万圣节糖果口袋连衣裙提示词](cat-architecture.md#️-例-8259万圣节糖果口袋连衣裙提示词)
 ---
 
 <a id="comic"></a>
@@ -14131,7 +14145,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (903)
+## 🏷️ [Brand & Packaging](cat-brand.md) (907)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15932,6 +15946,14 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8221: 电视导播动漫少女](cat-brand.md#️-例-8221电视导播动漫少女)
 
 - [Case 8239: 手工纸拼贴晨间咖啡插画](cat-brand.md#️-例-8239手工纸拼贴晨间咖啡插画)
+
+- [Case 8250: 疯帽子茶话会上的老鼠魔术师](cat-brand.md#️-例-8250疯帽子茶话会上的老鼠魔术师)
+
+- [Case 8252: GPT-Image-2 甜点海报提示词](cat-brand.md#️-例-8252gpt-image-2-甜点海报提示词)
+
+- [Case 8253: 处女座星座肖像与金色宇宙能量](cat-brand.md#️-例-8253处女座星座肖像与金色宇宙能量)
+
+- [Case 8254: 两位手持鲜花的女性复古照片](cat-brand.md#️-例-8254两位手持鲜花的女性复古照片)
 ---
 
 <a id="edit"></a>

@@ -22235,3 +22235,39 @@ Her blessed chainsword lies shattered, she is bleeding, surrounded and outnumber
 
 ---
 
+### 🎨 例 8256：ChatGPT Image 2 秋季穿搭提示词
+
+![ChatGPT Image 2 秋季穿搭提示词](../images/ChatGPT%20Image%202%20%E7%A7%8B%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱, 格纹衬衫, 格纹短裤, 皮夹克, 混合材质秋季造型, 酷飒又可爱, 时尚姿势, 杰作, 最佳质量
+
+[English]
+cute, gingham blouse, gingham short pants, leather jacket, mixed material autumn styling, cool and cute, stylish pose, masterpiece, best quality
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2110990374768680975) | 2026-10-16
+
+---
+
+### 🎨 例 8260：废弃游乐场的狼人
+
+![废弃游乐场的狼人](../images/%E5%BA%9F%E5%BC%83%E6%B8%B8%E4%B9%90%E5%9C%BA%E7%9A%84%E7%8B%BC%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个超写实的电影级恐怖场景：一只巨大的狼人蹲伏在一座荒废游乐场里生锈旋转木马的残骸上。这只生物浑身覆盖着纠结的黑色毛发和破烂不堪的衣物，橙色的眼睛闪烁着光芒，龇牙咧嘴地发出凶猛的咆哮。它的爪子紧紧抓住金属栏杆。左侧，一套锈迹斑斑的秋千架空荡荡地悬挂着；右侧，一块风化严重的木牌上写着“PLAYGROUND RULES: HAVE FUN BE SAFE SHARE SMILE”。背景中，一座破旧的凉亭矗立在光秃秃的树木之间，暴风雨般的夜空被满月和锯齿状的闪电照亮。大雨倾盆而下，在地面上形成湿滑的反光，增强了不祥的氛围。
+
+[English]
+A hyper-realistic, cinematic horror scene featuring a massive werewolf crouching atop the rusted remains of an abandoned merry-go-round in a desolate playground. The creature is covered in matted dark fur and tattered rags, with glowing orange eyes and sharp teeth bared in a ferocious snarl. Its claws grip the metal bars tightly. To the left, a rusty swing set hangs empty; to the right, a weathered wooden sign reads "PLAYGROUND RULES: HAVE FUN BE SAFE SHARE SMILE". In the background, a dilapidated gazebo stands among bare trees under a stormy night sky illuminated by a full moon and jagged lightning bolts. Heavy rain falls throughout the scene, creating wet reflections on the ground and enhancing the ominous atmosphere.
+```
+
+**来源：** [@Unleashed](https://x.com/UnleashedAI99/status/2110885992920195305) | 2026-10-16
+
+---
+
