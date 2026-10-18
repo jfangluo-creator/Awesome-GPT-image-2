@@ -74498,3 +74498,65 @@ FINAL RULE: The lower half must feel like a real, three-dimensional piece of the
 
 ---
 
+### 📷 例 8269：水手服少女复古胶片人像
+
+![水手服少女复古胶片人像](../images/%E6%B0%B4%E6%89%8B%E6%9C%8D%E5%B0%91%E5%A5%B3%E5%A4%8D%E5%8F%A4%E8%83%B6%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张竖构图的全身中景照片，画面中一位年轻的亚洲女性坐在布满鹅卵石的岩石海滩上，神情平静且略带忧郁地直视镜头。她留着深色头发，扎成低马尾，额前的碎发自然垂落，修饰着脸型。她身穿传统的日本水手服校服（seifuku），包括一件白色短袖衬衫，搭配带有白色条纹的海军蓝领子和红色领巾，下身穿着深海军蓝百褶裙。脚上穿着白色短袜和棕色皮革乐福鞋。她的姿势放松，双腿向前伸展并微微弯曲，双手自然地放在大腿附近。背景是明亮的蓝色大海，轻柔的波浪拍打着岸边，散落着岩石，天空晴朗，点缀着淡淡的云彩。整张图片具有强烈的复古胶片美学风格，特点是暖色调、明显的颗粒感、柔和的焦点，以及边缘处类似老式即时成像摄影的光漏或色彩偏移效果。
+
+[English]
+A vertical medium-full shot of a young Asian woman sitting on a rocky pebble beach, looking directly at the camera with a calm, slightly melancholic expression. She has dark hair tied back in a low ponytail with loose bangs framing her face. She is wearing a traditional Japanese sailor school uniform (seifuku) consisting of a white short-sleeved blouse with a navy blue collar featuring white stripes and a red neckerchief, paired with a dark navy pleated skirt. On her feet, she wears white ankle socks and brown leather loafers. Her pose is relaxed, sitting with her legs extended forward and slightly bent, hands resting near her lap. The background features a bright blue sea with gentle waves crashing against the shore, scattered rocks, and a clear sky with faint clouds. The image has a strong retro film aesthetic, characterized by warm tones, visible grain, soft focus, and light leaks or color shifts along the edges typical of vintage instant film photography.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2111331578936959124) | 2026-10-17
+
+---
+
+### 📷 例 8271：GPT-Image-2 野生动物摄影提示词
+
+![GPT-Image-2 野生动物摄影提示词](../images/GPT-Image-2%20%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+野生动物动态摄影 × 决定性瞬间 × 极简环境叙事。
+
+这类图最关键的是把【互动道具】放在动作路径上，让手、道具、动物三者形成一条清楚的动作连线，再用高速快门冻结“马上碰到”的瞬间，画面会比单纯摆拍更有生命力。
+
+模型：gpt-image2
+
+提示词：
+
+【主体】与【动物】的动态互动摄影，人物不完整出镜，仅以局部手部、前臂或身体边缘进入画面，与【动物】通过【互动道具】建立直接接触。
+
+动物处于动作发生中的一瞬间：扑向、探向、衔住、抓住、轻触或靠近道具，形成强烈的决定性瞬间。
+
+构图强调动作连线、主体突出、背景极简、环境真实，自然日光，高速快门冻结动作，具有真实抓拍感、生活感与叙事感。背景采用大面积简洁自然环境色场，突出主体与互动关系。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2111320035914665986) | 2026-10-17
+
+---
+
+### 📷 例 8272：复古海滩人像
+
+![复古海滩人像](../images/%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%BB%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，画面中是一位年轻女性站在海滩上，采用胶片拍摄，带有明显的颗粒感和漏光效果。她回头望向镜头，脸上洋溢着灿烂而真诚的笑容。她戴着一顶宽大的编织草帽，帽檐有深棕色饰边，身穿白色孔眼蕾丝上衣。她的头发梳成两条低垂的辫子或双马尾。光线温暖明媚，阳光透过帽子在她的脸上投下斑驳的光影。背景中可以看到模糊的人影在海里游泳，以及一片绿色的山坡。
+
+[English]
+A vintage-style photograph of a young woman at the beach, shot on film with visible grain and light leaks. She is looking back over her shoulder with a bright, genuine smile. She wears a large woven straw sun hat with a dark brown trim and a white eyelet lace top. Her hair is styled in two low braids or pigtails. The lighting is warm and sunny, casting dappled shadows from the hat onto her face. In the background, there are blurred figures swimming in the ocean and a green hillside.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2111298845120573527) | 2026-10-17
+
+---
+

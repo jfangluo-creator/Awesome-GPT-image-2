@@ -6088,3 +6088,65 @@ Important: Do not alter the main subject’s identity, proportions, objects, or 
 
 ---
 
+### 🔧 例 8270：手绘 2D 卡通插画
+
+![手绘 2D 卡通插画](../images/%E6%89%8B%E7%BB%98%202D%20%E5%8D%A1%E9%80%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将整张上传的照片转换为干净、色彩丰富且风格统一的手绘 2D 卡通插画。请保留原始构图、拍摄角度、姿势、面部表情、可识别的人物身份、发型、服装、配饰以及所有重要的背景元素。
+
+插画风格：
+• 使用清晰的黑色轮廓线，线条粗细略有变化，呈现手绘质感。
+• 采用扁平化的柔和色调，仅保留极少量的赛璐珞式阴影。
+• 角色设计简化，比例可爱，表情生动，姿态自然。
+• 线条流畅但略带不完美的手工感，营造真实的插画氛围。
+• 将写实质感简化为干净的形状，同时保留可辨识的细节。
+• 以相同的卡通风格重现原始环境，包括建筑物、树木、喷泉、小径及其他物体。
+• 使用柔和的粉彩调色板，包含淡蓝色天空、低饱和度的绿色、温暖的肤色和柔和的粉色。
+• 在保持原场景氛围的同时，添加细微的艺术细节。
+
+保留原始内容：
+保持相同的人数、位置、身体比例、服装颜色、互动关系及相对大小。维持原始背景的布局和透视效果。不要添加、移除或重新定位重要物体。
+
+输出要求：
+生成一张精致的全画幅 2D 插画，具有统一的轮廓、扁平的色彩以及俏皮的故事书美学风格。整张图片必须完全插画化，不得包含任何写实摄影元素。
+
+避免事项：3D 渲染、写实主义、过度阴影、水彩纹理、模糊线条、面部扭曲、多余的手指或肢体、改变服装、调整姿势、缺失背景细节以及不需要的文字或水印。
+
+宽高比：严格匹配上传照片的比例。
+
+专业建议：每次上传一张照片，并使用此相同的提示词，将不同的照片转换为风格一致的卡通图像。
+
+[English]
+Convert the entire uploaded photograph into a clean, colorful, hand-drawn 2D cartoon illustration. Preserve the original composition, camera angle, poses, facial expressions, recognizable identities, hairstyles, clothing, accessories, and all important background elements.
+
+ILLUSTRATION STYLE:
+•Clean black outlines with slightly varied, hand-drawn line weight.
+•Flat pastel colors with minimal cel shading.
+•Simplified characters with cute proportions, expressive faces, and natural poses.
+•Smooth, slightly imperfect lines for an authentic illustrated feel.
+•Simplify realistic textures into clean shapes while retaining recognizable details.
+•Recreate the original environment, including buildings, trees, fountains, pathways, and other objects, in the same cartoon style.
+•Use a soft pastel palette with light blue skies, muted greens, warm skin tones, and gentle pinks.
+•Add subtle artistic details while maintaining the original scene’s atmosphere.
+
+PRESERVE THE ORIGINAL:
+Keep the same number of people, their positions, body proportions, clothing colors, interactions, and relative sizes. Maintain the original background layout and perspective. Do not add, remove, or reposition important objects.
+
+OUTPUT REQUIREMENTS:
+A polished, full-frame 2D illustration with consistent outlines, flat colors, and a playful, storybook aesthetic. The entire image must be illustrated, with zero photorealistic elements.
+
+AVOID: 3D rendering, photorealism, excessive shading, watercolor textures, blurry lines, distorted faces, extra fingers or limbs, changed outfits, altered poses, missing background details, and unwanted text or watermarks.
+
+Aspect ratio: Match the uploaded photo exactly.
+
+Pro tip: Upload one photo at a time and use this same prompt to transform different photos into a consistent cartoon style.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2111325304493162560) | 2026-10-17
+
+---
+

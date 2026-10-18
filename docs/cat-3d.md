@@ -9695,3 +9695,21 @@ Create a creative minimalist 3D scrapbook composition featuring a realistic phot
 
 ---
 
+### 🧸 例 8268：极简主义山地景观系列
+
+![极简主义山地景观系列](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%B1%B1%E5%9C%B0%E6%99%AF%E8%A7%82%E7%B3%BB%E5%88%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一组令人惊叹的极简主义风景艺术系列，灵感源自雄伟的雪山、宁静的倒影以及大自然的平和之美。第一幅构图展现了柔和粉紫天空下高耸的雪峰、平静的反射湖面和深绿色的常青森林，采用电影摄影风格捕捉。第二幅构图将山地景观转化为抽象的 3D 地形线框雕塑，运用错综复杂的流动等高线、单色黑白色调、戏剧性的雾气，以及一个强调尺度与孤独感的微小人类剪影。结合照片级真实感与概念数字艺术、优雅的编辑式排版、微妙的水平线条图案、干净的几何布局、氛围照明、精细细节以及精致的当代美术馆美学。竖版海报格式，超高分辨率，构图震撼人心。
+
+[English]
+Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene reflections, and the peaceful beauty of nature. The first composition features towering snowy peaks beneath a soft pastel pink and lavender sky, a calm reflective lake, and dark evergreen forests, captured in cinematic photography. The second composition transforms the mountain landscape into an abstract 3D topographic wireframe sculpture, using intricate flowing contour lines, monochrome black-and-white tones, dramatic fog, and a tiny human silhouette emphasizing scale and solitude. Combine photorealism with conceptual digital art, elegant editorial typography, subtle horizontal line patterns, clean geometric layouts, atmospheric lighting, fine details, and a sophisticated contemporary art-gallery aesthetic. Vertical poster format, ultra-high resolution, breathtaking composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2111380726847557775) | 2026-10-17
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (619)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (620)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1231,6 +1231,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8251: 安静与废弃火车站对比](cat-ui.md#️-例-8251安静与废弃火车站对比)
 
 - [Case 8255: 昭和复古风体操服少女](cat-ui.md#️-例-8255昭和复古风体操服少女)
+
+- [Case 8261: 战锤 40K 星际战士站立姿态](cat-ui.md#️-例-8261战锤-40k-星际战士站立姿态)
 ---
 
 <a id="chart"></a>
@@ -1475,7 +1477,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1094)
+## 🎴 [Posters & Cards](cat-poster.md) (1100)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3627,11 +3629,23 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8249: GPT-2 运动鞋广告海报提示词](cat-poster.md#-例-8249gpt-2-运动鞋广告海报提示词)
 
 - [Case 8258: 高端编辑风格海报：下半部分剪纸拼贴设计](cat-poster.md#-例-8258高端编辑风格海报下半部分剪纸拼贴设计)
+
+- [Case 8262: GPT Image 2 陶瓷海报提示词：窑火年轮](cat-poster.md#-例-8262gpt-image-2-陶瓷海报提示词窑火年轮)
+
+- [Case 8263: GPT Image 2 自行车头盔海报提示词：气流剖面](cat-poster.md#-例-8263gpt-image-2-自行车头盔海报提示词气流剖面)
+
+- [Case 8264: GPT Image 2 钢笔海报提示词：墨迹折痕路径](cat-poster.md#-例-8264gpt-image-2-钢笔海报提示词墨迹折痕路径)
+
+- [Case 8265: GPT Image 2 黑胶唱机海报提示词：Groove City](cat-poster.md#-例-8265gpt-image-2-黑胶唱机海报提示词groove-city)
+
+- [Case 8266: GPT Image 2 宠物食品海报提示词：碗影角色](cat-poster.md#-例-8266gpt-image-2-宠物食品海报提示词碗影角色)
+
+- [Case 8267: GPT Image 2 露营帐篷海报提示词：夜间坐标](cat-poster.md#-例-8267gpt-image-2-露营帐篷海报提示词夜间坐标)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3064)
+## 📷 [Photography & Realistic](cat-photo.md) (3067)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9693,6 +9707,12 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8246: 第二世界编辑摄影海报](cat-photo.md#-例-8246第二世界编辑摄影海报)
 
 - [Case 8257: GPT Image 2 酒类海报设计提示词](cat-photo.md#-例-8257gpt-image-2-酒类海报设计提示词)
+
+- [Case 8269: 水手服少女复古胶片人像](cat-photo.md#-例-8269水手服少女复古胶片人像)
+
+- [Case 8271: GPT-Image-2 野生动物摄影提示词](cat-photo.md#-例-8271gpt-image-2-野生动物摄影提示词)
+
+- [Case 8272: 复古海滩人像](cat-photo.md#-例-8272复古海滩人像)
 ---
 
 <a id="illustration"></a>
@@ -12317,7 +12337,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (382)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (383)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13069,6 +13089,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8236: 人物在沙发上睡觉的俯拍镜头](cat-3d.md#-例-8236人物在沙发上睡觉的俯拍镜头)
 
 - [Case 8244: 带有悬浮纸片剪影的 3D 剪贴簿构图](cat-3d.md#-例-8244带有悬浮纸片剪影的-3d-剪贴簿构图)
+
+- [Case 8268: 极简主义山地景观系列](cat-3d.md#-例-8268极简主义山地景观系列)
 ---
 
 <a id="architecture"></a>
@@ -15958,7 +15980,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (188)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (189)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16333,6 +16355,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8184: 混合卡通照片活动横幅](cat-edit.md#-例-8184混合卡通照片活动横幅)
 
 - [Case 8210: 万圣节糕点修复少女提示词](cat-edit.md#-例-8210万圣节糕点修复少女提示词)
+
+- [Case 8270: 手绘 2D 卡通插画](cat-edit.md#-例-8270手绘-2d-卡通插画)
 ---
 
 <a id="fun"></a>

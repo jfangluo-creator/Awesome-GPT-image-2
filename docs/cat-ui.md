@@ -17367,3 +17367,21 @@ A nostalgic, film-grain photograph of a young Japanese girl sitting on the polis
 
 ---
 
+### 🖥️ 例 8261：战锤 40K 星际战士站立姿态
+
+![战锤 40K 星际战士站立姿态](../images/%E6%88%98%E9%94%A4%2040K%20%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB%E7%AB%99%E7%AB%8B%E5%A7%BF%E6%80%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一名极限战士原铸星际战士，在帝国蜂巢世界阿瓦拉克斯的哥特式废墟城墙上，拼死抵抗泰伦虫族的猛烈攻势。
+
+[English]
+An Ultramarines Primaris Space Marine, makes a desperate stand on the ruined gothic ramparts of the Imperial hive world Avarax against a Tyranid onslaught.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2111510772895674477) | 2026-10-17
+
+---
+
