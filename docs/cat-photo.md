@@ -74560,3 +74560,192 @@ A vintage-style photograph of a young woman at the beach, shot on film with visi
 
 ---
 
+### 📷 例 8277：东京机器人展上的巨型警用机器人
+
+![东京机器人展上的巨型警用机器人](../images/%E4%B8%9C%E4%BA%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E4%B8%8A%E7%9A%84%E5%B7%A8%E5%9E%8B%E8%AD%A6%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的高分辨率图片，描绘了东京一个热闹的户外科技博览会场景。画面主体是三个巨大的类人机器人，矗立在铺砌的广场上。中间的机器人最大，拥有复杂的黑白装甲外骨骼，肩部闪烁着红色警示灯，头部配备多镜头传感器阵列。其胸甲上印有白色文字“警视厅 MPD”（东京都警察本部）。左侧是一个类似但稍小的蓝白相间机器人，右侧则是一个红黑配色的机器人。前景中，几名身穿深色制服、背部印有“警视厅 MPD”字样的警察正在人群中穿行，周围有许多市民正用手机拍照。底部边缘附近散布着一些小型四足机器人和服务型机器人。金属脚手架结构上悬挂着写有“ROBOT EXPO TOKYO”的蓝色横幅。背景是晴朗的蓝天、一片水域以及现代摩天大楼的天际线。
+
+[English]
+A photorealistic, high-resolution image of a bustling outdoor technology expo in Tokyo. The scene is dominated by three massive humanoid robots standing on a paved plaza. The central robot is the largest, featuring a complex black and white armored exoskeleton with red flashing lights on its shoulders and a multi-lens sensor array for a head. It has "警視庁 MPD" (Metropolitan Police Department) written in white text on its chest plates. To its left stands a similar but slightly smaller blue and white robot, and to its right is a red and black robot. In the foreground, several police officers wearing dark uniforms with "警視庁 MPD" on their backs are walking among crowds of civilians taking photos with smartphones. Smaller quadruped robots and service bots are scattered near the bottom edge. Blue banners reading "ROBOT EXPO TOKYO" hang from metal scaffolding structures. The background features a bright blue sky, a body of water, and the skyline of modern skyscrapers.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2111803112700989809) | 2026-10-18
+
+---
+
+### 📷 例 8280：真人与巨型 Q 版涂鸦壁画合影
+
+![真人与巨型 Q 版涂鸦壁画合影](../images/%E7%9C%9F%E4%BA%BA%E4%B8%8E%E5%B7%A8%E5%9E%8B%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6%E5%A3%81%E7%94%BB%E5%90%88%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实摄影 + 巨型可爱 Q 版涂鸦壁画错觉
+创建一张 3:4 纵横比的超写实垂直照片，将真实摄影与巨大、可爱的 Q 版涂鸦壁画错觉相结合。使用上传的参考照片作为主要身份参考。保留真实人物的确切面部特征，包括脸型、眼睛、鼻子、嘴唇、肤色、面部比例和独特特征。不要改变、替换或重新设计她的脸。
+
+1. 主体 — 真实女性
+
+在色彩斑斓的涂鸦墙右侧，展示一位成年亚洲女性自然地摆姿势拍照。她穿着纯白色 T 恤、宽松的浅蓝色牛仔裤、白色运动鞋，背着黑色单肩包，戴着手表。
+
+她双腿自然交叉站立。一只手轻触下巴，另一只手伸向卡通壁画，仿佛在与它互动。她带着甜美友好的微笑，直视镜头。
+
+保持她原本的面部特征、真实的皮肤质感、自然的身体比例和真实的外观。
+
+2. 巨型 Q 版卡通壁画
+
+在女性的左侧，创建一个巨大、可爱的 Q 版插画，代表同一个人的卡通版本。
+
+卡通角色特征：
+
+超大头部和大而闪亮的眼睛。
+
+红润的脸颊和深棕色长发。
+
+白色 T 恤、宽松浅蓝色牛仔裤和白色运动鞋。
+
+头顶架着太阳镜。
+
+黑色单肩包。
+
+粗黑轮廓线、干净的卡通细节和精美的手绘阴影。
+
+卡通角色用一只手比出迷你爱心手势，同时伸出另一只手朝向真实女性，形成另一个小爱心手势。仔细定位她们的手，以营造真实女性与其卡通对应物正在俏皮互动和合影的错觉。
+
+3. 多彩涂鸦背景
+
+使用覆盖着充满活力的街头艺术的旧混凝土墙，包含粉色、蓝色、绿松石色、黄色、橙色、绿色和紫色。
+
+包括装饰元素，如：
+
+彩虹和彩色爱心。
+
+星星、花朵和笑脸。
+
+一只可爱的猫插画。
+
+油漆飞溅、艺术涂鸦和纹理化的涂鸦细节。
+
+带有粗黑轮廓线的醒目英文街头艺术字体。
+
+包含以下短语：
+
+“GOOD VIBES”
+
+“SAME ENERGY”
+
+“YOU GOT THIS”
+
+“BETTER TOGETHER”
+
+使字体色彩丰富、俏皮且充满活力，同时保留混凝土墙的真实质感。
+
+4. 灯光与摄影质量
+
+超写实摄影，专业单反相机画质，自然日光，柔和阴影，真实皮肤质感，逼真织物细节，准确身体比例，详细牛仔布纹理，清晰对焦，鲜艳色彩，高分辨率，真实混凝土质感，以及专业街头摄影。
+
+创造一个俏皮的视觉故事，展现真实女性与巨型卡通壁画之间的无缝互动。
+
+5. 构图
+
+[English]
+Ultra-Realistic Photography + Giant Cute Chibi Graffiti Mural Illusion
+Create an ultra-realistic vertical photograph in a 3:4 aspect ratio, combining realistic photography with the illusion of a giant, adorable chibi graffiti mural. Use the uploaded reference photo as the primary identity reference. Preserve the real person's exact facial identity, including face shape, eyes, nose, lips, skin tone, facial proportions, and unique features. Do not alter, replace, or redesign her face.
+
+1. Main Subject — Real Woman
+
+On the right side of the colorful graffiti wall, show an adult Asian woman posing naturally for a photograph. She wears a plain white T-shirt, loose light-blue jeans, white sneakers, a black shoulder bag, and a wristwatch.
+
+She stands with her legs crossed naturally. One hand gently touches her chin, while the other reaches toward the cartoon mural as if interacting with it. She has a sweet, friendly smile and looks directly at the camera.
+
+Maintain her original facial identity, realistic skin texture, natural body proportions, and authentic appearance.
+
+2. Giant Chibi Cartoon Mural
+
+On the left side of the woman, create a giant, adorable chibi illustration representing a cute cartoon version of the same person.
+
+The cartoon character features:
+
+An oversized head and large, sparkling eyes.
+
+Rosy cheeks and long, dark-brown hair.
+
+A white T-shirt, loose light-blue jeans, and white sneakers.
+
+Sunglasses resting on top of her head.
+
+A black shoulder bag.
+
+Bold black outlines, clean cartoon details, and beautiful hand-drawn shading.
+
+The cartoon character makes a mini-heart gesture with one hand while extending the other hand toward the real woman to create another small heart gesture. Position their hands carefully to create the illusion that the real woman and her cartoon counterpart are interacting and posing together playfully.
+
+3. Colorful Graffiti Background
+
+Use an aged concrete wall covered in vibrant street art featuring pink, blue, turquoise, yellow, orange, green, and purple colors.
+
+Include decorative elements such as:
+
+Rainbows and colorful hearts.
+
+Stars, flowers, and smiling faces.
+
+A cute cat illustration.
+
+Paint splashes, artistic doodles, and textured graffiti details.
+
+Bold English street-art lettering with thick black outlines.
+
+Include the phrases:
+
+“GOOD VIBES”
+
+“SAME ENERGY”
+
+“YOU GOT THIS”
+
+“BETTER TOGETHER”
+
+Make the lettering colorful, playful, and energetic while preserving the authentic texture of the concrete wall.
+
+4. Lighting and Photography Quality
+
+Ultra-photorealistic photography, professional DSLR camera quality, natural daylight, soft shadows, realistic skin texture, authentic fabric details, accurate body proportions, detailed denim texture, crisp focus, vibrant colors, high resolution, realistic concrete texture, and professional street photography.
+
+Create a playful visual story with seamless interaction between the real woman and the giant cartoon mural.
+
+5. Composition
+```
+
+**来源：** [@Aiza](https://x.com/AizaAi12/status/2111778982458974641) | 2026-10-18
+
+---
+
+### 📷 例 8287：万圣节糖果玉米裙女孩
+
+![万圣节糖果玉米裙女孩](../images/%E4%B8%87%E5%9C%A3%E8%8A%82%E7%B3%96%E6%9E%9C%E7%8E%89%E7%B1%B3%E8%A3%99%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+ハロウィンのキャンディコーンカラードレスを着た女の子。
+
+衣装はオフショルミニドレス。上から白、蜂蜜色、薄い橙の3色が水平に分かれている。
+境界線ははっきりしていて、キャンディコーンの色順。
+ウエストに細い白リボン。
+肩に短い生成りのケープ、ケープの裏地が同じ3色。
+頭は帽子なし。耳に小さな三角のイヤリング。
+
+色は白、蜂蜜色、薄い橙、夜の藍。ビビッドオレンジは使わない。
+全身、色の境目が見えるように立っている。楽しそうな笑顔。
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2111654752799035799) | 2026-10-18
+
+---
+

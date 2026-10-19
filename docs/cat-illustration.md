@@ -22271,3 +22271,37 @@ A hyper-realistic, cinematic horror scene featuring a massive werewolf crouching
 
 ---
 
+### 🎨 例 8284：GPT Image 2 街头风格纹穿搭提示词
+
+![GPT Image 2 街头风格纹穿搭提示词](../images/GPT%20Image%202%20%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E7%BA%B9%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+
+一件超大号黑红格纹法兰绒衬衫，部分解开扣子，内搭简约黑色吊带裙。
+
+搭配叠戴项链和可选的马丁靴。
+
+酷感休闲、前卫的街头美学。
+黑、红配色方案。
+无多余装饰。
+
+[English]
+OUTFIT:
+
+An oversized black and red tartan check flannel shirt, worn partially unbuttoned over a simple black slip dress.
+
+Styled with layered necklaces and optional combat boots.
+
+Cool-casual, edgy streetwear aesthetic.
+Black, red, and black color scheme.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2111715150533431680) | 2026-10-18
+
+---
+

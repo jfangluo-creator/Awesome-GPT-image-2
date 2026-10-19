@@ -22363,3 +22363,69 @@ A vintage-style photograph of two young East Asian women standing close together
 
 ---
 
+### 🏷️ 例 8273：诡异人群俳句艺术
+
+![诡异人群俳句艺术](../images/%E8%AF%A1%E5%BC%82%E4%BA%BA%E7%BE%A4%E4%BF%B3%E5%8F%A5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+诡异的人群
+聚集围观魔术师
+召唤亡者
+将生者幻化
+遁入虚无
+
+[English]
+a ghoulish crowd
+gathers to see the magician
+conjure the dead
+metamorphosize the living
+and vanish into the void
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2111885098715107672) | 2026-10-18
+
+---
+
+### 🏷️ 例 8275：耳机产品海报提示词
+
+![耳机产品海报提示词](../images/%E8%80%B3%E6%9C%BA%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+输出一张独立的{argument name="aspect_ratio" default="4:5"}竖版商业海报，不拼图，不生成多宫格。使用原创虚构品牌，不仿制现有品牌包装、Logo或广告。文字只使用提示中明确列出的品牌名、主标题与品类，不补造价格、获奖信息、参数、日期、产地或口号。画面达到可供创意方向审核的完成度，主体结构真实、材质可信、排版清晰，无水印。
+
+主题：头戴耳机审核样张。原创品牌“{argument name="brand_name" default="SONA"}”，产品“{argument name="product_model" default="ARC H1"}”，主标题“{argument name="main_title" default="LISTEN"}”。
+
+在乳白摄影棚中放置一副石墨黑头戴式耳机，耳罩朝向镜头、头梁略微后倾，真实软垫与金属转轴清晰。一个宽度由窄到宽的哑光钴蓝色实体声带从左下进入，依次穿过左耳罩、头梁后的空间和右侧背景，形成一次低缓起伏；它不是发光音波，也不是装饰曲线，而是具有厚度、边缘和投影的柔性材料。
+
+组型核心：“产品悬挂于实体声带—标题形成声音舱”。巨大窄体字“{argument name="main_title" default="LISTEN"}”在画面后方排成纵深的六个字框，耳机和声带在字框前后交替穿行，产生清晰遮挡和空间层次。品牌“{argument name="brand_name" default="SONA"}”在顶部，底部只写“{argument name="product_model" default="ARC H1"} / HEADPHONES”。黑、暖白、钴蓝三色，直射柔光，静物广告质感。
+
+不要人物、舞台灯、音乐节、均衡器UI、频谱图、红色偶像封面、霓虹、额外耳机或无意义标签。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2111821099155525877) | 2026-10-18
+
+---
+
+### 🏷️ 例 8279：昭和复古巴士小憩人像
+
+![昭和复古巴士小憩人像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E5%B7%B4%E5%A3%AB%E5%B0%8F%E6%86%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅竖构图人像，描绘了一位年轻的东亚女性在复古巴士上熟睡的场景，整体呈现出怀旧的昭和时代复古美学风格。她留着深棕色头发，扎成低马尾，几缕发丝自然垂落在脸庞两侧，鼻梁和脸颊上可见淡淡的雀斑。她双眼紧闭，神态安详，头轻轻倚靠在金属窗框上。她身穿一件质感丰富的奶油色针织开衫，内搭同色系上衣，下身穿着红蓝相间的柔和色调格纹裙。一个棕色皮革手提包放在她的腿上。背景略微虚化，隐约可见身后其他乘客的身影，透过车窗可以看到带有日文招牌的街景和一辆老式汽车。光线温暖自然，营造出带有柔和颗粒感的胶片摄影氛围。
+
+[English]
+A vertical portrait of a young East Asian woman sleeping on a vintage bus, styled with a nostalgic Showa-era retro aesthetic. She has dark brown hair tied back in a low ponytail with loose strands framing her face, and visible freckles across her nose and cheeks. Her eyes are closed peacefully as she leans her head against the metal window frame. She wears a textured cream-colored knit cardigan over a matching top and a plaid skirt in muted reds and blues. A brown leather handbag rests on her lap. The background is slightly out of focus, showing other passengers seated behind her and a glimpse of a street scene through the window with Japanese signage and an old car. The lighting is warm and natural, evoking a film photography look with soft grain.
+```
+
+**来源：** [@拓斗](https://x.com/Kmsbdd0GXBOcrXQ/status/2111780627863462041) | 2026-10-18
+
+---
+

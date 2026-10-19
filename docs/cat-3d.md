@@ -9713,3 +9713,21 @@ Create a stunning minimalist landscape art series inspired by majestic snow-cove
 
 ---
 
+### 🧸 例 8276：穿棕色百褶裙行走的学生
+
+![穿棕色百褶裙行走的学生](../images/%E7%A9%BF%E6%A3%95%E8%89%B2%E7%99%BE%E8%A4%B6%E8%A3%99%E8%A1%8C%E8%B5%B0%E7%9A%84%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张逼真的全身侧面照片，画面中一位年轻女性正从左向右快步穿过阳光普照的铺砌广场。她留着一头极长的直黑发，齐刘海垂至背部。她身穿一件合身的白色长袖上衣，下摆塞进高腰深棕色百褶中长裙中，裙摆随着她的步伐向后飘动。脚上穿着黑色皮革乐福鞋搭配白色短袜。肩上斜挎着一个奶油色帆布背包，拉链处挂着一个紫色小章鱼毛绒钥匙扣。手中拿着一部智能手机和一条细带子。背景略微虚化（散景效果），可见绿树和其他同向行走的学生，其中一人穿着类似的白色上衣和黑色裙子，背着黑色背包。光线明亮自然，在地面投下柔和阴影。
+
+[English]
+A photorealistic, full-body side-profile shot of a young woman walking briskly from left to right across a sunlit paved plaza. She has very long, straight black hair with blunt bangs that cascades down her back. Her outfit consists of a fitted white long-sleeved top tucked into a high-waisted, dark brown pleated midi skirt that flows behind her as she walks. She wears black leather loafers with white ankle socks. A cream-colored canvas backpack is slung over her shoulder, featuring a small purple octopus plush keychain hanging from the zipper. In her hands, she holds a smartphone and a thin strap. The background is slightly out of focus (bokeh), showing green trees and other students walking in the same direction, one wearing a similar white top and black skirt with a black backpack. The lighting is bright and natural, casting soft shadows on the ground.
+```
+
+**来源：** [@hair_hair55](https://x.com/Hair_Hair55/status/2111804498847166790) | 2026-10-18
+
+---
+

@@ -10525,3 +10525,21 @@ Visual Style: Clean digital illustration, vibrant colors for the first panel, mu
 
 ---
 
+### 🎬 例 8278：动漫少女投掷棒球
+
+![动漫少女投掷棒球](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%8A%95%E6%8E%B7%E6%A3%92%E7%90%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅竖版 Webtoon 风格的插画，描绘了一位正在投掷棒球的动漫女性角色。该角色拥有银色长发、猫耳和紫色眼睛。她戴着一顶印有标志的橙色棒球帽，身穿印有 'SynClub' 字样的白色球衣，搭配带橙色条纹的白色长裤，并戴着黑色手套。她的右手向前伸出，释放出一个发光的棒球，周围环绕着旋转的紫色能量和黑暗的狐灵。背景是座满观众体育场，上方是蓝天白云。左侧有三个较小的分镜：一个展示她震惊的面部表情，另一个展示远处的全身镜头，第三个则是紫色能量的特写。右上角有一个包含日语文本的对话气泡。底部有大型风格化日语文本“狐火トルネード・タイプ3”。整体风格动感十足且充满活力，是典型的运动漫画风格。
+
+[English]
+A vertical webtoon-style illustration of a female anime character pitching a baseball. The character has long silver hair, cat ears, and purple eyes. She wears an orange baseball cap with a logo, a white jersey with 'SynClub' written on it, white pants with orange stripes, and a black glove. Her right hand is extended forward, releasing a glowing baseball surrounded by swirling purple energy and dark fox-like spirits. In the background, there's a stadium filled with spectators under a blue sky with clouds. On the left side, there are three smaller panels: one showing her face in shock, another showing her full body from a distance, and a third showing a close-up of the purple energy. At the top right, there's a speech bubble with Japanese text. At the bottom, large stylized Japanese text reads '狐火トルネード・タイプ3'. The overall style is dynamic and energetic, typical of sports manga.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2111798897031151873) | 2026-10-18
+
+---
+

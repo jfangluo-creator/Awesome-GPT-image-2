@@ -36334,3 +36334,115 @@ Goal: Create a distinctive, gallery-worthy poster that preserves the original ph
 
 ---
 
+### 🎴 例 8285：治愈系家居产品广告提示词
+
+![治愈系家居产品广告提示词](../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E5%AE%B6%E5%B1%85%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+竖版治愈系居家产品广告摄影，柔光低对比、米白奶油基调、马卡龙撞色织物质感为核心视觉基调。画面上方留白用于大号手写毛笔感中文标题字体，赭石棕色。
+主视觉为【角色/主体】特写，慵懒趴卧，身体被绒毛毯包裹仅露出头部与上半身，下巴搭在毯子边缘，眼睑微眯，神态安心放松。
+毯子为雪尼尔 / 法兰绒质感，粉、浅蓝、浅绿、黄棕色块拼接，纤维蓬松。背景为米白至奶油黄纯色或简约居家场景，沙发轮廓虚化可见。
+光源为大面积柔光漫射，无明显硬阴影，高光集中在主体与毯子绒毛上形成发光感。镜头中长焦压缩透视，平视微俯角，浅景深虚化背景。整体高明度低饱和，冷暖均衡。
+左上角放置 V 字母与猫形图案构成的小型 Logo；右侧约 5% 边缘位置标注极小写 voxcat，末尾带青金石蓝色小圆点；若主体可佩戴配饰，加入小巧 VOXCAT 吊牌；标识位置固定、尺寸克制，不喧宾夺主。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2111689077749907767) | 2026-10-18
+
+---
+
+### 🎴 例 8286：高端电影感艺术画册编辑风格海报提示词
+
+![高端电影感艺术画册编辑风格海报提示词](../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%BD%B1%E6%84%9F%E8%89%BA%E6%9C%AF%E7%94%BB%E5%86%8C%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为精确视觉参考，创作一张高端电影感艺术画册编辑风格的海报。
+画布与布局
+- 垂直 3:4 宽高比
+- 海报水平分为两个相等的 50/50 部分
+- 上半部分：原始写实图像
+- 下半部分：同一场景的极简手工纸插画
+- 温暖的象牙色纸张纹理，带有细微的复古印刷瑕疵
+- 高端独立艺术画册编辑美学
+
+上半部分 — 原始摄影作品
+尽可能忠实地重现上传的图像。保留其原始主体、身份、外观、姿势、服装、物体、环境、背景、光线、相机角度、透视和构图。
+
+不要用不同的主体替换原始主体。不要引入无关物体或改变场景。如果上传的图像已经是插画，请在上半部分忠实保留其视觉外观，而不是凭空捏造一张照片。
+
+下半部分 — 匹配的手工纸插画
+将完全相同的主体和场景转换为极简手工纸插画。
+
+自动调整插画以适应上传的图像：
+
+- 肖像：保留面部特征、发型、服装和姿势
+- 动物：保留物种、斑纹、比例和姿势
+- 汽车和物体：保留形状、颜色、独特特征和朝向
+- 自然和风景：保留景色、自然元素和构图
+- 建筑和城市场景：保留建筑、透视和周围环境
+- 任何其他主体：保留其定义性的视觉特征
+
+使用简化的几何形状、层叠的剪纸形式、柔和的自然色调、微妙的做旧墨水效果、粗糙的印刷边缘和真实的手工纸纹理。在艺术化简化细节的同时，不丢失原始主体的可识别性。
+
+构图匹配
+保持两个面板中相同的主体位置、朝向、姿势、主要物体和视觉方向。底部的插画必须清晰地代表顶部的图像，而不是不同的诠释或无关的场景。
+
+色彩与氛围
+从上传的图像中提取主导颜色，并使用协调的柔和大地色调重新诠释。使用温暖的象牙色纸张、克制的复古印刷色彩、精致的纹理和成熟的编辑平衡。根据原始图像调整氛围。
+
+排版
+不要发明字幕、标签、签名或随机文本。除非用户提供特定文本，否则保持海报下部干净。
+
+严格要求
+恰好两个水平面板，每个占据海报高度的 50%。垂直 3:4 构图。上半部分保留上传的图像。下半部分以手工纸风格描绘同一图像。保持主体一致性和可识别的细节。无额外面板，无无关物体，无不必要的装饰边框，无随机文本，无标志，无水印，无重复主体，无扭曲的解剖结构或几何形状
+
+[English]
+Create a premium cinematic art-book editorial poster using the uploaded image as the EXACT visual reference.
+CANVAS & LAYOUT
+- Vertical 3:4 aspect ratio
+- One poster divided horizontally into two equal 50/50 sections
+- Top half: original photorealistic image
+- Bottom half: minimalist handmade-paper illustration of the exact same scene
+- Warm ivory paper texture with subtle vintage print imperfections
+- Premium independent art-book editorial aesthetic
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+Reproduce the uploaded image as faithfully as possible. Preserve its original subject, identity, appearance, pose, clothing, objects, environment, background, lighting, camera angle, perspective and composition.
+
+Do not replace the original subject with a different subject. Do not introduce unrelated objects or change the scene. If the uploaded image is already an illustration, faithfully preserve its visual appearance in the top panel rather than inventing a photograph.
+
+BOTTOM HALF — MATCHING PAPER ILLUSTRATION
+Transform the EXACT same subject and scene into a minimalist handmade-paper illustration.
+
+Automatically adapt the illustration to the uploaded image:
+
+- Portraits: preserve facial features, hairstyle, clothing and pose
+- Animals: preserve species, markings, proportions and pose
+- Cars and objects: preserve shape, color, distinctive features and orientation
+- Nature and landscapes: preserve the scenery, natural elements and composition
+- Buildings and city scenes: preserve architecture, perspective and surroundings
+- Any other subject: retain its defining visual characteristics
+
+Use simplified geometric shapes, layered paper-cut forms, muted natural colors, subtle distressed ink, rough printed edges and authentic handmade-paper texture. Simplify details artistically without losing the original subject's recognizability.
+
+COMPOSITION MATCH
+Keep the same subject placement, orientation, pose, major objects and visual direction in both panels. The bottom illustration must clearly represent the top image, not a different interpretation or unrelated scene.
+
+COLOR & MOOD
+Sample the dominant colors from the uploaded image and reinterpret them using a coordinated palette of muted earthy tones. Use warm ivory paper, restrained vintage print colors, delicate texture and sophisticated editorial balance. Adapt the mood to the original image.
+
+TYPOGRAPHY
+Do not invent captions, labels, signatures or random text. Leave the lower portion of the poster clean unless the user provides specific text to include.
+
+STRICT REQUIREMENTS
+Exactly two horizontal panels, each occupying 50% of the poster height. Vertical 3:4 composition. Top half preserves the uploaded image. Bottom half illustrates the same image in handmade-paper style. Maintain subject consistency and recognizable details. No extra panels, no unrelated objects, no unnecessary decorative frames, no random text, no logos, no watermark, no duplicated subjects, no distorted anatomy or geomet
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2111678047024029747) | 2026-10-18
+
+---
+

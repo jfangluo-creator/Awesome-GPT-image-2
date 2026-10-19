@@ -1477,7 +1477,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1100)
+## 🎴 [Posters & Cards](cat-poster.md) (1102)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3641,11 +3641,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8266: GPT Image 2 宠物食品海报提示词：碗影角色](cat-poster.md#-例-8266gpt-image-2-宠物食品海报提示词碗影角色)
 
 - [Case 8267: GPT Image 2 露营帐篷海报提示词：夜间坐标](cat-poster.md#-例-8267gpt-image-2-露营帐篷海报提示词夜间坐标)
+
+- [Case 8285: 治愈系家居产品广告提示词](cat-poster.md#-例-8285治愈系家居产品广告提示词)
+
+- [Case 8286: 高端电影感艺术画册编辑风格海报提示词](cat-poster.md#-例-8286高端电影感艺术画册编辑风格海报提示词)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3067)
+## 📷 [Photography & Realistic](cat-photo.md) (3070)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9713,11 +9717,17 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8271: GPT-Image-2 野生动物摄影提示词](cat-photo.md#-例-8271gpt-image-2-野生动物摄影提示词)
 
 - [Case 8272: 复古海滩人像](cat-photo.md#-例-8272复古海滩人像)
+
+- [Case 8277: 东京机器人展上的巨型警用机器人](cat-photo.md#-例-8277东京机器人展上的巨型警用机器人)
+
+- [Case 8280: 真人与巨型 Q 版涂鸦壁画合影](cat-photo.md#-例-8280真人与巨型-q-版涂鸦壁画合影)
+
+- [Case 8287: 万圣节糖果玉米裙女孩](cat-photo.md#-例-8287万圣节糖果玉米裙女孩)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1065)
+## 🎨 [Illustration & Art](cat-illustration.md) (1066)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11833,6 +11843,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8256: ChatGPT Image 2 秋季穿搭提示词](cat-illustration.md#-例-8256chatgpt-image-2-秋季穿搭提示词)
 
 - [Case 8260: 废弃游乐场的狼人](cat-illustration.md#-例-8260废弃游乐场的狼人)
+
+- [Case 8284: GPT Image 2 街头风格纹穿搭提示词](cat-illustration.md#-例-8284gpt-image-2-街头风格纹穿搭提示词)
 ---
 
 <a id="character"></a>
@@ -12337,7 +12349,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (383)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (384)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13091,11 +13103,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8244: 带有悬浮纸片剪影的 3D 剪贴簿构图](cat-3d.md#-例-8244带有悬浮纸片剪影的-3d-剪贴簿构图)
 
 - [Case 8268: 极简主义山地景观系列](cat-3d.md#-例-8268极简主义山地景观系列)
+
+- [Case 8276: 穿棕色百褶裙行走的学生](cat-3d.md#-例-8276穿棕色百褶裙行走的学生)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (257)
+## 🏛️ [Architecture & Space](cat-architecture.md) (261)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13601,11 +13615,19 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8208: Q 版女孩做松饼](cat-architecture.md#️-例-8208q-版女孩做松饼)
 
 - [Case 8259: 万圣节糖果口袋连衣裙提示词](cat-architecture.md#️-例-8259万圣节糖果口袋连衣裙提示词)
+
+- [Case 8274: GPT Image Prompt：宏伟南天门场景](cat-architecture.md#️-例-8274gpt-image-prompt宏伟南天门场景)
+
+- [Case 8281: 云海之上的不朽仙宫](cat-architecture.md#️-例-8281云海之上的不朽仙宫)
+
+- [Case 8282: 海滨公路水彩立体书提示词](cat-architecture.md#️-例-8282海滨公路水彩立体书提示词)
+
+- [Case 8283: 东方仙侠宗门景观提示词](cat-architecture.md#️-例-8283东方仙侠宗门景观提示词)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (287)
+## 🎬 [Comics & Storyboards](cat-comic.md) (288)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14163,11 +14185,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8147: Opus 5.5 vs Wife GPT 漫画条](cat-comic.md#-例-8147opus-55-vs-wife-gpt-漫画条)
 
 - [Case 8194: 复古儿童绘本封面角色插画](cat-comic.md#-例-8194复古儿童绘本封面角色插画)
+
+- [Case 8278: 动漫少女投掷棒球](cat-comic.md#-例-8278动漫少女投掷棒球)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (907)
+## 🏷️ [Brand & Packaging](cat-brand.md) (910)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -15976,6 +16000,12 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8253: 处女座星座肖像与金色宇宙能量](cat-brand.md#️-例-8253处女座星座肖像与金色宇宙能量)
 
 - [Case 8254: 两位手持鲜花的女性复古照片](cat-brand.md#️-例-8254两位手持鲜花的女性复古照片)
+
+- [Case 8273: 诡异人群俳句艺术](cat-brand.md#️-例-8273诡异人群俳句艺术)
+
+- [Case 8275: 耳机产品海报提示词](cat-brand.md#️-例-8275耳机产品海报提示词)
+
+- [Case 8279: 昭和复古巴士小憩人像](cat-brand.md#️-例-8279昭和复古巴士小憩人像)
 ---
 
 <a id="edit"></a>
