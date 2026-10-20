@@ -22305,3 +22305,36 @@ No extra decorations.
 
 ---
 
+### 🎨 例 8294：GPT Image 2 可爱小熊卫衣穿搭提示词
+
+![GPT Image 2 可爱小熊卫衣穿搭提示词](../images/GPT%20Image%202%20%E5%8F%AF%E7%88%B1%E5%B0%8F%E7%86%8A%E5%8D%AB%E8%A1%A3%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+
+一件蓬松的薄荷绿抓绒连帽衫，配有圆润的熊耳造型兜帽，敞开穿着搭配修身背心，下身搭配低腰工装迷你短裤，带有多个柔软口袋。
+
+搭配厚条纹长筒袜和高帮白色厚底运动鞋，鞋带为柔和粉彩色系。
+
+俏皮、运动、可爱的休闲时尚美学。
+薄荷绿、白色和柔和粉彩配色方案。
+无额外装饰。
+
+[English]
+OUTFIT:
+
+A fluffy mint-green fleece hoodie with a rounded bear-ear hood, worn open over a fitted tank top, paired with low-rise cargo mini shorts with multiple soft pockets.
+
+Styled with thick striped tube socks pulled up high and white platform sneakers with pastel laces.
+Playful, sporty, cute casual fashion aesthetic.
+Mint green, white, and soft pastel color scheme.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2112077538516406551) | 2026-10-19
+
+---
+

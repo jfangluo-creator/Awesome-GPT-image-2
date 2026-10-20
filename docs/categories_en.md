@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (620)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (621)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1233,6 +1233,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8255: 昭和复古风体操服少女](cat-ui.md#️-例-8255昭和复古风体操服少女)
 
 - [Case 8261: 战锤 40K 星际战士站立姿态](cat-ui.md#️-例-8261战锤-40k-星际战士站立姿态)
+
+- [Case 8288: 中世纪 MMORPG 库存 UI 截图](cat-ui.md#️-例-8288中世纪-mmorpg-库存-ui-截图)
 ---
 
 <a id="chart"></a>
@@ -1477,7 +1479,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1102)
+## 🎴 [Posters & Cards](cat-poster.md) (1105)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3645,11 +3647,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8285: 治愈系家居产品广告提示词](cat-poster.md#-例-8285治愈系家居产品广告提示词)
 
 - [Case 8286: 高端电影感艺术画册编辑风格海报提示词](cat-poster.md#-例-8286高端电影感艺术画册编辑风格海报提示词)
+
+- [Case 8292: 矿泉水轮廓折射海报](cat-poster.md#-例-8292矿泉水轮廓折射海报)
+
+- [Case 8293: 灯光投影海报](cat-poster.md#-例-8293灯光投影海报)
+
+- [Case 8295: 照片转手绘记忆海报](cat-poster.md#-例-8295照片转手绘记忆海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3070)
+## 📷 [Photography & Realistic](cat-photo.md) (3071)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9723,11 +9731,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8280: 真人与巨型 Q 版涂鸦壁画合影](cat-photo.md#-例-8280真人与巨型-q-版涂鸦壁画合影)
 
 - [Case 8287: 万圣节糖果玉米裙女孩](cat-photo.md#-例-8287万圣节糖果玉米裙女孩)
+
+- [Case 8296: 万圣节弗兰肯斯坦风格连衣裙女孩](cat-photo.md#-例-8296万圣节弗兰肯斯坦风格连衣裙女孩)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1066)
+## 🎨 [Illustration & Art](cat-illustration.md) (1067)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11845,11 +11855,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8260: 废弃游乐场的狼人](cat-illustration.md#-例-8260废弃游乐场的狼人)
 
 - [Case 8284: GPT Image 2 街头风格纹穿搭提示词](cat-illustration.md#-例-8284gpt-image-2-街头风格纹穿搭提示词)
+
+- [Case 8294: GPT Image 2 可爱小熊卫衣穿搭提示词](cat-illustration.md#-例-8294gpt-image-2-可爱小熊卫衣穿搭提示词)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (255)
+## 🧍 [Character Design](cat-character.md) (256)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12345,6 +12357,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8137: GPT Image 角色设定图提示词](cat-character.md#-例-8137gpt-image-角色设定图提示词)
 
 - [Case 8157: 互动式壁画咖啡摄影](cat-character.md#-例-8157互动式壁画咖啡摄影)
+
+- [Case 8297: 赛博舞台角色概念设定图](cat-character.md#-例-8297赛博舞台角色概念设定图)
 ---
 
 <a id="3d"></a>
@@ -13109,7 +13123,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (261)
+## 🏛️ [Architecture & Space](cat-architecture.md) (262)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13623,6 +13637,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8282: 海滨公路水彩立体书提示词](cat-architecture.md#️-例-8282海滨公路水彩立体书提示词)
 
 - [Case 8283: 东方仙侠宗门景观提示词](cat-architecture.md#️-例-8283东方仙侠宗门景观提示词)
+
+- [Case 8291: 水彩风家居内饰改造](cat-architecture.md#️-例-8291水彩风家居内饰改造)
 ---
 
 <a id="comic"></a>
@@ -14191,7 +14207,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (910)
+## 🏷️ [Brand & Packaging](cat-brand.md) (912)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16006,6 +16022,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8275: 耳机产品海报提示词](cat-brand.md#️-例-8275耳机产品海报提示词)
 
 - [Case 8279: 昭和复古巴士小憩人像](cat-brand.md#️-例-8279昭和复古巴士小憩人像)
+
+- [Case 8289: Warhammer 场景：Rylanor 对决 Fulgrim](cat-brand.md#️-例-8289warhammer-场景rylanor-对决-fulgrim)
+
+- [Case 8290: 东方茶商业海报设计](cat-brand.md#️-例-8290东方茶商业海报设计)
 ---
 
 <a id="edit"></a>

@@ -36446,3 +36446,103 @@ Exactly two horizontal panels, each occupying 50% of the poster height. Vertical
 
 ---
 
+### 🎴 例 8292：矿泉水轮廓折射海报
+
+![矿泉水轮廓折射海报](../images/%E7%9F%BF%E6%B3%89%E6%B0%B4%E8%BD%AE%E5%BB%93%E6%8A%98%E5%B0%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+创作一张 4:5 竖版高完成度瓶装矿泉水宣传海报，使用「等高线折射谷」作为唯一核心构图。画面采用略俯视的纵向构图，一只无标签、结构简洁的透明玻璃水瓶垂直立于画面中下部，瓶盖使用雾银色金属。整个背景铺满极细、等距、连续的冰蓝色水平等高线；线条在接近瓶体时向内下沉，形成一座被水瓶重量压出的柔软峡谷，越远离瓶体越恢复平直。线条不得断裂、交叉或形成噪乱波纹。
+
+水瓶不是悬浮抠图。瓶底真实压在浅灰蓝矿物台面上，瓶身与线场处在同一空间。只有透过瓶内清水看到的等高线发生真实折射、轻微放大与水平位移，瓶外线条保持精准连续。瓶身左侧凝结少量自然水珠，右侧留出清晰高光边缘，材质像高级饮用水广告摄影，不使用塑料 CGI 质感。
+
+在画面上方安静的负空间中放置大号窄体无衬线标题「FLOW」，字距宽、颜色深海军蓝；标题下方仅保留小字「MINERAL WATER」。文字不得嵌入瓶内，也不与线条争夺视觉中心。配色限制为冰蓝、雾白、深海军蓝和少量银色。
+
+使用柔和顶部天光与左后方轮廓光，让瓶体透明而不消失。整体气质精确、清冽、极简、当代编辑设计。完整铺满画布的不透明矩形背景，无透明像素、无黑色角落、无 Alpha 遮罩、无边缘羽化、无不规则裁切。不要山景照片、不要人物、不要漂浮水花、不要大量文案、不要现成品牌 Logo、不要水印。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2112152281294536762) | 2026-10-19
+
+---
+
+### 🎴 例 8293：灯光投影海报
+
+![灯光投影海报](../images/%E7%81%AF%E5%85%89%E6%8A%95%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+创作一张 4:5 竖版高端台灯宣传海报，核心构图为「光束字槽」。一盏极简金属台灯位于画面左下方，灯杆纤细、灯罩为哑光深红色半圆筒，真实电源线沿台面自然延伸。灯头朝右上方发出一束边界清楚但不过分锐利的暖白光锥。
+
+画面中央竖立四块间距一致的深靛蓝哑光薄板，薄板本身没有印字；只有当光束穿过四块板上的精确镂空时，投射到后方暖灰墙面的光才共同拼出完整单词「BEAM」。每个字母由光线形成，不能像普通发光字体贴在墙上。光束在经过不同镂空后出现轻微宽窄变化和真实软边，薄板边缘产生受控高光，台面保留清晰的投影方向。
+
+标题之外只在右下角加入小号信息「ARC LAMP / LIGHT SHAPED BY FORM」。不添加图标、参数卡或装饰线。色彩严格限制为深靛蓝、哑光红、暖灰和暖白光。
+
+使用安静的室内夜景摄影质感，灯具材质真实，光学关系必须成立：光源、镂空、投影三者在同一直线上。构图简洁但具有空间纵深。完整铺满画布的不透明矩形背景，无透明像素、无黑角、无 Alpha 遮罩、无画布边缘羽化。不要霓虹灯牌、不要舞台烟雾、不要赛博朋克、不要人物、不要现成品牌 Logo、不要水印。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2112129131131609167) | 2026-10-19
+
+---
+
+### 🎴 例 8295：照片转手绘记忆海报
+
+![照片转手绘记忆海报](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E6%89%8B%E7%BB%98%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张受上传照片启发的垂直 3:4 比例编辑风格记忆海报。将构图分为两个水平部分：顶部 50% 保留原始照片及其可识别的主体、身份、姿势、服装、背景、自然光照和写实细节。不要重绘或风格化顶部区域。
+
+底部 50% 变为一个受照片启发的温暖手绘插图剪贴簿。填充 7–9 个代表原始场景中难忘细节的小插图，包括主体的服装、发型、配饰、周围的植物、花朵、树木、建筑、天气、活动和其他相关物体。以平衡且有趣的拼贴方式排列插图，大小各异，间距自然。
+
+插图风格：手绘彩色铅笔和水彩素描，精致的墨水轮廓，可见的铅笔笔触，不完美的艺术纹理，柔和的色彩，迷人的涂鸦，小爱心、星星、箭头以及手绘装饰元素。使用温暖的奶油色纹理纸张背景，营造怀旧日记的美学氛围。
+
+色彩调色板：从原始照片中提取颜色。使用柔和自然的色调，带有微妙的复古温暖感、大地色系和柔和的高光。
+
+排版：在插图部分的顶部添加一个小巧的手写标题，并在底部附近添加简短深情的说明文字。保持字体优雅、小写，并自然地融入艺术作品。生成受照片启发的措辞，而不是使用固定文本。
+
+构图规则：
+• 严格的垂直 3:4 宽高比。
+• 顶部和底部部分各占精确的 50%。
+• 两部分之间有一条完全笔直的水平分割线。
+• 原始照片保持照片级真实感且未作更改。
+• 底部部分包含与上传图片具体相关的插图。
+• 保持连贯的手工旅行日记或生活方式剪贴簿美学。
+• 高质量的纹理、复杂的素描细节、和谐的间距以及专业的编辑设计。
+
+重要提示：根据上传的照片调整每一个插图、颜色和手写说明。除非参考示例中的物体或主题与实际图像相关，否则不要重复使用它们。无额外照片，无 3D 元素，无光泽数字艺术，无杂乱布局。
+
+结果：一张温馨、个性化的照片与插图结合的海报，感觉就像一本精美插画的个人日记中的一页。
+
+[English]
+Create a vertical 3:4 editorial memory poster inspired by the uploaded photograph. Divide the composition into two horizontal sections: the top 50% preserves the original photograph with its recognizable subject, identity, pose, clothing, background, natural lighting, and realistic details. Do not redraw or stylize the top section.
+
+The bottom 50% becomes a warm, hand-drawn illustrated scrapbook inspired by the photograph. Fill it with 7–9 small illustrations representing memorable details from the original scene, including the subject’s clothing, hairstyle, accessories, surrounding plants, flowers, trees, architecture, weather, activities, and other relevant objects. Arrange the illustrations in a balanced, playful collage with varied sizes and natural spacing.
+
+ILLUSTRATION STYLE: Hand-drawn colored-pencil and watercolor sketches, delicate ink outlines, visible pencil strokes, imperfect artistic textures, soft coloring, charming doodles, tiny hearts, stars, arrows, and hand-drawn decorative accents. Use a warm cream-colored textured paper background with a nostalgic journal aesthetic.
+
+COLOR PALETTE: Derive colors from the original photograph. Use soft, natural tones with subtle vintage warmth, earthy colors, and gentle highlights.
+
+TYPOGRAPHY: Add a small handwritten title at the top of the illustrated section and a short, sentimental handwritten caption near the bottom. Keep the lettering elegant, lowercase, and naturally integrated into the artwork. Generate wording inspired by the photograph rather than using fixed text.
+
+COMPOSITION RULES:
+•Strict vertical 3:4 aspect ratio.
+•Top and bottom sections occupy exactly 50% each.
+•A perfectly straight horizontal division between sections.
+•Original photograph remains photorealistic and unchanged.
+•Bottom section contains illustrations related specifically to the uploaded image.
+•Maintain a cohesive, handmade travel-journal or lifestyle-scrapbook aesthetic.
+•High-quality textures, intricate sketch details, harmonious spacing, and professional editorial design.
+
+IMPORTANT: Adapt every illustration, color, and handwritten caption to the uploaded photograph. Do not reuse objects or themes from reference examples unless they are relevant to the actual image. No extra photographs, no 3D elements, no glossy digital art, and no cluttered layout.
+
+Result: A heartwarming, personalized photo-and-illustration poster that feels like a page from a beautifully illustrated personal diary.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2112029484434252263) | 2026-10-19
+
+---
+

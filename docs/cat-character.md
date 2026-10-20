@@ -9938,3 +9938,51 @@ Do not copy the exact composition of the reference/sample image. Keep only the c
 
 ---
 
+### 🧍 例 8297：赛博舞台角色概念设定图
+
+![赛博舞台角色概念设定图](../images/%E8%B5%9B%E5%8D%9A%E8%88%9E%E5%8F%B0%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="character name" default="Cyber Stage Yuna"} 创建一份详尽的角色概念设定图，采用未来感偶像战士的设计风格。版面布局需包含以下内容：
+
+1. **主立绘**：角色全身插画，身着精致的赛博朋克舞台装，融入全息元素、水晶配饰与飘逸的布料点缀。
+2. **服装展示**：多角度视图（正面、侧面、背面），全方位呈现服装设计细节。
+3. **表情集**：九种面部表情，包括咧嘴笑、自信、科技达人范、舞台突发状况、严肃、坚定、眨眼、喜悦和坏笑。
+4. **细节特写**：局部放大展示靴子与领口、肩甲、背部细节、眼部细节以及发型细节。
+5. **材质与纹理**：色卡展示全息银、珍珠白网纱、电光蓝水晶以及霓虹紫点缀效果。
+6. **配饰与武器**：展示光环头冠、水晶长枪变体、全息披风及声波耳麦。
+7. **战斗姿态**：剪影插画，展现充满张力的动态动作姿势。
+8. **武器特效**：攻击动画演示，包括破晓斩击、穿刺突刺以及终极数字和声特效。
+9. **概念总览**：核心元素板块，包含配色色卡与主题图标。
+10. **风格备注**：文字描述着重突出未来感光效、舞台偶像张力，以及科技与梦幻交织的美学氛围。
+11. **角色简介**：定位为偶像/治疗者，属性为水/数字，性格自信且极具标志性。
+12. **专属台词**：“当旋律化作你的利刃，连潮汐也将为你臣服。”
+
+整体视觉美学应将赛博朋克科技与空灵奇幻元素完美融合，配色以深蓝、紫色、银色为主调，并辅以发光点缀效果。图中需包含五星评级标识，且全程保持专业游戏美术文档的制作标准。
+
+[English]
+Create a comprehensive character concept sheet for {argument name="character name" default="Cyber Stage Yuna"}, featuring a futuristic idol warrior design. The layout should include: 
+
+1. **Main Portrait**: A full-body illustration of the character in an elaborate cyberpunk stage outfit with holographic elements, crystal accessories, and flowing fabric accents.
+2. **Outfit Showcase**: Multiple views (front, side, back) showing different angles of the costume design.
+3. **Expression Sheet**: Nine facial expressions including grinning, confident, tech-savvy, stage trouble, serious, determined, wink, joyous, and smirk.
+4. **Detail Close-ups**: Sections highlighting boots & neckline, shoulder armor, back detail, eye detail, and hair detail.
+5. **Materials & Textures**: Swatches showing holographic silver, pearl white mesh, electric blue crystal, and neon lavender accents.
+6. **Accessories & Weapons**: Display of halo crown, crystal lance variations, holographic cape, and soundwave earpiece.
+7. **Combat Poses**: Silhouette illustrations showing dynamic action stances.
+8. **Weapon Effects**: Attack animations including morning strike, piercing thrust, and ultimate digital harmony effects.
+9. **Concept Overview**: Key elements section with color palette swatches and thematic icons.
+10. **Style Notes**: Description emphasizing futuristic glow, stage idol energy, techno & dreamy aesthetics.
+11. **Character Summary**: Role as idol/healer, element as hydro/digital, personality as confident/iconic.
+12. **Special Quote**: "When melody becomes your blade, even the tides will kneel."
+
+The overall aesthetic should blend cyberpunk technology with ethereal fantasy elements, using a color scheme dominated by deep blues, purples, silvers, and glowing accents. Include a five-star rating indicator and maintain professional game art documentation standards throughout.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2111985752640999832) | 2026-10-19
+
+---
+

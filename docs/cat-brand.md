@@ -22429,3 +22429,46 @@ A vertical portrait of a young East Asian woman sleeping on a vintage bus, style
 
 ---
 
+### 🏷️ 例 8289：Warhammer 场景：Rylanor 对决 Fulgrim
+
+![Warhammer 场景：Rylanor 对决 Fulgrim](../images/Warhammer%20%E5%9C%BA%E6%99%AF%EF%BC%9ARylanor%20%E5%AF%B9%E5%86%B3%20Fulgrim.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+古老的莱兰诺——帝皇之子军团的仪典古战士，在伊斯特凡 III 号那颗焦土世界的地底深处，迎来了他的最后一战。他面对的，正是色孽的恶魔原体福格瑞姆。
+
+他遍体鳞伤，半个身躯被掩埋在地下墓穴的废墟之中，却依然傲然挺立；残存的高洁灵魂里，燃烧着对叛徒的刻骨仇恨。在他四周，散落着早已逝去的忠诚派兄弟们的累累白骨。
+
+[English]
+Ancient Rylanor, the Ancient of Rites of the Emperor's Children, makes his final stand deep beneath the burned world of Istvaan III. He is facing Fulgrim, the Daemon Primarch of Slaanesh.
+He stands defiant, battered and half-buried in the ruins of a subterranean vault, his surviving honourable soul burning with hatred for the Traitors. Around him lie the bones of his long-dead loyalist brothers.
+```
+
+**来源：** [@Mainstream Madness](https://x.com/HairnetNation/status/2112234469499277478) | 2026-10-19
+
+---
+
+### 🏷️ 例 8290：东方茶商业海报设计
+
+![东方茶商业海报设计](../images/%E4%B8%9C%E6%96%B9%E8%8C%B6%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+输出一张独立的4:5竖版商业海报，不拼图，不生成多宫格。使用原创虚构品牌，不仿制现有品牌包装、Logo或广告。文字只使用提示中明确列出的品牌名、主标题与品类，不补造价格、获奖信息、参数、日期、产地或口号。画面达到可供创意方向审核的完成度，主体结构真实、材质可信、排版清晰，无水印。
+
+主题：东方茶审核样张。原创品牌“岚序”，产品“岩茶”，主标题“山场入盏”。
+
+一张纵向长幅暖白宣纸从画面底部向上折出三道高低不同的折页，折页像抽象山脊但仍保留真实纸张厚度、纤维与折痕。在最低一层放置一只深褐小茶壶，中层放置白瓷茶盏，最高层仅放少量干燥岩茶叶；器物尺度真实、相互不重叠。
+
+组型核心：“装帧折页—山径层级—茶烟连线”。一缕琥珀色茶烟从壶嘴升起，沿折页山径穿行并连接茶盏，烟气像克制的水墨书写，局部浓淡变化但不形成具体汉字或龙凤。主标题“山场入盏”以现代宋体竖排于右侧留白，顶部小字“岚序”，底部小字“岩茶”。配色为暖白、岩褐、茶汤琥珀与极少墨黑。
+
+不要人物、古装、茶室实景、满版山水、书法大字、金色边框、禅意套话、复杂包装或多张拼图。
+```
+
+**来源：** [@蛋黄堡](https://x.com/Hamburgerai/status/2112211420695720134) | 2026-10-19
+
+---
+
