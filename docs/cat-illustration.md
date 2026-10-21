@@ -22338,3 +22338,21 @@ No extra decorations.
 
 ---
 
+### 🎨 例 8301：单色优雅秋季穿搭
+
+![单色优雅秋季穿搭](../images/%E5%8D%95%E8%89%B2%E4%BC%98%E9%9B%85%E7%A7%8B%E5%AD%A3%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱黑色格纹紧身裙，黑色针织毛衣，米色靴子，单色优雅风格，干净时尚造型，柔和光线，面料细节丰富，精致氛围，杰作，最佳画质
+
+[English]
+cute, black gingham tight skirt, black knit sweater, beige boots, monochrome elegant style, clean fashion look, soft lighting, detailed fabric, refined atmosphere, masterpiece, best quality
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2112439926272950299) | 2026-10-20
+
+---
+

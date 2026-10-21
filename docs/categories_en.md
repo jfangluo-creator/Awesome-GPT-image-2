@@ -1479,7 +1479,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1105)
+## 🎴 [Posters & Cards](cat-poster.md) (1106)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3653,11 +3653,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8293: 灯光投影海报](cat-poster.md#-例-8293灯光投影海报)
 
 - [Case 8295: 照片转手绘记忆海报](cat-poster.md#-例-8295照片转手绘记忆海报)
+
+- [Case 8300: 电影感炸鸡食品广告](cat-poster.md#-例-8300电影感炸鸡食品广告)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3071)
+## 📷 [Photography & Realistic](cat-photo.md) (3072)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9733,11 +9735,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8287: 万圣节糖果玉米裙女孩](cat-photo.md#-例-8287万圣节糖果玉米裙女孩)
 
 - [Case 8296: 万圣节弗兰肯斯坦风格连衣裙女孩](cat-photo.md#-例-8296万圣节弗兰肯斯坦风格连衣裙女孩)
+
+- [Case 8298: 红光映照双眼的戏剧感人像](cat-photo.md#-例-8298红光映照双眼的戏剧感人像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1067)
+## 🎨 [Illustration & Art](cat-illustration.md) (1068)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11857,11 +11861,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8284: GPT Image 2 街头风格纹穿搭提示词](cat-illustration.md#-例-8284gpt-image-2-街头风格纹穿搭提示词)
 
 - [Case 8294: GPT Image 2 可爱小熊卫衣穿搭提示词](cat-illustration.md#-例-8294gpt-image-2-可爱小熊卫衣穿搭提示词)
+
+- [Case 8301: 单色优雅秋季穿搭](cat-illustration.md#-例-8301单色优雅秋季穿搭)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (256)
+## 🧍 [Character Design](cat-character.md) (257)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12359,11 +12365,13 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8157: 互动式壁画咖啡摄影](cat-character.md#-例-8157互动式壁画咖啡摄影)
 
 - [Case 8297: 赛博舞台角色概念设定图](cat-character.md#-例-8297赛博舞台角色概念设定图)
+
+- [Case 8299: 动漫角色设定图：哭泣的女孩](cat-character.md#-例-8299动漫角色设定图哭泣的女孩)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (384)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (385)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13119,6 +13127,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8268: 极简主义山地景观系列](cat-3d.md#-例-8268极简主义山地景观系列)
 
 - [Case 8276: 穿棕色百褶裙行走的学生](cat-3d.md#-例-8276穿棕色百褶裙行走的学生)
+
+- [Case 8303: 杭州早安微缩茶景](cat-3d.md#-例-8303杭州早安微缩茶景)
 ---
 
 <a id="architecture"></a>
@@ -16030,7 +16040,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (189)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (190)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16407,6 +16417,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8210: 万圣节糕点修复少女提示词](cat-edit.md#-例-8210万圣节糕点修复少女提示词)
 
 - [Case 8270: 手绘 2D 卡通插画](cat-edit.md#-例-8270手绘-2d-卡通插画)
+
+- [Case 8302: GPT Image 2 民间艺术风格前后对比转换](cat-edit.md#-例-8302gpt-image-2-民间艺术风格前后对比转换)
 ---
 
 <a id="fun"></a>

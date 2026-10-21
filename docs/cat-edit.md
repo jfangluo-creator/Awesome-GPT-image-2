@@ -6150,3 +6150,36 @@ Pro tip: Upload one photo at a time and use this same prompt to transform differ
 
 ---
 
+### 🔧 例 8302：GPT Image 2 民间艺术风格前后对比转换
+
+![GPT Image 2 民间艺术风格前后对比转换](../images/GPT%20Image%202%20%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用提供的图片作为唯一素材，制作一张上下排列的“处理前后”对比图。
+
+布局：严格分为两个等高的面板：上方为原图，下方为转换后的图像。两个面板均需保持原图的宽高比和相同宽度。整个画布高度为原图的两倍。两个面板在一条干净的水平线处直接拼接。不要添加粗分隔线、多余面板、装饰性边框、标签或任何文字。
+
+上面板 — 原图：将提供的图片原封不动地放置在上半部分。保留其完整构图、原始色彩、光影、细节、现有文字及裁剪范围。不得对该面板进行重绘、修饰、风格化处理或添加纹理。
+
+下面板 — 素人艺术（Outsider Art）：将同一场景重绘为扁平化、纹理密集的素人民间艺术版画。保留主体、可辨识的轮廓、相对位置、重要物体及整体构图。不得凭空添加额外的主体或道具。
+
+将地面压平为类似地图的色块区域，人物、树木、建筑和物体均以简单的正面或侧面视角呈现。去除透视汇聚、摄影景深、定向光源和投影。使用暖调纸张白、暖调墨黑，以及两到四种源自原图的柔和色彩。选择画面中现有的一个物体或相连细节作为唯一的饱和点缀色。为每个大色块赋予一种统一的手工质感纹理：如缝线痕迹、不规则窗格线条或密集的枝叶笔触。纹理需保持密集、富有节奏感且略带手工的不完美感。
+
+若画面中出现人物，请使用小巧、实心、无面部特征的形象，衣物填实，四肢具备可见宽度。所有表面均表现为哑光纸上的不透明印刷油墨效果，不留任何摄影痕迹。所有插画、纸张纹理和色彩变化必须严格限制在下面板内。不得使用渐变、光泽矢量效果、水彩、火柴人、可爱的卡通比例、自创字体或水印。
+
+[English]
+Create one vertically stacked before-and-after comparison using the supplied image as the only source.
+LAYOUT:Exactly two equal-height panels: original image on top, transformed image on bottom. Both panels have the source image's aspect ratio and identical width. The complete canvas is twice the source image's height. Join the panels directly at a clean horizontal seam. No thick divider, extra panel, decorative frame, labels, or added text.
+TOP PANEL — ORIGINAL:Place the supplied image unchanged in the upper half. Preserve its full composition, original colors, lighting, details, existing text, and crop. Do not redraw, retouch, stylize, or apply texture to this panel.
+BOTTOM PANEL — OUTSIDER ART:Redraw the same scene as a flat, densely textured naïve folk-art print. Preserve the main subject, recognizable silhouettes, relative positions, important objects, and overall composition. Do not invent additional subjects or props.
+Flatten the ground into map-like color zones, with people, trees, buildings, and objects shown in simple frontal or side elevation. Remove converging perspective, photographic depth, directional lighting, and cast shadows.Use warm paper white, warm ink black, and two to four subdued colors derived from the source. Choose one existing object or connected detail as the only saturated accent. Give each large zone one consistent handmade texture: stitch marks, irregular window grids, or dense foliage marks. Keep the texture dense, rhythmic, and slightly imperfect.
+Where people appear, use small, solid, faceless figures with filled clothing and limbs of visible width. Render every surface as opaque printed ink on matte paper, with no photographic remnants.Keep all illustration, paper texture, and color changes strictly inside the lower panel. No gradients, glossy vector finish, watercolor, stick figures, cute cartoon proportions, invented lettering, or watermark.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2112413004935610807) | 2026-10-20
+
+---
+

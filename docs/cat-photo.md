@@ -74770,3 +74770,21 @@ Create a playful visual story with seamless interaction between the real woman a
 
 ---
 
+### 📷 例 8298：红光映照双眼的戏剧感人像
+
+![红光映照双眼的戏剧感人像](../images/%E7%BA%A2%E5%85%89%E6%98%A0%E7%85%A7%E5%8F%8C%E7%9C%BC%E7%9A%84%E6%88%8F%E5%89%A7%E6%84%9F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实戏剧性人物肖像（{argument name="photo" default="imported photo"}），一缕凌乱的发丝垂落遮住一只眼睛，身穿黑色高领毛衣，居中构图，目光锐利。一道明亮而锐利的水平红光仅照亮双眼，并映照在灰色墙面上；其余部分隐没于深邃的阴影之中。整体氛围暗黑、极简，极具电影质感。
+
+[English]
+Portrait dramatique ultra-réaliste de la personne ({argument name="photo" default="photo importée"}), mèche de cheveux en désordre sur un œil, col roulé noir, centrée, regard intense. Une lumière rouge horizontale, vive et nette, éclaire uniquement les yeux et se reflète sur le mur gris ; le reste est dans l'ombre profonde. Ambiance sombre, minimaliste et cinématographique.
+```
+
+**来源：** [@Ibrahim Kamara · Travail & Argent](https://x.com/Ibrakamara6/status/2112518312349368787) | 2026-10-20
+
+---
+
