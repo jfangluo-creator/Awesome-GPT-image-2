@@ -36572,3 +36572,61 @@ Create an ultra-photorealistic, world-class cinematic food advertisement featuri
 
 ---
 
+### 🎴 例 8308：基于照片生成的极简主义编辑风格咖啡馆海报
+
+![基于照片生成的极简主义编辑风格咖啡馆海报](../images/%E5%9F%BA%E4%BA%8E%E7%85%A7%E7%89%87%E7%94%9F%E6%88%90%E7%9A%84%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转化为精致的极简主义杂志风艺术海报，同时保留原有的咖啡馆内景、木桌、座椅、绿植、光影与构图。创作一幅细腻的建筑插画，融入半透明几何叠加层、柔和的粉彩渐变，以及温暖的奶油色与米色调，搭配低饱和度的鼠尾草绿、浅蓝和金黄色。运用纤细的网格线、微妙的纸张肌理、优雅的留白与柔和的阳光，营造出富有艺术感的当代设计杂志美学风格。最终画面采用上下分割构图：上方为写实照片，下方为抽象的艺术化演绎。添加低调的文字排版：“{argument name="main_text" default="A QUIETER DAY"}” 与 “{argument name="sub_text" default="SAME PLACE, BRIGHTER THOUGHTS."}”。高端平面设计，极简瑞士杂志风版式，柔和的氛围光晕，构图均衡，细节丰富，4K 画质，4:5 竖版比例。
+
+[English]
+Transform the reference photograph into a sophisticated minimalist editorial art poster while preserving the original café interior, wooden tables, chairs, plants, lighting, and composition. Create a refined architectural illustration with translucent geometric overlays, soft pastel gradients, warm cream and beige tones, muted sage green, pale blue, and golden yellow. Use delicate grid lines, subtle paper texture, elegant negative space, and soft sunlight for an artistic, contemporary design-magazine aesthetic. Arrange the result as a vertical split composition, with the realistic photograph on top and an abstract artistic reinterpretation below. Add subtle typography reading “{argument name="main_text" default="A QUIETER DAY"}” and “{argument name="sub_text" default="SAME PLACE, BRIGHTER THOUGHTS."}” Premium graphic design, minimalist Swiss editorial layout, soft atmospheric glow, balanced composition, high detail, 4K quality, portrait 4:5 aspect ratio.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2112872358453326287) | 2026-10-21
+
+---
+
+### 🎴 例 8313：宁静早安水彩海报
+
+![宁静早安水彩海报](../images/%E5%AE%81%E9%9D%99%E6%97%A9%E5%AE%89%E6%B0%B4%E5%BD%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版海报，采用宁静诗意的中式极简风格，融入水彩肌理，中央大面积留白。背景左右两侧各矗立一座高耸的悬崖，以柔和的蓝灰色调绘就，点缀着细腻的粉橘色光影，两崖之间形成一道狭长的峡谷，向中央明亮洁白的云雾深处豁然敞开。峡谷底部，一位身形娇小的女子背对镜头独自伫立，她身着浅色长款大衣，颈间红围巾随风轻扬，正朝着那片发光的出口走去。
+
+文字排版：
+- 左上角：一个黑色大号宋体汉字“早”。
+- 右上角：一个黑色大号宋体汉字“安”，与左侧合为“早安”。
+- 顶部居中处的小字块：“2026 / 10/21 / WED”，下方接一条短横线，随后是三行字距疏朗的中文小字：“新的一天”、“比昨天更靠近”、“想要的生活”。
+- 画面中央一列中等大小的黑色汉字，自上而下竖向排列：“把平凡的每一天过成值得的”。
+- 一句珊瑚橘色的英文手写草书“Good Morning”，如墨迹般斜向划过画面中部，与竖向文字自然交叠。
+- 竖向文字下方，居中排列三行小字段落：“更清醒的自己”、“更踏实的节奏”、“更靠近热爱的生活”，其后接一条短分隔线，以及四行更细小的文字：“不急不躁”、“一步步走”、“日子会给你”、“想要的答案”。
+- 底部边缘：宽字距的大写衬线英文字母“G O O D   M O R N I N G”横向贯穿整个画幅；其下是一行字距疏朗的中文小字，以细竖线分隔：“清晨有光 | 步伐有力 | 生活有盼”。
+
+视觉风格：干净利落的杂志风排版，通透轻盈的构图，以白色、浅蓝和柔桃色为主的低饱和马卡龙色调，微妙的纸张颗粒质感，零星散落的淡橘色斑点宛如花瓣或浮尘，整体氛围宁静而充满力量。
+
+[English]
+Create a vertical 3:4 poster in a serene, poetic Chinese minimalist style with watercolor textures and generous central whitespace. The background shows two towering cliffs on the left and right sides, painted in soft blue-gray tones with delicate pink and orange highlights, forming a narrow canyon that opens into a bright white misty center. At the bottom of the canyon stands a tiny solitary woman seen from behind, wearing a long light-colored coat and a flowing red scarf, walking toward the glowing opening.
+
+Typography layout:
+- Top-left corner: one large black serif Chinese character "早" (Morning).
+- Top-right corner: one large black serif Chinese character "安" (Peace), together reading "早安" (Good Morning).
+- Top-center small text block: "2026 / 10/21 / WED" followed by a short horizontal line, then three lines of spaced small Chinese text: "新的一天", "比昨天更靠近", "想要的生活".
+- Center vertical column of medium-sized black Chinese characters reading top to bottom: "把平凡的每一天过成值得的".
+- A handwritten cursive English phrase "Good Morning" in coral-orange ink sweeping diagonally across the middle of the image, overlapping the vertical text.
+- Below the vertical text, a centered small paragraph of three lines: "更清醒的自己", "更踏实的节奏", "更靠近热爱的生活", followed by a short divider line and four more tiny lines: "不急不躁", "一步步走", "日子会给你", "想要的答案".
+- Bottom edge: wide-tracked uppercase serif letters "G O O D   M O R N I N G" spanning the width, and beneath it a single line of small spaced Chinese text separated by thin vertical bars: "清晨有光 | 步伐有力 | 生活有盼".
+
+Visual style: clean editorial typography, airy composition, muted pastel palette dominated by white, pale blue, and soft peach, subtle paper grain texture, faint scattered orange speckles like petals or dust, calm and inspirational mood.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2112697054254543067) | 2026-10-21
+
+---
+

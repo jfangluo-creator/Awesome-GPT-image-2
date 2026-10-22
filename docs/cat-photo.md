@@ -74788,3 +74788,95 @@ Portrait dramatique ultra-réaliste de la personne ({argument name="photo" defau
 
 ---
 
+### 📷 例 8305：巨型 MPD 机器人搬运重物
+
+![巨型 MPD 机器人搬运重物](../images/%E5%B7%A8%E5%9E%8B%20MPD%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%90%AC%E8%BF%90%E9%87%8D%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级写实的广角镜头画面：两台巨大的双足人形机器人伫立在日本某港口湿漉漉的混凝土地面上。机器人通体覆盖着白色与深灰色相间的装甲板，肩部和头部装有红色警示灯。每台机器人的胸甲和肩甲上，都用黑色字体印有“警視庁”（东京都警视厅）以及“MPD”字样。它们正合力抬起中间一个沉重的大型工业金属集装箱或机械设备。背景中可见一座悬索桥（形似东京彩虹大桥）、城市摩天大楼，以及点缀着朵朵白云的蓝天。地面上，众多身穿黄色反光背心、头戴安全帽的建筑工人清晰可见，还有身着深色制服的警察正在指挥交通。左侧停放着一辆带有相同标识的黑色警用卡车。
+
+[English]
+A photorealistic, wide-angle shot of two massive bipedal humanoid robots standing on a wet concrete surface at a Japanese port. The robots are painted in white and dark grey armor plating with red emergency lights on their shoulders and heads. Each robot has '警視庁' (Metropolitan Police Department) and 'MPD' written in black text on their chest plates and shoulder guards. They are jointly holding a large, heavy industrial metal container or piece of machinery between them. In the background, there is a suspension bridge (resembling Tokyo Rainbow Bridge), city skyscrapers, and a blue sky with scattered clouds. On the ground level, numerous construction workers wearing yellow safety vests and hard hats are visible, along with police officers in dark uniforms directing traffic. A black police truck with similar markings is parked to the left.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2112914614136737994) | 2026-10-21
+
+---
+
+### 📷 例 8306：昭和复古风：身着花卉和服的少女肖像
+
+![昭和复古风：身着花卉和服的少女肖像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E9%A3%8E%EF%BC%9A%E8%BA%AB%E7%9D%80%E8%8A%B1%E5%8D%89%E5%92%8C%E6%9C%8D%E7%9A%84%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅年轻女性的竖版人像，她留着深色齐刘海短发波波头，坐在棕色瓷砖地面上。她身穿一件宽松的微透碎花和服式长袍，色调柔和，由米白、藏青与橄榄绿交织而成。她双膝蜷缩贴向胸前，下巴轻搁在交握的双手上，神情忧郁地直视镜头。脚上穿着一双厚底松糕凉鞋，搭配白色荷叶边绑带。发间别着一枚小巧的花朵发夹。背景是一面带有纹理的白色蕾丝窗帘。整幅画面散发着浓郁的昭和复古美学气息，柔焦效果、暖调色彩以及充满怀旧感的胶片颗粒质感相得益彰。
+
+[English]
+A vertical portrait of a young woman with short, dark bobbed hair and bangs sitting on a brown tiled floor. She is wearing a loose, semi-sheer floral kimono-style robe in muted tones of cream, navy, and olive green. Her knees are pulled up to her chest, and she rests her chin on her clasped hands, looking directly at the camera with a melancholic expression. On her feet, she wears chunky platform sandals with ruffled white straps. A small flower clip is visible in her hair. The background features a textured white lace curtain. The image has a distinct Showa-era retro aesthetic, characterized by soft focus, warm color grading, and a nostalgic film grain texture.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2112885558225838436) | 2026-10-21
+
+---
+
+### 📷 例 8310：动漫吉祥物版清水寺旅游 LP
+
+![动漫吉祥物版清水寺旅游 LP](../images/%E5%8A%A8%E6%BC%AB%E5%90%89%E7%A5%A5%E7%89%A9%E7%89%88%E6%B8%85%E6%B0%B4%E5%AF%BA%E6%97%85%E6%B8%B8%20LP.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为京都清水寺打造一个内容丰富、信息密集的竖版旅游落地页（LP）。
+画布：竖版比例（约 4:5），采用动漫插画与写实摄影的活力混搭风格，以干净的白色为背景，点缀橙色和紫色的笔触。
+布局：
+1. 头部导航：顶部导航栏左侧为 Logo“あぽろ塾 APOLLO JUKU”，中间为菜单项（Search、Model Course、Spot、Gourmet、Access），右侧为橙色 CTA 按钮“今すぐ旅に出る”。
+2. 首屏区域（Hero Section）：大标题“清水寺 Kiyomizu-dera”使用粗体黑色衬线字体。副标题为“京都・東山の絶景と歴史をめぐる”。画面中央是一位动漫角色（橙色头发、猫耳、印有“KYOTO”字样的街头风外套）手指向右方，身旁伴有一只燕尾服猫。背景是京都红叶与古塔交相辉映的全景图。悬浮的手写文字：“見たことのない京都に、きっと出会える。”和“ここにしかない景色がある。”。地点信息区块：“京都・東山”、“早朝散策がおすすめ”、“春は桜、秋は紅葉が人気”。世界遗产徽章及坐标“34.9945, 135.7843”。
+3. 亮点区域（“見どころ”）：横向可滑动卡片，展示“清水の舞台”、“音羽の滝”、“三年坂・二年坂”、“京都の街並みを一望”、“世界遺産”的照片。每张卡片包含一张照片、标题和简短描述。
+4. 应用与功能区域：左侧是一部智能手机样机，屏幕显示地图应用界面，标注了清水寺、音羽瀑布等地点的图钉。中间一列列出“アプリの主な機能”（App 主要功能）并配有图标：Spot Search、Model Course、Favorites、Offline Map。右侧为“モデルコース”（推荐路线），用编号步骤 01-04 展示路线缩略图。
+5. 季节推荐区域（“おすすめの季節”）：四个鲜明的季节区块（春、夏、秋、冬），分别配有对应的风景照片和简短的文字描述。
+6. 交通指南区域（“アクセス”）：右下方区域列出交通方式（电车、公交、自驾），并标明具体车站名称和步行时间。包含一个小小的古塔剪影和“Kyoto”字样。
+视觉风格：现代日式网页设计美学。色彩丰富的动漫吉祥物与宁静写实的摄影作品形成强烈对比。使用橙色（约 #FF5722）和紫色作为点缀色。正文采用干净的无衬线字体，标题则使用优雅的衬线字体。
+文本内容：请完全按照图片所示保留所有日文文本，包括“見どころ”、“モデルコース”、“アクセス”等版块标题以及具体的地名。
+
+[English]
+Goal: Create a comprehensive, high-density vertical travel landing page (LP) for Kiyomizu-dera in Kyoto.
+Canvas: Vertical aspect ratio (approx. 4:5), featuring a vibrant mix of anime illustration and realistic photography with a clean white background accented by orange and purple brushstrokes.
+Layout:
+1. Header: Top navigation bar with logo 'あぽろ塾 APOLLO JUKU' on the left, menu items (Search, Model Course, Spot, Gourmet, Access) in center, and an orange CTA button '今すぐ旅に出る' on right.
+2. Hero Section: Large title '清水寺 Kiyomizu-dera' in bold black serif font. Subtitle '京都・東山の絶景と歴史をめぐる'. A central anime character (orange hair, cat ears, streetwear jacket with 'KYOTO' text) pointing right, accompanied by a tuxedo cat. Background shows a panoramic view of Kyoto with autumn foliage and pagodas. Floating handwritten text: '見たことのない京都に、きっと出会える。' and 'ここにしかない景色がある。'. Location info block: '京都・東山', '早朝散策がおすすめ', '春は桜、秋は紅葉が人気'. World Heritage badge and coordinates '34.9945, 135.7843'.
+3. Highlights Section ('見どころ'): Horizontal scrollable cards showing photos of '清水の舞台', '音羽の滝', '三年坂・二年坂', '京都の街並みを一望', '世界遺産'. Each card has a photo, title, and short description.
+4. App & Features Section: Left side features a smartphone mockup displaying a map app interface with pins for Kiyomizu-dera, Otowa Waterfall, etc. Center column lists 'アプリの主な機能' (App Main Features) with icons: Spot Search, Model Course, Favorites, Offline Map. Right side is 'モデルコース' (Model Course) with numbered steps 01-04 showing route thumbnails.
+5. Seasonal Recommendations ('おすすめの季節'): Four distinct seasonal blocks (Spring, Summer, Autumn, Winter) with corresponding landscape photos and brief text descriptions.
+6. Access Section ('アクセス'): Bottom right area listing transport options (Train, Bus, Car) with specific station names and walking times. Includes a small silhouette of a pagoda and 'Kyoto' script.
+Visual style: Modern Japanese web design aesthetic. High contrast between the colorful anime mascot and the serene real-world photography. Use of orange (#FF5722 approx) and purple accents. Clean sans-serif typography for body text, elegant serif for headings.
+Text content: Preserve all Japanese text exactly as shown in the image, including section headers like '見どころ', 'モデルコース', 'アクセス', and the specific location names.
+```
+
+**来源：** [@あぽろ](https://x.com/apollo_nt/status/2112813837955240340) | 2026-10-21
+
+---
+
+### 📷 例 8312：昭和复古海滩人像
+
+![昭和复古海滩人像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%BB%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张竖版中景人像照片，画面中是一位身处海滩的东亚年轻女性，整体呈现出充满怀旧感的昭和复古胶片风格。她向左肩后方回眸，目光直视镜头，露齿绽放出灿烂而真诚的笑容。她的头发呈深棕色，扎成两条低垂的麻花辫或双马尾，用小发圈固定，刘海侧边别着一枚黑色发夹。头上戴着一顶宽檐编织草帽，帽檐为深棕色，在额头和双眼处投下斑驳的光影。她身穿一件白色镂空蕾丝细吊带背心，露出双肩与上背部，肌肤纹理自然真实，隐约可见细小的痣与雀斑。右手轻轻抬起，在脸颊旁扶住帽檐。背景是阳光明媚的海滨风光：湛蓝的海水、拍打礁石海岸的白色浪花，以及晴朗蓝天下远处绿意葱茏的山丘。画面右侧的水中，有两个略微虚化的人影正在游泳。整张照片色调温暖且带有颗粒感，完美复刻了 20 世纪 70 至 80 年代日本偶像写真的经典质感。
+
+[English]
+A vertical medium-shot portrait of a young East Asian woman at the beach, styled with a nostalgic Showa-era retro film aesthetic. She is looking back over her left shoulder directly at the camera with a bright, genuine smile showing teeth. Her hair is dark brown, tied into two low braids or pigtails secured with small bands, and she wears a black hair clip on the side of her bangs. A large, wide-brimmed woven straw hat with a dark brown rim sits on her head, casting dappled shadows across her forehead and eyes. She wears a white eyelet lace top with thin straps, exposing her bare shoulders and upper back which show natural skin texture including small moles and freckles. Her right hand is raised, gently holding the brim of her hat near her cheek. The background features a sunny coastal scene with blue ocean water, white foaming waves crashing on a rocky shore, and a green forested hill in the distance under a clear blue sky. Two blurred figures are visible swimming in the water to the right. The image has a grainy, warm color palette typical of vintage 1970s or 80s Japanese idol photography.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2112747858227282295) | 2026-10-21
+
+---
+
