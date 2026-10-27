@@ -22562,3 +22562,57 @@ Ensure all thumbnails have high contrast, vibrant colors, and professional light
 
 ---
 
+### 🏷️ 例 8321：电影感金色 B Logo
+
+![电影感金色 B Logo](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%87%91%E8%89%B2%20B%20Logo.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影质感的广角镜头中，一个孤独的身影背对观者，伫立在幽暗而反光的表面上。人物的剪影映衬着一座巨大的金色发光结构体，其造型宛如抽象艺术化的字母“B”，又似一条扭曲的缎带，仿佛由抛光金属铸就，散发着温暖的光芒。这座结构体矗立在一个硕大的发光球体前方，球体犹如一轮初升的旭日或一颗行星，为整个场景披上一层柔和的光晕。整体氛围充满未来感，令人叹为观止，画面色调以深邃的黑色与浓郁的金色为主。图像上方居中位置，以简洁的白色无衬线字体显示着“B.AI”字样。
+
+[English]
+A cinematic, wide-angle shot of a lone figure standing with their back to the viewer on a dark, reflective surface. The figure is silhouetted against a massive, glowing golden structure resembling an abstract, stylized letter 'B' or a twisted ribbon, which appears to be made of polished metal and emits a warm light. This structure is positioned in front of a large, luminous sphere that resembles a rising sun or planet, casting a soft glow across the scene. The overall atmosphere is futuristic and awe-inspiring, with a color palette dominated by deep blacks and rich golds. In the upper center of the image, the text "B.AI" is displayed in a clean, white, sans-serif font.
+```
+
+**来源：** [@CHIRABEN | AI × Web3](https://x.com/ChibuezeNwekpa/status/2114798502211412400) | 2026-10-26
+
+---
+
+### 🏷️ 例 8324：音乐科技类 YouTube 缩略图
+
+![音乐科技类 YouTube 缩略图](../images/%E9%9F%B3%E4%B9%90%E7%A7%91%E6%8A%80%E7%B1%BB%20YouTube%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图片为风格指南，生成一张包含 6 个不同 YouTube 缩略图设计的纵向拼图。每张缩略图必须使用同一位男性人物（戴耳机的蓄须男子），但需搭配不同的夸张面部表情和姿势，以契合各期视频的具体主题。
+
+1. **SoundCloud 新闻：** 人物表情震惊/怀疑。背景包含 SoundCloud logo 以及黄色/白色大字的“BIG NEWS”。时长：11:41。
+2. **Tembo 产品：** 人物表情困惑/疑惑。画面中有一个橙色网格状设备（Tembo）和大字“WHY??”。时长：16:54。
+3. **Akai MPC Live II：** 人物表情惊讶。画面中有一台白色 Akai MPC 控制器和大字“WHY??”。时长：11:16。
+4. **免费插件：** 人物开怀大笑。画面中有一个深色插件界面和大字“FREE PLUGINS”。时长：12:03。
+5. **Soothe2 插件：** 人物表情痛苦/激动。画面中有 Soothe2 插件界面和文字“FREE”。时长：18:16。
+6. **作弊？：** 人物表情可疑/震惊。画面中有一个紫色插件界面，带有标注 A 和 B 的波形对比图，以及红色大字“CHEATING?”。时长：14:26。
+
+请确保所有缩略图都具备高对比度、鲜艳的色彩以及专业的布光效果，符合科技/音乐制作类内容的典型视觉风格。
+
+[English]
+Using the provided reference image as a style guide, generate a vertical compilation of six distinct YouTube thumbnail designs. Each thumbnail must feature the same male subject (a bearded man wearing headphones) but with different exaggerated facial expressions and poses to match the specific topic of each video.
+
+1. **SoundCloud News:** The subject looks shocked/skeptical. Background features the SoundCloud logo and text 'BIG NEWS' in large yellow/white font. Duration: 11:41.
+2. **Tembo Product:** The subject looks confused/questioning. Features an orange grid-like device (Tembo) and large text 'WHY??'. Duration: 16:54.
+3. **Akai MPC Live II:** The subject looks surprised. Features a white Akai MPC controller and large text 'WHY??'. Duration: 11:16.
+4. **Free Plugins:** The subject is smiling broadly. Features a dark plugin interface and large text 'FREE PLUGINS'. Duration: 12:03.
+5. **Soothe2 Plugin:** The subject looks distressed/intense. Features the Soothe2 plugin interface and text 'FREE'. Duration: 18:16.
+6. **Cheating?:** The subject looks suspicious/shocked. Features a purple plugin interface with waveform comparisons labeled A and B, and large red text 'CHEATING?'. Duration: 14:26.
+
+Ensure all thumbnails have high contrast, vibrant colors, and professional lighting typical of tech/music production content.
+```
+
+**来源：** [@Busy Works Beats](https://x.com/BusyWorksBeats/status/2114630639706079371) | 2026-10-26
+
+---
+

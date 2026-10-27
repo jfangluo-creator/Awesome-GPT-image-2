@@ -74934,3 +74934,39 @@ A vintage-style photograph with a nostalgic Showa-era aesthetic, featuring a you
 
 ---
 
+### 📷 例 8322：昭和复古街头人像
+
+![昭和复古街头人像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅竖构图的中景人像，一位年轻的东亚女性站在熙熙攘攘的城市人行道上，画面呈现出 20 世纪 80 年代日本胶片摄影的纯正质感。她留着深色短发，一侧别着一枚小巧的金色发夹，头微微偏向镜头，露出自然柔和的微笑。肌肤保留了真实的纹理，鼻梁与双颊上隐约可见几粒雀斑。她身穿一件宽松的橄榄绿羊毛大衣，内搭格纹半裙，颈间围着一条厚实的棕米相间条纹针织围巾。斜挎包的细皮带从胸前穿过。背景是热闹的街景：路边停着自行车，街上跑着老式汽车，行人正渐渐走远，带有日文的店铺招牌在远处虚化。光线柔和温暖，带着模拟胶片特有的质感，颗粒感明显，色调怀旧动人。
+
+[English]
+A vertical medium-shot portrait of a young East Asian woman standing on a busy city sidewalk, captured in the style of authentic 1980s Japanese film photography. She has short dark hair with a small gold barrette clipped to one side and is tilting her head slightly toward the camera with a gentle, candid smile. Her skin shows natural texture with visible freckles across her nose and cheeks. She wears an oversized olive-green wool coat over a plaid skirt, with a thick brown and beige striped knit scarf wrapped around her neck. A thin leather strap from a shoulder bag crosses her chest. The background features a bustling street scene with parked bicycles, vintage cars, pedestrians walking away, and blurred storefront signs with Japanese text. The lighting is soft and warm, characteristic of analog film stock, with noticeable grain and a nostalgic color palette.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2114716529233465849) | 2026-10-26
+
+---
+
+### 📷 例 8323：昭和复古人像：女子与石像
+
+![昭和复古人像：女子与石像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E4%BA%BA%E5%83%8F%EF%BC%9A%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%9F%B3%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满昭和时代怀旧气息的复古风格照片。画面中，一位留着黑色短发的年轻亚洲女性蹲在一尊饱经风霜的古老石制狛犬（狮子狗）雕像旁。她身穿一件米色短袖纽扣衬衫，上面点缀着棕色小碎花图案，搭配深棕色短裤。她直视镜头，神情平静，略带一丝忧郁。场景位于户外，脚下是碎石地面，背景是一面建筑墙壁，墙上的管道清晰可见。整张照片呈现出 20 世纪 70 年代胶片摄影特有的温暖褪色色调。
+
+[English]
+A vintage-style photograph with a nostalgic Showa-era aesthetic, featuring a young Asian woman with short black hair crouching next to an old, weathered stone komainu (lion-dog) statue. She is wearing a beige short-sleeved button-up shirt with a small brown floral pattern and dark brown shorts. Her expression is calm and slightly melancholic as she looks directly at the camera. The scene is set outdoors on gravel ground near a building wall with visible pipes in the background. The image has a warm, faded color palette typical of 1970s film photography.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2114690863607763179) | 2026-10-26
+
+---
+

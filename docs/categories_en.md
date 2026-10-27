@@ -3665,7 +3665,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3079)
+## 📷 [Photography & Realistic](cat-photo.md) (3081)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9757,6 +9757,10 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8316: 昭和复古街头人像](cat-photo.md#-例-8316昭和复古街头人像)
 
 - [Case 8317: 昭和复古人像：女子与石像](cat-photo.md#-例-8317昭和复古人像女子与石像)
+
+- [Case 8322: 昭和复古街头人像](cat-photo.md#-例-8322昭和复古街头人像)
+
+- [Case 8323: 昭和复古人像：女子与石像](cat-photo.md#-例-8323昭和复古人像女子与石像)
 ---
 
 <a id="illustration"></a>
@@ -12393,7 +12397,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (387)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (388)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13155,6 +13159,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8304: GPT Image 2 提示词长度对比](cat-3d.md#-例-8304gpt-image-2-提示词长度对比)
 
 - [Case 8320: 动漫冒险者角色设定图](cat-3d.md#-例-8320动漫冒险者角色设定图)
+
+- [Case 8325: 动漫冒险者角色设定图](cat-3d.md#-例-8325动漫冒险者角色设定图)
 ---
 
 <a id="architecture"></a>
@@ -14243,7 +14249,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (916)
+## 🏷️ [Brand & Packaging](cat-brand.md) (918)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16070,6 +16076,10 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8318: 温馨场景复古素描本插画](cat-brand.md#️-例-8318温馨场景复古素描本插画)
 
 - [Case 8319: 音乐科技类 YouTube 缩略图](cat-brand.md#️-例-8319音乐科技类-youtube-缩略图)
+
+- [Case 8321: 电影感金色 B Logo](cat-brand.md#️-例-8321电影感金色-b-logo)
+
+- [Case 8324: 音乐科技类 YouTube 缩略图](cat-brand.md#️-例-8324音乐科技类-youtube-缩略图)
 ---
 
 <a id="edit"></a>
