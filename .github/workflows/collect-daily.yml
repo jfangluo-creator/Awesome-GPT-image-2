@@ -26,7 +26,8 @@ env:
 
 jobs:
   collect:
-    runs-on: ubuntu-latest
+    # Playwright 1.60 不支持 Ubuntu 26，固定版本避免 latest 自动升级后安装失败。
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
