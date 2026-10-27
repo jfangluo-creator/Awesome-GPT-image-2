@@ -22490,3 +22490,75 @@ A vertical 9:16 synthwave-style digital illustration of a sleek, low-profile spo
 
 ---
 
+### 🏷️ 例 8314：电影感金色 B Logo
+
+![电影感金色 B Logo](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%87%91%E8%89%B2%20B%20Logo.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影质感的广角镜头中，一个孤独的身影背对观者，伫立在幽暗而反光的表面上。人物的剪影映衬着一座巨大的金色发光结构体，其造型宛如抽象艺术化的字母“B”，又似一条扭曲的缎带，仿佛由抛光金属铸就，散发着温暖的光芒。这座结构体矗立在一个硕大的发光球体前方，球体犹如一轮初升的旭日或一颗行星，为整个场景披上一层柔和的光晕。整体氛围充满未来感，令人叹为观止，画面色调以深邃的黑色与浓郁的金色为主。图像上方居中位置，以简洁的白色无衬线字体显示着“B.AI”字样。
+
+[English]
+A cinematic, wide-angle shot of a lone figure standing with their back to the viewer on a dark, reflective surface. The figure is silhouetted against a massive, glowing golden structure resembling an abstract, stylized letter 'B' or a twisted ribbon, which appears to be made of polished metal and emits a warm light. This structure is positioned in front of a large, luminous sphere that resembles a rising sun or planet, casting a soft glow across the scene. The overall atmosphere is futuristic and awe-inspiring, with a color palette dominated by deep blacks and rich golds. In the upper center of the image, the text "B.AI" is displayed in a clean, white, sans-serif font.
+```
+
+**来源：** [@CHIRABEN | AI × Web3](https://x.com/ChibuezeNwekpa/status/2114798502211412400) | 2026-10-26
+
+---
+
+### 🏷️ 例 8318：温馨场景复古素描本插画
+
+![温馨场景复古素描本插画](../images/%E6%B8%A9%E9%A6%A8%E5%9C%BA%E6%99%AF%E5%A4%8D%E5%8F%A4%E7%B4%A0%E6%8F%8F%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅唯美怀旧的手绘编辑插画，以统一的复古速写本风格将两个温馨的日常场景巧妙融合。第一个场景中，一位年轻女子留着深棕色头发、随意挽着丸子头，戴着黑框眼镜，身穿黑色服装，正在一家迷人的花店里整理色彩缤纷的粉色玫瑰、珊瑚色花朵、细碎的白色小花和繁茂的绿叶，手中捧着一大束用棕色牛皮纸包裹的花束。四周环绕着盆栽植物、热带阔叶、盛开的鲜花和高挑的复古窗户。第二个场景中，一对年轻情侣亲密地依偎在一条迷人的欧洲城市街道的石阶上。男子头戴藏青色棒球帽，佩戴耳机，身穿灰色连帽衫、黑色长款大衣、蓝色牛仔裤和运动鞋；女子则穿着黑色大衣，搭配浅蓝色柔软围巾、米白色长裤和黑色运动鞋，斜挎着一个棕色皮质单肩包。两人共享一段静谧而甜蜜的时光，周围是典雅的老建筑、温馨的咖啡馆、散发着暖光的街灯、自行车、枝繁叶茂的树木和来往的行人。整体采用和谐的色彩搭配，包括暖米色、橄榄绿、芥末黄、灰蓝色、藏青色、珊瑚色和柔粉色。融入彩色铅笔的肌理笔触、细腻的墨水轮廓线、淡雅的水彩晕染、复古纸张纹理、别致的手绘细节以及温暖的自然光线。充满奇思妙想的生活片段叙事，温馨怀旧的氛围，保留艺术性的不完美痕迹，高度精细的插画，高级手工速写本质感，两个场景保持统一的艺术风格，竖版构图，非照片写实风格。
+
+[English]
+Create a beautiful, nostalgic hand-drawn editorial illustration combining two cozy everyday scenes in a consistent vintage sketchbook style. In the first scene, a young woman with dark brown hair in a messy bun and black glasses, wearing a black outfit, arranges colorful pink roses, coral flowers, tiny white blossoms, and lush greenery inside a charming flower shop, holding a large bouquet wrapped in brown kraft paper. Surround her with potted plants, tropical leaves, blooming flowers, and tall vintage windows. In the second scene, a young couple sits closely together on stone steps along a charming European city street. The man wears a navy baseball cap, headphones, a gray hoodie, a long black coat, blue jeans, and sneakers, while the woman wears a black coat, a soft blue scarf, cream trousers, black sneakers, and carries a brown leather shoulder bag. They share a quiet, affectionate moment surrounded by elegant old buildings, a cozy café, glowing street lamps, bicycles, leafy trees, and pedestrians. Use a harmonious palette of warm cream, olive green, mustard yellow, dusty blue, navy, coral, and soft pink. Add textured colored-pencil strokes, delicate ink outlines, subtle watercolor shading, vintage paper grain, charming hand-drawn accents, and warm natural lighting. Whimsical slice-of-life storytelling, cozy nostalgic atmosphere, artistic imperfections, highly detailed illustration, premium handmade sketchbook aesthetic, consistent art style across both scenes, vertical composition, no photorealism.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2114674322816328173) | 2026-10-26
+
+---
+
+### 🏷️ 例 8319：音乐科技类 YouTube 缩略图
+
+![音乐科技类 YouTube 缩略图](../images/%E9%9F%B3%E4%B9%90%E7%A7%91%E6%8A%80%E7%B1%BB%20YouTube%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图片为风格指南，生成一张包含 6 个不同 YouTube 缩略图设计的纵向拼图。每张缩略图必须使用同一位男性人物（戴耳机的蓄须男子），但需搭配不同的夸张面部表情和姿势，以契合各期视频的具体主题。
+
+1. **SoundCloud 新闻：** 人物表情震惊/怀疑。背景包含 SoundCloud logo 以及黄色/白色大字的“BIG NEWS”。时长：11:41。
+2. **Tembo 产品：** 人物表情困惑/疑惑。画面中有一个橙色网格状设备（Tembo）和大字“WHY??”。时长：16:54。
+3. **Akai MPC Live II：** 人物表情惊讶。画面中有一台白色 Akai MPC 控制器和大字“WHY??”。时长：11:16。
+4. **免费插件：** 人物开怀大笑。画面中有一个深色插件界面和大字“FREE PLUGINS”。时长：12:03。
+5. **Soothe2 插件：** 人物表情痛苦/激动。画面中有 Soothe2 插件界面和文字“FREE”。时长：18:16。
+6. **作弊？：** 人物表情可疑/震惊。画面中有一个紫色插件界面，带有标注 A 和 B 的波形对比图，以及红色大字“CHEATING?”。时长：14:26。
+
+请确保所有缩略图都具备高对比度、鲜艳的色彩以及专业的布光效果，符合科技/音乐制作类内容的典型视觉风格。
+
+[English]
+Using the provided reference image as a style guide, generate a vertical compilation of six distinct YouTube thumbnail designs. Each thumbnail must feature the same male subject (a bearded man wearing headphones) but with different exaggerated facial expressions and poses to match the specific topic of each video.
+
+1. **SoundCloud News:** The subject looks shocked/skeptical. Background features the SoundCloud logo and text 'BIG NEWS' in large yellow/white font. Duration: 11:41.
+2. **Tembo Product:** The subject looks confused/questioning. Features an orange grid-like device (Tembo) and large text 'WHY??'. Duration: 16:54.
+3. **Akai MPC Live II:** The subject looks surprised. Features a white Akai MPC controller and large text 'WHY??'. Duration: 11:16.
+4. **Free Plugins:** The subject is smiling broadly. Features a dark plugin interface and large text 'FREE PLUGINS'. Duration: 12:03.
+5. **Soothe2 Plugin:** The subject looks distressed/intense. Features the Soothe2 plugin interface and text 'FREE'. Duration: 18:16.
+6. **Cheating?:** The subject looks suspicious/shocked. Features a purple plugin interface with waveform comparisons labeled A and B, and large red text 'CHEATING?'. Duration: 14:26.
+
+Ensure all thumbnails have high contrast, vibrant colors, and professional lighting typical of tech/music production content.
+```
+
+**来源：** [@Busy Works Beats](https://x.com/BusyWorksBeats/status/2114630639706079371) | 2026-10-26
+
+---
+

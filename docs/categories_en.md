@@ -3665,7 +3665,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3076)
+## 📷 [Photography & Realistic](cat-photo.md) (3079)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9751,6 +9751,12 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8310: 动漫吉祥物版清水寺旅游 LP](cat-photo.md#-例-8310动漫吉祥物版清水寺旅游-lp)
 
 - [Case 8312: 昭和复古海滩人像](cat-photo.md#-例-8312昭和复古海滩人像)
+
+- [Case 8315: 带人像的逼真挂历](cat-photo.md#-例-8315带人像的逼真挂历)
+
+- [Case 8316: 昭和复古街头人像](cat-photo.md#-例-8316昭和复古街头人像)
+
+- [Case 8317: 昭和复古人像：女子与石像](cat-photo.md#-例-8317昭和复古人像女子与石像)
 ---
 
 <a id="illustration"></a>
@@ -12387,7 +12393,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (386)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (387)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13147,6 +13153,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8303: 杭州早安微缩茶景](cat-3d.md#-例-8303杭州早安微缩茶景)
 
 - [Case 8304: GPT Image 2 提示词长度对比](cat-3d.md#-例-8304gpt-image-2-提示词长度对比)
+
+- [Case 8320: 动漫冒险者角色设定图](cat-3d.md#-例-8320动漫冒险者角色设定图)
 ---
 
 <a id="architecture"></a>
@@ -14235,7 +14243,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (913)
+## 🏷️ [Brand & Packaging](cat-brand.md) (916)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16056,6 +16064,12 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8290: 东方茶商业海报设计](cat-brand.md#️-例-8290东方茶商业海报设计)
 
 - [Case 8307: 日落下的合成波跑车](cat-brand.md#️-例-8307日落下的合成波跑车)
+
+- [Case 8314: 电影感金色 B Logo](cat-brand.md#️-例-8314电影感金色-b-logo)
+
+- [Case 8318: 温馨场景复古素描本插画](cat-brand.md#️-例-8318温馨场景复古素描本插画)
+
+- [Case 8319: 音乐科技类 YouTube 缩略图](cat-brand.md#️-例-8319音乐科技类-youtube-缩略图)
 ---
 
 <a id="edit"></a>
