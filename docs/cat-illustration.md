@@ -22374,3 +22374,21 @@ cute, black gingham tight skirt, black knit sweater, beige boots, monochrome ele
 
 ---
 
+### 🎨 例 8328：温馨晨间插画
+
+![温馨晨间插画](../images/%E6%B8%A9%E9%A6%A8%E6%99%A8%E9%97%B4%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅温馨的手绘插画，采用舒适的水彩风格，描绘了一位年轻女子在床上醒来的场景。她留着一头凌乱的深色头发，身穿一件宽松的白色长袖衬衫和灰色格纹睡裤，脚上穿着袜子。她坐在木质床架的边缘，闭着双眼，神情安详，双臂高高举过头顶伸着懒腰。床上铺着皱巴巴的白色床单，放着蓝色枕头和一个格子图案的抱枕。一只橘猫蜷缩在床尾熟睡。画面左侧有一个小巧的木质床头柜，上面摆着一个蓝色闹钟、一个印有花朵图案的白色马克杯和一摞书。一株垂蔓绿植从床头柜一侧垂落下来。背景中，一扇窗户透进明亮的阳光，照亮了整个房间。床边的地板上放着一双条纹拖鞋。图片顶部是醒目的红色手写中文大字“早安，慢一点也没关系”。下方是较小的黑色文字“醒来这件事，可以慢慢进行。”左下角是小号英文“MORNING MOOD POSTER / good morning”，紧接着是中文“给今天留一个温柔开场”。
+
+[English]
+A warm, hand-drawn illustration in a cozy watercolor style depicting a young woman waking up in bed. She has messy dark hair and is wearing an oversized white long-sleeved shirt and grey plaid pajama pants with socks. She sits on the edge of a wooden bed frame, stretching her arms high above her head with her eyes closed and a peaceful expression. The bed has rumpled white sheets, blue pillows, and a checkered pillow. An orange tabby cat is curled up asleep at the foot of the bed. To the left, there is a small wooden nightstand holding a blue alarm clock, a white mug with a flower design, and a stack of books. A trailing green plant hangs from the side of the nightstand. In the background, a window shows bright sunlight streaming in, illuminating the room. On the floor near the bed are a pair of striped slippers. At the top of the image, large red handwritten Chinese text reads "早安，慢一点也没关系" (Good morning, it's okay to be slow). Below that, smaller black text reads "醒来这件事，可以慢慢进行。" (Waking up can happen slowly). At the bottom left, small English text says "MORNING MOOD POSTER / good morning" followed by Chinese text "给今天留一个温柔开场" (Leave a gentle opening for today).
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2114916073246237022) | 2026-10-27
+
+---
+

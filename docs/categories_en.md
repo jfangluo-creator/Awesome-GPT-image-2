@@ -3665,7 +3665,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3081)
+## 📷 [Photography & Realistic](cat-photo.md) (3083)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9761,11 +9761,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8322: 昭和复古街头人像](cat-photo.md#-例-8322昭和复古街头人像)
 
 - [Case 8323: 昭和复古人像：女子与石像](cat-photo.md#-例-8323昭和复古人像女子与石像)
+
+- [Case 8326: 战术猫审讯场景](cat-photo.md#-例-8326战术猫审讯场景)
+
+- [Case 8329: 地铁抓拍照片提示词](cat-photo.md#-例-8329地铁抓拍照片提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1069)
+## 🎨 [Illustration & Art](cat-illustration.md) (1070)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11889,6 +11893,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8301: 单色优雅秋季穿搭](cat-illustration.md#-例-8301单色优雅秋季穿搭)
 
 - [Case 8311: 滑稽通缉令角色提示词](cat-illustration.md#-例-8311滑稽通缉令角色提示词)
+
+- [Case 8328: 温馨晨间插画](cat-illustration.md#-例-8328温馨晨间插画)
 ---
 
 <a id="character"></a>
@@ -16084,7 +16090,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (190)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (191)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16463,6 +16469,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8270: 手绘 2D 卡通插画](cat-edit.md#-例-8270手绘-2d-卡通插画)
 
 - [Case 8302: GPT Image 2 民间艺术风格前后对比转换](cat-edit.md#-例-8302gpt-image-2-民间艺术风格前后对比转换)
+
+- [Case 8327: 分屏照片转动漫风格提示词](cat-edit.md#-例-8327分屏照片转动漫风格提示词)
 ---
 
 <a id="fun"></a>

@@ -6183,3 +6183,73 @@ Where people appear, use small, solid, faceless figures with filled clothing and
 
 ---
 
+### 🔧 例 8327：分屏照片转动漫风格提示词
+
+![分屏照片转动漫风格提示词](../images/%E5%88%86%E5%B1%8F%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为精美的分屏插画，一半写实、一半动漫风格，呈现可爱俏皮的手绘美感。
+
+构图与格式
+采用 3:4 竖版比例。生成一张视觉连贯的完整图像，从画面中央垂直分割，分割线为不规则的撕纸白边。左半部分保留原照片的写实摄影细节，右半部分则将同一张照片重新演绎为精致的高品质日系动漫风数字插画。左右两半必须完美对齐，主体、姿势、面部朝向、发型、服装、配饰、拍摄角度及背景位置均保持一致。撕纸边缘需呈现自然撕裂的效果，带有粗糙的白色纤维和不规则的有机形状。
+
+左半部分 —— 原始照片
+尽可能忠实地还原上传的照片。保留人物的原有特征、五官、肤色、发型、表情、服装、配饰、姿势、光线和环境。维持写实的摄影质感、自然阴影和真实色彩。在人物周围添加少量精致的手绘涂鸦，注意不要遮挡重要的面部特征。
+
+右半部分 —— 动漫插画
+以精致的日系动漫插画风格重现同一场景，并融入柔和的韩系条漫美学。保留人物可辨识的特征与原始外貌。使用干净且富有表现力的线条、细腻的面部刻画、柔和的肤质渲染、淡淡的腮红、丝丝分明的秀发、轻柔的高光、平滑的阴影过渡以及精致的色彩渐变。确保原有的服装和配饰清晰可辨。将背景转化为柔和插画风格的原始环境，同时保留其构图与氛围。
+
+可爱手绘涂鸦
+在插画一侧直接叠加迷人多彩的手绘涂鸦进行装饰：
+- 粉色和红色的小爱心。
+- 黄色与金色的星星、闪光和花朵轮廓。
+- 白色或马卡龙色系的迷你卡通猫咪和小兔子。
+- 蓝色纸飞机、虚线飞行轨迹和俏皮的符号。
+- 手绘曲线、小皇冠、欢快的点缀元素和充满奇思妙想的装饰标记。
+
+采用随性的手账速写风格，线条略带不完美的手工感，搭配类似贴纸的细微描边，并使用婴儿蓝、樱花粉、奶油黄、米白和纯白等和谐柔和的马卡龙色系。让涂鸦自然地分布在人物周围，顺应整体构图，切勿遮挡面部。
+
+艺术指导
+可爱、梦幻、青春、浪漫、俏皮且极具美感。将真实的摄影作品与高品质的动漫同人插画、手账风涂鸦艺术巧妙结合。注重细腻的细节刻画、柔和的自然光线、均衡的色彩搭配，呈现干净专业的最终效果。
+
+重要规则
+1. 保留原图中人物的身份特征与可辨识的外貌。
+2. 左半部分保持照片的写实
+
+[English]
+Transform the uploaded photograph into a beautiful split-screen, half-realistic and half-anime illustration with a cute, playful, hand-drawn aesthetic.
+
+COMPOSITION & FORMAT
+Vertical 3:4 aspect ratio. Create one seamless-looking image divided vertically down the center by an irregular, torn white paper edge. The left half shows the original photograph in realistic photographic detail, while the right half reimagines the exact same photograph as a polished, high-quality anime-inspired digital illustration. Both halves must align perfectly, with the same subject, pose, facial direction, hairstyle, clothing, accessories, camera angle, and background placement. The torn-paper edge should look naturally ripped, with rough white fibers and an organic, imperfect shape.
+
+LEFT HALF — ORIGINAL PHOTOGRAPH
+Preserve the uploaded photo as faithfully as possible. Maintain the subject's original identity, facial features, skin tone, hairstyle, expression, clothing, accessories, pose, lighting, and surroundings. Keep realistic photographic textures, natural shadows, and authentic colors. Add a few delicate, hand-drawn doodles around the subject without covering important facial features.
+
+RIGHT HALF — ANIME ILLUSTRATION
+Recreate the same scene in a sophisticated Japanese anime-inspired illustration style blended with soft Korean webtoon aesthetics. Preserve the subject's recognizable identity and original appearance. Use clean, expressive linework, delicate facial details, softly rendered skin, subtle blush, beautifully illustrated hair strands, gentle highlights, smooth shading, and refined color gradients. Keep the original outfit and accessories recognizable. Translate the background into a softly illustrated version of the original environment, preserving its composition and atmosphere.
+
+CUTE HAND-DRAWN DOODLES
+Decorate the illustrated half with charming, colorful doodles drawn directly over the image:
+- Small pink and red hearts.
+- Yellow and golden stars, sparkles, and flower outlines.
+- Tiny white or pastel-colored cartoon cats and bunnies.
+- Blue paper airplanes, dotted flight paths, and playful symbols.
+- Hand-drawn curved lines, tiny crowns, cheerful accents, and whimsical decorative marks.
+
+Use a loose, sketchbook-inspired drawing style with slightly imperfect outlines, subtle sticker-like borders, and a harmonious pastel color palette of baby blue, blush pink, butter yellow, cream, and white. Arrange the doodles naturally around the subject, following the composition and leaving the face unobstructed.
+
+ART DIRECTION
+Cute, dreamy, youthful, romantic, playful, and aesthetically pleasing. Combine authentic photography with premium anime fan-art illustration and scrapbook-inspired doodle art. Use delicate details, soft natural lighting, balanced colors, and a clean, professionally finished appearance.
+
+IMPORTANT RULES
+1. Preserve the original person's identity and recognizable appearance.
+2. Keep the left half photographic
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2114943235789586498) | 2026-10-27
+
+---
+

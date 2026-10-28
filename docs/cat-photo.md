@@ -74970,3 +74970,39 @@ A vintage-style photograph with a nostalgic Showa-era aesthetic, featuring a you
 
 ---
 
+### 📷 例 8326：战术猫审讯场景
+
+![战术猫审讯场景](../images/%E6%88%98%E6%9C%AF%E7%8C%AB%E5%AE%A1%E8%AE%AF%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实、高分辨率的摄影棚照片，画面中是两只拟人化的猫，置身于军事主题场景，背景为干净的纯白色。站立的猫是一只橘色虎斑猫，身穿全套现代战术装备，包括带护目镜的迷彩头盔、厚重的防弹携板背心以及作战靴。它右爪握着一把带瞄准镜的黑色突击步枪，左脚战靴踩在躺在地上的第二只猫背上，姿态威风凛凛。被击败的猫是一只灰白相间的短毛猫，被粗绳紧紧捆绑，头戴一顶饰有红星徽章的绿色军帽，双眼淤青夸张、鼻子肿胀，看起来伤痕累累。
+
+[English]
+A hyper-realistic, high-resolution studio photograph of two anthropomorphic cats in a military-themed scene against a clean white background. The standing cat is an orange tabby wearing full modern tactical gear, including a camouflage helmet with goggles, a heavy plate carrier vest, and combat boots. It holds a black assault rifle with a scope in its right paw and stands triumphantly with its left boot resting on the back of a second cat lying on the ground. The defeated cat is a grey and white shorthair, bound tightly in thick rope, wearing a green military cap with a red star emblem, and sporting exaggerated bruised eyes and a swollen nose to look battered.
+```
+
+**来源：** [@毕长根（dogKnight）](https://x.com/dogKnight_92/status/2115016100245328319) | 2026-10-27
+
+---
+
+### 📷 例 8329：地铁抓拍照片提示词
+
+![地铁抓拍照片提示词](../images/%E5%9C%B0%E9%93%81%E6%8A%93%E6%8B%8D%E7%85%A7%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+地铁上一位漂亮女子正在看手机；一张抓拍照片。
+
+[English]
+A beautiful woman looking at her phone on the subway; a candid photo.
+```
+
+**来源：** [@山上有松](https://x.com/supereasyit/status/2114915979922981184) | 2026-10-27
+
+---
+
