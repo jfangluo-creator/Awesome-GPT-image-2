@@ -22616,3 +22616,21 @@ Ensure all thumbnails have high contrast, vibrant colors, and professional light
 
 ---
 
+### 🏷️ 例 8337：万圣节魅魔服装变身
+
+![万圣节魅魔服装变身](../images/%E4%B8%87%E5%9C%A3%E8%8A%82%E9%AD%85%E9%AD%94%E6%9C%8D%E8%A3%85%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请根据提供的参考图，完全保持角色的面部、发色以及挥手的姿势不变。将她的服装改为万圣节魅魔装扮：把黑白连体衣替换为带有光泽感的红色无肩带紧身衣，胸口处设计钥匙孔形镂空；上臂处添加蓬松的白色毛边装饰；腿部换成带有暗纹云朵图案的紫色连裤袜，并搭配红色高跟靴。在她背后加上一对巨大的红黑蝙蝠翅膀，头顶再佩戴两个同款的小型蝙蝠翅膀发夹。
+
+[English]
+Using the provided reference image, keep the character's face, hair color, and waving pose completely unchanged. Transform her outfit into a Halloween succubus costume: replace the black-and-white bodysuit with a glossy red strapless leotard featuring a keyhole cutout at the chest, add fluffy white fur trim around the upper arms, and change the legwear to purple tights with subtle cloud patterns and red high-heeled boots. Add large red and black bat wings sprouting from her back, and place two small matching bat-wing hair clips on top of her head.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2115284930351779947) | 2026-10-28
+
+---
+

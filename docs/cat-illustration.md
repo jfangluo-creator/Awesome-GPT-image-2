@@ -22392,3 +22392,84 @@ A warm, hand-drawn illustration in a cozy watercolor style depicting a young wom
 
 ---
 
+### 🎨 例 8333：黄色格子护士装提示词
+
+![黄色格子护士装提示词](../images/%E9%BB%84%E8%89%B2%E6%A0%BC%E5%AD%90%E6%8A%A4%E5%A3%AB%E8%A3%85%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱柔和的淡黄白格纹护士装，甜美洛丽塔风格连衣裙，泡泡袖，精致白色蕾丝荷叶边，褶边围裙，收腰设计，蓬松多层裙摆，超大格纹蝴蝶结，珍珠纽扣，配套淡黄色格纹护士帽配白色褶边与小巧花朵装饰，柔和淡雅色调，可爱优雅风格，温柔微笑，动态姿势，细腻的面料纹理质感，无红十字标志，无医疗符号，杰作，最高画质。
+
+[English]
+Cute pastel yellow and white gingham nurse outfit, sweet Lolita-inspired dress, puff sleeves, delicate white lace ruffles, frilled apron, fitted waist, fluffy layered skirt, oversized gingham bows, pearl buttons, matching yellow gingham nurse cap with white frills and tiny floral decorations, soft pastel colors, adorable elegant style, gentle smile, dynamic pose, detailed fabric textures, no red cross, no medical symbols, masterpiece, best quality.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2115339029633716513) | 2026-10-28
+
+---
+
+### 🎨 例 8336：樱花与纹理素材表
+
+![樱花与纹理素材表](../images/%E6%A8%B1%E8%8A%B1%E4%B8%8E%E7%BA%B9%E7%90%86%E7%B4%A0%E6%9D%90%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白背景上生成一张全面的素材表，整体划分为 7 个带编号的独立区域，标题使用浅灰色。风格为高分辨率数字水彩与肌理艺术。
+
+Section 01（左上）：四种形态的粉色樱花枝条，分别标注为 'branch_01.png' 至 'branch_04.png'。应为细腻的水彩插画，深褐色枝干搭配柔和的粉色花瓣。
+
+Section 02（右上）：约 30 片随机散落的樱花花瓣集合，标注为 'petals_transparent PNG'。在该组花瓣的右下角加入几朵完整的樱花。
+
+Section 03（中左）：五个正方形蓝天纹理图块，标注为 'sky_01.png' 至 'sky_05.png'。画面应为蓝色背景上的白云，并呈现不同程度的半调网点图案或像素化噪点效果。
+
+Section 04（中右）：十二个小型正方形纹理色卡，排列为两行、每行六个。标签包括 'dither_01-03'、'ink_red_01-02'、'ink_black_01-02'、'grunge_01-02' 和 'grain_01-03'。视觉效果应涵盖黑白抖动图案、红色墨迹飞溅以及米色纸张颗粒等。
+
+Section 05（左下）：四个竖长矩形纸张纹理条，标注为 'paper_01.png' 至 'paper_04.png'。颜色分别为奶油色、浅灰色、深炭色和米白色，需清晰展现纤维细节。
+
+Section 06（中下）：三张投射在平面上的阴影图像。一个大正方形展示枝叶阴影（'shadow_branch.png'），一个较小的正方形展示浓密树叶阴影（'shadow_leaf_01.png'），以及一个细长竖条展示线性阴影（'line_01.png'）。
+
+Section 07（右下）：六个灰度渐变蒙版，标注为 'mask_diagonal.png'、'mask_soft_01.png'、'mask_soft_02.png' 和 'gradient_fade.png'。应以不同形状（对角切割、柔和团块、线性淡出）呈现从黑到白的平滑过渡。
+
+[English]
+Generate a comprehensive asset sheet on a pure white background, organized into seven distinct numbered sections with faint gray headers. The style is high-resolution digital watercolor and texture art.
+
+Section 01 (Top Left): Four variations of pink cherry blossom branches labeled 'branch_01.png' through 'branch_04.png'. These should be delicate watercolor illustrations with dark brown stems and soft pink petals.
+
+Section 02 (Top Right): A collection of approximately 30 loose cherry blossom petals scattered randomly, labeled 'petals_transparent PNG'. Include a few full flowers at the bottom right of this cluster.
+
+Section 03 (Middle Left): Five square tiles of blue sky textures labeled 'sky_01.png' to 'sky_05.png'. These should feature white clouds against a blue background with varying degrees of halftone dot patterns or pixelated noise effects.
+
+Section 04 (Middle Right): Twelve small square texture swatches arranged in two rows of six. Labels include 'dither_01-03', 'ink_red_01-02', 'ink_black_01-02', 'grunge_01-02', and 'grain_01-03'. Visuals should range from black/white dithering patterns to red ink splatters and beige paper grain.
+
+Section 05 (Bottom Left): Four vertical rectangular strips of paper textures labeled 'paper_01.png' to 'paper_04.png'. Colors should be cream, light gray, dark charcoal, and off-white, showing fibrous details.
+
+Section 06 (Bottom Center): Three images of shadows cast on a surface. One large square showing leafy branch shadows ('shadow_branch.png'), one smaller square of dense foliage shadow ('shadow_leaf_01.png'), and one thin vertical strip of linear shadow ('line_01.png').
+
+Section 07 (Bottom Right): Six grayscale gradient masks labeled 'mask_diagonal.png', 'mask_soft_01.png', 'mask_soft_02.png', and 'gradient_fade.png'. These should show smooth transitions from black to white in various shapes (diagonal cuts, soft blobs, linear fades).
+```
+
+**来源：** [@泠雨](https://x.com/caelyreth/status/2115307417965879706) | 2026-10-28
+
+---
+
+### 🎨 例 8338：南瓜裙万圣节提示词
+
+![南瓜裙万圣节提示词](../images/%E5%8D%97%E7%93%9C%E8%A3%99%E4%B8%87%E5%9C%A3%E8%8A%82%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+ハロウィンのカボチャスカートドレスを着た女の子。
+衣装は生成り色のオフショルミニドレス。スカートが丸く膨らんだカボチャ型で、縦に細い溝が入っている。 溝の色は蜂蜜色。スカートの表面に小さなジャック・オー・ランタンの顔が1つ、刺繍ではなく立体的に浮き出ている。 ウエストに太い橙のリボン。
+肩に短い生成りのケープ。 頭は帽子なし。 色は生成り、蜂蜜色、薄い橙、夜の藍。 
+全身、カボチャ型のスカートがはっきり見える正面。嬉しそうな笑顔。
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2115278631953994138) | 2026-10-28
+
+---
+

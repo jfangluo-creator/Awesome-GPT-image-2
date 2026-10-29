@@ -75006,3 +75006,89 @@ A beautiful woman looking at her phone on the subway; a candid photo.
 
 ---
 
+### 📷 例 8330：复古昭和少女手持老式相机
+
+![复古昭和少女手持老式相机](../images/%E5%A4%8D%E5%8F%A4%E6%98%AD%E5%92%8C%E5%B0%91%E5%A5%B3%E6%89%8B%E6%8C%81%E8%80%81%E5%BC%8F%E7%9B%B8%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张竖构图的中景照片，以抓拍的方式定格了一位年轻东亚女性的瞬间，画面充满复古的昭和风情。她留着齐肩黑发与整齐的平刘海，身穿一件米色纽扣衬衫，袖口卷至手肘处，下身搭配蓝色牛仔裤。她的神情生动而惊讶，嘴巴微张，仿佛正在说话或大笑；右手在胸前握着一台复古的黑色折叠皮腔相机（中画幅）。她的左臂径直伸向镜头，营造出强烈的透视效果——前景中的手掌显得硕大而失焦，仿佛正朝观者探来。背景是一栋饱经风霜的木质建筑，深色外墙搭配瓦片屋檐，头顶是澄澈的蓝天。整张照片带有明显的胶片颗粒质感、温暖的色调以及柔和的光线，完美复刻了 20 世纪 70 或 80 年代模拟摄影的典型风格。
+
+[English]
+A vertical, medium-shot photograph capturing a candid moment of a young East Asian woman in a retro Showa-era style. She has shoulder-length black hair with straight bangs and is wearing a beige button-down shirt with sleeves rolled up to the elbows, paired with blue denim jeans. Her expression is lively and surprised, with her mouth open as if speaking or laughing, and she holds a vintage black folding bellows camera (medium format) in her right hand near her chest. Her left arm extends directly toward the lens, creating a strong foreshadowing effect where her hand appears large and out of focus in the foreground, reaching towards the viewer. The background features a weathered wooden building with dark siding and tiled roof eaves under a clear blue sky. The image has a distinct film grain texture, warm color tones, and soft lighting typical of analog photography from the 1970s or 80s.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2115431176198590975) | 2026-10-28
+
+---
+
+### 📷 例 8331：穿碎花睡衣女子的复古肖像
+
+![穿碎花睡衣女子的复古肖像](../images/%E7%A9%BF%E7%A2%8E%E8%8A%B1%E7%9D%A1%E8%A1%A3%E5%A5%B3%E5%AD%90%E7%9A%84%E5%A4%8D%E5%8F%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张竖构图的人像照片，画面中一位留着凌乱深色短发的年轻女子正仰面躺在床上。她身穿一套复古风的两件套睡衣，由纽扣衬衫和短裤组成，两件衣物均为奶油色底色，上面点缀着精致的碎花图案。她的右臂举过头顶，搭在枕头上，左手则轻轻触碰着头侧。她的神情柔和，略带一丝忧郁，双唇微启，直视镜头。场景是一间温馨的卧室，她身后可以看到一个木质床头板。左侧的床头柜上堆满了书籍、一个小巧的圆形指针时钟以及其他私人物品。阳光从右侧的窗户洒入，用温暖自然的柔光照亮了她的脸庞与上半身。整张照片呈现出鲜明的复古美学风格，带有胶片颗粒感、柔焦效果以及令人联想到昭和时代摄影作品的暖色调。
+
+[English]
+A vertical portrait photograph of a young woman with short, messy dark hair lying on her back in bed. She is wearing a vintage-style two-piece pajama set consisting of a button-down shirt and shorts, both featuring a delicate floral pattern on a cream background. Her right arm is raised above her head, resting on the pillow, while her left hand gently touches the side of her head. Her expression is soft and slightly melancholic, looking directly at the camera with parted lips. The setting is a cozy bedroom with a wooden headboard visible behind her. To the left, there is a bedside table cluttered with books, a small round analog clock, and other personal items. Sunlight streams in from a window on the right, illuminating her face and torso with warm, natural light. The image has a distinct retro aesthetic, characterized by film grain, soft focus, and warm color tones reminiscent of Showa-era photography.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2115402777472217216) | 2026-10-28
+
+---
+
+### 📷 例 8335：电影感夜市女剑客
+
+![电影感夜市女剑客](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%A4%9C%E5%B8%82%E5%A5%B3%E5%89%91%E5%AE%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超宽幅 2.2:1，照片级真实电影感，年轻女剑客在灯笼照亮的夜市中回头张望，温暖的灯笼光晕与冷调的蓝色夜色形成对比。单人主体。
+
+【构图】四分之三背影视角，位于画面中心偏左，面部处于宽度 41%、高度 38% 处，占画框高度 30%。右侧 55% 为背景：灯笼化作光球向远处虚化延伸。深色剑柄位于宽度 24% 处，低垂未举起。机位齐肩高，长焦镜头，浅景深。
+
+【人物】年轻女子，鹅蛋脸，下颌线条柔和，下巴微尖，肌肤沐浴在温暖夜色中，泛着绸缎般光泽。深棕色眼眸，烟熏眼影，睫毛根根分明，眉毛平直英挺。双唇呈暗哑深红色，自然闭合，不带笑意。神情：平静、疏离、暗自警觉——宛如一位身手不凡的女剑客正在打量四周。身体正向前走去，头部越过肩膀回望，目光直视镜头，眼神清澈深邃，双眉平展。几缕黑色碎发自然垂落在额头与脸颊，被风吹拂，并不潮湿。
+
+【发型/服饰】极长的黑发，半束半披，质感自然飘逸，发丝随夜风轻轻飘动，边缘被灯光勾勒出金色轮廓。素白游侠长袍，衣袖宽大，内搭深青黑色交领里衣，面料为哑光细织布，白色被暖光染成淡金。无首饰，无刺绣——低调内敛的雅致。长剑仅露出朴素的深色剑柄，缠着短绳。
+
+【姿态】躯干朝向街道深处，双肩呈四分之三背影角度，重心前移，正处于迈步之中。仅头部与颈部回转，下巴保持水平，面庞越过肩膀直面镜头。双臂不作强调，长剑低垂于身后。脊柱至颈部的扭转连贯流畅。
+
+【环境】古镇夜市：左侧木质店铺门面昏暗，顶部中央招牌模糊不清，成串的纸灯笼向右侧延伸，化作温暖的橙色光斑。远处街道与右下角笼罩在冷调蓝灰色阴影中，湿漉漉的石板泛着微光。无可辨识的文字。无其他行人。
+
+【光影】所有光线均来自灯笼。右后方的一大片灯笼绽放出温暖的光球，为头发和肩膀镀上金边。较近的灯笼在左脸颊与下颌投下一道斜向暖光，面部其余部分则隐于冷蓝色阴影中——冷暖色调将面庞一分为二。背景左侧呈琥珀棕色，右侧为蓝灰色夜空。配色：灯笼琥珀色 #E8A04C，夜色蓝 #33455C，阴影棕 #241A14，长袍白 #E9DCC8，发丝黑 #14100E，唇红 #8E4A42，皮肤高光 #D9A37E。
+
+【渲染】照片级真实电影感，无胶片颗粒的电影画质：肌肤细腻如缎，发丝自然飘逸且边缘带有高光反射，布料呈现哑光厚重质感。眼部与面部发丝清晰锐利；灯笼与街道融化为层次分明的散景光斑，空气中弥漫着淡淡的夜雾。
+
+反向提示词：第二个人物，武器出鞘，可辨识文字，水印，logo，动漫，卡通，过度饱和，塑料感肌肤，多余肢体，居中构图，全身像，背景清晰对焦。
+
+[English]
+Ultrawide 2.2:1, photorealistic cinematic, young swordswoman turning back over shoulder in lantern-lit night market, warm lantern glow vs cold blue night. One subject.
+
+【Composition】Three-quarter back view, left of center, face at 41% width, 38% height, 30% frame height. Right 55% background: lantern orbs receding into blur. Dark sword hilt at 24% width, low unraised. Camera shoulder height, telephoto, shallow DOF.
+
+【Character】Young woman, oval face, soft jaw, pointed chin, warm night light on skin, satin sheen. Dark brown eyes, smoky eyeshadow, defined lashes, straight strong brows. Lips muted dark red, closed, no smile. Expression: calm, aloof, quietly alert — like a skilled swordswoman assessing her surroundings. Body walking away, head turns back over shoulder, eyes meet viewer directly with clear deep gaze, brows level. Loose black strands naturally fall across forehead and cheek, wind-swept, not damp.
+
+【Hair/Costume】Very long black hair, half tied back half loose, natural flowing texture, strands blowing gently in night breeze, edges rimmed gold by lantern light. Plain white wandering swordsman's robe, wide sleeves, dark teal-black cross-collar inner layer, matte fine-woven cloth, white warmed to pale gold. No jewelry, no embroidery — understated elegance. Sword shows only plain dark hilt, short cord wrap.
+
+【Pose】Torso faces away toward street depth, shoulders three-quarter back, weight shifting forward mid-step. Only head and neck rotate back, chin level, face meets lens across shoulder. Arms unemphasized, sword low behind. Turn continuous through spine and neck.
+
+【Environment】Old-town night market: wooden shopfronts dim left, blurred signboard top center, strings of paper lanterns receding right into warm orange bokeh. Far street and lower right carry cold blue-grey shadow, wet stone sheen. No readable text. No other people.
+
+【Lighting】All light from lanterns. Large lantern group behind right blooms warm orbs, rims hair and shoulder gold. Nearer lantern throws diagonal warm patch across left cheek and jaw, rest of face in cool blue shadow — warm and cold divide face. Background left amber-brown, right blue-grey night. Palette: lantern amber #E8A04C, night blue #33455C, shadow brown #241A14, robe white #E9DCC8, hair black #14100E, lip red #8E4A42, skin highlight #D9A37E.
+
+【Rendering】Photorealistic cinematic, filmic grain-free: skin fine satin, hair natural flowing strands with specular edges, cloth matte weighty. Sharpness on eyes and face strands; lanterns and street dissolve into layered bokeh, air carries faint night haze.
+
+Negative: second person, drawn weapon, readable text, watermark, logo, anime, cartoon, oversaturated, plastic skin, extra limbs, centered, full-body, focused background.
+```
+
+**来源：** [@AI art gallery](https://x.com/sandmrk/status/2115317315579613660) | 2026-10-28
+
+---
+
