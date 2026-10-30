@@ -6295,3 +6295,97 @@ Final result: A cozy, personalized, collectible autumn sticker with a clear cont
 
 ---
 
+### 🔧 例 8346：GPT Image 2 彩色铅笔插画
+
+![GPT Image 2 彩色铅笔插画](../images/GPT%20Image%202%20%E5%BD%A9%E8%89%B2%E9%93%85%E7%AC%94%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为精美的手绘彩色铅笔插画，同时完整保留原照片的内容、构图与情感氛围。
+
+1. 参考图精准度
+仔细分析上传的照片，包括人物身份、面部特征、发型、表情、姿势、服装、配饰、身体比例、周围物品、背景、拍摄角度、透视关系、光线以及独特的微小细节。
+
+以插画形式重现相同场景。保留人物的辨识度与原场景的精确布局。切勿改变姿势、凭空添加新物品、删减重要细节或改动原始环境。
+
+2. 艺术风格
+采用传统彩色铅笔与蜡笔插画风格，呈现出在米色纹理素描本纸张上手工绘制的精美效果。
+
+需包含：
+- 清晰可见的彩铅笔触与细腻的交叉排线。
+- 柔和且略带随性的手绘轮廓线。
+- 层次分明的铅笔阴影，笔触力度自然变化。
+- 细微的纸张纹理与淡淡的蜡笔质感。
+- 温暖柔和的色彩，带有淡雅的粉彩色调。
+- 略带草图感的轮廓线与迷人的手工痕迹。
+- 色彩过渡自然，避免平滑的数字渐变效果。
+- 发丝细节丰富，用流畅的独立笔触逐一勾勒。
+- 面部神态生动，特征经过简化但依然易于辨认。
+- 通过层层叠加的铅笔笔触营造柔和阴影，而非照片般的明暗处理。
+
+3. 色彩搭配
+使用温暖怀旧的色彩组合，包括奶油米色、灰粉色、柔和棕色、暖焦糖色、炭黑色、浅灰色及淡雅的大地色系。在忠实还原原照片真实色彩的同时，将其转化为传统插画的色彩表现。
+
+4. 背景与环境
+如实重现原始背景，包括家具、门、墙壁、街道、人行道、栏杆、植物、宠物、建筑及其他可见元素。
+
+用随性却考究的铅笔笔触刻画背景细节。保持原有的景深、透视与空间关系，让整个画面呈现和谐统一的手绘插画质感。
+
+5. 光影与氛围
+保留原始的光照方向与整体氛围。营造温馨、私密、怀旧的意境，仿佛这一刻被定格在私人插画日记或画家的素描本中。
+
+6. 最终效果
+整幅图像必须呈现出真正在纹理纸上用彩色铅笔手绘的效果，绝不能像套用艺术滤镜的照片。
+
+保持原始宽高比与构图。全图贯穿精细的插画细节、自然的线条、可见的铅笔颗粒感、恰到好处的手工瑕疵以及统一的手绘质感。
+
+重要提示：上传的照片是场景的唯一参考依据。请务必保留其中的人物特征、姿势、物品与构图，仅将视觉表现形式转化为传统插画。
+
+[English]
+Transform the uploaded photograph into a beautiful, hand-drawn colored-pencil illustration while preserving the original photograph's exact content, composition, and emotional atmosphere.
+
+1. REFERENCE IMAGE ACCURACY
+Carefully analyze the uploaded photograph, including the subject's identity, facial features, hairstyle, expression, pose, clothing, accessories, body proportions, surrounding objects, background, camera angle, perspective, lighting, and small distinctive details.
+
+Recreate the same scene as an illustrated drawing. Preserve the recognizable appearance of the original subject and the exact arrangement of the scene. Do not change the pose, invent new objects, remove important details, or alter the original environment.
+
+2. ART STYLE
+Use a traditional colored-pencil and wax-crayon illustration style, resembling a beautiful drawing made by hand on textured cream-colored sketchbook paper.
+
+Include:
+- Visible colored-pencil strokes and delicate crosshatching.
+- Soft, imperfect hand-drawn outlines.
+- Layered pencil shading with natural variations in pressure.
+- Fine paper grain and subtle crayon texture.
+- Warm, muted colors with gentle pastel undertones.
+- Slightly sketchy contours and charming handmade imperfections.
+- Natural color blending without smooth digital gradients.
+- Detailed hair rendered with individual flowing pencil strokes.
+- Expressive facial details with simplified yet recognizable features.
+- Soft shadows created through layered pencil strokes rather than photographic shading.
+
+3. COLOR PALETTE
+Use a warm, nostalgic palette featuring creamy beige, dusty pink, muted brown, warm caramel, charcoal black, soft gray, and subtle earthy colors. Match the original photograph's actual colors while translating them into a traditional illustration medium.
+
+4. BACKGROUND AND ENVIRONMENT
+Recreate the original background faithfully, including furniture, doors, walls, streets, sidewalks, railings, plants, pets, buildings, and other visible elements.
+
+Render background details with loose but intentional pencil strokes. Maintain the original depth, perspective, and spatial relationships while giving the entire scene a cohesive, hand-illustrated appearance.
+
+5. LIGHTING AND MOOD
+Preserve the original lighting direction and overall atmosphere. Create a cozy, intimate, nostalgic feeling, as if the moment were captured in a personal illustrated diary or a page from an artist's sketchbook.
+
+6. FINAL FINISH
+The entire image must look genuinely hand-drawn using colored pencils on textured paper, NOT like a photograph with an artistic filter.
+
+Maintain the original aspect ratio and composition. Use fine illustrative details, organic linework, visible pencil grain, gentle imperfections, and consistent hand-drawn textures throughout the image.
+
+IMPORTANT: The uploaded photograph is the sole reference for the scene. Preserve its identity, pose, objects, and composition. Transform only the visual medium into a traditional illustration.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2115676409092096205) | 2026-10-29
+
+---
+
