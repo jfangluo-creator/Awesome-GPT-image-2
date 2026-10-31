@@ -75582,3 +75582,118 @@ High-fashion editorial photography, surrealist studio portrait. A  woman  standi
 
 ---
 
+### 📷 例 8348：GPT Image 2 夜景街头摄影提示词
+
+![GPT Image 2 夜景街头摄影提示词](../images/GPT%20Image%202%20%E5%A4%9C%E6%99%AF%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+1:1正方形构图，单幅独立画面，超写实韩系成年女性夜间城市街拍，真实iPhone夜间直闪摄影，湿润城市街道，霓虹灯光反射，清冷甜美的生活写真风格，真实自然，无明显AI感。
+
+【人物面容】
+
+一位23至25岁的美丽成年东亚女性，精致小巧的鹅蛋脸，柔和收窄的下颌线，小巧圆润的下巴，清透冷白肌肤，淡淡蜜桃粉腮红。
+
+明亮清澈的深棕色杏仁眼，自然双眼皮，细致卧蚕，纤长自然睫毛，浅粉棕色眼影，柔和微扬的眼线。
+
+纤细挺直的鼻梁，小巧鼻尖，柔软饱满的玫瑰粉色水润嘴唇。
+
+嘴角微微上扬，露出自然温柔的闭嘴微笑，双眼直视镜头，神情甜美、松弛。
+
+保留真实皮肤微纹理与自然五官比例。
+
+【发型——核心】
+
+极其浓密蓬松的深栗棕色及腰长发，带有自然巧克力棕色光泽。
+
+头顶蓬松，发根具有真实空气感，自然偏中分，额前有轻薄不规则八字碎刘海。
+
+两侧长发自然披散在肩膀和胸前，带有柔和松散的大弧度波浪。
+
+画面右侧长发尤其丰盈，发丝层次丰富，少量碎发被夜间微风轻轻吹动。
+
+头发受到正面闪光灯照射，呈现细腻深棕色高光，保留真实独立发丝。
+
+【服装与首饰】
+
+身穿一件纯白色修身短袖T恤，简洁圆弧领口，柔软棉质弹力面料，自然贴合身体轮廓。
+
+颈部佩戴一条极细的银色锁骨链，中央有一颗小巧水晶吊坠。
+
+一侧手腕佩戴简约细银色手链。
+
+整体穿搭清新、日常、简洁。
+
+【人物姿势——重点】
+
+人物自然站在夜晚城市街道的斑马线上，身体正面朝向镜头，肩膀放松。
+
+头部轻微倾斜，下巴自然微收，温柔地看向镜头。
+
+画面左侧的一只手抬至脸颊旁边，食指与拇指自然弯曲，形成半颗爱心的C形手势，其他手指自然放松。
+
+另一只手轻轻握住画面右侧胸前的一束长发，手指自然弯曲。
+
+双手位置错落，姿态自然俏皮，像朋友在街头随手拍摄的照片。
+
+【背景环境】
+
+夜晚热闹的中国城市商业街道，刚刚下过雨。
+
+深色湿润柏油路面，宽阔的白色斑马线从人物身后向远处延伸。
+
+街道两侧分布便利店、餐饮店和商铺，店面有红色、蓝色、白色与黄色发光招牌。
+
+远处有行驶的汽车、模糊的车灯、街灯和少量路人。
+
+雨后的柏油路面反射大量红色、蓝色、暖黄色霓虹光，形成真实的不规则彩色反光。
+
+背景具有城市夜晚的空间纵深，车灯轻微运动模糊，商铺灯光柔和散景。
+
+【镜头与光影】
+
+1:1正方形构图，等效28至35mm手机主摄镜头，眼睛高度平视拍摄。
+
+人物居中，取景从头顶上方少量留白至腰部附近，完整呈现面部、双手、长发及白色T恤。
+
+使用夜间手机直闪或柔和正面LED补光，人物脸部明亮清晰，冷白肤色与深色夜景形成鲜明对比。
+
+闪光灯照亮人物额头、鼻梁、脸颊、长发与双手，产生真实柔和的近距离补光效果。
+
+背景保留自然城市霓虹环境光，湿润街道呈现红蓝色灯光反射。
+
+人物清晰锐利，背景有轻微真实运动模糊和夜间数码噪点。
+
+真实手机夜拍质感，自然曝光，保留皮肤纹理、细腻发丝和环境光影。
+
+【负面提示词】
+
+动漫，插画，3D渲染，CG假脸，塑料皮肤，过度磨皮，夸张网红脸，异常大眼，过尖下巴，五官错位，假发，头发黏连，僵硬卷发，多余手指，畸形手掌，错误爱心手势，手腕扭曲，多余手臂，身体比例异常，T恤穿模，斑马线畸形，车辆扭曲，霓虹灯过度饱和，过度背景虚化，强HDR，过度锐化，商业影棚质感，明显AI生成痕迹，水印，LOGO，拼图。
+```
+
+**来源：** [@沧瑶](https://x.com/CryY666666/status/2116182588419121355) | 2026-10-30
+
+---
+
+### 📷 例 8351：休闲咖啡馆时尚人像提示词
+
+![休闲咖啡馆时尚人像提示词](../images/%E4%BC%91%E9%97%B2%E5%92%96%E5%95%A1%E9%A6%86%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张超写实、高品质的全身时尚人像：一位年轻貌美的女子随性地站在一家现代咖啡馆外。她留着一头深色长卷发，搭配柔和的法式八字刘海，五官精致，妆容清透自然，嘴角挂着温柔浅淡的微笑。她身穿一件印有蓝色蝴蝶图案的 Oversize 白色卫衣，搭配宽松的阔腿蓝色牛仔裤，双膝处饰有夸张的牛仔布蝴蝶结与珍珠细节；脚踩蓝白配色运动鞋，斜挎一只奶油色小包，佩戴精致的银色项链和腕表。双手随意插在前侧口袋中，姿态松弛自然，头部微微倾斜。
+
+背景：格调优雅的现代咖啡馆，配有黑色边框玻璃窗、暖光吊灯、木质长椅、绿植以及素雅的白花。柔和的自然日光，逼真的皮肤质感，真实的牛仔面料纹理，精准的服饰细节，曝光均衡，专业街头时尚摄影风格，50mm 镜头，全身构图，焦点清晰锐利，比例自然协调，照片级真实感，高分辨率。请保留参考图的整体穿搭、姿势与构图。
+
+[English]
+Create an ultra-realistic, high-quality full-body fashion portrait of a beautiful young woman standing casually outside a modern café. She has long, dark, naturally wavy hair with soft curtain bangs, delicate facial features, natural makeup, and a gentle, subtle smile. She is wearing an oversized white sweatshirt featuring a blue butterfly graphic, loose-fitting wide-leg blue denim jeans with large decorative denim bows and pearl details on both knees, blue-and-white sneakers, a small cream shoulder bag, a delicate silver necklace, and a wristwatch. Her hands are casually placed in her front pockets, with a relaxed, natural pose and a slight head tilt.
+Background: elegant modern café with black-framed glass windows, warm pendant lights, wooden benches, green plants, and subtle white flowers. Soft natural daylight, realistic skin texture, authentic denim fabric, accurate clothing details, balanced exposure, professional street-style fashion photography, 50mm lens, full-body composition, sharp focus, natural proportions, photorealistic, high resolution. Preserve the overall outfit, pose, and composition of the reference image.
+```
+
+**来源：** [@Mano Malik](https://x.com/Arjmalick/status/2116039404133478898) | 2026-10-30
+
+---
+

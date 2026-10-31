@@ -36668,3 +36668,227 @@ Each cover must include authentic Japanese typography, headlines, and small text
 
 ---
 
+### 🎴 例 8347：赛艇比赛场地中的女性
+
+![赛艇比赛场地中的女性](../images/%E8%B5%9B%E8%89%87%E6%AF%94%E8%B5%9B%E5%9C%BA%E5%9C%B0%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级真实的中景图像，画面中一位美丽的日本年轻女子站在赛艇比赛场地。她留着带刘海的棕色长波浪卷发，身穿一件时尚的灰蓝色裹身裙，裙摆带有褶皱设计，腰间系着一条绑带。她脚踩黑色及膝皮靴，左肩挎着一个带金色链条肩带的黑色菱格纹小手袋。她右手举着一张白色门票，上面写着“BOAT RACE”和一些日文，同时对着镜头温柔微笑。她的左臂随意地搭在金属栏杆上。背景是阳光明媚的户外场景，一块大屏幕上显示着“BOAT RACE”和比赛成绩，远处的水面上有赛艇正在竞速，看台上的观众则呈现虚化效果。她左侧的栏杆上有一块蓝色标牌，上面写着“A-3”。
+
+[English]
+A photorealistic medium shot of a beautiful young Japanese woman standing at a boat race venue. She has long, wavy brown hair with bangs and is wearing a stylish grey-blue wrap dress that features a pleated skirt and a tie belt at the waist. She wears black knee-high leather boots and carries a small black quilted handbag with a gold chain strap on her left shoulder. She is smiling gently at the camera while holding up a white ticket in her right hand that reads 'BOAT RACE' and some Japanese text. Her left arm rests casually on a metal railing. The background shows a sunny outdoor scene with a large digital screen displaying 'BOAT RACE' and race results, water with speedboats racing in the distance, and blurred spectators in the stands. A blue sign on the railing to her left reads 'A-3'.
+```
+
+**来源：** [@kuripon](https://x.com/malonpon/status/2116317936864669801) | 2026-10-30
+
+---
+
+### 🎴 例 8352：GPT Image 2 复古邮票海报提示词
+
+![GPT Image 2 复古邮票海报提示词](../images/GPT%20Image%202%20%E5%A4%8D%E5%8F%A4%E9%82%AE%E7%A5%A8%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片，创作一张 3:4 竖版高级编辑风格海报。
+
+最终画面分为上下两个等分区域（各占 50%）：
+
+上半部分：原始照片
+
+完整保留原始照片。
+
+保持人物主体、身份特征、姿态、构图、光影、色彩以及真实的摄影质感不变。
+
+仅进行细腻专业的调色与画质优化。
+
+请勿重新设计、扭曲变形、不自然地裁切或改动重要细节。
+
+下半部分：复古收藏级邮票插画
+将同一张照片转化为充满怀旧气息的手绘旅行邮戳插画。
+
+画面呈现为一枚小巧的收藏级邮票，放置在宽大的暖色调纸张背景上。邮票是唯一的视觉焦点，四周留有充足的呼吸空间。采用极简编辑排版风格，构建强烈的视觉层次。
+
+根据构图需要，邮票可居中、略微偏移或部分裁切，但必须始终保持画面平衡、留白感，以及珍藏旅行记忆的氛围。
+
+插画风格：
+
+手绘插画
+彩铅肌理
+蜡笔笔触
+丙烯色块
+纸张纹理
+丝网印刷的微小瑕疵
+
+整体氛围应如同：
+一本复古旅行手账的内页
+一套被悉心保存的明信片集
+一枚年代久远的手工邮票
+
+画面需包含：
+柔和而不规则的线条
+深浅不一的手绘色彩
+轻微的颜料溢出
+清晰可见的纸张纤维
+细微的印刷痕迹
+手工制作的温度
+
+避免光滑的数字插画或矢量风格。
+
+构图与背景
+
+使用温暖的象牙白/奶油色纹理纸张作为背景。
+保留大面积留白。
+去除多余的背景细节。
+仅保留原场景中最具辨识度的元素。
+让邮票成为画面的情感中心。
+
+色彩搭配
+提取原照片中最令人印象深刻的色彩，并将其重构为克制的复古色系：
+奶油白
+暖米色
+柔雾蓝
+自然绿
+低饱和黄
+珊瑚橘
+
+色彩氛围应呈现：
+温暖
+宁静
+怀旧
+优雅
+极具收藏感
+
+避免出现：
+脏灰色调
+过度做旧的痕迹
+过于饱和的色彩
+稚气的颜色
+
+字体排印
+仅在必要时添加低调的邮票式细节：
+细小的手写批注
+复古邮戳印记
+微型旅行标签
+精致的印刷文字
+
+字体风格应贴近真实的邮票印刷或旅行手账笔记，而非现代海报标题。
+不使用大字号标题、Logo、水印或明显的品牌标识。
+
+整体风格
+现代艺术画册插画 + 复古旅行明信片 + 收藏级邮票美学。
+
+最终画面应如同一段珍贵的旅行记忆，被定格为一枚手工邮票艺术品。
+
+输出要求：
+一张 3:4 竖版海报：
+上半部分 50% = 原始写实照片
+下半部分 50% = 基于同一张照片创作的复古手工邮票插画
+优雅、极简、怀旧的高级编辑设计。
+
+[English]
+Create a 3:4 vertical premium editorial poster based on the uploaded photo.
+
+The final composition is divided into two equal horizontal sections (50% / 50%):
+
+Top half: Original photo
+
+Preserve the original photo exactly.
+
+Keep the subject, identity, pose, composition, lighting, colors, and realistic photography texture unchanged.
+
+Only apply subtle professional color grading and image enhancement.
+
+Do not redesign, distort, crop unnaturally, or alter important details.
+
+Bottom half: Vintage collectible stamp artwork
+Transform the same photo into a nostalgic handmade travel stamp illustration.
+
+The scene should become a small-scale collectible postage stamp placed on a large warm paper background. The stamp is the only clear visual focus, surrounded by generous negative space. Use minimalist editorial composition with strong visual hierarchy.
+
+The stamp can be centered, slightly offset, or partially cropped depending on the composition, but always maintain balance, breathing space, and a sense of a treasured travel memory.
+
+The illustration style:
+
+hand-drawn illustration
+colored pencil texture
+wax crayon marks
+acrylic paint blocks
+paper grain
+screen-print imperfections
+
+Make it feel like:
+a page from a vintage travel journal
+a preserved postcard collection
+an old handmade postage stamp
+
+The artwork should include:
+soft imperfect linework
+uneven hand-painted colors
+slight paint overflow
+visible paper fibers
+subtle printing flaws
+handmade warmth
+
+Avoid smooth digital illustration or vector style.
+
+Composition and background
+
+Use a warm ivory / cream textured paper background.
+Keep large areas of empty space.
+Remove unnecessary background details.
+Only preserve the most recognizable elements from the original scene.
+The stamp should become the emotional center of the image.
+
+Color palette
+Extract the most memorable colors from the original photo and redesign them into a limited vintage palette:
+cream white
+warm beige
+soft blue
+natural green
+muted yellow
+coral orange
+
+Colors should feel:
+warm
+calm
+nostalgic
+elegant
+collectible
+
+Avoid:
+dirty gray tones
+excessive vintage aging
+overly saturated colors
+childish colors
+
+Typography
+Add only subtle stamp-style details if needed:
+small handwritten notes
+vintage postage marks
+tiny travel labels
+miniature printed details
+
+Typography should feel like real stamp printing or travel journal notes, not a modern poster title.
+No large headlines, logos, watermarks, or obvious branding.
+
+Overall style
+Modern art book illustration + vintage travel postcard + collectible postage stamp aesthetic.
+
+The final image should feel like a precious travel memory preserved as a handmade stamp artwork.
+
+Output:
+A 3:4 vertical poster:
+Top 50% = original realistic photo
+Bottom 50% = vintage handmade stamp illustration based on the same photo
+Elegant, minimal, nostalgic, premium editorial design.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2116029739345551639) | 2026-10-30
+
+---
+

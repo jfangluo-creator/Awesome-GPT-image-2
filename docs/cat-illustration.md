@@ -22473,3 +22473,21 @@ Section 07 (Bottom Right): Six grayscale gradient masks labeled 'mask_diagonal.p
 
 ---
 
+### 🎨 例 8350：秋季检查风格穿搭提示词
+
+![秋季检查风格穿搭提示词](../images/%E7%A7%8B%E5%AD%A3%E6%A3%80%E6%9F%A5%E9%A3%8E%E6%A0%BC%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱，红黑格纹短裤，黑色针织背心，牛仔外套，清爽秋季穿搭，时尚姿势，精细格纹，高质量，杰作
+
+[English]
+cute, red and black gingham short pants, black knit vest, denim jacket, cool autumn styling, stylish pose, detailed check, high quality, masterpiece
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2116063805125935372) | 2026-10-30
+
+---
+

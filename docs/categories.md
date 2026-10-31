@@ -3665,6 +3665,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8313：宁静早安水彩海报](cat-poster.md#-例-8313宁静早安水彩海报)
 
 - [例 8332：六款杂志封面](cat-poster.md#-例-8332六款杂志封面)
+
+- [例 8347：赛艇比赛场地中的女性](cat-poster.md#-例-8347赛艇比赛场地中的女性)
+
+- [例 8352：GPT Image 2 复古邮票海报提示词](cat-poster.md#-例-8352gpt-image-2-复古邮票海报提示词)
 ---
 
 <a id="photo"></a>
@@ -9787,6 +9791,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8344：GPT Image 2 韩国森林人像提示词](cat-photo.md#-例-8344gpt-image-2-韩国森林人像提示词)
 
 - [例 8345：GPT Image 2 波普艺术编辑风格提示词](cat-photo.md#-例-8345gpt-image-2-波普艺术编辑风格提示词)
+
+- [例 8348：GPT Image 2 夜景街头摄影提示词](cat-photo.md#-例-8348gpt-image-2-夜景街头摄影提示词)
+
+- [例 8351：休闲咖啡馆时尚人像提示词](cat-photo.md#-例-8351休闲咖啡馆时尚人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -11926,6 +11934,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8336：樱花与纹理素材表](cat-illustration.md#-例-8336樱花与纹理素材表)
 
 - [例 8338：南瓜裙万圣节提示词](cat-illustration.md#-例-8338南瓜裙万圣节提示词)
+
+- [例 8350：秋季检查风格穿搭提示词](cat-illustration.md#-例-8350秋季检查风格穿搭提示词)
 ---
 
 <a id="character"></a>
@@ -13718,6 +13728,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8283：东方仙侠宗门景观提示词](cat-architecture.md#️-例-8283东方仙侠宗门景观提示词)
 
 - [例 8291：水彩风家居内饰改造](cat-architecture.md#️-例-8291水彩风家居内饰改造)
+
+- [例 8349：昭和复古粉色厨房人像](cat-architecture.md#️-例-8349昭和复古粉色厨房人像)
 ---
 
 <a id="comic"></a>

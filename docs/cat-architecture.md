@@ -6159,3 +6159,25 @@ Create a beautiful photorealistic-to-watercolor transformation of a cozy, aesthe
 
 ---
 
+### 🏛️ 例 8349：昭和复古粉色厨房人像
+
+![昭和复古粉色厨房人像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E7%B2%89%E8%89%B2%E5%8E%A8%E6%88%BF%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 3:4 竖构图人像照片，充满昭和复古怀旧美学。画面中央站着一位年轻的东亚女性，身处一间老式粉色厨房中。她留着带刘海的深色短发，头戴一条细红色发带。神情平静，略带忧郁，直视镜头。她身穿一件红白格纹细吊带背心裙，方领处饰有白色蕾丝花边，裙摆有两层横向白色蕾丝细节，裙长及小腿中部。脚穿白色短袜，站在米色与红棕色交替的格子地砖上。
+
+背景是一间色调温暖、物品略显杂乱的厨房，褪色的粉色橱柜占据主导。左侧是一台老式炉灶，上面放着奶油色水壶和一只花卉图案的锅；上方悬挂着一块红格纹布和一个装饰盘。右侧台面上摆着一个白色高脚托盘盛放的草莓蛋糕，以及一个装满红苹果的透明玻璃碗。一面粉色边框镜子映出房间的一角。光线柔和漫射，带有 20 世纪 80 年代室内闪光灯摄影的典型特征，呈现出胶片颗粒质感，色彩略微泛白褪色，怀旧氛围浓郁。
+
+[English]
+A vertical 3:4 portrait photograph in a nostalgic Showa-era retro aesthetic, featuring a young East Asian woman standing in the center of a vintage pink kitchen. She has short dark hair with bangs and wears a thin red headband. Her expression is neutral and slightly melancholic, looking directly at the camera. She is wearing a red-and-white gingham (checkered) sundress with spaghetti straps, a white lace trim along the square neckline, and two horizontal tiers of white lace detailing on the skirt. The dress falls to her mid-calves. She wears white ankle socks and stands on a checkered floor with alternating beige and reddish-brown tiles.
+
+The background is a cluttered, warm-toned kitchen dominated by faded pink cabinetry. To the left, there is a vintage stove with a cream-colored kettle and a pot with floral patterns; hanging above are a red checkered cloth and a decorative plate. To the right, on the counter, sits a strawberry shortcake on a white pedestal stand and a glass bowl filled with red apples. A pink-framed mirror reflects part of the room. The lighting is soft and diffuse, characteristic of indoor flash photography from the 1980s, creating a grainy film texture with slightly washed-out colors and high nostalgia.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2116123333469073536) | 2026-10-30
+
+---
+
