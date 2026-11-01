@@ -22634,3 +22634,39 @@ Using the provided reference image, keep the character's face, hair color, and w
 
 ---
 
+### 🏷️ 例 8353：橄榄绿蜡帆布卷顶背包
+
+![橄榄绿蜡帆布卷顶背包](../images/%E6%A9%84%E6%A6%84%E7%BB%BF%E8%9C%A1%E5%B8%86%E5%B8%83%E5%8D%B7%E9%A1%B6%E8%83%8C%E5%8C%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高分辨率产品照片，展示了一款深橄榄绿色蜡帆布卷口双肩包。背包正面饰有两条垂直的棕褐色皮革绑带，搭配方形黄铜扣，下方设有一个横向拉链口袋，配有黄铜拉链头。顶部中央可见同材质的织物提手。背包直立放置于浅米色石材台面上，背景为素雅的奶油色纹理墙面。柔和的漫射自然光从左侧照亮整个画面，在右侧投下淡淡的阴影。
+
+[English]
+A high-resolution product photograph of a dark olive green waxed canvas roll-top backpack. The bag features two vertical tan leather straps with square brass buckles on the front, and a horizontal zippered pocket below them with a brass zipper pull. A matching fabric grab handle is visible at the top center. The backpack sits upright on a light beige stone surface against a plain, textured cream-colored wall background. Soft, diffused daylight illuminates the scene from the left, casting gentle shadows to the right.
+```
+
+**来源：** [@Sjolt](https://x.com/Sjolt_ai/status/2116516886154539478) | 2026-10-31
+
+---
+
+### 🏷️ 例 8354：复古万圣节吸血鬼少女
+
+![复古万圣节吸血鬼少女](../images/%E5%A4%8D%E5%8F%A4%E4%B8%87%E5%9C%A3%E8%8A%82%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，画面中是一位留着凌乱深色短发的年轻亚洲女性，她坐在一把复古碎花扶手椅上。她身穿米色粗棒针织毛衣搭配格纹半身裙，脚上是松垮的白袜和棕色乐福鞋。肩上披着一件红缎内衬的黑色天鹅绒吸血鬼斗篷，颈间用丝带系着。她双手举起，摆出俏皮的爪状姿势，隐约可见两颗小尖牙。背景是万圣节装饰，包括橙色的南瓜灯、墙上的黑色蝙蝠剪纸，左侧还有一台老式 CRT 电视机。整张照片散发着昭和时代的怀旧气息，光线温暖柔和，带有胶片颗粒质感。
+
+[English]
+A retro-style photograph of a young Asian woman with short, messy dark hair sitting in a vintage floral armchair. She is wearing a beige chunky knit sweater over a plaid skirt, paired with slouchy white socks and brown loafers. A black velvet vampire cape with red satin lining is draped over her shoulders, tied at the neck with a ribbon. Her hands are raised in a playful claw gesture, and she has small fangs visible. The background features Halloween decorations including orange jack-o'-lanterns and black bat cutouts on the wall, along with an old CRT television set to the left. The image has a nostalgic Showa-era aesthetic with warm lighting and film grain.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2116498284344992013) | 2026-10-31
+
+---
+

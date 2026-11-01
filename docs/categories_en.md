@@ -3673,7 +3673,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3094)
+## 📷 [Photography & Realistic](cat-photo.md) (3095)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9795,11 +9795,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8348: GPT Image 2 夜景街头摄影提示词](cat-photo.md#-例-8348gpt-image-2-夜景街头摄影提示词)
 
 - [Case 8351: 休闲咖啡馆时尚人像提示词](cat-photo.md#-例-8351休闲咖啡馆时尚人像提示词)
+
+- [Case 8355: 复古昭和万圣节人像](cat-photo.md#-例-8355复古昭和万圣节人像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1074)
+## 🎨 [Illustration & Art](cat-illustration.md) (1076)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11933,6 +11935,10 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8338: 南瓜裙万圣节提示词](cat-illustration.md#-例-8338南瓜裙万圣节提示词)
 
 - [Case 8350: 秋季检查风格穿搭提示词](cat-illustration.md#-例-8350秋季检查风格穿搭提示词)
+
+- [Case 8356: 复古红黑穿搭提示词](cat-illustration.md#-例-8356复古红黑穿搭提示词)
+
+- [Case 8358: 万圣节镰刀少女](cat-illustration.md#-例-8358万圣节镰刀少女)
 ---
 
 <a id="character"></a>
@@ -14295,7 +14301,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (919)
+## 🏷️ [Brand & Packaging](cat-brand.md) (921)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16128,11 +16134,15 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8324: 音乐科技类 YouTube 缩略图](cat-brand.md#️-例-8324音乐科技类-youtube-缩略图)
 
 - [Case 8337: 万圣节魅魔服装变身](cat-brand.md#️-例-8337万圣节魅魔服装变身)
+
+- [Case 8353: 橄榄绿蜡帆布卷顶背包](cat-brand.md#️-例-8353橄榄绿蜡帆布卷顶背包)
+
+- [Case 8354: 复古万圣节吸血鬼少女](cat-brand.md#️-例-8354复古万圣节吸血鬼少女)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (193)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (194)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -16517,6 +16527,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 8334: 秋季插画贴纸转化](cat-edit.md#-例-8334秋季插画贴纸转化)
 
 - [Case 8346: GPT Image 2 彩色铅笔插画](cat-edit.md#-例-8346gpt-image-2-彩色铅笔插画)
+
+- [Case 8357: 复古美式卡通风格图像转换](cat-edit.md#-例-8357复古美式卡通风格图像转换)
 ---
 
 <a id="fun"></a>

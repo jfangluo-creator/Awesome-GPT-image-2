@@ -22491,3 +22491,53 @@ cute, red and black gingham short pants, black knit vest, denim jacket, cool aut
 
 ---
 
+### 🎨 例 8356：复古红黑穿搭提示词
+
+![复古红黑穿搭提示词](../images/%E5%A4%8D%E5%8F%A4%E7%BA%A2%E9%BB%91%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+**穿搭：**
+红色上衣搭配黑色丝袜。
+配以简约的呼应款配饰进行点缀。
+甜美、柔美，略带复古感的休闲时尚风格。
+红黑配色为主，辅以柔和的粉色点缀。
+不戴帽子。
+无任何头部装饰。
+无多余装饰物。
+
+[English]
+**OUTFIT:**
+A red shirt paired with black stockings.
+Styled with simple coordinating accessories.
+Cute, feminine, slightly retro casual fashion aesthetic.
+Red and black color scheme with soft pink accents.
+No hat.
+No headwear.
+No extra decorations.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2116426192744280145) | 2026-10-31
+
+---
+
+### 🎨 例 8358：万圣节镰刀少女
+
+![万圣节镰刀少女](../images/%E4%B8%87%E5%9C%A3%E8%8A%82%E9%95%B0%E5%88%80%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅全身动漫插画，画中是一位美丽的年轻女子，一头飘逸的白色长发，发尾渐变为青绿色。她肌肤白皙，湛蓝的双眸格外引人注目。她身穿一件下摆做旧处理的黑色超大号连帽衫，内搭白色翻领衬衫，下身搭配黑色过膝长袜和厚底白色运动鞋。右手握着一把巨大的华丽镰刀，弯曲的刀刃上雕刻着繁复精致的哥特式纹样。背景是一幅阴森的万圣节场景：一轮硕大的发光满月高悬在她身后的夜空中，月光映衬出一座漆黑的哥特式城堡或大教堂的剪影，建筑内的窗户透出点点光亮。前景的地面上散落着几个雕好的南瓜灯，散发着橙色的光芒。远处有几只蝙蝠在飞舞。整体氛围诡异却不失格调，清冷的月光与温暖的南瓜灯光形成了强烈的对比。
+
+[English]
+A full-body anime illustration of a beautiful young woman with long, flowing white hair that transitions into teal tips. She has pale skin and striking blue eyes. She is wearing an oversized black hoodie with a distressed hem over a white collared shirt, paired with thigh-high black stockings and chunky white sneakers. In her right hand, she holds a massive, ornate scythe with a curved blade featuring intricate gothic designs. The background depicts a spooky Halloween scene: a large, glowing full moon dominates the sky behind her, silhouetted against a dark, gothic castle or cathedral with lit windows. Several carved jack-o'-lantern pumpkins are scattered on the ground in the foreground, casting an orange glow. Bats fly in the distance. The overall atmosphere is eerie yet stylish, with high contrast between the cool moonlight and warm pumpkin light.
+```
+
+**来源：** [@ふぁりー💚💛](https://x.com/506Farley/status/2116410020552482899) | 2026-10-31
+
+---
+
