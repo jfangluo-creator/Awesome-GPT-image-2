@@ -75715,3 +75715,21 @@ A vertical, medium-shot portrait of a young Asian woman with short dark hair and
 
 ---
 
+### 📷 例 8363：优雅白色时尚人像与软呢帽
+
+![优雅白色时尚人像与软呢帽](../images/%E4%BC%98%E9%9B%85%E7%99%BD%E8%89%B2%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E4%B8%8E%E8%BD%AF%E5%91%A2%E5%B8%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高分辨率的女性特写肖像：她留着深色长波浪卷发，拥有一双温暖的棕色眼眸，头戴一顶配有缎带的时尚白色宽檐礼帽。她身穿一件优雅的白色丝绸衬衫，领口系着蝴蝶结，外搭一件蓬松的白色羽毛短款外套。光线柔和而温暖，泛着金色的光泽，勾勒出秀发的高光，并在她的脸庞上洒下温柔的光晕；背景干净简洁，色调中性。整体呈现照片级真实质感，尽显高端时尚摄影风格。
+
+[English]
+A high-resolution, close-up portrait of a woman with long, dark, wavy hair and warm brown eyes, wearing a stylish white wide-brim fedora hat with a satin band. She is dressed in an elegant white silk blouse featuring a bow tie collar under a fluffy white feather bolero jacket. The lighting is soft and golden, catching the highlights in her hair and casting a gentle glow on her face, against a clean, neutral-toned background. Photorealistic, high-end fashion photography style.
+```
+
+**来源：** [@Ayesha](https://x.com/AyeshaEvie/status/2117244630064415223) | 2026-11-02
+
+---
+

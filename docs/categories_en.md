@@ -3675,7 +3675,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3095)
+## 📷 [Photography & Realistic](cat-photo.md) (3096)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9799,6 +9799,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8351: 休闲咖啡馆时尚人像提示词](cat-photo.md#-例-8351休闲咖啡馆时尚人像提示词)
 
 - [Case 8355: 复古昭和万圣节人像](cat-photo.md#-例-8355复古昭和万圣节人像)
+
+- [Case 8363: 优雅白色时尚人像与软呢帽](cat-photo.md#-例-8363优雅白色时尚人像与软呢帽)
 ---
 
 <a id="illustration"></a>
@@ -13741,7 +13743,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (288)
+## 🎬 [Comics & Storyboards](cat-comic.md) (289)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14301,11 +14303,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8194: 复古儿童绘本封面角色插画](cat-comic.md#-例-8194复古儿童绘本封面角色插画)
 
 - [Case 8278: 动漫少女投掷棒球](cat-comic.md#-例-8278动漫少女投掷棒球)
+
+- [Case 8362: 复古圣诞绘本插画提示词](cat-comic.md#-例-8362复古圣诞绘本插画提示词)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (922)
+## 🏷️ [Brand & Packaging](cat-brand.md) (923)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16144,6 +16148,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8354: 复古万圣节吸血鬼少女](cat-brand.md#️-例-8354复古万圣节吸血鬼少女)
 
 - [Case 8359: 水彩动漫时尚插画提示词](cat-brand.md#️-例-8359水彩动漫时尚插画提示词)
+
+- [Case 8364: 复古日系网球少女](cat-brand.md#️-例-8364复古日系网球少女)
 ---
 
 <a id="edit"></a>

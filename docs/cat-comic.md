@@ -10543,3 +10543,41 @@ A vertical webtoon-style illustration of a female anime character pitching a bas
 
 ---
 
+### 🎬 例 8362：复古圣诞绘本插画提示词
+
+![复古圣诞绘本插画提示词](../images/%E5%A4%8D%E5%8F%A4%E5%9C%A3%E8%AF%9E%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的参考图转化为精美的复古圣诞主题手绘插画，呈现温馨怀旧的童话绘本美学。请严格保留原图的构图、镜头角度、取景范围、人物身份、面部特征、发型、姿势、服装、比例、背景元素及物品摆放位置，切勿改动或重新排列任何细节。
+
+采用怀旧 2D 插画风格，灵感源自复古圣诞贺卡、传统彩色铅笔画与带有肌理感的儿童绘本。画面需呈现清晰可见的手绘铅笔笔触、粗粝的蜡笔涂色、细腻的素描线条、淡雅的水彩质感，以及迷人的再生纸颗粒纹理。
+
+使用温暖的节日配色方案，包括深森林绿、暖巧克力棕、柔和芥末黄、焦橙色、奶油白、米色、灰红色和柔金色调。通过略带拙趣的不规则轮廓线、脸颊上淡淡的红晕、灵动传神的双眼以及轻柔的明暗过渡，营造出迷人的手工绘制感。
+
+完整保留参考图中出现的所有圣诞元素，包括装饰好的圣诞树、金色星星、闪烁的彩灯、包装精美的礼物、冬日雪景、保暖的冬装以及各类节日装饰。最终呈现出温暖怀旧的节日氛围与精致的复古插画效果。
+
+整体美学：复古圣诞绘本插画、旧纸张肌理、手绘彩铅艺术、怀旧节日明信片、温馨冬日氛围、充满奇思妙想的 2D 画作、细腻铅笔笔触、温暖大地色系、柔和不规则边缘、高品质艺术质感。
+
+宽高比：9:16 竖版。
+
+[English]
+Transform the uploaded reference image into a beautiful vintage Christmas-themed hand-drawn illustration with a cozy retro storybook aesthetic. Preserve the original image’s exact composition, camera angle, framing, subject identity, facial features, hairstyle, pose, clothing, proportions, background elements, and object placement. Do not change or rearrange anything.
+
+Use a nostalgic 2D illustrated style inspired by vintage Christmas greeting cards, traditional colored-pencil drawings, and textured children’s storybooks. Create visible hand-drawn pencil strokes, rough crayon shading, delicate sketch outlines, subtle watercolor textures, and a beautiful grainy recycled-paper texture.
+
+Use a warm festive color palette featuring deep forest green, warm chocolate brown, muted mustard yellow, burnt orange, cream, beige, dusty red, and soft golden tones. Add a charming handmade appearance with slightly imperfect outlines, soft blush on the cheeks, expressive eyes, and gentle shading.
+
+Maintain all Christmas elements, including decorated Christmas trees, golden stars, sparkling lights, wrapped presents, winter scenery, cozy clothing, and festive decorations wherever they appear in the reference. Create a warm, nostalgic holiday atmosphere with a charming vintage illustration finish.
+
+Overall aesthetic: Retro Christmas storybook illustration, vintage paper texture, hand-drawn colored-pencil art, nostalgic holiday postcard, cozy winter atmosphere, whimsical 2D artwork, detailed pencil strokes, warm earthy colors, soft imperfect edges, high-quality artistic finish.
+
+Aspect ratio: 9:16 vertical.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2117263429476175991) | 2026-11-02
+
+---
+
