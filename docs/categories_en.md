@@ -1483,7 +1483,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1111)
+## 🎴 [Posters & Cards](cat-poster.md) (1112)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3669,6 +3669,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8347: 赛艇比赛场地中的女性](cat-poster.md#-例-8347赛艇比赛场地中的女性)
 
 - [Case 8352: GPT Image 2 复古邮票海报提示词](cat-poster.md#-例-8352gpt-image-2-复古邮票海报提示词)
+
+- [Case 8360: 动漫编辑海报提示词](cat-poster.md#-例-8360动漫编辑海报提示词)
 ---
 
 <a id="photo"></a>
@@ -9801,7 +9803,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1076)
+## 🎨 [Illustration & Art](cat-illustration.md) (1077)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11939,6 +11941,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8356: 复古红黑穿搭提示词](cat-illustration.md#-例-8356复古红黑穿搭提示词)
 
 - [Case 8358: 万圣节镰刀少女](cat-illustration.md#-例-8358万圣节镰刀少女)
+
+- [Case 8361: 秋日街头约会穿搭](cat-illustration.md#-例-8361秋日街头约会穿搭)
 ---
 
 <a id="character"></a>
@@ -14301,7 +14305,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (921)
+## 🏷️ [Brand & Packaging](cat-brand.md) (922)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16138,6 +16142,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8353: 橄榄绿蜡帆布卷顶背包](cat-brand.md#️-例-8353橄榄绿蜡帆布卷顶背包)
 
 - [Case 8354: 复古万圣节吸血鬼少女](cat-brand.md#️-例-8354复古万圣节吸血鬼少女)
+
+- [Case 8359: 水彩动漫时尚插画提示词](cat-brand.md#️-例-8359水彩动漫时尚插画提示词)
 ---
 
 <a id="edit"></a>

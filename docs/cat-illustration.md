@@ -22541,3 +22541,29 @@ A full-body anime illustration of a beautiful young woman with long, flowing whi
 
 ---
 
+### 🎨 例 8361：秋日街头约会穿搭
+
+![秋日街头约会穿搭](../images/%E7%A7%8B%E6%97%A5%E8%A1%97%E5%A4%B4%E7%BA%A6%E4%BC%9A%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱优雅，温柔浅笑，微卷长发。
+秋日街景背景。
+
+她身穿驼色短款外套，搭配柔软的羊羔毛领，内搭酒红色针织毛衣与同色系酒红百褶裙，脚踩黑色短靴。
+甜美又温暖的约会穿搭。杂志大片风格，细节质感丰富，暖阳倾洒
+
+[English]
+cute and elegant, gentle smile, wavy hair. 
+Autumn street background. 
+
+She wears a camel short jacket with soft shearling collar over a Bordeaux knit sweater, matching wine-red pleated skirt, black ankle boots. 
+Cute and warm date coordinate. Magazine editorial, detailed textures, warm sunlight
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2117090571449684320) | 2026-11-02
+
+---
+

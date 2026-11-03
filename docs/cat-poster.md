@@ -36892,3 +36892,55 @@ Elegant, minimal, nostalgic, premium editorial design.
 
 ---
 
+### 🎴 例 8360：动漫编辑海报提示词
+
+![动漫编辑海报提示词](../images/%E5%8A%A8%E6%BC%AB%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转化为一张高端、风格化的动漫风时尚海报，同时精准保留人物的面部特征、发型、姿势、太阳镜、珍珠耳环以及红色羽绒服。
+
+打造令人惊艳的双联垂直构图：
+
+上幅画面：以湛蓝天空为背景的女性超写实肖像，沐浴在温暖的黄金时刻阳光下，自然微风吹拂发丝，佩戴鲜艳的橙色镜片太阳镜，皮肤纹理真实细腻，呈现电影级摄影质感。
+
+下幅画面：将同一位女性重新演绎为细节丰富的动漫与漫画融合插画。完整保留她的面部特征、表情、发型、穿搭、配饰及姿势。运用极具张力的橙色轮廓光、富有表现力的精细线条、浓郁色彩以及高端图像小说级别的阴影处理。
+
+海报设计：
+
+* 深炭灰色背景搭配亮眼的橙色点缀。
+* 大号粗斜体文字“URBAN GLOW”。
+* 小号副标题：“CITY VIBES IN COLOR”。
+* 动感十足的橙色对角线图形与几何元素。
+* 现代街头潮牌时尚大片美学。
+* 高对比度，高端杂志封面级设计。
+
+重要提示：插画中的面部需与原照片高度一致。切勿改变人物身份、面部比例或标志性特征。超精细画质，4K 分辨率，专业海报设计，3:4 垂直构图。
+
+[English]
+Transform the reference photograph into a premium, stylized anime-inspired editorial poster while preserving the subject’s exact facial features, hairstyle, pose, sunglasses, pearl earrings, and red puffer jacket.
+
+Create a stunning two-panel vertical composition:
+
+Top Panel: Photorealistic portrait of the woman against a clear blue sky, warm golden-hour sunlight, natural wind blowing through her hair, vibrant orange-tinted sunglasses, realistic skin texture, cinematic photography.
+
+Bottom Panel: Reimagine the exact same woman as a highly detailed anime-meets-comic-book illustration. Preserve her facial identity, expression, hairstyle, outfit, accessories, and pose. Use dramatic orange rim lighting, expressive fine linework, rich colors, and premium graphic-novel shading.
+
+Poster Design:
+
+* Dark charcoal background with vibrant orange accents.
+* Large bold italic typography reading “URBAN GLOW”.
+* Smaller subtitle: “CITY VIBES IN COLOR”.
+* Dynamic diagonal orange graphics and geometric elements.
+* Modern streetwear editorial aesthetic.
+* High contrast, premium magazine cover design.
+
+Important: Keep the illustrated face closely matched to the original photograph. Do not change the person’s identity, facial proportions, or distinctive features. Ultra-detailed, 4K, professional poster design, vertical 3:4 composition.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2117106766836347247) | 2026-11-02
+
+---
+
