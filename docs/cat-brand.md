@@ -22768,3 +22768,45 @@ A vertical, full-body shot of a young woman playing tennis on an outdoor clay co
 
 ---
 
+### 🏷️ 例 8365：复古绘本插画风格转换
+
+![复古绘本插画风格转换](../images/%E5%A4%8D%E5%8F%A4%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为精美的手绘故事书插画，呈现迷人的复古童书美学风格。
+
+艺术风格：传统水粉与水彩画质感，可见纸张纹理，笔触柔和，带有细腻的画布肌理，色彩温暖质朴，线条为精致的手绘轮廓，绘画细节丰富饱满。
+
+人物形象：保留原图人物的身份特征、五官、发型、服装、姿态及标志性细节，并将其巧妙转化为充满童趣的插画形式。眼神灵动传神，面部轮廓柔和，形态自然流畅。
+
+场景环境：将原始背景重塑为精美的故事书场景，增添丰富的环境细节、自然的有机纹理与梦幻般的氛围。
+
+色彩搭配：温暖的秋日橙、金黄色、焦红色、大地棕、柔和米色以及淡雅天蓝。色彩浓郁饱满且和谐统一。
+
+光影与氛围：柔和的自然光，温暖怀旧的气息，充满奇思妙想的叙事感，营造出温馨而梦幻的视觉魅力。
+
+最终效果：一幅细节丰富、满构图的传统儿童故事书插画，宛如手绘的复古绘本。切勿出现照片级写实、3D 渲染、数字光泽特效或生硬的 AI 生成痕迹。
+
+[English]
+Transform the uploaded photo into a beautiful hand-painted storybook illustration with a charming vintage children's book aesthetic.
+
+Art Style: Traditional gouache and watercolor painting, visible paper grain, soft brushstrokes, subtle canvas texture, warm earthy colors, delicate hand-drawn outlines, and rich painterly details.
+
+Character: Preserve the original subject's identity, facial features, hairstyle, clothing, pose, and distinctive details while translating everything into a charming illustrated form. Use expressive eyes, soft facial features, and naturally flowing shapes.
+
+Environment: Recreate the original surroundings as a beautifully illustrated storybook setting, adding intricate environmental details, organic textures, and a dreamy atmosphere.
+
+Color Palette: Warm autumn oranges, golden yellows, burnt reds, earthy browns, muted beige, and soft sky blues. Maintain rich but harmonious colors.
+
+Lighting & Mood: Soft natural daylight, warm nostalgic atmosphere, whimsical storytelling feeling, cozy and magical visual appeal.
+
+Final Look: A richly detailed, full-frame traditional children's storybook illustration, resembling a hand-painted vintage picture book. Absolutely no photorealism, 3D rendering, digital glossy effects, or artificial AI appearance.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2117849881054437427) | 2026-11-04
+
+---
+

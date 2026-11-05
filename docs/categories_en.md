@@ -3675,7 +3675,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3096)
+## 📷 [Photography & Realistic](cat-photo.md) (3097)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9801,11 +9801,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8355: 复古昭和万圣节人像](cat-photo.md#-例-8355复古昭和万圣节人像)
 
 - [Case 8363: 优雅白色时尚人像与软呢帽](cat-photo.md#-例-8363优雅白色时尚人像与软呢帽)
+
+- [Case 8368: 年轻女性柔和特写肖像](cat-photo.md#-例-8368年轻女性柔和特写肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1077)
+## 🎨 [Illustration & Art](cat-illustration.md) (1079)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11945,6 +11947,10 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8358: 万圣节镰刀少女](cat-illustration.md#-例-8358万圣节镰刀少女)
 
 - [Case 8361: 秋日街头约会穿搭](cat-illustration.md#-例-8361秋日街头约会穿搭)
+
+- [Case 8366: Sam Altman 长颈鹿脖子梗图](cat-illustration.md#-例-8366sam-altman-长颈鹿脖子梗图)
+
+- [Case 8367: GPT Image 2 秋季浪漫约会穿搭提示词](cat-illustration.md#-例-8367gpt-image-2-秋季浪漫约会穿搭提示词)
 ---
 
 <a id="character"></a>
@@ -14309,7 +14315,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (923)
+## 🏷️ [Brand & Packaging](cat-brand.md) (924)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16150,6 +16156,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8359: 水彩动漫时尚插画提示词](cat-brand.md#️-例-8359水彩动漫时尚插画提示词)
 
 - [Case 8364: 复古日系网球少女](cat-brand.md#️-例-8364复古日系网球少女)
+
+- [Case 8365: 复古绘本插画风格转换](cat-brand.md#️-例-8365复古绘本插画风格转换)
 ---
 
 <a id="edit"></a>

@@ -22567,3 +22567,55 @@ Cute and warm date coordinate. Magazine editorial, detailed textures, warm sunli
 
 ---
 
+### 🎨 例 8366：Sam Altman 长颈鹿脖子梗图
+
+![Sam Altman 长颈鹿脖子梗图](../images/Sam%20Altman%20%E9%95%BF%E9%A2%88%E9%B9%BF%E8%84%96%E5%AD%90%E6%A2%97%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="RAM altman 的脖子太高了，像长颈鹿一样"}
+
+[English]
+{argument name="subject" default="the neck of RAM altman is too tall like a giraffe"}
+```
+
+**来源：** [@thoufic](https://x.com/iamthoufic/status/2117818110459982321) | 2026-11-04
+
+---
+
+### 🎨 例 8367：GPT Image 2 秋季浪漫约会穿搭提示词
+
+![GPT Image 2 秋季浪漫约会穿搭提示词](../images/GPT%20Image%202%20%E7%A7%8B%E5%AD%A3%E6%B5%AA%E6%BC%AB%E7%BA%A6%E4%BC%9A%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一件精致的驼色羊毛定制大衣，廓形松弛有度、挺括有型，肩线自然流畅，平驳领剪裁利落规整，搭配经典的双排扣细节，直筒袖比例恰到好处，下摆平整对称。
+
+大衣呈敞开式穿着，内搭一件精致的白色衬衫，袖口点缀着优雅的蕾丝，下身配以一条米棕格纹百褶中长裙。
+
+大衣沿身体线条自然垂落，前片轮廓清晰分明，面料厚薄均匀一致，褶皱细腻而自然。
+
+脚踩棕色及膝皮靴，手拎一只小巧的定型手提包。
+
+浪漫复古的秋日约会穿搭，优雅柔美的女性风格，层次搭配精致考究，整体比例和谐匀称，尽显迷人季节风情。
+
+[English]
+A sophisticated camel-colored tailored wool coat with a relaxed yet well-structured silhouette, natural shoulder lines, neatly shaped notched lapels, classic double-breasted button details, straight sleeves with natural proportions, and clean symmetrical hems.
+
+The coat is worn open, revealing a delicate white blouse with elegant lace cuffs and a beige-and-brown checkered pleated midi skirt.
+
+The coat drapes naturally along the body, with clearly defined front panels, consistent fabric thickness, and subtle, natural folds.
+
+Brown knee-high leather boots and a small structured handbag.
+
+Romantic traditional autumn date fashion, elegant feminine styling, refined layering, harmonious proportions, charming seasonal outfit.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2117815347189330064) | 2026-11-04
+
+---
+

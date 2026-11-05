@@ -75733,3 +75733,21 @@ A high-resolution, close-up portrait of a woman with long, dark, wavy hair and w
 
 ---
 
+### 📷 例 8368：年轻女性柔和特写肖像
+
+![年轻女性柔和特写肖像](../images/%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E6%9F%94%E5%92%8C%E7%89%B9%E5%86%99%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级写实的年轻东亚女性特写肖像，肌肤白皙细腻，深棕色长直发自然垂落于肩头。她微微侧目低垂，嘴角挂着温柔浅笑，传递出宁静而温暖的气息。画面采用明亮、柔和的高调布光，营造出干净通透的氛围与轻柔的阴影。妆容清透水润，唇部与双颊点缀着淡淡的粉色。背景为纯白或浅灰色的虚化平面，进一步凸显人物面部特征。
+
+[English]
+A photorealistic close-up portrait of a young East Asian woman with fair, smooth skin and long, straight dark brown hair that falls loosely over her shoulders. She is looking slightly downward to the side with a gentle, soft smile, conveying a sense of calm and warmth. The lighting is bright, diffused, and high-key, creating a clean and airy atmosphere with soft shadows. Her makeup is natural and dewy, featuring subtle pink tones on the lips and cheeks. The background is a plain, out-of-focus white or light gray surface, emphasizing the subject's features.
+```
+
+**来源：** [@Kevin Tech Labs](https://x.com/HongyeMain/status/2117775627839553765) | 2026-11-04
+
+---
+
