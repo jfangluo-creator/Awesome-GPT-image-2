@@ -12461,7 +12461,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (388)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (389)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13225,6 +13225,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8320: 动漫冒险者角色设定图](cat-3d.md#-例-8320动漫冒险者角色设定图)
 
 - [Case 8325: 动漫冒险者角色设定图](cat-3d.md#-例-8325动漫冒险者角色设定图)
+
+- [Case 8370: OOTD 时尚拼贴编辑风提示词](cat-3d.md#-例-8370ootd-时尚拼贴编辑风提示词)
 ---
 
 <a id="architecture"></a>
