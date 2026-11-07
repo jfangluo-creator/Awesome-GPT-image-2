@@ -22619,3 +22619,41 @@ Romantic traditional autumn date fashion, elegant feminine styling, refined laye
 
 ---
 
+### 🎨 例 8375：经典咖啡馆约会穿搭提示词
+
+![经典咖啡馆约会穿搭提示词](../images/%E7%BB%8F%E5%85%B8%E5%92%96%E5%95%A1%E9%A6%86%E7%BA%A6%E4%BC%9A%E7%A9%BF%E6%90%AD%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：
+一件 {argument name="dress color" default="navy blue"} 缎面中长裙，优雅的长袖设计搭配精致的白色蕾丝领，勾勒出典雅经典的轮廓。
+
+腰间点缀一条纤细的珍珠腰带，外搭一件白色短款小外套，尽显柔美婉约的女性气质。
+
+脚踩饰有小巧蝴蝶结细节的黑色玛丽珍高跟鞋，手拎一只精致的珍珠手拿包。
+
+优雅、浪漫、经典的咖啡馆约会风穿搭美学。
+藏蓝、纯白、黑色与珍珠象牙白的配色方案。
+柔滑缎面、精致蕾丝、莹润珍珠与挺括面料交织出丰富质感。
+精致、柔美、永不过时的季节造型。
+
+[English]
+OUTFIT:
+A {argument name="dress color" default="navy blue"} satin midi dress with elegant long sleeves and a delicate white lace collar, creating a refined, classic silhouette.
+
+Accented with a thin pearl belt at the waist and layered with a small white bolero jacket for a graceful feminine touch.
+
+Styled with black Mary Jane heels decorated with small ribbon details and a compact pearl clutch bag.
+
+Elegant, romantic, classic café-date fashion aesthetic.
+Navy blue, crisp white, black, and pearl ivory color palette.
+Smooth satin, delicate lace, luminous pearls, and polished fabric textures.
+Sophisticated, feminine, timeless seasonal styling.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2118540122744336700) | 2026-11-06
+
+---
+

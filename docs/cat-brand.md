@@ -22810,3 +22810,21 @@ Final Look: A richly detailed, full-frame traditional children's storybook illus
 
 ---
 
+### 🏷️ 例 8376：哈兰德动漫风格对决
+
+![哈兰德动漫风格对决](../images/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极具张力的动漫风格插画：身穿曼城球衣的 Erling Haaland 双手紧抓头发，愤怒地嘶吼着。他正与一名光头裁判对峙，裁判背对观众，抬起一只手示意他冷静下来。画面右侧隐约可见另一名球员的身影。场景设定在一场雨中的比赛里，雨滴纷纷落下，球场灯光在背景中晕染出朦胧的光影。
+
+[English]
+A dramatic anime-style illustration of Erling Haaland in a Manchester City jersey, screaming furiously with his hands gripping his hair. He is confronting a bald referee who has his back turned to the viewer, holding up a hand to calm him down. Another player is partially visible on the right side. The scene takes place during a rainy match, with water droplets falling and stadium lights creating a blurred background.
+```
+
+**来源：** [@Popcraft AI](https://x.com/popcraftAI/status/2118508745034801661) | 2026-11-06
+
+---
+

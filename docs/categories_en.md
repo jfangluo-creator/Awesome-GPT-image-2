@@ -1483,7 +1483,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1112)
+## 🎴 [Posters & Cards](cat-poster.md) (1114)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3671,6 +3671,10 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8352: GPT Image 2 复古邮票海报提示词](cat-poster.md#-例-8352gpt-image-2-复古邮票海报提示词)
 
 - [Case 8360: 动漫编辑海报提示词](cat-poster.md#-例-8360动漫编辑海报提示词)
+
+- [Case 8371: GPT Image 2 分割海报提示词](cat-poster.md#-例-8371gpt-image-2-分割海报提示词)
+
+- [Case 8374: 水彩插画对比海报](cat-poster.md#-例-8374水彩插画对比海报)
 ---
 
 <a id="photo"></a>
@@ -9809,7 +9813,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1079)
+## 🎨 [Illustration & Art](cat-illustration.md) (1080)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11953,6 +11957,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8366: Sam Altman 长颈鹿脖子梗图](cat-illustration.md#-例-8366sam-altman-长颈鹿脖子梗图)
 
 - [Case 8367: GPT Image 2 秋季浪漫约会穿搭提示词](cat-illustration.md#-例-8367gpt-image-2-秋季浪漫约会穿搭提示词)
+
+- [Case 8375: 经典咖啡馆约会穿搭提示词](cat-illustration.md#-例-8375经典咖啡馆约会穿搭提示词)
 ---
 
 <a id="character"></a>
@@ -12461,7 +12467,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (389)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (390)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13227,6 +13233,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8325: 动漫冒险者角色设定图](cat-3d.md#-例-8325动漫冒险者角色设定图)
 
 - [Case 8370: OOTD 时尚拼贴编辑风提示词](cat-3d.md#-例-8370ootd-时尚拼贴编辑风提示词)
+
+- [Case 8373: GPT Image 2 笔记本弹出式视觉错觉](cat-3d.md#-例-8373gpt-image-2-笔记本弹出式视觉错觉)
 ---
 
 <a id="architecture"></a>
@@ -13753,7 +13761,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (289)
+## 🎬 [Comics & Storyboards](cat-comic.md) (290)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14315,11 +14323,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8278: 动漫少女投掷棒球](cat-comic.md#-例-8278动漫少女投掷棒球)
 
 - [Case 8362: 复古圣诞绘本插画提示词](cat-comic.md#-例-8362复古圣诞绘本插画提示词)
+
+- [Case 8372: GPT Image 2 蜡笔粉彩插画](cat-comic.md#-例-8372gpt-image-2-蜡笔粉彩插画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (924)
+## 🏷️ [Brand & Packaging](cat-brand.md) (925)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16162,6 +16172,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8364: 复古日系网球少女](cat-brand.md#️-例-8364复古日系网球少女)
 
 - [Case 8365: 复古绘本插画风格转换](cat-brand.md#️-例-8365复古绘本插画风格转换)
+
+- [Case 8376: 哈兰德动漫风格对决](cat-brand.md#️-例-8376哈兰德动漫风格对决)
 ---
 
 <a id="edit"></a>

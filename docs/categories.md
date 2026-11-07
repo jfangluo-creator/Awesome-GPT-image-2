@@ -3671,6 +3671,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8352：GPT Image 2 复古邮票海报提示词](cat-poster.md#-例-8352gpt-image-2-复古邮票海报提示词)
 
 - [例 8360：动漫编辑海报提示词](cat-poster.md#-例-8360动漫编辑海报提示词)
+
+- [例 8371：GPT Image 2 分割海报提示词](cat-poster.md#-例-8371gpt-image-2-分割海报提示词)
+
+- [例 8374：水彩插画对比海报](cat-poster.md#-例-8374水彩插画对比海报)
 ---
 
 <a id="photo"></a>
@@ -11956,6 +11960,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8366：Sam Altman 长颈鹿脖子梗图](cat-illustration.md#-例-8366sam-altman-长颈鹿脖子梗图)
 
 - [例 8367：GPT Image 2 秋季浪漫约会穿搭提示词](cat-illustration.md#-例-8367gpt-image-2-秋季浪漫约会穿搭提示词)
+
+- [例 8375：经典咖啡馆约会穿搭提示词](cat-illustration.md#-例-8375经典咖啡馆约会穿搭提示词)
 ---
 
 <a id="character"></a>
@@ -13230,6 +13236,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8325：动漫冒险者角色设定图](cat-3d.md#-例-8325动漫冒险者角色设定图)
 
 - [例 8370：OOTD 时尚拼贴编辑风提示词](cat-3d.md#-例-8370ootd-时尚拼贴编辑风提示词)
+
+- [例 8373：GPT Image 2 笔记本弹出式视觉错觉](cat-3d.md#-例-8373gpt-image-2-笔记本弹出式视觉错觉)
 ---
 
 <a id="architecture"></a>
@@ -14318,6 +14326,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8278：动漫少女投掷棒球](cat-comic.md#-例-8278动漫少女投掷棒球)
 
 - [例 8362：复古圣诞绘本插画提示词](cat-comic.md#-例-8362复古圣诞绘本插画提示词)
+
+- [例 8372：GPT Image 2 蜡笔粉彩插画](cat-comic.md#-例-8372gpt-image-2-蜡笔粉彩插画)
 ---
 
 <a id="brand"></a>
@@ -16165,6 +16175,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 8364：复古日系网球少女](cat-brand.md#️-例-8364复古日系网球少女)
 
 - [例 8365：复古绘本插画风格转换](cat-brand.md#️-例-8365复古绘本插画风格转换)
+
+- [例 8376：哈兰德动漫风格对决](cat-brand.md#️-例-8376哈兰德动漫风格对决)
 ---
 
 <a id="edit"></a>

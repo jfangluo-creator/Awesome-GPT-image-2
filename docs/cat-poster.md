@@ -36944,3 +36944,107 @@ Important: Keep the illustrated face closely matched to the original photograph.
 
 ---
 
+### 🎴 例 8371：GPT Image 2 分割海报提示词
+
+![GPT Image 2 分割海报提示词](../images/GPT%20Image%202%20%E5%88%86%E5%89%B2%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片，制作一张 3:4 竖版海报，上下两部分无缝衔接，中间不得出现白线、间隙或边框。
+
+上半部分：原图满版出血展示。
+
+下半部分：暖调米白色纹理纸张背景。将主体抠出、放大并居中放置；主体后方添加一个细长的水平矩形，内部展示原场景的模糊裁切画面，且主体需突破该矩形边框（呈现 3D 破框立体效果）。主体底部通过自然的颗粒、阴影或倒影柔和地融入纸张之中。添加浅灰色、字间距较宽的小号大写衬线字体：左上角排布 3 行简短诗意的文案，右下角排布 2 行文案并带有“—”符号。整体采用极简画廊海报风格，照片级真实质感。
+
+[English]
+Using the uploaded photo, create a 3:4 vertical poster split into top and bottom halves that touch seamlessly, with no white line, gap, or border between them.
+
+Top: the original photo, full-bleed.
+
+Bottom: a warm off-white textured paper background. The main subject is cut out, enlarged, and centered. Behind it, a thin horizontal rectangle shows a blurred crop of the original scene, and the subject breaks out of the frame (3D pop-out). The subject's base fades softly into the paper with natural particles, shadow, or reflection. Add small uppercase serif text in light grey with wide spacing: 3 short poetic lines at top-left and 2 lines with a "—" at bottom-right. Minimal gallery-poster style, photorealistic.
+```
+
+**来源：** [@Harry AI](https://x.com/Tech_Harry1/status/2118734994726343082) | 2026-11-06
+
+---
+
+### 🎴 例 8374：水彩插画对比海报
+
+![水彩插画对比海报](../images/%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB%E5%AF%B9%E6%AF%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为一张精美的手绘水彩插画对比海报。
+
+布局与构图：
+制作一张 3:4 的竖版海报，上下等分为两个横向区域。
+
+上半部分 —— 原图：
+原封不动地展示上传的原始照片。保留原有的主体、姿势、服装、背景、光线、色彩和构图，不做任何改动。
+
+下半部分 —— 水彩插画：
+将同一张照片重新创作为细腻的手绘水彩与彩铅插画。完整保留人物的身份特征、五官、发型、表情、服装、姿势、比例以及周围环境。
+
+运用柔和的水彩晕染、细腻的墨线勾勒、清晰可见的铅笔笔触、淡淡的纸张肌理、温暖的粉彩色调、轻柔的阴影过渡，以及带着手工温度的不完美细节。让整幅插画呈现出日韩生活手账般迷人的美学风格。
+
+装饰细节：
+添加与人物和场景相得益彰的手写趣味字体。点缀一些手绘小涂鸦，比如爱心、星星、箭头、皇冠、下划线或闪光符号。创作一句契合人物性格或心境的创意短句。
+
+背景：
+保留原有环境，但用随性的水彩笔触、简化的景物和柔和的艺术细节进行重新演绎。
+
+整体风格：
+梦幻、温馨、青春、优雅、充满艺术感，并带有一丝奇思妙想。以带有纹理的温暖米白色水彩纸作为插画的背景底色。
+
+注意事项：
+- 上半部分的原始照片必须保持完全不变。
+- 下半部分的插画必须精准还原同一个瞬间。
+- 不要凭空添加额外的人物或物品。
+- 确保与原图保持高度一致的视觉效果。
+- 字体需呈现自然的手写质感，而非电脑排版效果。
+- 确保画面上下严格五五对分，构图均衡。
+
+高品质编辑级艺术海报，3:4 竖版比例。
+
+[English]
+Transform the uploaded photograph into a beautiful, hand-drawn watercolor illustration comparison poster.
+
+LAYOUT & COMPOSITION:
+Create a vertical 3:4 poster divided into two equal horizontal sections.
+
+TOP HALF — ORIGINAL PHOTO:
+Display the original uploaded photograph exactly as it is. Preserve the original subject, pose, clothing, background, lighting, colors, and composition without alterations.
+
+BOTTOM HALF — WATERCOLOR ILLUSTRATION:
+Recreate the exact same photograph as a delicate, hand-painted watercolor and colored-pencil illustration. Preserve the subject's identity, facial features, hairstyle, expression, clothing, pose, proportions, and surroundings.
+
+Use soft watercolor washes, delicate ink outlines, visible pencil strokes, subtle paper texture, warm pastel tones, gentle shading, and beautifully imperfect hand-drawn details. Give the illustration a charming Korean/Japanese lifestyle sketchbook aesthetic.
+
+DECORATIVE DETAILS:
+Add handwritten playful typography that complements the subject and scene. Include small hand-drawn doodles such as hearts, stars, arrows, crowns, underlines, or sparkles. Generate a short, creative phrase that matches the subject's personality or mood.
+
+BACKGROUND:
+Maintain the original environment but reinterpret it with loose watercolor brushstrokes, simplified scenery, and soft artistic details.
+
+OVERALL STYLE:
+Dreamy, cozy, youthful, elegant, artistic, and slightly whimsical. Use warm off-white textured watercolor paper as the illustration background.
+
+IMPORTANT:
+- Keep the original photograph completely unchanged in the top section.
+- The bottom illustration must clearly depict the exact same moment.
+- Do not invent additional people or objects.
+- Maintain strong visual similarity to the original photograph.
+- Make the typography look naturally handwritten, not digitally typeset.
+- Ensure a clean 50/50 split with balanced composition.
+
+High-quality editorial art poster, 3:4 vertical aspect ratio.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2118575860303462469) | 2026-11-06
+
+---
+
