@@ -1483,7 +1483,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1114)
+## 🎴 [Posters & Cards](cat-poster.md) (1115)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3675,6 +3675,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8371: GPT Image 2 分割海报提示词](cat-poster.md#-例-8371gpt-image-2-分割海报提示词)
 
 - [Case 8374: 水彩插画对比海报](cat-poster.md#-例-8374水彩插画对比海报)
+
+- [Case 8377: 从照片生成动漫风编辑海报](cat-poster.md#-例-8377从照片生成动漫风编辑海报)
 ---
 
 <a id="photo"></a>
