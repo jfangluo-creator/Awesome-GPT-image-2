@@ -1483,7 +1483,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1115)
+## 🎴 [Posters & Cards](cat-poster.md) (1117)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3677,6 +3677,10 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8374: 水彩插画对比海报](cat-poster.md#-例-8374水彩插画对比海报)
 
 - [Case 8377: 从照片生成动漫风编辑海报](cat-poster.md#-例-8377从照片生成动漫风编辑海报)
+
+- [Case 8380: 极简白色家电海报提示词](cat-poster.md#-例-8380极简白色家电海报提示词)
+
+- [Case 8381: 高端艺术旅行海报提示词](cat-poster.md#-例-8381高端艺术旅行海报提示词)
 ---
 
 <a id="photo"></a>
@@ -11967,7 +11971,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (257)
+## 🧍 [Character Design](cat-character.md) (258)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12467,6 +12471,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8297: 赛博舞台角色概念设定图](cat-character.md#-例-8297赛博舞台角色概念设定图)
 
 - [Case 8299: 动漫角色设定图：哭泣的女孩](cat-character.md#-例-8299动漫角色设定图哭泣的女孩)
+
+- [Case 8379: 拟人化狼角色参考表](cat-character.md#-例-8379拟人化狼角色参考表)
 ---
 
 <a id="3d"></a>

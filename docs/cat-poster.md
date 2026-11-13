@@ -37100,3 +37100,62 @@ Important: Keep the illustrated face closely matched to the original photograph.
 
 ---
 
+### 🎴 例 8380：极简白色家电海报提示词
+
+![极简白色家电海报提示词](../images/%E6%9E%81%E7%AE%80%E7%99%BD%E8%89%B2%E5%AE%B6%E7%94%B5%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+围绕任意主题对象生成一张极简信息型视觉:画面以大面积高明度洁净底场建立第一印象,背景只保留细微纸面或柔雾般的浅层肌理,让空气感和安静感成为主体的一部分。视觉重心不要铺满,而是把主题内容拆成清晰的上部信息层与下部实体锚点:上方用端正、纤细、有书卷气的中文排版组织主标题、副信息和极小字号说明,字距疏朗、行距克制,主标题居中形成庄重停顿,日期、说明、符号线以精确的水平秩序辅助阅读;下方放置一个由主题语义转化出的简洁主形体,体量小、边缘干净、细节真实但不过度装饰,像安静落在空白中的实物证据。主体与文字之间保留宽阔呼吸区,使空白承担高级感、距离感和仪式感,而不是缺内容。色彩从主题自身的材质、情绪和文化语义中提取:底场占据最大面积并保持明亮清透,主体色作为低饱和的轻柔支撑,文字和结构线使用清晰但不沉重的深色信息层,强调色只以极少量出现在关键细节或视觉节点;整体保持清透安静、高明度、低噪声、干净色阶和柔和反差,避免浑浊、做旧、烟雾化和沉闷灰黄。最终效果应像精确设计过的展览公告或产品纪念视觉,第一眼读到秩序与留白,第二眼才看到主题实体和细小信息,质感克制、明亮、自然、可信。
+
+——————
+做成白色小家电三十周年纪念展海报,延续清爽留白的信息公告气质,以象牙白底场、雾银灰文字和一处淡青色细节形成轻冷关系;主形体是一件白色厨房小家电,安静落在下方正中,上部标题居中放大并让日期横线成为视觉停顿,适合品牌展览入口与社媒预告;画幅为竖版 3:4。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong/status/2120876175656710416) | 2026-11-12
+
+---
+
+### 🎴 例 8381：高端艺术旅行海报提示词
+
+![高端艺术旅行海报提示词](../images/%E9%AB%98%E7%AB%AF%E8%89%BA%E6%9C%AF%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片，创作一张高端艺术旅行海报。采用精致的 3:4 竖版构图，并将画面分为上下两部分。
+
+上半部分（50%）：将原照片保留为令人惊叹的超写实风景。保持自然光影、逼真纹理、空间纵深感以及原始场景的构图。
+
+下半部分（50%）：将主体或地标转化为精美的手绘杂志插画。融入日本复古海报美学、细腻的墨线勾勒、水彩肌理、几何图形、抽象图案、植物元素以及流畅的有机线条。
+
+设计风格：极简日式平面设计，北欧美学风格；配色选用柔和的海军蓝、温暖的赤陶色、灰米色、浅灰色与米白色。添加细微的纸张颗粒感、略带瑕疵的手绘质感、拼贴元素，并精心平衡留白空间。
+
+排版布局：插画居中放置，并与上方照片在视觉上自然衔接。点缀小巧的装饰细节、几何边框、波点图案和雅致的植物素描。底部加入一处小巧的日式排版元素。
+
+整体美感：高端画廊级海报、复古旅行杂志风、当代日式插画、精致的编辑排版构图、充满手工感的艺术呈现。
+
+高细节，构图干净，视觉平衡优美，专业平面设计，3:4 竖版比例。
+
+[English]
+Create a premium artistic travel poster inspired by the uploaded photograph. Use a sophisticated 3:4 vertical composition divided into two sections.
+
+TOP HALF (50%): Preserve the original photograph as a breathtaking, photorealistic landscape. Maintain natural lighting, realistic textures, atmospheric depth, and the original scene's composition.
+
+BOTTOM HALF (50%): Transform the main subject or location into a beautiful hand-drawn editorial illustration. Use Japanese vintage poster aesthetics, delicate ink outlines, watercolor textures, geometric shapes, abstract patterns, botanical elements, and flowing organic lines.
+
+DESIGN STYLE: Minimalist Japanese-inspired graphic design, Scandinavian aesthetics, muted navy blue, warm terracotta, dusty beige, soft grey, and off-white palette. Add subtle paper grain, imperfect hand-painted textures, collage elements, and carefully balanced negative space.
+
+LAYOUT: Keep the illustration centered and visually connected to the photograph above. Add small decorative details, geometric frames, dotted patterns, and elegant botanical sketches. Include a tiny Japanese-inspired typography element at the bottom.
+
+Overall aesthetic: Premium art gallery poster, vintage travel magazine, contemporary Japanese illustration, sophisticated editorial composition, handcrafted artistic finish.
+
+High detail, clean composition, beautiful visual balance, professional graphic design, 3:4 portrait ratio.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2120759376063693105) | 2026-11-12
+
+---
+
