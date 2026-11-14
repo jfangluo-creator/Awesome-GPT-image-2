@@ -3685,7 +3685,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3099)
+## 📷 [Photography & Realistic](cat-photo.md) (3101)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9817,11 +9817,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8369: 年轻女性柔和特写肖像](cat-photo.md#-例-8369年轻女性柔和特写肖像)
 
 - [Case 8378: 优雅女性肖像插画](cat-photo.md#-例-8378优雅女性肖像插画)
+
+- [Case 8382: 大都会警察重型机器人](cat-photo.md#-例-8382大都会警察重型机器人)
+
+- [Case 8385: 复古照片：日本寺庙中的女性](cat-photo.md#-例-8385复古照片日本寺庙中的女性)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (1080)
+## 🎨 [Illustration & Art](cat-illustration.md) (1081)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -11967,6 +11971,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 8367: GPT Image 2 秋季浪漫约会穿搭提示词](cat-illustration.md#-例-8367gpt-image-2-秋季浪漫约会穿搭提示词)
 
 - [Case 8375: 经典咖啡馆约会穿搭提示词](cat-illustration.md#-例-8375经典咖啡馆约会穿搭提示词)
+
+- [Case 8384: 女子洗车](cat-illustration.md#-例-8384女子洗车)
 ---
 
 <a id="character"></a>
@@ -12477,7 +12483,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (390)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (391)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -13245,6 +13251,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 8370: OOTD 时尚拼贴编辑风提示词](cat-3d.md#-例-8370ootd-时尚拼贴编辑风提示词)
 
 - [Case 8373: GPT Image 2 笔记本弹出式视觉错觉](cat-3d.md#-例-8373gpt-image-2-笔记本弹出式视觉错觉)
+
+- [Case 8383: 基于参考图生成的时尚小鸭肖像](cat-3d.md#-例-8383基于参考图生成的时尚小鸭肖像)
 ---
 
 <a id="architecture"></a>

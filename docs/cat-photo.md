@@ -75795,3 +75795,39 @@ Soft artistic details, warm colors, and a romantic lifestyle illustration aesthe
 
 ---
 
+### 📷 例 8382：大都会警察重型机器人
+
+![大都会警察重型机器人](../images/%E5%A4%A7%E9%83%BD%E4%BC%9A%E8%AD%A6%E5%AF%9F%E9%87%8D%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级写实的全身照，画面中一台巨大的双足重型机器人伫立在工业机库的场地上。机器人由复杂的机械部件构成，分段的白色装甲板覆盖在深色金属关节和液压活塞之上。它的头部是一条水平传感器条，装有多个摄像头镜头，顶部配有两盏发光的红色警示灯。胸甲上可见白底黑字的“警視庁 MPD”字样。右侧肩甲上也标有“MPD”。机器人的双腿粗壮如柱，末端是宽大的履带式脚掌。前景左侧，一名身穿深蓝色制服、背部印有“警視庁 MPD”字样的警察双手叉腰站立，正抬头仰望这台机器。背景是一座灰色的大型工业建筑，敞开的库门上分别标着“01”和“02”，旁边立有一块带有金色徽章、写着“警視庁 MPD”的标牌。建筑入口附近还能看到几个戴安全帽的小小身影。画面光线为明亮的日光，天空湛蓝澄澈。
+
+[English]
+A photorealistic, full-body shot of a massive, bipedal heavy-duty robot standing in an industrial hangar yard. The robot is constructed from complex mechanical components, featuring segmented white armor plating over dark metallic joints and hydraulic pistons. Its head is a horizontal sensor bar with multiple camera lenses, topped with two glowing red emergency lights. On its chest plate, the text "警視庁 MPD" is visible in black characters on a white background. The right shoulder pad also displays "MPD". The robot's legs are thick and column-like, ending in wide, treaded feet. In the foreground left, a police officer wearing a dark blue uniform with "警視庁 MPD" on the back stands with hands on hips, looking up at the machine. The background shows a large grey industrial building with open bay doors labeled "01" and "02", and a sign reading "警視庁 MPD" with a gold emblem. Other small figures in hard hats are visible near the building entrance. The lighting is bright daylight with clear blue skies.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2121273873752866845) | 2026-11-13
+
+---
+
+### 📷 例 8385：复古照片：日本寺庙中的女性
+
+![复古照片：日本寺庙中的女性](../images/%E5%A4%8D%E5%8F%A4%E7%85%A7%E7%89%87%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%AF%BA%E5%BA%99%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古风格的照片，画面中一位年轻的东亚女性站在一座传统日本寺庙前。她留着深色头发，梳成两条辫子，身穿一件暗栗色的长袖及膝连衣裙，衣领和袖口带有花卉图案。她双手在身前捧着一个棕色小皮包。背景是一片碎石庭院，石阶通向带有红色点缀的木质寺庙建筑，四周绿树葱茏，左侧还有一株形似棕榈的植物。整张照片呈现出柔和的焦点、略微褪色的色调，以及昭和时代复古摄影特有的胶片颗粒感。
+
+[English]
+A vintage-style photograph of a young East Asian woman standing in front of a traditional Japanese temple. She has dark hair styled in two braids and is wearing a long-sleeved, knee-length dress in a muted maroon color with floral patterned collar and cuffs. She holds a small brown leather handbag in front of her with both hands. The background features a gravel courtyard, stone steps leading up to the wooden temple structure with red accents, lush green trees, and a palm-like plant on the left. The image has a soft focus, slightly faded colors, and film grain typical of retro photography from the Showa era.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2121190184129876253) | 2026-11-13
+
+---
+

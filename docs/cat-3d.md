@@ -9897,3 +9897,21 @@ Create an ultra-detailed photorealistic scene of a young woman seemingly emergin
 
 ---
 
+### 🧸 例 8383：基于参考图生成的时尚小鸭肖像
+
+![基于参考图生成的时尚小鸭肖像](../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%94%9F%E6%88%90%E7%9A%84%E6%97%B6%E5%B0%9A%E5%B0%8F%E9%B8%AD%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请根据附带的图片，创作一幅精美的小鸭子肖像，采用细节丰富、风格古灵精怪的 3D 画风。小鸭子自信地站在时尚的家居环境中，保持着与图片中相同的姿势，露出温柔的微笑。
+
+[English]
+Create a beautiful duckling chick portrait based on the attached image, in a very detailed and quirky 3D style. The duckling stands confidently in a stylish home environment, smiling gently in the same pose as in the image.
+```
+
+**来源：** [@ゆきと](https://x.com/bakupso2/status/2121271796511195595) | 2026-11-13
+
+---
+

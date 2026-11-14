@@ -22657,3 +22657,21 @@ Sophisticated, feminine, timeless seasonal styling.
 
 ---
 
+### 🎨 例 8384：女子洗车
+
+![女子洗车](../images/%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实的高分辨率照片，画面中一位留着黑色短发的年轻女子正在车道上清洗一辆旧车。她身穿白色背心和棕色格纹裙，正弯腰用海绵擦洗车身侧面。场景设定在阳光明媚的户外，旁边放着一桶肥皂水。整幅画面带有复古美感，令人联想到日本昭和时代的风情。
+
+[English]
+A realistic, high-resolution photograph of a young woman with short black hair washing an old car in a driveway. She is wearing a white tank top and a brown plaid skirt, bending over to scrub the side of the vehicle with a sponge. The scene is set outdoors on a sunny day, with a bucket of soapy water nearby. The image has a vintage aesthetic, reminiscent of Showa-era Japan.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2121210809158426716) | 2026-11-13
+
+---
+
