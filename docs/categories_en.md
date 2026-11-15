@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (621)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (622)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -1235,6 +1235,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 8261: 战锤 40K 星际战士站立姿态](cat-ui.md#️-例-8261战锤-40k-星际战士站立姿态)
 
 - [Case 8288: 中世纪 MMORPG 库存 UI 截图](cat-ui.md#️-例-8288中世纪-mmorpg-库存-ui-截图)
+
+- [Case 8388: 动漫少女鹿纹披风秋日穿搭](cat-ui.md#️-例-8388动漫少女鹿纹披风秋日穿搭)
 ---
 
 <a id="chart"></a>
@@ -3685,7 +3687,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3101)
+## 📷 [Photography & Realistic](cat-photo.md) (3102)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9821,6 +9823,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8382: 大都会警察重型机器人](cat-photo.md#-例-8382大都会警察重型机器人)
 
 - [Case 8385: 复古照片：日本寺庙中的女性](cat-photo.md#-例-8385复古照片日本寺庙中的女性)
+
+- [Case 8387: 瓦迪拉姆沙漠旅行人像](cat-photo.md#-例-8387瓦迪拉姆沙漠旅行人像)
 ---
 
 <a id="illustration"></a>
@@ -13257,7 +13261,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (263)
+## 🏛️ [Architecture & Space](cat-architecture.md) (264)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -13775,6 +13779,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 8291: 水彩风家居内饰改造](cat-architecture.md#️-例-8291水彩风家居内饰改造)
 
 - [Case 8349: 昭和复古粉色厨房人像](cat-architecture.md#️-例-8349昭和复古粉色厨房人像)
+
+- [Case 8386: GPT Image 2 极简美学提示词](cat-architecture.md#️-例-8386gpt-image-2-极简美学提示词)
 ---
 
 <a id="comic"></a>

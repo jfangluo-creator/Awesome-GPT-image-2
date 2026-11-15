@@ -75831,3 +75831,21 @@ A vintage-style photograph of a young East Asian woman standing in front of a tr
 
 ---
 
+### 📷 例 8387：瓦迪拉姆沙漠旅行人像
+
+![瓦迪拉姆沙漠旅行人像](../images/%E7%93%A6%E8%BF%AA%E6%8B%89%E5%A7%86%E6%B2%99%E6%BC%A0%E6%97%85%E8%A1%8C%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张惊艳的超写实全身旅行人像，一位美丽的年轻女子在日落时分伫立于约旦瓦迪拉姆（Wadi Rum）的金色沙漠中。她身穿时尚的米色宽松纽扣衬衫、白色修身背心与米色工装裤，脚踩干净的白色运动鞋，肩上斜挎着一只小巧的奶油色单肩包。一头深棕色秀发挽成随性优雅的发髻，几缕柔和的碎刘海轻拂脸庞。她一手轻抚发丝，另一手随意插在口袋里。背景中有一头骆驼静立，周围点缀着传统的贝都因装饰、散发暖光的提灯与波斯地毯，远处是气势磅礴的砂岩山脉。温暖的黄金时刻阳光，自然真实的皮肤纹理，逼真的面部细节，柔和的电影感光影，奢华旅行摄影，时尚杂志大片风格，85mm 镜头，浅景深，超精细画质，4K，自然色彩，9:16 竖版构图。无文字，无水印，无 logo。
+
+[English]
+A stunning photorealistic full-body travel portrait of a beautiful young woman standing in the golden desert of Wadi Rum, Jordan, during sunset. She wears a stylish beige oversized button-up shirt, white fitted tank top, beige cargo pants, and clean white sneakers. A small cream shoulder bag hangs from her shoulder. Her brunette hair is styled in a messy elegant bun with soft face-framing bangs. One hand gently touches her hair while the other rests casually in her pocket. A camel stands in the background, with traditional Bedouin decorations, glowing lanterns, Persian rugs, and dramatic sandstone mountains. Warm golden-hour sunlight, natural skin texture, realistic facial features, soft cinematic shadows, luxury travel photography, editorial fashion photography, 85mm lens, shallow depth of field, ultra-detailed, 4K, natural colors, vertical 9:16 composition. No text, no watermark, no logo.
+```
+
+**来源：** [@Rubi](https://x.com/AIwithRubii/status/2121522846048678162) | 2026-11-14
+
+---
+

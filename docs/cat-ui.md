@@ -17417,3 +17417,21 @@ Text content: Preserve Spanish labels exactly as seen: "BAÚL", "INVENTARIO", "O
 
 ---
 
+### 🖥️ 例 8388：动漫少女鹿纹披风秋日穿搭
+
+![动漫少女鹿纹披风秋日穿搭](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%B9%BF%E7%BA%B9%E6%8A%AB%E9%A3%8E%E7%A7%8B%E6%97%A5%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅全身动漫风格插画，描绘了一位开朗的年轻女子站在铺满黄色银杏落叶的小径上。她拥有一头飘逸的金色长发，扎成双马尾，还长着尖尖的精灵耳。透过红色圆框眼镜，可以看到她明亮的绿色双眼，正开心地张嘴笑着。她身穿一件独特的棕色连帽斗篷，上面布满白色斑点图案（形似鹿皮花纹），兜帽上带有动物耳朵装饰，颈部系着一个大大的粉色蝴蝶结。斗篷里面搭配着一条棕色格纹短裙。腿上穿着宽松的棕色及膝长靴，内搭白色罗纹袜。背景是蓝天下成排的明艳黄叶银杏树，几片落叶在空中轻盈飘舞。
+
+[English]
+A full-body anime-style illustration of a cheerful young woman standing on a path covered in fallen yellow ginkgo leaves. She has long, flowing blonde hair tied into twin tails and pointed elf ears. Her eyes are bright green behind round red-rimmed glasses, and she is smiling happily with her mouth open. She wears a distinctive brown hooded cape patterned with white spots (resembling deer fur), featuring animal ears on the hood and a large pink ribbon bow at the neck. Underneath the cape, she wears a brown plaid skirt. On her legs, she wears slouchy brown knee-high boots over white ribbed socks. The background shows rows of vibrant yellow ginkgo trees under a blue sky, with loose leaves floating in the air.
+```
+
+**来源：** [@Toudaiji](https://x.com/ISoBZrpOBM85706/status/2121422631304126591) | 2026-11-14
+
+---
+
