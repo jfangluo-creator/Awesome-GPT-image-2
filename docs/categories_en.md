@@ -1485,7 +1485,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1117)
+## 🎴 [Posters & Cards](cat-poster.md) (1118)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3683,6 +3683,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8380: 极简白色家电海报提示词](cat-poster.md#-例-8380极简白色家电海报提示词)
 
 - [Case 8381: 高端艺术旅行海报提示词](cat-poster.md#-例-8381高端艺术旅行海报提示词)
+
+- [Case 8390: 动漫家庭晚餐海报](cat-poster.md#-例-8390动漫家庭晚餐海报)
 ---
 
 <a id="photo"></a>
@@ -13785,7 +13787,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (290)
+## 🎬 [Comics & Storyboards](cat-comic.md) (291)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14349,6 +14351,8 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8362: 复古圣诞绘本插画提示词](cat-comic.md#-例-8362复古圣诞绘本插画提示词)
 
 - [Case 8372: GPT Image 2 蜡笔粉彩插画](cat-comic.md#-例-8372gpt-image-2-蜡笔粉彩插画)
+
+- [Case 8389: 海边电话亭漫画页面](cat-comic.md#-例-8389海边电话亭漫画页面)
 ---
 
 <a id="brand"></a>
