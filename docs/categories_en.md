@@ -13787,7 +13787,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (291)
+## 🎬 [Comics & Storyboards](cat-comic.md) (292)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -14353,11 +14353,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 8372: GPT Image 2 蜡笔粉彩插画](cat-comic.md#-例-8372gpt-image-2-蜡笔粉彩插画)
 
 - [Case 8389: 海边电话亭漫画页面](cat-comic.md#-例-8389海边电话亭漫画页面)
+
+- [Case 8391: 复古漫画：屋顶上的男孩与杯子人](cat-comic.md#-例-8391复古漫画屋顶上的男孩与杯子人)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (925)
+## 🏷️ [Brand & Packaging](cat-brand.md) (926)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16202,6 +16204,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8365: 复古绘本插画风格转换](cat-brand.md#️-例-8365复古绘本插画风格转换)
 
 - [Case 8376: 哈兰德动漫风格对决](cat-brand.md#️-例-8376哈兰德动漫风格对决)
+
+- [Case 8392: GPT Image 2 冬季剪贴簿拼贴人像提示词](cat-brand.md#️-例-8392gpt-image-2-冬季剪贴簿拼贴人像提示词)
 ---
 
 <a id="edit"></a>

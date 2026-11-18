@@ -22828,3 +22828,33 @@ A dramatic anime-style illustration of Erling Haaland in a Manchester City jerse
 
 ---
 
+### 🏷️ 例 8392：GPT Image 2 冬季剪贴簿拼贴人像提示词
+
+![GPT Image 2 冬季剪贴簿拼贴人像提示词](../images/GPT%20Image%202%20%E5%86%AC%E5%AD%A3%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的全身冬季剪贴簿拼贴肖像，人物与参考图中的年轻女性角色保持一致。请保留她的标志性发型——齐下巴的柔顺紫罗兰色直发波波头搭配轻盈刘海，以及白皙如瓷的肌肤、鼻梁与双颊上自然的雀斑、浅褐色杏仁眼、精致的五官、水润光泽的双唇和纤细的身材。
+
+她侧身坐在一个纸箱上，姿态慵懒惬意。左手拿着一杯 topped 着鲜奶油的粉色草莓冰波霸奶茶，右臂则抱着一只可爱的笑脸草莓毛绒玩偶。她身穿一件温暖的米白色针织高领毛衣，外搭一件宽松的浅色水洗牛仔外套，外套上点缀着色彩缤纷的花朵、格纹、波点与草莓图案的拼布装饰。同风格的宽腿拼布牛仔裤搭配厚底白色增高运动鞋，完美呈现出一套温暖舒适的冬季街头穿搭。
+
+纸箱上手写着带有心形图案的“{argument name="box text" default="FRAGILE"}”字样。背景由揉皱的蓝色剪贴簿纸张构成，上面装饰着撕下的笔记本纸页、手写字样“{argument name="background words" default="Winter", "Slow", "dream", and "Sweet"}”、红色格纹和纸胶带、回形针、草莓贴纸、白色雪花涂鸦，以及一个戴着红色针织帽和围巾的可爱雪人。画面中还需加入手写留言“{argument name="message" default="Stay Cozy"}”。
+
+采用柔和漫射的冬季影棚光线，冷调粉彩蓝配色，融入温馨治愈的细节；呈现逼真的皮肤质感、根根分明的紫色发丝与针织面料纹理；具备电影级景深与细腻阴影，达到照片级真实画质与超精细 8K 分辨率。整体风格为高端冬季 Cottagecore Y2K 剪贴簿时尚大片。
+
+[English]
+Create a hyper-realistic full-body winter scrapbook collage portrait of the same young adult female character from the reference image, preserving her signature vivid violet-purple chin-length straight bob with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, delicate facial features, glossy lips, and slim physique.
+
+She is seated sideways on a cardboard box with a relaxed, cozy posture, holding a pink iced strawberry boba drink topped with whipped cream in her left hand while cuddling a cute smiling strawberry plushie with her right arm. She wears a warm cream knitted turtleneck sweater underneath an oversized light-wash denim jacket decorated with colorful floral, gingham, polka-dot, and strawberry patchwork. Matching wide-leg patchwork denim jeans and chunky white platform sneakers complete her cozy winter streetwear look.
+
+The cardboard box features handwritten "{argument name="box text" default="FRAGILE"}" text with a heart. The background is made of crumpled blue scrapbook paper decorated with torn notebook pages, handwritten words "{argument name="background words" default="Winter", "Slow", "dream", and "Sweet"}", red gingham washi tape, paperclips, strawberry stickers, white snowflake doodles, and a cute snowman wearing a red knitted hat and scarf. Add a handwritten "{argument name="message" default="Stay Cozy"}" message.
+
+Use soft diffused winter studio lighting, cool pastel blue tones, warm cozy details, realistic skin texture, detailed purple hair strands, knitted fabric textures, cinematic depth, subtle shadows, photorealistic quality, ultra-detailed 8K, premium winter cottagecore Y2K scrapbook fashion editorial.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2122551075098284096) | 2026-11-17
+
+---
+

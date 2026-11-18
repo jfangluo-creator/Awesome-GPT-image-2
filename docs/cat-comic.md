@@ -10639,3 +10639,41 @@ Visual Style: Use distinct halftone dot patterns for shadows and sky textures. T
 
 ---
 
+### 🎬 例 8391：复古漫画：屋顶上的男孩与杯子人
+
+![复古漫画：屋顶上的男孩与杯子人](../images/%E5%A4%8D%E5%8F%A4%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B1%8B%E9%A1%B6%E4%B8%8A%E7%9A%84%E7%94%B7%E5%AD%A9%E4%B8%8E%E6%9D%AF%E5%AD%90%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一幅纵向多格漫画风格的连环画，采用复古手绘美学。画风需具备粗黑轮廓线、柔和低饱和色调（青绿色天空、赤陶色屋顶、奶油色背景），以及圆点眼睛的简约角色设计。
+
+**布局：**
+- **第 1 格（左上）：** 一个男孩站在屋顶上，仰望延伸至天空的梯子。竖排日文文本："どこかに 行ける気がした"。
+- **第 2 格（右上）：** 男孩与一只黑猫并肩坐在屋顶上，注视着一条在云层中游动的大白鱼。竖排日文文本："屋根の上で 魚が泳いでいた"。
+- **第 3 格（中左）：** 红色瓦片屋顶的特写，上面有一个黑洞。两双白色的小眼睛从洞内的黑暗中向外窥视。竖排日文文本："中から 誰かが見ていた"。
+- **第 4 格（中右）：** 男孩坐在洞口旁，手持鱼竿，钓线垂入洞中。旁边放着一个水桶。竖排日文文本："釣り糸を垂らすと 穴が開いた"。
+- **第 5 格（底部左侧 - 上方）：** 一个角色从洞中探出身子。这个角色以白色咖啡杯为头，杯口冒着热气，身体是黑色的。男孩一脸惊讶。竖排日文文本："君もここに 住むといいよ"。
+- **第 6 格（底部右侧 - 上方）：** 杯子头角色和男孩面对面坐在屋顶上。竖排日文文本："出てきたのは カップの人だった"。
+- **第 7 格（底部左侧 - 下方）：** 两个角色仰躺在屋瓦上，悠闲放松。背景中的烟囱上停着一只鸟。竖排日文文本："そうして二人は 星になるまで 何も しなかった"。
+- **第 8 格（底部右侧 - 下方）：** 夜景。深蓝/漆黑的天空中点缀着繁星和一弯新月。杯子头角色和男孩并肩而坐，仰望夜空。竖排日文文本："屋根の上は 夜になると 宇宙になる"。
+
+[English]
+Generate a vertical, multi-panel manga-style comic strip in a retro, hand-drawn aesthetic. The art style should feature thick black outlines, muted colors (teal sky, terracotta roof, cream background), and simple character designs with dot eyes.
+
+**Layout:**
+- **Panel 1 (Top Left):** A boy stands on a rooftop looking up at a ladder extending into the sky. Vertical Japanese text: "どこかに 行ける気がした".
+- **Panel 2 (Top Right):** The boy sits on the roof next to a black cat, watching a large white fish swimming through the clouds. Vertical Japanese text: "屋根の上で 魚が泳いでいた".
+- **Panel 3 (Middle Left):** A view of the red tiled roof with a dark hole in it. Two small white eyes peek out from the darkness inside the hole. Vertical Japanese text: "中から 誰かが見ていた".
+- **Panel 4 (Middle Right):** The boy is sitting by the hole, holding a fishing rod with the line going down into the hole. A bucket sits nearby. Vertical Japanese text: "釣り糸を垂らすと 穴が開いた".
+- **Panel 5 (Bottom Left - Upper):** A character emerges from the hole. This character has a white coffee cup for a head with steam rising from it, wearing a black body. The boy looks surprised. Vertical Japanese text: "君もここに 住むといいよ".
+- **Panel 6 (Bottom Right - Upper):** The Cup-head character and the boy sit facing each other on the roof. Vertical Japanese text: "出てきたのは カップの人だった".
+- **Panel 7 (Bottom Left - Lower):** The two characters lie back on the roof tiles, relaxing. A bird sits on the chimney in the background. Vertical Japanese text: "そうして二人は 星になるまで 何も しなかった".
+- **Panel 8 (Bottom Right - Lower):** Night scene. Dark blue/black sky with stars and a crescent moon. The Cup-head character and the boy sit side-by-side looking at the night sky. Vertical Japanese text: "屋根の上は 夜になると 宇宙になる".
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2122561347292647754) | 2026-11-17
+
+---
+
