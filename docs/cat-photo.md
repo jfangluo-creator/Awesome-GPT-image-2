@@ -75849,3 +75849,69 @@ A stunning photorealistic full-body travel portrait of a beautiful young woman s
 
 ---
 
+### 📷 例 8393：海滨时尚人像提示词
+
+![海滨时尚人像提示词](../images/%E6%B5%B7%E6%BB%A8%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实全身时尚人像，一位美丽的年轻女子优雅地伫立在岩石嶙峋的海边。她拥有一头浓密蓬松、自然微卷的深棕色长发，笑容温柔迷人，五官精致，肌肤自然透亮。她身穿一件宽松的淡粉色针织毛衣，领口、袖口与下摆处点缀着白色条纹细节，搭配多口袋设计的宽松白色工装裤和白色运动鞋。一只手轻抚发丝，另一只手随意插在口袋里。身后是壮丽的崎岖海岸岩层，四周环绕着清澈见底的蓝绿色海水、轻柔的波浪与柔和的蓝天。唯美的自然光线，清新的海滨氛围，逼真的面料质感，优雅休闲的造型风格，专业时尚摄影，DSLR 画质，照片级真实细节，自然色彩，全身构图，8K 分辨率。精准保留参考面部特征与人物身份。
+
+[English]
+Ultra-realistic full-body fashion portrait of a beautiful young adult woman standing gracefully on a rocky seaside shore. She has long, voluminous, naturally wavy dark brown hair, a soft charming smile, delicate facial features, and natural glowing skin. She is wearing an oversized pastel pink knitted sweater with white striped detailing around the neckline, cuffs, and hem, paired with loose-fit white cargo trousers featuring multiple pockets and white sneakers. One hand gently touches her hair while the other rests casually in her pocket. Behind her is a magnificent rugged coastal rock formation surrounded by crystal-clear turquoise ocean water, gentle waves, and a soft blue sky. Beautiful natural daylight, fresh coastal atmosphere, realistic fabric textures, elegant casual styling, professional fashion photography, DSLR quality, photorealistic details, natural colors, full-body composition, 8K resolution. Preserve the reference face and facial identity accurately.
+```
+
+**来源：** [@Rubi](https://x.com/AIwithRubii/status/2122950449246715945) | 2026-11-18
+
+---
+
+### 📷 例 8394：GPT Image 2 夜间自拍提示词
+
+![GPT Image 2 夜间自拍提示词](../images/GPT%20Image%202%20%E5%A4%9C%E9%97%B4%E8%87%AA%E6%8B%8D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+超现实的智能手机自拍，使用手机在夜晚拍摄，看起来像是真正用 iPhone/手机相机捕捉到的，而不是单反相机。一位美丽的年轻东亚女性，保留参考图人物的五官，长长的略显凌乱的深棕色头发在微风中自然飘逸，白皙的瓷器般肌肤，大而富有表现力的棕色眼睛，柔和的自然妆容，淡淡的腮红，以及光泽的粉色嘴唇做出可爱的鸭子脸表情。穿着合身的灰色细肩带吊带背心，一手随意拿着智能手机，同时走在夜晚安静的林荫城市人行道上。温暖的街灯以柔和的阴影照亮她的脸庞，背景中有停放的汽车、绿树和空荡荡的道路。轻微的手持式运动模糊，自然的手机 HDR，逼真的皮肤纹理，真实的发丝，轻微的数字噪点，前置摄像头视角，即兴生活美学，随意的深夜散步，Instagram 风格的自拍，高细节，照片级真实，明显看起来像未经编辑的手机照片，而不是 AI 或工作室摄影。
+```
+
+**来源：** [@我叫聂磊](https://x.com/zhy2024806/status/2122887530052022398) | 2026-11-18
+
+---
+
+### 📷 例 8395：GPT Image 2 时尚人像提示词
+
+![GPT Image 2 时尚人像提示词](../images/GPT%20Image%202%20%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的高端时尚人像：一位美丽的年轻女子从白色纸墙上一个巨大的不规则撕裂破洞中探出身来，对着镜头露出温暖的笑容。她拥有一头浓密的深棕色长卷发，发丝自然微卷并带有低调的焦糖色挑染，前额头发中分；面部轮廓柔和，一双榛棕色的眼睛灵动传神，妆容呈现自然的玫瑰色调，笑容明媚动人。
+
+她身穿一件修身的象牙白罗纹针织开衫，方领设计搭配精致纽扣，腰间系着一条配有优雅金色蝴蝶扣的黑色腰带。佩戴小巧的珍珠耳坠和精致的蝴蝶吊坠项链，斜挎一只带金色链条肩带的时尚黑色单肩包。发间系着一个硕大的黑色蝴蝶结缎带。
+
+她的双手轻轻扶着撕裂的纸张边缘，营造出极具创意的 3D 立体跃出效果。撕开的白纸呈现出逼真的纤维质感、自然的褶皱与柔和的阴影，透过破口可以看到温暖的浅灰色背景。
+
+摄影风格：奢华时尚大片，照片级真实皮肤纹理，根根分明的发丝细节，逼真的面料质感，柔和的影棚布光，自然的面部比例，优雅的构图，焦点锐利，专业单反摄影，85mm 人像镜头，高级调色，超高细节，4:5 竖版构图。
+
+反向提示词：卡通、动漫、CGI、塑料感皮肤、面部模糊、手部变形、多余手指、多余肢体、人物重复、不自然的笑容、双眼不对称、不真实的头发、人体结构错误、低分辨率、文字、水印。
+
+[English]
+Create an ultra-realistic, high-end fashion portrait of a beautiful young woman smiling warmly at the camera, emerging through a large, irregularly torn opening in a white paper wall. She has long, voluminous, naturally wavy dark-brown hair with subtle caramel highlights, center-parted front strands, soft facial features, expressive hazel-brown eyes, natural rosy makeup, and a bright, charming smile.
+
+She is wearing a fitted ivory-white ribbed knit cardigan with a square neckline and delicate buttons, paired with a black belt featuring an elegant gold butterfly buckle. Add small pearl drop earrings, a delicate butterfly pendant necklace, and a stylish black shoulder bag with a gold chain strap. A large black ribbon is tied into her hair.
+
+Her hands gently hold the torn paper edges, creating a creative 3D pop-out effect. The ripped white paper has realistic fibers, natural folds, and soft shadows, with a warm light-gray background visible through the opening.
+
+Photography style: luxury fashion editorial, photorealistic skin texture, detailed hair strands, realistic fabric texture, soft studio lighting, natural facial proportions, elegant composition, sharp focus, professional DSLR photography, 85mm portrait lens, premium color grading, high detail, 4:5 vertical composition.
+
+Negative prompt: cartoon, anime, CGI, plastic skin, blurry face, distorted hands, extra fingers, extra limbs, duplicate person, unnatural smile, asymmetrical eyes, unrealistic hair, bad anatomy, low resolution, text, watermark.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2122886883994746946) | 2026-11-18
+
+---
+

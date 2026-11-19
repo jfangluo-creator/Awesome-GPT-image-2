@@ -3689,7 +3689,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3102)
+## 📷 [Photography & Realistic](cat-photo.md) (3105)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9827,6 +9827,12 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8385: 复古照片：日本寺庙中的女性](cat-photo.md#-例-8385复古照片日本寺庙中的女性)
 
 - [Case 8387: 瓦迪拉姆沙漠旅行人像](cat-photo.md#-例-8387瓦迪拉姆沙漠旅行人像)
+
+- [Case 8393: 海滨时尚人像提示词](cat-photo.md#-例-8393海滨时尚人像提示词)
+
+- [Case 8394: GPT Image 2 夜间自拍提示词](cat-photo.md#-例-8394gpt-image-2-夜间自拍提示词)
+
+- [Case 8395: GPT Image 2 时尚人像提示词](cat-photo.md#-例-8395gpt-image-2-时尚人像提示词)
 ---
 
 <a id="illustration"></a>
