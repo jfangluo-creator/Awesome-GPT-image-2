@@ -14365,7 +14365,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (926)
+## 🏷️ [Brand & Packaging](cat-brand.md) (927)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -16212,6 +16212,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 8376: 哈兰德动漫风格对决](cat-brand.md#️-例-8376哈兰德动漫风格对决)
 
 - [Case 8392: GPT Image 2 冬季剪贴簿拼贴人像提示词](cat-brand.md#️-例-8392gpt-image-2-冬季剪贴簿拼贴人像提示词)
+
+- [Case 8396: GTA VI 风格加载界面海报提示词](cat-brand.md#️-例-8396gta-vi-风格加载界面海报提示词)
 ---
 
 <a id="edit"></a>
