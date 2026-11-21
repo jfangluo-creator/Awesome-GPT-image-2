@@ -9833,6 +9833,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8394：GPT Image 2 夜间自拍提示词](cat-photo.md#-例-8394gpt-image-2-夜间自拍提示词)
 
 - [例 8395：GPT Image 2 时尚人像提示词](cat-photo.md#-例-8395gpt-image-2-时尚人像提示词)
+
+- [例 8397：昭和复古花卉连衣裙人像](cat-photo.md#-例-8397昭和复古花卉连衣裙人像)
 ---
 
 <a id="illustration"></a>

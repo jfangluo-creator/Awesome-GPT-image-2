@@ -75915,3 +75915,21 @@ Negative prompt: cartoon, anime, CGI, plastic skin, blurry face, distorted hands
 
 ---
 
+### 📷 例 8397：昭和复古花卉连衣裙人像
+
+![昭和复古花卉连衣裙人像](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E8%8A%B1%E5%8D%89%E8%BF%9E%E8%A1%A3%E8%A3%99%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级逼真的年轻女性肖像，散发着温柔怀旧的昭和时代美学气息。她留着一头深色秀发，松松地编成一条侧边麻花辫；身穿一袭复古风奶油色中长连衣裙，裙上点缀着精致的紫色碎花图案，短袖设计搭配彼得潘领与纽扣门襟。她伫立在一座葱郁的日式庭院中，抬手轻触头顶青枫的枝叶。光线柔和斑驳，为画面覆上一层温暖的胶片颗粒感，仿佛将人带回 20 世纪 70 年代的复古时光。
+
+[English]
+A photorealistic portrait of a young woman with a gentle, nostalgic Showa-era aesthetic. She has dark hair styled in a single loose side braid and wears a vintage-inspired cream-colored midi dress featuring a delicate purple floral print, short sleeves, a Peter Pan collar, and a button-down bodice. She stands in a lush Japanese garden, reaching up to lightly touch the branches of a green maple tree overhead. The lighting is soft and dappled, creating a warm, film-like grain that evokes a retro 1970s atmosphere.
+```
+
+**来源：** [@いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ/status/2123734795746484634) | 2026-11-20
+
+---
+
