@@ -9835,6 +9835,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 8395：GPT Image 2 时尚人像提示词](cat-photo.md#-例-8395gpt-image-2-时尚人像提示词)
 
 - [例 8397：昭和复古花卉连衣裙人像](cat-photo.md#-例-8397昭和复古花卉连衣裙人像)
+
+- [例 8398：GPT Image 2 红色开衫写实人像提示词](cat-photo.md#-例-8398gpt-image-2-红色开衫写实人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -12496,6 +12498,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 8299：动漫角色设定图：哭泣的女孩](cat-character.md#-例-8299动漫角色设定图哭泣的女孩)
 
 - [例 8379：拟人化狼角色参考表](cat-character.md#-例-8379拟人化狼角色参考表)
+
+- [例 8399：宝蓝色毛衣女性肖像提示词](cat-character.md#-例-8399宝蓝色毛衣女性肖像提示词)
 ---
 
 <a id="3d"></a>

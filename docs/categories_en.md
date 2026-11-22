@@ -3689,7 +3689,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (3106)
+## 📷 [Photography & Realistic](cat-photo.md) (3107)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -9835,6 +9835,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 8395: GPT Image 2 时尚人像提示词](cat-photo.md#-例-8395gpt-image-2-时尚人像提示词)
 
 - [Case 8397: 昭和复古花卉连衣裙人像](cat-photo.md#-例-8397昭和复古花卉连衣裙人像)
+
+- [Case 8398: GPT Image 2 红色开衫写实人像提示词](cat-photo.md#-例-8398gpt-image-2-红色开衫写实人像提示词)
 ---
 
 <a id="illustration"></a>
@@ -11991,7 +11993,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (258)
+## 🧍 [Character Design](cat-character.md) (259)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -12493,6 +12495,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 8299: 动漫角色设定图：哭泣的女孩](cat-character.md#-例-8299动漫角色设定图哭泣的女孩)
 
 - [Case 8379: 拟人化狼角色参考表](cat-character.md#-例-8379拟人化狼角色参考表)
+
+- [Case 8399: 宝蓝色毛衣女性肖像提示词](cat-character.md#-例-8399宝蓝色毛衣女性肖像提示词)
 ---
 
 <a id="3d"></a>

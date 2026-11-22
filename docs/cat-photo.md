@@ -75933,3 +75933,21 @@ A photorealistic portrait of a young woman with a gentle, nostalgic Showa-era ae
 
 ---
 
+### 📷 例 8398：GPT Image 2 红色开衫写实人像提示词
+
+![GPT Image 2 红色开衫写实人像提示词](../images/GPT%20Image%202%20%E7%BA%A2%E8%89%B2%E5%BC%80%E8%A1%AB%E5%86%99%E5%AE%9E%E4%BA%BA%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张照片级写实的电影感人像，画面中一位美丽的年轻女子站在户外，身后是茂密翠绿的树篱。她留着中分的深棕色直发，长度及肩，妆容自然，神情柔和而自信。她身穿一件亮红色开衫，内搭修身的白色细黑竖条纹无袖连体裤。双臂轻轻交叉，姿态放松而优雅。她微微侧目，嘴角带着一抹浅笑。柔和的自然日光，逼真的皮肤质感，细腻的面料纹理，专业时尚摄影风格，浅景深，背景绿叶虚化唯美，DSLR 画质，4K 分辨率。保留自然的身体比例与真实的面部细节。
+
+[English]
+A photorealistic cinematic portrait of a beautiful young woman standing outdoors in front of a lush, dense green hedge. She has straight, shoulder-length dark brown hair with a center part, natural makeup, and a soft, confident expression. She is wearing a bright red cardigan over a fitted white sleeveless jumpsuit with thin vertical black stripes. Her arms are gently crossed, creating a relaxed and elegant pose. She looks slightly to the side with a subtle smile. Soft natural daylight, realistic skin texture, detailed fabric, professional fashion photography, shallow depth of field, beautifully blurred green foliage, DSLR quality, 4K resolution. Preserve natural body proportions and realistic facial details.
+```
+
+**来源：** [@Rubi](https://x.com/AIwithRubii/status/2124136460114956664) | 2026-11-21
+
+---
+
