@@ -1485,7 +1485,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (1118)
+## 🎴 [Posters & Cards](cat-poster.md) (1119)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -3685,6 +3685,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 8381: 高端艺术旅行海报提示词](cat-poster.md#-例-8381高端艺术旅行海报提示词)
 
 - [Case 8390: 动漫家庭晚餐海报](cat-poster.md#-例-8390动漫家庭晚餐海报)
+
+- [Case 8400: 复古编辑海报：照片转极简插画](cat-poster.md#-例-8400复古编辑海报照片转极简插画)
 ---
 
 <a id="photo"></a>
